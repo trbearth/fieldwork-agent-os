@@ -1,0 +1,57 @@
+{
+  "name": "fieldwork-desktop",
+  "version": "0.1.0",
+  "description": "Fieldwork local agent operations desktop app",
+  "author": "Fieldwork contributors",
+  "private": true,
+  "type": "module",
+  "main": "main.mjs",
+  "build": {
+    "appId": "app.fieldwork.agentos",
+    "productName": "Fieldwork",
+    "electronVersion": "43.2.0",
+    "asar": true,
+    "directories": {
+      "output": "../dist-desktop"
+    },
+    "files": [
+      "main.mjs",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../dist",
+        "to": "app/dist"
+      },
+      {
+        "from": "../agent",
+        "to": "app/agent"
+      },
+      {
+        "from": "../agents",
+        "to": "app/agents"
+      },
+      {
+        "from": "../config",
+        "to": "app/config"
+      },
+      {
+        "from": "../data",
+        "to": "app/data"
+      },
+      {
+        "from": "../public/exports",
+        "to": "app/public/exports"
+      },
+      {
+        "from": "../.env.example",
+        "to": "app/.env.example"
+      }
+    ],
+    "mac": {
+      "icon": "Fieldwork.icns",
+      "category": "public.app-category.productivity",
+      "target": "dir"
+    }
+  }
+}

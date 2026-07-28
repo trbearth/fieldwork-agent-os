@@ -1,0 +1,38 @@
+{
+  "signals": [
+    {
+      "id": "narrow-technical-footwear",
+      "name": "Narrow technical footwear",
+      "terms": ["low-profile", "low profile", "slim sneaker", "technical sneaker", "trail shoe", "ballet sneaker", "motorsport shoe"]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "terms": ["technical outerwear", "performance fabric", "waterproof", "windproof", "packable", "utility jacket", "hidden pocket"]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "terms": ["archive sportswear", "retro sportswear", "track jacket", "football shirt", "soccer jersey", "terrace", "motorsport"]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "terms": ["embellished", "hardware", "brooch", "charm", "appliqué", "decorated", "customized", "personalized"]
+    },
+    {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "terms": ["washed blazer", "soft tailoring", "unstructured blazer", "relaxed tailoring", "rumpled", "lived-in tailoring"]
+    },
+    {
+      "id": "oversized-uniform",
+      "name": "Generic oversized uniform",
+      "terms": ["oversized hoodie", "baggy cargo", "boxy tee", "oversized uniform", "head-to-toe oversized"]
+    }
+  ],
+  "youthTerms": [
+    "affordable", "resale", "vintage", "sneaker", "streetwear", "creator", "tiktok",
+    "college", "under $", "jersey", "football", "custom", "diy", "thrift", "drop"
+  ]
+}

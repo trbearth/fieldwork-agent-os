@@ -1,0 +1,40 @@
+{
+  "userAgent": "FieldworkAgentOS/0.1 (+https://github.com/your-name/fieldwork-agent-os; contact: replace-me@example.com)",
+  "requestDelayMs": 1200,
+  "maxItemsPerSource": 30,
+  "sources": [
+    {
+      "id": "vogue",
+      "name": "Vogue",
+      "type": "rss",
+      "url": "https://www.vogue.com/feed/rss",
+      "weight": 0.8,
+      "enabled": true
+    },
+    {
+      "id": "highsnobiety",
+      "name": "Highsnobiety",
+      "type": "rss",
+      "url": "https://www.highsnobiety.com/feed/",
+      "weight": 0.9,
+      "enabled": true
+    },
+    {
+      "id": "hypebeast",
+      "name": "Hypebeast",
+      "type": "rss",
+      "url": "https://hypebeast.com/feed",
+      "weight": 0.85,
+      "enabled": true
+    },
+    {
+      "id": "google-trends-us",
+      "name": "Google Trends US",
+      "type": "rss",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "weight": 0.65,
+      "enabled": false,
+      "notes": "Optional broad-demand check. Disabled because most daily searches are not fashion-related."
+    }
+  ]
+}

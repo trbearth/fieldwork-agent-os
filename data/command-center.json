@@ -1,0 +1,87 @@
+{
+  "node": "LOCAL-01",
+  "date": "27 JUL 2026",
+  "activeCount": 3,
+  "systemScore": 86,
+  "briefing": "Two agents completed the example morning sweep. Signal Monitor found a strong move toward quiet performance clothing; Public Pulse confirmed younger conversation clustering around slimmer technical footwear and customized basics.",
+  "recommendedAction": "Build a 12-piece test board around ordinary-looking city clothes with concealed performance and one personalized object.",
+  "agents": [
+    {
+      "id": "fashion-intelligence",
+      "name": "Signal Monitor",
+      "kind": "fashion",
+      "status": "active",
+      "mission": "Track configured sources and surface recurring signals before they become obvious.",
+      "schedule": "Daily · 08:00 ET",
+      "lastRun": "Today · 08:03",
+      "sources": "3 publisher feeds",
+      "reports": "28 retained",
+      "currentTask": "Classifying 84 observations",
+      "progress": 100
+    },
+    {
+      "id": "social-pulse",
+      "name": "Public Pulse",
+      "kind": "social",
+      "status": "active",
+      "mission": "Measure public conversation across permissioned social APIs.",
+      "schedule": "Daily · 08:15 ET",
+      "lastRun": "Today · 08:17",
+      "sources": "1 public · 2 optional",
+      "reports": "12 retained",
+      "currentTask": "Watching 18 search clusters",
+      "progress": 100
+    },
+    {
+      "id": "batch-scout",
+      "name": "Synthesis Scout",
+      "kind": "batch",
+      "status": "active",
+      "mission": "Turn validated signals into a narrow, human-reviewable experiment.",
+      "schedule": "Manual",
+      "lastRun": "Yesterday · 17:42",
+      "sources": "Agent reports",
+      "reports": "7 retained",
+      "currentTask": "Ready to shape the next batch",
+      "progress": 100
+    }
+  ],
+  "reports": [
+    {
+      "id": "fashion-2026-07-27",
+      "agent": "SIGNAL MONITOR",
+      "date": "27 JUL 2026",
+      "title": "Quiet performance moves into ordinary city clothing",
+      "findings": 5,
+      "citations": 10,
+      "href": "/exports/latest-report.md"
+    },
+    {
+      "id": "social-2026-07-27",
+      "agent": "PUBLIC PULSE",
+      "date": "27 JUL 2026",
+      "title": "Narrow footwear earns cross-network conversation velocity",
+      "findings": 4,
+      "citations": 8,
+      "href": "/exports/social-report.md"
+    },
+    {
+      "id": "batch-2026-07-26",
+      "agent": "SYNTHESIS SCOUT",
+      "date": "26 JUL 2026",
+      "title": "Civilian Equipment / twelve-piece batch proposal",
+      "findings": 3,
+      "citations": 6,
+      "href": "/exports/latest.json"
+    }
+  ],
+  "sources": [
+    { "id": "publishers", "name": "Publisher feeds", "method": "RSS / Atom", "access": "No key", "state": "ready" },
+    { "id": "mastodon", "name": "Mastodon", "method": "Public hashtag timelines", "access": "No key", "state": "ready" },
+    { "id": "bluesky", "name": "Bluesky", "method": "Official AppView API", "access": "Optional app password", "state": "optional" },
+    { "id": "youtube", "name": "YouTube", "method": "Data API v3", "access": "Optional API key", "state": "optional" },
+    { "id": "tiktok", "name": "TikTok", "method": "Research API", "access": "Approval required", "state": "gated" },
+    { "id": "reddit", "name": "Reddit", "method": "Data API", "access": "Approval required", "state": "gated" },
+    { "id": "instagram", "name": "Instagram", "method": "Graph API", "access": "Business permissions", "state": "gated" }
+  ]
+}

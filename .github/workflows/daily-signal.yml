@@ -1,0 +1,36 @@
+name: Fieldwork Daily Run
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fieldwork-daily-run
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run agents
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - run: npm test
+      - name: Commit report and history
+        run: |
+          git config user.name "fieldwork-agent-os"
+          git config user.email "fieldwork-agent-os@users.noreply.github.com"
+          git add data/latest.json data/history.json data/social-latest.json public/exports
+          git diff --cached --quiet || git commit -m "signal: daily report $(date -u +%F)"
+          git push

@@ -1,0 +1,65 @@
+{
+  "userAgent": "FieldworkAgentOS/0.2 (+https://github.com/your-name/fieldwork-agent-os; contact: replace-me@example.com)",
+  "requestDelayMs": 1100,
+  "maxResultsPerQuery": 25,
+  "safetyExcludeTerms": ["onlyfans", "nsfw", "camming", "hardon", "nipple_play", "exhibitionist", "porn", "xxx"],
+  "queries": [
+    { "id": "narrow-technical-footwear", "query": "\"low profile\" sneaker OR \"slim sneaker\" OR \"ballet sneaker\"", "hashtag": "sneakers", "relevanceTerms": ["low profile", "slim sneaker", "ballet sneaker", "motorsport", "speedcat", "thin sole"] },
+    { "id": "quiet-performance", "query": "\"technical outerwear\" OR \"subtle technical\" fashion", "hashtag": "gorpcore", "relevanceTerms": ["gorpcore", "technical", "outdoor", "shell", "utility", "performance"] },
+    { "id": "archival-sportswear", "query": "\"archive sportswear\" OR \"track jacket\" fashion", "hashtag": "vintagefashion", "relevanceTerms": ["track jacket", "sportswear", "jersey", "training top", "football shirt", "warm-up"] },
+    { "id": "decorated-basics", "query": "\"customized basics\" fashion OR clothing charms", "hashtag": "diyfashion", "relevanceTerms": ["custom", "charms", "hardware", "embellished", "upcycled", "patches", "beads"] },
+    { "id": "washed-tailoring", "query": "\"soft tailoring\" OR \"washed blazer\"", "hashtag": "menswear", "relevanceTerms": ["tailoring", "blazer", "suit", "washed", "unstructured"] }
+  ],
+  "networks": [
+    {
+      "id": "mastodon",
+      "name": "Mastodon",
+      "type": "mastodon_public_hashtag",
+      "baseUrls": ["https://mastodon.social", "https://mastodon.online"],
+      "enabled": true,
+      "credentials": null
+    },
+    {
+      "id": "bluesky",
+      "name": "Bluesky",
+      "type": "bluesky_authenticated",
+      "baseUrl": "https://bsky.social",
+      "enabled": true,
+      "optional": true,
+      "credentials": ["BLUESKY_HANDLE", "BLUESKY_APP_PASSWORD"]
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "type": "youtube_data_api",
+      "baseUrl": "https://www.googleapis.com/youtube/v3",
+      "enabled": true,
+      "optional": true,
+      "credentials": "YOUTUBE_API_KEY"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "type": "tiktok_research_api",
+      "enabled": false,
+      "credentials": "TIKTOK_RESEARCH_TOKEN",
+      "reason": "Disabled by default. TikTok Research access requires approval and is generally not available for commercial use."
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "type": "reddit_data_api",
+      "enabled": false,
+      "credentials": "REDDIT_ACCESS_TOKEN",
+      "reason": "Disabled until explicit Data API approval and applicable commercial terms are confirmed."
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "type": "instagram_graph_api",
+      "enabled": false,
+      "credentials": "META_ACCESS_TOKEN",
+      "reason": "Disabled until the app has the required Meta review and business permissions."
+    }
+  ]
+}

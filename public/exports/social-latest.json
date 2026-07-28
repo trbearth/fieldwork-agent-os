@@ -1,0 +1,204 @@
+{
+  "run": {
+    "id": "social-2026-07-28",
+    "mode": "fixture",
+    "generatedAt": "2026-07-28T05:00:24.174Z",
+    "postsCollected": 25,
+    "networksReady": 3,
+    "usedPreviousReport": false
+  },
+  "signals": [
+    {
+      "id": "narrow-technical-footwear",
+      "name": "Narrow technical footwear",
+      "stage": "emerging",
+      "score": 85,
+      "confidence": 86,
+      "youthRelevance": 92,
+      "velocity": -64,
+      "evidence": "5 public posts · 3 networks · 7-day comparison",
+      "citations": [
+        {
+          "title": "\"low profile\" sneaker OR \"slim sneaker\" OR \"ballet sneaker\" styling analysis",
+          "url": "https://www.youtube.com/results?search_query=%22low%20profile%22%20sneaker%20OR%20%22slim%20sneaker%22%20OR%20%22ballet%20sneaker%22",
+          "network": "YouTube"
+        },
+        {
+          "title": "\"low profile\" sneaker OR \"slim sneaker\" OR \"ballet sneaker\" spotted in a vintage low-profile outfit",
+          "url": "https://bsky.app/search?q=%22low%20profile%22%20sneaker%20OR%20%22slim%20sneaker%22%20OR%20%22ballet%20sneaker%22",
+          "network": "Bluesky"
+        },
+        {
+          "title": "sneakers outfit notes from an independent fashion community",
+          "url": "https://mastodon.social/tags/sneakers",
+          "network": "Mastodon"
+        },
+        {
+          "title": "new independent label showing \"low profile\" sneaker OR \"slim sneaker\" OR \"ballet sneaker\"",
+          "url": "https://bsky.app/search?q=%22low%20profile%22%20sneaker%20OR%20%22slim%20sneaker%22%20OR%20%22ballet%20sneaker%22",
+          "network": "Bluesky"
+        }
+      ]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 85,
+      "confidence": 86,
+      "youthRelevance": 92,
+      "velocity": -58,
+      "evidence": "5 public posts · 3 networks · 7-day comparison",
+      "citations": [
+        {
+          "title": "\"customized basics\" fashion OR clothing charms styling analysis",
+          "url": "https://www.youtube.com/results?search_query=%22customized%20basics%22%20fashion%20OR%20clothing%20charms",
+          "network": "YouTube"
+        },
+        {
+          "title": "\"customized basics\" fashion OR clothing charms spotted in a vintage low-profile outfit",
+          "url": "https://bsky.app/search?q=%22customized%20basics%22%20fashion%20OR%20clothing%20charms",
+          "network": "Bluesky"
+        },
+        {
+          "title": "diyfashion outfit notes from an independent fashion community",
+          "url": "https://mastodon.social/tags/diyfashion",
+          "network": "Mastodon"
+        },
+        {
+          "title": "new independent label showing \"customized basics\" fashion OR clothing charms",
+          "url": "https://bsky.app/search?q=%22customized%20basics%22%20fashion%20OR%20clothing%20charms",
+          "network": "Bluesky"
+        }
+      ]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 76,
+      "confidence": 86,
+      "youthRelevance": 71,
+      "velocity": 400,
+      "evidence": "5 public posts · 3 networks · 7-day comparison",
+      "citations": [
+        {
+          "title": "\"archive sportswear\" OR \"track jacket\" fashion styling analysis",
+          "url": "https://www.youtube.com/results?search_query=%22archive%20sportswear%22%20OR%20%22track%20jacket%22%20fashion",
+          "network": "YouTube"
+        },
+        {
+          "title": "\"archive sportswear\" OR \"track jacket\" fashion spotted in a vintage low-profile outfit",
+          "url": "https://bsky.app/search?q=%22archive%20sportswear%22%20OR%20%22track%20jacket%22%20fashion",
+          "network": "Bluesky"
+        },
+        {
+          "title": "vintagefashion outfit notes from an independent fashion community",
+          "url": "https://mastodon.social/tags/vintagefashion",
+          "network": "Mastodon"
+        },
+        {
+          "title": "new independent label showing \"archive sportswear\" OR \"track jacket\" fashion",
+          "url": "https://bsky.app/search?q=%22archive%20sportswear%22%20OR%20%22track%20jacket%22%20fashion",
+          "network": "Bluesky"
+        }
+      ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 70,
+      "confidence": 86,
+      "youthRelevance": 57,
+      "velocity": -55,
+      "evidence": "5 public posts · 3 networks · 7-day comparison",
+      "citations": [
+        {
+          "title": "\"technical outerwear\" OR \"subtle technical\" fashion styling analysis",
+          "url": "https://www.youtube.com/results?search_query=%22technical%20outerwear%22%20OR%20%22subtle%20technical%22%20fashion",
+          "network": "YouTube"
+        },
+        {
+          "title": "\"technical outerwear\" OR \"subtle technical\" fashion spotted in a vintage low-profile outfit",
+          "url": "https://bsky.app/search?q=%22technical%20outerwear%22%20OR%20%22subtle%20technical%22%20fashion",
+          "network": "Bluesky"
+        },
+        {
+          "title": "gorpcore outfit notes from an independent fashion community",
+          "url": "https://mastodon.social/tags/gorpcore",
+          "network": "Mastodon"
+        },
+        {
+          "title": "new independent label showing \"technical outerwear\" OR \"subtle technical\" fashion",
+          "url": "https://bsky.app/search?q=%22technical%20outerwear%22%20OR%20%22subtle%20technical%22%20fashion",
+          "network": "Bluesky"
+        }
+      ]
+    },
+    {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "stage": "emerging",
+      "score": 70,
+      "confidence": 86,
+      "youthRelevance": 57,
+      "velocity": 400,
+      "evidence": "5 public posts · 3 networks · 7-day comparison",
+      "citations": [
+        {
+          "title": "\"soft tailoring\" OR \"washed blazer\" styling analysis",
+          "url": "https://www.youtube.com/results?search_query=%22soft%20tailoring%22%20OR%20%22washed%20blazer%22",
+          "network": "YouTube"
+        },
+        {
+          "title": "\"soft tailoring\" OR \"washed blazer\" spotted in a vintage low-profile outfit",
+          "url": "https://bsky.app/search?q=%22soft%20tailoring%22%20OR%20%22washed%20blazer%22",
+          "network": "Bluesky"
+        },
+        {
+          "title": "menswear outfit notes from an independent fashion community",
+          "url": "https://mastodon.social/tags/menswear",
+          "network": "Mastodon"
+        },
+        {
+          "title": "new independent label showing \"soft tailoring\" OR \"washed blazer\"",
+          "url": "https://bsky.app/search?q=%22soft%20tailoring%22%20OR%20%22washed%20blazer%22",
+          "network": "Bluesky"
+        }
+      ]
+    }
+  ],
+  "networkStatus": [
+    {
+      "id": "mastodon",
+      "status": "ready",
+      "reason": "10 observations"
+    },
+    {
+      "id": "bluesky",
+      "status": "ready",
+      "reason": "10 observations"
+    },
+    {
+      "id": "youtube",
+      "status": "ready",
+      "reason": "5 observations"
+    },
+    {
+      "id": "tiktok",
+      "status": "gated",
+      "reason": "Disabled by default. TikTok Research access requires approval and is generally not available for commercial use."
+    },
+    {
+      "id": "reddit",
+      "status": "gated",
+      "reason": "Disabled until explicit Data API approval and applicable commercial terms are confirmed."
+    },
+    {
+      "id": "instagram",
+      "status": "gated",
+      "reason": "Disabled until the app has the required Meta review and business permissions."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "agents": [
+    {
+      "id": "fashion-intelligence",
+      "name": "Signal Monitor",
+      "entry": "agent/run.mjs",
+      "enabled": true,
+      "schedule": "0 12 * * *",
+      "report": "public/exports/latest-report.md"
+    },
+    {
+      "id": "social-pulse",
+      "name": "Public Pulse",
+      "entry": "agents/social-pulse/run.mjs",
+      "enabled": true,
+      "schedule": "15 12 * * *",
+      "report": "public/exports/social-report.md"
+    },
+    {
+      "id": "batch-scout",
+      "name": "Synthesis Scout",
+      "entry": "agents/batch-scout/run.mjs",
+      "enabled": true,
+      "schedule": null,
+      "report": "public/exports/batch-proposal.md"
+    }
+  ]
+}
