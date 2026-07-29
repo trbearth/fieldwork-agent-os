@@ -1,54 +1,16 @@
-# Fieldwork Daily Signal — 2026-07-28
+# Fieldwork Daily Signal — 2026-07-29
 
-Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
+Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
-## 1. Narrow technical footwear
+## 1. Decorated basics
 
-**emerging · score 72 · confidence 57% · youth 100%**
+**emerging · score 43 · confidence 19% · youth 54%**
 
-Narrow technical footwear is appearing across 3 independent public sources.
+Decorated basics is appearing across 1 independent public source.
 
-3 observations · 3 independent sources · +100% seven-day velocity
+1 observation · 1 independent source · +100% seven-day velocity
 
-- [Low-profile motorsport shoes return in affordable new drops](https://example.com/fashion/low-profile-motorsport) — Vogue, Jul 27
-- [Low-profile motorsport shoes return in affordable new drops](https://example.com/fashion/low-profile-motorsport) — Highsnobiety, Jul 27
-- [Low-profile motorsport shoes return in affordable new drops](https://example.com/fashion/low-profile-motorsport) — Hypebeast, Jul 27
-
-## 2. Quiet performance
-
-**emerging · score 72 · confidence 57% · youth 44%**
-
-Quiet performance is appearing across 3 independent public sources.
-
-3 observations · 3 independent sources · +100% seven-day velocity
-
-- [Technical outerwear becomes quieter and packable](https://example.com/fashion/quiet-performance) — Vogue, Jul 26
-- [Technical outerwear becomes quieter and packable](https://example.com/fashion/quiet-performance) — Highsnobiety, Jul 26
-- [Technical outerwear becomes quieter and packable](https://example.com/fashion/quiet-performance) — Hypebeast, Jul 26
-
-## 3. Archival sportswear
-
-**emerging · score 72 · confidence 57% · youth 100%**
-
-Archival sportswear is appearing across 3 independent public sources.
-
-3 observations · 3 independent sources · +100% seven-day velocity
-
-- [Low-profile motorsport shoes return in affordable new drops](https://example.com/fashion/low-profile-motorsport) — Vogue, Jul 27
-- [Low-profile motorsport shoes return in affordable new drops](https://example.com/fashion/low-profile-motorsport) — Highsnobiety, Jul 27
-- [Low-profile motorsport shoes return in affordable new drops](https://example.com/fashion/low-profile-motorsport) — Hypebeast, Jul 27
-
-## 4. Decorated basics
-
-**emerging · score 72 · confidence 57% · youth 100%**
-
-Decorated basics is appearing across 3 independent public sources.
-
-3 observations · 3 independent sources · +100% seven-day velocity
-
-- [Creators customize basics with hardware and charms](https://example.com/fashion/decorated-basics) — Vogue, Jul 25
-- [Creators customize basics with hardware and charms](https://example.com/fashion/decorated-basics) — Highsnobiety, Jul 25
-- [Creators customize basics with hardware and charms](https://example.com/fashion/decorated-basics) — Hypebeast, Jul 25
+- [Starbucks Japan Turns Its Menu Into Blind Box Collectible Plush Charms With the "Joyful Capsule" Series](https://hypebeast.com/2026/7/starbucks-japan-joyful-capsule-hanging-charms-release-info) — Hypebeast, Jul 29
 
 ## Method note
 

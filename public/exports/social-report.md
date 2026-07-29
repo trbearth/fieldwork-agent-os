@@ -1,65 +1,42 @@
-# Fieldwork Public Pulse — 2026-07-28
+# Fieldwork Public Pulse — 2026-07-29
 
-## 1. Narrow technical footwear
+## 1. Quiet performance
 
-**emerging · score 85 · confidence 86% · youth 92%**
+**emerging · score 72 · confidence 64% · youth 71%**
 
-5 public posts · 3 networks · 7-day comparison
+12 public posts · 1 network · 7-day comparison
 
-- ["low profile" sneaker OR "slim sneaker" OR "ballet sneaker" styling analysis](https://www.youtube.com/results?search_query=%22low%20profile%22%20sneaker%20OR%20%22slim%20sneaker%22%20OR%20%22ballet%20sneaker%22) — YouTube
-- ["low profile" sneaker OR "slim sneaker" OR "ballet sneaker" spotted in a vintage low-profile outfit](https://bsky.app/search?q=%22low%20profile%22%20sneaker%20OR%20%22slim%20sneaker%22%20OR%20%22ballet%20sneaker%22) — Bluesky
-- [sneakers outfit notes from an independent fashion community](https://mastodon.social/tags/sneakers) — Mastodon
-- [new independent label showing "low profile" sneaker OR "slim sneaker" OR "ballet sneaker"](https://bsky.app/search?q=%22low%20profile%22%20sneaker%20OR%20%22slim%20sneaker%22%20OR%20%22ballet%20sneaker%22) — Bluesky
+- [Almost done with # sewing MOLLE PALS webbing on this pant leg 🪡🧵 3 more to do. Then on to somethin](https://mastodon.social/@Jilanico/115159927496042402) — Mastodon
+- [Completed the front of this # sewing project, putting MOLLE PALS webbing on pants. Time to do the ba](https://mastodon.social/@Jilanico/115155490931766229) — Mastodon
+- [The weather did whatever it wanted up there — sun one minute, clouds swallowing the entire ridge the](https://mastodon.social/@ncknxk/116811779013406421) — Mastodon
+- [Deconstruct, Rebuild, Elevate. - 2nd development [INFUSOR] Infusor reshapes classic designs into fun](https://mastodon.social/@viim/113463751035730077) — Mastodon
 
 ## 2. Decorated basics
 
-**emerging · score 85 · confidence 86% · youth 92%**
+**emerging · score 69 · confidence 54% · youth 100%**
 
-5 public posts · 3 networks · 7-day comparison
+7 public posts · 1 network · 7-day comparison
 
-- ["customized basics" fashion OR clothing charms styling analysis](https://www.youtube.com/results?search_query=%22customized%20basics%22%20fashion%20OR%20clothing%20charms) — YouTube
-- ["customized basics" fashion OR clothing charms spotted in a vintage low-profile outfit](https://bsky.app/search?q=%22customized%20basics%22%20fashion%20OR%20clothing%20charms) — Bluesky
-- [diyfashion outfit notes from an independent fashion community](https://mastodon.social/tags/diyfashion) — Mastodon
-- [new independent label showing "customized basics" fashion OR clothing charms](https://bsky.app/search?q=%22customized%20basics%22%20fashion%20OR%20clothing%20charms) — Bluesky
+- [I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc](https://blahaj.zone/notes/a6qm2hx0fvau0f4o) — Mastodon
+- [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
+- [Anime-inspired green DTF PNG design, perfect for t-shirts, hoodies, and custom apparel printing. Hig](https://mastodon.social/@vectorency/116466757522085063) — Mastodon
+- [Trendy pop singer–inspired shirt design in DTF and sublimation format, perfect for t-shirts, hoodies](https://mastodon.social/@vectorency/116455423727056804) — Mastodon
 
-## 3. Archival sportswear
+## 3. Washed tailoring
 
-**emerging · score 76 · confidence 86% · youth 71%**
+**emerging · score 29 · confidence 46% · youth 48%**
 
-5 public posts · 3 networks · 7-day comparison
+3 public posts · 1 network · 7-day comparison
 
-- ["archive sportswear" OR "track jacket" fashion styling analysis](https://www.youtube.com/results?search_query=%22archive%20sportswear%22%20OR%20%22track%20jacket%22%20fashion) — YouTube
-- ["archive sportswear" OR "track jacket" fashion spotted in a vintage low-profile outfit](https://bsky.app/search?q=%22archive%20sportswear%22%20OR%20%22track%20jacket%22%20fashion) — Bluesky
-- [vintagefashion outfit notes from an independent fashion community](https://mastodon.social/tags/vintagefashion) — Mastodon
-- [new independent label showing "archive sportswear" OR "track jacket" fashion](https://bsky.app/search?q=%22archive%20sportswear%22%20OR%20%22track%20jacket%22%20fashion) — Bluesky
-
-## 4. Quiet performance
-
-**emerging · score 70 · confidence 86% · youth 57%**
-
-5 public posts · 3 networks · 7-day comparison
-
-- ["technical outerwear" OR "subtle technical" fashion styling analysis](https://www.youtube.com/results?search_query=%22technical%20outerwear%22%20OR%20%22subtle%20technical%22%20fashion) — YouTube
-- ["technical outerwear" OR "subtle technical" fashion spotted in a vintage low-profile outfit](https://bsky.app/search?q=%22technical%20outerwear%22%20OR%20%22subtle%20technical%22%20fashion) — Bluesky
-- [gorpcore outfit notes from an independent fashion community](https://mastodon.social/tags/gorpcore) — Mastodon
-- [new independent label showing "technical outerwear" OR "subtle technical" fashion](https://bsky.app/search?q=%22technical%20outerwear%22%20OR%20%22subtle%20technical%22%20fashion) — Bluesky
-
-## 5. Washed tailoring
-
-**emerging · score 70 · confidence 86% · youth 57%**
-
-5 public posts · 3 networks · 7-day comparison
-
-- ["soft tailoring" OR "washed blazer" styling analysis](https://www.youtube.com/results?search_query=%22soft%20tailoring%22%20OR%20%22washed%20blazer%22) — YouTube
-- ["soft tailoring" OR "washed blazer" spotted in a vintage low-profile outfit](https://bsky.app/search?q=%22soft%20tailoring%22%20OR%20%22washed%20blazer%22) — Bluesky
-- [menswear outfit notes from an independent fashion community](https://mastodon.social/tags/menswear) — Mastodon
-- [new independent label showing "soft tailoring" OR "washed blazer"](https://bsky.app/search?q=%22soft%20tailoring%22%20OR%20%22washed%20blazer%22) — Bluesky
+- [The designer put forward tracksuits and sharp tailoring for her first menswear collection at the sto](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-Z2O4FURgRKqrXHUqnZRRVA%3Aa%3A4091604380-%2F0) — Mastodon
+- [Louis Vuitton Brings the Beach to Paris in Near 40C Heat https://www. theguardian.com/fashion/2026/j](https://flipboard.social/@fediboard_lifestyle/116808277730512024) — Mastodon
+- [Pharrell Williams's menswear collection had a surf theme — while Saint Laurent models wore skinny su](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-0PNwGsw1RNmRj1YS5KEcJg%3Aa%3A4091604380-%2F0) — Mastodon
 
 ## Network status
 
-- **mastodon:** ready — 10 observations
-- **bluesky:** ready — 10 observations
-- **youtube:** ready — 5 observations
+- **mastodon:** ready — 22 observations
+- **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
+- **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.
 - **reddit:** gated — Disabled until explicit Data API approval and applicable commercial terms are confirmed.
 - **instagram:** gated — Disabled until the app has the required Meta review and business permissions.

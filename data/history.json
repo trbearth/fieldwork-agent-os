@@ -1,4 +1,819 @@
 {
-  "runs": [],
-  "items": []
+  "runs": [
+    {
+      "id": "2026-07-29",
+      "mode": "live",
+      "displayDate": "JUL 29, 2026, 10:21 AM EDT",
+      "generatedAt": "2026-07-29T14:21:29.234Z",
+      "itemsCollected": 71,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 28
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 23
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b818f7603e9e952f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zendaya on Beauty, Nostalgia, and the One Wellness Trend She Just Won’t Try",
+      "url": "https://www.vogue.com/article/zendaya-prada-beauty-interview",
+      "publishedAt": "2026-07-29T13:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.206Z",
+      "text": "Zendaya on Beauty, Nostalgia, and the One Wellness Trend She Just Won’t Try The actor sat down with 'Vogue' to chat about her whirlwind year, including a new partnership with Prada Beauty."
+    },
+    {
+      "id": "8ea709f86d53ea87",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "11 Cool Ways to Wear Micro-Bangs, as Seen on Celebrities",
+      "url": "https://www.vogue.com/article/micro-bangs-celebrities",
+      "publishedAt": "2026-07-29T12:30:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.206Z",
+      "text": "11 Cool Ways to Wear Micro-Bangs, as Seen on Celebrities Micro-bangs are trending again, but what’s the best way to wear them? Here, Vogue rounds up the coolest and chicest ways to wear the popular haircut."
+    },
+    {
+      "id": "8d6754873ca8d4b4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Vogue Business People Moves Tracker",
+      "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "publishedAt": "2026-07-29T10:29:29.000Z",
+      "collectedAt": "2026-07-29T14:21:25.206Z",
+      "text": "The Vogue Business People Moves Tracker Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow."
+    },
+    {
+      "id": "6658bb954e123ba8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hermès Reports 6.7% Sales Uplift in Q2",
+      "url": "https://www.vogue.com/article/hermes-reports-67-sales-uplift-in-q2",
+      "publishedAt": "2026-07-29T10:24:42.000Z",
+      "collectedAt": "2026-07-29T14:21:25.206Z",
+      "text": "Hermès Reports 6.7% Sales Uplift in Q2 Sales growth at the French house slightly accelerated in the second quarter."
+    },
+    {
+      "id": "45c30182f7c30364",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenhagen Fashion Week",
+      "url": "https://www.vogue.com/article/28-scandinavian-street-style-stars-who-have-shaped-the-look-of-copenhagen-fashion-week",
+      "publishedAt": "2026-07-29T10:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenhagen Fashion Week In honor of Copenhagen Fashion Week’s 20th anniversary, we’ve put together a directory of Scandinavian street style stars using our robust archive."
+    },
+    {
+      "id": "246e1fbb1bdf867e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Simple Exercise Jennifer Aniston Won’t Skip, Even on Vacation",
+      "url": "https://www.vogue.com/article/jennifer-aniston-vacation-exercise",
+      "publishedAt": "2026-07-29T09:33:17.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "The Simple Exercise Jennifer Aniston Won’t Skip, Even on Vacation Aboard a yacht with boyfriend Jim Curtis, Courteney Cox, and Pedro Pascal off the coast of Mallorca, Jennifer Aniston made time for a quick workout."
+    },
+    {
+      "id": "cb9b2cd95ae0cf30",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the Neo Knitwear Boom",
+      "url": "https://www.vogue.com/article/inside-the-neo-knitwear-boom",
+      "publishedAt": "2026-07-29T04:30:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "Inside the Neo Knitwear Boom A new wave of knitwear designers is rising to meet demand for well-crafted, creative clothing."
+    },
+    {
+      "id": "a657f82876a5f544",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why",
+      "url": "https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why",
+      "publishedAt": "2026-07-29T04:30:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why Mediterranean beauty brands are uniquely poised to benefit from the touch grass movement, with shoppers actively seeking natural, anti-inflammatory ingredients and minimalist routines."
+    },
+    {
+      "id": "eede7a77ebf9f137",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "6 Ways I Minimize Dark Circles Without Makeup",
+      "url": "https://www.vogue.com/article/minimize-dark-circles-without-makeup",
+      "publishedAt": "2026-07-29T03:23:33.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "6 Ways I Minimize Dark Circles Without Makeup Minimizing dark circles without makeup is possible with the right routine. From improving sleep habits to vitamin C-rich creams, here's everything that can make a difference."
+    },
+    {
+      "id": "b0d90fd2059da822",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Does Mature Skin Really Need a Toner? Dermatologists Explain",
+      "url": "https://www.vogue.com/article/toner-for-mature-skin",
+      "publishedAt": "2026-07-29T02:09:03.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "Does Mature Skin Really Need a Toner? Dermatologists Explain Are toners good for mature skin? Experts say yes, in order to to replenish hydration, support the skin barrier, calm inflammation, and improve ingredient absorption."
+    },
+    {
+      "id": "d265fe4a215eeb0e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "18 Iconic Photographs of Brigitte Bardot at the Beach",
+      "url": "https://www.vogue.com/article/iconic-photographs-of-brigitte-bardot-at-the-beach",
+      "publishedAt": "2026-07-29T00:24:35.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "18 Iconic Photographs of Brigitte Bardot at the Beach From Cannes to Saint-Tropez and all the way to Andalusia, here are 18 lesser-seen pictures of the French screen legend Brigitte Bardot to inspire your summer style."
+    },
+    {
+      "id": "b3d5e235171cce27",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Shards Cast Partied Like It Was 1981 at the World Premiere of the New TV Series",
+      "url": "https://www.vogue.com/slideshow/the-shards-premiere-kaia-gerber-homer-gere",
+      "publishedAt": "2026-07-28T22:54:48.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "The Shards Cast Partied Like It Was 1981 at the World Premiere of the New TV Series “I wanted to be an actor since I was a baby, and working on The Shards has really been one of the best experiences of my life,” Kaia Gerber told Vogue at the world premiere of her new FX drama on Monday night."
+    },
+    {
+      "id": "da2b34faeadad78c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "9 Summer Outfit Ideas Inspired by Celebrities",
+      "url": "https://www.vogue.com/article/celeb-summer-outfit-ideas",
+      "publishedAt": "2026-07-28T21:08:12.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "9 Summer Outfit Ideas Inspired by Celebrities Dressing for the rising temperatures is easy with these summer outfit ideas inspired by the best in celebrity street style."
+    },
+    {
+      "id": "960ba501d5b649d3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Anne Hathaway Embarks on an Odyssey of Maternity Style",
+      "url": "https://www.vogue.com/slideshow/anne-hathaway-the-odyssey-maternity-style",
+      "publishedAt": "2026-07-28T20:04:41.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "Anne Hathaway Embarks on an Odyssey of Maternity Style Anne Hathaway’s sheer top was the natural continuation of her maternity style from ‘The Odyssey’ press tour."
+    },
+    {
+      "id": "eb6c058ac8e99c37",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Gucci’s Sales Decline Eases in Q2, Beating Expectations",
+      "url": "https://www.vogue.com/article/guccis-sales-decline-eases-in-q2-beating-expectations",
+      "publishedAt": "2026-07-28T19:33:10.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "Gucci’s Sales Decline Eases in Q2, Beating Expectations Sales at parent company Kering returned to growth, as the conglomerate continues to execute its turnaround strategy."
+    },
+    {
+      "id": "873c53f19107d1f3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Biggest Celebrity Engagements of 2026—So Far",
+      "url": "https://www.vogue.com/article/celebrity-engagements-2026",
+      "publishedAt": "2026-07-28T18:11:25.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "The Biggest Celebrity Engagements of 2026—So Far The latest couple to share their engagement news in 2026? Pop star Madison Beer and her NFL star beau, Justin Herbert."
+    },
+    {
+      "id": "d96dbe7615ef2a56",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Bride Wore 7 Bespoke Looks Designed by Her Sister to Her English Countryside Wedding",
+      "url": "https://www.vogue.com/slideshow/madelyn-wysner-and-tyler-hunt-wedding",
+      "publishedAt": "2026-07-28T17:57:34.000Z",
+      "collectedAt": "2026-07-29T14:21:25.207Z",
+      "text": "The Bride Wore 7 Bespoke Looks Designed by Her Sister to Her English Countryside Wedding Cinq co-founder Madelyn Wysner and Tyler Hunt were married at a bucolic estate in Suffolk, with all of the bride’s outfits created by her designer sister, Macye Wysner."
+    },
+    {
+      "id": "0d936133bf18096b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "It’s a Tassel Summer: 4 Ways to Style The Hot Accessory of Now",
+      "url": "https://www.vogue.com/tassel-accessory-trend",
+      "publishedAt": "2026-07-28T17:16:15.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "It’s a Tassel Summer: 4 Ways to Style The Hot Accessory of Now From tassel bags to necklaces, the tasselled accessory trend is still going strong for summer 2026. Discover four ways to embrace the opulent moment, now."
+    },
+    {
+      "id": "05900b63796da1af",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘Broad Strokes’ Star Cat Cohen’s Oura Ring Scores Have Never Been Higher",
+      "url": "https://www.vogue.com/article/cat-cohen-broad-strokes-interview",
+      "publishedAt": "2026-07-28T17:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "‘Broad Strokes’ Star Cat Cohen’s Oura Ring Scores Have Never Been Higher The comedian talks to Vogue about her new one-woman show, “Broad Strokes,” playing at the Lucille Lortel Theatre until September 5."
+    },
+    {
+      "id": "36dc3479ff6df547",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Lighten Hair Without Bleach, Straight From the Pros",
+      "url": "https://www.vogue.com/article/how-to-lighten-hair-without-bleach",
+      "publishedAt": "2026-07-28T14:30:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "How to Lighten Hair Without Bleach, Straight From the Pros Lightening your hair doesn't mean you need to add extra damage to it. Here, experts break down how to go a few shades lighter without having to use bleach."
+    },
+    {
+      "id": "7fec67ccc64a9c1f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zendaya and Tom Holland’s ‘Spider-Man’ Tour Is All About Couple Style",
+      "url": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
+      "publishedAt": "2026-07-28T14:27:08.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "Zendaya and Tom Holland’s ‘Spider-Man’ Tour Is All About Couple Style The film’s press tour marks Zendaya and Tom Holland’s first official outings as husband and wife—and it’s a fashion force."
+    },
+    {
+      "id": "aa4330608221060d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Gisele Bündchen Is Still the Queen of Rich Mom Energy",
+      "url": "https://www.vogue.com/article/gisele-bundchen-model-mom-airport-style",
+      "publishedAt": "2026-07-28T14:22:34.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "Gisele Bündchen Is Still the Queen of Rich Mom Energy The supermodel's airport style is a masterclass in model-off-duty, mom-on-duty dressing."
+    },
+    {
+      "id": "f576f37d94c1cbcf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "For Art&Newport’s Summer 2026 Exhibitions, Austin Eddy and Na Kim Are Looking to the Skies",
+      "url": "https://www.vogue.com/article/art-and-newport-austin-eddy-na-kim-exhibitions",
+      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "For Art&Newport’s Summer 2026 Exhibitions, Austin Eddy and Na Kim Are Looking to the Skies “Na Kim: Portraits” is on view at the Newport Tower and the Redwood Library and Athenaeum from July 28 to August 10, 2026. “Austin Eddy: Hope Deferred” is on view at the Norman Bird Sanctuary from August 27, 2026, to June 1, 2027."
+    },
+    {
+      "id": "28c6b9fccfce85b4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue and the CFDA Celebrated America’s 250th with 130 Reimagined Designer Flags and a Broadway Serenade",
+      "url": "https://www.vogue.com/slideshow/vogue-cfda-united-flags-of-fashion-rockefeller-center",
+      "publishedAt": "2026-07-28T13:35:07.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "Vogue and the CFDA Celebrated America’s 250th with 130 Reimagined Designer Flags and a Broadway Serenade Designers from across the American fashion industry came together at The Rink at Rockefeller Center in New York City to debut “United Flags of Fashion,” a public installation featuring 130 reimagined flags honoring every U.S. state and territory."
+    },
+    {
+      "id": "1d1b439930f3288b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Special Scents That Make Up My Life",
+      "url": "https://www.vogue.com/article/hailee-steinfeld-personal-essay-fragrance",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "The Special Scents That Make Up My Life Actor, singer, and new mother Hailee Steinfeld is stopping to smell the roses—and reflect on how the most special moments in her life are tied to fragrance—in a personal essay for Vogue. She also shares the scent she hopes her daughter, Harper, will associate with her—Estée Lauder’s new fragrance, Glimmer."
+    },
+    {
+      "id": "6712927eebba7edc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Doctor's Guide To Skin Purging: The Dos & Don’ts",
+      "url": "https://www.vogue.com/article/what-is-skin-purging",
+      "publishedAt": "2026-07-28T12:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "A Doctor's Guide To Skin Purging: The Dos & Don’ts Four experts share their tips and tricks on how to deal with skin purging breakouts."
+    },
+    {
+      "id": "02f4ef284181f8c7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and Why He Loves the Movie Version Now",
+      "url": "https://www.vogue.com/article/bret-easton-ellis-less-than-zero-interview",
+      "publishedAt": "2026-07-28T12:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and Why He Loves the Movie Version Now Ellis spoke to Vogue about the earliest years of his writing career—beginning with the time after “Less Than Zero” was published."
+    },
+    {
+      "id": "4bb9fd25c99bda39",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dilara Findikoglu Launches a Bridal Capsule That Breaks All the Rules",
+      "url": "https://www.vogue.com/article/dilara-findikoglu-bridal-capsule-collection",
+      "publishedAt": "2026-07-28T12:00:00.000Z",
+      "collectedAt": "2026-07-29T14:21:25.208Z",
+      "text": "Dilara Findikoglu Launches a Bridal Capsule That Breaks All the Rules Designer Dilara Findikoglu reveals an 8-piece bridal capsule collection of sexy, Gothic garments."
+    },
+    {
+      "id": "cfaa2ff812816914",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Jewelry-fication of Men's Belts",
+      "url": "https://www.highsnobiety.com/p/the-jewelry-fication-of-mens-belts/",
+      "publishedAt": "2026-07-29T13:39:52.000Z",
+      "collectedAt": "2026-07-29T14:21:26.584Z",
+      "text": "The Jewelry-fication of Men's Belts In July 28's issue of Highsnobiety's Shopper newsletter, editor Max Migowski backs belts."
+    },
+    {
+      "id": "b6a3d9e18f2746b6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Understated Hybrid Sneaker Is Where Military Meets Football",
+      "url": "https://www.highsnobiety.com/p/adidas-bw-mundial/",
+      "publishedAt": "2026-07-29T13:19:00.000Z",
+      "collectedAt": "2026-07-29T14:21:26.584Z",
+      "text": "adidas’ Understated Hybrid Sneaker Is Where Military Meets Football adidas’ new BW Mundial sneaker blends military-inspired minimalism with football heritage, creating an understated hybrid built for the streets."
+    },
+    {
+      "id": "193ac5024068c605",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Week's Best Nike Sneaker Releases",
+      "url": "https://www.highsnobiety.com/p/best-nike-sneaker-releases-week-july-4/",
+      "publishedAt": "2026-07-29T13:33:12.000Z",
+      "collectedAt": "2026-07-29T14:21:26.584Z",
+      "text": "This Week's Best Nike Sneaker Releases From a fully-printed AIRMAX to the return of the Air Jordan Classics, and Zoom Skylon. Nike shows effortless cool."
+    },
+    {
+      "id": "3fc4f5c53dfc4aad",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Pharrell's Sculptural adidas Stomper Is a (Jelly) Fish Out of Water",
+      "url": "https://www.highsnobiety.com/p/pharrells-adidas-adistar-jellyfish-sneaker-white/",
+      "publishedAt": "2026-07-29T11:09:00.000Z",
+      "collectedAt": "2026-07-29T14:21:26.584Z",
+      "text": "Pharrell's Sculptural adidas Stomper Is a (Jelly) Fish Out of Water Pharrell's new glow-in-the-dark white Jellyfish sneaker is one chunky little invertebrate."
+    },
+    {
+      "id": "926e4916e500d485",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' F50 Has Evolved Beyond the Pitch",
+      "url": "https://www.highsnobiety.com/p/arte-antwerp-adidas-f50-black/",
+      "publishedAt": "2026-07-29T10:26:46.000Z",
+      "collectedAt": "2026-07-29T14:21:26.584Z",
+      "text": "adidas' F50 Has Evolved Beyond the Pitch The line between performance pitch gear and lifestyle design has blurred completely. Look no further than the Arte Antwerp x adidas F50 for proof."
+    },
+    {
+      "id": "c1a2f36fca795577",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This adidas Performance Runner Is Why Bigger Is Better Again",
+      "url": "https://www.highsnobiety.com/p/adidas-hyperboost-ephr/",
+      "publishedAt": "2026-07-29T09:26:00.000Z",
+      "collectedAt": "2026-07-29T14:21:26.584Z",
+      "text": "This adidas Performance Runner Is Why Bigger Is Better Again adidas’ Hyperboost EPHR in Cloud White embraces the return of bold performance runners with its futuristic design, plush cushioning, and everyday wearability."
+    },
+    {
+      "id": "06380dfa6dcc2e74",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas & WAF.'s Salmon Shredder Puts Nigerian Skate History on Feet",
+      "url": "https://www.highsnobiety.com/p/waf-adias-superstar-sneaker/",
+      "publishedAt": "2026-07-29T10:25:54.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "adidas & WAF.'s Salmon Shredder Puts Nigerian Skate History on Feet WAF. just turned adidas' OG skate shoe, the Superstar ADV, into a history-making shredder."
+    },
+    {
+      "id": "c78cf1d5b65ca202",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A$AP Rocky’s Tour Is Actually a PUMA SS27 Preview",
+      "url": "https://www.highsnobiety.com/p/asap-rocky-tour-puma-sneakers/",
+      "publishedAt": "2026-07-29T12:09:15.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "A$AP Rocky’s Tour Is Actually a PUMA SS27 Preview A$AP Rocky continues to tease his SS27 PUMA collabs while performing on his \"Don't Be Dumb\" tour."
+    },
+    {
+      "id": "265d1476170adbd5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "You Know Ralph Lauren Is Back When This Jacket Comes Out",
+      "url": "https://www.highsnobiety.com/p/ralph-lauren-harrington-jacket-trend/",
+      "publishedAt": "2026-07-28T21:55:43.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "You Know Ralph Lauren Is Back When This Jacket Comes Out Even amidst sweaty July, Ralph Lauren's Polo Harrington jacket is proving particularly popular with Colman Domingo and Dua Lipa."
+    },
+    {
+      "id": "8a6dbc27f70f2a2c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Only the Princess Treatment for adidas’ Best Ballerina Sneaker",
+      "url": "https://www.highsnobiety.com/p/disney-adidas-samba-jane-aurora/",
+      "publishedAt": "2026-07-29T08:23:31.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "Only the Princess Treatment for adidas’ Best Ballerina Sneaker Disney & adidas cook up an adorable Samba Jane inspired by Princess Aurora, a.k.a Sleeping Beauty. Rose included."
+    },
+    {
+      "id": "12a542200ab21ce4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "L/AB c/o Off-White™ Takes LA’s Underground",
+      "url": "https://www.highsnobiety.com/p/lab-co-off-white-takes-las-underground/",
+      "publishedAt": "2026-07-28T22:12:40.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "L/AB c/o Off-White™ Takes LA’s Underground Last Thursday, LA’s creative community gathered to celebrate the launch of L/AB c/o Off-White™, a new brand created for the next generation of cultural disruptors."
+    },
+    {
+      "id": "e3e17b607efedbe0",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Nike Skate Slip-on So Simple, It’s Stylish",
+      "url": "https://www.highsnobiety.com/p/nike-sb-janoski-slip-summit-white/",
+      "publishedAt": "2026-07-29T08:20:18.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "A Nike Skate Slip-on So Simple, It’s Stylish Nike SB's Janoski+ Slip sneaker offers a simple skate-ready design alongside quietly stylish colorways like \"Summit White.\" And that's the beauty of it."
+    },
+    {
+      "id": "2f7b0dabf94e404a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Ultimate Tote? A Loro Piana Tote",
+      "url": "https://www.highsnobiety.com/p/loro-piana-heddle-tote/",
+      "publishedAt": "2026-07-29T08:03:54.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "The Ultimate Tote? A Loro Piana Tote The Italian luxury maison Loro Piana's new Heddle Tote from the Fall/Winter 2026 collection takes the ubiquitous everyday bag and gives it a high-end refresh."
+    },
+    {
+      "id": "aae9d9c515155c68",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Isn’t Normal Nike Dunk Heat",
+      "url": "https://www.highsnobiety.com/p/nike-sb-dunk-saffron-quartz-hatch-chile/",
+      "publishedAt": "2026-07-29T08:18:27.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "This Isn’t Normal Nike Dunk Heat Nike SB debuts the \"Saffron Quartz\" Dunk Low sneaker, which features colorblocking inspired by New Mexico's hatch chile peppers."
+    },
+    {
+      "id": "7f10a36a8519cc22",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Plush “Birkenstock” Mules Are Skate Shoes Gone Soft",
+      "url": "https://www.highsnobiety.com/p/vans-harbor-mule-vr3-brown/",
+      "publishedAt": "2026-07-29T08:24:16.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "Vans’ Plush “Birkenstock” Mules Are Skate Shoes Gone Soft Vans’ Harbor Mule VR3 brings clog-inspired comfort to the skate world, blending the brand’s signature attitude with an easy slip-on silhouette."
+    },
+    {
+      "id": "1c15b032689282c9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nobody Out-Polos the Brand That Invented It",
+      "url": "https://www.highsnobiety.com/p/everyone-is-having-a-hot-lacoste-polo-summer/",
+      "publishedAt": "2026-07-28T18:33:02.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "Nobody Out-Polos the Brand That Invented It Saturdays NYC, Snidel, Biotop, Edifice and other fashion brands are partnering with the OG polo-maker Lacoste for a summer's worth of collaborations."
+    },
+    {
+      "id": "b3a2e0c10d8b9d5c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Signature Blueberry Basketball Sneaker Is Too Sweet for the Court",
+      "url": "https://www.highsnobiety.com/p/nike-kd-19-blueberry-blast/",
+      "publishedAt": "2026-07-29T08:15:45.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "Nike’s Signature Blueberry Basketball Sneaker Is Too Sweet for the Court Kevin Durant's Nike KD19 signature basketball shoe gets another candy-flavored release. This time, the sleek model goes \"Blueberry Blast\" mode."
+    },
+    {
+      "id": "05967dbbac3754d4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "It's a Hot (and Weird) Boat Shoe Summer",
+      "url": "https://www.highsnobiety.com/p/timberland-boat-shoe-summer/",
+      "publishedAt": "2026-07-28T17:21:00.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "It's a Hot (and Weird) Boat Shoe Summer Timberland traded its iconic Yellow Boot for a summer of cool, colorful, and slightly crazy takes on its boat shoe from Jacquemus, nonnative, and other brands."
+    },
+    {
+      "id": "02e8de265fa6a232",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Even Nike’s Original Sneaker Is Getting a Taste of European Summer",
+      "url": "https://www.highsnobiety.com/p/nike-moon-shoe-italy-blue-sneaker/",
+      "publishedAt": "2026-07-29T08:12:44.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "Even Nike’s Original Sneaker Is Getting a Taste of European Summer Nike’s Moon Shoe “Italy Blue” brings the brand’s original sneaker into summer mode with a Mediterranean-inspired colorway, retro styling, and archival appeal."
+    },
+    {
+      "id": "4cd661144b8f29f0",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Show-Off Futuristic Sneaker Is Officially Done With Summer",
+      "url": "https://www.highsnobiety.com/p/nike-mind-002-camo/",
+      "publishedAt": "2026-07-29T08:11:47.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "Nike’s Show-Off Futuristic Sneaker Is Officially Done With Summer The Nike Mind 002 “Camo Green” gives the brand’s futuristic sneaker a fresh earthy palette, blending bold design with fall-ready colors."
+    },
+    {
+      "id": "dd5bbc098d634856",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Samba Mule Doesn't Need a Heel to Stand On",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-og-mule/",
+      "publishedAt": "2026-07-29T08:22:22.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "adidas' Samba Mule Doesn't Need a Heel to Stand On adidas' woven Samba OG Mule is a standard soccer stunner that doubles as a mixy mule."
+    },
+    {
+      "id": "466cc9f0b6701405",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "From Salomon to Nike, The Seven Best Sneakers to Cop this Week",
+      "url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-4/",
+      "publishedAt": "2026-07-28T15:04:58.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "From Salomon to Nike, The Seven Best Sneakers to Cop this Week This week’s selection sees the release of the brand new Salomon X-ALP Alpine Echoes, the Nike Air Jordan 1 OG 'Love Letter', & a polka-dotted New Balance 530."
+    },
+    {
+      "id": "782b7470e711d251",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Lorenzo Musetti Looks Ahead",
+      "url": "https://www.highsnobiety.com/p/lorenzo-musetti-bottega/",
+      "publishedAt": "2026-07-29T11:12:16.000Z",
+      "collectedAt": "2026-07-29T14:21:26.585Z",
+      "text": "Lorenzo Musetti Looks Ahead Lorenzo Musetti embodies Bottega Veneta’s values of craftsmanship, elegance, and effortless personal style."
+    },
+    {
+      "id": "f4c0e69667f69f80",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kosuke Kawamura Turns Legendary ‘COBRA’ Manga Into a ¥3.5 Million JPY Contemporary Artwork",
+      "url": "https://hypebeast.com/2026/7/cobra-revibes-project-kosuke-kawamura-interview",
+      "publishedAt": "2026-07-29T07:35:57.000Z",
+      "collectedAt": "2026-07-29T14:21:28.009Z",
+      "text": "Kosuke Kawamura Turns Legendary ‘COBRA’ Manga Into a ¥3.5 Million JPY Contemporary Artwork Toei and TANGLE have officially launched the ReVIBES Project, a new collaborative initiative that reimagines some of Japan's most iconic IPs through contemporary art. Moving beyond nostalgia and conventional collaborations, the project transforms beloved classics into collectible artworks, introducing them to a new generation of collectors and the global art marketFor its inaugural edition, the project tapped internationally renowned collage artist, graphic designer, and art director Kosuke Kawamura to deconstruct and reassemble COBRA — Buichi Terasawa’s legendary sci-fi manga classic. The resulting two physical art pieces made their high-profile auction debut in Tokyo, fetching a combined ¥3.5 million JPY (approx. $24,000 USD). As Hiroto Munakata, representative of TANGLE and the mastermind behind the project's concept, explains: “This is not about reviving IP, but about reconstructing its value. We are not selling nostalgia — we want to show how masterpieces can be updated for the present day.”Why COBRA?First serialized in Weekly Shonen Jump in 1978, COBRA follows a rogue space pirate armed with a psychological, arm-embedded \"Psycho-Gun\". Infusing a singular universe with hard-boiled storytelling, cosmic action, and sharp humor, the manga immediately became a cornerstone of Japanese pop culture and has since been translated into over a dozen languages.Crucially, creator Buichi Terasawa was a legendary innovator who pioneered the integration of computer graphics into comic production, famously coining the term “digital manga”. Reinterpreting this exact spirit of technical disruption through a modern artistic lens forms the perfect foundation for ReVIBES Project.For Toei, the initiative represents a vital method for archival management. “No matter how great a work may be, the passage of time can gradually reduce it to something known only by a dedicated few,” notes Rintaro Shimatani of Toei. “Through ReVIBES Project, we believe these works can reach audiences they never had the opportunity to connect with before.”Kosuke Kawamura’s DeconstructionKnown for his cross-disciplinary portfolio spanning fashion, street culture, music and advertising, Kosuke Kawamura was uniquely suited to bridge the gap between subculture and high art. Interestingly, Kawamura's initial exposure to COBRA was through its television anime adaptation as a child, which he remembered as a \"scary s"
+    },
+    {
+      "id": "8ffb8f907799f58a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "8 Drops You Don't Want to Miss This Week",
+      "url": "https://hypebeast.com/2026/7/best-drops-july-week-5-satisfy-levis-huf",
+      "publishedAt": "2026-07-29T11:53:32.000Z",
+      "collectedAt": "2026-07-29T14:21:28.009Z",
+      "text": "8 Drops You Don't Want to Miss This Week With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with SATISFY and Levi’s reuniting for their second collaboration, bringing a high-performance running aesthetic to a stonewashed Type II Trucker Jacket and 501 jean set, while TEATORA partners with BEAMS on a sleek, utility-focused travel capsule built from proprietary packable fabrics. HUF links up with Okinawa-based Orion Breweries for a refreshing summer leisure capsule spanning skate-ready apparel and barware, just as Keizo Shimizu’s NEEDLES and FILA tease a collaboration uniting Papillon logos, classic color-blocking, and retro tracksuits. Ami Paris celebrates human connection with its collegiate-inspired \"Thank You for Being a Friend\" collection, while JOURNAL STANDARD relume teams up with Brooks Brothers to transform an archival 1990s pajama shirt into an elevated striped shirt jacket. RIMOWA and Winmau turn a pub staple into ultra-luxury hardware with an anodized aluminum Dartboard Case fronted by Walton Goggins, and GrowthRing & Supply taps viral Instagram account ShibuyaMeltdown for a gritty, subculture-driven capsule documenting Tokyo’s late-night nightlife.Check out this week’s 8 drops you don’t want to miss below.SATISFY x Levi’s “STONER” CollectionSATISFY and Levi’s have officially reunited to debut the STONER collection, a design-driven capsule that blends high-performance running aesthetics with heritage workwear. The release is anchored by a matching Type II Trucker Jacket and 501 jean set, both crafted from durable organic cotton denim and treated with a distinctive stonewash finish that mimics the look of well-worn vintage pieces. Integrating SATISFY's technical expertise, the garments feature lightweight ventilation, custom interior branding, and functional details built for active lifestyles. The SATISFY x Levi’s STONER collection is now confirmed to release on July 30, 2026, through SATISFY’s online store, Levi's webstore and select global retail partners.TEATORA x BEAMS CollectionJapanese technical apparel label TEATORA has partnered with BEAMS for a sleek, utility-focused capsule collection engineered for the modern urban traveler. Utilizing TEATORA’s proprietary lightweight and packable fabrics, the collaboration reinterprets functional outerwear and relaxed trousers with an emphasis on temperature regulation and ergonomic storage. Minimalist in aesthetic yet highly te"
+    },
+    {
+      "id": "ba5f2feb47e13818",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NikeSKIMS Wraps the Split-Toe Air Rift in Satin for Its \"Obsidian\" and \"Night Silver\" Pair",
+      "url": "https://hypebeast.com/2026/7/kim-kardashian-nike-skims-nikeskims-air-rift-satin-obsidian-night-silver-iq7158-002-iq7158-400-release-info",
+      "publishedAt": "2026-07-29T11:44:40.000Z",
+      "collectedAt": "2026-07-29T14:21:28.009Z",
+      "text": "NikeSKIMS Wraps the Split-Toe Air Rift in Satin for Its \"Obsidian\" and \"Night Silver\" Pair Name: NikeSKIMS Air Rift SatinColorway: Obsidian, Night Silver/Base Grey-Medium SilverSKU: IQ7158-002, IQ7158-400MSRP: $160 USDRelease Date: July 30Where to Buy: Nike, SKIMSThe NikeSKIMS Rift Satin gives one of Nike's most divisive silhouettes a new lease on life, dressing the split-toe Air Rift in satin-like panels across a pair of colorways for the Studio Edit 02 collection. Offered in \"Obsidian\" and \"Night Silver,\" the release keeps the model's unmistakable low-profile shape while refining its surface into something sleeker and more polished for Kim Kardashian’s SKIMS.For this iteration, the changes are focused on material and finish rather than structure. Satin-like panels give the Rift a cleaner, more elevated look without altering the low-profile shape that defines the model. The split-toe forefoot remains the centerpiece, while an adjustable strap runs across the midfoot to lock in the fit, a functional nod to the original's cinching system. Underfoot, the segmented outsole carries over, preserving the flexible, articulated feel that made the first Rift move so closely with the foot.The SKIMS colorways lean in different directions. The \"Obsidian\" pair takes a darker, moodier route, while the \"Night Silver\" version runs a tonal arrangement of Night Silver, Base Grey, and Medium Silver, stacking closely related metallic shades into a near-monochrome finish that plays into the ongoing appetite for silver footwear. Both treatments let the satin paneling do the talking, keeping branding minimal and the focus squarely on the silhouette's distinctive geometry.The Air Rift has always been a shoe defined by its silhouette. Nike introduced the model in 1996, drawing on the split-toe construction of the Japanese tabi and the barefoot efficiency of Kenyan distance runners, and the result was a minimal, glove-like runner unlike anything else in the catalog. That divisive, fashion-forward shape has made it a recurring favorite in cycles where minimalism and Y2K styling return to the forefront, and its reappearance under the NikeSKIMS banner slots neatly into that pattern. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c1c2d2b1f3359b28",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple's New Upgrade Program Lets You Lease an iPhone, Mac, or iPad Starting at $17.99 USD Monthly",
+      "url": "https://hypebeast.com/2026/7/apple-upgrade-leasing-program-launches-with-klarna",
+      "publishedAt": "2026-07-29T11:45:07.000Z",
+      "collectedAt": "2026-07-29T14:21:28.009Z",
+      "text": "Apple's New Upgrade Program Lets You Lease an iPhone, Mac, or iPad Starting at $17.99 USD Monthly Summary Apple has officially introduced Apple Upgrade, a new US-based leasing program for iPhone, Mac, iPad and Apple Watch modelsDeveloped in partnership with Klarna, the service offers 12- and 24-month terms for iPhones and Watches alongside 24- and 36-month terms for Macs and iPadsThe program replaces the existing iPhone Upgrade Program and provides options to upgrade early, purchase the device or return it at the end of the lease Apple has launched \"Apple Upgrade,\" a comprehensive hardware leasing program designed to provide a more accessible entry point for its latest ecosystem of devices. Rolling out across the brand's online and physical stores in the United States, the service arrives just weeks after the tech giant hiked prices on its MacBooks and iPads amid ongoing industry component shortages. Now, users can lease an iPhone 17e starting at $17.99 USD per month, an Apple Watch Series 11 or iPad Air for $11.99 USD per month and a MacBook Air for $24.99 USD per month.Developed in partnership with financial provider Klarna, the service requires a soft credit check for approval and operates much like a standard vehicle lease. Customers commit to 12- or 24-month terms for iPhones and Apple Watches, while Mac and iPad plans extend to 24 or 36 months. At the end of the selected term, users can trade their device in for a next-generation model, buy the hardware outright with a one-time payment or simply return the product and exit the ecosystem entirely. To lower monthly costs, participants can integrate their existing hardware through Apple Trade In or earn three percent Daily Cash back by paying with an Apple Card.The new initiative effectively phases out the decade-old iPhone Upgrade Program, which is no longer accepting new enrollments. A critical shift in the transition is the removal of bundled AppleCare coverage, a feature previously baked into the legacy mobile leasing plan. Furthermore, the brand appears to be establishing strict guardrails to ensure consistent payments. Code discovered in early beta builds of iOS 27 suggests developers are preparing a restricted mode capable of locking financed devices out of specific applications if accounts fall into arrears. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "daa00fb772044c52",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Starbucks Japan Turns Its Menu Into Blind Box Collectible Plush Charms With the \"Joyful Capsule\" Series",
+      "url": "https://hypebeast.com/2026/7/starbucks-japan-joyful-capsule-hanging-charms-release-info",
+      "publishedAt": "2026-07-29T11:45:09.000Z",
+      "collectedAt": "2026-07-29T14:21:28.009Z",
+      "text": "Starbucks Japan Turns Its Menu Into Blind Box Collectible Plush Charms With the \"Joyful Capsule\" Series Starbucks Japan is stepping into capsule-toy territory for the first time with the Starbucks Joyful Capsule, a run of palm-sized plush charms shaped like the chain's most recognizable menu items. Sold through blind capsules under the concept \"Starbucks Charm with Warmth,\" the collectibles arrive August 2, a date the company marks as the anniversary of its arrival in Japan.The concept plugs directly into one of Japan's most entrenched retail rituals. Gachapon, the capsule-toy vending machines that dispense a random collectible for a set price, have been a fixture of Japanese consumer culture for decades, and the blind-box format they pioneered has since become a global engine for hype-driven collecting, from designer vinyl figures to the plush-charm boom that brands now chase. By issuing its first capsule toy through this system, Starbucks is borrowing a mechanic built for repeat pulls and trade-driven community, the same surprise-and-collect logic that has powered so many recent drop phenomena.The products themselves lean on that collectible instinct. The standard lineup comprises five designs, each a plush rendering of a Starbucks staple: a Double Tall Latte in a To Go cup, a Caramel Macchiato in a For Here glass, a TOKYO Roast, a Matcha Cream Frappuccino, and a Sugar Donut. Every capsule contains one charm at random, so buyers only learn which they have pulled once the roughly 75mm shell cracks open. Each charm carries a hook, a small but deliberate design choice that lets collectors chain favorites together or clip them onto bags and pouches, extending the appeal from a single pull into a modular, mix-and-match set.Timing gives the drop added resonance. Starbucks entered the Japanese market three decades ago, and the brand has grown into one of the country's most culturally embedded foreign imports, its seasonal Frappuccinos and regional exclusives treated with the kind of anticipation usually reserved for streetwear. Anchoring the launch to its landing anniversary frames the charms as a celebration of that history rather than a simple merchandise play.A more exclusive tier extends the collection at Starbucks Reserve Roastery Tokyo, which receives its own Starbucks Reserve Joyful Capsule the same day. That set spans four designs drawn from the Roastery's specialized menu, a Caffè Americano To Go, a Caffè Latte For Here, a Tokyo Roastery Micro Blend, a"
+    },
+    {
+      "id": "788b016684abdabd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Look at the Brain Dead x adidas Originals Samba Bowling Animal Pack",
+      "url": "https://hypebeast.com/2026/7/brain-dead-adidas-originals-samba-bowling-animal-pack-cheetah-kh8143-kj0662-snakeskinrelease-info",
+      "publishedAt": "2026-07-29T11:14:05.000Z",
+      "collectedAt": "2026-07-29T14:21:28.009Z",
+      "text": "Official Look at the Brain Dead x adidas Originals Samba Bowling Animal Pack Name: Brain Dead x adidas Samba Bowling Animal PackColorway: “Cheetah,” “Snakeskin”SKU: KH8143, KJ0662MSRP: TBCRelease Date: August 1Where to Buy: adidasLA-based creative collective Brain Dead has once again joined forces with adidas, delivering an inventive yet animal-print-heavy spin on the Samba silhouette. Comprising two striking iterations, spanning “Cheetah” and “Snakeskin,” the collaboration reinvents the classic indoor football sneaker through the lens of archival bowling footwear and maximalist animal prints.Both pairs feature premium textile uppers with exaggerated bowling‑style overlays, blending adidas’ heritage silhouette with Brain Dead’s playful, disruptive design ethos. The “Cheetah” edition showcases a spotted pattern across the faux-hair upper, with cream-colored Three-Stripes that contrast the glossy black leather heel, tongue and sole.Similarly, the “Snakeskin” version also features cream striped overlays and black leather details, while its title pattern arrives in a textured, faux-snake skin effect. Branding is kept sharp and with co‑branded tongue tags and Brain Dead’s signature graphics integrated into the design. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0d602e46b70fc4d0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Reebok Prepares the Engine A \"Pump\" for Modern Hardwood Play",
+      "url": "https://hypebeast.com/2026/7/reebok-engine-a-pump-white-black-orange-100277685-official-images-release-info",
+      "publishedAt": "2026-07-29T10:37:59.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "Reebok Prepares the Engine A \"Pump\" for Modern Hardwood Play Name: Reebok Engine A “Pump”Colorway: White/Black-OrangeSKU: 100277685MSRP: $160 USDRelease Date: July 31Where to Buy: ReebokThe soon-to-release Reebok Engine A \"Pump\" is a silhouette that directly honors the iconic 1991 Pump Omni Zone II worn by Dee Brown. Rendered in a \"White/Black/Orange\" colorway, the sneaker utilizes a one-piece molded synthetic exoskeleton cage over a breathable mesh textile underlay to provide lightweight, adaptive lockdown.Paying homage to the brand's early-'90s basketball dominance, the shoe is elevated by the integration of Reebok’s nostalgic, functional The Pump technology directly into the tongue, allowing wearers to customize their fit while celebrating 35 years of Pump heritage. Distinctive accents, including sharp orange contrast detailing and heritage-inspired graphic placements, ground the futuristic low-top aesthetic in decades of basketball history.Underfoot, the sneaker utilizes Reebok’s ERS (Energy Return System) platform paired with SuperFloat cushioning, delivering responsive comfort and stability for on‑court performance. Cutouts in the outsole reveal the foam core, while a precision‑mapped traction pattern ensures grip during quick transitions. Unlike the original Pump models, this iteration does not feature an inflation mechanism; instead, the “Pump” designation operates as a visual and historical homage. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8cbf13a173f9e08f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "nonnative Updates Modern GORE-TEX Wardrobe Staples for FW26",
+      "url": "https://hypebeast.com/2026/7/nonnative-fall-winter-2026-collection-lookbook-info",
+      "publishedAt": "2026-07-29T10:30:05.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "nonnative Updates Modern GORE-TEX Wardrobe Staples for FW26 Japanese street and lifestyle label nonnative has unveiled the lookbook to its Fall/Winter 2026 collection, exploring a lifestyle that seamlessly bridges urban environments and the outdoors.The lineup spans voluminous outerwear, high-neck knitwear, heavy utility trousers, shirting and lifestyle accessories designed for effortless layering. Military uniform codes heavily anchor the season’s aesthetic, highlighted by flight jackets crafted from premium leathers alongside classic fatigue jackets that combine traditional textile compositions with GORE-TEX technologies.Standout bottoms include aviation-style trousers outfitted with multi-pocket utility detailing and cut in relaxed, easy-moving silhouettes. Zip-through high-neck knits and tactile mid-layers round out the lineup, offering warmth and structural depth across cold-weather wardrobes.Each piece is engineered to transition smoothly between city streets and unpredictable outdoor terrain, reinforcing the label's commitment to understated technical craftsmanship. The nonnative FW26 collection begins its rollout with phased seasonal deliveries starting in August. It'll also be avaiable through select global stockists such as HBX in the coming weeks. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "23dce6d684072bd2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Palm Angels Wants You To Explore the “Lost Frames” in Its FW26 Campaign",
+      "url": "https://hypebeast.com/2026/7/palm-angels-fall-winter-2026-campaign-lost-frames-info",
+      "publishedAt": "2026-07-29T10:28:05.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "Palm Angels Wants You To Explore the “Lost Frames” in Its FW26 Campaign Summary Palm Angels unveils its FW26 \"Lost Frames\" campaign, lensed in a historic theatre using a grainy VHS aesthetic.The range updates signature tracksuits, technical outerwear, tailoring and fluid mini dresses with rich fabrications.The collection is now available via Palm Angels and select global retailers. Palm Angels’ Fall/Winter 2026 campaign, titled “Lost Frames,” unfolds as a cinematic exploration of memory and atmosphere. Shot by Sharna Osbourne and Van Khokhlov inside a historic theatre, the visuals, defined by Osbourne’s VHS aesthetic, capture empty auditoriums, backstage corners and softly lit interiors, creating a tactile, timeworn quality that blurs the line between performance and aftermath.The narrative unfolds across empty auditoriums, backstage corners, and velvet-draped balconies, creating an intimate, lingering post-show atmosphere. Within this low-lit setting, the collection shines through its rich material depth, using treated jersey, premium denim, and tactile fabrics designed to transition effortlessly from daytime wear to evening outings.The FW26 product range balances refined tailoring with Palm Angels’ core athletic identity. Women's silhouettes lean into confident femininity via fluid mini dresses, precise suiting, and elevated knitwear, while the men's offering reinterprets sportswear staples - such as signature tracksuits, technical outerwear, and oversized shirting - with richer fabrications and cleaner construction. Serving as the collection's centerpiece, the brand's iconic palm tree motif undergoes a fresh evolution. It appears printed, embroidered, and sculpted into polished metal palm-tree studs, acting as a subtle yet definitive marker of identity across the wardrobe. The Fall/Winter 2026 line is now available globally online at palmangels.com and through select retail stockists. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6b02e63a48dc6cd7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HOFF’s New Bridge Jacquard Sneaker Marries Ballet Aesthetics With Woven Textiles",
+      "url": "https://hypebeast.com/2026/7/hoff-jacquard-bridge-shoe-fern-teal-mustard-rose-colorways-release-info",
+      "publishedAt": "2026-07-29T10:16:48.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "HOFF’s New Bridge Jacquard Sneaker Marries Ballet Aesthetics With Woven Textiles Name: HOFF Jacquard BridgeMSRP: $230 USDRelease Date: Available NowWhere to Buy: HOFFHOFF expands its versatile footwear catalog with the release of the Bridge Jacquard, a silhouette that thoughtfully reimagines the classic ballet-inspired sneaker through a tactile, elevated lens. Crafted from a premium blend of embroidered jacquard cotton, subtle textile weaves and soft suede and leather overlays, the upper showcases an artisanal texture that brings depth and dimension to the low-profile design.Dropping in four rich, seasonal colorways - Teal, Fern, Mustard and Rose - each iteration is paired with clean, tone-on-tone laces that preserve the shoe's streamlined, minimal aesthetic. Adding a sharp visual anchor to the back of the shoe, the design is elevated by a contrasting heel tab complete with subtle, refined HOFF logo detailing.Engineered for natural ease and timeless everyday wear, the lower half of the Bridge Jacquard prioritizes both comfort and grip. Inside, the sneaker features an adaptable memory-foam insole and a smooth textile lining designed for all-day cushioning. Beneath the upper, a lightweight and flexible midsole unit is complemented by an aggressively textured rubber and EVA outsole engineered to provide reliable traction across city streets. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4cfcfff2d690bf36",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "GALLERY DEPT. Unveils Its First-Ever Eyewear Collection",
+      "url": "https://hypebeast.com/2026/7/gallery-dept-first-eyewear-collection-release-info",
+      "publishedAt": "2026-07-29T10:06:48.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "GALLERY DEPT. Unveils Its First-Ever Eyewear Collection Summary GALLERY DEPT. debuts its first eyewear collection designed by Josué Thomas.Five silhouettes span acetate, metal, sport-inspired and classic frames.Available to shop via GalleryDept.com, priced from $250 – $285 USD. GALLERY DEPT. expands its creative imprint with the debut of its first-ever eyewear collection, marking a major milestone for the West Coast label. Designed by founder and artist Josué Thomas, the line serves as a natural extension of the brand's visual identity, drawing inspiration from Hollywood uniform culture and Thomas's personal connection to sunglasses as an essential style anchor.The initial drop introduces five distinct silhouettes crafted across a spectrum of bold to refined proportions, utilizing both premium acetate and metal constructions. Incorporating hardware details derived directly from GALLERY DEPT.'s jewelry line, the frames showcase signature brand iconography while spanning classic and sport-focused aesthetics. Every model is named after a date of personal and cultural significance to Thomas, leaving room for wearers to project their own individual narratives and memories onto each piece.The collection is currently available to shop via GALLERY DEPT.'s website and physical stores, with prices going from $250 to $285 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e3860d246c05bbcc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Images of Kevin Durant’s Nike KD 19 “Butter Candy”",
+      "url": "https://hypebeast.com/2026/7/nike-kd-19-butter-candy-solar-flare-stadium-greenih1117-700-official-images-release-info",
+      "publishedAt": "2026-07-29T09:56:56.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "Official Images of Kevin Durant’s Nike KD 19 “Butter Candy” Name: Nike KD 19 “Butter Candy”Colorway: Solar Flare/Stadium GreenSKU: IH1117-700MSRP: $155 USDRelease Date: August 19Where to Buy: NikeNike continues to expand Kevin Durant’s signature footwear lineage with the introduction of the Nike KD 19 \"Butter Candy,\" a colorway that merges high-performance basketball engineering with a smooth, confectionery-inspired aesthetic. Draped in a warm palette of creamy yellows, the upper arrives in a synthetic vinyl upper with a TPU exterior.Underfoot, the sneaker is equipped with a full‑length Zoom Air cushioning system housed within a sculpted midsole, ensuring responsiveness and comfort on the court. The outsole features a multidirectional traction pattern comprising lightning-bolt, scythe and jersey-number shapes as homage to Durant. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c71994de074cf324",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Logitech Says It Has No Plans for a New Gaming Handheld to Follow the G Cloud",
+      "url": "https://hypebeast.com/2026/7/logitech-g-cloud-2-handheld-plans-put-on-hold",
+      "publishedAt": "2026-07-29T09:14:49.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "Logitech Says It Has No Plans for a New Gaming Handheld to Follow the G Cloud Summary Logitech G head Robin Piispanen confirmed the company has no immediate plans for a second-generation G Cloud handheldThe executive cited a lack of proprietary content as a significant disadvantage compared to industry leaders like Nintendo and ValveRoughly 80 percent of original buyers eventually stopped using the streaming device to pivot toward other projects Logitech G global head of gaming Robin Piispanen revealed that the company is currently focused on different priorities than a follow-up to its 2022 streaming handheld. Speaking to The Verge, the executive explained that successful portable platforms typically require deep integration with proprietary games. This specific strategy propelled the success of the Steam Deck and Nintendo Switch. Without a dedicated storefront or exclusive titles, the brand faces a massive hurdle in competing against established hardware giants.The original G Cloud found a dedicated niche of users at launch. Piispanen admitted that the product failed to sustain long-term engagement for the vast majority of buyers. He noted that approximately 80 percent of consumers bought the device, tested it and ultimately placed it in a drawer. Slow development of cloud gaming infrastructure played a major role in this decline. Major providers did not build out the necessary architecture quickly enough to support a seamless portable streaming experience. Microsoft even acknowledged that running cloud operations remains highly expensive.Current market conditions make returning to the portable sector even more difficult for independent hardware manufacturers. Competitors operate on extremely slim margins while relying on partnerships to maintain relevance. Component prices are currently surging across the tech industry. High-powered alternatives like the Ayaneo Next 2 command premium price tags, while select Steam Deck models recently saw significant price increases. Constructing a standalone device would require Logitech to navigate these steep supply chain costs without software sales to subsidize the hardware.Despite the initial setback, the tech company is not abandoning portable gaming concepts entirely. Executives are holding ongoing discussions with industry heavyweights like Microsoft and Tencent to explore how the ecosystem might evolve. The design team is actively investing in the future of remote processing technology. Streaming solves major "
+    },
+    {
+      "id": "3ef7e513f7e1ab01",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A Brand New Survival-Horror Title Is Coming to the SEGA Dreamcast 25 Years After SEGA Left the Console Market",
+      "url": "https://hypebeast.com/2026/7/white-creek-brings-new-survival-horror-sega-dreamcast",
+      "publishedAt": "2026-07-29T09:14:46.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "A Brand New Survival-Horror Title Is Coming to the SEGA Dreamcast 25 Years After SEGA Left the Console Market Summary Independent developers continue to release original titles for the Sega Dreamcast more than 25 years after the console was officially discontinued in 2001The latest project is White Creek, a survival-horror game that utilizes the system's 3D capabilities to deliver a cinematic experience comparable to the NAOMI arcade eraThe console's enduring homebrew scene is supported by its lack of modern digital rights management and hardware that allows booting from standard CDs Twenty-five years after Sega exited the console market, the SEGA Dreamcast remains a viable platform for new software development. The recently announced White Creek, developed by Story Bird Studios and published by PixelHeart, arrives as a dedicated survival-horror title built specifically for the vintage hardware. Instead of merely drawing inspiration from late-1990s classics, the development team engineered the project to maximize the technical limits of the Dreamcast. Players experience 3D environments and fixed cinematic camera angles that rival high-end arcade productions of the NAOMI era. The title is also planned for a simultaneous release on Steam.Set in an isolated and cursed wintry town, the narrative follows exorcist protagonist Alicia Morelli. She investigates a localized outbreak of violence and encounters possessed residents haunted by lost souls. Gameplay balances action and psychological tension by forcing players to make critical moral choices. Alicia can execute threats with firearms or use her psychic powers to exorcise and save them. Her arsenal includes a mobile phone used to detect spiritual anomalies and solve environmental puzzles. Confronting corrupted souls in intense Exorcism Overdrive sequences requires gathering evidence and breaking through visual illusions to bring peace to the town.The sheer longevity of the Dreamcast is rooted in its highly accessible architecture. Hackers easily bypassed the proprietary GD-ROM format years ago, allowing users to boot homebrew software directly from standard CDs without requiring internal hardware modifications. Unlike modern platforms that rely on mandatory network authentication, the final Sega console lacks remote kill switches. This open environment prevents the manufacturer from disabling the system and effectively freezing player libraries. Sites like The Dreamcast Junkyard and boutique publishers like J"
+    },
+    {
+      "id": "4a56e5a4f9024688",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Macaulay Culkin's ‘Home Alone’ Return Reportedly Gains Momentum as Disney Courts the Star",
+      "url": "https://hypebeast.com/2026/7/disney-courting-macaulay-culkin-new-home-alone-film-reports-rumors",
+      "publishedAt": "2026-07-29T09:00:45.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "Macaulay Culkin's ‘Home Alone’ Return Reportedly Gains Momentum as Disney Courts the Star Macaulay Culkin's long-rumored return to Home Alone may be inching closer, with a new report suggesting Disney is eager to bring the star back for a proper legacy sequel. The claim comes from Matt Belloni of The Town podcast, who reported that Culkin was recently seen on the Disney lot and that the studio is keen to court him, though no deal has been formally announced.Per Belloni's report, Disney is said to be enthusiastic about making a Culkin-led sequel happen, with the studio reportedly viewing his pitch as a strong idea and eager to secure his involvement. Those characterizations come entirely from the podcast, and it is worth stressing that nothing has been confirmed by either the actor or the studio, leaving the project firmly in the rumor stage for now. Still, the report frames the momentum as more concrete than in previous years, positioning a return as a real possibility rather than idle speculation.The pitch itself is not new. During his 2025 \"A Nostalgic Night With Macaulay Culkin\" tour, the actor laid out his vision for a third chapter in which a now-adult Kevin McCallister has become a neglectful father and finds himself locked out of his home by his young son. The premise would flip the original's formula, casting Kevin in the intruder role once held by the Wet Bandits as he attempts to break back into the house, and metaphorically back into his child's life, while dodging the traps his son has set. That inversion would leave little narrative room for the return of Joe Pesci and Daniel Stern's burglars.Culkin's history with the series adds weight to the report's appeal. The actor headlined 1990's Home Alone and its 1992 follow-up Home Alone 2: Lost in New York, then stepped away from the franchise entirely. The property carried on without him across several installments, beginning with 1997's Home Alone 3 and continuing through 2002's Home Alone 4, 2012's Home Alone: The Holiday Heist, and the 2021 reboot Home Sweet Home Alone, none of which recaptured the original's cultural pull. A Culkin-led entry would mark his first involvement in more than three decades.Any reunion would arrive under bittersweet circumstances, however. Chris Columbus, who directed the first two films, has voiced skepticism about revisiting the material, telling Entertainment Tonight in 2025 that he believes the original moment cannot be recaptured. The original cast has also been "
+    },
+    {
+      "id": "69c27fcc3d3bb1be",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ChatGPT Now Refuses to Mimic Famous Authors' Writing Styles Over Copyright Concerns",
+      "url": "https://hypebeast.com/2026/7/chatgpt-blocks-famous-author-styles-amid-copyright-push",
+      "publishedAt": "2026-07-29T08:57:51.000Z",
+      "collectedAt": "2026-07-29T14:21:28.010Z",
+      "text": "ChatGPT Now Refuses to Mimic Famous Authors' Writing Styles Over Copyright Concerns Summary ChatGPT is now blocking user requests to generate text in the specific writing styles of famous authorsThe AI refuses direct imitation but offers to create original content capturing the broader aesthetic qualities of a requested writerOpenAI quietly rolled out the guardrail amid a wave of high-profile legal challenges from major authors and publishers OpenAI quietly rolled out a massive new guardrail for its flagship product. Users attempting to generate text mimicking the specific style of famous authors are now hitting a digital brick wall. ChatGPT is explicitly declining direct prompts to clone the literary voices of prominent writers. The system points to copyright protections for both living and deceased creators when blocking these requests.Testing conducted by Ars Technica and the research publication No Latency first highlighted the behavioral shift. When prompted to channel Agatha Christie for a mystery story, the chatbot refuses the direct imitation. It offers a compromise instead. The system volunteers to produce original content possessing the general hallmarks associated with the requested writer. A prompt asking for Stephen King yields an offer to generate atmospheric horror and small-town dread without copying his exact distinctive voice. This restriction applies to a wide spectrum of literary icons ranging from Charles Dickens to contemporary figures like J.K. Rowling and Amy Tan.The structural update follows a massive wave of copyright infringement lawsuits. Organizations such as the Authors Guild and major media entities including The New York Times allege the tech giant trained its artificial intelligence models on copyrighted materials without permission. Copyright law traditionally protects the specific expression of an idea rather than a general aesthetic. An AI-generated stylistic imitation could cross into infringement territory if the output becomes substantially similar to the original creator's work. By stopping the chatbot from directly cloning a writer's identity, the company appears to be building a defensive legal narrative. The move frames its generative tools as engines for inspiration rather than mechanisms for wholesale reproduction.Creative communities are already feeling the friction from the unannounced restriction. Longtime users who previously relied on hyper-specific author prompts to refine their prose now have to adjust th"
+    },
+    {
+      "id": "16e52d0e7beb9a13",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "WILD LIFE TAILOR and Wrangler Rework a Workwear Staple Into a Suede Double-Knee Jean",
+      "url": "https://hypebeast.com/2026/7/wild-life-tailor-and-wrangler-rework-a-workwear-staple-into-a-suede-double-knee-jean",
+      "publishedAt": "2026-07-29T08:50:40.000Z",
+      "collectedAt": "2026-07-29T14:21:28.011Z",
+      "text": "WILD LIFE TAILOR and Wrangler Rework a Workwear Staple Into a Suede Double-Knee Jean Summary The Wrangler for WILD LIFE TAILOR EX Suede Double Knee Jean pairs a relaxed straight silhouette with a workwear-rooted double-knee constructionWashable cow suede reinforces the knee panels, balancing a premium hand-feel with everyday practicalityThe special order was designed from a newly created pattern made exclusively for WILD LIFE TAILOR Wrangler and WILD LIFE TAILOR have joined forces on the EX Suede Double Knee Jean, a special order that filters the denim label's utilitarian roots through a considered, retailer-exclusive lens. Rather than pull an existing fit off the shelf, the two built the jean from a newly drafted pattern, threading a workwear signature through a silhouette designed specifically for this release.Wrangler's identity has always been tied to labor and the American West, a brand that made its name outfitting rodeo riders and working cowboys with denim engineered to survive the saddle and the job site. The double-knee construction at the center of this collaboration draws on that same lineage, a reinforcement detail long associated with carpenters, ranch hands, and tradespeople who needed their trousers to outlast the wear that knees take first. By anchoring the project to a feature the source itself frames as emblematic of workwear, Wrangler and WILD LIFE TAILOR position the piece as a nod to function before fashion.Where the special order departs from tradition is in its material choices. The knee panels are executed in washable cow suede, an upgrade that lends the utilitarian detail a more refined texture while sidestepping the fragility suede usually carries, since it can be laundered rather than babied. The base is a straight-leg jean cut with a moderate amount of room, a relaxed shape that reads closer to a contemporary tailored fit than the rigid, body-hugging cuts of Wrangler's mid-century catalog. Offered in black and indigo, the two colorways keep the palette grounded and versatile, letting the suede reinforcement carry the visual interest.The collaboration also reflects WILD LIFE TAILOR's position within the JUN retail group, whose customer center handles inquiries for the release, and points to the growing appetite among Japanese specialty retailers for reworking heritage American workwear through a local, detail-driven sensibility. It is a familiar formula in that market, taking a storied Western label and refracting its codes thro"
+    },
+    {
+      "id": "35b447540bd99e5c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jessica Ogden and A.P.C. Reconstruct Brighton's Victorian Tilework for Their 30th “QUILTS” Chapter",
+      "url": "https://hypebeast.com/2026/7/jessica-ogden-a-p-c-apc-quilts-30th-installment-release-info",
+      "publishedAt": "2026-07-29T09:32:24.000Z",
+      "collectedAt": "2026-07-29T14:21:28.011Z",
+      "text": "Jessica Ogden and A.P.C. Reconstruct Brighton's Victorian Tilework for Their 30th “QUILTS” Chapter Summary The 30th A.P.C. QUILTS collection draws its patterns from the tiled entrance steps of Victorian houses in BrightonDesigns were built by photographing the tilework from multiple angles, printing the images, then cutting and reassembling them as collageThe release continues the ongoing quilt partnership between A.P.C. and British designer Jessica Ogden A.P.C. and Jessica Ogden are back with the 30th edition of A.P.C. QUILTS, the pair's long-running textile series, and this chapter finds its starting point on the English coast. The collection grew out of walks along the Brighton seaside, where the tiled doorstep steps of Victorian-era homes, each carrying its own distinct pattern, became the unlikely source material for a new run of quilts.The QUILTS project has been one of the quieter but more enduring threads in A.P.C.'s catalog, a recurring collaboration with Jessica Ogden that reframes the quilt as a canvas for craft and reuse rather than a seasonal throw. Ogden, a British designer with deep roots in patchwork and hand-driven construction, has long treated the medium as a way to salvage and recombine, and her sensibility has given the series a consistency that survives across its many installments. Founded by Jean Touitou, A.P.C. has always positioned itself around a certain restraint and material honesty, which makes Ogden's tactile, improvisational approach a natural counterpoint within the house.For this installment, that recombinant instinct turns toward architecture. Ogden and A.P.C. looked to the mosaic tilework set into the entrance stairs of Brighton's Victorian houses, a detail most passersby overlook, and treated the individuality of each home's pattern as a design library. The process was deliberately mediated rather than literal: the tiles were photographed from various angles, those images printed, and the printed patterns then cut apart and reconstructed into collage. The finished quilts read as an abstraction of an abstraction, translating hand-laid Victorian geometry through the lens of the camera and the scissors.That method sits comfortably within the series' established logic, where found visual information gets fragmented and rebuilt into something new. By sourcing from the domestic thresholds of a specific English town, the 30th chapter grounds itself in place while keeping the collage-driven approach that has defined the collabo"
+    },
+    {
+      "id": "03a9a391a99021a4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The NikeSKIMS Studio Edit 02 Collection Adds New Sculpting Fabrics, Elevated Layers, and an Exclusive Cobalt Colorway",
+      "url": "https://hypebeast.com/2026/7/kim-kardashian-nike-nikeskims-skims-studio-edit-02-collection-release-info",
+      "publishedAt": "2026-07-29T08:50:36.000Z",
+      "collectedAt": "2026-07-29T14:21:28.011Z",
+      "text": "The NikeSKIMS Studio Edit 02 Collection Adds New Sculpting Fabrics, Elevated Layers, and an Exclusive Cobalt Colorway Summary NikeSKIMS Studio Edit 02 expands the label's studio collection with new fabrications, layering pieces, and accessoriesThe drop introduces Satin Shine, a fabric offering firm compression and sculpting support with a soft shine finishThe NikeSKIMS Rift Satin sneaker returns in a new Navy alongside Night Silver and Black colorways NikeSKIMS has unveiled Studio Edit 02, the newest evolution of its studio collection, and the release doubles as a clear statement of what the partnership was built to do. Positioned to blur the line between performance and style, the drop fuses Nike's sport innovation with SKIMS' signature fit, extending a studio wardrobe designed to carry from a workout into the rest of the day.The NikeSKIMS venture arrived as one of the more closely watched tie-ups in recent activewear memory, a formal partnership pairing Nike's engineering depth with the shapewear label Kim Kardashian built into a cultural juggernaut. The proposition was always about fusion: Nike's decades of performance material science meeting SKIMS' obsessive focus on fit, compression, and the body. Studio Edit 02 reads as a maturing of that thesis, moving past an introductory statement into a collection confident enough to build out layers, accessories, and franchise footwear.That confidence shows most clearly in the materials. The drop introduces Satin Shine, a new studio fabrication that combines firm compression and sculpting support with a soft shine finish, a construction that speaks directly to SKIMS' sculpting heritage while dressing it in a more polished surface. Running alongside it are Stretch Nylon silhouettes rendered in an exclusive Cobalt, described as the collection's boldest expression of color yet and a departure from the muted, tonal palettes that shapewear-adjacent ranges often default to.Footwear anchors the release as well. The NikeSKIMS Rift Satin sneaker makes its return, now offered in a new Navy alongside Night Silver and Black, giving the collection a recognizable hero product to build around. Taken together with the new statement layers and elevated accessories, Studio Edit 02 pushes the studio wardrobe outward, positioning versatile essentials as pieces meant to function well beyond the studio itself and reinforcing the everyday-wear ambition that has framed the partnership from the start.NikeSKIMS Studio Edit 02 launches J"
+    },
+    {
+      "id": "ac80c73c8787b1fa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple TV Drops the ‘Ted Lasso’ Season Four Trailer, Sending Ted to Coach a Women's Team",
+      "url": "https://hypebeast.com/2026/7/apple-tv-jason-sudeikis-ted-lasso-season-4-together-trailer-stream",
+      "publishedAt": "2026-07-29T08:58:24.000Z",
+      "collectedAt": "2026-07-29T14:21:28.012Z",
+      "text": "Apple TV Drops the ‘Ted Lasso’ Season Four Trailer, Sending Ted to Coach a Women's Team Summary Apple TV has released the trailer for the fourth season of the global hit 'Ted Lasso,' led by Jason SudeikisSeason four sends Ted back to Richmond to take on a second-division women's football teamThe ten-episode season premieres August 5 and runs weekly through October 7 Ted Lasso is officially returning for a fourth season, with Apple TV releasing a first look that finds the relentlessly optimistic coach facing an entirely new challenge. This time out, Ted (Jason Sudeikis) heads back to Richmond to coach a second-division women's football team, a premise that reframes the show's familiar underdog formula around a fresh roster and a different corner of the sport.The new season leans into that leap-of-faith spirit as its central theme, with the trailer signaling that Ted and his players learn to leap before they look, taking chances they never thought they would. It marks a notable shift for a series that spent its first three seasons chronicling a men's Premier League side, moving Ted into the women's game while keeping him anchored to the club and the town that defined his story. The setup preserves the show's core appeal, its warmth and its faith in people, while giving the fourth season a clear reason to exist beyond nostalgia. That return carries weight because of how large Ted Lasso loomed at its peak. The show became one of Apple TV's signature titles after its 2020 debut, growing from a sleeper into an awards juggernaut and a genuine cultural touchstone built on kindness rather than cynicism. Its earlier seasons racked up a substantial haul of Emmy recognition, a pedigree the source underscores by pointing to the Emmy pedigree of stars Sudeikis and Hannah Waddingham and creatives like Brett Goldstein and Jack Burditt. A fourth season arrives, then, as both a continuation and a test of whether that lightning can strike again.The cast reunites a deep bench of fan favorites, with Waddingham, Juno Temple, Goldstein, Brendan Hunt, and Jeremy Swift all returning to Richmond. They are joined by a wave of new additions including Tanya Reynolds, Jude Mack, Faye Marsay, Rex Hayes, Aisling Sharkey, Abbie Hern, and Grant Feely. Behind the camera, Sudeikis executive produces alongside Hunt, Joe Kelly, Jane Becker, Jamie Lee, and Bill Wrubel, with Burditt joining as an executive producer under a new overall deal with Apple TV. Goldstein returns as a writer and executi"
+    }
+  ]
 }

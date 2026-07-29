@@ -1,9 +1,7 @@
-# Fieldwork Synthesis Scout — 2026-07-28
+# Fieldwork Synthesis Scout — 2026-07-29
 
 ## Cross-source candidates
 
-1. **Narrow technical footwear** — publication 72; public conversation 85.
-2. **Quiet performance** — publication 72; public conversation 70.
-3. **Archival sportswear** — publication 72; public conversation 76.
+1. **Decorated basics** — publication 43; public conversation 69.
 
 Human curation required: select one thesis, define the customer and price ceiling, then research actual products and availability.

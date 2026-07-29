@@ -1,156 +1,48 @@
 {
   "run": {
-    "id": "2026-07-28",
-    "mode": "fixture",
-    "displayDate": "JUL 28, 2026, 01:00 AM EDT",
-    "generatedAt": "2026-07-28T05:00:24.139Z",
-    "itemsCollected": 9,
+    "id": "2026-07-29",
+    "mode": "live",
+    "displayDate": "JUL 29, 2026, 10:21 AM EDT",
+    "generatedAt": "2026-07-29T14:21:29.234Z",
+    "itemsCollected": 71,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 3
+        "count": 28
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 3
+        "count": 23
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 3
+        "count": 20
       }
     ]
   },
-  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 72,
-      "confidence": 57,
-      "youthRelevance": 100,
-      "direction": "up",
-      "thesis": "Narrow technical footwear is appearing across 3 independent public sources.",
-      "whyNow": "3 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "3 observations · 3 independent sources · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Low-profile motorsport shoes return in affordable new drops",
-          "source": "Vogue",
-          "date": "Jul 27",
-          "url": "https://example.com/fashion/low-profile-motorsport"
-        },
-        {
-          "title": "Low-profile motorsport shoes return in affordable new drops",
-          "source": "Highsnobiety",
-          "date": "Jul 27",
-          "url": "https://example.com/fashion/low-profile-motorsport"
-        },
-        {
-          "title": "Low-profile motorsport shoes return in affordable new drops",
-          "source": "Hypebeast",
-          "date": "Jul 27",
-          "url": "https://example.com/fashion/low-profile-motorsport"
-        }
-      ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 72,
-      "confidence": 57,
-      "youthRelevance": 44,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 3 independent public sources.",
-      "whyNow": "3 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "3 observations · 3 independent sources · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Technical outerwear becomes quieter and packable",
-          "source": "Vogue",
-          "date": "Jul 26",
-          "url": "https://example.com/fashion/quiet-performance"
-        },
-        {
-          "title": "Technical outerwear becomes quieter and packable",
-          "source": "Highsnobiety",
-          "date": "Jul 26",
-          "url": "https://example.com/fashion/quiet-performance"
-        },
-        {
-          "title": "Technical outerwear becomes quieter and packable",
-          "source": "Hypebeast",
-          "date": "Jul 26",
-          "url": "https://example.com/fashion/quiet-performance"
-        }
-      ]
-    },
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 72,
-      "confidence": 57,
-      "youthRelevance": 100,
-      "direction": "up",
-      "thesis": "Archival sportswear is appearing across 3 independent public sources.",
-      "whyNow": "3 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "3 observations · 3 independent sources · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Low-profile motorsport shoes return in affordable new drops",
-          "source": "Vogue",
-          "date": "Jul 27",
-          "url": "https://example.com/fashion/low-profile-motorsport"
-        },
-        {
-          "title": "Low-profile motorsport shoes return in affordable new drops",
-          "source": "Highsnobiety",
-          "date": "Jul 27",
-          "url": "https://example.com/fashion/low-profile-motorsport"
-        },
-        {
-          "title": "Low-profile motorsport shoes return in affordable new drops",
-          "source": "Hypebeast",
-          "date": "Jul 27",
-          "url": "https://example.com/fashion/low-profile-motorsport"
-        }
-      ]
-    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 72,
-      "confidence": 57,
-      "youthRelevance": 100,
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 54,
       "direction": "up",
-      "thesis": "Decorated basics is appearing across 3 independent public sources.",
-      "whyNow": "3 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "3 observations · 3 independent sources · +100% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
       "citations": [
         {
-          "title": "Creators customize basics with hardware and charms",
-          "source": "Vogue",
-          "date": "Jul 25",
-          "url": "https://example.com/fashion/decorated-basics"
-        },
-        {
-          "title": "Creators customize basics with hardware and charms",
-          "source": "Highsnobiety",
-          "date": "Jul 25",
-          "url": "https://example.com/fashion/decorated-basics"
-        },
-        {
-          "title": "Creators customize basics with hardware and charms",
+          "title": "Starbucks Japan Turns Its Menu Into Blind Box Collectible Plush Charms With the \"Joyful Capsule\" Series",
           "source": "Hypebeast",
-          "date": "Jul 25",
-          "url": "https://example.com/fashion/decorated-basics"
+          "date": "Jul 29",
+          "url": "https://hypebeast.com/2026/7/starbucks-japan-joyful-capsule-hanging-charms-release-info"
         }
       ]
     }
@@ -160,17 +52,15 @@
     "reason": "More history is required."
   },
   "prediction": {
-    "title": "Narrow technical footwear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0728",
-    "name": "Narrow technical footwear",
-    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
+    "code": "AUTO 0729",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Low-profile motorsport shoes return in affordable new drops",
-      "Low-profile motorsport shoes return in affordable new drops",
-      "Low-profile motorsport shoes return in affordable new drops"
+      "Starbucks Japan Turns Its Menu Into Blind Box Collectible Plush Charms With the \"Joyful Capsule\" Series"
     ]
   }
 }
