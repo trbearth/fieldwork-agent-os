@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-07-30",
+    "id": "2026-07-31",
     "mode": "live",
-    "displayDate": "JUL 30, 2026, 10:13 AM EDT",
-    "generatedAt": "2026-07-30T14:13:44.310Z",
-    "itemsCollected": 62,
+    "displayDate": "JUL 31, 2026, 10:20 AM EDT",
+    "generatedAt": "2026-07-31T14:20:33.429Z",
+    "itemsCollected": 65,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 17
+        "count": 16
       },
       {
         "source": "Hypebeast",
@@ -30,19 +30,39 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 54,
+      "score": 48,
+      "confidence": 24,
+      "youthRelevance": 73,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Spotify Introduces New \"User Notes\" Feature for In-App Music Journaling",
+          "source": "Hypebeast",
+          "date": "Jul 31",
+          "url": "https://hypebeast.com/2026/7/spotify-user-notes-turn-playlists-into-journals"
+        }
+      ]
+    },
+    {
+      "id": "narrow-technical-footwear",
+      "name": "Narrow technical footwear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 38,
+      "direction": "up",
+      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
       "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
       "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
       "citations": [
         {
-          "title": "Starbucks Japan Turns Its Menu Into Blind Box Collectible Plush Charms With the \"Joyful Capsule\" Series",
-          "source": "Hypebeast",
-          "date": "Jul 29",
-          "url": "https://hypebeast.com/2026/7/starbucks-japan-joyful-capsule-hanging-charms-release-info"
+          "title": "This New Balance Collab Is a Trail Shoe, Dad Shoe & Sci-Fi Prototype All In One",
+          "source": "Highsnobiety",
+          "date": "Jul 31",
+          "url": "https://www.highsnobiety.com/p/action-bronson-new-balance-2811/"
         }
       ]
     }
@@ -56,11 +76,11 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0730",
+    "code": "AUTO 0731",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Starbucks Japan Turns Its Menu Into Blind Box Collectible Plush Charms With the \"Joyful Capsule\" Series"
+      "Spotify Introduces New \"User Notes\" Feature for In-App Music Journaling"
     ]
   }
 }
