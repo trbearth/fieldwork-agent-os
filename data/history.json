@@ -100,6 +100,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-01",
+      "mode": "live",
+      "displayDate": "AUG 01, 2026, 09:38 AM EDT",
+      "generatedAt": "2026-08-01T13:38:27.542Z",
+      "itemsCollected": 45,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 19
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 48,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -2280,6 +2317,501 @@
       "publishedAt": "2026-07-31T03:42:56.000Z",
       "collectedAt": "2026-07-31T14:20:32.197Z",
       "text": "Coca-Cola and New Era Team up With Kosuke Kawamura for Collaborative Collection Summary Coca-Cola and New Era are releasing a collaborative collection featuring artist Kosuke KawamuraThe 28-model range includes headwear and graphic tees utilizing Kawamura's signature shredder artThe capsule is scheduled to release on August 6 via New Era Coca-Cola and New Era have reportedly joined forces alongside artist and graphic designer Kosuke Kawamura for a collaborative headwear and apparel collection. The upcoming accessories capsule celebrates Coca-Cola's heritage while integrating contemporary street art visuals.The collection encompasses 28 distinct models featuring iconic 2000s Coca-Cola logos, vintage catchphrases, and glass bottle package motifs. A key highlight of the lineup is the \"Coca-Cola designed by Kosuke Kawamura\" sub-series, which applies Kawamura's distinctive shredder art technique across nine cap silhouettes and five t-shirt designs. Headwear in the collection includes an all-red cap, an all-black cap featuring \"Coca-Cola\" printed under the brim in various languages representing global markets, and several New Era silhouettes adorned with hybrid graphics combining two different logos, such as classic Coke and Diet Coke motifs. The capsule is also suggested to incorporate Kosuke Kawamura's signature shredder technique across an expanded apparel range that includes sweaters, t-shirts, and jerseys as well as tote bags.The Coca-Cola x New Era x Kosuke Kawamura collection drops August 6, 2026 via New Era. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7746246772e15dcf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Street Style Trends, the Scandi Way, from 2016 to Today",
+      "url": "https://www.vogue.com/article/copenhagen-fashion-week-street-style-trends",
+      "publishedAt": "2026-08-01T10:00:00.000Z",
+      "collectedAt": "2026-08-01T13:38:23.488Z",
+      "text": "Street Style Trends, the Scandi Way, from 2016 to Today 10 years of the hottest trends, spotted outside the shows of Copenhagen Fashion Week"
+    },
+    {
+      "id": "f86be40a0b8256aa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Discover the Best Dresses for Every August Occasion",
+      "url": "https://www.vogue.com/article/dresses",
+      "publishedAt": "2026-08-01T10:00:00.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "Discover the Best Dresses for Every August Occasion Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses."
+    },
+    {
+      "id": "1c73eb05385b93b6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "John Galliano Is the Subject of the Next Costume Institute Show",
+      "url": "https://www.vogue.com/article/john-galliano-met-exhibition",
+      "publishedAt": "2026-07-31T21:06:03.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "John Galliano Is the Subject of the Next Costume Institute Show The Met Costume Institute will dedicate its 2027 spring show to the work of legendary designer John Galliano."
+    },
+    {
+      "id": "e7e54edc9d3bba6a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Fruity Perfumes Are More Sophisticated Than Ever",
+      "url": "https://www.vogue.com/article/best-fruity-perfumes",
+      "publishedAt": "2026-07-31T20:39:04.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "The Best Fruity Perfumes Are More Sophisticated Than Ever Fruity fragrances are more unique than you think. Crisp, tart, sweet, moody, or bright—there’s an option for everyone. We included picks from Parfums de Marly, Dior, Liis, Guerlain and more."
+    },
+    {
+      "id": "b52dced25bd3e823",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Get Rid of Wrinkles Naturally, According to the Pros",
+      "url": "https://www.vogue.com/article/how-to-get-rid-of-wrinkles-naturally",
+      "publishedAt": "2026-07-31T20:06:24.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "How to Get Rid of Wrinkles Naturally, According to the Pros Do you know how to get rid of wrinkles naturally? Experts say a regimen that prioritizes sun protection, supports collagen production, and keeps skin hydrated is a good start."
+    },
+    {
+      "id": "fa6c6a7ff6a5d9a6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Obsessed With Vintage Cavalli? This Paris Shop Is a Must-Visit",
+      "url": "https://www.vogue.com/article/dolce-vita-hub-paris-le-marais-store-cavalli",
+      "publishedAt": "2026-07-31T20:05:57.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "Obsessed With Vintage Cavalli? This Paris Shop Is a Must-Visit Dolce Vita Hub, located in Le Marais, is becoming a destination for hard-to-find Roberto Cavalli pieces—among other labels like Gucci and Rick Owens. “We want to build the biggest Roberto Cavalli collection in the whole world.”"
+    },
+    {
+      "id": "bfc1dec1be8da578",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Nostalgic Look Back at the Kennedy Family’s Summer Vacations Throughout History",
+      "url": "https://www.vogue.com/slideshow/inside-the-kennedy-familys-summer-vacations-throughout-history",
+      "publishedAt": "2026-07-31T19:05:50.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "A Nostalgic Look Back at the Kennedy Family’s Summer Vacations Throughout History Take a look at photos of the family vacationing in Hyannis Port, Massachusetts over the years."
+    },
+    {
+      "id": "6c31f6481bb523a3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Required Reading: Five Books That Inspired Emily Wilson’s Translation of ‘The Odyssey’",
+      "url": "https://www.vogue.com/article/required-reading-emily-wilson",
+      "publishedAt": "2026-07-31T18:42:13.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "Required Reading: Five Books That Inspired Emily Wilson’s Translation of ‘The Odyssey’ It’s impossible to escape this summer’s “The Odyssey” discourse, and we have British classicist and translator Emily Wilson to thank for at least some of that."
+    },
+    {
+      "id": "c574a3c822ed444c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Time Spent: Why Summer Calls for a Sport Watch",
+      "url": "https://www.vogue.com/article-a-case-for-the-sport-watch",
+      "publishedAt": "2026-07-31T18:20:16.000Z",
+      "collectedAt": "2026-08-01T13:38:23.489Z",
+      "text": "Time Spent: Why Summer Calls for a Sport Watch No one reaches for leather in the height of summer—your watch strap shouldn't be the exception. It's time to make the switch to something sportier."
+    },
+    {
+      "id": "d54010e5bbb18e57",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style",
+      "url": "https://www.vogue.com/article/zendaya-tom-holland-off-duty-couple-style",
+      "publishedAt": "2026-07-31T17:06:10.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style While we’re accustomed to method dressing galore, rarely do we get to see the couple in a moment of respite, dressed as their true selves."
+    },
+    {
+      "id": "f809e5183853c23e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dress Code: Interior Designer Alyssa Kapito on the Art of Being Intentionally Understated",
+      "url": "https://www.vogue.com/slideshow/dress-code-alyssa-kapito-interior-designer",
+      "publishedAt": "2026-07-31T17:04:14.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "Dress Code: Interior Designer Alyssa Kapito on the Art of Being Intentionally Understated For New York-based Alyssa Kapito, her personal style is an extension of the pristine design projects her fan-base have come to know her for. Quintessentially Uptown with an element of ease, the most-loved pieces in her closet prove that an outfit that whispers is just as impactful as one that shouts. A go-to collaborator and party host for brands including Savette and Rosie Huntington-Whiteley’s Mèmoire, here she discusses how she approaches making it all look easy."
+    },
+    {
+      "id": "efeedfdc021e473d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 Vacation Dress Outfits",
+      "url": "https://www.vogue.com/article/vacation-dress-outfits",
+      "publishedAt": "2026-07-31T16:32:04.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "10 Vacation Dress Outfits Wherever your travels take you this season, let your getaway wardrobe start here with these chic vacation dress outfits. Shop favorites from Johanna Ortiz, Pucci & Aflalo."
+    },
+    {
+      "id": "a47cfe566172fa92",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Style the Midi Skirt—9 Summer Outfit Ideas",
+      "url": "https://www.vogue.com/article/midi-skirt-styling",
+      "publishedAt": "2026-07-31T16:28:38.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "How to Style the Midi Skirt—9 Summer Outfit Ideas From colorful pareos to sleek drop-waist styles, here are nine ways to style the season’s most-wanted"
+    },
+    {
+      "id": "b6363e4c7bfea4d5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A New Generation of Musicians Is Making Up for Lost Time",
+      "url": "https://www.vogue.com/article/new-generation-of-musicians-new-york-nina-ljeti-summer-2026",
+      "publishedAt": "2026-07-31T16:21:51.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "A New Generation of Musicians Is Making Up for Lost Time During the summer of 2026, Vogue’s Nina Ljeti chronicled a yet-to-be-named music scene defined by raw, unfiltered performance, lyrical honesty, and live instrumentation."
+    },
+    {
+      "id": "2434ef52a85fa3ff",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Style Shorts, According to Celebrities",
+      "url": "https://www.vogue.com/article/celebrity-shorts-outfits",
+      "publishedAt": "2026-07-31T16:17:34.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "How to Style Shorts, According to Celebrities Whether you're reaching for boxer shorts, denim jorts, or tailored Bermudas, here's how to style shorts like your favorite celebrities."
+    },
+    {
+      "id": "4cfb609a2f1f5bfc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "LVMH Sells Patou to Previous Owner Dilesh Mehta",
+      "url": "https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta",
+      "publishedAt": "2026-07-31T15:49:32.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "LVMH Sells Patou to Previous Owner Dilesh Mehta Mehta, who had kept a minority interest in the brand, is buying it back."
+    },
+    {
+      "id": "3014f79d12cbba7d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Can You Wear Boots in the Summer? Absolutely",
+      "url": "https://www.vogue.com/article/summer-boots-trend",
+      "publishedAt": "2026-07-31T15:13:58.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "Can You Wear Boots in the Summer? Absolutely Boots, paired with light dresses or shorts are one of summer's hottest (literally) trends."
+    },
+    {
+      "id": "dbcd369f2134e2af",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Leave It to Kaia Gerber to Wear a Couture LBD to ‘The Shards’ Premiere",
+      "url": "https://www.vogue.com/article/kaia-gerber-couture-lbd-the-shards",
+      "publishedAt": "2026-07-31T14:31:14.000Z",
+      "collectedAt": "2026-08-01T13:38:23.490Z",
+      "text": "Leave It to Kaia Gerber to Wear a Couture LBD to ‘The Shards’ Premiere It’s been a big week for Kaia Gerber—and Maria Grazia Chiuri."
+    },
+    {
+      "id": "3ffdd54fc55f6af1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Chocolate Skate Loafer Is Redefining Business Casual",
+      "url": "https://www.highsnobiety.com/p/vans-skate-loafer-brown-leather/",
+      "publishedAt": "2026-08-01T11:09:02.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "Vans’ Chocolate Skate Loafer Is Redefining Business Casual Vans’ Skate Loafer gets a sophisticated update in chocolate brown leather, blending skate heritage with a smarter silhouette to redefine business casual."
+    },
+    {
+      "id": "5cec81bc7ab12734",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Technical Basketball Sneaker Keeps Spida Style in Check",
+      "url": "https://www.highsnobiety.com/p/adidas-don-issue-8/",
+      "publishedAt": "2026-08-01T08:03:12.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "adidas’ Technical Basketball Sneaker Keeps Spida Style in Check The new adidas DON. Issue 8 is the new neon yellow addition to the D.O.N series, with Donovan Mitchell tapping into his love for the world of the web-crusader."
+    },
+    {
+      "id": "fdf07f6d1f939229",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance's Butterscotch Skate Shoe Is From the Mind of a Legend",
+      "url": "https://www.highsnobiety.com/p/new-balance-numeric-andrew-reynolds-933-quicksand/",
+      "publishedAt": "2026-08-01T07:09:00.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "New Balance's Butterscotch Skate Shoe Is From the Mind of a Legend The New Balance Numeric 933 Quicksand blends the coveted aesthetic of a lifestyle pigskin runner with tank-like construction."
+    },
+    {
+      "id": "b997bd269753253c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "ASICS’ Latest Runner Is a Reminder That Dad Shoes Still Rule",
+      "url": "https://www.highsnobiety.com/p/asics-gel-nyc-20-clay-greycement-grey/",
+      "publishedAt": "2026-07-31T21:59:02.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "ASICS’ Latest Runner Is a Reminder That Dad Shoes Still Rule The ASICS GEL-NYC 2 “Clay Grey” proves why nobody does the performance-driven dad shoe better, blending archival DNA with modern comfort and style."
+    },
+    {
+      "id": "a6033a4fdb6186a0",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Japan’s Expert on Literal Workwear Is Finally Getting Loud",
+      "url": "https://www.highsnobiety.com/p/beams-teatora/",
+      "publishedAt": "2026-07-31T20:33:00.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "Japan’s Expert on Literal Workwear Is Finally Getting Loud As part of BEAMS' 50th anniversary, the Japanese retailer partnered with technical workwear label Teatora on the brand's first-ever patterned pieces."
+    },
+    {
+      "id": "2012ae33328ccdff",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Is the Nike Moon Shoe’s Effortlessly Cool Sister",
+      "url": "https://www.highsnobiety.com/p/nike-sprint-sister-work-blue/",
+      "publishedAt": "2026-07-31T20:25:16.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "This Is the Nike Moon Shoe’s Effortlessly Cool Sister Nike's Sprint Sister is the Moon Shoe's effortlessly cool sibling, offering a classic running aesthetic coupled with stylish colorways like \"Work Blue.\""
+    },
+    {
+      "id": "d6c636a7d1b4158b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jordan Clarkson's Off-Court Rituals Go Overtime with LAB Series",
+      "url": "https://www.highsnobiety.com/p/jordan-clarksons-lab-series-event/",
+      "publishedAt": "2026-07-31T20:23:01.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "Jordan Clarkson's Off-Court Rituals Go Overtime with LAB Series LAB Series transformed Brooklyn’s beloved listening bar into the backdrop for Game Face After Dark, an evening with Knicks point guard Jordan Clarkson that celebrated the rituals behind performance."
+    },
+    {
+      "id": "36577a2895b81147",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Silver Stepper Is One Sleek Slice of the Future",
+      "url": "https://www.highsnobiety.com/p/nike-first-sight-noir-flat-silver-and-black/",
+      "publishedAt": "2026-07-31T20:22:00.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "Nike’s Silver Stepper Is One Sleek Slice of the Future Meet the Nike First Sight Noir, a futuristic new silhouette that pushes the boundaries of running-inspired design with a sleek silver and black finish."
+    },
+    {
+      "id": "ae05a8fb3ae5a0b0",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance's Slim Mary Jane Sneaker Finds Beauty in the Grey",
+      "url": "https://www.highsnobiety.com/p/new-balance-204v-bayberry/",
+      "publishedAt": "2026-07-31T20:21:58.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "New Balance's Slim Mary Jane Sneaker Finds Beauty in the Grey New Balance's 204V \"Bayberry\" sneaker emerges as an all-grey take on the laceless Mary Jane-style sneaker. Here's everything on the new release."
+    },
+    {
+      "id": "e707e5c0eebc4e8b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Luxe Samba Bowling Shoe Suddenly Grew Fangs",
+      "url": "https://www.highsnobiety.com/p/brain-dead-adidas-samba-bowling-shoes-snakeskin/",
+      "publishedAt": "2026-07-31T20:32:14.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "adidas’ Luxe Samba Bowling Shoe Suddenly Grew Fangs Brain Dead designs new adidas Samba Bowling sneakers featuring animal prints, including snakeskin & leopard options."
+    },
+    {
+      "id": "50df456e65f3fe93",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "What Does Marni’s Former Creative Director See in GU? “I Am So Curious to Learn”",
+      "url": "https://www.highsnobiety.com/p/gu-francesco-risso-interview/",
+      "publishedAt": "2026-07-31T18:33:00.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "What Does Marni’s Former Creative Director See in GU? “I Am So Curious to Learn” GU, the more expressive sibling of UNIQLO, is unlike any of the high-fashion brands Francesco Risso previously worked at. And, he says, that's the point."
+    },
+    {
+      "id": "decb39a38bc9eb52",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Air Max-ification of Nike's Legendary Soccer Shoe",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-joga-bonito/",
+      "publishedAt": "2026-07-31T20:27:37.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "The Air Max-ification of Nike's Legendary Soccer Shoe The Nike Air Max Joga Bonito is already a mashup of classics. Now, it's dressed up in Air Max 95's famous \"Neon\" outfit."
+    },
+    {
+      "id": "aa2eaa3f8e276d7b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Beautiful Game Turns Dinner into a Must-See Moment",
+      "url": "https://www.highsnobiety.com/p/chase-world-cup-dinner/",
+      "publishedAt": "2026-07-31T17:45:32.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "The Beautiful Game Turns Dinner into a Must-See Moment Taking the pitch Saturday night, thanks to Visa, we joined Chase Sapphire Reserve cardmembers for a one-of-a-kind dining experience."
+    },
+    {
+      "id": "80688787eecf1316",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Pretty Winged Sneaker Is the Flyest of Them All",
+      "url": "https://www.highsnobiety.com/p/nike-air-superfly-pink/",
+      "publishedAt": "2026-07-31T17:14:39.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "Nike’s Pretty Winged Sneaker Is the Flyest of Them All Nike's pink Air Superfly sneaker is truly the flyest pair yet, featuring wings & star-studded touches. Here's everything on the release."
+    },
+    {
+      "id": "34b4dc6e757d3323",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Berlin's Coolest Creatives Have a New Way to Actually Connect",
+      "url": "https://www.highsnobiety.com/p/ex-to-x-berlin/",
+      "publishedAt": "2026-07-31T16:40:13.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "Berlin's Coolest Creatives Have a New Way to Actually Connect Ex to X is Berlin's new FLINTA-focused creative community that puts the \"social\" back in social networking, connecting everyone from DJs to coffee roasters."
+    },
+    {
+      "id": "9084fb3a655bf7f1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: Bottega Veneta Can't Quit This Incredibly Stylish Art Collector",
+      "url": "https://www.highsnobiety.com/p/bottega-veneta-peggy-guggenheim/",
+      "publishedAt": "2026-07-31T15:00:04.000Z",
+      "collectedAt": "2026-08-01T13:38:24.926Z",
+      "text": "State of the Art: Bottega Veneta Can't Quit This Incredibly Stylish Art Collector With Louise Trotter at the helm of the Bottega Veneta, the Venetian fashion house has settled on art collector and style icon Peggy Guggenheim as a new muse."
+    },
+    {
+      "id": "7ac5f84231b4bfdc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Crocs Unveils the ROY in a New \"Elephant\" Colorway",
+      "url": "https://hypebeast.com/2026/8/crocs-the-roy-elephant-213756-1lm-release-info",
+      "publishedAt": "2026-07-31T06:04:46.000Z",
+      "collectedAt": "2026-08-01T13:38:26.311Z",
+      "text": "Crocs Unveils the ROY in a New \"Elephant\" Colorway Summary Crocs is releasing its futuristic ROY silhouette in a monochromatic \"Elephant\" colorwayDesigned by footwear legend Steven Smith and the Crocs Creative Innovation Team the model utilizes single-shot Mellow foam constructionThe molded slip-on features integrated flex grooves across the upper and outsole alongside embossed logo detailing on the heel and insole Name: Crocs The Roy \"Elephant\"Colorway: ElephantSKU: 213756-1LMRetail Price: $80 USDRelease Date: August 7, 2027Where to Buy: CrocsCrocs has officially revealed The Roy \"Elephant\", marking the latest colorway of its futuristic molded silhouette. The sculptural foam slip-on was developed by footwear design veteran Steven Smith alongside the Crocs Creative Innovation Team.Engineered with single-shot Mellow foam construction, the model delivers responsive cushioning and lightweight underfoot comfort. Segmented flex grooves extend across both the upper and outsole, encouraging natural foot articulation while promoting breathability and temperature regulation. The entire molded frame is finished in a clean tonal grey, complemented by subtle embossed logo detailing stamped on the heel and insole.The Crocs Roy \"Elephant\" drops August 7, 2026 via Crocs and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "943878f0ee8c881f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Electronic Arts Set to Finalize $55 Billion USD Go-Private Acquisition",
+      "url": "https://hypebeast.com/2026/8/electronic-arts-finalize-55-billion-usd-go-private-acquisition-saudi-arabia-pif-silver-lake-affinity",
+      "publishedAt": "2026-07-31T06:43:15.000Z",
+      "collectedAt": "2026-08-01T13:38:26.311Z",
+      "text": "Electronic Arts Set to Finalize $55 Billion USD Go-Private Acquisition Summary Electronic Arts has confirmed that all regulatory approvals for its $55 billion merger have been securedThe record-breaking buyout is led by Saudi Arabia’s Public Investment Fund, Silver Lake, and Affinity PartnersUpon closing on August 4, EA will delist from Nasdaq while retaining Andrew Wilson as CEO and remaining in Redwood City Electronic Arts is set to officially close its record-breaking $55 billion USD go-private deal after securing all necessary regulatory approvals. The video game publisher expects the transaction to finalize on or about the close of trading on August 4, 2026.The historic buyout is spearheaded by a consortium comprising Saudi Arabia’s Public Investment Fund (PIF), Silver Lake, and Affinity Partners, with stockholders receiving $210 USD per share in cash. Once completed, the publisher behind major franchises such as Battlefield 6, The Sims, and Madden NFL will delist from the NASDAQ and transition into a privately held company.Despite the shift in corporate ownership, EA will remain headquartered in Redwood City, California, with Andrew Wilson continuing his role as CEO to oversee operations across its global studio network.The $55 billion USD merger is expected to officially close on August 4, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ac44930116704308",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Le Labo Dedicates “SHIU 25” City Exclusive Scent to Beijing’s Sacred Courtyards",
+      "url": "https://hypebeast.com/2026/8/le-labo-shiu-25-eau-de-parfum-beijing-city-exclusive-collection-release-info",
+      "publishedAt": "2026-07-28T10:36:23.000Z",
+      "collectedAt": "2026-08-01T13:38:26.311Z",
+      "text": "Le Labo Dedicates “SHIU 25” City Exclusive Scent to Beijing’s Sacred Courtyards Summary Le Labo's SHIU 25 anchors powdery iris, olibanum and warm woods around the serene, balancing Shiu note.The scent draws inspiration from Beijing's He Yuan Lab, a restored Siheyuan courtyard blending wabi-sabi aesthetics with ancient heritage.Available exclusively in Beijing year-round, it'll be available globally for a limited time. Le Labo expands its coveted City Exclusive Collection with SHIU 25, an Eau de Parfum dedicated to the city of Beijing. Conceived as an homage to traditional spaces built for quietude and inner return, the fragrance captures the soul of the house's historic Beijing He Yuan Lab — a culturally protected Siheyuan courtyard nestled in House 19 at Wang Fu Central.Global Brand President and Creative Director Deborah Royer describes the creation as \"an invitation to find centered calm, self-reflection, and a moment of pause in a world that rarely grants one\". By weaving the spirit of ancient craftsmanship with modern contemplation, SHIU 25 serves as an olfactory refuge where creation flows effortlessly from stillness.The scent narrative centers on Shiu, the quieter and more serene expression of the Ho tree, long revered for its ability to bring balance and inner peace. In this intentionally compact composition, ethereal notes of powdery iris and sacred olibanum float weightlessly above a grounding foundation of warm, anchoring woods. The experience unfolds like a serene walk through hidden courtyard gardens, where gentle shadows dance across well-worn wooden floors and the creative spirit awakens in sacred silence. Soft, resinous, and deeply comforting, SHIU 25 wraps the wearer in an enveloping atmosphere of centered calm, offering a quiet return to the timeless wisdom of the senses.In true Le Labo fashion, the fragrance is presented in the brand's iconic industrial-apothecary glass bottle, topped with a minimalist metallic cap and finished with a personalized, typewriter-style label detailing the scent name, date, and owner's name. For display, the collection is housed in raw, crate-like wooden packaging that reflects the house's signature wabi-sabi aesthetic, bridging utilitarian design with unpretentious luxury. While SHIU 25 resides exclusively year-round at the Beijing He Yuan Lab, it travels worldwide for Le Labo's annual City Exclusive event. Discovery sizes (1.5ml) and sample sets become available globally on August 1, 2026, followed by full-"
+    },
+    {
+      "id": "d3db4f9eba494332",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'The Devil Wears Prada 2' Understands Exactly What It Needs to Be",
+      "url": "https://hypebeast.com/2026/8/the-devil-wears-prada-2-understands-exactly-what-it-needs-to-be",
+      "publishedAt": "2026-07-29T09:17:36.000Z",
+      "collectedAt": "2026-08-01T13:38:26.312Z",
+      "text": "'The Devil Wears Prada 2' Understands Exactly What It Needs to Be The world didn't necessarily need a sequel to The Devil Wears Prada. It’s not a criticism, just a fact about revisiting a movie that ended exactly where it needed to. And yet, 20 years later, David Frankel and writer Aline Brosh McKenna have uncovered a narrative premise that actually justifies reopening the doors of Runway: a media industry collapsing under its own weight and the people who build their careers in the twilight of its golden years refusing to be quietly consumed by it.The Devil Wears Prada 2's setup alone handles so much heavy lifting. Andy Sachs (Anne Hathaway) the award-winning investigative journalist, loses her job with a text — the universe’s passive-aggressive, late-stage-capitalist answer to a final dismissal. Miranda Priestly (Meryl Streep) finds herself scrambling to adapt to a digitally focused media landscape and staring down a forced retirement. Emily Charlton (Emily Blunt), Miranda's former first assistant who approaches the idea of a trip to Paris as if she were commanding troops, reinvents herself as a powerhouse Dior executive who has the kind of revenue Miranda is suddenly dependent upon. And if this power triangle sounds uncannily familiar to any recent media professional, then good, you’ve been paying attention. That is the core insight this film has: what’s the worst thing about media becoming a wasteland? It's not the layoffs or the ever-shrinking masthead. It’s seeing everyone who cemented this status quo utterly bested.The magic is the script does not force a sentimental decline of Miranda. Streep plays her as someone the last 20 years have merely honed, who has ceded her ego’s more monstrous impulses for an amplified sense of conviction. It’s such a subtle, believable transformation, and only a transformation as nuanced as this one would have held. The fashion is, as it should be, something to talk about on its own. Costume designer Molly Rogers (who also worked on the Sex and the City spinoff ...And Just Like That) steps in to replace legendary Patricia Field, creating thought selections with deliberate intentionality. Miranda's weathered Dries Van Noten toreador jacket, trimmed with the perfect turquoise, is a prime example of the garment’s ability to reward a deeper view. It's fiercely idiosyncratic, and that's part of why it's so appropriate.The film’s aesthetic in general reflects a media fashion sense that's done with the branding and onto someth"
+    },
+    {
+      "id": "334c6929ee147ffc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Billie Eilish's \"Eilish Intense\" Eau de Parfum Deepens Its Amber Gourmand Into a Nighttime Signature",
+      "url": "https://hypebeast.com/2026/7/billie-eilish-intense-eau-de-parfum-release-info",
+      "publishedAt": "2026-07-29T09:00:37.000Z",
+      "collectedAt": "2026-08-01T13:38:26.312Z",
+      "text": "Billie Eilish's \"Eilish Intense\" Eau de Parfum Deepens Its Amber Gourmand Into a Nighttime Signature Summary Eilish Intense amplifies the original Eilish Eau de Parfum with a richer, more enveloping take on its amber gourmand profileThe composition moves from red berries and mandarin through creamy vanilla and cocoa into a dry down of warm musks, tonka bean, and woodsThe collection's sculptural bust-inspired bottle is reimagined in a luminous radiant gold to mirror the scent's intensified warmth Eilish Fragrances has unveiled Eilish Intense, a deeper evolution of Billie Eilish's award-winning debut scent developed in partnership with Parlux. Rather than reinvent the formula, Intense amplifies the warmth and sensuality of the original amber gourmand, reworking its structure into a fuller, more enveloping expression built for after-dark wear.The composition opens on a luminous contrast of red berries and mandarin, wrapped in what the brand describes as the textural sweetness of sugared petals. From there it moves into a heart of creamy vanilla, soft spices, and cocoa, the trio responsible for the addictive richness that defines the scent's middle stretch. The dry down is where Intense earns its name, settling into warm musks, tonka bean, and sleek woods that linger against the skin. It is a recognizable extension of the original's creamy vanilla signature, tuned for depth rather than novelty, and Eilish herself has framed the split plainly: the original for daytime, Intense for night.The bottle carries the concept in physical form. Eilish Intense retains the collection's sculptural silhouette, an abstract interpretation of the human bust, now finished in a luminous radiant gold chosen to reflect the fragrance's intensified warmth. The design leans on Eilish's stated view of fragrance bottles as standalone objects, and the outer carton extends the treatment with gold and iridescent detailing that reinforces the collection's richer visual world.The sustainability credentials remain consistent with the rest of the line. Eilish Intense is vegan, paraben-free, and formulated with clean ingredients, while the carton is printed with Envirofoil and produced using 100 percent renewable wind energy. The fragrance is also PETA-certified cruelty-free through the organization's Global Beauty Without Bunnies program, keeping the flanker aligned with the brand's established formulation and packaging standards.Eilish Intense is available now online, with the full collection"
+    },
+    {
+      "id": "65c53801081b1f76",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The 2027 Met Gala Will Be All About John Galliano",
+      "url": "https://hypebeast.com/2026/7/2027-met-gala-theme-john-galliano-horizons-announcement",
+      "publishedAt": "2026-07-31T22:38:37.000Z",
+      "collectedAt": "2026-08-01T13:38:26.312Z",
+      "text": "The 2027 Met Gala Will Be All About John Galliano Summary The Metropolitan Museum of Art has announced that John Galliano will be the subject of its spring 2027 Costume Institute exhibitionTitled John Galliano Horizons the exhibition marks the first major museum retrospective examining the full breadth of his four-decade careerThe show will be on view at The Met Fifth Avenue from May 9 2027 through January 9 2028 The Metropolitan Museum of Art has officially announced that John Galliano will be the subject of its landmark Spring 2027 Costume Institute exhibition as well as the Met Gala, titled John Galliano: Horizons. Galliano becomes only the third living designer in history to receive a solo exhibition at The Met, following Yves Saint Laurent in 1983 and Rei Kawakubo in 2017.Curated by Andrew Bolton, Curator in Charge of The Costume Institute, the retrospective spans Galliano’s career from his 1984 Central Saint Martins graduation collection through his celebrated tenures at Givenchy, Christian Dior, and Maison Margiela. Drawing heavily from The Costume Institute’s extensive archives, the exhibition features garments, accessories, sketches, research books, toiles, and culminates with his Spring/Summer 2024 Maison Margiela Artisanal presentation.The curation is organized into three distinct thematic sections: \"Bearings,\" \"Horizons,\" and \"Atlas of Transformation.\" In addition to showcasing his technical mastery and artistic vision, the opening section \"Bearings\" will directly examine his 2010 and 2011 conduct, his dismissal from Dior, and the ongoing cultural dialogue surrounding accountability and legacy.John Galliano: Horizons will serve as the centerpiece for the 2027 Met Gala and will be open to the public at The Met Fifth Avenue from May 9, 2027 through January 9, 2028. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "262052c0630ceff4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Re-Signs Victor Wembanyama to Multi-Year Deal With Upcoming Signature Shoe",
+      "url": "https://hypebeast.com/2026/7/nike-official-victor-wembanyama-logo-revealed-new-signature-shoe-contract-multi-year-deal",
+      "publishedAt": "2026-07-31T22:27:37.000Z",
+      "collectedAt": "2026-08-01T13:38:26.312Z",
+      "text": "Nike Re-Signs Victor Wembanyama to Multi-Year Deal With Upcoming Signature Shoe Summary Nike has officially re-signed San Antonio Spurs star Victor Wembanyama to a new long-term endorsement dealThe new agreement includes a dedicated signature basketball sneaker line with NikeNike confirmed the partnership extension alongside the reveal of Wembanyama's official alien-inspired logo Nike has officially re-signed San Antonio Spurs superstar Victor Wembanyama to a new long-term endorsement deal that includes his own signature basketball shoe. First reported by ESPN’s Shams Charania, the multi-year agreement secures the French phenom as a signature athlete for the Swoosh.The announcement comes after Wembanyama’s original Nike contract was set to expire in October. The brand officially confirmed the extension through an Instagram video, which also debuted his official signature logo. Designed to incorporate Wembanyama's initials, the logo features an alien face motif honoring his nickname.Wembanyama originally signed with Nike in 2022 while playing for Metropolitans 92 in France before agreeing to an extension ahead of the 2023 NBA Draft, where he was selected first overall by San Antonio. Details regarding the design and rollout of his inaugural signature sneaker currently remain under wraps. View this post on InstagramA post shared by Shams Charania (@shams) View this post on InstagramA post shared by Nike (@nike) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1203d7b0b2c4672f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Travis Scott Drops 'Odyssey' Merch & SS27 Trends Heat up in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/7/travis-scott-drops-odyssey-merch-ss27-trends-heat-up-in-this-weeks-top-fashion-news",
+      "publishedAt": "2026-07-31T15:38:14.000Z",
+      "collectedAt": "2026-08-01T13:38:26.313Z",
+      "text": "Travis Scott Drops 'Odyssey' Merch & SS27 Trends Heat up in This Week's Top Fashion News &nbsp;Summary SS27 menswear focused on heat-beating sheer fabrics and vibrant hues. SATISFY and Levi's delivered climbing-ready denim, while McDonald's China dropped a functional paper-bag backpack.Travis Scott merged cinematic merch with IMAX, and NikeSKIMS leveled up its sculpting wear.The SS27 Trends: What Comes After Fashion's Hottest Season Ever? As European summers grew more brutal, the Spring/Summer 2027 menswear collections offered a refreshing cooldown. Paris and Milan runways ditched the heavy tailoring of seasons past for fluid, joy-driven ensembles built to beat the heat. Designers championed sheer shirting reminiscent of the traditional Filipino barong, which let the breeze flow through ultra-lightweight, transparent constructions. Silky satins elevated everyday shirting and trousers into billowing, breathable statements, while shrunken “micro jackets” shed unnecessary bulk. The color palettes shifted dramatically too, and leaned heavily into aquatic blues and sunset-inspired oranges to capture the essence of seaside escapes. Completing the relaxed resort vibe, the boxer short fully cemented itself as the ultimate bottom of the season, which prioritized ultimate freedom and ventilation.Cactus Jack Launches Exclusive Clothing Capsule for 'The Odyssey' and IMAX Travis Scott celebrated his self-directed short film for Christopher Nolan's The Odyssey and dropped a highly limited Cactus Jack capsule. The collection debuted alongside the film's premiere and his featured end-credits track, \"When I'm Home,\" merging cinematic aesthetics with Scott’s signature graphic-heavy streetwear. The limited drop was available for just one week and featured co-branded T-shirts, a long-sleeve, and a tote bag emblazoned with official IMAX insignia. Retail prices ranged comfortably from $55 to $75 USD. While the public release strictly focused on apparel, the collaboration also yielded two cast-and-crew exclusive footwear models—the Nike Moon Shoe and the ACG Moc—which proved Scott’s continued ability to fuse blockbuster narrative storytelling with highly sought-after product design.SATISFY Reconnects With Levi's for a Second Climbing-Focused Capsule Parisian running label SATISFY and American denim brand Levi’s joined forces once again for a specialized, climbing-centric capsule. As a follow-up to their successful debut, this sophomore outing perfectly blended robust Americana a"
+    },
+    {
+      "id": "4cc29a698cbc9814",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Precious Okoyomon Unveils 25-Foot Teddy Bear Slide at MoMA PS1",
+      "url": "https://hypebeast.com/2026/7/precious-okoyomon-moma-ps1-courtyard-teddy-bear-installation-nyc-2026",
+      "publishedAt": "2026-07-31T20:27:15.000Z",
+      "collectedAt": "2026-08-01T13:38:26.313Z",
+      "text": "Precious Okoyomon Unveils 25-Foot Teddy Bear Slide at MoMA PS1 Summary Artist Precious Okoyomon has unveiled an outdoor installation at New York's MoMA PS1The artwork features a wild garden, sound installations, and a giant teddy bear sculptureThe installation, the inaugural Courtyard Commission, will be on view for two years. For the next two years, the courtyard at MoMA PS1 will play host to Precious Okoyomon’s playground of pleasures. The New York-based artist, known for their lush gardenscapes and cute-creepy stuffed animal sculptures, has planted a living forest in even in the balmiest of New York heat for “Among the Flowers I Learned to Love: A Garden of Decreation,” their largest outdoor piece yet.Taking place on a plush bed of 1,500 perennials and plants, the installation is a sensorial blend of blooms, sculpture, and sound, co-cultivated with Rhode Island nursery issima. Oppositional species — native and invasive plants — grow beside one another, with pollinators and butterflies abound, creating a scene that challenges ideas of what can cultivate together.Okoyomon’s garden envisions life eternally in flux, inspired by philosopher Simone Weil’s concept of \"decreation\" — the constant making and unmaking of the world. As plants shift, seasons change, the space hones in on environmental and social realities of adaptation, resilience, and the unpredictable future of urban nature in shifting climates. View this post on InstagramA post shared by HypeArt (@hypeart)At the heart of the installation is “The Pleasure Principle,” a 25-foot-long sculpture. Visitors can climb into a teddy bear and listen to Okoyomon reading their poetry as they ride down a blood-red slide before exiting through its mouth. The adorable character is a recurring motif for the artist, often tied to idea(l)s of pleasure, while embodying the space between inner and outer worlds, à la Winnicott.“Among the Flowers I Learned to Love: A Garden of Decreation” (2026) is now on view for free in New York, and marks the inaugural piece of the museum’s experimental Courtyard Commissions series. Check out PS1’s website for more details.MoMA PS122-25 Jackson Ave,Queens, NY 11101 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "14e7c3320b04cb96",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Why the Best Part of Golf Happens Before the First Tee",
+      "url": "https://hypebeast.com/2026/7/justin-eldridge-toyota-rav4-game-before-the-game",
+      "publishedAt": "2026-07-31T19:37:40.000Z",
+      "collectedAt": "2026-08-01T13:38:26.313Z",
+      "text": "Why the Best Part of Golf Happens Before the First Tee The best rounds begin long before anyone pulls a club out of the bag. From deciding the day's format to debating handicaps and playlists on the drive over, the moments leading up to a round have become just as much a part of the experience as the golf itself. Created in partnership with the All-New 2026 Toyota RAV4, Hypegolf's latest campaign explores that idea through The Game Before the Game, celebrating the rituals, conversations and camaraderie that define a day on the course. At the heart of the story is the drive itself, where the All-New 2026 Toyota RAV4 becomes the starting point for a day built around golf, friendship and time spent outdoors.At the center of the story is professional skateboarder, podcast host and Golf With Flavor founder Justin Eldridge, who assembled his ideal foursome for a day of golf in Los Angeles. Joined by his wife Ali Eldridge, skateboarding legend Jose Rojo and snowboarding pioneer Russell Winfield, the group heads to the course together in the Toyota RAV4 before settling into a day built around friendship as much as competition. Alongside the campaign film and accompanying lookbook, Eldridge reflects on the connection between skateboarding and golf, the value of community and why the drive to the course is often where the day really begins.Hypegolf: For people who know you from skateboarding, how did golf become part of your life?Justin Eldridge: I actually got hurt and wasn't able to skate for a few months. A friend and I decided to go to the driving range, and the place had a par-3 course that stayed lit up until 10PM. It was the perfect combination, and I was hooked from the start.You've built communities in both skateboarding and golf. What similarities do you see between those two worlds?There are so many similarities, it's crazy. From the camaraderie and friendships that are built to the style and the way everybody just wants each other to win and have fun, the overlap is huge. To me, golf courses are just big skate parks.For this project, you brought together your own foursome. What made this the right group of people to spend the day with?I think that being able to spend the day with people you have fun with and respect is a huge part of the game. Jose was a professional skateboarder, and we were on the same team, so I've known him forever. He's just one of the best humans out there. Russell was a legendary professional snowboarder and is one of my favorite "
+    },
+    {
+      "id": "d2d5212c73d15cc9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "How Oakley’s 'Future Genesis' Characters Mirror Its Endless Drive For Innovation",
+      "url": "https://hypebeast.com/2026/7/oakley-future-genesis-characters-and-mission-for-innovation",
+      "publishedAt": "2026-07-31T17:10:11.000Z",
+      "collectedAt": "2026-08-01T13:38:26.313Z",
+      "text": "How Oakley’s 'Future Genesis' Characters Mirror Its Endless Drive For Innovation View this post on InstagramA post shared by HYPEBEAST (@hypebeast) For nearly half a century, Oakley’s brand identity has been anchored by its persistent refusal to conform to standard industry norms, preferring to actively build the future rather than remaining passive for its arrival. Through the expansion of its narrative universe in Future Genesis, Oakley translates this distinct design philosophy into a sci-fi story. The characters traversing this storm-ravaged world are personifications of the exact mindset that has fueled the brand for decades which means never settling, always progressing, and always looking toward what’s next.The narrative's evolution finds Max Fearlight, a brilliant inventor whose relentless drive to solve problems reflects Oakley’s foundational commitment to engineering solutions from scratch. Max refuses to live under the strict, mind-purifying mandates of authoritarian cities like CIV17, declaring in his journal entries that \"a human with such strict limitations cannot evolve\" and that \"if we are to find a way to navigate the challenges we face, we must do so without fear\". His personality is defined by technical precision and protective determination. When faced with lethal thermonuclear storms, Max doesn't surrender to despair; he retrofits an abandoned water purification facility into an advanced self-sustaining bunker, engineering Iridium-infused lenses, wind generators, and closed-loop survival systems. His relentless pursuit of technological mastery mirrors Oakley’s own obsession with pushing the boundaries of material science and functional design.However, while Max focuses on building physical and digital shields—evidenced by his obsession with creating the \"Echoverse\" to keep his family secure—his daughter, Maxine, represents the next evolutionary step of that same progressive ethos. Maxine possesses a fierce, boundary-pushing curiosity that prevents her from settling for comfortable isolation. While her father views the outside world as a closed door, Maxine looks beyond the bunker walls with an unyielding longing for discovery. As a child, when Max warns her of the severe atmospheric hazards outside, Maxine’s instinct is not to retreat, but to push forward, boldly telling her mother that \"all we're building is a prison\" when arguing against complete shelter containment. She embodies the core spirit of exploration, proving that true prog"
     }
   ]
 }
