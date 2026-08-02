@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-01",
+    "id": "2026-08-02",
     "mode": "live",
-    "displayDate": "AUG 01, 2026, 09:38 AM EDT",
-    "generatedAt": "2026-08-01T13:38:27.542Z",
-    "itemsCollected": 45,
+    "displayDate": "AUG 02, 2026, 09:39 AM EDT",
+    "generatedAt": "2026-08-02T13:39:01.075Z",
+    "itemsCollected": 24,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 19
+        "count": 12
       },
       {
         "source": "Hypebeast",
@@ -24,8 +24,28 @@
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "narrow-technical-footwear",
+      "name": "Narrow technical footwear",
+      "stage": "emerging",
+      "score": 49,
+      "confidence": 24,
+      "youthRelevance": 49,
+      "direction": "up",
+      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer",
+          "source": "Highsnobiety",
+          "date": "Aug 2",
+          "url": "https://www.highsnobiety.com/p/adidas-by-stella-mccartney-sportswear-76/"
+        }
+      ]
+    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
@@ -45,26 +65,6 @@
           "url": "https://hypebeast.com/2026/7/spotify-user-notes-turn-playlists-into-journals"
         }
       ]
-    },
-    {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 38,
-      "direction": "up",
-      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "This New Balance Collab Is a Trail Shoe, Dad Shoe & Sci-Fi Prototype All In One",
-          "source": "Highsnobiety",
-          "date": "Jul 31",
-          "url": "https://www.highsnobiety.com/p/action-bronson-new-balance-2811/"
-        }
-      ]
     }
   ],
   "cooling": {
@@ -72,15 +72,15 @@
     "reason": "More history is required."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Narrow technical footwear moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0801",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 0802",
+    "name": "Narrow technical footwear",
+    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [
-      "Spotify Introduces New \"User Notes\" Feature for In-App Music Journaling"
+      "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer"
     ]
   }
 }

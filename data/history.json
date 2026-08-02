@@ -137,6 +137,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-02",
+      "mode": "live",
+      "displayDate": "AUG 02, 2026, 09:39 AM EDT",
+      "generatedAt": "2026-08-02T13:39:01.075Z",
+      "itemsCollected": 24,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 12
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "narrow-technical-footwear",
+          "score": 49,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 48,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -2812,6 +2849,270 @@
       "publishedAt": "2026-07-31T17:10:11.000Z",
       "collectedAt": "2026-08-01T13:38:26.313Z",
       "text": "How Oakley’s 'Future Genesis' Characters Mirror Its Endless Drive For Innovation View this post on InstagramA post shared by HYPEBEAST (@hypebeast) For nearly half a century, Oakley’s brand identity has been anchored by its persistent refusal to conform to standard industry norms, preferring to actively build the future rather than remaining passive for its arrival. Through the expansion of its narrative universe in Future Genesis, Oakley translates this distinct design philosophy into a sci-fi story. The characters traversing this storm-ravaged world are personifications of the exact mindset that has fueled the brand for decades which means never settling, always progressing, and always looking toward what’s next.The narrative's evolution finds Max Fearlight, a brilliant inventor whose relentless drive to solve problems reflects Oakley’s foundational commitment to engineering solutions from scratch. Max refuses to live under the strict, mind-purifying mandates of authoritarian cities like CIV17, declaring in his journal entries that \"a human with such strict limitations cannot evolve\" and that \"if we are to find a way to navigate the challenges we face, we must do so without fear\". His personality is defined by technical precision and protective determination. When faced with lethal thermonuclear storms, Max doesn't surrender to despair; he retrofits an abandoned water purification facility into an advanced self-sustaining bunker, engineering Iridium-infused lenses, wind generators, and closed-loop survival systems. His relentless pursuit of technological mastery mirrors Oakley’s own obsession with pushing the boundaries of material science and functional design.However, while Max focuses on building physical and digital shields—evidenced by his obsession with creating the \"Echoverse\" to keep his family secure—his daughter, Maxine, represents the next evolutionary step of that same progressive ethos. Maxine possesses a fierce, boundary-pushing curiosity that prevents her from settling for comfortable isolation. While her father views the outside world as a closed door, Maxine looks beyond the bunker walls with an unyielding longing for discovery. As a child, when Max warns her of the severe atmospheric hazards outside, Maxine’s instinct is not to retreat, but to push forward, boldly telling her mother that \"all we're building is a prison\" when arguing against complete shelter containment. She embodies the core spirit of exploration, proving that true prog"
+    },
+    {
+      "id": "b7186c667eb85593",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Archives: Before The Talented Mr. Ripley, There Was This Vogue Editorial",
+      "url": "https://www.vogue.com/article/from-the-archives-postcard-from-portofino",
+      "publishedAt": "2026-08-02T12:00:00.000Z",
+      "collectedAt": "2026-08-02T13:38:57.079Z",
+      "text": "From the Archives: Before The Talented Mr. Ripley, There Was This Vogue Editorial The December 1992 fashion spread we return to every summer."
+    },
+    {
+      "id": "f2dd7722bc14f9e6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer",
+      "url": "https://www.vogue.com/article/the-hot-list-with-gab-waller",
+      "publishedAt": "2026-08-02T10:00:00.000Z",
+      "collectedAt": "2026-08-02T13:38:57.080Z",
+      "text": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer Gab Waller’s monthly cheat sheet of things to shop now before the most dreaded three words in online shopping appear (“out of stock”)."
+    },
+    {
+      "id": "948e03779b012830",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "32 Items Vogue Editors Happily Shopped, From Raffia Bags to Vibrant Swimsuits",
+      "url": "https://www.vogue.com/article/what-vogue-editors-purchased",
+      "publishedAt": "2026-08-02T10:00:00.000Z",
+      "collectedAt": "2026-08-02T13:38:57.080Z",
+      "text": "32 Items Vogue Editors Happily Shopped, From Raffia Bags to Vibrant Swimsuits Curious what Vogue editors actually spend their money on? These are the items that you’ll actually find in our closets this summer."
+    },
+    {
+      "id": "e5e783aa7c48a2ff",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kristen Stewart’s Perfect Red Carpet Combo? A Suit Jacket and Short-Shorts",
+      "url": "https://www.vogue.com/article/kristen-stewart-suit-jacket-and-short-shorts",
+      "publishedAt": "2026-08-02T07:24:29.000Z",
+      "collectedAt": "2026-08-02T13:38:57.080Z",
+      "text": "Kristen Stewart’s Perfect Red Carpet Combo? A Suit Jacket and Short-Shorts Hitting the red carpet for “Teenage Sex and Death at Camp Miasma” with Gillian Anderson and Hannah Einbinder, Kristen Stewart kept to her own rebel rules."
+    },
+    {
+      "id": "a538431d5095d911",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-1",
+      "publishedAt": "2026-08-01T21:32:27.000Z",
+      "collectedAt": "2026-08-02T13:38:57.080Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From Zara Larsson’s leopard lids to Dua Lipa’s dotty silver nails—this week, the best beauty looks popped with bold patterns and colors."
+    },
+    {
+      "id": "d7a93f130aba27a4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Emma Roberts and Cody John’s Timeless Mountainside Wedding in Sun Valley, Idaho",
+      "url": "https://www.vogue.com/slideshow/emma-roberts-and-cody-john-wedding",
+      "publishedAt": "2026-08-01T14:00:00.000Z",
+      "collectedAt": "2026-08-02T13:38:57.080Z",
+      "text": "Inside Emma Roberts and Cody John’s Timeless Mountainside Wedding in Sun Valley, Idaho The actors wore Monique Lhuillier and Ferragamo to marry in the bucolic setting of the groom’s family estate in Sun Valley, Idaho.See all the exclusive photos from Emma Roberts’s wedding here."
+    },
+    {
+      "id": "9d3da9139d2e9103",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dakota Johnson Wears an Old Favorite Slogan Shirt for a New Era",
+      "url": "https://www.vogue.com/article/dakota-johnson-wears-an-old-favorite-slogan-shirt-for-a-new-era",
+      "publishedAt": "2026-08-01T13:48:04.000Z",
+      "collectedAt": "2026-08-02T13:38:57.080Z",
+      "text": "Dakota Johnson Wears an Old Favorite Slogan Shirt for a New Era Actor, director, producer—now, featured artist. After boyfriend Role Model debuted a track featuring her voice, Dakota Johnson is wearing her new gig well."
+    },
+    {
+      "id": "8ce2ccdfbc6f9f22",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer",
+      "url": "https://www.highsnobiety.com/p/adidas-by-stella-mccartney-sportswear-76/",
+      "publishedAt": "2026-08-02T10:09:01.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer The adidas by Stella McCartney Sportswear 76 gets a fall-ready makeover in a rich Maroon colorway, blending a low-profile with the designer’s signature edge."
+    },
+    {
+      "id": "d288e1f4710f6f76",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans' Trend-Driven Skinny Runner Actually Dates Back to 1982",
+      "url": "https://www.highsnobiety.com/p/vans-premium-style-152-chilli-pepper-bordeaux-red/",
+      "publishedAt": "2026-08-02T07:19:00.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Vans' Trend-Driven Skinny Runner Actually Dates Back to 1982 Vans dives deep into its forgotten athletic vault with the arrival of the Vans Premium LX Style 152 in Chili Pepper/Bordeaux Red."
+    },
+    {
+      "id": "ca3986dafb921342",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Converse’s Leather “Samba” Is Surprisingly Dapper (& Skate-able)",
+      "url": "https://www.highsnobiety.com/p/converse-road-classic-sk-pa-ox/",
+      "publishedAt": "2026-08-01T21:07:56.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Converse’s Leather “Samba” Is Surprisingly Dapper (& Skate-able) Converse debuts a new Road Classic SK PA OX sneaker dressed in slick leather. Here's everything on the stylish skate shoe."
+    },
+    {
+      "id": "810856d574e79f79",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "When It Rains, Vans’ Mighty GORE-TEX Sneaker Still Shines",
+      "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-black/",
+      "publishedAt": "2026-08-01T21:17:04.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "When It Rains, Vans’ Mighty GORE-TEX Sneaker Still Shines Vans' stylish Crosspath XC GORE-TEX lands in black with silver accents, bringing some shine to the trail-ready design."
+    },
+    {
+      "id": "44a97cd0f35563e4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Only Satisfy Could Make Tasteful Climbing Gear Out of Vintage Levi's",
+      "url": "https://www.highsnobiety.com/p/satisfy-levis-climbing-gear-stoner/",
+      "publishedAt": "2026-07-31T09:10:22.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Only Satisfy Could Make Tasteful Climbing Gear Out of Vintage Levi's The Paris-based running label Satisfy and American denim brand Levi's hit the cliffs again for a second round of stylish climbing gear."
+    },
+    {
+      "id": "725cba31c16a4810",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "16 Years Later, Nike’s Oreo-Themed Air Jordans Still Hit the Spot",
+      "url": "https://www.highsnobiety.com/p/jordan-6-oreo-2026-sneakers/",
+      "publishedAt": "2026-08-01T20:56:48.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "16 Years Later, Nike’s Oreo-Themed Air Jordans Still Hit the Spot The Air Jordan 6 \"Oreo\" sneaker gets a 2026 revival, dressed in its classic black-and-white colorway & tasty details."
+    },
+    {
+      "id": "3a3e2c5f08abb0f1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Air Max Dress Shoe Is Elegance in Motion",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-dolce-metallic-silver/",
+      "publishedAt": "2026-08-01T18:20:45.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Nike’s Air Max Dress Shoe Is Elegance in Motion Nike's classy Air Max Dolce sneaker continues its revival era with the release of a shiny \"Metallic Silver\" colorway."
+    },
+    {
+      "id": "93082ffd41d151fc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Travis Scott’s “Odyssey” Nikes Are Sneakers That Will Never Be",
+      "url": "https://www.highsnobiety.com/p/travis-scott-nike-moon-shoe-odyssey/",
+      "publishedAt": "2026-08-01T20:54:17.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Travis Scott’s “Odyssey” Nikes Are Sneakers That Will Never Be Travis Scott debuts a collaborative Nike Moon Shoe designed exclusively for the Odyssey's cast and crew. Here's everything on the never-to-release shoe."
+    },
+    {
+      "id": "7192d0e9eae23b9a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Stone Island Does Jamaican Dancehall Concerts Now, Too",
+      "url": "https://www.highsnobiety.com/p/stone-island-nurse-signs-better-gift-shop/",
+      "publishedAt": "2026-08-01T14:00:00.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Stone Island Does Jamaican Dancehall Concerts Now, Too Stone Island and Toronto streetwear boutique Better Gift Shop got Jamaican typographer Nurse Signs to create handmade signs for their Caribana concert."
+    },
+    {
+      "id": "5e920771e6c83b29",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Crocs Is Doubling Down on Its Dorky, Gorpy Trail Sneakers",
+      "url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer-orange-zing/",
+      "publishedAt": "2026-08-01T13:50:00.000Z",
+      "collectedAt": "2026-08-02T13:38:58.467Z",
+      "text": "Crocs Is Doubling Down on Its Dorky, Gorpy Trail Sneakers The Crocs Quick Trail Racer “Orange Zing” pushes the brand further into gorpcore territory with a rugged trail-inspired silhouette built for everyday wear."
+    },
+    {
+      "id": "2ea810dd9e4898c2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "DSM Kei Ninomiya Spotlights a Diverse Cast of Creatives for Its FW26 Campaign",
+      "url": "https://hypebeast.com/2026/8/dsm-kei-ninomiya-fall-winter-2026-campaign-release-info",
+      "publishedAt": "2026-08-02T09:40:06.000Z",
+      "collectedAt": "2026-08-02T13:38:59.837Z",
+      "text": "DSM Kei Ninomiya Spotlights a Diverse Cast of Creatives for Its FW26 Campaign Summary DSM's Kei Ninomiya FW26 campaign features a diverse cast of international creatives Hiroshi Fujiwara, Hirokazu Kore-eda and more.The collection concept subverts football apparel, reworking sportswear into cultural expression.Available now across DSM flagships and online platforms. Dover Street Market and Kei Ninomiya have teamed up for a striking Fall/Winter 2026 campaign that highlights a diverse ensemble cast of international creatives. The campaign brings together artists, musicians, models and tastemakers from varied disciplines, spanning figures such as Hiroshi Fujiwara, acclaimed filmmaker Hirokazu Kore-eda, actress Miwako Ichikawa, costume designer Michiko Kitamura to Avu-Chan - the lead singer of alternative Japanese band Queen Bee - and more.At the core of the collection's concept is the subversion of football apparel, taking sports-derived garments beyond their traditional field settings and expanding them into a broader cultural language. By stripping these athletic motifs of their original context, the lineup transforms a strictly codified sport into a medium for free thinking and uninhibited expression. Designed as \"clothes for nameless communities,\" the pieces break down the rigid boundaries of defined fanbases or subcultures, thus bending the rules within a sportswear framework.The DSM Kei Ninomiya FW26 range is now available across the retailers' flagships and online shops.&nbsp;View this post on Instagram&nbsp;A post shared by DSM Kei Ninomiya (@dsmkeininomiya) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "51759f15a44dddc5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A First Look at Nike and Zellerfeld’s 3D-Printed Air Works Prototype",
+      "url": "https://hypebeast.com/2026/8/a-first-look-at-nike-and-zellerfelds-3d-printed-air-works-prototype",
+      "publishedAt": "2026-08-02T08:30:07.000Z",
+      "collectedAt": "2026-08-02T13:38:59.837Z",
+      "text": "A First Look at Nike and Zellerfeld’s 3D-Printed Air Works Prototype Name: Motoi Hatsuki Air Works 3D-printed SneakerSKU: TBCRelease Date: TBCNike has officially taken its first public step into the future of footwear manufacturing with its 3D-printed sneaker from its innovative Air Works Program, developed in partnership with additive manufacturing specialist Zellerfeld.Revealed via social media by Blue Room's Motoi Hatsuki, the prototype silhouette showcases a sleek, monochromatic model. The sneaker features a one‑piece 3D‑printed construction, eliminating traditional stitching and overlays for a streamlined, slip‑on profile. Hatsuki’s design draws inspiration from the Air Max 1000 and Tailwind V, incorporating exaggerated heel and forefoot Air bubbles, including a glowing neon yellow unit at the rear. The side panels showcase a paisley‑style looping motif, adding ornamental depth to the otherwise minimal structure. Branding is kept subtle, allowing the experimental form and texture to take center stage.As part of Nike’s broader Air Works initiative, which brought eight global creatives to Beaverton to collaborate with Nike engineers. Each participant will receive limited friends‑and‑family runs of their concepts, with previews rolling out ahead of Air Max Day 2027.&nbsp;View this post on Instagram&nbsp;A post shared by htk (@htk2626) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e202fd0547044b73",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Images of the Nike Air Rejuven8 \"Camo Pack\"",
+      "url": "https://hypebeast.com/2026/8/nike-air-rejuven8-camo-pack-black-camo-iu3167-002-barkroot-brown-camo-iu3167-001-official-images",
+      "publishedAt": "2026-08-02T08:12:44.000Z",
+      "collectedAt": "2026-08-02T13:38:59.837Z",
+      "text": "Official Images of the Nike Air Rejuven8 \"Camo Pack\" Name: Nike Air Rejuven8 “Camo Pack”Colorway: “Black Camo,” “Barkroot Brown Camo”SKU: IU3167-002, IU3167-001MSRP: TBCRelease Date: August 2026Nike expands on the Air Rejuven8 revival, unveiling a bold new “Camo Pack” featuring two women’s-exclusive colorways in \"Black Camo\" and \"Barkroot Brown.\" Originally introduced ahead of the 2008 Beijing Olympics as a post-performance recovery shoe for elite athletes, both new iterations retain the slip-on silhouette while introducing camouflage-inspired detailing across the molded, open-cell lattice cage.The \"Black Camo\" edition pairs a black knit bootie with tonal laces and foam tooling, contrasted by a semi-translucent shell patterned with smoky camouflage across its diamond cutouts. A crisp white Swoosh on the lateral side provides the only sharp break in color, keeping the palette sleek and understated. Meanwhile, the \"Barkroot Brown Camo\" version introduces warmth with a brown knit base beneath a glossy tortoiseshell-like-patterned cage, whose layered tones evoke the look of tortoiseshell. Black laces and a matching sole keep the design grounded, while a muted brown Swoosh subtly reinforces the earthy theme. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3eccca8af377c4f5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The STEKA Octagonal Aluminum Pan Is Built for a Lifetime of Fire and Flame",
+      "url": "https://hypebeast.com/2026/8/addi-steka-octagonal-aluminum-saute-pan-mozambique-release-info",
+      "publishedAt": "2026-07-31T11:18:59.000Z",
+      "collectedAt": "2026-08-02T13:38:59.837Z",
+      "text": "The STEKA Octagonal Aluminum Pan Is Built for a Lifetime of Fire and Flame Summary ADDI designs the STEKA, an octagonal sauté pan for Mozambique, blending Scandinavian minimalism with Japanese craftsmanship.Features include a solid aluminum body, a removable handle and a drop-lid-inspired cover.Available now via Mozambique’s webstore, priced at around $172 USD. STEKA is an octagonal aluminum sauté pan designed by Swedish studio ADDI for Japanese cookware brand Mozambique. Conceived as a versatile cooking tool that bridges indoor kitchens and rugged outdoor environments, the pan was designed from a philosophy of structural logic and reduction rather than fleeting trends. Intended to transition seamlessly from a standard kitchen stove to an open campfire, the STEKA pan is engineered to be an adaptable, lifelong culinary instrument that ages and develops character alongside its owner.Crafted from 5 mm solid aluminum, STEKA offers heat retention similar to cast iron but with a lighter weight. Its high, straight sides expand cooking possibilities, while the removable cast‑aluminum handle, secured with a single stainless‑steel screw, allows for easy replacement, oven use, or compact storage. The companion lid, inspired by the Japanese otoshibuta drop‑lid, features raised points underneath that circulate moisture during simmering and braising, creating a self‑basting effect. Each piece is hand‑finished, with production limited to ten units per day, underscoring its artisanal quality.Available now via Mozambique's webstore, the STEKA pan retails at ¥27,500 JPY (approx. $172 USD) and comes with a five‑year warranty. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d0057adc2d51f309",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Pharrell Williams’ JOOPITER Launches Its First-Ever Dedicated Watch Auction",
+      "url": "https://hypebeast.com/2026/8/joopiter-keeping-measure-watches-timepieces-auction-sale-info",
+      "publishedAt": "2026-07-31T11:18:34.000Z",
+      "collectedAt": "2026-08-02T13:38:59.837Z",
+      "text": "Pharrell Williams’ JOOPITER Launches Its First-Ever Dedicated Watch Auction Summary JOOPITER debuts Keeping Measure: Watches & Timepieces, its first watch auction.Features collectible pieces from Patek Philippe, OMEGA, Cartier and more.Bidding is open until August 5, 2026, with highlights like the Alan Bean Speedmaster and HYT Moon Runner Red Magma. JOOPITER has announced its first auction under its newly established Watches Department, titled Keeping Measure: Watches & Timepieces. Curated to showcase both landmark models from storied Maisons and innovative creations from independent watchmakers, the sale spans over half a century of horological design. Featuring names such as Patek Philippe, Audemars Piguet, OMEGA, Piaget, Cartier, Ressence, HYT, Speake‑Marin and Ōtsuka Lotēc, the auction reflects the breadth of contemporary collecting and aims to appeal to seasoned collectors as well as newcomers.The auction is currently open for bidding until August 5, 2026, with highlights including rare OMEGA pieces such as a tropical dial 2915‑3 and the first auction appearance of the complicated Speedmaster Chrono Chime. Other standout lots include the OMEGA Alan Bean Speedmaster produced in 1969 and linked to the astronaut who became the fourth person to walk on the Moon; the Ulysse Nardin 18k Woven Bracelet Watch crafted by Gay Frères; as well as the HYT Moon Runner Red Magma -- a bold 2022 release showcasing HYT’s liquid‑time technology. Head over to JOOPITER's dedicated webpage to view the full lineup of the Keeping Measure: Watches & Timepieces sale. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a461053bd72a86f5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "David Zwirner Announces a Two-Location Yoshitomo Nara Showcase in NYC",
+      "url": "https://hypebeast.com/2026/8/yoshitomo-nara-first-exhibition-with-david-zwirner-new-york-info",
+      "publishedAt": "2026-07-31T11:02:42.000Z",
+      "collectedAt": "2026-08-02T13:38:59.837Z",
+      "text": "David Zwirner Announces a Two-Location Yoshitomo Nara Showcase in NYC Summary Yoshitomo Nara’s first David Zwirner exhibition opens in New York on October 29, 2026.The two-location exhibition features new atmospheric paintings and large-format drawings.The 19th Street location will feature thirteen monumental white bronze head sculptures. Opening this fall, David Zwirner will present Japanese artist Yoshitomo Nara’s inaugural solo exhibition with the gallery, spanning its 533 West 19th Street and 537 West 20th Street locations in New York. Marking the artist's first major solo presentation in the city in nearly a decade, the expansive showcase features new 2026 paintings, large-format drawings, recent sculptures and foundational early works from the 1980s chosen by Nara himself.The presentation at the 537 West 20th Street space highlights the latest stylistic shifts in Nara's two-dimensional artwork, featuring front-facing portraits with direct gazes rendered in a distinctly muted, highly nuanced color palette. The new paintings reveal intricate, diffused brushwork that builds richly atmospheric depths, alongside a fresh method where compositions are first sketched in colored pencil before receiving translucent washes of acrylic paint. In these works, figures adopt natural poses with tear-filled eyes that evoke a quiet sense of uncertainty. Exhibited in tandem are recent monochrome drawings created with industrial oil-based paint sticks, as well as his \"line\" paintings —works created by projecting and reanimating bold notebook sketches onto canvas to retain the rapid, fluid impulse of drawing.Concurrently, the 533 West 19th Street venue houses thirteen monumental bronze head sculptures created in 2024, each representing a ten-fold enlargement of palm-sized clay prototypes hand-molded by the artist. Coated in matte white urethane paint to afford an inviting visual softness, the large-scale works recall the \"snow monsters\" created by heavy snowfall during Nara's childhood winters. By magnifying the simple facial expressions of these small prototypes to a monumental scale, the installation explores the psychological impact of size, allowing the play of light and shadow across their smooth surfaces to foster an environment of serenity and reflection.Both showcases will take place across its aforementioned gallery locations starting October 29, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "de34ac1503fcefec",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Thom Browne",
+      "url": "https://hypebeast.com/2026/8/new-arrivals-from-hbx-thom-browne-3",
+      "publishedAt": "2026-08-01T15:33:31.000Z",
+      "collectedAt": "2026-08-02T13:38:59.837Z",
+      "text": "New Arrivals From HBX: Thom Browne Brand Information: Thom Browne is a New York-based global fashion house best known for its iconic 4-Bar stripes and monochromatic palettes. Deeply rooted in luxury tailored suits, Thom Browne redefines modern tailoring with distinctive structures and fits with its ankle-length trousers, narrow lapel collars, and fitted silhouettes. The label carries collections for men, women, and children alike providing a contemporary American uniform look for all generations. Thom Browne's notable collaborations with global partners such as Moncler, Brooks Brothers, and Supreme are testaments to the brand's success. Today, Thom Browne continues to influence many fashion enthusiasts with its avant-garde cuts and premium fabrics, making their tailored suits an everyday staple for the contemporary elite.Price Range: $220.00 USD - $2,615.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
     }
   ]
 }
