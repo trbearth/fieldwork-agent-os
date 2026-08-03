@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-02",
+    "id": "2026-08-03",
     "mode": "live",
-    "displayDate": "AUG 02, 2026, 09:39 AM EDT",
-    "generatedAt": "2026-08-02T13:39:01.075Z",
-    "itemsCollected": 24,
+    "displayDate": "AUG 03, 2026, 10:50 AM EDT",
+    "generatedAt": "2026-08-03T14:50:20.236Z",
+    "itemsCollected": 44,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 12
+        "count": 8
       },
       {
         "source": "Hypebeast",
@@ -24,8 +24,28 @@
       }
     ]
   },
-  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 65,
+      "confidence": 39,
+      "youthRelevance": 100,
+      "direction": "up",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "5 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "5 observations · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld",
+          "source": "Hypebeast",
+          "date": "Aug 3",
+          "url": "https://hypebeast.com/2026/8/ayaneo-konkr-pocket-advance-revives-game-boy-spirit"
+        }
+      ]
+    },
     {
       "id": "narrow-technical-footwear",
       "name": "Narrow technical footwear",
@@ -47,22 +67,22 @@
       ]
     },
     {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
+      "id": "quiet-performance",
+      "name": "Quiet performance",
       "stage": "emerging",
-      "score": 48,
-      "confidence": 24,
-      "youthRelevance": 73,
+      "score": 42,
+      "confidence": 19,
+      "youthRelevance": 38,
       "direction": "up",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
       "citations": [
         {
-          "title": "Spotify Introduces New \"User Notes\" Feature for In-App Music Journaling",
-          "source": "Hypebeast",
-          "date": "Jul 31",
-          "url": "https://hypebeast.com/2026/7/spotify-user-notes-turn-playlists-into-journals"
+          "title": "The Best Travel Sandals, From Packable Flip Flops to Comfortable Platforms",
+          "source": "Vogue",
+          "date": "Aug 3",
+          "url": "https://www.vogue.com/article/travel-sandals"
         }
       ]
     }
@@ -72,15 +92,15 @@
     "reason": "More history is required."
   },
   "prediction": {
-    "title": "Narrow technical footwear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0802",
-    "name": "Narrow technical footwear",
-    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
+    "code": "AUTO 0803",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer"
+      "Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld"
     ]
   }
 }

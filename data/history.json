@@ -174,6 +174,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-03",
+      "mode": "live",
+      "displayDate": "AUG 03, 2026, 10:50 AM EDT",
+      "generatedAt": "2026-08-03T14:50:20.236Z",
+      "itemsCollected": 44,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 8
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 65,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 49,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 42,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -3113,6 +3155,490 @@
       "publishedAt": "2026-08-01T15:33:31.000Z",
       "collectedAt": "2026-08-02T13:38:59.837Z",
       "text": "New Arrivals From HBX: Thom Browne Brand Information: Thom Browne is a New York-based global fashion house best known for its iconic 4-Bar stripes and monochromatic palettes. Deeply rooted in luxury tailored suits, Thom Browne redefines modern tailoring with distinctive structures and fits with its ankle-length trousers, narrow lapel collars, and fitted silhouettes. The label carries collections for men, women, and children alike providing a contemporary American uniform look for all generations. Thom Browne's notable collaborations with global partners such as Moncler, Brooks Brothers, and Supreme are testaments to the brand's success. Today, Thom Browne continues to influence many fashion enthusiasts with its avant-garde cuts and premium fabrics, making their tailored suits an everyday staple for the contemporary elite.Price Range: $220.00 USD - $2,615.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "13f25847d0a0865b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Anne Sofie Madsen Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/anne-sofie-madsen",
+      "publishedAt": "2026-08-03T14:47:08.000Z",
+      "collectedAt": "2026-08-03T14:50:15.834Z",
+      "text": "Anne Sofie Madsen Copenhagen Spring 2027 "
+    },
+    {
+      "id": "4c071c6f458ee227",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dakota Johnson Embraces the Color of the Moment—and a Surprising Jewelry Choice",
+      "url": "https://www.vogue.com/article/dakota-johnson-mint-green-trend",
+      "publishedAt": "2026-08-03T14:10:45.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Dakota Johnson Embraces the Color of the Moment—and a Surprising Jewelry Choice Hint: Her gold accessory is made for walking."
+    },
+    {
+      "id": "a27eef1d38071555",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "url": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "publishedAt": "2026-08-03T13:21:20.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Meet the Vogue & Condé Nast PhotoVogue Committee Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue"
+    },
+    {
+      "id": "a81cd627b9c8b38b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sportmax Resort 2027",
+      "url": "https://www.vogue.com/fashion-shows/resort-2027/sportmax",
+      "publishedAt": "2026-08-03T14:47:08.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Sportmax Resort 2027 "
+    },
+    {
+      "id": "59ce384ed8fbcc6c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What to Know About the New US Tariffs",
+      "url": "https://www.vogue.com/article/what-to-know-about-the-new-us-tariffs",
+      "publishedAt": "2026-08-03T12:30:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "What to Know About the New US Tariffs As new US tariffs land like an anvil on a broad swathe of sourcing markets, companies are finding diversification harder to execute — and China harder to replace."
+    },
+    {
+      "id": "54f77aae4fbee52b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Want To Live Longer? Start Tracking Your VO2 Max",
+      "url": "https://www.vogue.com/article/vo2-health-metric",
+      "publishedAt": "2026-08-03T11:30:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Want To Live Longer? Start Tracking Your VO2 Max A low VO2 max is considered a stronger predictor of mortality risk than smoking, obesity, high blood pressure, and type 2 diabetes. Here's how to improve your number."
+    },
+    {
+      "id": "8cf57bb020362bc5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Travel Sandals, From Packable Flip Flops to Comfortable Platforms",
+      "url": "https://www.vogue.com/article/travel-sandals",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "The Best Travel Sandals, From Packable Flip Flops to Comfortable Platforms Planning a trip? Pack up some comfortable travel sandals to see you through both days on the beach and long hours spent sight-seeing."
+    },
+    {
+      "id": "d6b7ef143ff74f60",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 Best Route 66 Airbnbs for Your Next Great Road Trip",
+      "url": "https://www.vogue.com/article/route-66-airbnbs",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "10 Best Route 66 Airbnbs for Your Next Great Road Trip Hitting the road? Book a Route 66 Airbnb to make your rest stops a little more elevated. From the starting point in Chicago right through the end in LA, these 10 properties are on our wishlist."
+    },
+    {
+      "id": "c230ecfcbea4733a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mother’s Home: Inside the LA Brand’s First Standalone Store",
+      "url": "https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store",
+      "publishedAt": "2026-08-03T04:30:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Mother’s Home: Inside the LA Brand’s First Standalone Store After wildfires destroyed the first iteration of the store, Mother is entering the physical retail game for the first time with a West Coast space."
+    },
+    {
+      "id": "51054657cdd11b56",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Consumers Are Fatigued, Influencers Are Burnt Out. What Now?",
+      "url": "https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now",
+      "publishedAt": "2026-08-03T04:30:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Consumers Are Fatigued, Influencers Are Burnt Out. What Now? Battling with content fatigue and influencer burnout, the playing field for creators has never been tougher. These are the new standards for content."
+    },
+    {
+      "id": "200ef3e5d443294c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hailey Bieber Endorses Summer’s Coolest Nail Trend",
+      "url": "https://www.vogue.com/article/hailey-bieber-charli-xcx-summer-manicure",
+      "publishedAt": "2026-08-02T22:28:19.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Hailey Bieber Endorses Summer’s Coolest Nail Trend Charli xcx was spotted with a flash of this shade, too."
+    },
+    {
+      "id": "0ec32da06a69754c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Every Time Kate Middleton Referenced Princess Diana’s Iconic Style",
+      "url": "https://www.vogue.com/slideshow/every-time-kate-middleton-referenced-princess-diana-style",
+      "publishedAt": "2026-08-02T21:54:02.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Every Time Kate Middleton Referenced Princess Diana’s Iconic Style Catherine Walker coat-dresses, Alexander McQueen moments, and shared jewels: though Diana and Catherine never net, their connection through style runs deep."
+    },
+    {
+      "id": "7645a274910bcd9b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Benefits of Vitamin B6",
+      "url": "https://www.vogue.com/article/vitamin-b6",
+      "publishedAt": "2026-08-02T19:30:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "The Benefits of Vitamin B6 Vitamin B6 supports energy metabolism, brain health, mood, and sleep. Here, a look at the benefits, food sources, and signs of deficiency."
+    },
+    {
+      "id": "a65165d6c1b8ea60",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kate Middleton Styles Her Staples for a Rare All-Family Outing to the Commonwealth Games",
+      "url": "https://www.vogue.com/article/kate-middleton-staple-outfit-commonwealth-games",
+      "publishedAt": "2026-08-02T18:47:27.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Kate Middleton Styles Her Staples for a Rare All-Family Outing to the Commonwealth Games The Wales family made their first official public appearance as a fivesome in Scotland for the Commonwealth Games—Kate Middleton stuck to her familiar fashions."
+    },
+    {
+      "id": "0403248706ba20f5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hailey Bieber Is Healing Her Blisters With…Pimple Patches?",
+      "url": "https://www.vogue.com/article/hailey-bieber-feet-blisters-pimple-patches",
+      "publishedAt": "2026-08-02T17:27:43.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "Hailey Bieber Is Healing Her Blisters With…Pimple Patches? Rhode beauty mogul Hailey Bieber has found multiple uses for one of her latest product launches—here’s exactly why it works."
+    },
+    {
+      "id": "8d87892f67153592",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Beckhams Bring Their Vacation Style to St. Tropez",
+      "url": "https://www.vogue.com/article/victoria-david-beckham-euro-summer-ibiza-style",
+      "publishedAt": "2026-08-02T16:40:38.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "The Beckhams Bring Their Vacation Style to St. Tropez The couple are enjoying a lavish Euro-summer—with yacht-worthy fashions only the Beckhams could pull off together."
+    },
+    {
+      "id": "f5c9846c6d2cbece",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Sardine Manicure is Summer 2026's Unexpected Nail Art Trend",
+      "url": "https://www.vogue.com/article/sardine-manicure",
+      "publishedAt": "2026-08-02T15:54:37.000Z",
+      "collectedAt": "2026-08-03T14:50:15.835Z",
+      "text": "The Sardine Manicure is Summer 2026's Unexpected Nail Art Trend Something fishy is happening in nail art—we look into the a-lure-ing trend."
+    },
+    {
+      "id": "d38d55348e043732",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Dialed Up the Glitz",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-florence-pugh-zendaya-nicole-kidman",
+      "publishedAt": "2026-08-02T15:47:29.000Z",
+      "collectedAt": "2026-08-03T14:50:15.836Z",
+      "text": "The Best Dressed Stars of the Week Dialed Up the Glitz Blingy finishes—be it sequins or crystals—had Hollywood A-listers shining bright this week, from Zendaya and Florence Pugh to Kaia Gerber."
+    },
+    {
+      "id": "09e9022caf425ffa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Stylish New Hotel Embraces the Quieter Side of Mykonos",
+      "url": "https://www.vogue.com/article/fouquets-mykonos-hotel",
+      "publishedAt": "2026-08-01T15:00:00.000Z",
+      "collectedAt": "2026-08-03T14:50:15.836Z",
+      "text": "This Stylish New Hotel Embraces the Quieter Side of Mykonos Fouquet’s Mykonos is as much a place to base yourself for the famed hedonism of the island as it is a perch to lounge, soak up the rays, and take in the rugged, unusual beauty of the Cyclades Islands."
+    },
+    {
+      "id": "7c5075e1a415b85e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Elegant Dad Shoe Is a Rare Breed",
+      "url": "https://www.highsnobiety.com/p/new-balance-996-satin-shoelaces/",
+      "publishedAt": "2026-08-02T20:40:09.000Z",
+      "collectedAt": "2026-08-03T14:50:17.287Z",
+      "text": "New Balance’s Elegant Dad Shoe Is a Rare Breed New Balance's newest 996 sneakers appear with textural looks & satin shoelaces, a rare makeover for the brand's dad shoes."
+    },
+    {
+      "id": "b04e635cf7daad7d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Pokémon Sambas Have No Business Being This Clean",
+      "url": "https://www.highsnobiety.com/p/pokemon-adidas-samba-mewtwo/",
+      "publishedAt": "2026-08-03T13:20:40.000Z",
+      "collectedAt": "2026-08-03T14:50:17.287Z",
+      "text": "adidas’ Pokémon Sambas Have No Business Being This Clean Pokémon celebrates 30 years with an adidas sneaker collab collection, including clean \"Mewtwo\" Sambas."
+    },
+    {
+      "id": "1f57e0e3fd1bff97",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Bubbly Slip-On Sneaker Doesn’t Want to Fit In",
+      "url": "https://www.highsnobiety.com/p/nike-first-sight-shadow-silver/",
+      "publishedAt": "2026-08-03T09:03:48.000Z",
+      "collectedAt": "2026-08-03T14:50:17.287Z",
+      "text": "Nike’s Bubbly Slip-On Sneaker Doesn’t Want to Fit In Nike's First Sight Shadow \"Metallic Silver\" sees the futuristic Foamposite-coded slip-on model truly shine bright. Here's everything on the release."
+    },
+    {
+      "id": "69866bcb4570dc7e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Ultra-Plush Sneaker Is a Beautiful Brainiac",
+      "url": "https://www.highsnobiety.com/p/nike-mind-002-summit-white/",
+      "publishedAt": "2026-08-03T09:05:37.000Z",
+      "collectedAt": "2026-08-03T14:50:17.288Z",
+      "text": "Nike's Ultra-Plush Sneaker Is a Beautiful Brainiac Nike debuts the Mind 002 \"Summit White\" sneaker, arguably the cleanest version of the model yet."
+    },
+    {
+      "id": "5012769249ccbc86",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Scrumptious Leather Air Forces Went Full Wonka Bar",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-mystic-dates/",
+      "publishedAt": "2026-08-03T09:02:01.000Z",
+      "collectedAt": "2026-08-03T14:50:17.288Z",
+      "text": "Nike’s Scrumptious Leather Air Forces Went Full Wonka Bar Nike's \"Mystic Dates\" Air Force 1 goes full Wonka bar mode with a luxe chocolate-brown makeover."
+    },
+    {
+      "id": "a95afadae8aa1d76",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Scrapbook: Highballs, Clean Fits and Jersey Grails Made Its Way to Toki’s Hypebeast Cup Experience",
+      "url": "https://hypebeast.com/2026/8/toki-hypebeast-cup-scrapbook",
+      "publishedAt": "2026-08-03T14:06:24.000Z",
+      "collectedAt": "2026-08-03T14:50:19.004Z",
+      "text": "Scrapbook: Highballs, Clean Fits and Jersey Grails Made Its Way to Toki’s Hypebeast Cup Experience When the biggest soccer tournament in the world took over the summer, the place to be was the Hypebeast Cup Clubhouse. Running from June 26 through July 19, the pop-up space brought together footy fever, fashion, and culture under one roof. But beyond the big screens and the roar of the crowd, House of Suntory’s Toki Whisky emerged as the real pulse of the entire run, seamlessly blending Japanese craftsmanship with peak street culture.At the heart of the experience was the bar, where guests constantly gathered to toast the tournament's best moments. Crisp Toki highballs poured fresh straight from the Toki-on-tap machine, serving up effortless, ice-cold refreshers all month long. Paired with elevated bites like dirty martini deviled eggs, gruyère gougères, and cucumber tea sandwiches, it gave soccer watch parties a sleek, unforgettable upgrade.The energy kicked into high gear during the official Toki Opening Night, setting the tone for the rest of HB Cup’s run. The room buzzed with live music while guests mingled across the plush lounge space, enjoying signature cocktails and bites served throughout the evening. Between heated game-watching sessions, attendees got to browse exclusive merchandise, kick back with interactive games, and score special giveaways—making opening night the ultimate launchpad for the weeks that followed.Style was also on full display throughout the entire run, with creative guests pulling up in their finest fits to catch the matches. Standing out as the ultimate grail of the month was the limited-edition Toki soccer jersey. Inspired by Japanese design and streetwear aesthetics, the crisp long-sleeve kit quickly became a major talking point and a holy grail piece for fans looking to blend sport with style.Taking the jersey to the next level were specially invited tastemakers Karl Pierre, Mark Boutilier, and Florencia Galarza. Each brought their distinct perspective to the piece, styling the Toki jersey in their own signature ways before pulling up to the Toki Opening Night. Their unique fits proved just how versatile the kit was, effortlessly shifting from a pitch-inspired aesthetic to high-street fashion.Toki transformed the Hypebeast Cup into far more than just a place to watch soccer. It became a cultural crossroads where music, style, and hospitality collided seamlessly. Whether you were pulling a fresh highball off tap, rocking the"
+    },
+    {
+      "id": "6d5a2c090b9140af",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Shai Gilgeous-Alexander Fronts Levi's FW26 Campaign and Speaks on His Unfiltered Approach To Style",
+      "url": "https://hypebeast.com/2026/8/shai-gilgeous-alexander-fronts-levis-fw26-campaign-exclusive-style-interview",
+      "publishedAt": "2026-08-03T05:40:42.000Z",
+      "collectedAt": "2026-08-03T14:50:19.004Z",
+      "text": "Shai Gilgeous-Alexander Fronts Levi's FW26 Campaign and Speaks on His Unfiltered Approach To Style Summary Levi’s has enlisted reigning NBA MVP Shai Gilgeous-Alexander to front its Fall/Winter 2026 Keep it Loose campaignIn an exclusive interview with Hypebeast, Gilgeous-Alexander breaks down his rule-breaking tunnel fits, his Canadian roots, and how he styled the collectionThe NBA superstar builds his campaign looks around foundational denim pieces including the 501 Loose and Baggy Barrel paired with relaxed outerwear Levi's has officially unveiled its Fall/Winter 2026 campaign titled \"Keep it Loose,\" placing reigning NBA MVP and style icon Shai Gilgeous-Alexander front and center. Centered around the brand's \"Loose Prep\" ethos, the campaign challenges rigid dress codes by offering relaxed silhouettes, self-styled proportions, and an effortless approach to traditional wardrobe staples.Given total creative freedom to style himself for the campaign, Gilgeous-Alexander built his outfits around wide-leg denim cuts like the 501® Loose and Baggy Barrel, pairing them with the MA-1 Bomber jacket and Authentic PO Hoodie. Shot on film by director Mel Bles, the campaign centers around capturing the superstar's nonchalant approach to personal style.In an exclusive interview with Hypebeast, Gilgeous-Alexander opened up about his creative process both on and off the court. Speaking on his famous NBA tunnel walk outfits, the Oklahoma City guard shared that his style is entirely instinctual: \"It's less about never repeating and more about never putting together the exact same outfit... With clothes, there aren't really any rules. I get to experiment, trust my instincts, and have fun with it.\" He also reflected on his Canadian upbringing in Toronto and Hamilton, noting how growing up exposed to diverse cultures continues to shape his global fashion vocabulary without adhering to fleeting trends.Hypebeast: You’ve famously committed to never repeating an outfit making the NBA tunnel walk a legitimate fashion runway. How do you sustain that level of constant creativity, and what does fashion provide you as a creative outlet away from the pressures of the court?Shai Gilgeous-Alexander: It's less about never repeating and more about never putting together the exact same outfit. I like mixing things up and finding new ways to style the same pieces. That's where the creativity is for me. With clothes, there aren't really any rules. I get to experiment, trust my instincts, and hav"
+    },
+    {
+      "id": "1c7340a11b711a09",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Every Item From Palace Fall 2026 Collection",
+      "url": "https://hypebeast.com/2026/8/palace-fall-2026-full-collection-release-info",
+      "publishedAt": "2026-08-03T09:21:06.000Z",
+      "collectedAt": "2026-08-03T14:50:19.004Z",
+      "text": "Every Item From Palace Fall 2026 Collection Summary Palace Skateboards unveils its complete Fall 2026 range following its lookbook preview.Key pieces include Avirex leathers, Betty Boop graphics and camo GORE-TEX.The collection launches globally starting August 7. Following the reveal of its Fall 2026 lookbook, Palace Skateboards has officially unveiled the complete item-by-item range for the upcoming season. The London skate staple delivers a comprehensive array of transitional apparel, outerwear and lifestyle goods that bridge heavy-duty workwear, high-performance weather apparel and signature pop-culture graphics. Standout highlights from the extensive collection include a premium leather outerwear collaboration with Avirex, an official Fleischer Studios partnership featuring Betty Boop, multi-colored neon Virgin Mary embroidered hoodies, and camouflage GORE-TEX outerwear.Take a look at the complete Fall 2026 collection below. The range will roll out through the brand's weekly drop format starting August 7, 2026. Releases will be available in-store and online across the UK, Europe and the US at 11 a.m. BST / 11 a.m. EDT, alongside availability at flagship stores and Dover Street Market outposts. A subsequent release in Japan, Korea, China, and Australia will follow on August 8, 2026, at 11 a.m. local time.Jackets&nbsp;Outerwear serves as a major focal point for the Fall 2026 assortment, striking a balance between rugged utility and weather-ready technical gear. Leading the technical offerings are multi-paneled GORE-TEX jackets outfitted in woodland camouflage with contrasting blue paneling and vibrant yellow zipper accents. On the utility front, Palace introduces civil workwear-inspired jackets under the \"Palace Transport Co.\" banner- featuring reflective safety striping and custom patches - alongside Old English varsity jackets and classic track jackets for everyday layering.AvirexThe cornerstone outerwear collaboration of the season comes courtesy of aviation heritage brand Avirex. Reinterpreting classic American leather outerwear through a London skate lens, the standout leather jacket features premium construction decorated with a bold winged eagle skull emblem across the back. Co-branded gothic typography and detailed leather appliqués round out the piece, cementing it as one of the collection's most sought-after statement items.Betty BoopInjecting nostalgic cartoon flair into the drop, Palace links up with Fleischer Studios for an official Betty B"
+    },
+    {
+      "id": "6cc7b3144010a0c1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Andersson Bell Touches Down in Tokyo With a New Aoyama Flagship",
+      "url": "https://hypebeast.com/2026/8/andersson-bell-tokyo-flagship-aoyama-opening-exclusive-items-info",
+      "publishedAt": "2026-08-03T11:58:06.000Z",
+      "collectedAt": "2026-08-03T14:50:19.005Z",
+      "text": "Andersson Bell Touches Down in Tokyo With a New Aoyama Flagship Summary Andersson Bell opens a new flagship store in Tokyo’s Aoyama district.The interior blends retro-futuristic metal with warm wood and industrial concrete.Launch includes a store‑exclusive T‑shirt and heart‑shaped keyring, alongside a new FW26 campaign shot in Tokyo. Andersson Bell has opened its first Japanese flagship in Tokyo’s Aoyama district. The three‑floor store, co-designed by architecture studio I IN, blends brutalist structure with vibrant color and light to express the brand’s “beauty of contrast.”The flagship occupies a 1993 brutalist building, reimagined with bold color palettes, glossy materials and dynamic lighting to reflect Andersson Bell’s ethos of merging opposites — classic and modern, minimal and expressive. The design narrative emphasizes contrast, with raw concrete surfaces juxtaposed against polished finishes, creating a space that feels both industrial and refined. Spread across a basement and two above‑ground floors, the store functions not only as a retail destination but also as a cultural hub, intended to foster connections with Tokyo’s creative community.To mark the opening, Andersson Bell introduced store‑exclusive items, including a unisex graphic T‑shirt priced at ¥19,800 JPY (approx. $126 USD) and a limited‑edition heart‑shaped leather keyring with a built‑in measuring tape, retailing at ¥9,900 JPY (approx. $63 USD). Both items incorporate the brand’s storytelling motifs, with the T‑shirt featuring poster‑like graphics and the keyring inscribed with the phrase “COINCIDENCE MORE LIKE DESTINY’S PRE‑GAME.” These exclusives highlight Andersson Bell’s commitment to blending fashion with narrative detail, making the flagship a destination for collectors and fans.The opening coincided with the release of Andersson Bell’s FW26 campaign, shot in Tokyo and featuring model SUMIRE under the lens of photographer Kazunori Usui. Creative director Dohun Kim emphasized Tokyo’s long‑standing influence on the brand, positioning the flagship as a new base for cultural exchange and collaboration.ADSB Andersson Bell Aoyama5-49-2 Jingumae, Shibuya-ku, Tokyo 150-0001, Japan&nbsp;View this post on Instagram&nbsp;A post shared by ADSB ANDERSSON BELL JP (@adsb_anderssonbell_jp) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "856628241949e048",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The ASICS GEL-Kayano 14 Receives a “Silver/ Gold” Treatment",
+      "url": "https://hypebeast.com/2026/8/asics-gel-kayano-14-silver-gold-1203a740-020-official-images-info",
+      "publishedAt": "2026-08-03T11:47:09.000Z",
+      "collectedAt": "2026-08-03T14:50:19.005Z",
+      "text": "The ASICS GEL-Kayano 14 Receives a “Silver/ Gold” Treatment Name: ASICS GEL-Kayano 14 \" Silver/ Gold\"Colorway:SKU: 1203A740-020MSRP: $160 USDRelease Date: 2026ASICS is set to welcome a fresh \"Silver/Gold\" colorway to its GEL-Kayano 14 roster. Maintaining the iconic 2008 design language that originally bridged performance and lifestyle aesthetics, this new colorway delivers a polished, futuristic take on metallic styling. The upper is made of a breathable silver-hued open-mesh base, which is then layered beneath signature Tiger Stripes in contrasting black and silver overlays.The midsole is rendered in crisp white and features the signature visible GEL technology prominently in the heel and forefoot, which is finished in a matching gold hue to complement the upper's accents. This translucent cushioning setup not only provides exceptional shock absorption but also contributes significantly to the shoe's technical visual appeal. Last but not least, the design is grounded by a straightforward black rubber outsole, balancing the aggressive metallic architecture above with functional, everyday traction. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "695fe6e77d67216b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NOT A HOTEL AOSHIMA Expands Its Tropical Japanese Resort With New Luxury Suites",
+      "url": "https://hypebeast.com/2026/8/not-a-hotel-aoshima-chill2-0-coast-new-villa-designs-info",
+      "publishedAt": "2026-08-03T11:46:10.000Z",
+      "collectedAt": "2026-08-03T14:50:19.005Z",
+      "text": "NOT A HOTEL AOSHIMA Expands Its Tropical Japanese Resort With New Luxury Suites Summary NOT A HOTEL AOSHIMA debuts two new villas, CHILL 2.0 and COAST, designed by Shin Ohori.The CHILL 2.0 maisonette features a 21-meter infinity pool, outdoor lounge, and sauna.The COAST duplex offers a private pool, garden and 3.2-meter ceilings. NOT A HOTEL AOSHIMA has expanded its beachfront retreat in Miyazaki with two new villas, CHILL 2.0 and COAST. The new architecture and room layouts were designed by Shin Ohori of GENERAL DESIGN, who also helmed the original buildings, ensuring a seamless visual harmony with Aoshima's lush, subtropical landscape. By expanding the property's public spaces to include a skateboard park and verdant green park areas, the updated resort invites guests into a richer, more engaging lifestyle experience.Serving as an evolution of the resort's flagship \"house of the horizon,\" the new CHILL 2.0 room is a third-level maisonette designed to maximize panoramic views of the Pacific Ocean. Accommodating up to six guests, this expansive suite features two ocean-view bedrooms that step directly out onto a shared terrace to catch the sea breeze. The focal point of the outdoor space is a massive 21-meter infinity pool, expanded from the original CHILL footprint, which blends effortlessly into the distant horizon. Adjacent to the water, a floating outdoor living area with a sunken sofa and fireplace invites guests to relax, while a seamlessly connected bath, sauna, and cold plunge system ensures a continuous flow of wellness and tranquility.The second new addition, COAST, is a duplex spanning the first and second floors that comfortably accommodates up to four people. Situated on a prime oceanfront plot, this house merges the best elements of the property’s earlier \"SURF\" and \"GARDEN\" suites by offering both a private pool and a lush, secluded private garden. One of the four units is pet‑friendly, allowing guests to stay with dogs. Inside, COAST boasts soaring 3.2-meter-high ceilings in the living room, establishing a profound sense of depth and openness that complements the tropical environment.Together, these meticulously crafted residences - alongside the recently renewed, ocean-facing LDK restaurant designed by Ryu Kosaka of A.N.D. - elevate the site’s experience into a fully realized, luxurious beach community. For more details, head over to NOT A HOTEL AOSHIMA’s official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b37e4ecb7b6c4c11",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HUF x Spitfire Preview Upcoming Collaboration",
+      "url": "https://hypebeast.com/2026/8/huf-spitfire-capsule-collaboration-teaser-release-info",
+      "publishedAt": "2026-08-03T11:15:59.000Z",
+      "collectedAt": "2026-08-03T14:50:19.005Z",
+      "text": "HUF x Spitfire Preview Upcoming Collaboration Summary HUF and Spitfire reunite for a collaborative capsule celebrating authentic skate heritage.Features hoodies, technical outerwear, graphic tees, and co-branded skate hardware.The collection officially lands on August 7, 2026, at HUF flagships and select retailers. HUF and Spitfire are set to reunite for a new collaborative capsule collection.. Teased via a high-energy video on Instagram, the collaboration celebrates authentic skate heritage by delivering a complete head-to-toe lineup tailored for both on and off the board.Teased pieces from the capsule include hoodies, graphic short-sleeve T-shirts and technical outerwear decorated with merged HUF Triple Triangle and Spitfire Flame motifs. Complementing the apparel selection are essential skate accessories - ranging from co-branded socks and headwear to custom wheels and hardware - delivering a cohesive expression of two powerhouse skate brands.The HUF x Spitfire collection is scheduled to land officially on August 7, 2026, through HUF flagship stores as well as select retailers. View this post on Instagram Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "391d501ddd8feec8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The HOKA Huaka Pro Arrives in “Triple Black”",
+      "url": "https://hypebeast.com/2026/8/hoka-huaka-pro-triple-black-1176672-bblc-release-info",
+      "publishedAt": "2026-08-03T10:35:26.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "The HOKA Huaka Pro Arrives in “Triple Black” Name: HOKA HUAKA PRO “Triple Black”Colorway: Black/Black/BlackSKU: 1176672-BBLCMSRP: $140 USDRelease Date: Available NowWhere to Buy: HOKAThe HOKA Huaka Pro “Triple Black” delivers a sleek, all‑black reinterpretation of the retro runner, combining archival design cues with modern updates. Designed for versatility, this stealthy all-black colorway drapes the entire sneaker in a dark, monochromatic finish. The slimmed-down polyester upper features a translucent cage that subtly highlights a sublimated HOKA graphic layered underneath.To ensure everyday durability and structural support, the upper is reinforced with a microfiber toe cap overlay and detailed with molded lace eyelets. A practical heel pull webbing loop at the rear allows for easy access, blending functional outdoor elements with a covert, retro-running aesthetic. Beneath the upper, the “Triple Black” iteration retains the original Huaka tooling to offer a nostalgic nod to its performance heritage. The sneaker is equipped with a painted ethylene-vinyl acetate (EVA) midsole that utilizes a smaller stack height than typical maximalist HOKA models, delivering a lower, faster and more grounded profile. A durable rubber outsole provides reliable traction for city streets, ensuring the comfort benefits of traditional running footwear are preserved for daily wear. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ed5d158edea36ddd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Studio Jouin Manku on 20 Years of Shared Creative Ambition With Van Cleef & Arpels",
+      "url": "https://hypebeast.com/2026/8/studio-jouin-manku-van-cleef-arpels-maison-alexandra-house-central-hong-kong-architects-interior-designers-patrick-jouin-sanjit-manku-interview",
+      "publishedAt": "2026-08-03T10:05:33.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Studio Jouin Manku on 20 Years of Shared Creative Ambition With Van Cleef & Arpels In a cityscape built on towering skyscrapers and a constant sensory rush, the retail landscape often feels like a loud shouting match to catch people’s attention. Standard luxury storefronts in Hong Kong consistently fight for dominance by making their presence known through grand architectural designs, bold iconography and distinctive branding engineered for instant consumer recognition. Van Cleef & Arpels, however, operates at the opposite extreme.The French High Jewelry Maison embraces a calculated subtlety, frequently tucking its logo away in an unassuming, less in-your-face manner on its store façades to cultivate an intentional sense of mystery that quietly intrigues passersby to look closer inside. It is precisely this quiet philosophy that guides its newly relocated Hong Kong Maison in Central’s Alexandra House. Moving from its home at the Landmark Prince’s Building where it had sat since 2011, Van Cleef & Arpels turned to long-trusted architectural partners Patrick Jouin and Sanjit Manku of Studio Jouin Manku to build something far more complex than a standard storefront: a structural antidote to the modern digital age.The space’s poetic subversion begins with an 825-square-meter stone and textured glass façade that mimics a \"rain of light,\" adorned with giant white plaster petals hand-sculpted by artisans in England. \"Can you successfully captivate a modern city by whispering when everyone else is shouting?\" Manku muses. \"We believed we could, provided the whisper possessed enough depth.\" This structural whisper continues inside, where a grand winding staircase of oak and light limestone acts as the latest of the studio's ongoing dialogue with the city. By removing sharp corners and rigid lines, the architects guide guests through fluid, homey domestic salons that encourage unhurried exploration. Your partnership with Van Cleef & Arpels began 20 years ago, and you originally designed their first Asian Maison at Landmark Prince's back in 2011. What is it like creatively to return to and rewrite the same Maison footprint in the same city after all these years?Patrick Jouin: We have indeed been working together for a very long time, but every single project presents a completely fresh opportunity. The physical space and the structural flow are always entirely different, meaning we constantly have to discover a new visual language to express the core identity of Van Cl"
+    },
+    {
+      "id": "e51ea9de98cf73a8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Spider-Man: Brand New Day' Nears $1 Billion Global Debut With Historic $927 Million USD Global Box Office Launch",
+      "url": "https://hypebeast.com/2026/8/spider-man-brand-new-day-nears-1-billion-global-debut-with-historic-927-million-usd-global-box-office-launch",
+      "publishedAt": "2026-08-03T00:05:44.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "'Spider-Man: Brand New Day' Nears $1 Billion Global Debut With Historic $927 Million USD Global Box Office Launch Summary 'Spider-Man: Brand New Day' reached $927 million USD globally in its opening weekend performanceThe international haul delivered $572 million USD across 66 markets led by $121 million USD in ChinaThe film stands behind only 'Avengers: Endgame' for the largest worldwide theatrical opening of all time Sony Pictures and Marvel Studios have officially closed a historic debut weekend with Spider-Man: Brand New Day, grossing $927 million USD worldwide to approach the $1 billion USD threshold in just three days. The record-shattering start ranks as the second-largest global box office opening in cinematic history.Following an unprecedented $72 million USD in Thursday previews and a $168 million USD opening day, the Destin Daniel Cretton-directed feature generated $355 million USD across North America. Overseas markets contributed $572 million USD across 66 international territories, spearheaded by China with $121 million USD, followed by $49 million USD in the United Kingdom and $38.3 million USD in Mexico.The global opening of $927 million USD trails only 2019's Avengers: Endgame ($1.2 billion USD) while comfortably outperforming 2018's Avengers: Infinity War ($640 million USD) and 2021's Spider-Man: No Way Home. Bolstered by a 90% Rotten Tomatoes critics' score and an \"A\" CinemaScore, the Tom Holland-led installment has established a dominant trajectory as it aims to join the rare $2 billion USD club.Spider-Man: Brand New Day is currently playing in theaters globally. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "01576279064cce83",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Carhartt WIP Readies a Texture-Focused FW26 Collection",
+      "url": "https://hypebeast.com/2026/8/carhartt-wip-fall-winter-2026-collection-lookbook-release-info",
+      "publishedAt": "2026-08-03T10:05:21.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Carhartt WIP Readies a Texture-Focused FW26 Collection Summary Carhartt WIP drops its FW26 collection, blending archival workwear with modern outdoor cues and fresh washes.Features a hand-finished \"destroy wash,\" \"Duck Feather Print,\" and seasonal colors like Tangled Shady Purple.Priced between $18 – $348 USD, the range is available now via the brand. This Fall/Winter 2026 season, Carhartt WIP continues to blend archival workwear with modern outdoor cues, introducing new fabrics, washes and prints. The new range functions as an exploration of texture, feel and finish, with apparel and accessories reimagining the brand’s quintessential workwear DNA through innovative fabric treatments as well as subtle tailoring influences.Central to the collection is the debut of a hand-finished \"destroy wash\" technique, which gives heavy canvas silhouettes an aged, heavily weathered quality. Applied to archival staples such as the OG Chore Coat, the Women's OG Arcan Jacket and the OG Double Knee Pant, the abrasive process subtly scuffs seams and hems to ensure each piece arrives pre-aged with unique character.Outerwear pieces such as the Curtis Sweater Jacket and Bolon Sweat Jacket emphasize functionality while incorporating fresh seasonal colors like Tangled Shady Purple and Dark Navy. Denim staples, including the Oakland Shirt Jac and Oakland Pant, arrive in rinsed and worn washes, while knitwear like the 1989 Winners Sweat highlights Carhartt WIP’s balance of durability and style.The collection also introduces new prints and accessories, including the Duck Feather Print seen on the Travon Shirt and Cap, alongside playful graphic T-shirts like the Playing Cards Tee and Cheese Toast Tee. Priced from $18 - $348 USD, the FW26 collection is available globally through Carhartt WIP flagships, select retailers and the brand’s online store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "23a6c874795b584e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Look at the Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\"",
+      "url": "https://hypebeast.com/2026/8/kobe-bryant-nike-air-force-1-low-protro-dodgers-iq3920-001-official-look-release-info",
+      "publishedAt": "2026-08-03T09:36:38.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Official Look at the Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\" Summary Nike has released official photos of the Kobe Bryant x Air Force 1 Low Protro in an LA Dodgers colorwayThe upper features light grey leather contrasted by red baseball stitching and a snakeskin-textured SwooshSignature details include fuzzy laces an oversized number eight on the heel and a blue translucent outsole Name: Nike Kobe Air Force 1 Low Protro \"Dodgers\"Colorway: Wolf Grey/Rush BlueSKU: IQ3920-001MSRP: $150 USDRelease Date: August 15, 2026Where to Buy: NikeNike has officially revealed the Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\", bringing a baseball-inspired colorway to the legendary lifestyle silhouette. The release pays homage to the Los Angeles Dodgers' road uniforms while honoring Bryant's legacy in the city.Executed with a light grey leather upper, the pair incorporates red baseball stitching along the seam between the mid-panel and heel—a detail referencing traditional baseball construction while recalling design elements from the Kobe 5. A snakeskin-like textured Swoosh adorns the side panels as a nod to the Black Mamba persona, complemented by an oversized \"8\" on the heel honoring the jersey number Bryant wore during the first half of his Lakers career.Official images highlight additional features, including unique fuzzy blue-and-white laces, alongside alternative solid blue and white lace options. Kobe Bryant’s signature branding marks the tongue, insoles, and lateral heel, while a blue translucent outsole completes the low-top design underfoot.The Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\" releases August 15, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1111d9252d13ce80",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Y’s Taps Fake As Flowers for Kantha Quilt-Infused Collaboration",
+      "url": "https://hypebeast.com/2026/8/ys-fake-as-flowers-collaboration-capsule-release-info",
+      "publishedAt": "2026-08-03T09:36:11.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Y’s Taps Fake As Flowers for Kantha Quilt-Infused Collaboration Summary Y’s and Fake As Flowers unite for a six-piece capsule featuring coats, jackets, pants, and bags.Utilizes traditional Indian embroidery dyed deep black using historic 'Kuromontsuki' techniques.Launches August 7, 2026, with exclusive patchwork pieces available at Y’s Omotesando. Y’s has joined forces with Tokyo-based streetwear label FAF (Fake Ass Flowers) for their inaugural capsule collaboration, scheduled to drop later this week. Merging Y’s avant-garde tailoring and sophisticated design language with FAF’s subcultural streetwear roots, the capsule consists of six distinct styles, including coats, jackets, pants and bags.The collection centers on Kantha quilt - a traditional Indian embroidered textile technique favored by FAF - reimagined through Y’s mastery of shadow and form. To achieve Y’s signature deep black hue, the garments were processed by a historic Japanese dye house with over a century of expertise in dyeing Kuromontsuki, the traditional black formal wear of Japan.Preview the pieces in the gallery above. The capsule will be available from August 7, 2026, through Y’s Omotesando flagship location and select FAF dealers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3f28d08900eea1ae",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Look at the Complete Pokémon x adidas Originals 30th Anniversary Sneaker Collection",
+      "url": "https://hypebeast.com/2026/8/pokemon-adidas-originals-30th-anniversary-sneaker-collection-official-lmages",
+      "publishedAt": "2026-08-03T09:14:12.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Official Look at the Complete Pokémon x adidas Originals 30th Anniversary Sneaker Collection Name: Pokémon x adidas Originals 30th Anniversary Sneaker CollectionMSRP: $110 - $180 USDRelease Date: September 2026Pokémon and adidas Originals are celebrating Pokémon’s 30th anniversary with an extensive sneaker collection. The lineup spans iconic adidas silhouettes, each reimagined with character-inspired colors, textures, and embellishments that merge gaming nostalgia with streetwear design.Three Pikachu-themed pairs lead the lineup: the Pokémon x adidas Pro Model “Pikachu” alongside two Superstar “Pikachu” editions. The Pro Model and one Superstar feature fuzzy yellow uppers mimicking Pikachu’s fur, accented with black detailing and Poké Ball lace dubraes. The remaining Superstar iteration opts for a crisp white base with all-over Pikachu graphics, offering a playful alternative to the textured designs. Moving into the Charmander evolution line, the Superstar “Charmander” arrives in cream and orange tones, while the Superstar “Charmeleon” uses scarlet uppers with claw-shaped Three Stripes. The Superstar “Charizard” elevates the theme further with a wing-shaped flap overlaying the eyelets, nodding to Jeremy Scott’s flamboyant adidas collaborations.Dark, ghostly aesthetics define the next segment. The Adistar XLG 2.0 “Gengar” features deep purple tones with character artwork on the tongue, while the Adistar Control 5 “Haunter” continues the spectral theme with sharp overlays and a sinister palette. Both pairs emphasize adidas’ performance-driven silhouettes while channeling the eerie energy of their Pokémon counterparts.Mewtwo receives the broadest treatment outside Pikachu, appearing across three models. The Samba OG “Mewtwo” incorporates triangular eyelets referencing the character’s fingers, while the ZX 8000 “Mewtwo” uses lavender and violet tones with a Master Ball dubrae for added detail. The Spezial “Mewtwo” introduces a heel loop inspired by the cord extending from Mewtwo’s neck, reinforcing the character’s bio-engineered aesthetic.Last but not leas, Rayquaza closes the lineup with two bold designs: the F50 Tunit Mega “Rayquaza”, which retains its Megaride tooling and football-inspired construction, and the Adistar Control 5 “Rayquaza”, both rendered in green-black palettes that echo the legendary dragon’s scales. Across the collection, Poké Ball lace dubraes, character tongue graphics, and bespoke overlays unify the theme, while each silhouette balance"
+    },
+    {
+      "id": "ff2c805ab421d3a7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kiké Hernández Debuts the Bad Bunny x adidas BadBo 1.0 Cleats \"Mint Green\"",
+      "url": "https://hypebeast.com/2026/8/kike-hernandez-debuts-bad-bunny-adidas-badbo-1-0-cleats-mint-green-first-look",
+      "publishedAt": "2026-08-03T05:37:23.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Kiké Hernández Debuts the Bad Bunny x adidas BadBo 1.0 Cleats \"Mint Green\" Summary Los Angeles Dodgers player Kiké Hernández has debuted a \"Mint Green\" colorway of the adidas BadBo 1.0 baseball cleatThe pair adapts Bad Bunny’s signature lifestyle silhouette for on-field performance with a spiked sole unitOfficial commercial release details and pricing currently remain unconfirmed adidas and Bad Bunny have expanded their footwear lineup on the diamond with the Bad Bunny x adidas BadBo 1.0 Cleat \"Mint Green\".The performance pair was debuted on-field by Los Angeles Dodgers player Kiké Hernández.The \"Mint Green\" colorway adapts the Puerto Rican superstar's signature silhouette for the baseball field. Built with a white leather, perforated upper featuring mint green on the toe box and suede overlays, the pair retains the layered construction, signature paneling, and branding details that define the original lifestyle model. To transition the design for diamond play, the standard sole unit is replaced with a performance cleat plate for field traction.While earlier BadBo 1.0 cleats surfaced during tournament play, the \"Mint Green\" rendition highlights the ongoing crossover between Bad Bunny’s signature footwear line and adidas performance gear. In the past, Benito equipped Team Puerto Rico with a pair of the BadBo 1.0 Cleats in \"Blue/White.\" The \"Mint Green\" iteration is the latest colorway of the Cleat lineup. Take a look above. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7ede7897fc63770e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Marvel Officially Scraps Mahershala Ali-Led ‘Blade’ Reboot After Years of Production Delays",
+      "url": "https://hypebeast.com/2026/8/mahershala-ali-exits-marvels-blade-as-reboot-dies",
+      "publishedAt": "2026-08-03T07:54:20.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Marvel Officially Scraps Mahershala Ali-Led ‘Blade’ Reboot After Years of Production Delays Summary 'Blade,' the Mahershala Ali-led film was officially canceled following years of production delays, director departures and creative setbacks.The cancellation leaves production staff unpaid and threatens Arkane Lyon’s standalone 'Blade' video game project amidst studio restructuring. The Mahershala Ali-led Blade movie, first announced in July 2019 fresh off the success of Avengers: Endgame, has been officially scrapped following a series of high-profile setbacks. Ali recently shared diplomatic remarks about moving on from the vampire hunter role and making any future inquiries the studio's problem. While the actor was under contract for years, the ongoing inability to begin production led him to focus on other projects. He now headlines the upcoming October action drama Your Mother Your Mother Your Mother, which is notably written and directed by one-time Blade filmmaker Bassam Tariq. Other former cast members have also secured new roles, with Mia Goth on The Odyssey and Aaron Pierre starring in Lanterns.The abrupt cancellation extends beyond the primary cast, leaving stunt actors, costumers and editors without expected paychecks during a turbulent period for the entertainment industry. This ripple effect also threatens the standalone Blade video game announced in 2023 by Dishonored developer Arkane Lyon. Caught in the crossfire of extensive Xbox studio acquisitions and recent mass layoffs, the single-player title is in danger of being permanently shelved. The studio currently relies on a mandatory consultation process granted by French labor laws to stave off immediate closure, leaving the highly anticipated project on life support.Scrapping the high-profile feature adds to a growing wave of industry criticism regarding Marvel's handling of Black-led projects throughout the Multiverse Saga. To fill the supernatural void in its schedule, the studio recently announced a Ghost Rider film starring Ryan Gosling for 2028 alongside the confirmation of a third Black Panther hitting theaters that same year. Fans argue that relying heavily on Wakandan narratives while fumbling a culturally significant character like the Daywalker highlights a major misstep for the franchise.Despite the cinematic drought, the Daywalker continues to exist in other media formats. The character features prominently in recent multiplayer titles like Marvel Rivals and the fighting game Marv"
+    },
+    {
+      "id": "077da443aed17d3f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Form Portfolios Acquires Heritage Label Dansk to Relaunch Midcentury Design Grails",
+      "url": "https://hypebeast.com/2026/8/dansk-relaunches-under-form-portfolios-with-copenhagen-focus",
+      "publishedAt": "2026-08-03T07:54:18.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Form Portfolios Acquires Heritage Label Dansk to Relaunch Midcentury Design Grails Summary Design firm Form Portfolios purchased heritage brand Dansk for $250,000 USD following Food52's Chapter 11 asset auction.Founder Mark Masiello is relocating the design studio to Copenhagen to relaunch archival grails like Kobenstyle cookware. Design licensing firm Form Portfolios has officially taken stewardship of Dansk. The move marks a pivotal return for the beloved Danish-American midcentury design icon after years of corporate transitions. The acquisition by the Rhode Island and Copenhagen-based firm follows a Chapter 11 filing by Food52. The former parent company saw its assets split across multiple bidders during an intense Delaware auction. The heritage tabletop brand served as the final component of the sale and was secured for $250,000.Founded in 1954 by American entrepreneurs Ted and Martha Nierenberg alongside principal designer Jens Quistgaard, the label helped introduce Scandinavian modernism to North American homes. It built a stellar reputation on everyday objects that blended sculptural beauty with high functionality. Form Portfolios founder Mark Masiello had already spent several years working with the Quistgaard family to manage the late creator's archive. Purchasing the company became a deeply personal mission to safeguard a massive design legacy.The forthcoming relaunch strategy aims to restore the original creative formula. After Quistgaard retired, creative control migrated heavily to the United States. Masiello intends to reverse that shift by firmly rooting the design studio back in Copenhagen. The revival will feature a direct-to-consumer channel at Dansk.com. Loyal fans can expect to see reissued archival grails like the iconic Kobenstyle cookware arriving alongside completely new homeware concepts.Addressing a historical blind spot in the product portfolio, the brand is expanding beyond rigid tabletop items. The label utilized the 3 Days of Design 2026 festival in Denmark to announce a major collaboration with 86-year-old textile artist Kim Naver. A defining figure in her field, Naver is currently developing a fresh collection of tabletop textiles. Her involvement signals an early indication of how the revived imprint intends to balance archival continuity with contemporary progression.The resurrection arrives at a crucial moment for the broader interior design market. Consumers are increasingly pushing back against the disposable nature of"
+    },
+    {
+      "id": "edae7262589474ee",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld",
+      "url": "https://hypebeast.com/2026/8/ayaneo-konkr-pocket-advance-revives-game-boy-spirit",
+      "publishedAt": "2026-08-03T07:54:15.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld Summary Ayaneo's Konkr Pocket Advance revives the classic 2001 Game Boy Advance layout with modern Android emulation tech.It features a 3.5-inch 960x640 LCD screen with 4x point-to-point scaling for authentic retro gaming.Weighing 224 grams, the console packs L2/R2 triggers, USB-C fast charging and classic Navy Blue and Coral Orange colorways. Arriving just after the 25th anniversary of Nintendo’s legendary 2001 hardware, Ayaneo is tapping into peak handheld nostalgia with the Konkr Pocket Advance. Revealed during an official product-sharing stream by CEO Arthur, the new release operates under the brand's dedicated KONKR sub-label. The device strictly maintains the ergonomic horizontal form factor that defined a generation of portable gaming while infusing it with a suite of contemporary hardware upgrades.Front and center is a 3.5-inch LCD screen boasting a 960 x 640 resolution. This specific panel preserves the beloved 3:2 aspect ratio while leveraging 4x point-to-point display technology to deliver crisp integer scaling for classic pixel-art titles. Under the hood, the Android-based system utilizes software emulation rather than vintage cartridges. The hardware operates seamlessly with Ayaneo’s self-developed AYASpace game management ecosystem for streamlined library organization.The physical control layout strikes a balance between retro authenticity and modern utility. It includes a standard D-pad and conductive rubber ABXY buttons alongside oversized L1/R1 bumpers and newly added L2/R2 triggers to handle demanding 3D layouts. A dedicated microSD card slot manages expanded storage, flanked by a USB-C port for PD fast charging, Wi-Fi 5 and Bluetooth 5.0. Preserving the tactile charm of the era, the unit also retains a classic 3.5mm headphone jack and a physical volume adjustment wheel.Measuring slightly thicker than its muse to accommodate the tech, the 224-gram console will debut in two nostalgic finishes: an elegant Navy Blue echoing the original Indigo and a vibrant Coral Orange referencing the classic Spice Orange variant. Pricing and an official release date remain under wraps. Enthusiasts are hoping for a wider production run following the rapid sell-out of the company's recent Pocket Micro 2. For more information, head over to KONKR's official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0426a52b5a3e844d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JJJJound Sets Release Date for the New Balance 740 \"Stoneware\"",
+      "url": "https://hypebeast.com/2026/8/jjjjound-new-balance-740-stoneware-u740n8m2-official-look-release-info",
+      "publishedAt": "2026-08-03T09:14:40.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "JJJJound Sets Release Date for the New Balance 740 \"Stoneware\" Summary JJJound and New Balance are officially releasing the 740N \"Stoneware\" runnerThe design pairs a light beige mesh base with brown synthetic overlays and charcoal N logosThe sneaker drops on August 6 for $130 USD via New Balance Name: Air Jordan 3 \"Sports Renaissance\"Colorway: Paper White/StonewareSKU: U740N8M2MSRP: $130 USDRelease Date: August 6, 2026Where to Buy: New Balance, JJJJoundNew Balance and Montreal-based design studio JJJJound have partnered on the JJJJound x New Balance 740N \"Stoneware\". The collaborative release applies JJJJound's signature minimalist aesthetic to the early-2000s performance runner.Constructed with a light beige mesh base, the upper incorporates brown synthetic overlays wrapping across the toe, eyestays, side panels, and heel. Charcoal \"N\" logos deliver contrasting branding alongside a dark collar lining, while cream laces soften the upper's earth-toned palette. Muted red and navy details subtly accent the lace loops, tongue labels, and heel units.Underfoot, the pair retains its original tooling, featuring a sculpted off-white midsole built with ABZORB cushioning. A segmented black rubber outsole completes the build, with JJJJound branding subtly applied to the insoles.The JJJJound x New Balance 740N \"Stoneware\" releases August 6, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fd4bb05d2785e247",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "John Oliver Extends HBO Contract for 'Last Week Tonight' Through 2027",
+      "url": "https://hypebeast.com/2026/8/john-oliver-extends-hbo-contract-for-last-week-tonight-through-2027",
+      "publishedAt": "2026-08-03T00:05:21.000Z",
+      "collectedAt": "2026-08-03T14:50:19.006Z",
+      "text": "John Oliver Extends HBO Contract for 'Last Week Tonight' Through 2027 Summary John Oliver has signed a one-year contract extension with HBO to continue hosting 'Last Week Tonight' through 2027The shorter extension represents a shift from the host's customary three-year deal structureThe renewal comes during ongoing uncertainty surrounding Warner Bros Discovery and prospective corporate acquisitions HBO and John Oliver have officially agreed to a contract extension that will keep Last Week Tonight with John Oliver on the network through the end of 2027. The deal extends the Emmy-winning late-night series through its upcoming 14th season.Unlike John Oliver’s previous renewals—which historically secured three-year commitments, including a December 2023 deal that carried the show through Season 13—the current agreement spans a single year. The shorter timeframe comes as parent company Warner Bros. Discovery faces corporate uncertainty surrounding potential acquisition moves, including a proposed deal involving Paramount Skydance.Oliver, who launched the weekly late-night program on HBO in 2014, has frequently addressed the network's shifting corporate ownership on-air. Despite the changing landscape behind the scenes, the extension ensures that Last Week Tonight will maintain its regular broadcast schedule through 2027.Last Week Tonight with John Oliver currently airs new episodes on HBO and streams on Max. Click here to view full gallery at Hypebeast"
     }
   ]
 }
