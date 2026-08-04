@@ -216,6 +216,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-04",
+      "mode": "live",
+      "displayDate": "AUG 04, 2026, 10:27 AM EDT",
+      "generatedAt": "2026-08-04T14:27:23.196Z",
+      "itemsCollected": 60,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 13
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 65,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 49,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 42,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -3639,6 +3681,666 @@
       "publishedAt": "2026-08-03T00:05:21.000Z",
       "collectedAt": "2026-08-03T14:50:19.006Z",
       "text": "John Oliver Extends HBO Contract for 'Last Week Tonight' Through 2027 Summary John Oliver has signed a one-year contract extension with HBO to continue hosting 'Last Week Tonight' through 2027The shorter extension represents a shift from the host's customary three-year deal structureThe renewal comes during ongoing uncertainty surrounding Warner Bros Discovery and prospective corporate acquisitions HBO and John Oliver have officially agreed to a contract extension that will keep Last Week Tonight with John Oliver on the network through the end of 2027. The deal extends the Emmy-winning late-night series through its upcoming 14th season.Unlike John Oliver’s previous renewals—which historically secured three-year commitments, including a December 2023 deal that carried the show through Season 13—the current agreement spans a single year. The shorter timeframe comes as parent company Warner Bros. Discovery faces corporate uncertainty surrounding potential acquisition moves, including a proposed deal involving Paramount Skydance.Oliver, who launched the weekly late-night program on HBO in 2014, has frequently addressed the network's shifting corporate ownership on-air. Despite the changing landscape behind the scenes, the extension ensures that Last Week Tonight will maintain its regular broadcast schedule through 2027.Last Week Tonight with John Oliver currently airs new episodes on HBO and streams on Max. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3f2707b77bfb4b19",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Golden Hour Brunette Is Summer 2026's Glossiest Hair Color Trend",
+      "url": "https://www.vogue.com/article/golden-hour-brunette-summer-2026",
+      "publishedAt": "2026-08-04T14:00:48.000Z",
+      "collectedAt": "2026-08-04T14:27:19.113Z",
+      "text": "Golden Hour Brunette Is Summer 2026's Glossiest Hair Color Trend The shade combines rich brown hair with honey and caramel highlights for a glossy, sun-kissed look inspired by golden hour light."
+    },
+    {
+      "id": "5ae5a5cd38ddd9e6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dua Lipa and Callum Turner Make Their Red-Carpet Debut as Husband and Wife",
+      "url": "https://www.vogue.com/article/dua-lipa-callum-turner-red-carpet-debut-husband-and-wife",
+      "publishedAt": "2026-08-04T13:28:53.000Z",
+      "collectedAt": "2026-08-04T14:27:19.114Z",
+      "text": "Dua Lipa and Callum Turner Make Their Red-Carpet Debut as Husband and Wife Dua Lipa and Callum Turner set the standard for newlywed dressing at last night’s premiere of ‘One Night Only.’"
+    },
+    {
+      "id": "bd5318f8aadf2588",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Aiayu Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/aiayu",
+      "publishedAt": "2026-08-04T14:22:42.000Z",
+      "collectedAt": "2026-08-04T14:27:19.114Z",
+      "text": "Aiayu Copenhagen Spring 2027 "
+    },
+    {
+      "id": "bb0b67404aacdd72",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "MKDT Studio Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/mark-kenly-domino-tan",
+      "publishedAt": "2026-08-04T14:22:42.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "MKDT Studio Copenhagen Spring 2027 "
+    },
+    {
+      "id": "fcbd260983c67528",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Valeria Luiselli Knows the Best Place to Get Tacos in Mexico City",
+      "url": "https://www.vogue.com/article/valeria-luiselli-guide-to-mexico-city",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Valeria Luiselli Knows the Best Place to Get Tacos in Mexico City The New York City Booker Prize nominee—whose new novel is out this month—recommends her favorite places in Mexico’s capital."
+    },
+    {
+      "id": "8e1e0e0c9988fd37",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Skall Studio Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/skall-studio",
+      "publishedAt": "2026-08-04T14:22:42.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Skall Studio Copenhagen Spring 2027 "
+    },
+    {
+      "id": "9218ca8dcdf667ce",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Profoundly Simple Pleasures of a Girls Trip",
+      "url": "https://www.vogue.com/article/traveling-with-oldest-friends",
+      "publishedAt": "2026-08-04T11:00:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "The Profoundly Simple Pleasures of a Girls Trip For one author, an annual long weeekend with her five oldest friends has become akin to a sacred ritual."
+    },
+    {
+      "id": "67b00cbbfb032d9b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "7 Newport Airbnbs for a Last-Minute East Coast Summer Getaway",
+      "url": "https://www.vogue.com/article/newport-airbnbs-rhode-island",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "7 Newport Airbnbs for a Last-Minute East Coast Summer Getaway Seafood, history, and the occasional celeb sighting awaits—book a Newport Airbnb and let your Rhode Island holiday officially kick off."
+    },
+    {
+      "id": "470306150372ab14",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Fall Fragrances Leave an Intoxicating Trail of Musk, Amber, and Leather",
+      "url": "https://www.vogue.com/article/fall-fragrances",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "The Best Fall Fragrances Leave an Intoxicating Trail of Musk, Amber, and Leather It’s time for spicy, gourmand, and powerhouse floral notes to come to the fore. The best fall fragrances by Maison Margiela, Tom Ford, Guerlain, and more match the depth of the season."
+    },
+    {
+      "id": "16ae45c1e1c4f535",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 11 Best Hotels in the Hamptons",
+      "url": "https://www.vogue.com/article/the-best-hotels-in-the-hamptons",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "The 11 Best Hotels in the Hamptons From East Hampton, to Shelter Island, to Montauk, here are the best hotels in the Hamptons for your next weekend getaway."
+    },
+    {
+      "id": "118afb0e940da2fa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Vogue Business AI Tracker",
+      "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "publishedAt": "2026-08-04T09:30:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "The Vogue Business AI Tracker Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week."
+    },
+    {
+      "id": "fd9fee3cc6d73acb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "You Can't Be Messy Online Anymore. Where To Next?",
+      "url": "https://www.vogue.com/article/you-cant-be-messy-on-social-media-anymore-where-to-next",
+      "publishedAt": "2026-08-04T08:30:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "You Can't Be Messy Online Anymore. Where To Next? Mainstream social platforms have become too commercial for culture to flourish. As creativity migrates to smaller platforms built on participation rather than performance, brands must rethink not just how they show up, but whether they even should."
+    },
+    {
+      "id": "b99fdc16f46bb811",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Key Takeaways From Luxury’s Q2 Earnings",
+      "url": "https://www.vogue.com/article/key-takeaways-from-luxurys-q2-earnings",
+      "publishedAt": "2026-08-04T04:30:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Key Takeaways From Luxury’s Q2 Earnings Analysts unpack luxury’s quarterly results and weigh in on what lies ahead."
+    },
+    {
+      "id": "bba811afe57c9ef0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer",
+      "url": "https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer",
+      "publishedAt": "2026-08-04T04:30:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer Alo has invested heavily in major European activations this summer, from its mega-yacht to resorts in Bodrum and Saint-Tropez. Petruzzo unpacks the strategy and how she measures ROI."
+    },
+    {
+      "id": "2adf71c0d2598ec6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Skall Studio Is Preserving Danish Wool",
+      "url": "https://www.vogue.com/article/how-skall-studio-is-preserving-danish-wool",
+      "publishedAt": "2026-08-04T04:30:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "How Skall Studio Is Preserving Danish Wool With its Danish wool program, Copenhagen Fashion Week favorite Skall Studio is working to protect a local supply chain before it disappears for good."
+    },
+    {
+      "id": "2e3a0bf967522826",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Snail Mucin to PDRN, 10 Ingredients That Define K-Beauty",
+      "url": "https://www.vogue.com/article/korean-skin-care-ingredients",
+      "publishedAt": "2026-08-04T01:28:42.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "From Snail Mucin to PDRN, 10 Ingredients That Define K-Beauty Korean skincare is not only known for cool, innovative textures, but also for its advanced ingredients with proven results. Here, the ingredients powering K-beauty’s most effective formulas."
+    },
+    {
+      "id": "b3fe5832e8eea66d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Does Erewhon’s $12 “Sacred Water” Hydrate Better Than Tap?",
+      "url": "https://www.vogue.com/article/erewhon-sacred-water",
+      "publishedAt": "2026-08-04T00:56:19.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Does Erewhon’s $12 “Sacred Water” Hydrate Better Than Tap? A 'Vogue' writer goes on a watered-down quest for enlightenment—or, at least, better hydration."
+    },
+    {
+      "id": "407d240a47da75f7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Hyaluronic Acid Skin Care to Get You From Dehydrated to Dewy",
+      "url": "https://www.vogue.com/article/best-hyaluronic-acid-skincare",
+      "publishedAt": "2026-08-03T22:43:42.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "The Best Hyaluronic Acid Skin Care to Get You From Dehydrated to Dewy Hyaluronic acid skin care is everywhere—from face washes to moisturizers and serums galore. With its hydrating powers, it’s no wonder that skin-care enthusiasts are obsessed."
+    },
+    {
+      "id": "44586c2db39d7b28",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inspired by ‘The Odyssey’? Here Are 5 Ancient Greek Interior Design Ideas That Never Date",
+      "url": "https://www.vogue.com/article/ancient-greek-interior-design-ideas",
+      "publishedAt": "2026-08-03T22:38:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Inspired by ‘The Odyssey’? Here Are 5 Ancient Greek Interior Design Ideas That Never Date From mosaics to plaster busts, we look back at the most enduring hallmarks of ancient Greek design—and ask the experts how to bring them into your own home."
+    },
+    {
+      "id": "4c5536d4c7bbf173",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Have Mastered the “Everything Shower”",
+      "url": "https://www.vogue.com/article/how-to-everything-shower",
+      "publishedAt": "2026-08-03T21:30:00.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "I Have Mastered the “Everything Shower” Six steps and 15 products: Here’s how Vogue’s senior beauty editor takes an Everything Shower."
+    },
+    {
+      "id": "383fa4bcb5368243",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "When It Was Time to Propose, Presley Oldham Made His Fiancé’s Ring Himself",
+      "url": "https://www.vogue.com/article/presley-oldham-engagement-ring",
+      "publishedAt": "2026-08-03T20:19:59.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "When It Was Time to Propose, Presley Oldham Made His Fiancé’s Ring Himself The jeweler popped the question with a bespoke ring embedded with meaning. “It was a lot of pressure to design it, because I wanted it to be right. Also, it is my job.”"
+    },
+    {
+      "id": "2787c3db3bf46f1d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kendall Jenner Helped Devon Lee Carlson Celebrate Her Frankies Bikinis Collaboration",
+      "url": "https://www.vogue.com/slideshow/devon-lee-carson-frankies-bikinis-collaboration",
+      "publishedAt": "2026-08-03T20:17:31.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Kendall Jenner Helped Devon Lee Carlson Celebrate Her Frankies Bikinis Collaboration For their first collaboration, which launches today, SoCal natives and longtime friends Devon Lee Carlson and Frankies Bikinis founder Francesca Aiello have teamed up on a joy-filled collection called Sunshine Girls."
+    },
+    {
+      "id": "d6959668415b67dc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ganni Reunites With Stem at Copenhagen Fashion Week",
+      "url": "https://www.vogue.com/slideshow/ganni-reunites-with-stem-at-copenhagen-fashion-week",
+      "publishedAt": "2026-08-03T19:30:38.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "Ganni Reunites With Stem at Copenhagen Fashion Week A Copenhagen Fashion Week stalwart, Ganni has teamed up with former its collaborator Stem to create seven one-off upcycled looks."
+    },
+    {
+      "id": "28261557dd0c8f9b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Street Style Photos From the Spring 2027 Show in Copenhagen",
+      "url": "https://www.vogue.com/slideshow/copenhagen-fashion-week-street-style-spring-2027",
+      "publishedAt": "2026-08-03T18:57:57.000Z",
+      "collectedAt": "2026-08-04T14:27:19.115Z",
+      "text": "The Best Street Style Photos From the Spring 2027 Show in Copenhagen Acielle Tanbetova is on the ground in Copenhagen photographing the best dressed guests at the spring 2027 shows."
+    },
+    {
+      "id": "4357d7cc840d09fe",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ferragamo Hits Growth in the Second Quarter",
+      "url": "https://www.vogue.com/article/ferragamo-hits-growth-in-the-second-quarter",
+      "publishedAt": "2026-08-03T17:20:39.000Z",
+      "collectedAt": "2026-08-04T14:27:19.116Z",
+      "text": "Ferragamo Hits Growth in the Second Quarter The company reached revenue growth of 4.6% in Q2, following consecutive quarters of declining sales."
+    },
+    {
+      "id": "98d6db31bb1263e3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Most Jaw-Dropping Celebrity Wedding Jewelry of All Time",
+      "url": "https://www.vogue.com/article/best-celebrity-wedding-jewelry",
+      "publishedAt": "2026-08-03T16:24:50.000Z",
+      "collectedAt": "2026-08-04T14:27:19.116Z",
+      "text": "The Most Jaw-Dropping Celebrity Wedding Jewelry of All Time From the tiaras worn by Celine Dion and Victoria Beckham, to Dua Lipa and Elizabeth Taylor’s priceless Bulgari Serpenti jewels, celebrity brides have long said “I do” to spectacular pieces of bling."
+    },
+    {
+      "id": "6f83fb70cf2f33aa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Two Music Festivals, One Weekend: Tate McRae Is In Full Pop Star Mode",
+      "url": "https://www.vogue.com/slideshow/tate-mcrae-osheaga-lollapalooza-festival-outfits",
+      "publishedAt": "2026-08-03T16:09:45.000Z",
+      "collectedAt": "2026-08-04T14:27:19.116Z",
+      "text": "Two Music Festivals, One Weekend: Tate McRae Is In Full Pop Star Mode The singer performed at both Osheaga and Lollapalooza this weekend. “Headlining is a huge milestone for me, and I really wanted to make this performance feel like an experience people would remember,” she says."
+    },
+    {
+      "id": "1ed74c877e6a8eb9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Freya Dalsjø Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/freya-dalsjo",
+      "publishedAt": "2026-08-04T14:22:42.000Z",
+      "collectedAt": "2026-08-04T14:27:19.116Z",
+      "text": "Freya Dalsjø Copenhagen Spring 2027 "
+    },
+    {
+      "id": "63fcbb7466d9bc9e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Rugged Trail Sneaker Doesn’t Mind a Detour",
+      "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex/",
+      "publishedAt": "2026-08-04T13:20:07.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "Vans’ Rugged Trail Sneaker Doesn’t Mind a Detour The Vans Crosspath XC GORE-TEX brings trail-ready performance to the brand’s signature style, combining rugged detailing in a clean white colorway."
+    },
+    {
+      "id": "208ae1f8f0fd58f5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "ASICS Coated an Ex-Marathon Runner In Heavy Cream",
+      "url": "https://www.highsnobiety.com/p/asics-gel-cumulus-16-white-cream/",
+      "publishedAt": "2026-08-04T11:13:33.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "ASICS Coated an Ex-Marathon Runner In Heavy Cream ASICS turns its attention back to a 2014 long-distance favorite with the ASICS GEL-Cumulus 16 White/Cream."
+    },
+    {
+      "id": "4ced09ca5b85a83d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "From Nike to Willy Chavarria's adidas, the Seven best Sneakers to Cop this Week",
+      "url": "https://www.highsnobiety.com/p/sneaker-releases-2026-august-week-1/",
+      "publishedAt": "2026-08-04T09:55:11.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "From Nike to Willy Chavarria's adidas, the Seven best Sneakers to Cop this Week This week’s selection sees the release of a brand new adidas x Willy Chavarria, the continuation of New Balance x JJJJound, and its \"Night Lights\" pack."
+    },
+    {
+      "id": "e1d93d86425fc789",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Laceless Two-Toed Sneaker Gets the Halle Berry Treatment",
+      "url": "https://www.highsnobiety.com/p/nike-air-rift-2-yukon-tan/",
+      "publishedAt": "2026-08-04T08:08:32.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "Nike’s Laceless Two-Toed Sneaker Gets the Halle Berry Treatment Nike's Air Rift 2 \"Yukon Tan\" sneakers land in tan & orange design, calling back to Halle Berry's rare sneaker collaboration."
+    },
+    {
+      "id": "679b5cf0a964763e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Miu Miu-Coded Jordan Sneaker Is Extra (in a Good Way)",
+      "url": "https://www.highsnobiety.com/p/jordan-3-sport-renaissance/",
+      "publishedAt": "2026-08-04T08:06:31.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "Nike’s Miu Miu-Coded Jordan Sneaker Is Extra (in a Good Way) The new Air Jordan 3 \"Sport Renaissance\" sneaker has a lot going on, from mismatched details to Miu Miu-style shoelaces."
+    },
+    {
+      "id": "07cbd5e4e6cf175b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "You Know a Shoe Is Peak When It's Snow Peak",
+      "url": "https://www.highsnobiety.com/p/snow-peak-shoe-collabs/",
+      "publishedAt": "2026-08-03T20:45:01.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "You Know a Shoe Is Peak When It's Snow Peak With every color-focused collab, outdoor brand Snow Peak is improving on classic shoe silhouettes from Merrell, Birkenstock, Keen, and more."
+    },
+    {
+      "id": "26dea0b3947b91e7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Even When It’s Doing Nothing, Nike’s Skate-Ready Tennis Sneaker Looks Good",
+      "url": "https://www.highsnobiety.com/p/nike-sb-zoom-tennis-classic-black/",
+      "publishedAt": "2026-08-04T08:04:07.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "Even When It’s Doing Nothing, Nike’s Skate-Ready Tennis Sneaker Looks Good Nike SB's Zoom Tennis Classic sneaker lands in a simple \"Black/White\" colorway. And it still looks good."
+    },
+    {
+      "id": "b273768da5253e57",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Butteriest Loafer Calls the Shots",
+      "url": "https://www.highsnobiety.com/p/adidas-handball-spezial-loafer-fox-brown/",
+      "publishedAt": "2026-08-04T08:14:08.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "adidas’ Butteriest Loafer Calls the Shots The adidas Handball Spezial Loafer is calling the shots at the office in luxe leather & dapper colorways like \"Fox Brown.\""
+    },
+    {
+      "id": "06130dfa9c6f5036",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Genius of Stüssy Lies in its Dyes",
+      "url": "https://www.highsnobiety.com/p/stussy-clothing-dye/",
+      "publishedAt": "2026-08-03T18:23:01.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "The Genius of Stüssy Lies in its Dyes Stüssy has a range of sun-baked summer T-shirts that confirm why the California brand is streetwear's foremost master manipulator of fabric dyeing."
+    },
+    {
+      "id": "34d46e9680ae7cab",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Slim Suede Sneaker Spends Its Summers in France",
+      "url": "https://www.highsnobiety.com/p/adidas-riviera-sneakers/",
+      "publishedAt": "2026-08-04T08:11:37.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "adidas' Slim Suede Sneaker Spends Its Summers in France adidas re-releases the Riviera, a suede leisure sneaker with Tobacco-like flavoring. Here's everything on the comeback."
+    },
+    {
+      "id": "cc3891af8f69b34a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Some Classics Never Graduate. Your Fall Footwear Rotation Should Take Notes",
+      "url": "https://www.highsnobiety.com/p/timberland-studied-classics-back-to-campus/",
+      "publishedAt": "2026-08-03T15:06:34.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "Some Classics Never Graduate. Your Fall Footwear Rotation Should Take Notes Step into the new semester with Timberland's \"Studied Classics\" collection, from the iconic 6-Inch Boot to everyday campus-ready essentials."
+    },
+    {
+      "id": "c7dac77bc6238842",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Kelela’s New Avatar",
+      "url": "https://www.highsnobiety.com/p/kelela-new-avatar-interview/",
+      "publishedAt": "2026-08-03T14:58:59.000Z",
+      "collectedAt": "2026-08-04T14:27:20.521Z",
+      "text": "Kelela’s New Avatar Known as “the blueprint” for a generation of artists, Kelela is forging a new path for herself and her sound."
+    },
+    {
+      "id": "3c9e186b86324696",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "5 Art-Inspired Films to Put on Your Radar",
+      "url": "https://hypebeast.com/2026/8/art-inspired-films-summer-2026-list",
+      "publishedAt": "2026-08-04T14:22:20.000Z",
+      "collectedAt": "2026-08-04T14:27:21.952Z",
+      "text": "5 Art-Inspired Films to Put on Your Radar A gallerist tries to sell a dead body at Art Basel Miami. Such is the premise of Cathy Yan’s The Gallerist, starring Natalie Portman, Charli xcx, and Jenna Ortega. It premiered at January’s Sundance Film Festival, and while it’s yet to land a wider release, the film, and its gloriously absurd premise, seemed to set off a chain across the theaters and festival circuit: a sudden appetite for art world mystique.Cinephiles are particularly well-fed this season. Between Obsession and Backrooms, horror is having another scorching summer, but so too is contemporary art. Before the Venice Film Festival opens the gates for September’s stacked calendar — from Frieze London and Seoul to The Armory Show in New York — consider these releases your fall warm-up.I Want Your Sex dir. Gregg ArakiSex, crime, and art are the big three in Gregg Araki’s silver-screen homecoming, I Want Your Sex, which premiered at the top of 2026 at the Sundance Film Festival. Olivia Wilde plays Erika Tracy, an art star and provocateur, opposite Cooper Hoffman as Elliot, her apathetic Gen Z assistant, alongside more than several notable names, like Charli, Chase Sui Wonders, Daveed Diggs, and Margaret Cho. The film is now showing in U.S. theaters nationwide.Joie de Vivre dir. Luca GuadagninoClocking in at seven hours, Joie de Vivre is Luca Guadagnino’s odyssey of a documentary dedicated to the legendary Italian artist and filmmaker, Bernardo Bertolucci. This is Guadagnino’s second cinematic project surrounding his artistic mentor after Bertolucci on Bertolucci (2013), which he dubs his “most personal” film, and is set to premiere Out of Competition at the upcoming Venice Film Festival later this month.Barrio Triste dir. StillzBarrio Triste isn’t about the art world, per se, but with Bad Bunny collaborator Stillz as director, EDGLRD on production, and a soundtrack by Arca, the stacked team makes it a natural next-up on our list. The found-footage work, which premiered at the 2025 Venice Film Festival, follows four teenagers in a hauntingly tender portrait of late '80s Medellín, Colombia. The film is currently showing in select theaters across the U.S.Avedon dir. Ron HowardAfter a standout Cannes premiere, Ron Howard’s Richard Avedon documentary is coming to Netflix later this year. The film traces Avedon’s life and legacy, “whose work continues to resonate not only because of the extraordinary images he created, but because of the humanity and curiosity "
+    },
+    {
+      "id": "39f8e9330a946a1b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "CMF Debuts the Ultra-Lightweight Clip Pro Open-Ear Earbuds",
+      "url": "https://hypebeast.com/2026/8/cmf-by-nothing-clip-pro-earbuds-release-info",
+      "publishedAt": "2026-08-04T11:06:20.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "CMF Debuts the Ultra-Lightweight Clip Pro Open-Ear Earbuds CMF has officially expanded its audio lineup with the new CMF Clip Pro, marking the brand’s first foray into the open-ear earbud market. Designed for users navigating busy cities and active lifestyles, the earbuds prioritize a natural listening experience that maintains environmental awareness without sacrificing comfort or sound quality.Engineered around a proprietary 3-point Clip Design, the earbuds feature a slim C-bridge with an elastic titanium wire core that flexes to fit any ear shape, distributing pressure evenly rather than concentrating it in one spot. Weighing just 6.5 grams each, the Clip Pro utilizes skin-friendly materials and an optimized listening ball to ensure long-term comfort while efficiently directing sound toward the ear canal.Despite its lightweight, open-ear construction, the Clip Pro is built to deliver premium wireless audio. The earbuds are equipped with a custom-tuned 10.8 mm dual-magnet dynamic driver and utilize CMF's Ultra Bass Technology to intelligently enhance low frequencies and reduce treble distortion, compensating for the natural bass loss typical of open-ear designs. The devices are also Hi-Res Audio Certified and support high-quality streaming codecs including LDAC, AAC and SBC. To ensure clear communication in noisy environments, the Clip Pro integrates a VPU-powered Clear Voice Technology and a 4 HD microphone system, alongside a customizable Sound Seal system designed to reduce audio leakage and protect user privacy during calls and playback.Aligning with CMF’s distinctive, playful industrial design language, the Clip Pro is available in three distinct colorways: Dark Grey, Light Grey and Coral. A standout feature is the signature Smart Dial integrated directly into the charging case, allowing users to quickly adjust volume, manage playback, and handle calls without needing to interact with their phones. Built to withstand daily wear, the IP54-rated earbuds offer up to 10 hours of continuous playback—extending to 32.5 hours with the case—and support fast charging, Bluetooth 5.4, and Dual Device Connection. The CMF Clip Pro is available starting today on the brand's official webstore, retailing for $99 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2c51d8ca842ee071",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Look at the adidas Originals x Hellstar MEGARIDE S2",
+      "url": "https://hypebeast.com/2026/8/adidas-originals-hellstar-megaride-s2-white-black-kh8086-official-campaign-images-release-info",
+      "publishedAt": "2026-08-04T10:36:05.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Official Look at the adidas Originals x Hellstar MEGARIDE S2 Name: adidas Originals x Hellstar MEGARIDE S2Colorway: White/BlackSKU: KH8086MSRP: $200 USDRelease Date: August 8Where to Buy: adidasThe adidas Originals x Hellstar MEGARIDE S2 represents the boldest chapter yet in the partnership, fusing adidas’ sport-inspired design with Hellstar’s disruptive creative identity. The sneaker’s upper is built from a custom RPU mold with exposed mesh, layered with debossed detailing that adds depth and texture. A white-to-black flame gradient wraps the silhouette, embodying Hellstar’s signature motif of “shining bright in a dark world.” Chrome-finished tooling and a translucent outsole enhance the futuristic aesthetic, while the overall construction balances durability with visual impact.Beneath the upper, the MEGARIDE S2 is anchored by gleaming chrome-finished tooling, adding a striking metallic contrast to the flame-enveloped body. This reflective finish heavily enhances the shoe's futuristic profile, while a translucent outsole grounds the overall design with a sleek, contemporary edge. Throughout the silhouette, debossed detailing subtly reinforces the collaborative branding alongside Hellstar's sharp flame graphics, which symbolize the streetwear brand's core belief that heat acts as a transformative force. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "670acd27f571002c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Hikari no Yami Questions Identity and Form in SS27 “Chapter 11: Parasite”",
+      "url": "https://hypebeast.com/2026/8/hikari-no-yami-spring-summer-2027-collection-chapter-11-parasite-campaign-info",
+      "publishedAt": "2026-08-04T10:25:47.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Hikari no Yami Questions Identity and Form in SS27 “Chapter 11: Parasite” Summary Hikari no Yami's SS27 collection interrogates identity via the Ship of Theseus paradox.Collection features recycled fabrics, resin-encapsulated tops, and Alpha Industries collaborations.Campaign highlights hand-painted shirts, molded spines, and sculptural aesthetics shot in Paris. Hikari no Yami has unveiled its Spring/Summer 2027 collection, titled \"Chapter 11: Parasite,\" marking a pivotal evolution for the brand after ten seasons of deconstructing tailoring and philosophical concepts. Positioned between the opposing tenets of absurdism and essentialism, the collection engages with the \"Ship of Theseus\" paradox to question whether identity is inherently fixed or continuously rebuilt. To explore this concept, the brand dismantled and reconstructed reused fabrics - including recycled cotton, wool and Japanese nylon mesh - using hand-stitching, painting, dyeing, spraying and resin encapsulation to expose internal garment architecture and form entirely new expressions.Key collaborations enrich the collection: Alpha Industries lends military utility silhouettes reassembled into expressions of individuality, while designer Ciera Calmeise contributes molded spines and resin tops. Artist Vanessa Vun hand-paints ink-dyed dress shirts, and Alex Yarally introduces Japanese nylon mesh tops, Supima shirting dusters, and silk chiffon hoodies. These pieces highlight the brand’s philosophy of garments as mutable, never fixed and always evolving. Captured by photographer Roman Pushkarskii, the accompanying campaign visually anchors the collection’s raw, sculptural aesthetics in stark outdoor settings. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "82d48c3cd41fdea5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Closer Look at the OTW by Vans x NEIGHBORHOOD Authentic 44",
+      "url": "https://hypebeast.com/2026/8/neighborhood-vans-authentic-44-pack-vn000xvj7vj-vn000xvjbla-closer-look-wider-release-info",
+      "publishedAt": "2026-08-04T10:18:06.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Closer Look at the OTW by Vans x NEIGHBORHOOD Authentic 44 Name: OTW by Vans x NEIGHBORHOOD Authentic 44Colorway: Black, WhiteSKU: VN000XVJ7VJ, VN000XVJBLAMSRP: $120 USDRelease Date: August 7Where to Buy: VansFollowing up on the recent unveiling, an official wider release for the OTW by Vans x NEIGHBORHOOD Authentic 44 is now confirmed via Vans. Coninciding with this new info, Vans also revealed a set of new images that offers a closer look at the collaborative skate shoes.Merging modern streetwear sensibilities with elevated material quality, the iconic low-top silhouette is completely reconstructed using a premium cow suede upper that delivers a soft, textured finish. The design embraces a strict monochrome aesthetic, omitting contrasting panels in favor of seamless, tonal stitching that gives the shoe an exceptionally clean and refined profile.The minimalist upper serves as a tactile canvas for the meticulous custom branding that anchors the collaborative effort. Highlighting NEIGHBORHOOD’s signature aesthetic, the toe box features stacked, debossed lettering reading “NEIGHBORHOOD® Tokyo Est. 1994 Technical Apparel Craft With Pride,” while the vulcanized foxing tape is elegantly embossed with “CRAFT WITH PRIDE TOKYO EST. 1994”.Elevated premium touches extend to a woven co-branded tongue label, a supple leather heel strip, and matching leather binding. Inside, the silhouette is updated for modern wear with a plant-derived Sola Foam ADC (All-Day Comfort) insole, while the exterior remains grounded by Vans’ signature waffle outsole and is finished with an exclusive OTW heel scab. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "145dc60a62283f9b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "AI Demand Triggers Severe Global Stock Shortages for the Apple MacBook Air",
+      "url": "https://hypebeast.com/2026/8/apple-macbook-air-faces-shortages-amid-memory-crunch",
+      "publishedAt": "2026-08-04T10:05:50.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "AI Demand Triggers Severe Global Stock Shortages for the Apple MacBook Air Summary The global memory chip shortage fueled by intense demand from AI companies has begun impacting the availability of the MacBook AirShipping estimates on Apple's online store for many configurations have slipped into late August and SeptemberApple has attempted to mitigate the shortage by raising prices for Mac models and sourcing components from Chinese suppliers The global memory chip shortage has officially come for Apple’s most popular computer. While the industry-wide supply squeeze initially impacted niche machines like the Mac mini and Mac Studio, the crunch is now causing widespread availability issues for the MacBook Air. The component deficit, driven by the insatiable demands of AI companies, has fundamentally disrupted retail operations and created what Apple CEO Tim Cook described as a \"hundred-year flood\" for the tech supply chain.Consumers looking to purchase a new laptop are facing significant hurdles. Shipments for various configurations on Apple's official store have already slipped into the latter half of August, with some custom setups delayed until September. At the retail level, physical Apple locations are experiencing unprecedented inventory constraints. Shoppers are finding shelves completely bare in multiple regions. The shortage underscores a broader market reality where memory manufacturers are prioritizing high-paying AI clients over traditional consumer electronics.To navigate the volatile supply and demand imbalance, Apple has been forced to recalibrate its pricing and marketing strategies. The tech giant recently implemented a $200 USD price hike for the M5 MacBook Air to offset surging component costs. Simultaneously, the company delayed its highly anticipated annual back-to-school promotion and heavily shifted its marketing focus toward the base model 14-inch MacBook Pro. For the first time, promotional materials for the ultraportable laptop now carry a distinct \"subject to availability\" warning.Behind the scenes, executives are aggressively seeking alternative solutions to keep the MacBook Air in production. The brand is actively lobbying for regulatory approval to source components from Chinese memory suppliers like CXMT to stabilize inventory for domestic markets. Until the global pipeline recovers from the AI boom, securing Apple’s flagship everyday machine will require significant patience and a slightly heavier wallet. Click here to view "
+    },
+    {
+      "id": "d0bcaae5df1a931f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Panerai Outfits the Luminor Marina PAM01707 in High-Tech Carbotech™",
+      "url": "https://hypebeast.com/2026/8/panerai-luminor-marina-pam07107-carbotech-release-info",
+      "publishedAt": "2026-08-04T09:55:53.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Panerai Outfits the Luminor Marina PAM01707 in High-Tech Carbotech™ Summary Panerai drops the 44mm Luminor Marina PAM01707 in lightweight Carbotech™.The matte black sandwich dial features vintage beige Super-LumiNova® and omits the date.Powered by the P.9010 caliber, it offers 300-meter water resistance. Panerai has officially introduced the new Luminor Marina PAM01707, a timepiece that blends the Maison's 1960s naval design codes with advanced high-tech material innovation. Framed in a bold 44mm case, the watch is constructed from Carbotech™, a carbon fiber composite compressed with PEEK (Polyether Ether Ketone) polymer under high pressure and temperature. This proprietary material yields a matte black, unevenly textured surface that ensures every individual piece has a unique appearance. Remarkably light yet exceptionally tough, Carbotech™ is 64% lighter than titanium and 80% lighter than steel, offering superior strength-to-weight performance and extreme corrosion resistance suited for marine exploration.At the heart of the PAM01707 is a matte black sandwich dial adorned with warm beige Super-LumiNova® that glows green in the dark, delivering a distinctly vintage tool-watch aesthetic. In a nod to Panerai's historical commissions for the Royal Italian Navy, the date window has been omitted to maintain a clean, distraction-free layout. The dial retains a small seconds sub-dial at 9 o'clock — a feature originally designed for Italian commandos to verify that the watch was running under extreme operational conditions. The 14.5mm thick case features a DLC-coated titanium closed caseback and is paired with a warm brown vintage calf leather strap with beige stitching, alongside a second black rubber strap for sportier, aquatic pursuits.Powering the watch is the in-house P.9010 automatic caliber, a 6mm-thick movement built from 200 components and 31 jewels. Operating at 28,800 alternations per hour (4 Hz), its two series-connected barrels deliver a robust three-day power reserve. The movement integrates practical real-world functions, including a stop-seconds feature for precise synchronization and a quick time-change mechanism that allows the hour hand to jump forward or backward in one-hour increments without disrupting the minute hand. Tested to an impressive water resistance of 30 bar (~300 meters) with an additional 25% safety margin, the Luminor Marina PAM01707 is available via Panerai's official website and physical boutiques. Click here to view full gal"
+    },
+    {
+      "id": "16a0106b6f51fcbf",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ferrari Unveils 10 Bespoke Purosangue Commissions for the American Grand Tour Collection",
+      "url": "https://hypebeast.com/2026/8/ferrari-purosangue-american-grand-tour-atelier-suvs",
+      "publishedAt": "2026-08-04T09:55:38.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Ferrari Unveils 10 Bespoke Purosangue Commissions for the American Grand Tour Collection Summary Ferrari unveiled the Purosangue American Grand Tour Atelier Collection, featuring ten unique one-of-one V12 commissions built for the US market.The lineup splits into the geography-inspired \"Landscapes\" series and the race-livery-focused \"Roads\" series. Ferrari is making a massive statement in its most lucrative market with an edition far rarer than even its flagships: a ten-piece, hyper-exclusive fleet tailored specifically for American enthusiasts. Responsible for nearly a quarter of Maranello’s global footprint, the United States now serves as the canvas for the Purosangue American Grand Tour Atelier Collection. Built as ten completely unique, one-of-one commissions, these bespoke V12 crossovers pull direct inspiration from the country's sweeping landscapes and historic driving routes, ensuring no two vehicles in the lineup will ever be duplicated.The collection opens with the Landscapes series, a five-car study translating regional topographies into rich visual contrasts. \"The Coast\" sets the tone by pairing Blu Cangiante paint with Dark Amber accents and Terra Antica leather, capturing the meeting point of Pacific waves and coastal bluffs. \"The Mountains\" follows with a serene Verde Menthe exterior over a warm Beige Honolulu cabin, while \"The Great Plains\" opts for an earthy Bronzo Montecarlo shell set against deep Testa di Moro Java hides. \"The Forests\" utilizes a shadowy Verde Zeltweg green contrasted by Verde Venaria interior detailing, and \"The Sand\" rounds out the group with a vintage Blu Genziana Storico exterior complemented by Sabbia leather.Shifting from natural terrain to the art of driving, the Roads series channels classic American grand touring and motorsport heritage through bold graphic liveries and patriotic details. \"Switchback\" merges Blu America paint with a sharp Rosso Corsa livery, anchoring an interior lined in Bianco white leather with stars-and-stripes detailing stitched directly into the seats. \"Overlook\" flips that palette with Rosso California paint, a Blu America livery, and a clean Bianco interior. \"Straight Away\" rocks a Bianco Mille Miglia finish with classic blue NART racing stripes over rich Rosso Giudecca leather, which is then inverted by \"Byway\" in a Blu NART body with a Bianco King livery. Finally, \"Mountain Pass\" completes the set in an aggressive Rosso Racing 2025 shade over a deep Blu Sterling cabin.While Ferrari is "
+    },
+    {
+      "id": "1db9e4e4edbd6777",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Mercedes-Benz to Bring Back Physical Cabin Controls Across Future Models",
+      "url": "https://hypebeast.com/2026/8/mercedes-benz-brings-back-buttons-with-giant-dash-screens",
+      "publishedAt": "2026-08-04T09:53:52.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Mercedes-Benz to Bring Back Physical Cabin Controls Across Future Models Summary CEO Ola Källenius admitted the brand prioritized technology over convenience and will reintroduce tactile switches to future cabins.Expansive displays like the 56-inch MBUX Hyperscreen will remain central, working alongside restored physical controls.The shift addresses user distraction concerns and upcoming 2026 Euro NCAP regulations requiring physical switches for safety functions Mercedes-Benz CEO Ola Källenius acknowledged that the company prioritized technology over customer convenience by eliminating physical controls across its modern lineup. Speaking in an interview with Autocar, Källenius noted that the global automotive industry reached a \"low button\" point and suggested future cabin designs will aim for a harmonious balance between digital real estate and tactile feedback. The executive joked that a vehicle interface needs to be simple enough for either a five-year-old or a board member to operate seamlessly.The reversal follows years of interior development centered around massive glass interfaces. Despite the restoration of some physical switches, Mercedes-Benz does not intend to reduce the overall size or number of screens in upcoming models such as the 2027 Mercedes GLA. Displays like the expansive 56-inch MBUX Hyperscreen will continue to dominate the cabin architecture. The luxury brand plans to let giant touchscreens and traditional switches coexist rather than allowing one to entirely replace the other.This interior design adjustment aligns with recent pivots from other luxury vehicle manufacturers responding to consumer preferences for intuitive controls. Competitor brands including Ferrari, Volkswagen and Hyundai have also started reversing the all-touch philosophy to improve daily drivability. The industry shift is not purely driven by user complaints. Upcoming Euro NCAP regulations slated for 2026 will penalize automakers that fail to provide physical switches for essential functions like turn signals, hazard lights and windshield wipers.Competitive testing and safety studies have consistently highlighted the ergonomic benefits of physical buttons for high-frequency tasks behind the wheel. A recent Swedish distraction test demonstrated that drivers operating a button-heavy vehicle completed everyday cabin tasks significantly faster than those navigating menus in touchscreen-focused models. Mercedes-Benz has already restored physical steering wheel contro"
+    },
+    {
+      "id": "7afc7cbc18ba0224",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tim Cook Hints Heavy Apple Intelligence Users Will Soon Have to Pay",
+      "url": "https://hypebeast.com/2026/8/apple-siri-ai-may-require-paid-icloud-upgrades",
+      "publishedAt": "2026-08-04T09:52:18.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Tim Cook Hints Heavy Apple Intelligence Users Will Soon Have to Pay Summary Tim Cook confirmed Apple Intelligence will not remain entirely free, signaling paid add-ons for heavy users.Server-side processing costs will drive a freemium model where power users can \"buy up the stack.\"The revamped Siri AI is currently in iOS 27 public beta ahead of its official fall rollout. During Apple's Q3 2026 earnings call on July 30, 2026, outgoing CEO Tim Cook delivered a reality check for users anticipating unlimited access to the highly anticipated Siri AI. Cook signaled that heavy reliance on the new generative tools will likely come with a price tag. The comments mark the first official acknowledgment that Apple Intelligence features will not remain entirely free for high-volume users.Apple reported a massive $109.4 billion USD in revenue for the June quarter. Amid the financial breakdown, Goldman Sachs questioned how the tech giant plans to offset the massive computing costs associated with server-side AI processing. Cook kept the exact pricing structure vague but confirmed that heavy users will need to open their wallets. He noted that the company anticipates a dedicated segment of users who will push the limits of the system.To accommodate this demand, Cook stated that the brand will introduce upgrade possibilities on iCloud+ where consumers can buy up the stack. This phrasing indicates a shift from simply requiring a base cloud subscription. Power users might need to pay an additional premium strictly for extended server access.The underlying cost stems from how the new features operate. Apple designed its tools to process as much data on-device as possible to protect user privacy and minimize server overhead. Complex tasks still require offloading to Apple's Private Cloud Compute servers and partner networks like Google Gemini. Running massive language models in the cloud requires significant infrastructure investment. A freemium model mirrors the strategy already utilized by other major chatbot developers.The revamped digital assistant is currently available to testers in the iOS 27 public beta. The update brings a conversational interface and the ability to take action across multiple apps. With the general release slated for September, users have a limited window before Apple defines exactly where the free tier ends and the paid subscription begins. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b4daa7f809740a17",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Balance 740 Surfaces in Vibrant \"Green/Orange\" Palette",
+      "url": "https://hypebeast.com/2026/8/new-balance-740-green-orange-u74099s-release-info",
+      "publishedAt": "2026-08-04T04:05:27.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "New Balance 740 Surfaces in Vibrant \"Green/Orange\" Palette Summary New Balance is releasing a bright green and metallic orange-gold colorway of the 740 silhouette for Fall 2026The design pairs a green mesh base with black synthetic overlays and subtle lavender trim around the eyestaysThe sneaker drops during Fall 2026 for $120 USD via New Balance and select retailers Name: New Balance 740 \"Green/Orange\"Colorway: Green/OraneSKU: U74099SMSRP: $120 USDRelease Date: Fall 2026Where to Buy: New BalanceNew Balance has expanded its retro running catalog with the official reveal of the New Balance 740 \"Green/Orange\". The upcoming release pushes the early-2000s silhouette into vibrant territory ahead of its Fall 2026 launch.The upper is constructed with a bright green mesh base layered with black and charcoal synthetic panels across the toe, sides, and heel. Metallic orange-gold detailing covers the oversized \"N\" logos, side panels, and rear branding, while subtle lavender trim accents the eyestays and forefoot. Dark black laces and a protective toe bumper anchor the upper, complemented by reflective accents integrated across the design.Underfoot, the green tone extends across a chunky ABZORB midsole, broken up by black support elements at the arch and forefoot. The outsole features black traction rubber accented by green sections and small blue inserts at the heel, while classic New Balance branding finishes the tongue, heel, insoles, and outsole.The New Balance 740 \"Green/Orange\" releases in Fall 2026 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d6d268416aa08167",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lamborghini Reports Record €1.74 Billion EUR Revenue for H1 2026",
+      "url": "https://hypebeast.com/2026/8/lamborghini-h1-2026-profits-climb-as-deliveries-dip",
+      "publishedAt": "2026-08-04T09:02:23.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Lamborghini Reports Record €1.74 Billion EUR Revenue for H1 2026 Summary Lamborghini’s H1 2026 revenue grew 7.4% to €1.74 billion EUR, with operating profit hitting €395 million EUR despite a 4.6% delivery dipHigh-margin custom options, resilient pricing and tight supply control successfully offset geopolitical tensions, Chinese luxury downturns and US import tariffs. Lamborghini reported a seemingly paradoxical financial performance for the first half of 2026. The Italian automaker generated €1.74 billion EUR in revenue between January and June. This figure represents a 7.4 percent increase compared to the same period last year. Total operating profit reached €395 million EUR. Deliveries actually declined by 4.6% during this six-month window. The brand handed over 5,422 vehicles to customers globally.Several external market factors constrained overall sales volume. Geopolitical tensions in the Middle East and a noticeable downturn in the Chinese luxury sector dampened demand in those specific regions. Increased US import tariffs introduced in 2025 further complicated the international delivery landscape. Growing economic uncertainty across the European market also played a role in the slight dip in shipped units.Company executives attribute the revenue growth to a resilient pricing strategy and an unwavering focus on exclusivity. Managing Director and Chief Financial Officer Paolo Poma noted that adverse exchange rates and tariff penalties did not compromise the underlying strength of the Lamborghini brand. By maintaining a tight grip on supply and prioritizing high-margin custom configurations, the automaker successfully offset the lower physical output with higher per-unit profitability.The product pipeline remains highly active as Lamborghini navigates these global headwinds. Customer deliveries for the new Temerario started in the first quarter. This rollout fully integrates the highly anticipated Huracan successor into the broader lineup. The automaker also expanded its electrified portfolio at the start of July with the introduction of the flagship Urus SE Performante. The plug-in hybrid super SUV utilizes a twin-turbocharged V8 paired with an electric motor to produce a combined 801 horsepower.Demand for existing models continues to outpace production capacity. Order books for the V12-powered Revuelto and the standard Urus SE remain robust. Customers currently face a waiting time of approximately one year for new allocations. This sustained backlog"
+    },
+    {
+      "id": "33097193b767ebc9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "How Simon Weckert’s \"Digital Camouflage\" Garments Use Adversarial Attacks to Fool AI Cameras",
+      "url": "https://hypebeast.com/2026/8/simon-weckert-digital-camouflage-disrupts-ai-surveillance",
+      "publishedAt": "2026-08-04T09:02:20.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "How Simon Weckert’s \"Digital Camouflage\" Garments Use Adversarial Attacks to Fool AI Cameras Summary Simon Weckert debuted \"Digital Camouflage,\" an apparel collection engineered to trick AI surveillance.Generative patterns prevent camera detection from any angle or fabric fold.Digital printing applies visual noise onto recycled polyester textiles. Berlin-based artist Simon Weckert is pushing back against the rise of ubiquitous digital surveillance with his 2025 installation. The designer officially unveiled \"Digital Camouflage,\" a conceptual garment collection that serves as a wearable shield against AI-driven tracking systems. As artificial intelligence continues to dominate public spaces through automated tracking cameras, personal privacy has become a highly debated topic. This project explores the boundaries of anonymity and visibility in modern society. By merging computational noise with everyday apparel, Weckert offers a physical countermeasure to digital overreach.At first glance, the clothing appears to feature nothing more than a striking abstract graphic pattern. The collection is actually a highly engineered tool specifically developed to disrupt object-recognition algorithms used in security and autonomous systems. This design approach relies on the concept of an adversarial attack. The technique deliberately manipulates the visual data received by a machine so that it incorrectly interprets the scene. When an individual wears the collection, their body essentially becomes invisible to AI person detectors because the software completely fails to identify the human figure amidst the high-frequency visual noise.Previous attempts to evade machine vision typically relied on fixed printed patches or isolated graphics. Those early designs shared a critical vulnerability known as the segment-missing problem, where the illusion breaks down the moment the fabric folds or the camera angle changes. Weckert solves this technical hurdle by deploying a seamless Adversarial Texture that covers the entire surface of each piece. A specialized generative AI method called TC-EGA generates the continuous pattern. This computational approach optimizes a tileable textile design that constantly produces false visual features regardless of the viewing perspective.Physical production of the garments matches the meticulous nature of the software engineering behind them. Manufacturers in Latvia construct the collection using a durable blend of 65 percent recycled polyes"
+    },
+    {
+      "id": "fdf46ab6ecea8ad1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Dave Bautista in Talks to Star as Kratos in Amazon's 'God of War' Series",
+      "url": "https://hypebeast.com/2026/8/amazon-prime-video-dave-bautista-in-talks-star-kratos-god-of-war-series",
+      "publishedAt": "2026-08-03T23:09:44.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "Dave Bautista in Talks to Star as Kratos in Amazon's 'God of War' Series Summary Dave Bautista is in negotiations to star as Kratos in Prime Video’s live-action 'God of War' adaptationThe potential recasting follows original lead Ryan Hurst exiting the project after suffering a torn bicepRonald D Moore serves as showrunner and writer for the two-season series produced alongside Sony Pictures Television Amazon MGM Studios and Sony Pictures Television are currently in negotiations with Dave Bautista to star as Kratos in the upcoming live-action God of War series. The potential casting follows original lead Ryan Hurst exiting the project due to an on-set injury.Hurst, who was cast in January 2026, suffered a torn bicep during production, prompting Amazon and Sony to recast the role in order to resume filming by the fall. Bautista, who maintains an established relationship with Amazon MGM Studios through films like The Wrecking Crew and My Spy, brings the physique required for the lead character without requiring extended physical prep time.The two-season series order adapts the narrative of the franchise's recent video games, following Kratos and his ten-year-old son Atreus—played by Callum Vinson—as they journey across the Norse realm. Developed by showrunner and writer Ronald D. Moore, the project features an ensemble cast including Mandy Patinkin as Odin, Ólafur Darri Ólafsson as Thor, Ed Skrein as Baldur, and Max Parker as Heimdall. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8a890f8fba94c760",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BAPE and MEDICOM TOY Revive 2003 Camo for 30th Anniversary Collection",
+      "url": "https://hypebeast.com/2026/8/bape-medicom-toy-revive-2003-camo-30th-anniversary-collection-shark-full-zip-sta-bearbrick-release-info",
+      "publishedAt": "2026-08-04T05:34:16.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "BAPE and MEDICOM TOY Revive 2003 Camo for 30th Anniversary Collection Summary BAPE and MEDICOM TOY have teamed up to revive their archival 2003 camouflage pattern in celebration of MEDICOM TOY’s 30th anniversaryThe capsule features a BE@R SHARK full-zip reversible hoodie, a matching BAPE STA, graphic tees, and new BE@RBRICK figuresThe collection drops on August 8 in limited quantities via BAPE and select MEDICOM TOY locations in Japan BAPE and MEDICOM TOY have officially reunited to release the BAPE x MEDICOM TOY 30th anniversary collection. The collaborative capsule revisits the duo's archival 2003 camouflage pattern to celebrate MEDICOM TOY's 30th anniversary milestone.The revived camouflage print takes center stage across the BE@R SHARK Full Zip Reversible Hoodie and a matching BAPE STA sneaker. The broader apparel assortment incorporates graphic T-shirts showcasing COLLEGE MILO and BUSY WORKS artwork, alongside a glow-in-the-dark BAPE x BE@RBRICK logo.Accompanying the clothing and footwear, the release highlights new BE@RBRICK collectibles outfitted in the classic SHARK HOODIE theme. The figures will be offered in a set containing both 100% and 400% sizes, while the standalone 1000% figure will be sold separately.The BAPE x MEDICOM TOY 30th Anniversary Collection releases August 8, 2026, in limited quantities via BAPE, BAPE STORE locations, and select MEDICOM TOY locations in Japan. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "71c86532403a119b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Final Fantasy X’ 25th Anniversary Capsule Arrives at Daimaru Matsuzakaya",
+      "url": "https://hypebeast.com/2026/8/final-fantasy-x-25th-anniversary-daimaru-matsuzakaya-collection-favment-info",
+      "publishedAt": "2026-08-04T07:34:03.000Z",
+      "collectedAt": "2026-08-04T14:27:21.953Z",
+      "text": "‘Final Fantasy X’ 25th Anniversary Capsule Arrives at Daimaru Matsuzakaya Summary 'Final Fantasy X' 25th Anniversary Collection launches via Daimaru Matsuzakaya with Square Enix.Apparel and accessories feature character-inspired designs and immersive pop-up installations.Available for a limited time, priced around $10 – $244 USD. In celebration of the 25th anniversary of Final Fantasy X, Japanese department store group Daimaru Matsuzakaya has partnered with Square Enix to launch a commemorative capsule collection. Bridging the iconic role-playing game's rich world of Spira with modern Japanese craftsmanship, the special project delivers a range of apparel and lifestyle goods.The apparel lineup comprises staple pieces such as varsity jackets, graphic tees, hoodies and light outerwear, incorporated with designs that pay homage to characters like Tidus, Yuna, Auron and Kimahri. Accessories expand the range with co-branded bags, caps, backpacks and collectible key rings, each designed to capture the emotional resonance of the game while remaining wearable and functional.A special pop-up within Daimaru Matsuzakaya department stores, recreating iconic settings from Final Fantasy X to enhance the shopping experience. The collection will be available for a limited time at select Daimaru Matsuzakaya locations and online, with prices ranging from ¥1,540 - ¥38,500 JPY (approx. $10 - $244 USD). Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b3c2c76bbd94cd71",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Air Force 1 Low \"White Lotus\" Features Reptile Textures and Icy Soles",
+      "url": "https://hypebeast.com/2026/8/nike-air-force-1-low-white-lotus-iv4453-100-official-look-release-info",
+      "publishedAt": "2026-08-04T04:52:37.000Z",
+      "collectedAt": "2026-08-04T14:27:21.954Z",
+      "text": "Nike Air Force 1 Low \"White Lotus\" Features Reptile Textures and Icy Soles Summary ike has officially revealed the Air Force 1 Low \"White Lotus\"The silhouette pairs smooth white leather with reptile-textured Swooshes pink accents and an icy translucent outsoleThe sneaker drops in the coming weeks for $125 USD via Nike and select retailers Name: Nike Air Force 1 Low \"White Lotus\"Colorway: White/Lotus Pink-Grey Fog-WhiteSKU: IV4453-100MSRP: $125 USDRelease Date: Fall 2026Where to Buy: NikeNike has officially revealed the Air Force 1 Low \"White Lotus\", bringing subtle premium details and vibrant accents to the classic lifestyle silhouette. The upcoming iteration elevates the traditional all-white base with distinct textures and playful accessories.Constructed with a smooth white leather upper, the design incorporates reptile-textured Swooshes and matching heel tabs featuring pink Nike Air embroidery. A mini pink Swoosh is stitched near the forefoot, complemented by matching branding on the tongue labels and insoles alongside pink spotted graphics across the interior.Additional highlights include a metallic lace dubrae adorned with an iridescent Swoosh, a circular Nike hangtag, and an alternate set of speckled laces that introduce a Safari-like pattern. Underfoot, the model is anchored by a clean white midsole and a translucent icy outsole.The Nike Air Force 1 Low \"White Lotus\" releases in the coming weeks. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ba8f7099997b7464",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ADERERROR and Birkenstock Reimagine the Classic Boston Clog",
+      "url": "https://hypebeast.com/2026/8/adererror-birkenstock-boston-cap-boston-flap-collaboration-release-info",
+      "publishedAt": "2026-08-04T07:06:28.000Z",
+      "collectedAt": "2026-08-04T14:27:21.954Z",
+      "text": "ADERERROR and Birkenstock Reimagine the Classic Boston Clog Name: ADER ERROR x Birkenstock Boston Cap, Boston FlapMSRP: TBCRelease Date: August 6Where to Buy: adererror, BirkenstockSeoul-based fashion creative brand ADERERROR has reunited with Birkenstock for a second collaboration, reimagines the clog’s 50th‑anniversary Boston silhouette with a focus on threadwork and stitch detailing as a central design language.The collection introduces two models: the Boston Cap and the Boston Flap. The Boston Flap arrives in ADERERROR's signature Ultra Blue and an earthy Honey tone, structurally transforming the clog with an exaggerated upper flap held in place by contrasting white whipstitch detailing.Offered in sleek black and warm camel colorways, the Boston Cap features a dual-layer leather upper highlighted by a functional, utilitarian leather toe cap.Across both models, ADERERROR's signature zigzag embroidery is featured throughout the collection, serving as an artisanal trace of the collaborative partnership alongside tactile stitch accents. Beneath the reimagined leather uppers, both silhouettes retain Birkenstock's foundational anatomical footbed, maintaining the original 1976 clog's commitment to ergonomic support.&nbsp;&nbsp;View this post on Instagram&nbsp;A post shared by ADERERROR (@ader_error) &nbsp; Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2578abd60f622e06",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Paulin, Paulin, Paulin Brings Dune Seating to Fred again.. and Latin Mafia's Mexico Creative Retreat",
+      "url": "https://hypebeast.com/2026/8/paulin-paulin-paulin-brings-dune-seating-fred-again-latin-mafia-mexico-creative-retreat-9-months-5-hours",
+      "publishedAt": "2026-08-04T05:44:01.000Z",
+      "collectedAt": "2026-08-04T14:27:21.954Z",
+      "text": "Paulin, Paulin, Paulin Brings Dune Seating to Fred again.. and Latin Mafia's Mexico Creative Retreat Summary Paulin, Paulin, Paulin has installed its iconic Dune seating system for Fred again.. and Latin Mafia’s creative retreat in MexicoSet up by Benjamin Paulin at Lago Algo, the modular landscape formed the creative heart for their collaborative mixtape '9 months & 50 hours'Originally designed by Pierre Paulin in 1970, the setup was featured throughout a YouTube livestream documenting the recording process Paulin, Paulin, Paulin has partnered with music artists Fred again.. and Latin Mafia to create a bespoke installation featuring its iconic Dune seating system at Lago Algo in Bosque de Chapultepec, Mexico. The sculptural setup served as the central workspace for the artists while writing and recording their collaborative mixtape, 9 months & 50 hours.Personally installed by Benjamin Paulin, the Dune modules established a fluid, open environment designed to foster conversation, movement, and spontaneous creation. The modular landscape was captured throughout an ongoing YouTube livestream documenting the making of the mixtape, naturally integrating Pierre Paulin's design into the visual identity of the music project.Originally designed by Pierre Paulin in 1970, the Dune system reimagined traditional furniture as an adaptable, borderless landscape rather than a set of fixed objects. Unproduced during the designer’s lifetime, the piece is now faithfully brought to life by Paulin, Paulin, Paulin in highly limited editions. By integrating the design into the artists' Mexico studio retreat, the design house continues its ongoing dialogue with contemporary culture and modern artistic expression. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fc81a21b02aa0293",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Spider-Man: Brand New Day' Surpasses 'Avengers: Endgame' for Largest Domestic Opening in History",
+      "url": "https://hypebeast.com/2026/8/mcu-marvel-sony-pictures-tom-holland-spider-man-brand-new-day-surpasses-avengers-endgame-largest-domestic-opening-in-history",
+      "publishedAt": "2026-08-03T23:18:58.000Z",
+      "collectedAt": "2026-08-04T14:27:21.954Z",
+      "text": "'Spider-Man: Brand New Day' Surpasses 'Avengers: Endgame' for Largest Domestic Opening in History Summary 'Spider-Man: Brand New Day' reached $360 million USD in its domestic debut to surpass 'Avengers: Endgame'The film stands as the largest domestic opening weekend in box office history while generating $932 million USD globallyDirected by Destin Daniel Cretton the fourth installment leads the all-time North American box office rankings Sony Pictures and Marvel Studios have officially dethroned Avengers: Endgame as Spider-Man: Brand New Day achieved a record-shattering $360 million USD domestic debut. The final opening weekend total surpassed Sunday's estimates of $355 million USD to eclipse the previous benchmark of $357 million USD set in 2019.The Tom Holland-led feature kicked off its theatrical run with a record $72 million USD in preview screenings before delivering a $169.8 million USD opening day. Worldwide, the film generated $932 million USD—marking the second-largest global launch of all time, behind only Avengers: Endgame ($1.2 billion USD). Directed by Destin Daniel Cretton (Shang-Chi and the Legend of the Ten Rings), the story picks up after Spider-Man: No Way Home, following Peter Parker as he fights crime in New York City amidst mutating powers and a world that no longer remembers his identity.Celebrating the historic milestone, Sony Pictures chairman Tom Rothman extended gratitude to the filmmakers, cast, and distribution teams behind the release. With this latest achievement, Marvel Studios titles now hold the top four domestic theatrical openings in history, led by Spider-Man: Brand New Day ($360 million USD), Avengers: Endgame ($357 million USD), Spider-Man: No Way Home ($260 million USD), and Avengers: Infinity War ($257 million USD).Spider-Man: Brand New Day is currently playing in theaters globally. Click here to view full gallery at Hypebeast"
     }
   ]
 }
