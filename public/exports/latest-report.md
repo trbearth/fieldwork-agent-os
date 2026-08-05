@@ -1,14 +1,14 @@
-# Fieldwork Daily Signal — 2026-08-04
+# Fieldwork Daily Signal — 2026-08-05
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 65 · confidence 39% · youth 100%**
+**emerging · score 91 · confidence 35% · youth 95%**
 
 Decorated basics is appearing across 1 independent public source.
 
-5 observations · 1 independent source · +100% seven-day velocity
+4 observations · 1 independent source · +300% seven-day velocity
 
 - [Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld](https://hypebeast.com/2026/8/ayaneo-konkr-pocket-advance-revives-game-boy-spirit) — Hypebeast, Aug 3
 
