@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-05",
+    "id": "2026-08-06",
     "mode": "live",
-    "displayDate": "AUG 05, 2026, 10:20 AM EDT",
-    "generatedAt": "2026-08-05T14:20:23.194Z",
-    "itemsCollected": 61,
+    "displayDate": "AUG 06, 2026, 10:24 AM EDT",
+    "generatedAt": "2026-08-06T14:24:01.991Z",
+    "itemsCollected": 57,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 28
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 14
+        "count": 12
       },
       {
         "source": "Hypebeast",
@@ -30,19 +30,19 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 91,
-      "confidence": 35,
-      "youthRelevance": 95,
+      "score": 100,
+      "confidence": 40,
+      "youthRelevance": 100,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "4 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "4 observations · 1 independent source · +300% seven-day velocity",
+      "whyNow": "5 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "5 observations · 1 independent source · +400% seven-day velocity",
       "citations": [
         {
-          "title": "Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld",
+          "title": "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop",
           "source": "Hypebeast",
-          "date": "Aug 3",
-          "url": "https://hypebeast.com/2026/8/ayaneo-konkr-pocket-advance-revives-game-boy-spirit"
+          "date": "Aug 6",
+          "url": "https://hypebeast.com/2026/8/limited-edt-adidas-originals-superstar-consortium-made-in-india-release-info"
         }
       ]
     },
@@ -96,11 +96,11 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0805",
+    "code": "AUTO 0806",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld"
+      "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop"
     ]
   }
 }

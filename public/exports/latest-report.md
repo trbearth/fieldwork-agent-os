@@ -1,16 +1,16 @@
-# Fieldwork Daily Signal — 2026-08-05
+# Fieldwork Daily Signal — 2026-08-06
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 91 · confidence 35% · youth 95%**
+**emerging · score 100 · confidence 40% · youth 100%**
 
 Decorated basics is appearing across 1 independent public source.
 
-4 observations · 1 independent source · +300% seven-day velocity
+5 observations · 1 independent source · +400% seven-day velocity
 
-- [Ayaneo Unveils Game Boy Advance-Inspired Konkr Pocket Advance Handheld](https://hypebeast.com/2026/8/ayaneo-konkr-pocket-advance-revives-game-boy-spirit) — Hypebeast, Aug 3
+- [Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair "Made in India" Drop](https://hypebeast.com/2026/8/limited-edt-adidas-originals-superstar-consortium-made-in-india-release-info) — Hypebeast, Aug 6
 
 ## 2. Narrow technical footwear
 
