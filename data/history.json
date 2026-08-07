@@ -342,6 +342,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-07",
+      "mode": "live",
+      "displayDate": "AUG 07, 2026, 09:14 AM EDT",
+      "generatedAt": "2026-08-07T13:14:37.603Z",
+      "itemsCollected": 55,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 11
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 59,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 49,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 42,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -5723,6 +5765,611 @@
       "publishedAt": "2026-08-05T23:43:20.000Z",
       "collectedAt": "2026-08-06T14:24:00.731Z",
       "text": "Mercedes-AMG CLA 45 4MATIC+ Claims Nürburgring Nordschleife Class Record Summary Mercedes-AMG has announced that the all-electric CLA 45 4MATIC+ set an official Nürburgring Nordschleife class record Driven by Kevin Berger the stock electric sedan completed the 20.8-kilometer lap in 7 minutes and 32.070 seconds Powered by three axial-flux motors producing 680 horsepower the performance EV accelerates from 0 to 100 km/h in 2.7 seconds Mercedes-AMG has officially set a new Nürburgring Nordschleife class record with the all-electric Mercedes-AMG CLA 45 4MATIC+. Driven by driver Kevin Berger, the high-performance four-door sedan recorded an official, notarized lap time of 7:32.070 minutes, crowning it the fastest vehicle in its segment around the iconic circuit.The record-setting run was achieved in a stock production-spec vehicle fitted with track-focused Pirelli P Zero Trofeo RS tires. Powering the electric CLA 45 is a tri-motor setup utilizing liquid-cooled axial-flux electric motors—two mounted on the rear axle and one at the front—delivering a combined output of up to 680 horsepower (500 kW). This powertrain configuration utilizes a fully variable AMG Performance 4MATIC+ all-wheel-drive system with rear torque vectoring, pushing the vehicle from 0 to 100 km/h in 2.7 seconds.Built on an 800-volt electrical architecture, the sedan integrates adaptive suspension, refined aerodynamics, and continuous thermal management engineered to sustain peak power output across demanding track laps. Read more at Hypebeast"
+    },
+    {
+      "id": "5d23f43f18970295",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Mirror After Birth",
+      "url": "https://www.vogue.com/article/the-mirror-after-birth",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "The Mirror After Birth In Retail Ritual, presented on the occasion of her first institutional solo exhibition at the National Gallery of Bosnia and Herzegovina during the Sarajevo Photography Festival, Carlota Guerrero transforms the luxury fitting room into a stage where motherhood, performance, consumer culture, and the female gaze converge. We spoke with the artist about desire, identity, ritual, and the images that emerge before experience itself can be understood."
+    },
+    {
+      "id": "cbc80f2f97fdb6cf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-the-hamptons",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation Looking for the best Airbnbs in the Hamptons? Here, 16 fabulous choices, from a fishing cottage in Montauk to a grand East Hampton estate."
+    },
+    {
+      "id": "5924050758ad2676",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "5 Rising Black-Owned Beauty Brands to Know",
+      "url": "https://www.vogue.com/article/4-rising-black-owned-beauty-brands-to-know",
+      "publishedAt": "2026-08-07T09:30:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "5 Rising Black-Owned Beauty Brands to Know The industry’s top artists, creators, and leaders come together at the first Black Beauty Roster show for a day of education and community to advance equity within beauty."
+    },
+    {
+      "id": "66939d9237ae361c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Justin and Hailey Bieber Have the Summer Date Night Fashion Formula Down",
+      "url": "https://www.vogue.com/article/justin-hailey-bieber-summer-date-night-fashion",
+      "publishedAt": "2026-08-07T09:27:51.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "Justin and Hailey Bieber Have the Summer Date Night Fashion Formula Down After vacationing in Greece, Hailey Bieber has been back in LA and locking in—weighted vest workouts, high-protein homemade meals. She took the night off in style."
+    },
+    {
+      "id": "3ee9c2b45b582af6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Shopping’s Next Era: An Evening in New York City",
+      "url": "https://www.vogue.com/article/shoppings-next-era-an-evening-in-new-york-city",
+      "publishedAt": "2026-08-07T05:00:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "Shopping’s Next Era: An Evening in New York City Vogue Business and Swap invited fashion and beauty leaders to a dinner party at the Twenty Two to discuss where the future of shopping is heading."
+    },
+    {
+      "id": "d3923eefe25f7963",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Less Perfect, More Practical: Diamonds’ New Path Forward",
+      "url": "https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward",
+      "publishedAt": "2026-08-07T04:30:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "Less Perfect, More Practical: Diamonds’ New Path Forward Thanks to a confluence of threats, the diamond industry is rethinking how it markets the precious stone."
+    },
+    {
+      "id": "5c17cda0cbc8cb77",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Happy Birthday, Michelle Yeoh! 14 Gorgeous Vintage Photos of the Star",
+      "url": "https://www.vogue.com/slideshow/michelle-yeoh-vintage-photos",
+      "publishedAt": "2026-08-06T22:00:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "Happy Birthday, Michelle Yeoh! 14 Gorgeous Vintage Photos of the Star Ahead of her turn in “Blade Runner 2099” later this year opposite Hunter Schafer—and in honor of her birthday—we’re taking a nostalgic trip back to the Oscar winner’s early years on the scene."
+    },
+    {
+      "id": "90f02e5e51d767e4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Menswear Designer Frederik Berner Kühl Wins Denmark’s Largest Fashion Prize",
+      "url": "https://www.vogue.com/article/menswear-designer-frederik-berner-kuhl-wins-denmarks-largest-fashion-prize",
+      "publishedAt": "2026-08-06T21:10:36.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "Menswear Designer Frederik Berner Kühl Wins Denmark’s Largest Fashion Prize The $46,000 prize will help take the brand to the next level at a time when menswear is dominating the fashion conversation."
+    },
+    {
+      "id": "9156078d6533fc95",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "In Tony, Costume Designer Chloe Karmin Hints at What Would Become Anthony Bourdain’s Signature Style",
+      "url": "https://www.vogue.com/article/anthony-bourdain-movie-costumes-style",
+      "publishedAt": "2026-08-06T18:26:17.000Z",
+      "collectedAt": "2026-08-07T13:14:33.596Z",
+      "text": "In Tony, Costume Designer Chloe Karmin Hints at What Would Become Anthony Bourdain’s Signature Style Interview with the costume designer of TONY about Anthony Bourdain's style"
+    },
+    {
+      "id": "c44e47a5b5963e05",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Caro Editions Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
+      "publishedAt": "2026-08-07T13:10:06.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Caro Editions Copenhagen Spring 2027 "
+    },
+    {
+      "id": "fd942a42abed9357",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "It’s Official: ‘Pattern Sandwiching’ Is Taking Over Interiors",
+      "url": "https://www.vogue.com/article/pattern-sandwiching-interiors-trend",
+      "publishedAt": "2026-08-06T17:44:03.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "It’s Official: ‘Pattern Sandwiching’ Is Taking Over Interiors Compared to full-blown color-drenching, consider pattern sandwiching a baby step."
+    },
+    {
+      "id": "2f0465037a2126a3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Is Blush Tailoring? A Look Into the Universal Blush Technique",
+      "url": "https://www.vogue.com/article/what-is-blush-tailoring",
+      "publishedAt": "2026-08-06T17:24:50.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "What Is Blush Tailoring? A Look Into the Universal Blush Technique How do you find the right shade of pink, red, or coral to get that natural-looking flush? Here, experts break down the latest blush application taking over all our social feeds: blush tailoring."
+    },
+    {
+      "id": "b6dcb9030ca4ce7a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Patti and Joanne Pao's Hard-to-Beat Chanel Collection",
+      "url": "https://www.vogue.com/article/patti-joanne-pao-chanel-collectors",
+      "publishedAt": "2026-08-06T16:55:33.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Inside Patti and Joanne Pao's Hard-to-Beat Chanel Collection Patti and Joanne Pao have been collecting Chanel pieces since the 1980s—including everything from rare Lagerfeld-era bags to brand-new Blazy pieces."
+    },
+    {
+      "id": "5e2cccb41f054edc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Everything to Know About the 2027 Met Gala: Theme, Hosts and More",
+      "url": "https://www.vogue.com/article/everything-to-know-met-gala",
+      "publishedAt": "2026-08-06T16:45:59.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Everything to Know About the 2027 Met Gala: Theme, Hosts and More Following the Met Gala on May 3, “John Galliano: Horizons” will be on view at The Metropolitan Museum of Art from May 9, 2027 through January 9, 2028."
+    },
+    {
+      "id": "963bddd2e675fdd6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Collina Strada Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
+      "publishedAt": "2026-08-07T13:10:06.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Collina Strada Copenhagen Spring 2027 "
+    },
+    {
+      "id": "d1bd8108b7153fd4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Beaverbrook, Tom Holland and Zendaya’s Bucolic British Wedding Venue",
+      "url": "https://www.vogue.com/article/inside-beaverbrook-tom-holland-zendaya-british-wedding-venue",
+      "publishedAt": "2026-08-06T16:41:41.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Inside Beaverbrook, Tom Holland and Zendaya’s Bucolic British Wedding Venue Tom Holland and Zendaya have celebrated their wedding at Beaverbrook in Surrey. Zendaya’s longtime stylist, image architect Law Roach, let slip in March this year that the pair had officially tied the knot, but rumors that they were set to celebrate with family and friends in the UK have been rumbling in recent days."
+    },
+    {
+      "id": "2dd27b628c2f0cb5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kendall Jenner Revives a Controversial Shoe—With Help From The Row",
+      "url": "https://www.vogue.com/article/kendall-jenner-wedge-heel-the-row",
+      "publishedAt": "2026-08-06T16:05:26.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Kendall Jenner Revives a Controversial Shoe—With Help From The Row Whether you’re here for the wedgaissance or you’re planning to keep your heels slim and spiky, everyone can take a cue from Kendall Jenner."
+    },
+    {
+      "id": "3df3494255b6d874",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘America’s Sweethearts: Dallas Cowboys Cheerleaders’ Helped Me See Myself",
+      "url": "https://www.vogue.com/article/americas-sweethearts-dallas-cowboys-cheerleaders-helped-me-see-myself",
+      "publishedAt": "2026-08-06T16:00:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "‘America’s Sweethearts: Dallas Cowboys Cheerleaders’ Helped Me See Myself I thought I had left my hometown behind. The Dallas Cowboys Cheerleaders proved me wrong."
+    },
+    {
+      "id": "09850d37a255e7ad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This London Tailor Designed Her Own Midriff-Baring Bridal Suit—Plus Custom Looks for All Four Bridesmaids",
+      "url": "https://www.vogue.com/slideshow/hattie-glendenning-and-harry-wedding",
+      "publishedAt": "2026-08-06T15:52:29.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "This London Tailor Designed Her Own Midriff-Baring Bridal Suit—Plus Custom Looks for All Four Bridesmaids While planning her London wedding, HAX founder Hattie Glendenning designed looks for her groom, her parents, her bridesmaids, and several more guests—in addition to crafting her own two-piece cream silk set embellished with vintage glass buttons."
+    },
+    {
+      "id": "199912c783f35b4b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Onscreen, Less Than Zero Is a Time Capsule of ’80s Excess",
+      "url": "https://www.vogue.com/article/less-than-zero-movie-fashion",
+      "publishedAt": "2026-08-06T15:49:27.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Onscreen, Less Than Zero Is a Time Capsule of ’80s Excess Through Polo Ralph Lauren, Gucci, and Calvin Klein, Bret Easton Ellis's 'Less Than Zero' captured ’80s L.A.’s lived-in sense of privilege."
+    },
+    {
+      "id": "98dcb14beb8c2d8a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Nicklas Skovgaard Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/nicklas-skovgaard",
+      "publishedAt": "2026-08-07T13:10:06.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Nicklas Skovgaard Copenhagen Spring 2027 "
+    },
+    {
+      "id": "7b56f733186eb2c3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue World 2027 Is Headed to San Francisco",
+      "url": "https://www.vogue.com/article/vogue-world-2027-san-francisco-announcement",
+      "publishedAt": "2026-08-06T15:00:00.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Vogue World 2027 Is Headed to San Francisco Vogue World 2027 is headed out west again--this time to San Francisco, to celebrate the creativity and free expression that has fueled the city for generations."
+    },
+    {
+      "id": "3e4df8850cb90e2a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ralph Lauren Continues Double-Digit Growth Streak in Q1",
+      "url": "https://www.vogue.com/article/ralph-lauren-continues-double-digit-growth-streak-in-q1",
+      "publishedAt": "2026-08-06T14:57:59.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Ralph Lauren Continues Double-Digit Growth Streak in Q1 Revenues increased 13% in the first quarter of fiscal 2027, with the all-American brand raising its full-year outlook."
+    },
+    {
+      "id": "e8b8aa7726810e58",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Masu Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/masu",
+      "publishedAt": "2026-08-07T13:10:06.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Masu Tokyo Spring 2027 "
+    },
+    {
+      "id": "eed07c1ff78cc4c0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Havaianas Unveils a Late Summer Contender for Freaky Shoe of the Season",
+      "url": "https://www.vogue.com/article/havaianas-studio-constance-kitten-heel",
+      "publishedAt": "2026-08-06T12:33:19.000Z",
+      "collectedAt": "2026-08-07T13:14:33.597Z",
+      "text": "Havaianas Unveils a Late Summer Contender for Freaky Shoe of the Season Brazilian flip-flop brand Havaianas has made bank getting the toe-exposing shoe back mainstream—a new collab with Danish brand Studio Constance finds sensuality in concealing the dominant digit."
+    },
+    {
+      "id": "0ecb436972625921",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: 210 Years of Black Handcraft Went Into Ralph Lauren's Quilts",
+      "url": "https://www.highsnobiety.com/p/state-of-the-art-ralph-lauren-gees-bend/",
+      "publishedAt": "2026-08-07T13:07:45.000Z",
+      "collectedAt": "2026-08-07T13:14:34.927Z",
+      "text": "State of the Art: 210 Years of Black Handcraft Went Into Ralph Lauren's Quilts The Gee's Bend community of African American craftspeople teamed with Polo Ralph Lauren on a luxury collection of quilted clothes and hand-painted ceramics."
+    },
+    {
+      "id": "200cb2d291085bcf",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Timberland's Canary Yellow Boat Shoe Is a Work Boot For the Sea",
+      "url": "https://www.highsnobiety.com/p/randomevents-timberland-3-eye-lug-boat-shoe/",
+      "publishedAt": "2026-08-07T11:51:12.000Z",
+      "collectedAt": "2026-08-07T13:14:34.927Z",
+      "text": "Timberland's Canary Yellow Boat Shoe Is a Work Boot For the Sea Timberland & Randomevent's furry & fun 3-Eye Lug Boat Shoe is a hairy good time."
+    },
+    {
+      "id": "edeb38404b8d1023",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Timberland Put Its Best Boot to Work",
+      "url": "https://www.highsnobiety.com/p/timberland-gore-tex-6-inch-work-boot/",
+      "publishedAt": "2026-08-07T09:34:00.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "Timberland Put Its Best Boot to Work Timberland took its rugged GORE-TEX 6-inch Work Boot through the luxe leather trenches."
+    },
+    {
+      "id": "73c8d829d96e0ffe",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Here's How You Make One of Fashion’s Oldest Fabrics Feel Fresh",
+      "url": "https://www.highsnobiety.com/p/yohji-yamamoto-kantha/",
+      "publishedAt": "2026-08-06T21:45:00.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "Here's How You Make One of Fashion’s Oldest Fabrics Feel Fresh Scrappy Japanese streetwear label Fake as Flowers helped Yohji Yamamoto's Y's sub-label learn to love ancient Indian kantha embroidery."
+    },
+    {
+      "id": "7c0d79bb00f7014d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Backless Saucony Running Shoes Have No Business Being So Saucy",
+      "url": "https://www.highsnobiety.com/p/saucony-progrid-clogs/",
+      "publishedAt": "2026-08-06T20:23:02.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "Backless Saucony Running Shoes Have No Business Being So Saucy Saucony's new ProGrid V2 Mule is a sneaker-mule with an athletic spirit that's shockingly stylish. Suede runner clogs have no business being this stylish."
+    },
+    {
+      "id": "9e224ca6ebb98218",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "How Did One Japanese Retailer Become the Best Collaborator on the Planet?",
+      "url": "https://www.highsnobiety.com/p/beams-collaborations-interview/",
+      "publishedAt": "2026-08-06T19:30:05.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "How Did One Japanese Retailer Become the Best Collaborator on the Planet? BEAMS is the world's greatest collaborator. The Japanese retailer is a go-to for top-tier partnerships — Keita \"Gonzo\" Kobayashi explains how it got that way."
+    },
+    {
+      "id": "a9296e3493e24815",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "White Frames, Kim Petras, and a Brooklyn Rave",
+      "url": "https://www.highsnobiety.com/p/ray-ban-x-sunglass-hut-nyc-rave/",
+      "publishedAt": "2026-08-06T17:35:43.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "White Frames, Kim Petras, and a Brooklyn Rave Thursday night plans? A warehouse rave in Bushwick with Kim Petras. Said no one ever. Until Sunglass Hut x Ray-Ban."
+    },
+    {
+      "id": "36eecf244d570f03",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Another Scaly adidas Sneaker Joins the Patterned-Shoe Jungle",
+      "url": "https://www.highsnobiety.com/p/another-scaly-adidas-sneaker-joins-the-patterned-shoe-jungle/",
+      "publishedAt": "2026-08-07T07:44:46.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "Another Scaly adidas Sneaker Joins the Patterned-Shoe Jungle adidas' scale-covered Japan Decon sneaker has made its way out of then & on to fly feet everywhere."
+    },
+    {
+      "id": "cd025eaa06eaef50",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Artist Uniform: Fashion's Most Controversial Designer Has Always Dressed the Part",
+      "url": "https://www.highsnobiety.com/p/john-galliano-outfit-history/",
+      "publishedAt": "2026-08-07T08:42:03.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "Artist Uniform: Fashion's Most Controversial Designer Has Always Dressed the Part With John Galliano informing the 2027 Met Gala & exhibit, the controversial designer's clothes on and off the runway are worth reconsidering."
+    },
+    {
+      "id": "b32492c35fa508ed",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans' Darkened-up Authentic Sneaker Makes Quiet Luxury Cool",
+      "url": "https://www.highsnobiety.com/p/neighborhood-vans-authentic-44-sneaker-black/",
+      "publishedAt": "2026-08-07T07:49:56.000Z",
+      "collectedAt": "2026-08-07T13:14:34.928Z",
+      "text": "Vans' Darkened-up Authentic Sneaker Makes Quiet Luxury Cool Neighborhood's Vans' Authentic 44 sneaker is a crazy good shredder gone full quiet luxury mode."
+    },
+    {
+      "id": "75527a5bb0a7ecc3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "EVANGELION:95’s First FW26 Drop Turns Five Iconic Anime Moments Into Faux-Vintage 1995 Graphic Tees",
+      "url": "https://hypebeast.com/2026/8/neon-genesis-evangelion-95-fall-winter-fw-2026-drop-1-release-info",
+      "publishedAt": "2026-08-07T13:14:31.000Z",
+      "collectedAt": "2026-08-07T13:14:36.351Z",
+      "text": "EVANGELION:95’s First FW26 Drop Turns Five Iconic Anime Moments Into Faux-Vintage 1995 Graphic Tees Summary EVANGELION:95 rolls out five graphic T-shirts drawn from key 'Neon Genesis Evangelion' scenes and artworkEvery tee is built on heavyweight 100% cotton with deliberate fading and distressing for a vintage feelThe lineup pulls from End of Evangelion, the fan-favorite Episode 9 battle, and a classic CD jacket EVANGELION:95 has released its first Fall/Winter 2026 run of five graphic T-shirts translating landmark Neon Genesis Evangelion imagery into apparel styled to look like it survived from 1995. Each design pairs a specific scene or piece of franchise artwork with the brand's faux-vintage construction, positioning the T-shirts as statement pieces rather than standard merch.The construction is consistent across the collection and central to its concept. Every shirt uses a 6.5oz heavyweight 100% cotton body described as smooth to the touch, durable and absorbent. From there, the brand leans into wear that would normally take years to develop, building in body fading and adding intentional distressing at the collar and cuffs. The result is a deliberately aged finish meant to sharpen each graphic, and the damage detailing is baked into the design rather than treated as a flaw.The graphics themselves span the franchise's most charged moments. Two T-shirts draw from the film End of Evangelion: the 0097 in white centers on Unit-01's awakening scene paired with \"AWAKENING\" text, while the 0099 in black turns to the striking Mass Production Evas, both backed by the brand's original anti-A.T. Field pattern. Another pair pulls from the fan-favorite ninth TV episode, \"Both of You, Dance Like You Want to Win,\" staging the clash between Units 01 and 02 and the Angel Israfel across front and back, each sleeve marked with an in-scene countdown time.The fifth design reaches into franchise music history. The 0103 in black is built around the CD jacket for Yoko Takahashi's single \"Soul's Refrain,\" the theme from the film Death & Rebirth, with the vintage jacket illustration digitized in high resolution and a period poster graphic printed on the back. It lands as the most collector-leaning piece in the group.All of it flows from the brand's founding idea. EVANGELION:95 launched in January 2025 to mark the series' 30th anniversary, building its identity around the 1995 fashion landscape of Amekaji, Harajuku style and vintage grunge. These five T-shirts put that thesis to "
+    },
+    {
+      "id": "52443f9b33241b0e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nan Shufang Carries Its Scholar's-Study Aesthetic Into Hong Kong With a Pacific Place Debut",
+      "url": "https://hypebeast.com/2026/8/nan-shufang-first-hong-kong-store-pacific-place-opening-info",
+      "publishedAt": "2026-08-07T13:14:17.000Z",
+      "collectedAt": "2026-08-07T13:14:36.351Z",
+      "text": "Nan Shufang Carries Its Scholar's-Study Aesthetic Into Hong Kong With a Pacific Place Debut Summary Nan Shufang has opened its first Hong Kong store at Pacific Place, its debut location beyond the Chinese mainlandThe brand builds each space around the tradition of the Chinese scholar's study, uniting objects, setting and cultural activityWooden wares, porcelain wares, and gold and silver wares anchor a lineup meant to be used and passed down rather than simply displayed Nan Shufang, a premium Chinese cultural brand rooted in the tradition of the scholar's study, has officially opened its first Hong Kong store at Pacific Place. The opening marks a significant step in the brand's global expansion, framing the space as an immersive experience that ties together objects, setting and cultural engagement.The brand's identity reaches back to its 2008 founding. Nan Shufang established its first location in Beijing's Houhai area and takes its name from the \"South Study,\" or Nan Shufang, of the Forbidden City, a nod to its scholarly lineage. That heritage informs a guiding belief that objects are not simply functional vessels but carriers of culture, craft and spiritual value. The brand roots that idea in a line from the Zhuangzi's \"Ren Jian Shi\" chapter: \"The achievement of beauty takes time; the making of ugliness allows no room for correction, how cautious one must be.\"The Hong Kong store arrives as part of a wider footprint. Nan Shufang now runs cultural spaces across Beijing, Shanghai, Shenzhen and Hong Kong, a four-city network of seven stores that each interprets the scholar's-study theme through object display, spatial design and cultural experience. The mainland locations range from the founding Houhai store to metropolitan settings at Beijing's China World and SKP, a Shanghai Xintiandi space built around refined pursuits such as incense appreciation and tea tasting, a historic Amanyangyun site, and a Shenzhen Bay MixC store attuned to that city's open, contemporary character.At the center of the offering sit three craft categories. Wooden wares focus on classical furniture and scholar's-study objects built through mortise-and-tenon joinery and hand carving, with an emphasis on proportion, line and spatial rhythm. Porcelain wares carry forward classical ceramic forms and glazing, spanning everyday tea wares to desk pieces. Gold and silver wares apply traditional techniques such as chasing, repoussé and lost-wax casting to tea and incense implements and deco"
+    },
+    {
+      "id": "288562fd4796f841",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "David O. Russell's ‘Madden’ Biopic Starring Nicolas Cage To Premiere November 2026",
+      "url": "https://hypebeast.com/2026/8/david-o-russell-nicolas-cage-prime-video-madden-film-release-premiere-date-info",
+      "publishedAt": "2026-08-07T13:14:09.000Z",
+      "collectedAt": "2026-08-07T13:14:36.351Z",
+      "text": "David O. Russell's ‘Madden’ Biopic Starring Nicolas Cage To Premiere November 2026 Summary David O. Russell's John 'Madden' biopic will premiere on Prime Video in November rather than in wide releaseNicolas Cage stars as the Raiders coach turned broadcaster, with Christian Bale playing Al DavisA limited theatrical run is planned for awards eligibility, but the film skips a nationwide big-screen rollout David O. Russell's sports drama Madden, starring Nicolas Cage as the legendary football coach and commentator John Madden, is heading to Prime Video this fall. Amazon MGM, which is backing the film, has set it to arrive on the streamer November 18, with an awards-qualifying theatrical release expected earlier in the month.The film traces Madden's full arc as a defining figure in American football. He led the Oakland Raiders through repeated championship contention in the 1970s and delivered the franchise its first Super Bowl win, then retired from coaching in 1979 and spent the next three decades as a fixture of televised football as a color commentator. Russell's movie follows that career alongside two central relationships: Madden's friendship with Al Davis, played by Christian Bale, and his partnership with his wife Virginia, played by Kathryn Hahn. John Mulaney, Sienna Miller and Shane Gillis fill out the rest of the cast.Russell framed the project's ambitions when it was first announced in 2024. \"[The] feature will be about the joy, humanity and genius that was John Madden in a wildly inventive, cool world of the 1970s,\" the director said at the time.What remains less clear is the reasoning behind the streaming-first strategy. Russell carries serious awards pedigree as the filmmaker behind American Hustle, Silver Linings Playbook and The Fighter, which makes the decision to forgo a wide theatrical release notable. That said, Russell has long been a divisive presence in Hollywood, with a well-documented history of combative on-set conduct, and his most recent feature, 2022's star-packed period piece Amsterdam, was a costly box-office failure, taking in roughly $31 million USD worldwide against an $80 million USD budget and posting heavy losses for its studio.Madden is expected to play a limited, awards-qualifying theatrical run in early November before premiering worldwide on Prime Video November 18. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "78e884cd138d9263",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "UNION and in･stru(mental). Mark 35 Years of UNION LA With a Fit-Focused Capsule",
+      "url": "https://hypebeast.com/2026/8/maison-mihara-yasuhiro-instrumental-union-l-a-collaboration-collection-release-info",
+      "publishedAt": "2026-08-07T13:14:00.000Z",
+      "collectedAt": "2026-08-07T13:14:36.351Z",
+      "text": "UNION and in･stru(mental). Mark 35 Years of UNION LA With a Fit-Focused Capsule Summary UNION and in･stru(mental). link on a capsule collection tied to UNION LA's 35th anniversaryThe lineup spans a coach jacket, bowling shirt, T-shirt, shorts and a capA limited ZINE shot in Los Angeles accompanies the release across select stores UNION LA and in･stru(mental)., the project helmed by Maison MIHARA YASUHIRO, have built a collaborative capsule collection launching August 7 to mark UNION LA's 35th anniversary. The range pairs in･stru(mental).'s focus on silhouette and comfort with UNION's community-rooted sensibility across a run of everyday staples.The collaboration meets at a shared point between two distinct outlooks. in･stru(mental). is defined by a quiet approach to making, one built around chasing the right silhouette and the right feel on the body, while UNION brings a sensibility shaped by the city and the community around it. The 35th-anniversary milestone gives the two a reason to build something together, framed as a capsule that settles into daily life without losing a mood of its own.That thinking plays out across the garments. The capsule gathers a coach jacket, a bowling shirt, a T-shirt, shorts and a cap, spanning easy layering and warm-weather staples rather than orbiting a single hero piece. The spread reflects the wearable, everyday intent at the heart of the project, with in･stru(mental).'s fit-first instincts guiding pieces that UNION's audience can fold straight into rotation.The release reaches beyond clothing, too. Planned jointly by both teams and photographed in Los Angeles, a limited ZINE documents the collaboration's visual world, extending the LA backdrop that ties the anniversary project to UNION's home turf. It is being distributed in limited numbers, positioning it as a collectible companion to the capsule rather than a throwaway lookbook.The UNION x in･stru(mental). capsule launches first at UNION LA on August 7, with Japan availability set to follow from August 8. The accompanying limited ZINE is currently being distributed at Maison MIHARA YASUHIRO directly managed stores, UNION TOKYO and UNION OSAKA. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "371eced53a82d240",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Era and ‘Mobile Suit Gundam Unicorn’ Stitch In-Universe Emblems Onto the 9FORTY A-Frame Trucker",
+      "url": "https://hypebeast.com/2026/8/strict-g-new-era-mobile-suit-gundam-unicorn-collaboration-collection-release-info",
+      "publishedAt": "2026-08-07T13:13:26.000Z",
+      "collectedAt": "2026-08-07T13:14:36.351Z",
+      "text": "New Era and ‘Mobile Suit Gundam Unicorn’ Stitch In-Universe Emblems Onto the 9FORTY A-Frame Trucker Summary New Era and 'Mobile Suit Gundam Unicorn' team up on a 9FORTY A-Frame trucker cap through STRICT-GThe cap arrives in two versions set apart by their front emblem, one Anaheim Electronics and one Vist FoundationA single-panel pinched front, breathable mesh and an adjustable strap define the build New Era and Mobile Suit Gundam Unicorn have collaborated on a 9FORTY A-Frame trucker cap, released through STRICT-G in two emblem-specific versions. Both lean on New Era's classic logo-cap format, swapping in crests tied to the anime's in-universe organizations.The foundation is New Era's 9FORTY A-Frame, a variant of the shape-retaining 9FORTY built to hold its form. Rather than a rounded multi-panel crown, the A-Frame runs a single front panel with a pinched top, giving the cap a distinctive profile before any branding is added.Function is handled through familiar trucker-cap cues. A breathable mesh construction keeps the build ventilated, while a curved visor and an adjustable strap are set up to dial in a comfortable, flexible fit.Branding is where the two versions diverge, and it stays deliberately clean. Each cap carries a single three-dimensional embroidered emblem on the front, pitched as an easy fit for casual styling. One version wears the Anaheim Electronics crest, the other the Vist Foundation crest, letting buyers pick their allegiance while keeping the rest of the design unadorned.Both versions of the STRICT-G x New Era Mobile Suit Gundam Unicorn 9FORTY A-Frame trucker are scheduled to ship in September 2026 via STRICT-G. Pre-orders close August 16. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ea5ead9fcac3101b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Timberland and New Era Team Up for a Limited-Edition MLB Collection",
+      "url": "https://hypebeast.com/2026/8/timberland-new-era-limited-edition-mlb-collection-release-info",
+      "publishedAt": "2026-08-07T07:58:39.000Z",
+      "collectedAt": "2026-08-07T13:14:36.351Z",
+      "text": "Timberland and New Era Team Up for a Limited-Edition MLB Collection Summary Timberland and New Era partner for an MLB collection.Seven MLB clubs, blending insignia with Timberland’s wheat finish across the Premium 6-Inch Boot, 59FIFTY® fitted cap and 19TWENTY® adjustable cap.Launches August 15 via all three brands. The Timberland x New Era Limited-Edition MLB Collection brings together two iconic American brands to celebrate the intersection of sport, style and culture.The collaboration spotlights three signature silhouettes: the Timberland® Premium 6-Inch Waterproof Boot, the New Era 59FIFTY® fitted cap and the 19TWENTY® adjustable cap. Seven Major League Baseball clubs are represented, from Atlanta Braves, Boston Red Sox, Chicago White Sox, Houston Astros, Los Angeles Dodgers to New York Mets and New York Yankees, each piece pairs team insignia and colors with Timberland’s signature wheat finish.Launching globally on August 15, 2026, the collection will be available online and in-stores via Timberland, New Era and MLB flagship stores. Prices are set at $250 USD for the Timberland® Premium 6-Inch Waterproof Boot, just under $60 USD for the New Era 59FIFTY® fitted cap and around $50 USD for the New Era 19TWENTY® adjustable cap. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1b4e4c5cf5f0bdcf",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tiny Vinyl Launches a $49.99 USD Miniature Turntable Built Specifically for Its Four-Inch Record Format",
+      "url": "https://hypebeast.com/2026/8/tiny-vinyl-player-spins-4-inch-records-at-target",
+      "publishedAt": "2026-08-07T11:07:45.000Z",
+      "collectedAt": "2026-08-07T13:14:36.351Z",
+      "text": "Tiny Vinyl Launches a $49.99 USD Miniature Turntable Built Specifically for Its Four-Inch Record Format Summary Compact belt-drive turntable designed specifically for four-inch 33.3 RPM recordsFeatures integrated stereo speakers, Bluetooth output and a 3.5mm headphone jackCompletes a collectible music ecosystem with matching storage crates and display frames Tiny Vinyl launched a dedicated miniature turntable engineered specifically for its proprietary four-inch record format. Priced at $49.99 USD, the new tabletop machine pairs the palm-sized discs with hardware scaled to match. The device features a black leatherette suitcase design and utilizes a belt-driven platter rotating at 33.3 RPM. While the miniature records remain fully compatible with standard manual turntables, the dedicated player provides a specialized hardware solution for casual collectors. This drop establishes a comprehensive physical ecosystem for a novelty format that has already surpassed one million global pressings.Measuring just over 10 inches wide, the unit opts for straightforward accessibility over high-end audiophile specs. The player operates via AC power and bypasses battery operation entirely. Listeners can push audio out through built-in stereo speakers or utilize Bluetooth connectivity for external sound systems. A standard 3.5mm headphone jack offers a hardwired alternative for personal listening. The machine specifically spins the brand's growing catalog of sequentially numbered releases from major artists like BTS, Rihanna, Ariana Grande and The Rolling Stones. Each pressing relies on 15 grams of 100 percent bio-attributed vinyl instead of the standard 140 grams required for a conventional LP.Beyond the core hardware, the company expanded the collectible footprint with two new organizational accessories. A $19.99 miniature storage crate features a wood frame covered in black leatherette with a velveteen interior designed to house up to 32 individual releases. Fans looking to highlight the physical artwork can grab a $14.99 square display frame equipped with a shatter-resistant window and magnetic closures. The frame holds four record jackets and mounts easily on a wall or flat surface. Together these add-ons replicate the familiar rituals of digging, shelving and exhibiting wax with considerably less furniture involved.The dedicated player transforms a novelty merchandise item into a legitimate consumer audio category. Providing a turnkey playback system removes the unc"
+    },
+    {
+      "id": "90987bd7aabf2347",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A LEGO Ideas Fan Build Recreates Jeff Koons' Iconic 'Balloon Dog' in 1,026 Bricks",
+      "url": "https://hypebeast.com/2026/8/lego-ideas-balloon-dog-mk-ii-recreates-koons-classic",
+      "publishedAt": "2026-08-07T11:03:58.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "A LEGO Ideas Fan Build Recreates Jeff Koons' Iconic 'Balloon Dog' in 1,026 Bricks Summary An independent designer submitted a 1,026-piece pop-art sculpture recreation to the LEGO Ideas platformThe glossy red build utilizes specialized curved windscreen elements to mimic the smooth lobes of an inflated balloonA hidden interior compartment depicts the animal as a pressurized industrial vessel operated by minifigures Contemporary art meets brick engineering with a massive new fan submission on the LEGO Ideas platform. Independent creator brxstr recently unveiled a 1,026-piece homage to the iconic Jeff Koons sculpture. While the Danish toy brand already produces a fingernail-sized balloon dog accessory for carnival sets, this display-ready model scales the concept up to 15 inches long and 12.5 inches tall.The structural foundation relies on a single specialized part. Piece 5274 is an 8x6x2 curved windscreen that entered the brand palette in 2024. The builder scrapped an earlier iteration of the project to utilize this exact element. Mirroring two of these windscreens together forms a single smooth balloon segment for the legs, body, ears and nose. Tapered tips use a smaller rounded windscreen to close off the ends. Technic angled pieces handle the internal connecting work to keep the skeleton completely hidden. A clever side effect of this construction is the visible plate seams along each lobe mimicking the natural crease lines of over-inflated latex.Beneath the serene glossy red exterior lies a highly detailed and humorous interior. Lifting the top off the body reveals a pressurized industrial operation. Inside sits a minifigure wearing a yellow hazmat suit with a radiation warning on his chest. This worker stands over a trans-blue gas cylinder equipped with a chrome pipe, a printed gauge panel and a valve wheel. Four official miniature LEGO balloon dogs sit racked up on the wall behind him like lab specimens. A second minifigure occupies the head cavity to steer the vessel.The Balloon Dog Mk II submission is currently gathering community votes to be considered for production as an official retail set. The designer noted that only two specific parts do not currently exist in the correct red colorway. He also pitched the possibility of future multicolor variants to match the diverse spectrum of the original gallery artworks. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "84eb4782f4ae90fb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Bugatti's New One-Off Destrier Transforms the Track-Only Bolide Into a Coachbuilt Masterpiece",
+      "url": "https://hypebeast.com/2026/8/bugatti-destrier-turns-bolide-into-sapphire-celeste-icon",
+      "publishedAt": "2026-08-07T10:32:37.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Bugatti's New One-Off Destrier Transforms the Track-Only Bolide Into a Coachbuilt Masterpiece Summary Bugatti’s bespoke Solitaire division has revealed the Destrier, a one-off hypercar adapting the track-focused Bolide into an elegant road-oriented machineThe vehicle retains a 1,578-horsepower quad-turbo W16 engine and carbon tub but removes aggressive downforce elements in favor of a sleek profile standing just one meter tallFinished in Sapphire Celeste blue, the model pays homage to Ralph Lauren’s Type 57SC and features a luxurious cabin detailed with leather, nubuck and 3D-knitted textiles Bugatti has expanded its exclusive Solitaire program with the unveiling of the Destrier. Built on the ferocious foundation of the Bolide track car, this unique one-of-one creation translates relentless circuit performance into a masterpiece of coachbuilt proportions. By stripping away the high-downforce prototype aerodynamics of its predecessor, the French marque highlights an incredibly low-slung carbon tub pushed forward to emphasize the brand's signature C-shaped metallic streak.The hypercar trades aggressive winglets and massive rear aero for a subtler flat spoiler and a sleek silhouette that stands just one meter tall. Flared front fenders rise sharply from the beltline, complementing staggered 20-inch front and 21-inch rear wheels. Out back, the Bolide’s quad tailpipes remain intact, though its X-shaped track lights are swapped out for a bespoke cross-shaped LED pattern. Bugatti design chief Frank Heyl noted that removing the aerodynamic constraints allowed the team to treat the underlying architecture as pure sculpture. It is scheduled to make its global debut at the Pebble Beach Concours d'Elegance.The exterior paint finish serves as a deeply rooted historical tribute. Dubbed Sapphire Celeste, the unique blue shade honors the original color of the Type 57SC Atlantic famously owned by Ralph Lauren. The aesthetic link bridges the gap between road and track, mirroring the historic relationship between the 57SC street car and the Type 57G racer that secured a victory at the 1937 24 Hours of Le Mans. The connection underscores how the new machine bridges raw motorsport heritage with refined grand touring luxury.Inside the cabin, the extreme minimalism of a race car gives way to lush materials and exquisite detailing. The interior is finished in warm brown leather and nubuck, accented by a distinctive 3D-knitted textile designed to resemble snakeskin. Even the contr"
+    },
+    {
+      "id": "4b46122313d4c9c2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Say Goodbye to Stepping on Bricks With Brickle’s Genius Play Table",
+      "url": "https://hypebeast.com/2026/8/brickle-premium-lego-storage-creative-play-table-info",
+      "publishedAt": "2026-08-07T09:47:18.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Say Goodbye to Stepping on Bricks With Brickle’s Genius Play Table Summary Brickle debuts a premium LEGO table combining smart storage and a creative play surface.Features include size-sorting drop holes and a 41-compartment specialty drawer.Available in multiple finishes, prices range from around $1,900 - $4,800 USD. Brickle’s Premium LEGO Storage & Creative Play Table is a design‑driven piece of furniture that organizes large collections of LEGO bricks while doubling as a creative play surface.Conceived as both storage and play deck, the table comes with a raised edge to prevent pieces from falling, while cleverly engineered drop holes sort bricks into drawers by size. A dedicated “special pieces” drawer offers up to 41 compartments for unique elements, while additional shelves and stools provide display and comfort.Available in finishes such as black, cream, and oak, the Brickle is designed to sit at the heart of the home, encouraging creativity and reducing clutter. Its premium craftsmanship ensures longevity, with thoughtful details like chamfered drawer edges and Teflon runners to protect floors. Available through the brand’s official webstore, pricing varies by model: the full‑size Brickle retails around £1,850 – £3,650 GBP (approx. $2,400 - $4,800 USD depending on finish), while the smaller version is priced from £1,460 GBP (around $1,900 USD).&nbsp;View this post on Instagram&nbsp;A post shared by Brickle Co (@brickle.co) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "44a2c4073b0b8431",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Air Jordan 9 Low \"What The Kilroy\" Merges Six Fictional Alter Egos",
+      "url": "https://hypebeast.com/2026/8/air-jordan-9-low-what-the-kilroy-iv6476-010-official-look-release-info",
+      "publishedAt": "2026-08-07T04:49:15.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Air Jordan 9 Low \"What The Kilroy\" Merges Six Fictional Alter Egos Summary Jordan Brand is reviving its 2012 Kilroy Pack through a singular mismatched Air Jordan 9 Low \"What The Kilroy\"The left and right shoes feature distinct color blockings and details representing Michael Jordan's six fictional alter egosThe pair is expected to release on August 14 for $180 USD via Nike and select retailer Name: Air Jordan 9 Low \"What The Kilroy\"Colorway: Black/Deep Royal Blue-White-Challenge RedSKU: IV6476-010MSRP: $180 USDRelease Date: August 14, 2026Where to Buy: NikeJordan Brand is revisiting a unique piece of Michael Jordan lore with the upcoming release of the Air Jordan 9 Low \"What The Kilroy.\" The new release takes the memorable 2012 \"Kilroy Pack\" and creatively folds it into a single mismatched low-top silhouette.Rather than reissuing all six original pairs—dedicated to Michael Jordan's alter egos Johnny Kilroy, Motorboat Jones, Bentley Ellis, Slim Jenkins, Calvin Bailey, and Fontay Montana—the brand has scattered their signature colors and details across the design. The left shoe features a primarily black build with dark blue wrapping the lower half, an orange midsole, yellow lining, and white laces. In stark contrast, the right shoe goes in a completely different direction, utilizing red leather, black overlays, light blue lining, and black laces.To further honor the 2012 pack, the tongue tags spell out the names of the alter egos, acting as a checklist for the mismatched aesthetic. Additional thematic callbacks include three stacked Jumpman logos on the insoles and heel embroidery alternating between numbers \"23\" and \"4.\" Finally, \"KILROY WAS HERE\" is printed behind the tongues to directly tie the model back to the original advertising campaign.The Air Jordan 9 Low \"What The Kilroy\" is expected to release on August 14, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "121345dd08d3b11d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Converse Channels '90s Nostalgia With the One Star Aged Suede AG",
+      "url": "https://hypebeast.com/2026/8/converse-one-star-aged-suede-ag-burgundy-33703200-black-33703201-release-info",
+      "publishedAt": "2026-08-07T09:20:00.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Converse Channels '90s Nostalgia With the One Star Aged Suede AG Name: Converse One Star Aged Suede AGColorway: Burgundy, BlackSKU: 33703200/33703201MSRP: ¥17,600 JPY (approx. $111 USD)Release Date: Available NowWhere to Buy: Converse JapanThe Converse One Star Aged Suede AG reinterprets the classic One Star with a vintage-inspired finish, combining premium suede uppers with aged detailing for a crafted, heritage look. Offered in \"Burgundy\" and \"Black\" colorways, the sneaker features long-nap suede uppers that deliver a rich, tactile feel, paired with an 8mm cotton shoelace for a retro touch.Its construction nods to 1990s One Star models, incorporating star-shaped toe guards and textured tape overlays that enhance durability and visual depth. The outsole is finished with a deeply colored, aged sole treatment, creating a worn-in aesthetic that contrasts against the suede’s softness. Despite its vintage styling, the shoe integrates modern updates for wearability, offering cushioning, flexibility, and lightweight comfort. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "53079e59f41dfa8e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "John David Washington to Star in Supernatural Horror Thriller 'Mime'",
+      "url": "https://hypebeast.com/2026/8/sony-screen-gems-john-david-washington-star-supernatural-horror-thriller-mime",
+      "publishedAt": "2026-08-07T05:45:40.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "John David Washington to Star in Supernatural Horror Thriller 'Mime' Summary John David Washington is set to star in and produce the upcoming supernatural horror thriller 'Mime'Nikyatu Jusu will direct the film based on an original spec screenplay written by Stephen HermanSony Screen Gems acquired the feature project after competing against Amazon and Searchlight Sony's Screen Gems has officially landed the rights to Mime, an upcoming supernatural horror thriller starring John David Washington. The studio beat out competitive offers from Amazon and Searchlight to secure the feature project.Nikyatu Jusu, who made her feature directorial debut with the Sundance Grand Jury Prize winner Nanny, is attached to direct. The screenplay was written by Stephen Herman based on his original spec concept, though specific storyline details are currently being kept under wraps.The project is produced by Matt Tolmach alongside The Black Phone filmmaker Scott Derrickson via his Crooked Highway banner. Washington will also serve as a producer on the film alongside Tolmach's partner Camila Grove. Washington previously starred in Spike Lee's BlacKkKlansman, Christopher Nolan's Tenet, Gareth Edwards' The Creator, and most recently appeared in the 2024 drama The Piano Lesson. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "daf0e509fd820f4c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Mind 001 Turns Tonal With a Pastel \"Palest Purple\"",
+      "url": "https://hypebeast.com/2026/8/the-nike-mind-001-turns-tonal-with-a-pastel-palest-purple",
+      "publishedAt": "2026-08-07T09:07:23.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "The Nike Mind 001 Turns Tonal With a Pastel \"Palest Purple\" Name: Nike Mind 001 “Palest Purple”Colorway: Palest Purple/Purple Pulse-Black-Metallic SilverSKU: HQ4309-500MSRP: $95 USDRelease Date: Fall 2026Nike is giving the Mind 001 a pastel \"Palest Purple\" treatment, adding a clean women's colorway to a mule that has stayed in high demand all year. The tonal makeup positions the recovery-minded slip-on as an easy house-and-leisure option for Fall 2026.The Mind 001 arrived as one of Nike's standout silhouettes of 2026, built less for sport than for the downtime bookending it. One of two neuroscience-backed models alongside the Mind 002 sneaker, the mule has sold out with regularity since it launched in January, giving this new colorway a built-in audience.On the makeup itself, official images show Palest Purple running from heel to toe, keeping the design almost entirely tonal. The lone interruption comes from chrome finishing on the Swoosh logos, a metallic touch that adds contrast without pulling the shoe away from its soft, monochrome read.That restraint reflects a broader shift in how the line is colored. Early Mind releases leaned on a bright accent applied to the 22 foam nodes underfoot, but Nike has since moved away from that approach, leaning into fully monochrome executions across its more recent drops. The \"Palest Purple\" sits squarely in that newer, tonal direction. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ccc833e58ef29870",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Inside Nigel Cabourn’s New Omotesando Flagship and In-House Cafe",
+      "url": "https://hypebeast.com/2026/8/nigel-cabourn-omotesando-store-opening-tokyo-info",
+      "publishedAt": "2026-08-07T09:03:59.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Inside Nigel Cabourn’s New Omotesando Flagship and In-House Cafe Summary Nigel Cabourn opens its largest Kanto store in Omotesando, Tokyo, on August 8, 2026.The new flagship introduces Nigel Cabourn COFFEE, created alongside specialty roaster Pappelburg.The store offers all brand labels and a commemorative vintage motel keytag for visitors upon spending over approx. $150 USD. The Nigel Cabourn brand is set to open its largest Kanto-area flagship in Japan this weekend. Located in Tokyo’s chic district, Omotesando, the new space is designed not only as a retail destination but as a cultural hub that embodies Cabourn’s philosophy and lifelong passion for craftsmanship.The store houses the full range of Nigel Cabourn labels, offering outerwear, shirting, trousers and lifestyle pieces that reflect the designer’s archive-driven approach. Prices span from accessible everyday wear to premium outerwear, ensuring a broad offering for both loyal fans and new customers.A highlight of the new flagship is the brand’s first-ever café, Nigel Cabourn COFFEE, created in collaboration with Tokyo’s long-established coffee house Pappelburg. The café serves original blends and Cabourn’s beloved flat white, extending the brand’s lifestyle ethos into a sensory experience.To commemorate the opening, customers spending over ¥22,000 JPY (approx. $150 USD) will receive an exclusive Omotesando Store keychain, designed in homage to vintage motel chains and engraved with messages such as “Cheers body!” and “Love Nige x.”Nigel Cabourn OMOTESANDO STOREPine Under Flat B1F, 5-13-2 JingumaeShibuya-ku, Tokyo 150-0001, Japan Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d740005920753f43",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tokyo Jazz Club To Launch Multi-Level Hybrid Venue During Art Week Tokyo",
+      "url": "https://hypebeast.com/2026/8/tokyo-jazz-club-art-week-tokyo-2026-debut",
+      "publishedAt": "2026-08-07T09:08:07.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Tokyo Jazz Club To Launch Multi-Level Hybrid Venue During Art Week Tokyo Summary Tokyo Jazz Club debuts in November during Art Week Tokyo.Located in Jimbocho, it transforms an eight-story former capsule hotel into a hybrid exhibition and music venue.Inspired by the Basel Social Club, it merges art, jazz, dining and nightlife. The Tokyo Jazz Club is set to make its debut in November, launching as a major new cultural event in partnership with Art Week Tokyo. Located near the Jimbocho district, the innovative project will take over all eight floors of a former capsule hotel, transforming the unconventional venue into a dynamic, multi-level hybrid space.Designed to blur the boundaries between a contemporary art exhibition, a socialization hub and a marketplace, the Tokyo Jazz Club will bring together a diverse array of artists, galleries, and musicians under one roof. Supported by Arts Council Tokyo, the inaugural edition promises to be a premier destination for cultural exchange during the city's vibrant autumn arts calendar.&nbsp;View this post on Instagram&nbsp;A post shared by Tokyo Jazz Club (@tokyo.jazz.club) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "998e85da6dc5b789",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Timberland's FW26 Tokyo Design Collective Line Reinterprets \"Timeless Heritage\" Through Flannel, Corduroy and Leather",
+      "url": "https://hypebeast.com/2026/8/timberland-by-tokyo-design-collective-fall-winter-fw-2026-collection-release-info",
+      "publishedAt": "2026-08-07T08:45:26.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Timberland's FW26 Tokyo Design Collective Line Reinterprets \"Timeless Heritage\" Through Flannel, Corduroy and Leather Summary The Timberland by TOKYO DESIGN COLLECTIVE line returns for its seventh installment with a Fall/Winter 2026 collectionA \"TIMELESS HERITAGE\" theme centers on Timberland's material heritage and enduring brand colorsTokyo-directed design filters American workwear roots through Japanese craftsmanship and sensibility Timberland is releasing the seventh installment of Timberland by TOKYO DESIGN COLLECTIVE, the premium line directed by the Tokyo-based TDC team, with a Fall/Winter 2026 collection built around a \"TIMELESS HERITAGE\" theme. The season leans on the brand's long-standing material use and timeless colors, translated through a distinctly Japanese lens.The collection is drawn from Timberland's roots in American workwear and outdoor culture, then rebuilt with Japanese craftsmanship and feel. Framed as a Japan-born project that speaks to a global audience, it aims for pieces that balance approachability, functionality and a universality meant to outlast trends.Fabric is where that thinking gets concrete. The season's key materials are a yarn-dyed flannel with rich surface character, a corduroy defined by its refined wale, and the premium leather that has long been a Timberland signature. By combining those different materials deliberately, TDC pushes the designs toward a space where classic and modern elements sit together rather than competing. The lineup runs all-gender, spanning outerwear such as the Stratham bomber and a heavier zip jacket, an LS thermal, a TIMBS hoodie, and headwear including a waxed leather-patch cap and a corded hat.The reinterpretation extends to how the collection is shown. TDC places its Tokyo-made styles within architecture and scenery that read as unmistakably Japanese, capturing the product among contrasting forces of nature and city, stillness and motion. It is a framing meant to express the team's particular view: heritage seen again through a Japanese sensibility.That heritage runs deep on the Timberland side. The brand was founded in 1973 in Stratham, New Hampshire, and earned global recognition with the original Yellow Boot, designed for people working in the harsh conditions of New England. Its DNA of functional beauty and steady craftsmanship is exactly what the TDC project reworks for a contemporary, city-facing audience.The latest Timberland by TOKYO DESIGN COLLECTIVE collection drops August 10 a"
+    },
+    {
+      "id": "b6a56e3957add13b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lionsgate Targets a Late 2027 to Early 2028 Release for ‘Michael 2’",
+      "url": "https://hypebeast.com/2026/8/michael-2-michael-jackson-biopic-late-2027-early-2028-release-period",
+      "publishedAt": "2026-08-07T08:38:17.000Z",
+      "collectedAt": "2026-08-07T13:14:36.352Z",
+      "text": "Lionsgate Targets a Late 2027 to Early 2028 Release for ‘Michael 2’ Lionsgate is pushing ahead on Michael 2, the sequel to its blockbuster Michael Jackson biopic, with plans to roll cameras as early as late 2026 or the start of 2027. Motion picture chief Adam Fogelson laid out the timeline on the studio's latest earnings call, flagging a release window that runs from the end of 2027 into the first half of 2028.The sequel's momentum is a direct product of the original's numbers. Michael, directed by Antoine Fuqua, became a commercial powerhouse, grossing in the neighborhood of $1 billion USD worldwide and posting what has been billed as the strongest opening a biopic has ever recorded. The film charts the King of Pop's climb from the Jackson 5 to global superstardom and closes on his 1987 Bad tour, with the singer's real-life nephew Jaafar Jackson in the lead. Its parting title card, \"His Story Continues,\" left little doubt that a follow-up was coming.On the timeline itself, Fogelson signaled that the sequel can lean partly on footage already in the can. A number of sequences filmed for the first movie went unused and are now likely to migrate into the second. \"We have a number of sequences, particularly some big musical sequences, that were shot previously, that are almost sure to be incorporated,\" Fogelson said on the earnings call. He added that the studio's attention is currently on delivering the biggest, best sequel it can at the right price.Stay tuned for more details. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "23082c039dc853cc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Ja 4 Brings the Thermal Heat Map to the \"Radar\" Colorway",
+      "url": "https://hypebeast.com/2026/8/nike-ja-4-radar-ja9745-400-first-look-release-info",
+      "publishedAt": "2026-08-07T04:12:12.000Z",
+      "collectedAt": "2026-08-07T13:14:36.353Z",
+      "text": "Nike Ja 4 Brings the Thermal Heat Map to the \"Radar\" Colorway Summary Nike has introduced the Ja 4 \"Radar\" featuring a vibrant thermal heat map graphic across the upperThe silhouette incorporates bright orange oversized Swooshes angular midsole supports and signature 12 branding detailsThe pair is expected to launch in October 2026 for $140 USD in men’s sizing and $115 USD in grade school sizing Name: Nike Ja 4 \"Radar\"Colorway: Obsidian/Total Orange-Laser Orange-Black-Racer Blue-Cobalt BlissSKU: JA9745-400MSRP: $140 USDRelease Date: October 2026Where to Buy: NikeNike has officially revealed the Nike Ja 4 \"Radar,\" delivering a vibrant graphic interpretation of Ja Morant's fourth signature basketball silhouette. The upcoming colorway introduces a thermal heat map treatment paired with bold structural overlays.The upper is constructed with a deep purple base overlaid with a bleeding gradient of red, yellow, aqua, and blue hues that simulate a radar scan. Bright orange covers the oversized Swoosh logo alongside sharp, angular support pieces embedded through the midsole. Black accents settle across the tongue, laces with orange trim, collar, and outsole, giving the multi-toned color arrangement a grounded frame.Shifting away from the softer contours of the Ja 3, the Ja 4 features a more angular build with heavily textured materials and enlarged support structures surrounding the midfoot and heel. Personal details for the guard appear throughout, including Morant's signature logo on the tongue and repeated \"12\" markings molded into the orange sections underfoot.The Nike Ja 4 \"Radar\" releases in October 2026 for $140 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "cc15de249c370afa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Wraps the Mind 002 Slip-On in Cooling “Work Blue”",
+      "url": "https://hypebeast.com/2026/8/nike-mind-002-work-blue-hq4308-401-official-images",
+      "publishedAt": "2026-08-07T08:11:42.000Z",
+      "collectedAt": "2026-08-07T13:14:36.353Z",
+      "text": "Nike Wraps the Mind 002 Slip-On in Cooling “Work Blue” Nike has revealed a \"Work Blue\" colorway of the Mind 002, dressing its neuroscience-minded slip-on in a cooler palette for Fall/Winter. The makeover reworks the model's established look rather than reshaping the shoe itself, pairing a blue-forward upper with a bright accent.The colorway sticks to the blueprint the Mind 002 debuted with. Its two-tone blocking carries over, but this run fills that structure with cooler shades across the upper, giving the slip-on a calmer, more subdued read. The lead tone is a Horizon Blue that sets the mood for the whole makeup.Against those cool shades, the shoe reworks its high-visibility detailing through a Light Lemon Twist trim. It functions as the makeup's one jolt of contrast, a fresh take on the hi-vis accenting that keeps the pair from reading as entirely monochromatic.Underpinning the colorway is the Mind line itself, Nike's slip-on platform positioned around its neuroscience angle.The 002 sits as the more attainable, everyday-ready entry point into that family, a lower-key counterpart to the sold-out, resale-inflated Mind 001. Click here to view full gallery at Hypebeast"
     }
   ]
 }

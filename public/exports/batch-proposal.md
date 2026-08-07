@@ -1,8 +1,8 @@
-# Fieldwork Synthesis Scout — 2026-08-06
+# Fieldwork Synthesis Scout — 2026-08-07
 
 ## Cross-source candidates
 
-1. **Decorated basics** — publication 100; public conversation 69.
+1. **Decorated basics** — publication 59; public conversation 69.
 2. **Narrow technical footwear** — publication 49; public conversation 22.
 3. **Quiet performance** — publication 42; public conversation 72.
 

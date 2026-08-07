@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-06",
+    "id": "2026-08-07",
     "mode": "live",
-    "displayDate": "AUG 06, 2026, 10:24 AM EDT",
-    "generatedAt": "2026-08-06T14:24:01.991Z",
-    "itemsCollected": 57,
+    "displayDate": "AUG 07, 2026, 09:14 AM EDT",
+    "generatedAt": "2026-08-07T13:14:37.603Z",
+    "itemsCollected": 55,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 28
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 12
+        "count": 11
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 100,
-      "confidence": 40,
+      "score": 59,
+      "confidence": 36,
       "youthRelevance": 100,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "5 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "5 observations · 1 independent source · +400% seven-day velocity",
+      "whyNow": "4 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "4 observations · 1 independent source · +100% seven-day velocity",
       "citations": [
         {
           "title": "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop",
@@ -96,7 +96,7 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0806",
+    "code": "AUTO 0807",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
