@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-08-07
+# Fieldwork Public Pulse — 2026-08-08
 
 ## 1. Quiet performance
 
@@ -32,17 +32,9 @@
 - [Louis Vuitton Brings the Beach to Paris in Near 40C Heat https://www. theguardian.com/fashion/2026/j](https://flipboard.social/@fediboard_lifestyle/116808277730512024) — Mastodon
 - [Pharrell Williams's menswear collection had a surf theme — while Saint Laurent models wore skinny su](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-0PNwGsw1RNmRj1YS5KEcJg%3Aa%3A4091604380-%2F0) — Mastodon
 
-## 4. Narrow technical footwear
-
-**emerging · score 22 · confidence 42% · youth 53%**
-
-1 public posts · 1 network · 7-day comparison
-
-- [ROSÉ of BLACKPINK’s New Puma Ballet Sneakers Won’t Stay in Stock for Long: Here’s How to Get&nbsp;Th](https://fed.brid.gy/r/https://www.billboard.com/culture/product-recommendations/blackpink-rose-puma-speedcat-ballet-sneakers-buy-online-1236306078/) — Mastodon
-
 ## Network status
 
-- **mastodon:** ready — 23 observations
+- **mastodon:** ready — 22 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

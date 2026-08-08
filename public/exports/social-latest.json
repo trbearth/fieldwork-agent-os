@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-08-07",
+    "id": "social-2026-08-08",
     "mode": "live",
-    "generatedAt": "2026-08-07T13:14:47.582Z",
-    "postsCollected": 23,
+    "generatedAt": "2026-08-08T12:58:02.863Z",
+    "postsCollected": 22,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -98,30 +98,13 @@
           "network": "Mastodon"
         }
       ]
-    },
-    {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 22,
-      "confidence": 42,
-      "youthRelevance": 53,
-      "velocity": -75,
-      "evidence": "1 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "ROSÉ of BLACKPINK’s New Puma Ballet Sneakers Won’t Stay in Stock for Long: Here’s How to Get&nbsp;Th",
-          "url": "https://fed.brid.gy/r/https://www.billboard.com/culture/product-recommendations/blackpink-rose-puma-speedcat-ballet-sneakers-buy-online-1236306078/",
-          "network": "Mastodon"
-        }
-      ]
     }
   ],
   "networkStatus": [
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "23 observations"
+      "reason": "22 observations"
     },
     {
       "id": "bluesky",

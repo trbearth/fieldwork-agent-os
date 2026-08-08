@@ -384,6 +384,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-08",
+      "mode": "live",
+      "displayDate": "AUG 08, 2026, 08:57 AM EDT",
+      "generatedAt": "2026-08-08T12:57:53.950Z",
+      "itemsCollected": 32,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 10
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 59,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 42,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 27,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -6370,6 +6412,358 @@
       "publishedAt": "2026-08-07T08:11:42.000Z",
       "collectedAt": "2026-08-07T13:14:36.353Z",
       "text": "Nike Wraps the Mind 002 Slip-On in Cooling “Work Blue” Nike has revealed a \"Work Blue\" colorway of the Mind 002, dressing its neuroscience-minded slip-on in a cooler palette for Fall/Winter. The makeover reworks the model's established look rather than reshaping the shoe itself, pairing a blue-forward upper with a bright accent.The colorway sticks to the blueprint the Mind 002 debuted with. Its two-tone blocking carries over, but this run fills that structure with cooler shades across the upper, giving the slip-on a calmer, more subdued read. The lead tone is a Horizon Blue that sets the mood for the whole makeup.Against those cool shades, the shoe reworks its high-visibility detailing through a Light Lemon Twist trim. It functions as the makeup's one jolt of contrast, a fresh take on the hi-vis accenting that keeps the pair from reading as entirely monochromatic.Underpinning the colorway is the Mind line itself, Nike's slip-on platform positioned around its neuroscience angle.The 002 sits as the more attainable, everyday-ready entry point into that family, a lower-key counterpart to the sold-out, resale-inflated Mind 001. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "04d22d7c6239ceaf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Iamisigo Copenhagen Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/iamisigo",
+      "publishedAt": "2026-08-08T12:55:22.000Z",
+      "collectedAt": "2026-08-08T12:57:49.855Z",
+      "text": "Iamisigo Copenhagen Spring 2027 "
+    },
+    {
+      "id": "b6aed5dde800288e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Mahjong to Dominoes, the Best Travel Game Sets",
+      "url": "https://www.vogue.com/article/best-travel-game-sets",
+      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "From Mahjong to Dominoes, the Best Travel Game Sets Whether you're packing for a beach vacation or a European grand tour, these luxury travel game sets make downtime just as memorable as sightseeing."
+    },
+    {
+      "id": "f285b870aaa2747b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Shoulder to Try On: The Street Style Way to Do Power Shoulders",
+      "url": "https://www.vogue.com/article/street-style-trend-power-shoulders",
+      "publishedAt": "2026-08-08T10:00:00.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "A Shoulder to Try On: The Street Style Way to Do Power Shoulders Power shoulders are back, no thanks to Hulu’s recently released “The Shards.”"
+    },
+    {
+      "id": "d8a9aaf4818fa6e9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-8",
+      "publishedAt": "2026-08-08T09:00:00.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From Jade Thirlwall’s pop art eyes, to Rihanna’s space buns, and Hayes Warner’s blonde bombshell moment—these are the best moments in celebrity beauty this week."
+    },
+    {
+      "id": "4dea171e674b87fb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "114 Thoughts I Had While Watching 'One Night Only'",
+      "url": "https://www.vogue.com/article/114-thoughts-i-had-while-watching-one-night-only",
+      "publishedAt": "2026-08-07T20:30:00.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "114 Thoughts I Had While Watching 'One Night Only' I know the question “What’s your favorite part of sex?” is supposed to be thoughtful and hot, but…I’m laughing."
+    },
+    {
+      "id": "3410f00c975f28cc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Bride Carried a Handmade Silk Flower Bouquet for Her Ancestral Castle Wedding in Ireland",
+      "url": "https://www.vogue.com/slideshow/casper-ettelson-and-serena-wardell-wedding",
+      "publishedAt": "2026-08-07T19:30:28.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "The Bride Carried a Handmade Silk Flower Bouquet for Her Ancestral Castle Wedding in Ireland Model and artist Serena Wardell married Fishbowl founder Casper Ettelson at her family’s ancestral home of Crom Castle in rural Ireland, with the bride making the wedding stationery, keepsakes, and her bouquet herself."
+    },
+    {
+      "id": "5598165fa7b21019",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "After Careful Review, These Are the Best Perfumes for Women",
+      "url": "https://www.vogue.com/article/perfumes-for-women",
+      "publishedAt": "2026-08-07T18:55:37.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "After Careful Review, These Are the Best Perfumes for Women Here are the best perfumes for women from brands like Chanel, Dior, Diptyque, and much more. From warm vanilla notes to fresh, citrus fragrances, find your new favorite scent."
+    },
+    {
+      "id": "691d2e11ec301ed5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tom Holland and Zendaya Debut Their Matching Gold Wedding Bands",
+      "url": "https://www.vogue.com/article/tom-holland-zendaya-debut-matching-gold-wedding-bands",
+      "publishedAt": "2026-08-07T18:30:00.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "Tom Holland and Zendaya Debut Their Matching Gold Wedding Bands The actors stepped out in London yesterday wearing matching gold wedding rings, following reports of a wedding celebration in Surrey earlier this week."
+    },
+    {
+      "id": "dc98c52f66d6a05a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Lion’s Gate Portal Is Approaching—Here’s What It Means for Every Star Sign",
+      "url": "https://www.vogue.com/article/lions-gate-portal-2026-astrology",
+      "publishedAt": "2026-08-07T17:24:27.000Z",
+      "collectedAt": "2026-08-08T12:57:49.856Z",
+      "text": "The Lion’s Gate Portal Is Approaching—Here’s What It Means for Every Star Sign Here’s how to unlock your inner magic during this year’s lion’s gate portal, according to an astrologer."
+    },
+    {
+      "id": "9d9cfbd89ed8dfa4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Shop Our Favorite Celebrity Looks of the Week",
+      "url": "https://www.vogue.com/article/best-celebrity-outfits",
+      "publishedAt": "2026-08-07T16:59:00.000Z",
+      "collectedAt": "2026-08-08T12:57:49.857Z",
+      "text": "Shop Our Favorite Celebrity Looks of the Week Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away."
+    },
+    {
+      "id": "c2868ae6d1561e88",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Reformulated SkinCeuticals C E Ferulic Is Even Better Than I Expected",
+      "url": "https://www.vogue.com/article/skinceuticals-ce-ferulic-reformulation",
+      "publishedAt": "2026-08-07T16:50:47.000Z",
+      "collectedAt": "2026-08-08T12:57:49.857Z",
+      "text": "The Reformulated SkinCeuticals C E Ferulic Is Even Better Than I Expected Is SkinCeuticals C E Ferulic worth the money? With a reformulated formula, the new serum contains the same headliner antioxidants, but includes two new ingredients to address signs of aging."
+    },
+    {
+      "id": "966393eac62eac8a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "4 Key Takeaways From Copenhagen Fashion Week SS27",
+      "url": "https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27",
+      "publishedAt": "2026-08-07T16:25:42.000Z",
+      "collectedAt": "2026-08-08T12:57:49.857Z",
+      "text": "4 Key Takeaways From Copenhagen Fashion Week SS27 The spring 2027 season marked CPHFW’s 20th anniversary, its most international edition ever, and an explosion of color after years of minimalism."
+    },
+    {
+      "id": "cf7bcf5578e3b015",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nights, Therapy, and “Animal”",
+      "url": "https://www.vogue.com/article/now-serving-katseye",
+      "publishedAt": "2026-08-07T16:00:00.000Z",
+      "collectedAt": "2026-08-08T12:57:49.857Z",
+      "text": "Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nights, Therapy, and “Animal” In the latest installment of Vogue’s Now Serving series, four of the group’s five current members linked up in the kitchen for an international feast."
+    },
+    {
+      "id": "95c597623150ff3c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Cooper Hoffman and Nico Parker Are a Nepo-for-Nepo Couple I can Get Behind",
+      "url": "https://www.vogue.com/article/i-want-what-they-have-cooper-hoffman-and-nico-parker",
+      "publishedAt": "2026-08-07T14:29:11.000Z",
+      "collectedAt": "2026-08-08T12:57:49.857Z",
+      "text": "Cooper Hoffman and Nico Parker Are a Nepo-for-Nepo Couple I can Get Behind “We didn’t officially start dating until a few weeks after filming, when she came to New York to meet my mom, and I asked her to be my girlfriend,” Cooper told The Hollywood Reporter. “It was very sweet.”"
+    },
+    {
+      "id": "2f3f49be10741e29",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Aperitivo Hour: A Backyard Dinner With Natasha Pickowicz",
+      "url": "https://www.vogue.com/article/aperitivo-hour-natasha-pickowicz",
+      "publishedAt": "2026-08-07T13:12:21.000Z",
+      "collectedAt": "2026-08-08T12:57:49.857Z",
+      "text": "Aperitivo Hour: A Backyard Dinner With Natasha Pickowicz Chef and cookbook author Natasha Pickowicz takes us behind the scenes of her backyard dinner party."
+    },
+    {
+      "id": "5e6747341b923309",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Behold, Nike's Lazy Anti-basketball Sneaker",
+      "url": "https://www.highsnobiety.com/p/nike-blazy-sneaker-green/",
+      "publishedAt": "2026-08-08T11:50:00.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "Behold, Nike's Lazy Anti-basketball Sneaker Nike's glowing green Blazy sneaker is a super laid back shoe that was literally built for chilling."
+    },
+    {
+      "id": "d41f9e6ec74e9bb8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Crocs Finally Addresses the Elephant (Clog) in the Room",
+      "url": "https://www.highsnobiety.com/p/crocs-roy-elephant-clog/",
+      "publishedAt": "2026-08-08T09:34:02.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "Crocs Finally Addresses the Elephant (Clog) in the Room Crocs' plucked its edgy gray clog straight from the futuristic plains of sub-Saharan Africa."
+    },
+    {
+      "id": "213a31fc856d1eba",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Silk Scarf Is Whatever You Want It to Be",
+      "url": "https://www.highsnobiety.com/p/loro-piana-celine-silk-scarves/",
+      "publishedAt": "2026-08-07T20:44:01.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "A Silk Scarf Is Whatever You Want It to Be Celine, Loro Piana, Conner Ives, and Louis Vuitton have shown that the silk scarf can be attached to anything, from belts and bags to actual flagpoles."
+    },
+    {
+      "id": "c0efb5820fcd4c78",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The World’s Toughest Bag Wrote the World’s Toughest Book",
+      "url": "https://www.highsnobiety.com/p/yoshida-co-book/",
+      "publishedAt": "2026-08-07T18:33:00.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "The World’s Toughest Bag Wrote the World’s Toughest Book The heritage Japanese label is celebrating its 90th anniversary with the release of a commemorative book made of the same material as its famously strong bags."
+    },
+    {
+      "id": "3e45a4ecb84d4526",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Glossy Air Jordan 1 Is Made to Match Your Mani",
+      "url": "https://www.highsnobiety.com/p/nikes-glossy-air-jordan-1-is-made-to-match-your-mani/",
+      "publishedAt": "2026-08-07T16:55:00.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "Nike’s Glossy Air Jordan 1 Is Made to Match Your Mani Nike just made a glossy polished Air Jordan 1 sneaker that mimics a super fresh manicure."
+    },
+    {
+      "id": "3756cf7be1e88663",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ BW Army Decon Slips into Somthing More Comfortable",
+      "url": "https://www.highsnobiety.com/p/hartcopy-adidas-bw-army-decon/",
+      "publishedAt": "2026-08-07T15:40:00.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "adidas’ BW Army Decon Slips into Somthing More Comfortable Hartcopy's war-ready adidas BW Army Decon sneaker-mule is literally built to collapse."
+    },
+    {
+      "id": "d4f7d078302d578b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Answer is Always Denim",
+      "url": "https://www.highsnobiety.com/p/tommy-hilfiger-always-denim/",
+      "publishedAt": "2026-08-07T14:59:20.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "The Answer is Always Denim Romeo Beckham and Yasmin Wijnaldum front Tommy Jeans' new Always Denim campaign, proving why good denim never needed a comeback."
+    },
+    {
+      "id": "286e71d50bb21b7c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Noah Cyrus Is Everyone’s Favorite Dark Horse",
+      "url": "https://www.highsnobiety.com/p/noah-cyrus-loved-ones-interview/",
+      "publishedAt": "2026-08-07T14:00:21.000Z",
+      "collectedAt": "2026-08-08T12:57:51.217Z",
+      "text": "Noah Cyrus Is Everyone’s Favorite Dark Horse A decade into her career, Cyrus has carved her own unique path, finding fans in country chart-toppers and introspective singer-songwriters alike."
+    },
+    {
+      "id": "dc06974696c43bf4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ye Unveils Four Pastel Colorways for the Upcoming Yeezy 800",
+      "url": "https://hypebeast.com/2026/8/ye-unveils-four-new-pastel-colorways-for-upcoming-yeezy-800",
+      "publishedAt": "2026-08-07T21:02:46.000Z",
+      "collectedAt": "2026-08-08T12:57:52.694Z",
+      "text": "Ye Unveils Four Pastel Colorways for the Upcoming Yeezy 800 Summary Ye has revealed four new pastel colorways of the independent Yeezy 800 silhouetteThe retro running design combines ballistic mesh nubuck overlays and textured synthetic panelsThe model is expected to release during Fall/Winter 2026 via Yeezy YEEZY founder Ye has revealed new pastel iterations of the upcoming YEEZY 800 silhouette. The updated previe, which the artist posted to his Instagram Stories, expands upon the initial all-black edition of the independent runner, introducing a vibrant shift from the brand's traditional muted earth tones.The Yeezy 800 leans into a retro running shape, featuring a complex layered construction across the upper. Ballistic mesh forms the tongue, while textured panels reinforce the toe and heel sections. Nubuck-like overlays frame the eyestays and forefoot, complemented by layers of loose, gauze-style mesh that give the upper a raw, unpolished texture that continues onto portions of the midsole.Marking a return to the numbered naming format used throughout Ye's classic releases, the model signals a new era of independent production for the brand. Following reports of a retail partnership with JD Sports, the silhouette could become one of the first post-adidas Yeezy footwear releases to receive wider mainstream distribution.The Yeezy 800 is expected to launch during Fall/Winter 2026 through the Yeezy website and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7f3ac325c42bd459",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "First Look at the Nike Caitlin 1 \"Hot Punch\"",
+      "url": "https://hypebeast.com/2026/8/nike-caitlin-1-hot-punch-ih7423-600-first-look-release-info",
+      "publishedAt": "2026-08-07T20:53:06.000Z",
+      "collectedAt": "2026-08-08T12:57:52.694Z",
+      "text": "First Look at the Nike Caitlin 1 \"Hot Punch\" Summary Caitlin Clark revealed an early look at the upcoming Nike Caitlin 1 \"Hot Punch\" via InstagramThe retail colorway features an all-over pink execution with contrasting royal blue signature brandingThe pair is scheduled to release during Holiday 2026 for $140 USD via Nike and select retailers Name: Nike Caitlin 1 \"Hot Punch\"Colorway: Hot Punch/Neo Pink-Black-Laser Crimson-Racer BlueSKU: IH7423-600MSRP: $140 USDRelease Date: Holiday 2026Where to Buy: NikeNike and WNBA star Caitlin Clark have provided a first look at the Nike Caitlin 1 \"Hot Punch\". Clark shared an early preview of the upcoming release on Instagram, confirming the pair as part of her debut signature model’s wider retail lineup.The silhouette takes on an eye-catching aesthetic, wrapped in a Hot Punch shade that extends across the upper from heel to toe. Neo Pink tones soften the design across the midsole while filling in the layered Swoosh branding along the lateral and medial sidewalls.To break up the vibrant pink upper, royal blue accents highlight Clark’s signature logo atop the tongue, adding a sharp point of visual contrast to the overall palette.The Nike Caitlin 1 \"Hot Punch\" releases during Holiday 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9136152ed07728f6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "teamLab Transforms Osaka's Sunflowers Into an Interactive Ecosystem",
+      "url": "https://hypebeast.com/2026/8/teamlab-new-artwork-small-sun-flickering-in-the-dark-botanical-garden-osaka-info",
+      "publishedAt": "2026-08-07T03:43:34.000Z",
+      "collectedAt": "2026-08-08T12:57:52.694Z",
+      "text": "teamLab Transforms Osaka's Sunflowers Into an Interactive Ecosystem Summary teamLab unveils new interactive sunflower artwork at Osaka Botanical Garden.Sunflowers glow and emit tones, responding to visitor presence and movement.Installation fosters connection, awareness and meditative engagement with nature through digital art. International art collective teamLab has unveiled its latest seasonal interactive installation, Life is the Small Sun Flickering in the Dark, at the permanent nighttime open-air museum teamLab Botanical Garden Osaka inside Nagai Park. Featuring a soundscape created by composer Hideaki Takahashi, the 2026 installation transforms a field of roughly 20,000 white sunflowers into an ethereal, glowing landscape where living flora, technology, and human presence merge into a single interactive ecosystem. Operating on view through August 16, 2026 - subject to the seasonal blooming period of the flowers - the exhibition turns the botanical garden into a dynamic sensory environment after dusk.The artwork comes to life through human and animal interaction across the darkness. When visitors or local wildlife approach and stand near the sunflowers, the individual plants respond by illuminating more intensely and emitting a distinct resonant audio tone. This initial pulse of light and sound rapidly ripples outward to adjacent sunflowers, creating a continuous wave that radiates through the entire field. If a secondary wave of light approaches from across the meadow, it alerts guests to the presence of another person or creature moving on the far side, transforming the physical behaviors of those in the space into a collective visual and auditory dialogue.Rooted in teamLab’s conceptual exploration of how existence is continuous with its surrounding environment, Life is the Small Sun Flickering in the Dark frames each sunflower not as an isolated entity, but as part of an interconnected web of relationships. Rather than treating art as a static object with rigid physical boundaries, the collective uses flow, light, and sound to establish an evolving ecological field where audience participation actively shapes the structure of the pieceteamLab Botanical Garden OsakaNagai Botanical Garden at 1-23 Nagaikoen,Higashisumiyoshi-ku, Osaka 546-0034, Japan&nbsp;View this post on Instagram&nbsp;A post shared by teamLab (@teamlab) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4a1772d80031f48d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Seiko Brings Its ‘Passionately and Obsessively Crafted Watches’ Exhibition to London This Summer",
+      "url": "https://hypebeast.com/2026/8/seiko-power-design-project-passionately-and-obsessively-crafted-watches-exhibition-london-info",
+      "publishedAt": "2026-08-06T13:52:35.000Z",
+      "collectedAt": "2026-08-08T12:57:52.695Z",
+      "text": "Seiko Brings Its ‘Passionately and Obsessively Crafted Watches’ Exhibition to London This Summer Seiko will bring its Passionately and Obsessively Crafted Watches exhibition to Japan House in London. This marks the third consecutive year the brand has showcased its Power Design Project outside Japan, offering visitors a rare glimpse into the creative process behind one of the world’s most respected watchmakers. The exhibition highlights Seiko’s philosophy of innovation and craftsmanship, while celebrating Japanese culture in a global setting.The exhibition highlights seven conceptual timepieces, each expressing a different designer's hyper-fixation on specific physical elements. Takuya Matsumoto’s \"Dial Texture\" uses high-precision metal stamping - controlled to within one-hundredth of a millimeter - to render intricate geometric patterns inspired by Spain's Alhambra Palace.Naoya Sukeda’s \"Machining Marks\" draws inspiration from fine woodworking, deliberately leaving visible tool marks and file textures on a stepped steel case to celebrate the artisan's hand. Meanwhile, Design Director Miho Wada’s \"Bar Indices\" transforms standard hour markers into a hypnotic grid across a rectangular face, creating a dense mosaic where polished beams harmonize light.Rounding out the lineup are concepts that redefine watch geometry and typography. Yu Ishihara’s \"Spherical Surface\" seamlessly aligns the curvature of the glass, bezel, case and crown guard into a single continuous sphere. Free to the public, the exhibition will officially unveil at Japan House on August 27 and will remain on view until September 15, 2026.Japan House101-111 Kensington High St,London W8 5SA, United Kingdom Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e0e3fd5231ea9496",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "KIDILL x UMBRO's \"Wizard\" FW26 Track Suit Pairs a Waist-Length Hood With 40-Plus Adjusters",
+      "url": "https://hypebeast.com/2026/8/kidill-umbro-fall-winter-fw-2026-heaven-wizard-track-pants-jacket-collaboration-collection-release-info",
+      "publishedAt": "2026-08-05T06:42:39.000Z",
+      "collectedAt": "2026-08-08T12:57:52.695Z",
+      "text": "KIDILL x UMBRO's \"Wizard\" FW26 Track Suit Pairs a Waist-Length Hood With 40-Plus Adjusters Summary KIDILL and UMBRO have reunited for a second collaboration, delivering a unisex \"Wizard\" track jacket and matching track pantsThe set builds on UMBRO's functional sportswear patterns while carrying KIDILL's punk sensibility and the sorcery-tinged theme of its Fall/Winter 2026 \"Heaven\" collectionMore than 40 adjusters let the wearer reshape the garments, and the jacket's hood extends dramatically down to the waist KIDILL and UMBRO have linked for a second time, folding a unisex \"Wizard\" track jacket and track pants into KIDILL's Fall/Winter 2026 \"Heaven\" collection. The pairing runs UMBRO's athletic construction through KIDILL's subversive lens, arriving as a track set that treats its own silhouette as something the wearer can rebuild at will.The engineering is the hook. Both the jacket and the pants are fitted with more than 40 adjusters positioned along their seams and panel breaks, and cinching or releasing them lets the wearer stretch and reshape the outline of each piece. It is a genuinely modular approach to a track suit, one that keeps the functional bones of sportswear intact while opening the garment up to constant reinvention.That performance framework comes from UMBRO, whose sportswear patterning forms the base of the collaboration. KIDILL then layers its own punk attitude on top, and the clearest expression of that is the jacket's hood, which extends far enough to reach the waist. The exaggerated shape reads like something pulled from a sorcerer's robe, a deliberate nod that ties the piece to the wider mood of the season.That mood is where the collaboration connects to a bigger story. The set belongs to KIDILL's \"Heaven\" collection, whose Fall/Winter 2026 lineup runs on tarot-inspired artwork, and the wizardly hood is designed to echo that visual world. The result positions a functional two-piece as part of a larger narrative rather than a standalone drop. Offered across four colorways in black, pink, blue, and gray, the range extends the partnership the two brands first explored together in the Spring/Summer 2025 season.The KIDILL x UMBRO \"Wizard\" track jacket and track pants release on Saturday, August 8, 2026, at KIDILL ROOM and KIDILL stockists. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c8e4b9e11ee9f003",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Alysa Liu Fronts Nike Studio Fleece Campaign & Rains Steps Into Footwear in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/8/alysa-liu-nike-studio-fleece-rains-shoe-devil-wears-prada-nigel-cabourn-anderson-bell-burberry-info",
+      "publishedAt": "2026-08-07T15:54:06.000Z",
+      "collectedAt": "2026-08-08T12:57:52.695Z",
+      "text": "Alysa Liu Fronts Nike Studio Fleece Campaign & Rains Steps Into Footwear in This Week's Top Fashion News SummaryNigel Cabourn and Andersson Bell opened distinct new flagship boutiques in Japan.Christie’s is auctioning off The Devil Wears Prada 2 wardrobe; the V&A highlighted Burberry’s trench history.RAINS launched its first waterproof boots, while Olympian Alysa Liu fronted Nike's latest fleece campaign.What Alysa Liu Wears When She's Not on the IceFresh off securing a historic gold medal at the Milan Winter Olympics, figure skating champion Alysa Liu stepped out of the rink to front Nike's vibrant Studio Fleece campaign. Known for injecting Gen-Z energy and alt aesthetics into her sport, Liu showcased her off-duty style in a surrealist pastel salon setting. In an exclusive interview for Hypebeast, the 20-year-old athlete explained how growing up in Oakland, California, shaped her eclectic, deeply personal approach to fashion. Further, Liu shared that she prioritizes both \"mobility\" and \"comfort,\" highlighting her love for layering baggy sweatpants and oversized hoodies with sneakers. Read the full interview now at the link above, where Liu discusses and breaks down her off-duty wardrobe, recovery rituals, and life beyond the rink.RAINS Steps Into Footwear With Debut Waterproof Boots CollectionRAINS officially stepped into the footwear arena and launched its first-ever waterproof boot collection. The Scandinavian brand expanded its global rainwear legacy by introducing two primary silhouettes: the Dry Boot and the Mirage. The functional models, which footwear architect Martin Sallières helped bring to life, ranged from classic Chelsea cuts to exaggerated clog styles. The collection boasted responsive cushioning and unique grid-patterned outsoles that drew inspiration from New York City's block layout. Ultimately, the weather-ready footwear release translates the brand's signature sculptural minimalism into all-day, all-climate wearability. As unpredictable weather becomes a greater consideration for consumers, rain-geared footwear may see an uptick in the coming seasons.Christie's New York to Auction Costumes From 'The Devil Wears Prada 2'In a crossover between cinema and high fashion, Christie's and 20th Century Studios announced an exclusive online auction that featured the original wardrobe from The Devil Wears Prada 2. The charitable sale benefited the Committee to Protect Journalists and the CFDA, and it offered screen-worn luxury garments from the f"
+    },
+    {
+      "id": "dc53e14396ded538",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "mfpen's 10th Anniversary Runway Show Teases New Balance Collaboration",
+      "url": "https://hypebeast.com/2026/8/mfpen-ss27-collection-runway-show-copenhagen-fashion-week",
+      "publishedAt": "2026-08-07T18:07:27.000Z",
+      "collectedAt": "2026-08-08T12:57:52.695Z",
+      "text": "mfpen's 10th Anniversary Runway Show Teases New Balance Collaboration On Wednesday, mfpen presented its SS27 collection “Deadlines” at Copenhagen Fashion Week. Marking 10 years in business, the Danish label embraces the spirit of imperfection for a collection of “overworked” office-wear-inspired silhouettes.Exploring “the feeling of working late nights on a project to meet a deadline,” the SS27 collection translates this theme into the garments through lightly distressed fabrics and slouchy styling. For more interesting proportions, wool shorts and skirts cut too short expose inner lining, while the sleeves of tops, including a cable-knit sweater, extend past the hands. Together, these design choices break from the formality of the workplace, placing a primacy on unkempt and lived-in detailing.In one men’s look, a red floral jacquard shirt is worn with the chest exposed and paired with a dark gray suit, while another utilizes a white checked shirt with a loosely styled floral necktie and front-pleated trousers. Other men’s looks get subtle feminine touches from lace stockings and tassel trims, while sun-faded jersey knits and raw-cut hems add a gritty sensibility to the collection.Accessories like glossy leather messenger bags and belts with chrome grommets bring an alternative character to the range, balancing out the more formal silhouettes. Finally, for footwear, mfpen introduces a New Balance Made in USA 992 that follows the neutral late 90s feel of the accompanying garments.See the gallery above for a full look at mfpen SS27 at Copenhagen Fashion Week. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0dc82bbcc5fe5e98",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BEAMS Opens Doors to Inaugural Malibu Outpost",
+      "url": "https://hypebeast.com/2026/8/beams-america-malibu-store-opening-information",
+      "publishedAt": "2026-08-07T17:31:37.000Z",
+      "collectedAt": "2026-08-08T12:57:52.695Z",
+      "text": "BEAMS Opens Doors to Inaugural Malibu Outpost Japanese menswear label BEAMS has expanded its U.S. presence by officially opening BEAMS MALIBU on the California coast.Located at 23710 Malibu Road, the seaside store operates on Fridays, Saturdays, and Sundays from 11:00 AM to 6:00 PM.BEAMS MALIBU has opened its doors officially opened its doors nestled right next to California’s southern coast. The opening is only the latest development in the ubiquitous Japanese menswear label’s expansion into the US, which has largely taken place in the Los Angeles metropolitan area.Starting today, shoppers can browse and buy BEAMS at a seaside Malibu Rd space that will be open only on Fridays, Saturdays and Sundays from 11 AM to 6 PM. The Japanese label quietly announced the move earlier this year, saying, “BEAMS has secured a location in Malibu, California and is currently preparing for the upcoming project,” on BEAMS America’s official site. It comes after the brand’s first-ever BEAMS Plus Limited Store in central LA in 2024 and the later “All Things Japan” pop-up in Summer 2025. View this post on InstagramA post shared by BEAMS America (@beams_america) The brand’s long-awaited entrance into the US market was confirmed in 2025 with the official e-commerce launch of BEAMS America. Since then, the brand’s American arm has released a plethora of dedicated collabs with labels like Vans and Champion. BEAMS expands its presence at a time when Japanese fashion gains popularity stateside via retailers like UNIQLO and MUJI, as well as trends like Japanese selvedge denim and sashiko stitching. As the nation's cross-cultural influence continues to grow in the West, BEAMS’ recent moves suggest there may be more stores coming in the near future.BEAMS MALIBU23710 Malibu Road, Malibu, CA 90265Fri, Sat, Sun 11:00 am – 6:00 pm Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0ece531cda13f74f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "This 1:1 ‘Fallout’ Pip-Boy Comes Off Your Wrist and Onto Your Desk",
+      "url": "https://hypebeast.com/2026/8/prime-video-fallout-video-game-tv-series-pip-boy-replica-release-info",
+      "publishedAt": "2026-08-07T13:15:01.000Z",
+      "collectedAt": "2026-08-08T12:57:52.695Z",
+      "text": "This 1:1 ‘Fallout’ Pip-Boy Comes Off Your Wrist and Onto Your Desk Summary The Wand Company has produced an officially licensed Pip-Boy replica tied to the Amazon Original Fallout seriesBuilt as a 1:1 wearable, it pairs die-cast metal and a hand-weathered finish with a functioning LCD screenA machined metal stand lets the piece double as an in-universe desk clock when it is not being worn The Wand Company has recreated the Fallout Pip-Boy as a fully functional, wearable 1:1 replica, officially licensed by Amazon Studios from its live-action series. Modeled on the show's prop geometry, the collectible reproduces the Pip-Boy 3000 Mk V as a piece that works as both cosplay hardware and a desktop display.Construction is where the replica makes its case. The front casing is die-cast metal finished with hand-applied weathering, so each unit carries its own worn-in character, while the body is built from engineered injection-moulded ABS. A memory foam cuff lines the interior for universal fitting and longer wear, striking a balance between authentic materials and something you can actually strap on. The piece is described as the most accurate reproduction of the wrist-worn \"Personal Information Processor\" yet made, an ambition that tracks with The Wand Company's reputation for high-fidelity prop replicas.The electronics carry the fantasy further. A TFT LCD screen runs more than 45 different in-universe screens and animations pulled directly from the series, navigated through a side control dial, and the same display doubles as a working timepiece with an in-universe alarm. A built-in FM radio lets owners tune real stations or switch over to Wasteland broadcasts at the press of a button. Power comes from a rechargeable Li-Po cell topped up over USB-C, which also allows the replica to run constantly on for an always-lit desk display.That desk life is anchored by the stand. The replica ships with a solid, machined metal stand that seats it cleanly and unlocks the table-clock function, turning a cosplay prop into an everyday object. The result speaks to how far the Pip-Boy has traveled, from an in-game HUD to a live-action prop to a piece of hardware sitting on a collector's shelf.The officially licensed Fallout Pip-Boy replica is available via Amazon. Click here to view full gallery at Hypebeast"
     }
   ]
 }

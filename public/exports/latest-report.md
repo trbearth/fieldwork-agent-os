@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-08-07
+# Fieldwork Daily Signal — 2026-08-08
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -12,17 +12,7 @@ Decorated basics is appearing across 1 independent public source.
 
 - [Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair "Made in India" Drop](https://hypebeast.com/2026/8/limited-edt-adidas-originals-superstar-consortium-made-in-india-release-info) — Hypebeast, Aug 6
 
-## 2. Narrow technical footwear
-
-**emerging · score 49 · confidence 24% · youth 49%**
-
-Narrow technical footwear is appearing across 1 independent public source.
-
-2 observations · 1 independent source · +100% seven-day velocity
-
-- [Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer](https://www.highsnobiety.com/p/adidas-by-stella-mccartney-sportswear-76/) — Highsnobiety, Aug 2
-
-## 3. Quiet performance
+## 2. Quiet performance
 
 **emerging · score 42 · confidence 19% · youth 38%**
 
@@ -31,6 +21,16 @@ Quiet performance is appearing across 1 independent public source.
 1 observation · 1 independent source · +100% seven-day velocity
 
 - [The Best Travel Sandals, From Packable Flip Flops to Comfortable Platforms](https://www.vogue.com/article/travel-sandals) — Vogue, Aug 3
+
+## 3. Narrow technical footwear
+
+**emerging · score 27 · confidence 20% · youth 46%**
+
+Narrow technical footwear is appearing across 1 independent public source.
+
+1 observation · 1 independent source · +0% seven-day velocity
+
+- [Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer](https://www.highsnobiety.com/p/adidas-by-stella-mccartney-sportswear-76/) — Highsnobiety, Aug 2
 
 ## Method note
 
