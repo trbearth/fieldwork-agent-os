@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-08",
+    "id": "2026-08-09",
     "mode": "live",
-    "displayDate": "AUG 08, 2026, 08:57 AM EDT",
-    "generatedAt": "2026-08-08T12:57:53.950Z",
-    "itemsCollected": 32,
+    "displayDate": "AUG 09, 2026, 09:00 AM EDT",
+    "generatedAt": "2026-08-09T13:00:37.848Z",
+    "itemsCollected": 21,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -65,38 +65,18 @@
           "url": "https://www.vogue.com/article/travel-sandals"
         }
       ]
-    },
-    {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 27,
-      "confidence": 20,
-      "youthRelevance": 46,
-      "direction": "flat",
-      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer",
-          "source": "Highsnobiety",
-          "date": "Aug 2",
-          "url": "https://www.highsnobiety.com/p/adidas-by-stella-mccartney-sportswear-76/"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Narrow technical footwear",
-    "reason": "1 mention this week versus 1 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0808",
+    "code": "AUTO 0809",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
