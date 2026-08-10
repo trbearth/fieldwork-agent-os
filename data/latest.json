@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-09",
+    "id": "2026-08-10",
     "mode": "live",
-    "displayDate": "AUG 09, 2026, 09:00 AM EDT",
-    "generatedAt": "2026-08-09T13:00:37.848Z",
-    "itemsCollected": 21,
+    "displayDate": "AUG 10, 2026, 09:19 AM EDT",
+    "generatedAt": "2026-08-10T13:19:42.491Z",
+    "itemsCollected": 38,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 10
+        "count": 8
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 59,
-      "confidence": 36,
-      "youthRelevance": 100,
-      "direction": "up",
+      "score": 25,
+      "confidence": 24,
+      "youthRelevance": 62,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "4 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "4 observations · 1 independent source · +100% seven-day velocity",
+      "whyNow": "1 mention this week versus 5 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -80% seven-day velocity",
       "citations": [
         {
           "title": "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop",
@@ -45,38 +45,18 @@
           "url": "https://hypebeast.com/2026/8/limited-edt-adidas-originals-superstar-consortium-made-in-india-release-info"
         }
       ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 42,
-      "confidence": 19,
-      "youthRelevance": 38,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "The Best Travel Sandals, From Packable Flip Flops to Comfortable Platforms",
-          "source": "Vogue",
-          "date": "Aug 3",
-          "url": "https://www.vogue.com/article/travel-sandals"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Decorated basics",
+    "reason": "1 mention this week versus 5 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0809",
+    "code": "AUTO 0810",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
