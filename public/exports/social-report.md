@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-08-10
+# Fieldwork Public Pulse — 2026-08-11
 
 ## 1. Quiet performance
 
@@ -24,17 +24,15 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 29 · confidence 46% · youth 48%**
+**emerging · score 19 · confidence 42% · youth 46%**
 
-3 public posts · 1 network · 7-day comparison
+1 public posts · 1 network · 7-day comparison
 
 - [The designer put forward tracksuits and sharp tailoring for her first menswear collection at the sto](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-Z2O4FURgRKqrXHUqnZRRVA%3Aa%3A4091604380-%2F0) — Mastodon
-- [Louis Vuitton Brings the Beach to Paris in Near 40C Heat https://www. theguardian.com/fashion/2026/j](https://flipboard.social/@fediboard_lifestyle/116808277730512024) — Mastodon
-- [Pharrell Williams's menswear collection had a surf theme — while Saint Laurent models wore skinny su](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-0PNwGsw1RNmRj1YS5KEcJg%3Aa%3A4091604380-%2F0) — Mastodon
 
 ## Network status
 
-- **mastodon:** ready — 22 observations
+- **mastodon:** ready — 20 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

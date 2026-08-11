@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-10",
+    "id": "2026-08-11",
     "mode": "live",
-    "displayDate": "AUG 10, 2026, 09:19 AM EDT",
-    "generatedAt": "2026-08-10T13:19:42.491Z",
-    "itemsCollected": 38,
+    "displayDate": "AUG 11, 2026, 09:16 AM EDT",
+    "generatedAt": "2026-08-11T13:16:31.773Z",
+    "itemsCollected": 60,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 8
+        "count": 12
       },
       {
         "source": "Hypebeast",
@@ -30,37 +30,44 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 25,
-      "confidence": 24,
-      "youthRelevance": 62,
+      "score": 44,
+      "confidence": 48,
+      "youthRelevance": 68,
       "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 5 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -80% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
       "citations": [
         {
           "title": "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop",
           "source": "Hypebeast",
           "date": "Aug 6",
           "url": "https://hypebeast.com/2026/8/limited-edt-adidas-originals-superstar-consortium-made-in-india-release-info"
+        },
+        {
+          "title": "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
+          "source": "Vogue",
+          "date": "Aug 10",
+          "url": "https://www.vogue.com/slideshow/hot-not-heavy-how-sson-addressed-the-climate-crisis-with-charm-and-candor"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "1 mention this week versus 5 in the prior seven-day window."
+    "reason": "3 mentions this week versus 5 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0810",
+    "code": "AUTO 0811",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop"
+      "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop",
+      "Climate Crisis: How Sson Addressed the Topic With Charm and Candor"
     ]
   }
 }
