@@ -1,16 +1,16 @@
-# Fieldwork Daily Signal — 2026-08-11
+# Fieldwork Daily Signal — 2026-08-12
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 44 · confidence 48% · youth 68%**
+**emerging · score 50 · confidence 52% · youth 79%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-3 observations · 2 independent sources · -40% seven-day velocity
+4 observations · 2 independent sources · +0% seven-day velocity
 
-- [Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair "Made in India" Drop](https://hypebeast.com/2026/8/limited-edt-adidas-originals-superstar-consortium-made-in-india-release-info) — Hypebeast, Aug 6
+- [Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos](https://hypebeast.com/2026/8/apple-reference-image-verifies-iphone-photos-in-ios-27) — Hypebeast, Aug 12
 - [Climate Crisis: How Sson Addressed the Topic With Charm and Candor](https://www.vogue.com/slideshow/hot-not-heavy-how-sson-addressed-the-climate-crisis-with-charm-and-candor) — Vogue, Aug 10
 
 ## Method note

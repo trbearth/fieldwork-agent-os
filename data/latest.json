@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-11",
+    "id": "2026-08-12",
     "mode": "live",
-    "displayDate": "AUG 11, 2026, 09:16 AM EDT",
-    "generatedAt": "2026-08-11T13:16:31.773Z",
-    "itemsCollected": 60,
+    "displayDate": "AUG 12, 2026, 09:20 AM EDT",
+    "generatedAt": "2026-08-12T13:20:08.662Z",
+    "itemsCollected": 56,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 28
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 12
+        "count": 15
       },
       {
         "source": "Hypebeast",
@@ -30,19 +30,19 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 44,
-      "confidence": 48,
-      "youthRelevance": 68,
-      "direction": "down",
+      "score": 50,
+      "confidence": 52,
+      "youthRelevance": 79,
+      "direction": "flat",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
+      "whyNow": "4 mentions this week versus 4 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +0% seven-day velocity",
       "citations": [
         {
-          "title": "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop",
+          "title": "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
           "source": "Hypebeast",
-          "date": "Aug 6",
-          "url": "https://hypebeast.com/2026/8/limited-edt-adidas-originals-superstar-consortium-made-in-india-release-info"
+          "date": "Aug 12",
+          "url": "https://hypebeast.com/2026/8/apple-reference-image-verifies-iphone-photos-in-ios-27"
         },
         {
           "title": "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
@@ -55,18 +55,18 @@
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "3 mentions this week versus 5 in the prior seven-day window."
+    "reason": "4 mentions this week versus 4 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0811",
+    "code": "AUTO 0812",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Limited Edt Loads the adidas Originals Superstar With Peacock Motifs and Gold Hardware for a 350-Pair \"Made in India\" Drop",
+      "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
       "Climate Crisis: How Sson Addressed the Topic With Charm and Candor"
     ]
   }

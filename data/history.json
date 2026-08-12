@@ -527,6 +527,38 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-12",
+      "mode": "live",
+      "displayDate": "AUG 12, 2026, 09:20 AM EDT",
+      "generatedAt": "2026-08-12T13:20:08.662Z",
+      "itemsCollected": 56,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 28
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 15
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 50,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -8174,6 +8206,622 @@
       "publishedAt": "2026-08-11T07:31:06.000Z",
       "collectedAt": "2026-08-11T13:16:30.514Z",
       "text": "Ghibli Park Is Bringing ‘Nausicaä of the Valley of the Wind’ to Life in a Brand New Zone Summary Ghibli Park is adding an area themed around Nausicaä of the Valley of the Wind, a film Studio Ghibli had previously kept out of the parkStudio Ghibli itself proposed the Nausicaä concept during planning for the new expansion, a reversal from its earlier stanceThe zone will be built as the park's second entirely indoor area, a decision tied to Japan's punishing summer heat Ghibli Park is expanding once again, and this time it's finally opening the door to Nausicaä of the Valley of the Wind, a Studio Ghibli landmark the Aichi Prefecture theme park had long treated as untouchable. The new area marks a notable change of heart from the studio, which had previously blocked efforts to give the film a presence at the park.The reversal is striking because of how firmly Ghibli had held the line. According to Aichi governor Hideaki Omura, the prefecture had floated the idea of a stronger Nausicaä presence before, only to be turned away. \"Studio Ghibli would not let us touch Nausicaä,\" he said at the press conference announcing the expansion. What makes the about-face even more surprising is that, during conceptual talks for the new section, it was Studio Ghibli itself that put the Nausicaä theme on the table.That history gives the choice real weight. Released in Japanese theaters in 1984 and adapted from a manga Hayao Miyazaki had begun two years earlier, Nausicaä is widely regarded as the de-facto first Studio Ghibli film. Its production predated the studio's formal founding, but the creative team behind it went on to form Ghibli's founding core, and the project gave Miyazaki his first real shot at realizing an ambitious vision with a proper budget. Granting it a permanent home fills one of the more conspicuous gaps in a park that has steadily worked through the Miyazaki canon, from the Totoro-themed Dondoko Forest to Mononoke Village and the witch-focused Valley of the Witches.On the practical side, the Nausicaä zone will sit within Expo 2005 Aichi Commemorative Park in Nagakute, roughly 45 minutes from downtown Nagoya, on a stretch of the West Gate Plaza near the Koi no Ike pond and across the water from Ghibli's Grand Warehouse. The flat plot means little reshaping of the land will be required, and current photos suggest minimal greenery would be lost in development. A concept sketch also hints that the plaza's existing tusk-shaped clock will remain in place.Design-wi"
+    },
+    {
+      "id": "781c728424119627",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Coco Gauff on her Oura Ring, US Open Hopes, and Her Love Island Thoughts",
+      "url": "https://www.vogue.com/article/coco-gauff-oura-ring-interview",
+      "publishedAt": "2026-08-12T12:00:30.000Z",
+      "collectedAt": "2026-08-12T13:20:04.722Z",
+      "text": "Coco Gauff on her Oura Ring, US Open Hopes, and Her Love Island Thoughts Vogue talks with the tennis star about her REM cycle, her Oura ring, and plans for the US Open."
+    },
+    {
+      "id": "f056adef6dff724e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Soft-Serve? For Summer? Groundbreaking",
+      "url": "https://www.vogue.com/article/soft-serve-trend",
+      "publishedAt": "2026-08-12T12:00:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "Soft-Serve? For Summer? Groundbreaking Frozen yogurt may be having its moment in the sun, but there’s never been a better time for restaurant soft-serve."
+    },
+    {
+      "id": "6f79d7ad4f2c0870",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal",
+      "url": "https://www.vogue.com/slideshow/black-tie-wedding-guest-dresses",
+      "publishedAt": "2026-08-12T10:00:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal From sequined gowns to maximalist florals, our edit of the best black-tie wedding guest dresses will help you master the formal attire dress code."
+    },
+    {
+      "id": "14069ecb75610dfd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "8 Travel Totes for Every Style, Destination, and Itinerary",
+      "url": "https://www.vogue.com/article/travel-totes",
+      "publishedAt": "2026-08-12T10:00:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "8 Travel Totes for Every Style, Destination, and Itinerary Heading on a trip? A travel tote is one of the most useful purchases to make before you hit the road—from coastal canvas to sleek leather, here are some of our favorites."
+    },
+    {
+      "id": "26bec09244e184a7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Justin and Hailey Bieber Can Both Be Pilates Princesses",
+      "url": "https://www.vogue.com/article/justin-and-hailey-bieber-can-both-be-pilates-princesses",
+      "publishedAt": "2026-08-12T09:18:16.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "Justin and Hailey Bieber Can Both Be Pilates Princesses She’s been on a strength training journey, but Hailey Bieber knows there’s nothing quite like a reformer pilates burn."
+    },
+    {
+      "id": "90b91e6122417c4a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little Else",
+      "url": "https://www.vogue.com/article/jennifer-lopez-french-riviera-manicure",
+      "publishedAt": "2026-08-12T08:41:30.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little Else Fresh, clean, and somewhere between Jane Birkin’s effortless chic and Brigitte Bardot’s glam: Jennifer Lopez has mastered the summer nude."
+    },
+    {
+      "id": "95e6a0f377035915",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Fashion’s Betting on the Ballet. What’s the Pointe?",
+      "url": "https://www.vogue.com/article/fashions-betting-on-the-ballet-whats-the-pointe",
+      "publishedAt": "2026-08-12T04:30:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "Fashion’s Betting on the Ballet. What’s the Pointe? As the luxury market favors experiential clienteling and culture-led engagement, ballet and dance are becoming trusted signals of taste, attracting young consumers and VICs."
+    },
+    {
+      "id": "2be5a5808cfc68e9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Fashion Executives Are Reading This Summer",
+      "url": "https://www.vogue.com/article/what-fashion-executives-are-reading-this-summer",
+      "publishedAt": "2026-08-12T04:30:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "What Fashion Executives Are Reading This Summer Spanning topics from algorithms to ecology, here’s what fashion executives have read this summer."
+    },
+    {
+      "id": "7bc63ca68b62441d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The It-Kids of South Korea",
+      "url": "https://www.vogue.com/article/the-it-kids-of-south-korea",
+      "publishedAt": "2026-08-12T04:30:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "The It-Kids of South Korea Here are the next-gen South Korean stars that luxury brands should have on their radars."
+    },
+    {
+      "id": "1763e05866aaa3a4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What You Missed at the Building a Career in Fashion Event",
+      "url": "https://www.vogue.com/article/building-a-career-in-fashion-london",
+      "publishedAt": "2026-08-12T03:00:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "What You Missed at the Building a Career in Fashion Event Discover the key takeaways from an evening of conversation, advice and networking focused on building a career in fashion."
+    },
+    {
+      "id": "3fead1eaee94a12d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Want What Oprah and Stedman Quietly, Consistently Have:",
+      "url": "https://www.vogue.com/article/i-want-what-they-have-oprah-winfrey-and-stedman-graham",
+      "publishedAt": "2026-08-12T00:14:24.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "I Want What Oprah and Stedman Quietly, Consistently Have: Graham described himself as being “dedicated to [Winfrey’s] happiness” in a 2019 interview. Who could ask for more!"
+    },
+    {
+      "id": "fc9e0cb5abd93e3e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Is “Ferritin Face”—And Do You Have It?",
+      "url": "https://www.vogue.com/article/ferritin-face-low-iron-deficiency",
+      "publishedAt": "2026-08-11T22:45:52.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "What Is “Ferritin Face”—And Do You Have It? The Internet is obsessed with ferritin face—and if you have dull, dry skin and excessive hair shedding, you may be, too."
+    },
+    {
+      "id": "7bef3dca722d1770",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Raúl Esparza and Lily Rabe Talk ‘The Winter’s Tale’",
+      "url": "https://www.vogue.com/article/raul-esparza-and-lily-rabe-the-winters-tale",
+      "publishedAt": "2026-08-11T22:16:01.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "Raúl Esparza and Lily Rabe Talk ‘The Winter’s Tale’ What happens when a king’s delusions have real consequences? And can forgiveness ever sprout in the frost of grief? These are just two questions at the center of “The Winter’s Tale,” staged this summer as part of the Public Theater’s Free Shakespeare in the Park series."
+    },
+    {
+      "id": "e1616453b1029b24",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Traced the Steps of Hemingway, Picasso, and Chanel Through France and Spain—Here’s What I Discovered",
+      "url": "https://www.vogue.com/article/lost-generation-travel-france-spain",
+      "publishedAt": "2026-08-11T20:54:12.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "I Traced the Steps of Hemingway, Picasso, and Chanel Through France and Spain—Here’s What I Discovered From the storied cafés of Montparnasse to the cobblestone alleys in San Sebastián, on the centennial of ‘The Sun Also Rises,’ the Lost Generation’s impact can be felt throughout some of Europe’s most compelling destinations. One writer traces their steps, and in doing so, reignites a passion for exploration."
+    },
+    {
+      "id": "af62b6c6bb39640d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Brides Wore Vivienne Westwood and Danielle Frankel for Their Intimate Wedding Celebration in Mallorca",
+      "url": "https://www.vogue.com/slideshow/morgan-yates-and-jezzel-viray-wedding",
+      "publishedAt": "2026-08-11T20:49:23.000Z",
+      "collectedAt": "2026-08-12T13:20:04.723Z",
+      "text": "The Brides Wore Vivienne Westwood and Danielle Frankel for Their Intimate Wedding Celebration in Mallorca Morgan Yates and Jezzel Viray decided to create a handful of their own traditions for their four-day wedding weekend in Mallorca, with just 55 guests."
+    },
+    {
+      "id": "9c5e6ac8ab7875c0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Callum Turner Proves Hot Man-Hot Bag Is the Best Combo",
+      "url": "https://www.vogue.com/article/calum-turner-louis-vuitton-bag",
+      "publishedAt": "2026-08-11T19:10:54.000Z",
+      "collectedAt": "2026-08-12T13:20:04.724Z",
+      "text": "Callum Turner Proves Hot Man-Hot Bag Is the Best Combo There’s rumors that Callum Turner is the next James Bond. He’s got the style for it."
+    },
+    {
+      "id": "52aeedd87d7450e5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Way to Explore Indonesia? On a Traditional Wooden Sailing Ship",
+      "url": "https://www.vogue.com/article/lamima-phinisi-boat-indonesia-travel",
+      "publishedAt": "2026-08-11T19:00:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.724Z",
+      "text": "The Best Way to Explore Indonesia? On a Traditional Wooden Sailing Ship Over the past few years, remote adventures on phinisi, or traditional Indonesian wooden sailboats, have become increasingly popular—and it’s not hard to see why."
+    },
+    {
+      "id": "c7eb1f65372218c2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "5+ Copenhagen Fashion Week Outfits to Recreate Now",
+      "url": "https://www.vogue.com/article/fashion-week-trends",
+      "publishedAt": "2026-08-11T16:44:46.000Z",
+      "collectedAt": "2026-08-12T13:20:04.724Z",
+      "text": "5+ Copenhagen Fashion Week Outfits to Recreate Now From cool everyday looks to statement ensemble, recreate the season’s top fashion week outfits, inspired by the street style scene at Copenhagen Fashion Week."
+    },
+    {
+      "id": "ec613b3a3903719e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kaia Gerber and Homer Gere Talk Secret Meme Accounts, Overhead Lighting, and Clowns in the Latest ‘Off the Cuff’",
+      "url": "https://www.vogue.com/article/off-the-cuff-kaia-gerber-homer-gere",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "collectedAt": "2026-08-12T13:20:04.724Z",
+      "text": "Kaia Gerber and Homer Gere Talk Secret Meme Accounts, Overhead Lighting, and Clowns in the Latest ‘Off the Cuff’ The two young stars of “The Shards” sit down for Vogue’s video series."
+    },
+    {
+      "id": "4111930c428bb3d9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "4 Stylish Summer Looks for Exploring Beyond the Beach",
+      "url": "https://www.vogue.com/article/burberry-pre-fall-outfits",
+      "publishedAt": "2026-08-11T15:31:24.000Z",
+      "collectedAt": "2026-08-12T13:20:04.724Z",
+      "text": "4 Stylish Summer Looks for Exploring Beyond the Beach For those yearning for a different kind of summer adventure, Burberry’s pre-fall collection has everything you need to put a stylish look together."
+    },
+    {
+      "id": "0443193775bc2a71",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kristen Stewart Has a Secret Styling Weapon for Day-to-Night Dressing",
+      "url": "https://www.vogue.com/article/kristen-stewart-secret-styling-weapon-day-to-night-dressing",
+      "publishedAt": "2026-08-11T15:02:42.000Z",
+      "collectedAt": "2026-08-12T13:20:04.724Z",
+      "text": "Kristen Stewart Has a Secret Styling Weapon for Day-to-Night Dressing Kristen Stewart has found a trusty pair of slime green sneakers to carry her through a busy day."
+    },
+    {
+      "id": "33327a388f21cab1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Podcast: Kaia Gerber and Homer Gere Are Vogue’s September Cover Stars!",
+      "url": "https://www.vogue.com/article/on-the-podcast-kaia-gerber-and-homer-gere-are-vogues-september-cover-stars",
+      "publishedAt": "2026-08-11T14:49:24.000Z",
+      "collectedAt": "2026-08-12T13:20:04.724Z",
+      "text": "On the Podcast: Kaia Gerber and Homer Gere Are Vogue’s September Cover Stars! Kaia Gerber and Homer Gere are Vogue’s September cover stars! They had the glow of two people running on very little sleep—but lots of adrenaline—when they joined “The Run-Through” for their first joint interview, just ahead of the premiere of “The Shards.”"
+    },
+    {
+      "id": "c6f0711344fc4879",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Art of the Long Weekend Wardrobe",
+      "url": "https://www.highsnobiety.com/p/how-to-master-long-weekend-packing/",
+      "publishedAt": "2026-08-12T12:50:07.000Z",
+      "collectedAt": "2026-08-12T13:20:05.996Z",
+      "text": "The Art of the Long Weekend Wardrobe Packing for a long weekend? Mr Porter's versatile menswear essentials will take you from airport lounges to dinner reservations without overloading your suitcase"
+    },
+    {
+      "id": "a33fc1c74aeefbd7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Lacoste and Zalando Gear Up For The Crocoliga Final",
+      "url": "https://www.highsnobiety.com/p/lacoste-crocoliga-table-tennis-final-berlin/",
+      "publishedAt": "2026-08-12T12:46:06.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Lacoste and Zalando Gear Up For The Crocoliga Final Lacoste's Crocoliga table tennis tour hit Berlin, Paris & Milan. Now, the finalists will meet in Berlin for Crocoliga glory."
+    },
+    {
+      "id": "55888d48cf38c229",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Crocs' Goated Clog Just Had a Literal Cow",
+      "url": "https://www.highsnobiety.com/p/crocs-crafted-pony-hair-clog-brown-white/",
+      "publishedAt": "2026-08-12T12:37:03.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Crocs' Goated Clog Just Had a Literal Cow Crocs pony hair clog comes with a full cowhide upper & a GOATed Odessa A'zion co-sign. Holy cow."
+    },
+    {
+      "id": "ca73c1795870a379",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Week's Best Nike Sneaker Releases",
+      "url": "https://www.highsnobiety.com/p/best-nike-sneakers-august-week-2/",
+      "publishedAt": "2026-08-12T08:03:18.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "This Week's Best Nike Sneaker Releases This week of our Nike release round-up is all about performance tech that is also perfect for the streets."
+    },
+    {
+      "id": "d48fd74f8fd48538",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Zalando’s Visionary Award Winner Was the Underdog CPHFW Needed",
+      "url": "https://www.highsnobiety.com/p/zalandos-visionary-award-winner-cphfw/",
+      "publishedAt": "2026-08-12T07:02:01.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Zalando’s Visionary Award Winner Was the Underdog CPHFW Needed Zalando Visionary Award winner Galib Gassanoff brings INSTITUTION to Copenhagen Fashion Week with YAD, a deeply personal SS27 collection exploring heritage, memory and belonging."
+    },
+    {
+      "id": "dd204f5abca20e38",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vandy the Pink’s Sweetest ASICS Sneaker Genuinely Eats",
+      "url": "https://www.highsnobiety.com/p/vandy-the-pink-asics-gel-kayano-12-1/",
+      "publishedAt": "2026-08-12T08:18:14.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Vandy the Pink’s Sweetest ASICS Sneaker Genuinely Eats Vandy the Pink debuts a delicious ASICS GEL-Kayano 12.1 sneaker dressed in sweet details inspired by ice cream desserts."
+    },
+    {
+      "id": "54e946a87c2045bc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans Treats Its Effortlessly Elegant Skate Shoe to Flowers & Pearls",
+      "url": "https://www.highsnobiety.com/p/vans-premium-authentic-ease-flower/",
+      "publishedAt": "2026-08-12T08:13:59.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Vans Treats Its Effortlessly Elegant Skate Shoe to Flowers & Pearls Vans introduces a new Authentic Ease sneaker, decked out with flower details & pearls. This elegant skate shoe is spoiled."
+    },
+    {
+      "id": "ea053f28fa1846c7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s High-Tech Running Shoe Is a Stylish Time Traveler",
+      "url": "https://www.highsnobiety.com/p/nike-pegasus-premium-now-and-then/",
+      "publishedAt": "2026-08-12T08:10:09.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Nike’s High-Tech Running Shoe Is a Stylish Time Traveler Nike's Pegasus Premium \"Now & Then\" running sneaker marries a retro grey colorway with the model's modern-day tech."
+    },
+    {
+      "id": "9c95536074f9abd2",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Luxe Wallabee-Flavored Sneaker Is Part Tech Runner",
+      "url": "https://www.highsnobiety.com/p/nike-shox-tl-leather-flat-pewter/",
+      "publishedAt": "2026-08-12T08:07:51.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Nike’s Luxe Wallabee-Flavored Sneaker Is Part Tech Runner Nike's Shox TL sneaker gets a luxurious leather makeover, resulting in a \"Flat Pewter\" take with Wallabee-like styling."
+    },
+    {
+      "id": "3577c64602d69318",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Finally, a Fashion Week for the People",
+      "url": "https://www.highsnobiety.com/p/cphfw-ss27-fashion-week-for-the-people/",
+      "publishedAt": "2026-08-11T17:56:54.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Finally, a Fashion Week for the People Is equal parts fun and function the recipe for success in an ever-evolving industry? It seems Copenhagen Fashion Week has cracked the code."
+    },
+    {
+      "id": "8b5bb19bb591478f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Dapper Air Max Loafer Still Means Business",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-phenomena-loafers-2026/",
+      "publishedAt": "2026-08-12T08:04:58.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Nike's Dapper Air Max Loafer Still Means Business Nike's Air Max Phenomena loafer continues to hold strong on the sneaker game with restocked colorways & fresh flavors."
+    },
+    {
+      "id": "c320394fa410a257",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Onitsuka Tiger Takes Craft to the Champs-Élysées",
+      "url": "https://www.highsnobiety.com/p/onitsuka-tiger-paris-atelier/",
+      "publishedAt": "2026-08-11T17:53:00.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Onitsuka Tiger Takes Craft to the Champs-Élysées In Paris, Onitsuka Tiger shows us what goes into making good shoes. Located on the famed Champs-Élysées, the brand transformed the exclusive Travellers Club into an open-air atelier for all to observe."
+    },
+    {
+      "id": "70c11d57c462ca3d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Shoe Changed Everything for HOKA. Now, It's Back",
+      "url": "https://www.highsnobiety.com/p/hoka-tor-ultra-2026/",
+      "publishedAt": "2026-08-11T17:12:30.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "This Shoe Changed Everything for HOKA. Now, It's Back HOKA's Tor Ultra Lo shoe almost singlehandedly repositioned HOKA as a cool lifestyle label. Then, it disappeared... until now."
+    },
+    {
+      "id": "061a236fb80a6094",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Why Does Everything Look Like 2000s-era Emo?",
+      "url": "https://www.highsnobiety.com/p/vans-warped-tour-interviews/",
+      "publishedAt": "2026-08-11T15:16:15.000Z",
+      "collectedAt": "2026-08-12T13:20:05.997Z",
+      "text": "Why Does Everything Look Like 2000s-era Emo? Young creatives are referencing the styles & sounds of MySpace & Tumblr circa 2008: the bands, the fashion, the attitude. At Vans Warped Tour, we spoke to them directly."
+    },
+    {
+      "id": "d70eab445f1c0f6d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Crunchyroll Secured Streaming Rights to Makoto Shinkai’s Next Animated Feature",
+      "url": "https://hypebeast.com/2026/8/crunchyroll-makoto-shinkai-upcoming-feature-film-streaming-rights-info",
+      "publishedAt": "2026-08-12T13:12:47.000Z",
+      "collectedAt": "2026-08-12T13:20:07.401Z",
+      "text": "Crunchyroll Secured Streaming Rights to Makoto Shinkai’s Next Animated Feature Crunchyroll has officially secured the worldwide distribution rights (excluding Asia, with the exception of India) for Makoto Shinkai's highly anticipated upcoming feature film. Partnering once again with Sony Pictures Entertainment, the deal ensures that Shinkai’s latest work will reach audiences worldwide through Crunchyroll’s platform, continuing the distributor’s strategy of spotlighting high‑profile anime films.Shinkai, known for acclaimed titles such as Your Name, Weathering With You and Suzume, has built a reputation for blending emotional storytelling with visually stunning animation. His new project is expected to follow in that tradition, offering another deeply resonant narrative that connects personal relationships with larger, fantastical themes. While plot details, official character designs, title and a firm release window remain strictly under wraps, the partnership marks a natural continuation of their successful distribution relationship following Suzume, the director's previous animated feature from 2022. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "eb6164b54b5556d7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "UP THERE and ASICS Go Fluo With the GEL-KAYANO 20 “Safety Yellow”",
+      "url": "https://hypebeast.com/2026/8/up-there-asics-gel-kayano-20-safety-yellow-pure-silver-1203b288-750-release-info",
+      "publishedAt": "2026-08-12T10:35:15.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "UP THERE and ASICS Go Fluo With the GEL-KAYANO 20 “Safety Yellow” Name: UP THERE x ASICS GEL-KAYANO 20 “Safety Yellow”Colorway: Safety Yellow/Pure SilverSKU: 1203B288-750MSRP: $197 USDRelease Date: August 20Where to Buy: UP THEREUP THERE has partnered with ASICS to deliver a vivid iteration of the GEL-KAYANO 20, arriving in a neon-tinged \"Safety Yellow\" colorway.Embracing the local affinity for ultra-bright footwear, this exclusive release is defined by a technically complex gradient effect that fades from its titular fluorescent hue into a crisp white. This color transition spans across the synthetic overlays of the upper and extends continuously down through the dual-layered midsole.The upper incorporates two-tone mesh borrowed from the GEL-KINSEI 4, adding depth and texture, while reflective accents ensure visibility after dark. Crystal-clear GEL™ inserts and an ice outsole further emphasize the shoe’s dynamic aesthetic, balancing performance engineering with standout design.Branding is kept subtle, with UP THERE opting for signature green hits on the lace tips, insole, and GUIDANCE LINE to mark the collaboration. The sneaker’s construction is reinforced with a TRUSSTIC™ shank for stability, while the overall finish highlights ASICS’ technical heritage through a fashion-forward lens. View this post on Instagram Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2e79f3ce0a608ed0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Sony Is Releasing a Limited-Edition ‘Marvel’s Wolverine’ PS5 Bundle",
+      "url": "https://hypebeast.com/2026/8/marvel-wolverine-playstation-5-console-bundle-accessories-limited-edition-release-preorder-info",
+      "publishedAt": "2026-08-12T10:15:58.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "Sony Is Releasing a Limited-Edition ‘Marvel’s Wolverine’ PS5 Bundle Sony has introduced a limited‑edition Marvel’s Wolverine PS5 console and accessories bundle to coincide with the release of Marvel’s Wolverine later this year. The bundle includes a special PS5 Digital Edition console featuring claw‑slash etchings across bold yellow and black faceplates, a DualSense controller with metallic detailing and a Pulse Elite headset carrying the same motif. The design pays homage to Wolverine’s iconic palette, merging comic‑book aesthetics with PlayStation’s hardware.The Marvel’s Wolverine PS5 bundle will launch on September 15, 2026, with pre-orders opening on August 19, 2026, via PlayStation Direct and select global retailers. The PS5 Digital Edition Battle Yellow Bundle is priced just below $650 USD. Individual DualSense wireless controllers - available in both the Battle Yellow and Adamantium designs - are set at around $85 USD each, while standalone console covers for standard PS5 Slim and PS5 Pro models retail for $75 USD. Read more at Hypebeast"
+    },
+    {
+      "id": "9f9142d56d5cac0a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Channing Tatum and Gemma Chan Face Unimaginable Trauma in Gripping 'Josephine' Teaser Trailer",
+      "url": "https://hypebeast.com/2026/8/channing-tatum-gemma-chan-sumerian-pictures-josephine-thriller-teaser-trailer-release-info",
+      "publishedAt": "2026-08-12T04:29:35.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "Channing Tatum and Gemma Chan Face Unimaginable Trauma in Gripping 'Josephine' Teaser Trailer Sumerian Pictures has officially released the first teaser trailer for Josephine, the acclaimed psychological thriller starring Channing Tatum and Gemma Chan. The film marks the directorial effort of writer-director Beth de Araújo and arrives following a competitive seven-figure festival acquisition.Rooted in Araújo’s lived experiences, the work of autobiographical fiction follows parents (Tatum and Chan) who struggle to navigate the aftermath of a traumatic event while supporting their eight-year-old daughter, Josephine (newcomer Mason Reeves), after she witnesses a crime in Golden Gate Park. The production emerged as a major standout at the Sundance Film Festival, where it claimed both the Grand Jury Prize and the Audience Award—a dual achievement previously held by Oscar-winning films such as CODA and Minari.Following its premiere, the feature screened in competition at the Berlin International Film Festival and is set to continue its rollout at the Toronto International Film Festival. The film is produced by Araújo, Tatum, Chan, David Kaplan, Josh Peters, Marina Stabile, Mark H. Rapaport, and Crystine Zhang, with Emanuel Nuñez and Jordan Rapaport serving as executive producers.Josephine officially opens in theaters on November 20. Read more at Hypebeast"
+    },
+    {
+      "id": "2c218ba93becc9fd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HI-TEC HTS74 Unveils FW26 “Sierra ’78” Collection Inspired by Heritage Hiking",
+      "url": "https://hypebeast.com/2026/8/hi-tec-hts74-fw26-collection-release-info",
+      "publishedAt": "2026-08-12T09:45:06.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "HI-TEC HTS74 Unveils FW26 “Sierra ’78” Collection Inspired by Heritage Hiking Summary HI-TEC HTS74's “Sierra ’78” FW26 Collection celebrates outdoor heritage with apparel and footwear.Staged across desert, snow and alpine studio environments, the collection highlights reversible apparel, technical fabrics, and Vibram-outsole sneakers. HI-TEC HTS74’s Fall/Winter 2026 collection takes inspiration from the brand’s outdoor heritage, specifically the original Sierra Sneaker introduced in 1978. Titled \"Sierra ’78,\" the collection blends technical innovation with lifestyle design, translating mountain landscapes and rugged terrains into contemporary apparel and footwear. The campaign presents each footwear drop in immersive studio landscapes, reflecting desert, snow, and alpine environments through a clean, modern visual approach.The clothing range balances technical performance with daily wearability through durable fabrics, relaxed silhouettes and practical functional detailing designed for effortless movement. A defining feature of the collection is its emphasis on reversible construction, giving wearers two distinct aesthetic options within a single garment to highlight the brand's commitment to versatile, adaptable design.The footwear lineup revisits the Sierra’s iconic color palette and hiking aesthetic, reimagined for modern everyday use. Built with Vibram outsoles to support natural foot movement and reduce fatigue, the shoes balance performance with lifestyle appeal. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "cfce4ba376f57481",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "atmos Applies a Glow-in-the-Dark Finish to the adidas Adizero Evo SL",
+      "url": "https://hypebeast.com/2026/8/atmos-adidas-evo-sl-g-snk-first-look-hirofumi-kojima-info",
+      "publishedAt": "2026-08-12T09:40:23.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "atmos Applies a Glow-in-the-Dark Finish to the adidas Adizero Evo SL Name: atmos x adidas Evo SL “G-SNK”SKU: TBCRelease Date: TBCatmos director Hirofumi Kojima offered a first glimpse into the upcoming atmos x adidas Adizero Evo SL “G-SNK” sneaker. Teased on his personal Instagram, the collaborative silhouette appears to be based on adidas' Adizero Evo SL silhouette. The model, originally celebrated for its lightweight performance and speed-focused engineering, is reimagined with a glow-in-the-dark finish.Based on the visuals, the shoe should maintain a sleek appearance under normal lighting conditions. The glowing overlays integrate perfectly with the classic adidas Three Stripes branding, ensuring the collaborative identity remains front and center day or night. No official release window has been confirmed at the time of writing, but fans have speculated a late 2026 release. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3c37cf89baf13b24",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Moncler Gears up for FW26 With an Extensive Footwear Collection",
+      "url": "https://hypebeast.com/2026/8/moncler-fall-winter-2026-footwear-collection-info",
+      "publishedAt": "2026-08-12T09:13:02.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "Moncler Gears up for FW26 With an Extensive Footwear Collection Summary Moncler’s FW26 footwear collection blends alpine heritage with utilitarian luxury design.Collaborations feature Clarks, Moon Boot and Rick Owens’ avant-garde Trailgrip Megalace.In-house releases expand the Trailgrip franchise alongside winter-ready shearling Peak boots. Moncler’s Fall/Winter 2026 Footwear Collection introduces a new chapter of exploration that merges the brand's rugged alpine heritage with utilitarian luxury design. Inspired by the dynamic relationship between towering mountains and the bustling metropolis, the seasonal lineup translates authentic outdoor DNA into refined silhouettes built for everyday urban adventures.Highlighting the collection are several high-profile collaborations that push the boundaries of traditional footwear. The Moncler + Clarks Originals Trailgrip Wallabee CTX transforms the legendary Wallabee into a weather-ready performer, outfitting the timeless suede upper with a breathable, waterproof GORE-TEX lining and Moncler’s signature Trailgrip Vibram® rubber sole.Pushing into avant-garde territory, the Moncler + Rick Owens Trailgrip Megalace fuses technical padded nylon and leather with a dramatic rear-lacing system and sculptural collar, offering a subversive take on the outdoor sneaker. Additionally, the Moon Boot x Moncler Grenoble Icon High Rodeo, which recently debuted in Aspen, merges the technical functionality of a snow boot with the distinct spirit and embroidered suede detailing of a classic cowboy boot.Rounding out the seasonal offerings, Moncler expands its in-house lineup with performance-driven updates and luxurious winter footwear. The signature Trailgrip franchise receives rugged new iterations - including the Trailgrip GTX, Lite3, Apex GTX and Craft - which utilize premium suede, OrthoLite® insoles, carbon-fiber components and Vibram traction for superior all-terrain comfort and stability.For colder climates, the brand introduces the Peak Snowcap and the women's Peak Après, both of which feature plush shearling, nappa leather, and Merino wool to provide exceptional warmth and sophistication across icy landscapes. Meanwhile, the all-new Vera boot series and the archival-inspired Altive Mid deliver versatile, weather-resistant luxury tailored perfectly for modern winter living. Launches span from early September through late November, with select models available now via Moncler boutiques, website and authorized retailers. Click he"
+    },
+    {
+      "id": "36b316a1d8ae4612",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Netflix Drops First Teaser for Webtoon-Based Thriller ‘Mousetrap’",
+      "url": "https://hypebeast.com/2026/8/netflix-mousetrap-webtoon-live-action-series-teaser-release-info",
+      "publishedAt": "2026-08-12T09:11:54.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "Netflix Drops First Teaser for Webtoon-Based Thriller ‘Mousetrap’ Summary Netflix released the teaser for 'Mousetrap,' an upcoming webtoon-adapted live-action thriller series.Ryu Jun-yeol stars as a reclusive writer whose identity is stolen by an anonymous stalker.Directed by Kim Jin-min, all episodes premiere globally on August 28, 2026. Netflix has officially released the first teaser trailer for Mousetrap (also known as Deuljwi in Korea), an upcoming live-action thriller series adapted from the popular webtoon of the same name.Directed by Kim Jin-min, the high-stakes suspense drama revolves around Je Moon-jae (played by Ryu Jun-yeol), a reclusive genius writer known only by a pen name whose quiet, routine life is completely shattered when an anonymous stalker calling himself \"The Rat\" steals his identity. As his bank accounts are locked out, his phone service is disconnected, and the imposter takes over his life, Moon-jae is thrust into a psychological game where he is forced to prove his own existence while uncovering the mysterious figure intent on taking everything he owns.The teaser video provides a tense preview of the chaotic identity theft and psychological unraveling driving the narrative, showcasing intense chases, high-stress police confrontations, and moody urban visuals. Netflix has confirmed that all episodes of Mousetrap will premiere globally on August 28, 2026, marking another major webtoon-based addition to the platform's expanding Korean thriller slate.‘손톱 먹은 들쥐’ 이야기처럼 어느 날 나타난 ‘의문의 들쥐’에게 나의 모든 것을 빼앗겼다. 이름, 얼굴, 인생까지.내가 나를 증명해야만 하는 미스터리 추적 스릴러.넷플릭스 시리즈 <들쥐>, 8월 28일 공개. 오직 넷플릭스에서. pic.twitter.com/YqYOeZx5Sq&mdash; Netflix Korea｜넷플릭스 코리아 (@NetflixKR) July 31, 2026 Read more at Hypebeast"
+    },
+    {
+      "id": "d102c634e0edf712",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nicholas Hoult Cast as Gilderoy Lockhart in HBO's 'Harry Potter' Season 2",
+      "url": "https://hypebeast.com/2026/8/nicholas-hoult-cast-gilderoy-lockhart-hbo-harry-potter-season-2-revealed",
+      "publishedAt": "2026-08-12T04:47:53.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "Nicholas Hoult Cast as Gilderoy Lockhart in HBO's 'Harry Potter' Season 2 Summary Nicholas Hoult has been cast as Gilderoy Lockhart in the second season of HBO’s 'Harry Potter' TV seriesSeason 1 of the adaptation is set to debut on December 25 on HBO and MaxSeason 2 will adapt Harry Potter and the Chamber of Secrets with filming scheduled to start this fall HBO has tapped Nicholas Hoult to play Gilderoy Lockhart in the second season of its upcoming Harry Potter television series. The casting news arrives ahead of the show's initial premiere on HBO and Max.The second season will adapt J.K. Rowling’s Harry Potter and the Chamber of Secrets, introducing the vain and deceptively heroic Defense Against the Dark Arts professor originally portrayed by Kenneth Branagh in the 2002 feature film. Hoult joins an ensemble cast that includes Dominic McLaughlin as Harry Potter, Arabella Stanton as Hermione Granger, Alastair Stout as Ron Weasley, John Lithgow as Dumbledore, Janet McTeer as McGonagall, Paapa Essiedu as Snape, and Nick Frost as Hagrid.Production for Season 2 is set to begin this fall. Jon Brown joins series developer Francesca Gardiner as co-showrunner, with Mark Mylod directing and executive producing alongside Rowling, Neil Blair, Ruth Kenley-Letts, and David Heyman for Warner Bros. Television.Season 1 of Harry Potter officially debuts on December 25 on HBO and Max. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3cd425a54e3618c4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tesla Reveals First Physical Cybercab Prototype With Built-In Starlink V5 Integration",
+      "url": "https://hypebeast.com/2026/8/tesla-cybercab-debuts-with-integrated-starlink-v5",
+      "publishedAt": "2026-08-12T08:16:00.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "Tesla Reveals First Physical Cybercab Prototype With Built-In Starlink V5 Integration Summary Tesla revealed a gold-painted Cybercab prototype at Giga Texas featuring a Starlink V5 dish integrated into the rear roof.The integrated dish delivers speeds exceeding 375 Mbps, enabling 4K streaming, productivity tasks, and gaming for passengers. Tesla officially revealed the first physical Cybercab equipped with built-in Starlink internet. The company transitioned from digital renderings teased last month to real-world hardware when its dedicated robotaxi account posted images of a gold-painted prototype parked outside Gigafactory Texas. The vehicle features a low-profile satellite dish mounted flush within the rear roof panel. The seamless aesthetic integration maintains the car's minimalist exterior while fundamentally shifting how autonomous fleets secure data access on the move.The physical arrival of this technology signals a deeper operational synergy between Elon Musk’s automotive and aerospace ventures. Hardware specifications point to the newly launched Starlink V5 dish. The receiver is capable of download rates exceeding 375 Mbps. High-speed data opens the door for premium in-car digital experiences. Passengers can stream 4K video, handle productivity tasks or game seamlessly while the vehicle navigates to their destination.First Cybercab with @Starlink integration pic.twitter.com/8TI6LYSFjl— Tesla Robotaxi (@robotaxi) August 10, 2026Questions immediately surfaced regarding the necessity of a satellite connection for a self-driving car. The Cybercab relies entirely on Tesla’s onboard AI4 computer to navigate streets without human input. An active internet connection is never required for safe driving operations. Tesla Vice President of AI Software Ashok Elluswamy clarified that the satellite link serves secondary functions. The robust connection provides a critical backbone for fleet management, remote customer service and real-time navigation updates.Current robotaxi testing focuses heavily on dense urban markets like Austin and Miami where traditional cellular coverage remains strong. Adding a satellite terminal to a $30,000 vehicle introduces extra cost and weight to the production line. However, the hardware ensures total connectivity in rural dead zones where 5G or LTE signals drop out completely.The hardware deployment signals a much broader strategy across the entire automotive lineup. Musk recently stated that all future Tesla models will event"
+    },
+    {
+      "id": "d93652ca36a60dbb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "YouTube Doubles Partner Program Requirements Starting February 2027",
+      "url": "https://hypebeast.com/2026/8/youtube-partner-program-doubles-watch-hours-for-2027",
+      "publishedAt": "2026-08-12T08:33:58.000Z",
+      "collectedAt": "2026-08-12T13:20:07.402Z",
+      "text": "YouTube Doubles Partner Program Requirements Starting February 2027 Summary YouTube is doubling the eligibility requirements for new creators to join its Partner Program, requiring 8,000 watch hours or 20 million Shorts views starting February 1, 2027.Existing partners are grandfathered into the program but must maintain a rolling threshold of 10 million Shorts views every 90 days to continue receiving revenue from the Shorts feed. YouTube announced it will significantly raise the bar for monetization to keep pace with platform growth. The Google-owned company is making its most significant adjustments to the YouTube Partner Program since 2018. New applicants will still need 1,000 subscribers to qualify. However, the required qualified watch hours over the past year will increase from 4,000 to 8,000 and the required Shorts views over 90 days will jump from 10 million to 20 million. These stricter entry thresholds officially take effect on February 1, 2027.The video giant cited massive consumption metrics as the catalyst for the updated barrier to entry. The platform currently registers over 200 billion daily Shorts views and more than one billion hours of daily watch time on televisions. By raising the threshold, YouTube puts heavier pressure on emerging creators to prove they can consistently draw large audiences before unlocking programmatic ad revenue. This shift marks a reversal from the company's recent strategy of lowering barriers to attract smaller talent.While the changes make it more difficult for new entrants to access ad revenue, existing program members remain unaffected for long-form content but face new performance mandates. All current partners must maintain 10 million Shorts views over a rolling 90-day window to remain eligible for revenue sharing from the short-form feed. Channels dropping below that mark will see their Shorts revenue paused until they cross the threshold again.Alongside the tightened requirements, YouTube is expanding its Premium Lite subscription tier to all global markets where the standard service operates. The ad-light tier funnels 60% of its net revenue into a dedicated creator pool compared to 30% from standard subscriptions. Payouts are distributed based on member watch time, with creators retaining 55% of revenue for long-form videos and 45% for Shorts.Company leadership noted that subscribers typically generate more revenue for partners than ad-supported viewers. The platform anticipates paying out more total mo"
+    },
+    {
+      "id": "8f8203f1882c54bd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Why London’s Most Exclusive Clubs Are Banning Meta’s Wearable Tech",
+      "url": "https://hypebeast.com/2026/8/meta-smart-glasses-face-widespread-uk-venue-bans",
+      "publishedAt": "2026-08-12T07:50:58.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "Why London’s Most Exclusive Clubs Are Banning Meta’s Wearable Tech Summary Major United Kingdom hospitality chains and entertainment venues are restricting or banning the use of Meta smart glasses on their premises.Proprietors cite concerns over covert surveillance and the violation of guest privacy as the primary reasons for the crackdown on camera-equipped eyewear. The rollout of camera-equipped wearable tech is hitting a major roadblock in the UK. Venues ranging from high-end London dining rooms to massive pub chains are adapting their house rules to ban Meta smart glasses. The resistance highlights a growing cultural conflict between modern lifestyle technology and public privacy expectations. While the hardware offers hands-free livestreaming and point-of-view content creation, hospitality leaders are drawing a hard line against the potential for covert recording in social spaces.Wetherspoons stands as one of the largest chains enforcing the restriction across its 800 locations in England and Ireland. Founder Tim Martin stated that the devices breach the general code against filming customers and employees without direct permission. He described the ban as a common-sense approach to protecting personal space from surreptitious surveillance. The chain equates the discreet recording capabilities to the disruptive audible playing of videos, asserting that patrons caught using the smart glasses will be violating fundamental pub rules.The crackdown extends well into the premium hospitality sector. Renowned restaurateur Jeremy King has instituted a complete ban across his high-profile London establishments, including Arlington, The Park and Simpsons in the Strand. King emphasized his stance against any invasion of guest privacy that extends beyond natural eyesight. Private members' club Soho House implemented similar restrictions and now asks patrons to remove the hardware entirely. The shared sentiment across these distinct tiers of hospitality underscores a widespread rejection of normalized surveillance in dining environments.Entertainment operators are also joining the movement to protect attendee privacy. ATG Theatres requires guests to remove the frames during performances and Monopoly Events instituted an outright ban at its Comic-Con gatherings following complaints of nonconsensual filming. Meta maintains that the Ray-Ban smart glasses include built-in safety features like a flashing LED indicator light that activates during recording. The tech gian"
+    },
+    {
+      "id": "2770a63a5efe4981",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tesla Design Chief Stands by “Very Soon” Release Schedule for Next-Gen Roadster",
+      "url": "https://hypebeast.com/2026/8/tesla-roadster-delay-continues-despite-very-soon-tease",
+      "publishedAt": "2026-08-12T08:08:08.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "Tesla Design Chief Stands by “Very Soon” Release Schedule for Next-Gen Roadster Summary Tesla design chief Franz von Holzhausen teased a \"very soon\" launch for the next-gen Roadster after years of missed production targets.Despite holding $250,000 USD Founders Series deposits since 2017, volume production is unlikely to start before 2027 or 2028. Tesla design chief Franz von Holzhausen reaffirmed a highly ambiguous \"very soon\" timeline for the upcoming next-generation Roadster. The executive made the claim during a recent appearance on Jay Leno’s Garage while showcasing his custom V8-swapped Pontiac Solstice. When pressed by Leno regarding the actual status of the long-awaited electric supercar, von Holzhausen doubled down on the vague release window. The unyielding response prompted the former late-night host to dryly note that the highly touted vehicle has been in active development for just shy of a decade.First revealed to the public in November 2017, the disruptive electric hypercar has missed countless production and demonstration targets. The brand originally promised to begin building the vehicle by 2020. That deadline slipped to 2022, then 2023 and subsequently 2024. CEO Elon Musk recently established a demonstration date of April 2026 before shifting expectations once again to August. Current reports indicate that the overarching aesthetic design is complete, but integrating an optional SpaceX cold gas thruster system remains a formidable technical hurdle. Internally dubbed A71, this aerospace hardware is intended to deliver unprecedented acceleration alongside potential vertical lift capabilities. The thruster package simply was not ready for a spring showcase.Continuous engineering delays highlight a broader operational reality for the pioneering automaker, where ambitious performance promises frequently outpace actual manufacturing timelines. Despite repeated setbacks over the years, Tesla maintains the exact same original hardware specifications for the base model. The aggressive initial pitch includes a zero to 60 mph launch in 1.9 seconds, a 250 mph top speed and a staggering 620 miles of driving range per charge. Pricing currently sits at $200,000 for the standard variant.Early adopters continue to shoulder the most significant financial burden of this drawn-out development process. Enthusiastic reservation holders for the limited Founders Series put down $250,000 deposits nearly nine years ago. These loyal supporters have watched their su"
+    },
+    {
+      "id": "29577c8d9702c6b2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
+      "url": "https://hypebeast.com/2026/8/apple-reference-image-verifies-iphone-photos-in-ios-27",
+      "publishedAt": "2026-08-12T07:45:50.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos Summary Apple's iOS 27 beta 5 code reveals a hardware-level feature designed to cryptographically prove photos originated from an authentic iPhone sensor.Capturing images in a dedicated Reference mode embeds unique hardware telemetry, verified privately via Private Cloud Compute without exposing raw photos. Synthetic imagery continues to blur the lines of reality across the digital landscape. Apple is quietly building a hardware-level countermeasure to combat generative fakes. Unearthed in the recent iOS 27 beta 5 release, the tech giant is developing a system called Apple Reference Image. The upcoming feature aims to provide cryptographic proof that a photograph originated from a genuine iPhone camera sensor rather than an artificial intelligence generator.Getting the provenance data requires deliberate action from the photographer. Users must enable a dedicated Reference mode within the camera settings before snapping a picture. Shooting normally leaves out the necessary hardware-tied metadata. The specialized capture method embeds unique sensor information directly into the file to establish a verifiable baseline for authenticity.Authentication does not happen automatically. Photographers choose when to verify their captures. The system leverages Private Cloud Compute to handle the heavy lifting without compromising user privacy. The raw image never reaches Cupertino servers. The phone transmits only the required sensor telemetry and metadata for validation. The cloud network cross-references the sensor data and assigns the photo a unique digital ID. If a specific camera component is later flagged as compromised, Apple retains the ability to revoke previous authentications to maintain systemic integrity.Sharing verified media extends the chain of trust to other users. Anyone receiving an authenticated photograph via AirDrop or Messages can locally check its validity on their own device. The sender retains control over how much provenance data transfers alongside the file. A new Transfer with Provenance option also exists for hardwired USB exports to Mac or PC setups. This ensures the digital paper trail survives the jump from mobile to desktop environments.The initiative arrives as tech leaders scramble to label synthetic content. Google previously rolled out SynthID watermarking for generated media. Meta currently struggles to accurately flag manipulated images acro"
+    },
+    {
+      "id": "9085ccae58501dfe",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Norse Projects Blends Nature and Architecture for FW27",
+      "url": "https://hypebeast.com/2026/8/norse-projects-fw27-lookbook",
+      "publishedAt": "2026-08-12T05:09:32.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "Norse Projects Blends Nature and Architecture for FW27 Summary Norse Projects has presented its Autumn/Winter 2027 collection through a campaign shot in Heatherhill DenmarkCaptured by Billy Barraclough the editorial highlights the relationship between classic Danish architecture and the coastal environmentThe range blends heritage and innovative fabrics designed for both city and countryside environments Norse Projects has officially unveiled its Fall/Winter 2027 collection, showcasing the new seasonal range through a visual campaign set in Heatherhill, Zealand, Denmark. Photographed by Billy Barraclough, the editorial frames the Copenhagen-based label's utilitarian design ethos against preserved coastal slopes and glacial terrain.Set among the peaks, valleys, and seaside cliffs of the northern Zealand nature reserve, the campaign highlights the dialogue between the natural world and the built environment. Featuring a coastal property built with classic Danish materials that integrate seamlessly into the surrounding landscape, the visuals mirror the brand's ongoing commitment to functional, environment-aware design.The collection itself combines heritage textiles with modern technical innovations. Engineered to withstand exposed weather conditions along the coast while remaining tailored for daily urban wear, the garments adhere to the brand's founding maxim: \"Created for Life — Good for All Seasons.\"The Norse Projects FW27 collection will roll out during the Autumn/Winter 2027 season. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1de272de887c92fe",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The 208-MPH Roofless Supercar: Eccentrica Restomod Breaks Cover",
+      "url": "https://hypebeast.com/2026/8/eccentrica-v12-roadster-lamborghini-diablo-restomod-details",
+      "publishedAt": "2026-08-12T07:18:00.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "The 208-MPH Roofless Supercar: Eccentrica Restomod Breaks Cover Summary Eccentrica unveiled the V12 Roadster, a carbon-fiber, open-top re-engineering of the first-series Lamborghini Diablo.It features a 550-hp naturally aspirated 5.7-liter V12 mated to a six-speed gated manual transmission.Only 19 bespoke units engineered by former Lamborghini CTO Maurizio Reggiani will be produced. Eccentrica is proving that raw 1990s nostalgia hits best without a roof. Ahead of its official public debut at The Quail, A Motorsports Gathering on August 14, 2026, the San Marino-based restomod outfit unveiled its latest creation: the Eccentrica V12 Roadster.Conceptualized alongside Milan’s Borromeo De Silva design studio, the open-top build serves as an uncompromised, ground-up re-engineering of the first-series Lamborghini Diablo. Every single vehicle incorporates over 3,500 bespoke components, transforming the raw poster car of the era into an elemental, driver-focused machine. Led by former Lamborghini CTO Maurizio Reggiani - the legendary architect behind the Murciélago, Aventador and Huracán - Eccentrica’s engineering team completely reshaped the Diablo’s original silhouette. The bodywork is constructed entirely from carbon fiber over a steel spaceframe, featuring a widened track and recalibrated proportions. Beneath the panels, structural carbon fiber reinforcements stiffen the chassis for the open-top application, paired with double wishbone suspension, custom semi-active dampers, hydraulic rack-and-pinion steering, and a high-performance Brembo braking setup.Mechanical upgrades target raw performance and driving engagement. Power comes from an altered 5.7-liter engine that delivers 550 horsepower and 443 pound-feet of torque. The powertrain receives redesigned thermal management systems and optimized airflow efficiency. Custom ECU mapping sharpens throttle response to suit aggressive driving styles. Drivers manage the immense power delivery through a traditional six-speed gated manual gearbox. The lack of a roof does not compromise ultimate velocity. The supercar reaches a tested top speed of 208 mph.Handling characteristics receive equal attention from the engineering team. The reinforced chassis pairs with semi-active dampers to modernize the suspension geometry. Hydraulic power steering replaces older systems to provide precise feedback on modern roads. An updated braking setup ensures the heavy vehicle remains controllable at high speeds. Only 19 examples of the "
+    },
+    {
+      "id": "ed8ebcbfad1664d6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "KSUBI Channels Roadside Americana With Fall 2026 “Strangers in Paradise”",
+      "url": "https://hypebeast.com/2026/8/ksubi-fall-2026-collection-strangers-in-paradise-release-info",
+      "publishedAt": "2026-08-12T07:13:17.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "KSUBI Channels Roadside Americana With Fall 2026 “Strangers in Paradise” Summary KSUBI Fall 2026 “Strangers in Paradise” collection draws on roadside Americana grit.The range highlights resin-dipped denim, Western tailoring, tomboy silhouettes and Y2K-inspired elements.Available now via the brand's online store and physical flagships around the world. KSUBI’s Fall 2026 collection, titled “Strangers in Paradise,” builds on the brand’s rebellious DNA with a narrative rooted in roadside Americana. Inspired by motels, racetracks and backroom gyms, the collection is grounded in a raw contrast of grit and glamour. It evokes a spirit of polished resistance, blending distressed textures with refined Western tailoring and sport-inspired silhouettes built for outsiders on the move.The menswear range channels boxing gyms and amateur speed culture, with distressed denim, resin-dipped finishes and archival hand-sketched artwork dominating the apparel. Heavy hardware is offset by flocked velvets and fur, while motor patches and oil-washed textures reinforce the collection’s lived-in aesthetic. Meanwhile for womenswear, the collection leans into Western pointed yokes, low-slung tomboy denim, laced mini skirts and Y2K-inspired eveningwear that transitions effortlessly from street to club.The \"Strangers in Paradise\" collection is currently available to shop via KSUBI's website as well as physical flagship stores in New York, Los Angeles, Miami, Chicago, Sydney and Melbourne. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "83d7327abae78454",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Assassin's Creed' Creator's '1666: Amsterdam' Sets Early Access Release Date",
+      "url": "https://hypebeast.com/2026/8/assassins-creed-creator-1666-amsterdam-sets-early-access-release-date",
+      "publishedAt": "2026-08-12T04:40:37.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "'Assassin's Creed' Creator's '1666: Amsterdam' Sets Early Access Release Date Summary Panache Digital Games has officially announced an Early Access release date for '1666: Amsterdam'Created by 'Assassin’s Creed' lead Patrice Désilets the dark narrative game centers on hunting demonic entities across 17th-century AmsterdamThe initial Early Access edition launches August 25 on PC via Steam and the Epic Games Store for $29.99 USD Panache Digital Games has officially set the Early Access release for its upcoming third-person action-adventure title, 1666: Amsterdam. The dark narrative game comes from Assassin’s Creed series creator Patrice Désilets.In 1666: Amsterdam, players step into the role of Noa, \"the Collector,\" who wields witchcraft to uncover \"Originals\"—demonic entities hiding behind human faces. The narrative follows Noa’s Commencement as she inherits the mantle of the Collector and unravels a mystery spanning centuries across a city shaped by secrets, power, and memory.The Early Access version includes the first piece of the campaign, which is expected to offer approximately 15 hours of gameplay. Key mechanics showcase a dynamic day and night cycle, companion choices, and distinct playing styles for lead characters Noa and Aaron as they hunt targets across Amsterdam.1666: Amsterdam drops in Early Access on August 25, 2026, for $29.99 USD via Steam and the Epic Games Store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "294a4db8e30e2976",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NEIGHBORHOOD Brings Attitude to Sanders’ Classic Brit Chukka Boots",
+      "url": "https://hypebeast.com/2026/8/neighborhood-sanders-brit-chukka-brown-black-261glsdn-fw01s-collaboration-release-info",
+      "publishedAt": "2026-08-12T04:50:18.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "NEIGHBORHOOD Brings Attitude to Sanders’ Classic Brit Chukka Boots Name: NEIGHBORHOOD x Sanders Brit Chukka BootColorway: Black, BrownSKU: 261GLSDN-FW01SMSRP: $808 USDRelease Date: August 15Where to Buy: NEIGHBORHOODNEIGHBORHOOD and Sanders have reunited for their third collaborative offering. Based on Sanders’ classic Brit Chukka silhouette, this new iteration is crafted from premium cow leather, waxed for durability, complete with a polished finish. It comes with a protective mudguard construction that reinforces its utilitarian edge, while the robust sole unit ensures long-lasting wear.Releasing in classic black and brown colorways, the design maintains a refined profile but introduces subtle streetwear cues that distinguish it from the original heritage model. Branding is understated yet intentional. The toe is stamped with NEIGHBORHOOD’s signature “FILTH / FURY” lettering, while the inner side features an embossed logo, adding a bold but discreet identity marker.&nbsp;View this post on Instagram&nbsp;A post shared by NEIGHBORHOOD®︎ (@neighborhood_official) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e35d8ef433de3a65",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Seiko and TRADMAN’S BONSAI Recreate the Texture of Aged Pine Bark on a Presage Dial",
+      "url": "https://hypebeast.com/2026/8/seiko-presage-classic-series-tradmans-bonsai-limited-edition-hcc009-release-info",
+      "publishedAt": "2026-08-12T04:13:05.000Z",
+      "collectedAt": "2026-08-12T13:20:07.403Z",
+      "text": "Seiko and TRADMAN’S BONSAI Recreate the Texture of Aged Pine Bark on a Presage Dial Summary Seiko teams up with TRADMAN’S BONSAI for a 2,000-piece Presage Classic Series watch collaboration.Housed in a gold-tone case, the timepiece sports a deep Matsuba-Iro green dial with an aged pine-bark texture.Available for pre-order now with deliveries beginning in September. Seiko has partnered up with TRADMAN’S BONSAI for a collaborative timepiece, unveiling the Seiko Presage Classic Series x TRADMAN’S BONSAI Limited Edition. The collective, known for blending horticultural tradition with contemporary design, lends its vision to this timepiece, making it a rare expression of Japanese craftsmanship.aesthetic concept draws direct inspiration from the crescent-shaped \"moon\" pot - a classic bonsai vessel symbolizing harmony and balance - capturing the serene imagery of a black pine illuminated under moonlight. The dial is executed in Matsuba-Iro, a rich, deep green shade derived from pine needles that historically signifies longevity, resilience and immortality.To impart texture and character, a newly developed embossed pattern coats the dial face, replicating the rugged, tactile surface of aged pine bark. Framing this display beneath a dual-curved sapphire crystal, elegantly curved hands sweep across the textured face, set against a gold-colored plated case and matching bracelet. An additional strap embossed with a traditional three-pronged pine pattern is also included to further emphasize the watch’s connection to nature.At the heart of the timepiece is Seiko's in-house 6R51 automatic movement, which operates with a daily accuracy rating of +25/-15 seconds and offers around three days of power reserve. Retailing at £1,250 GBP (approx. $ 1,688 USD) and limited to 2,000 units, the Presage Classic Series x TRADMAN’S BONSAI timepiece is now available for pre-order via Seiko Boutique website, with deliveries beginning in September, 2026. Click here to view full gallery at Hypebeast"
     }
   ]
 }
