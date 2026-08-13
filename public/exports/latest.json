@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-12",
+    "id": "2026-08-13",
     "mode": "live",
-    "displayDate": "AUG 12, 2026, 09:20 AM EDT",
-    "generatedAt": "2026-08-12T13:20:08.662Z",
-    "itemsCollected": 56,
+    "displayDate": "AUG 13, 2026, 09:22 AM EDT",
+    "generatedAt": "2026-08-13T13:22:23.913Z",
+    "itemsCollected": 62,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 28
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 15
+        "count": 17
       },
       {
         "source": "Hypebeast",
@@ -30,44 +30,44 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 50,
-      "confidence": 52,
-      "youthRelevance": 79,
-      "direction": "flat",
+      "score": 44,
+      "confidence": 48,
+      "youthRelevance": 52,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 4 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +0% seven-day velocity",
+      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
       "citations": [
-        {
-          "title": "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
-          "source": "Hypebeast",
-          "date": "Aug 12",
-          "url": "https://hypebeast.com/2026/8/apple-reference-image-verifies-iphone-photos-in-ios-27"
-        },
         {
           "title": "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
           "source": "Vogue",
           "date": "Aug 10",
           "url": "https://www.vogue.com/slideshow/hot-not-heavy-how-sson-addressed-the-climate-crisis-with-charm-and-candor"
+        },
+        {
+          "title": "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
+          "source": "Hypebeast",
+          "date": "Aug 12",
+          "url": "https://hypebeast.com/2026/8/apple-reference-image-verifies-iphone-photos-in-ios-27"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "4 mentions this week versus 4 in the prior seven-day window."
+    "reason": "3 mentions this week versus 5 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0812",
+    "code": "AUTO 0813",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
-      "Climate Crisis: How Sson Addressed the Topic With Charm and Candor"
+      "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
+      "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos"
     ]
   }
 }

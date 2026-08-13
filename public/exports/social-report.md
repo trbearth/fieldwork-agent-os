@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-08-12
+# Fieldwork Public Pulse — 2026-08-13
 
 ## 1. Quiet performance
 
@@ -22,17 +22,9 @@
 - [Anime-inspired green DTF PNG design, perfect for t-shirts, hoodies, and custom apparel printing. Hig](https://mastodon.social/@vectorency/116466757522085063) — Mastodon
 - [Trendy pop singer–inspired shirt design in DTF and sublimation format, perfect for t-shirts, hoodies](https://mastodon.social/@vectorency/116455423727056804) — Mastodon
 
-## 3. Washed tailoring
-
-**emerging · score 19 · confidence 42% · youth 46%**
-
-1 public posts · 1 network · 7-day comparison
-
-- [The designer put forward tracksuits and sharp tailoring for her first menswear collection at the sto](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-Z2O4FURgRKqrXHUqnZRRVA%3Aa%3A4091604380-%2F0) — Mastodon
-
 ## Network status
 
-- **mastodon:** ready — 20 observations
+- **mastodon:** ready — 19 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

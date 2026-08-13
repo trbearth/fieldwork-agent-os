@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-08-12",
+    "id": "social-2026-08-13",
     "mode": "live",
-    "generatedAt": "2026-08-12T13:20:19.375Z",
-    "postsCollected": 20,
+    "generatedAt": "2026-08-13T13:22:36.096Z",
+    "postsCollected": 19,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -71,30 +71,13 @@
           "network": "Mastodon"
         }
       ]
-    },
-    {
-      "id": "washed-tailoring",
-      "name": "Washed tailoring",
-      "stage": "emerging",
-      "score": 19,
-      "confidence": 42,
-      "youthRelevance": 46,
-      "velocity": -67,
-      "evidence": "1 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "The designer put forward tracksuits and sharp tailoring for her first menswear collection at the sto",
-          "url": "https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-Z2O4FURgRKqrXHUqnZRRVA%3Aa%3A4091604380-%2F0",
-          "network": "Mastodon"
-        }
-      ]
     }
   ],
   "networkStatus": [
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "20 observations"
+      "reason": "19 observations"
     },
     {
       "id": "bluesky",
