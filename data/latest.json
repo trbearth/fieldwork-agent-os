@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-13",
+    "id": "2026-08-14",
     "mode": "live",
-    "displayDate": "AUG 13, 2026, 09:22 AM EDT",
-    "generatedAt": "2026-08-13T13:22:23.913Z",
-    "itemsCollected": 62,
+    "displayDate": "AUG 14, 2026, 09:16 AM EDT",
+    "generatedAt": "2026-08-14T13:16:38.456Z",
+    "itemsCollected": 58,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 17
+        "count": 19
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 44,
-      "confidence": 48,
+      "score": 45,
+      "confidence": 47,
       "youthRelevance": 52,
       "direction": "down",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
+      "whyNow": "3 mentions this week versus 4 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · -25% seven-day velocity",
       "citations": [
         {
           "title": "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
@@ -55,14 +55,14 @@
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "3 mentions this week versus 5 in the prior seven-day window."
+    "reason": "3 mentions this week versus 4 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0813",
+    "code": "AUTO 0814",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [

@@ -591,6 +591,38 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-14",
+      "mode": "live",
+      "displayDate": "AUG 14, 2026, 09:16 AM EDT",
+      "generatedAt": "2026-08-14T13:16:38.456Z",
+      "itemsCollected": 58,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 19
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 45,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -9536,6 +9568,644 @@
       "publishedAt": "2026-08-13T06:18:21.000Z",
       "collectedAt": "2026-08-13T13:22:22.654Z",
       "text": "STUDIOUS Readies An Exclusive NEEDLES Tracksuit Capsule Summary NEEDLES x STUDIOUS have unveiled a new capsule, reimagining the Track Jacket and HD Track Pant in a specialized polyester that mimics the look of nylon.Available now via STUDIOUS' webstore, followed by physical retail drops across Japan. Following up on NEEDLES and STUDIOUS' recent joint releases including the Western-inspired \"Poly Double Cloth\" capsule and the seasonal Poly Smooth tracksuit drop, the two brands have joined hands once more for a special seasonal capsule.For this exclusive drop, Nepenthes founder Keizo Shimizu reimagines two of the label's staple silhouettes using a specialized polyester material engineered to mimic the look and structural weight of woven nylon. The range centers on two key styles: the classic Track Jacket and the signature balloon-cut H.D. Track Pant, both executing an elevated, understated aesthetic. Offered in sleek black and versatile khaki colorways, the capsule applies a clean, minimalist treatment to the brand's signature Papillon sportswear.The new collaborative pieces are now available to shop cia STUDIOUS' online store followed by a sequential drop across the brand's physical locations in Tokyo, Nagoya and Osaka. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "32293a005ab6df80",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Stars of London’s West End Hop a Chic Train (Reimagined by Baz Luhrmann and Catherine Martin) for an Opulent Fashion Trip",
+      "url": "https://www.vogue.com/article/baz-luhrmann-catherine-martin-reimagined-train-fashion",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.105Z",
+      "text": "The Stars of London’s West End Hop a Chic Train (Reimagined by Baz Luhrmann and Catherine Martin) for an Opulent Fashion Trip Brian Cox, Letitia Wright, Josephine Thiesen, Luke Thompson, Sadie Soverall, Harriet Walter, and more take the glamorous journey of a lifetime."
+    },
+    {
+      "id": "59ce7de9625e5ec4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Albums of 2026—So Far",
+      "url": "https://www.vogue.com/article/best-albums-of-2026",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "The Best Albums of 2026—So Far From the pop-star set to the up-and-comers, here are Vogue staffers' favorite albums of the year thus far."
+    },
+    {
+      "id": "2a190ca3de47f46c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Halle Berry Is Having the Best Summer Ever—With a Beauty and Intimacy Routine To Match",
+      "url": "https://www.vogue.com/article/halle-berry-summer-beauty-routine",
+      "publishedAt": "2026-08-14T10:37:54.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Halle Berry Is Having the Best Summer Ever—With a Beauty and Intimacy Routine To Match Pleasure gel, a good SPF: actor and women’s health advocate Halle Berry shared a glimpse at the must-have beauty and intimacy products she brings on vacation."
+    },
+    {
+      "id": "8dad31b5e52d5ec6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director",
+      "url": "https://www.vogue.com/article/best-jewelry-brands",
+      "publishedAt": "2026-08-14T10:00:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director Shop the best jewelry brands from our designer jewelry labels; the thrill of discovering a new name is almost as good as finding that perfect piece of jewelry."
+    },
+    {
+      "id": "a3bceefb06b6cfb8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest",
+      "url": "https://www.vogue.com/article/airbnbs-in-british-columbia",
+      "publishedAt": "2026-08-14T10:00:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest Heading to the Pacific Northwest? An Airbnb in British Columbia puts you right in the middle of the province’s lush nature and rugged terrain—here, seven to consider booking."
+    },
+    {
+      "id": "9e8b64fcdeaa7315",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dua Lipa Supersizes the Vacation Tote Bag—Airline Restrictions Be Damned",
+      "url": "https://www.vogue.com/article/dua-lipa-supersize-vacation-tote-bag",
+      "publishedAt": "2026-08-14T09:58:59.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Dua Lipa Supersizes the Vacation Tote Bag—Airline Restrictions Be Damned Queen of La Vacanza as a lifestyle, Dua Lipa knows nothing should ever get in the way of a good travel look."
+    },
+    {
+      "id": "ed05bcdf05bb6f98",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lawrence Settles Summer’s Great Shorts Debate",
+      "url": "https://www.vogue.com/article/jennifer-lawrence-settles-summers-great-shorts-debate",
+      "publishedAt": "2026-08-14T09:44:05.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Jennifer Lawrence Settles Summer’s Great Shorts Debate Whether you’re having a Big Shorts Summer or enjoying the it-girl itsy-bitsies—Jennifer Lawrence remains committed to the once-divisive denim jorts."
+    },
+    {
+      "id": "c596f4ac8373436a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business",
+      "url": "https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business",
+      "publishedAt": "2026-08-14T09:30:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business With $50 million in Series A funding and 1,500 new US retail doors through Sephora, the brand behind the ubiquitous metallic blue lip stain has turned virality into lasting growth."
+    },
+    {
+      "id": "bd6c3efa983fe0ed",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Carmen Busquets Partners with Parsons on Award for Disabled Students",
+      "url": "https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students",
+      "publishedAt": "2026-08-14T04:30:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Carmen Busquets Partners with Parsons on Award for Disabled Students The $12,500 grant will support the futures of aspiring fashion leaders through mentorship and collaboration opportunities."
+    },
+    {
+      "id": "da6fbb107999bc98",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Attract Gen Z’s New Club Kids",
+      "url": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
+      "publishedAt": "2026-08-14T04:30:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "How to Attract Gen Z’s New Club Kids It’s widely believed that Gen Z don’t party like other generations. But a new crop of influencers and social media savvy DJs are driving young crowds to party capitals like Ibiza. Should brands hit the club?"
+    },
+    {
+      "id": "ed2f3efc6514c216",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "45 Thoughts I Had About Episode 4 of ‘The Shards’",
+      "url": "https://www.vogue.com/article/45-thoughts-i-had-about-episode-4-of-the-shards",
+      "publishedAt": "2026-08-14T01:45:56.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "45 Thoughts I Had About Episode 4 of ‘The Shards’ “Are you an actor? My dad is a producer, he will put you in one of his movies” is an iconically LA-brained way to beg a knife-wielding stranger for your life."
+    },
+    {
+      "id": "ffefebca5083e657",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Habit That Could Be Impacting Your Gut Microbiome",
+      "url": "https://www.vogue.com/article/gut-microbiome-posture",
+      "publishedAt": "2026-08-13T22:56:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "The Habit That Could Be Impacting Your Gut Microbiome Experts explain the link between posture, the vagus nerve, and the gut microbiome."
+    },
+    {
+      "id": "f9efc410708ed9c2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Meet the Next Generation of Chefs Redefining Modern Mexican Cuisine in the U.S.",
+      "url": "https://www.vogue.com/article/next-generation-of-chefs-redefining-modern-mexican-cuisine-in-the-us",
+      "publishedAt": "2026-08-13T22:31:53.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Meet the Next Generation of Chefs Redefining Modern Mexican Cuisine in the U.S. While Enrique Olvera’s work undoubtedly changed the perception of Mexican cuisine in the US, many young chefs are now bringing their own culinary prowess and personal histories to cities like Miami and Washington, D.C."
+    },
+    {
+      "id": "90933f206b71f627",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Planes, Trains, and Automobiles: How New Yorkers Dress for Summer Weekends",
+      "url": "https://www.vogue.com/article/new-york-summer-weekend-street-style",
+      "publishedAt": "2026-08-13T19:10:52.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Planes, Trains, and Automobiles: How New Yorkers Dress for Summer Weekends Out of office—and heading out of town. Here’s how New Yorkers are dressing for summer weekends in and out of the city."
+    },
+    {
+      "id": "41a2c2591fb31274",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Julia Roberts Finishes Her Outfit With an Unexpected Accessory",
+      "url": "https://www.vogue.com/article/julia-roberts-unexpected-accessory-thrasher",
+      "publishedAt": "2026-08-13T18:34:19.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Julia Roberts Finishes Her Outfit With an Unexpected Accessory Julia Roberts, we’ll see you at Warped Tour!"
+    },
+    {
+      "id": "43307920ef418ebc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Minimalist Trick to Making an Outfit Pop",
+      "url": "https://www.vogue.com/article/colorful-shoe-trick",
+      "publishedAt": "2026-08-13T18:16:31.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "The Minimalist Trick to Making an Outfit Pop A colorful shoe is the simplest way to make neutrals feel fresh and unexpected. Recreate these outfits now."
+    },
+    {
+      "id": "911f4f9616d95316",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tapestry Revenues Climb 11% in Q4 on Coach Gains",
+      "url": "https://www.vogue.com/article/tapestry-revenues-climb-11-in-q4-on-coach-gains",
+      "publishedAt": "2026-08-13T17:05:46.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Tapestry Revenues Climb 11% in Q4 on Coach Gains Coach and Kate Spade parent company Tapestry reported sales rose 17% for fiscal 2026."
+    },
+    {
+      "id": "d4bce03c0193afd1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kriti Sanon’s ‘New Love’ Gives Her an ‘Instant’ Facelift—In the Car",
+      "url": "https://www.vogue.com/article/beauty-secrets-kriti-sanon",
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Kriti Sanon’s ‘New Love’ Gives Her an ‘Instant’ Facelift—In the Car “When I hit 30, that’s when I was like, I need to really start taking care of my skin,” says the now-36-year-old."
+    },
+    {
+      "id": "58c1f3be72103a14",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Story Behind Björk’s Robert Wun Balloon Look—and Her Solar Eclipse Rave in Iceland",
+      "url": "https://www.vogue.com/article/bjork-robert-wun-balloon-look-solar-eclipse-rave-iceland",
+      "publishedAt": "2026-08-13T15:53:06.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "The Story Behind Björk’s Robert Wun Balloon Look—and Her Solar Eclipse Rave in Iceland The designer, Björk’s stylist Edda Gudmundsdottir, and two balloon stylists share how the dramatic look came together—and why a few of them popping was all part of the fun."
+    },
+    {
+      "id": "758be6cc0a5c1349",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Cardi B Brings Her Whole Outfit Together With This Small—But Mighty—Detail",
+      "url": "https://www.vogue.com/article/cardi-b-color-coordination",
+      "publishedAt": "2026-08-13T15:21:22.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Cardi B Brings Her Whole Outfit Together With This Small—But Mighty—Detail It just goes to show that the smallest details make a world of difference."
+    },
+    {
+      "id": "ce18d33cec801b15",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How the Hulken Bag Became Summer’s Hottest It Bag",
+      "url": "https://www.vogue.com/article/hulken-bag-summer-trend",
+      "publishedAt": "2026-08-13T14:24:43.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "How the Hulken Bag Became Summer’s Hottest It Bag The Hulken Rolling Tote has gained popularity among New Yorkers."
+    },
+    {
+      "id": "fe6edc8df1959cb6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best J.Crew New Arrivals to Shop for Fall 2026",
+      "url": "https://www.vogue.com/article/best-jcrew-finds",
+      "publishedAt": "2026-08-13T14:11:02.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "The Best J.Crew New Arrivals to Shop for Fall 2026 Classic Americana wardrobe essentials and pre-fall’s chicest trends are among the best J.Crew new arrivals we’re eyeing this week."
+    },
+    {
+      "id": "6bc6d12334077dbc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Podcast: Inside Chloe Malle’s First September Issue",
+      "url": "https://www.vogue.com/article/on-the-podcast-behind-chloe-malles-first-september-issue",
+      "publishedAt": "2026-08-13T13:45:45.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "On the Podcast: Inside Chloe Malle’s First September Issue Fifteen years ago, before she interviewed at Vogue, Chloe watched R.J. Cutler’s 2009 documentary “The September Issue” to prepare herself for what was to come. Now, she’s the one helming the issue celebrating “the January of fashion.”"
+    },
+    {
+      "id": "565ee99c1b867fb7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "5 One-Woman Shows Well Worth Seeing at Edinburgh Fringe 2026",
+      "url": "https://www.vogue.com/article/5-one-woman-shows-edinburgh-fringe-2026",
+      "publishedAt": "2026-08-13T12:00:00.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "5 One-Woman Shows Well Worth Seeing at Edinburgh Fringe 2026 Amanda Knox is far from the only woman with a solo show at Edinburgh Fringe this August!"
+    },
+    {
+      "id": "06cd42a837d016b5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Paul Anthony Kelly Once Performed a Very Different Love Story...as a Disney Weddings Model",
+      "url": "https://www.vogue.com/article/paul-anthony-kelly-disney-weddings-model",
+      "publishedAt": "2026-08-13T10:17:36.000Z",
+      "collectedAt": "2026-08-14T13:16:34.106Z",
+      "text": "Paul Anthony Kelly Once Performed a Very Different Love Story...as a Disney Weddings Model With a breakout role as JFK Jnr. in “Love Story” under his belt and a slate of forthcoming projects, why is Paul Anthony Kelly modeling a Mickey Mouse tuxedo?"
+    },
+    {
+      "id": "bde03323fc276f85",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Hellstar Takes a Three-Stripes Runner Back to 2001",
+      "url": "https://www.highsnobiety.com/p/hellstar-adidas-megaride-s2/",
+      "publishedAt": "2026-08-14T09:10:01.000Z",
+      "collectedAt": "2026-08-14T13:16:35.803Z",
+      "text": "Hellstar Takes a Three-Stripes Runner Back to 2001 The Hellstar x adidas Megaride S2 Cloud White/Core Black pushes Y2K performance design into an aggressive realm."
+    },
+    {
+      "id": "2dbbe4cf011dd075",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Arte Antwerp’s adidas F50 Has Major Motion",
+      "url": "https://www.highsnobiety.com/p/arte-antwerps-adidas-f50-sneaker/",
+      "publishedAt": "2026-08-14T07:56:59.000Z",
+      "collectedAt": "2026-08-14T13:16:35.803Z",
+      "text": "Arte Antwerp’s adidas F50 Has Major Motion Arte Antwerp turned adidas pitch-ready F50 sneaker into an anti-football stunner with some real deal motion."
+    },
+    {
+      "id": "63f382beb7c683cc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Best Vintage Basketball Sneaker Heads Back to the Office",
+      "url": "https://www.highsnobiety.com/p/adidas-forum-sq-silver/",
+      "publishedAt": "2026-08-14T08:02:37.000Z",
+      "collectedAt": "2026-08-14T13:16:35.803Z",
+      "text": "adidas' Best Vintage Basketball Sneaker Heads Back to the Office adidas' chromed adidas Forum SQ sneaker is a metallic stunner built specifically for the boardroom."
+    },
+    {
+      "id": "c821fd25e989de8b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "These Pearl-Hued Nike Dunks Are the Unassuming Jewels of Footwear",
+      "url": "https://www.highsnobiety.com/p/nike-dunk-low-retro-soft-pearl-cream/",
+      "publishedAt": "2026-08-14T07:59:01.000Z",
+      "collectedAt": "2026-08-14T13:16:35.803Z",
+      "text": "These Pearl-Hued Nike Dunks Are the Unassuming Jewels of Footwear The Nike Dunk Low Retro \"Soft Pearl Cream\" dazzles with a clean, minimalist look built for everyday, in an all-white premium leather with subtle grey details."
+    },
+    {
+      "id": "78f675b068f382ef",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "These Trippy, Brainy Hiking Crocs Are Expedition-Ready",
+      "url": "https://www.highsnobiety.com/p/crocs-brain-dead-trailbreak-2/",
+      "publishedAt": "2026-08-14T08:01:37.000Z",
+      "collectedAt": "2026-08-14T13:16:35.803Z",
+      "text": "These Trippy, Brainy Hiking Crocs Are Expedition-Ready The Brain Dead x Crocs Trailbreak 2 radically distances itself from standard foam slides and slip-ons."
+    },
+    {
+      "id": "2497f6bee25a1930",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "How Did a Fly-Fishing Label Win Over Both Supreme and Palace?",
+      "url": "https://www.highsnobiety.com/p/south2-west8-palace/",
+      "publishedAt": "2026-08-13T21:33:00.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "How Did a Fly-Fishing Label Win Over Both Supreme and Palace? The cult Japanese fishing apparel label SOUTH2 WEST8 beloved by Reebok, Supreme, Oakley, and Brain Dead has a new collaboration with Palace."
+    },
+    {
+      "id": "d3f6f2ee775e3e23",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Is the Secret to a Decade of Relevance In Fashion",
+      "url": "https://www.highsnobiety.com/p/noah-clothing-fw26/",
+      "publishedAt": "2026-08-13T22:20:50.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "This Is the Secret to a Decade of Relevance In Fashion Noah is one of the few clothing brands to not merely last 10 yeasr but properly thrive, demonstrating increasingly good taste for a full decade and then some."
+    },
+    {
+      "id": "9f3abca701527b4f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Even at Retirement Age, the Birkenstock Clog Is Somehow Still Cooking",
+      "url": "https://www.highsnobiety.com/p/birkenstock-boston-collabs/",
+      "publishedAt": "2026-08-13T18:33:00.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "Even at Retirement Age, the Birkenstock Clog Is Somehow Still Cooking The South Korean avant-garde label Ader Error's fresh take on Boston, plus Birkenstock's own creative updates, prove the old shoe is still cooking."
+    },
+    {
+      "id": "b59cce05d4684fb1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Jordan Design Studio Reimagines an Icon in the Windy City",
+      "url": "https://www.highsnobiety.com/p/jordan-design-studio-chi/",
+      "publishedAt": "2026-08-13T21:40:19.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "The Jordan Design Studio Reimagines an Icon in the Windy City Searching for the next great footwear storyteller, Jordan tapped six emerging creatives in Chicago, the city that helped start it all, for the first stop on the U.S. leg of its exclusive workshop circuit."
+    },
+    {
+      "id": "21578cebc73453c7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Model’s Own: Alex Moss Got His Style (And Taste for Chrome Hearts) From His Dad",
+      "url": "https://www.highsnobiety.com/p/alex-moss-models-own-chrome-hearts/",
+      "publishedAt": "2026-08-13T17:11:14.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "Model’s Own: Alex Moss Got His Style (And Taste for Chrome Hearts) From His Dad The jewelry designer’s personal style rotation includes Brian Jimenèz jeans, an all-black Goyard duffle, and a diamond Cuban bracelet from his own line."
+    },
+    {
+      "id": "20381809b9d1e0ab",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "An Essential Guide to the New Grunge Streetwear",
+      "url": "https://www.highsnobiety.com/p/grunge-streetwear-guide/",
+      "publishedAt": "2026-08-13T15:26:02.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "An Essential Guide to the New Grunge Streetwear This is everything you need to know about the brands reviving the smell of teen spirit, from Paly Hollywood to Satoshi Nakamoto to Enfants Riches Déprimés."
+    },
+    {
+      "id": "679be9bb21f2baff",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Brought Amsterdam's Creative Crowd to The Corner",
+      "url": "https://www.highsnobiety.com/p/adidas-brought-amsterdams-creative-crowd-to-the-corner/",
+      "publishedAt": "2026-08-13T15:22:57.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "adidas Brought Amsterdam's Creative Crowd to The Corner An extension of their new streetwear hub The Corner, online fashion retail giant Zalando thew a party in Amsterdam with adidas Originals"
+    },
+    {
+      "id": "dcfca3f76a603d83",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Feel of a FILA Tracksuit",
+      "url": "https://www.highsnobiety.com/p/the-feel-of-a-fila-tracksuit/",
+      "publishedAt": "2026-08-13T14:15:15.000Z",
+      "collectedAt": "2026-08-14T13:16:35.804Z",
+      "text": "The Feel of a FILA Tracksuit Long before sportswear became a luxury language, FILA was building a reputation through knitwear. T"
+    },
+    {
+      "id": "e0d89accbbaa3df3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "thisisneverthat Delivers Its First Fall 2026 Drop",
+      "url": "https://hypebeast.com/2026/8/hisisneverthat-fall-2026-collection-lookbook-release-info",
+      "publishedAt": "2026-08-14T11:57:30.000Z",
+      "collectedAt": "2026-08-14T13:16:37.203Z",
+      "text": "thisisneverthat Delivers Its First Fall 2026 Drop Summary thisisneverthat Fall 2026 blends transitional outerwear, knitwear and technical weather gear.Key highlights include VIK Pertex jackets, SKOGAR down, fleece layers and playful graphic tees.The first drop is now available to shop online and in-store. South Korean streetwear label thisisneverthat has revealed its Fall 2026 collection, delivering a fresh lineup that continues to elevate its signature balance of retro athletic influences and modern street utility. Rooted in '90s subculture, the seasonal delivery emphasizes effortless layering through relaxed silhouettes and vintage-washed fabrications.The range spans technical outerwear, everyday staples, denim and accessories. Highlights from the seasonal drop include PERTEX® SP-Logo windbreakers in reversible and tonal variations, washed denim shirts offered in rich autumn hues like burgundy, dark brown and indigo, as well as washed polo shirts and signature graphic tees. Bottoms are led by an array of relaxed and loose-fit jeans presented in dusty navy, brown and washed blue.The first delivery of thisisneverthat's Fall 2026 collection is now available to shop via the brand's official website and offline stores. View this post on InstagramA post shared by thisisneverthat® (@thisisneverthat) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "499250085b300cc3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "417 EDIFICE Taps Okayama Denim for \"Le Japon Atelier\" Drop",
+      "url": "https://hypebeast.com/2026/8/417-edifice-le-japon-atelier-okayama-denim-capsule-release-info",
+      "publishedAt": "2026-08-14T11:48:45.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "417 EDIFICE Taps Okayama Denim for \"Le Japon Atelier\" Drop Summary 417 EDIFICE drops its \" Le Japon Atelier\" capsule, spotlighting authentic Okayama denim and traditional Japanese manufacturing.Features classic denim jackets paired with straight-leg (\"TYPE.1\") and curved-leg (\"TYPE.2\") denim pants.Available via its official webstore and select 417 EDIFICE retail locations. 417 EDIFICE has unveiled its latest seasonal release within its \"Le Japon Atelier\" series, celebrating traditional Japanese craftsmanship through a collaboration focused on Okayama denim. Dedicated to showcasing domestic manufacturing and heritage techniques, the collection reinterprets classic workwear through a modern, cost-conscious street lens. The capsule highlights the rich textile lineage of Okayama - Japan's denim capital - by offering high-quality, domestically produced denim garments engineered for long-lasting daily wear and effortless styling.The range centers on essential denim silhouettes updated with contemporary proportions and clean finishing. Key styles include classic denim jackets and matching Okayama denim pants offered in versatile straight-leg (\"TYPE.1\") and curved-leg (\"TYPE.2\") cuts. Designed with stripped-back processing to maintain a clean aesthetic, the pieces arrive in classic indigo blue, washed black/dark grey, and natural ivory colorways. The 417 EDIFICE \"Le Japon Atelier\" Okayama Denim capsule is available via the brand's Baycrew's webstore and select 417 EDIFICE storefronts across Japan. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a4812182cb669852",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Porsche Brings Back the Manual Transmission on the 2027 911 Carrera S",
+      "url": "https://hypebeast.com/2026/8/porsche-911-carrera-s-manual-returns-for-2027",
+      "publishedAt": "2026-08-14T11:46:10.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "Porsche Brings Back the Manual Transmission on the 2027 911 Carrera S Summary Porsche announced the 2027 911 Carrera S with a manual transmission as a driver-focused special edition produced exclusively for the North America market.The sports car features a 473-horsepower twin-turbo flat-six engine paired with a six-speed manual gearbox and rear-wheel-drive configuration. The 2027 Porsche 911 Carrera S with MT Package marks the highly anticipated return of a three-pedal setup to the 992.2 generation. Developed specifically to answer immense demand from purists, this new release arrives as a North American exclusive. Global automotive trends continue skewing heavily toward automatic transmissions driven by technological advancements and congested city streets. Porsche bucks that movement entirely. By delivering a manual gearbox specifically for the US and Canada, the Stuttgart manufacturer proves this region remains a critical stronghold for analog driving enthusiasts who prioritize engagement over outright acceleration.Engineers took the minimalist formula established by the 388-horsepower Carrera T and amplified it significantly for this more potent model. Power comes from a 3.0-liter twin-turbo flat-six engine pushing 473 horsepower exclusively to the rear wheels. Drivers engage with that output through a six-speed manual transmission finished with a tactile walnut-crowned shifter. While opting for the stick shift might technically result in slower zero-to-60 times compared to dual-clutch variants, buyers seeking this package care far more about the visceral driving experience. The MT Package also equips the vehicle with a comprehensive suite of dynamic hardware. Standard chassis upgrades include PASM Sport suspension, rear-wheel steering and the aggressive Sport Chrono pack.Visual and structural enhancements separate this exclusive trim from the standard lineup. The exterior boasts a retuned SportDesign front fascia and titanium exhaust tips. Enthusiasts will immediately notice the standard center-lock wheels, marking the first time this motorsport-derived hardware appears on a Carrera S model. A subtle scarlet \"S\" badge sits on the tail to honor owners who historically modified their own cars with red lettering. Inside the cabin, standard four-way Sport Seats Plus keep occupants secure during spirited driving. Curb weight sits at a respectable 3,327 pounds. Buyers looking to shed even more mass can spec optional ceramic composite brakes.Acquiring this "
+    },
+    {
+      "id": "fc53ac78bbb6eb5b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Air Tech Challenge 2 “Mag” Arrives Earlier Than Expected",
+      "url": "https://hypebeast.com/2026/8/nike-air-tech-challengenike-air-tech-challenge-2-back-to-the-future-mag-ix4084-025-updated-release-info-2-back-to-the-future-mag-updated-release-info",
+      "publishedAt": "2026-08-14T10:55:18.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "The Nike Air Tech Challenge 2 “Mag” Arrives Earlier Than Expected Name: Nike Air Tech Challenge 2 “Mag”Colorway: Photon Dust/Dusty Cactus-Picante Red-WhiteSKU: IX4084-025MSRP: $180 USDRelease Date: Aug 18, 2026Where to Buy: NikeNike has officially confirmed an updated, earlier release date for the highly anticipated Air Tech Challenge 2 \"Mag.\" Originally expected to drop in early September, the retro tennis silhouette is now officially slated to launch on August 18, 2026, via Nike SNKRS. This unique iteration merges two distinct eras of Nike history, seamlessly blending Andre Agassi's legendary 1989 court classic with the futuristic, cinematic legacy of Marty McFly's auto-lacing footwear from Back to the Future Part II.Bringing the famed cinematic colorway to the courts, the sneaker features a flat Photon Dust grey leather upper layered with crisp white panels and vibrant Dusty Cactus teal accents. Adding a striking pop of color, the tongue and insole feature a red-to-orange gradient on the \"Nike Air\" branding, nodding directly to the movie’s iconic title logo. The thematic design is brought to life with blue speckling across the grey midsole, blue branding hits on the heel, and an icy translucent rubber outsole. Restrained yet instantly recognizable, the pair successfully channels one of Nike’s most mythologized pop-culture references without overwhelming the Air Tech Challenge 2’s aesthetic codes. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d824e97302ac8f72",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "MGM+ Reveals Jon Hamm-Led True-Crime Thriller Series 'American Hostage'",
+      "url": "https://hypebeast.com/2026/8/mgm-plus-jon-hamm-true-crime-thriller-series-american-hostage-official-trailer-release-info",
+      "publishedAt": "2026-08-13T15:28:12.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "MGM+ Reveals Jon Hamm-Led True-Crime Thriller Series 'American Hostage' Summary MGM+ has unveiled the official teaser trailer for the upcoming psychological thriller series 'American Hostage'Jon Hamm stars as 1970s radio broadcaster Fred Heckman who becomes entangled in a 63-hour hostage negotiationCo-created by Shawn Ryan and Eileen Myers the eight-episode drama premieres on September 20 MGM+ and Sony Pictures Television have debuted the first official trailer for American Hostage, an upcoming eight-episode psychological thriller series fronted by Jon Hamm. The television adaptation brings the real-life 1970s broadcast standoff to the screen following its origin as a narrative podcast.Hamm reprises his audio role as Fred Heckman, a prominent Indianapolis WIBC news reporter who becomes unexpectedly thrust into a high-stakes 63-hour crisis. The plot centers on hostage-taker Tony Kiritsis, portrayed by Giovanni Ribisi, who dials into Heckman’s live call-in show while holding a victim at gunpoint with a 12-gauge shotgun, demanding an immediate public platform.Co-created and scripted by Mad Dogs duo Shawn Ryan and Eileen Myers, the narrative captures the internal debate within the newsroom before deciding to air the live confrontation. The production features a supporting ensemble including Kristoffer Polaha, William Jackson Harper, Mireille Enos, Jonathan Tucker, and Kat Cunning, with Hamm, Ryan, and Myers also serving as executive producers.American Hostage officially premieres September 20, 2026, on MGM+, running for eight episodes through its finale on November 1. Read more at Hypebeast"
+    },
+    {
+      "id": "784b2f4a4418c1d0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Born X Raised and Vans Unveil the Authentic 44 Collection for SS27",
+      "url": "https://hypebeast.com/2026/8/born-x-raised-vans-authentic-44-collection-mexico-city-ss27-revealed",
+      "publishedAt": "2026-08-13T19:00:08.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "Born X Raised and Vans Unveil the Authentic 44 Collection for SS27 Born X Raised and Vans have officially previewed their upcoming Born X Raised x Vans Authentic 44 collection. The forthcoming collaborative pack follows an exclusive community event at House of Vans Mexico City where a 50-pair Friends and Family edition was initially revealed.Designed by Born X Raised co-founder Alex “2Tone” Erdmann, the upcoming retail iteration translates the hand-sketched aesthetic seen on the Mexico City exclusive across white, black, and blue colorways previewed during Paris Fashion Week. The shoes feature distressed canvas, scuffed edges, and yellowed midsoles to achieve a worn-in appearance. Pen-style illustrations cover the uppers, detailing brick wall patterns around the toe and heel alongside spiders, webs, teardrops, \"OFF THE WALL\" typography, and paint splatter accents.A matching apparel capsule accompanies the footwear rollout. The clothing selection includes a washed black hoodie and sweatpants set, black and blue graphic T-shirts, a mesh football jersey embellished with Born X Raised’s signature Old English branding, and khaki trousers.The Born X Raised x Vans Authentic 44 collection officially releases during the SS27 season via Born X Raised, Vans, and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a8f4bfc9b5447626",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Rare 1973 Two-Player Computer Space Arcade Machine Hits RR Auction",
+      "url": "https://hypebeast.com/2026/8/rare-1973-two-player-computer-space-arcade-machine-hits-rr-auction",
+      "publishedAt": "2026-08-13T15:36:42.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "Rare 1973 Two-Player Computer Space Arcade Machine Hits RR Auction Summary A rare fully functional 1973 two-player Computer Space arcade cabinet is currently up for sale via RR AuctionOwned by Earthworm Jim programmer David Perry the unit features a sparkly green fiberglass body and original rotational joysticksBidding is live and set to conclude on August 20 with estimates exceeding $20,000 USD Nutting Associates' rare 1973 Two-Player Computer Space Arcade Machine has officially hit the auction block via RR Auction. The vintage arcade cabinet comes directly from the personal collection of game programmer and Gaikai co-founder David Perry.Released in mid-1973 following the 1971 single-player original designed by Syzygy Engineering founders Nolan Bushnell and Ted Dabney, the two-player iteration represents a monumental piece of early video game history prior to the mainstream rise of Atari. Built with a retrofuturistic silhouette wrapped in a sparkly green fiberglass shell, the cabinet features a control panel equipped with a 25-cent quarter slot, a coin return button, a red \"Start Game\" button, a green \"Two Player Operation\" button, and two original rotational joysticks topped with red \"Fire Missile\" buttons.Preserved in working condition with minor body scuffing, the machine includes its original functional screen and interior lighting. The rare cabinet is being offered as part of RR Auction's broader Steve Jobs & the Computer Revolution: The Apple 50th Anniversary Auction Part Two event.The two-player Computer Space arcade machine is currently open for bidding on RR Auction, with the listing set to officially close on August 20, 2026, at 7 PM ET. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b6c270489d4ec161",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "How X’s “Under the Hood” Settings Feature Tackles Long-Standing Shadowban Rumors",
+      "url": "https://hypebeast.com/2026/8/x-expands-open-source-ranking-algorithm-with-new-tool",
+      "publishedAt": "2026-08-14T07:59:40.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "How X’s “Under the Hood” Settings Feature Tackles Long-Standing Shadowban Rumors Summary X expanded its open-source GitHub codebase by 10 to 15 times, releasing core ranking mechanics under an Apache v2 license.A new settings feature allows active creators to download JSON files detailing any visibility-limiting account labels applied over the past month. X is pulling back the curtain on its content distribution mechanics with a massive update to its open-source ranking algorithm. The platform expanded the codebase powering its default \"For You\" timeline and released the files under an Apache v2 license. This latest push increases the available code by 10 to 15 times compared to previous transparency efforts. Engineers and researchers can now access intricate details regarding model configuration, filters and the core ranking systems. These components dictate exactly which parameters weigh different signals to decide what content surfaces on a user screen.Alongside the code dump, the company introduced an \"Under the Hood\" transparency tool designed to tackle long-standing rumors of shadowbanning. Users who post at least 10 times in a given month can navigate to their app settings and download a JSON file outlining aggregate statistics. This file explicitly reveals if any visibility-limiting labels have hit their account or specific posts over the past calendar month. Non-technical creators can feed this data into a large language model alongside the GitHub repository code to decode exactly how the recommendation engine treats their content.X Vice President of Product Keith Coleman noted that the release provides the core ranking logic that pulls and ranks posts for any given timeline. External researchers have already utilized the release to train and run the Phoenix scoring system locally. While the platform invites developers to submit pull requests to improve the algorithm, certain proprietary safeguards remain locked away. Systems relying on Grok to predict rule violations are deliberately excluded to prevent bad actors from reverse-engineering moderation filters and flooding the feed with spam.This unprecedented level of algorithmic transparency shifts the power dynamic between social media platforms and their user bases. By equipping creators with both the underlying recommendation code and personal account data, X transforms a traditionally opaque tech ecosystem into an inspectable environment. The pilot program for the transparency tool is currentl"
+    },
+    {
+      "id": "7a90be3c2e4f719a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Heinz Celebrates Personal Condiment Rituals With 3-Setting “Love Lid” Launch",
+      "url": "https://hypebeast.com/2026/8/heinz-love-lid-customizable-ketchup-cap-drops-for-summer",
+      "publishedAt": "2026-08-14T07:59:23.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "Heinz Celebrates Personal Condiment Rituals With 3-Setting “Love Lid” Launch Summary Heinz has introduced a limited-edition customizable ketchup cap called the Love Lid that allows users to adjust the amount of sauce dispensed per squeeze/Developed in partnership with Wieden+Kennedy London and Beta Design Office, the patented lid features a rotating dial with Like, Love and Crazy Love settings.The accessory is available as part of a special grilling-season bundle exclusively through online channels in the US and the UK. The Heinz Love Lid arrives as a customizable ketchup cap engineered to give consumers precise authority over their condiment portions. Designed as a direct replacement for the standard closure on any 20-ounce Heinz bottle, the accessory transforms a basic packaging element into an interactive tool. The project was developed in partnership with Beta Design Office and creative agency Wieden+Kennedy London.Functionality sits at the core of the new design. The patented closure utilizes a rotating dial mechanism to cycle through three settings: Like, Love and Crazy Love. Turning the dial raises an internal core that physically widens or narrows the dispensing aperture. Users who select the highest setting receive a generous cascade of ketchup, while the lowest option restricts the flow to a controlled ribbon. Beyond its mechanical precision, the two-part cap is constructed entirely from recyclable polypropylene. This material choice ensures the upgraded component aligns with standard environmental packaging footprints.The naming conventions go beyond simple marketing terminology to reflect authentic consumer behaviors. A dipping scenario for french fries naturally demands a different volume of ketchup compared to dressing a hot dog. By treating these culinary moments as distinct events, the brand brings attention to a frequently overlooked packaging component. Nina Patel, vice president of global Heinz at the Kraft Heinz Company, highlighted that people harbor deeply personal rituals regarding their sauce application. The company aims to celebrate that spectrum of preferences by ensuring fans can achieve the exact condiment ratio their meal requires.This release builds on previous experimental packaging concepts from the brand. Earlier innovations include the Heinz Dipper, a specialized fry box featuring a built-in sauce compartment. Both projects demonstrate a corporate curiosity surrounding functional design that connects directly with consume"
+    },
+    {
+      "id": "ba0a6284fdc7eae9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Porsche Reportedly Abandons Plan to Shift Taycan Production to Leipzig",
+      "url": "https://hypebeast.com/2026/8/porsche-taycan-reportedly-ending-production-by-2030",
+      "publishedAt": "2026-08-14T07:57:32.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "Porsche Reportedly Abandons Plan to Shift Taycan Production to Leipzig Summary Porsche is reportedly planning to discontinue production of the Taycan by 2030 instead of relocating assembly from Zuffenhausen to Leipzig.Despite earlier statements from CEO Michael Leiters denying short-term cancellations, shifting market demands and the success of the new Macan EV are prompting a strategic pivot. Porsche could be preparing to pull the plug on its inaugural battery-electric pioneer. A new report from German business publication WirtschaftsWoche indicates the automaker plans to end Taycan production entirely by 2030. The decision marks a massive strategic shift for the marque. Executives reportedly abandoned earlier initiatives to transfer the manufacturing of the electric sedan from its current dedicated line in Zuffenhausen to the Leipzig facility.The reversal follows a turbulent financial period for the storied manufacturer. The operating profit plummeted from €5.64 billion to €413 million over the past year. Sales numbers for the electric four-door parallel that steep financial decline. Porsche moved 11,510 units in 2025 compared to 21,302 the year prior. Internal cannibalization plays a distinct role in this downturn. The highly anticipated launch of the Macan EV gave prospective electric vehicle buyers a fresh alternative and aligned perfectly with luxury consumer preferences heavily favoring large SUVs over low-slung sport sedans.Management and the Porsche works council have allegedly reached an agreement in principle to phase out the model line by the end of the decade. While the paperwork remains unfinalized, the internal consensus points toward trimming product complexity. The manufacturer is currently recalibrating its electrification roadmap to recommit resources to proven combustion and hybrid architectures.This rumored expiration date contrasts with recent public messaging from leadership. CEO Michael Leiters recently stated the company had no immediate plans to kill the vehicle. The brand even invested heavily in a refreshed 2027 model featuring simulated manual gear shifts designed to court traditional driving enthusiasts. A six-year runway toward 2030 leaves a wide gap between short-term survival and ultimate discontinuation.Axing the flagship electric vehicle represents a monumental symbolic retreat for a brand that built its modern identity around high-performance electrification. The Taycan set a cultural template for luxury EVs by proving b"
+    },
+    {
+      "id": "f5008fb6326fb6c7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Koenigsegg Debuts Race-Style Sequential Shift System Inside the CCGT1",
+      "url": "https://hypebeast.com/2026/8/koenigsegg-ccgt1-revives-gt1-racing-spirit-on-road",
+      "publishedAt": "2026-08-14T07:51:01.000Z",
+      "collectedAt": "2026-08-14T13:16:37.204Z",
+      "text": "Koenigsegg Debuts Race-Style Sequential Shift System Inside the CCGT1 Summary Koenigsegg unveiled the CCGT1 at Monterey Car Week as a track-focused but road-legal hypercar designed to honor the brand's cancelled GT1 racing project from the mid-2000s.Limited to a production run of 70 units that are already sold out, the vehicle features a twin-turbo V-8 producing up to 1600 horsepower and debuts the Koenigsegg Sequential Shift interface. Revealed during the 2026 Monterey Car Week, the Koenigsegg CCGT1 represents a high-performance evolution of the CC850 architecture. The manufacturer built this street-legal model to revive the spirit of its original GT1 competition car. That mid-2000s project paired a lightweight chassis with a naturally aspirated V-8 but was cancelled before competing due to FIA regulation changes. Today, the modern tribute delivers endurance racing characteristics to a homologated platform. All 70 planned units are already sold.Powering the new hypercar is a 5.0-liter twin-turbo V-8 engine that delivers 1280 horsepower on standard pump fuel and 1600 horsepower on E85 biofuel. Engineers equipped the powertrain with a bespoke roof scoop and enhanced cooling systems to handle sustained circuit abuse. The vehicle also debuts the Koenigsegg Sequential Shift system. This interface utilizes a nine-speed Light Speed Transmission paired with a manual clutch pedal for takeoff. Subsequent gears are managed via a race-style sequential shifter positioned near the steering wheel utilizing ignition-cut technology for clutchless operation. Buyers preferring a different feel can option the Engage Shift System to swap the sequential stick for a six-speed gated manual with an automatic mode.Aerodynamics guided the exterior design process. Nearly every body panel is unique to this model to maximize cooling and downforce. The active rear wing automatically adjusts 30 degrees between low drag, air brake and high downforce modes. A redesigned front splitter and a bespoke rear diffuser help generate 1764 pounds of downforce at 155 mph. The exterior introduces a proprietary material called Ghost Fibre. Developed as a crystal-white aramid and carbon matrix, this material boasts ballistic protective characteristics while being lighter and more sound-absorbent than traditional carbon fiber.Buyers looking for peak circuit performance can specify a factory-supported Track Package for the first time in the company's history. This modular upgrade includes a carbon roll "
+    },
+    {
+      "id": "de3c4cd52eb870c1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "“Instagzam?” Internet Reacts to Instagram’s Fresh New Text Logo",
+      "url": "https://hypebeast.com/2026/8/instagram-unveils-new-hybrid-wordmark-and-brand-update",
+      "publishedAt": "2026-08-14T07:44:33.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "“Instagzam?” Internet Reacts to Instagram’s Fresh New Text Logo Summary Instagram replaced its iconic cursive text-logo with a bolder half-cursive, half-print design.The refresh introduces three custom typefaces - Instagram Sans, Instagram Pen and Instagram Mono - for global rollout.Users criticized stylized letters like \"g\" for looking like \"Instagzam,\" prompting response from Adam Mosseri. Instagram has officially retired the signature cursive wordmark that defined its visual identity for the past decade. Unveiled as the app's first major text-logo update since 2016, the new design introduces a hybrid typographic approach that merges half-cursive flow with structured print lettering. The redesign features bolder strokes and highly stylized curves on specific characters, particularly tweaking the letters \"s,\" \"r\" and \"g.\" While the iconic multicolored gradient camera icon anchoring user home screens remains firmly in place, the text residing at the top of the app interface has undergone a distinct modernization.The sweeping refresh serves as the foundation for a broader brand identity shift unfolding across Meta’s digital ecosystem. According to the company's design team, the final typographic style emerged after designers explored hundreds of potential directions, ranging from rigid all-caps concepts to literal handwriting samples. Jasmine Probst, Instagram's director of product design, noted that the chosen script reflects individuality while injecting bolder, simpler elements with unexpected touches. To support the overhaul, the brand is introducing three custom typeface families: Instagram Sans, Instagram Pen and Instagram Mono. The signature gradient will also transition to a more restrained application across the user interface as the full design system rolls out globally through 2026.Initial public reception to the overhaul has been notably polarized, proving that even a conservative design evolution generates an immediate cultural stress-test. Countless users and digital design critics have flooded comment sections across social media, pointing out that the updated lettering’s aggressive stylization makes the logo read closer to \"Instagzam\" than its actual name. Instagram head Adam Mosseri leaned into the controversy, purposefully sharing the announcement to his personal channels to crowdsource hot takes from the community. While purists mourn the loss of the warm and familiar aesthetic, the strategic update fundamentally modernizes the visual pre"
+    },
+    {
+      "id": "bfef1cbdcf5f8e10",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "IWC Marks Mercedes-Benz’ 140th Year With a Limited-Edition Big Pilot’s Watch Perpetual Calendar",
+      "url": "https://hypebeast.com/2026/8/iwc-big-pilots-watch-perpetual-calendar-proset-140-years-mercedes-benz-ref-iw329603-release-info",
+      "publishedAt": "2026-08-14T07:34:38.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "IWC Marks Mercedes-Benz’ 140th Year With a Limited-Edition Big Pilot’s Watch Perpetual Calendar Summary IWC marks Mercedes‑Benz’s 140th anniversary with a limited Big Pilot’s Watch Perpetual Calendar ProSet, restricted to 140 pieces.Powered by Calibre 82665, the watch features a forward/backward crown‑set calendar, gold accents and a historic 1926 logo caseback. IWC has unveiled the Big Pilot’s Watch Perpetual Calendar ProSet 140 Years Mercedes‑Benz edition, a limited timepiece created to celebrate the German automaker’s 140th anniversary. The release deepens a rich partnership that began with Mercedes-AMG in 2004 and expanded to the Mercedes-AMG PETRONAS Formula One Team in 2013. Capped at a fittingly limited run of just 140 pieces, the commemorative timepiece pays homage to both brands’ shared dedication to engineering, high performance and pioneering design.Housed in a brushed and polished 42mm stainless steel case measuring 14mm in thickness, the watch pairs a matte black dial with solid gold appliqués and gold-plated hands. The layout features four subdials displaying the date, day, month, and a four-digit year, along with IWC’s signature Double Moon® phase display at 12 o’clock, which requires a one-day correction only once every 1,040 years.Flipped over, the sapphire-glass case back reveals the historic 1926 logo that marked the initial merger between Daimler Motoren-Gesellschaft and Benz & Cie., combining the iconic three-pointed star with Benz's classic laurel wreath. The piece comes fitted on a black rubber strap equipped with IWC's tool-free EasX-CHANGE® system.At the heart of the timepiece is the IWC-manufactured 82665 caliber, which introduces the brand's groundbreaking Perpetual Calendar ProSet module. Protected by four patents, this revolutionary gear-driven mechanism allows the perpetual calendar to be adjusted both forward and backward using a single position of the crown — eliminating the need for extra pushers or complicated setting menus. Crafted using microscopic LIGA lithography technology, the movement also features a silicon hairspring, a nickel-phosphorus escapement, and a ceramic-reinforced Pellaton automatic winding system that delivers a 60-hour power reserve.The Big Pilot’s Watch Perpetual Calendar ProSet 140 Years Mercedes‑Benz edition is now available for inquiry via IWC's official website and boutiques. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8d57141ce1b84414",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "First Look at the Nike Air Force 1 Low QS Pony Hair in \"Atomic Violet/Voltage Purple\"",
+      "url": "https://hypebeast.com/2026/8/nike-air-force-1-low-qs-pony-hair-atomic-violet-voltage-purple-ir1940-500-first-look-release-info",
+      "publishedAt": "2026-08-13T15:36:35.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "First Look at the Nike Air Force 1 Low QS Pony Hair in \"Atomic Violet/Voltage Purple\" Summary Nike is expanding its faux pony hair Air Force 1 lineup with an Atomic Violet and Voltage Purple colorwayPreviewed by Nike designer Frank Cooke the sneaker features a full fur upper metal aglets and translucent outsolesThe pair is scheduled to release during the Holiday 2026 season for $140 USD Name: Nike Air Force 1 Low QS Pony Hair “Atomic Violet/Voltage Purple”Colorway: Atomic Violet/Voltage Purple/WhiteSKU: IR1940-500MSRP: $140 USDRelease Date: Holiday 2026Where to Buy: NikeNike has unveiled a first look at the Air Force 1 Low QS Pony Hair in an \"Atomic Violet/Voltage Purple/White\" colorway. The upcoming release continues the brand's tactile aesthetic following August's \"Campfire Orange\" iteration.Previewed by Nike designer Frank Cooke, the sneaker features a full faux pony hair upper dressed in a vibrant blend of Atomic Violet and Voltage Purple, while a lighter purple shade outlines the edges of each panel. Highlighting premium craftsmanship, the design is elevated with metal lace aglets and a translucent rubber outsole.The pair marks the second entry in a planned three-part collection of textured Air Force 1 styles set to drop throughout the year. Despite recent announcements from Nike leadership regarding supply reductions for core heritage silhouettes, the brand continues to introduce elevated fabrications and remastered interpretations of its classic basketball model.The Nike Air Force 1 Low QS Pony Hair \"Atomic Violet/Voltage Purple/White\" officially drops during the Holiday 2026 season.&nbsp; Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ea79895c53e0b717",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Xbox Unveils 'Gears of War: E-Day' Limited Edition Controllers",
+      "url": "https://hypebeast.com/2026/8/xbox-gears-of-war-e-day-limited-edition-controllers",
+      "publishedAt": "2026-08-13T15:16:38.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "Xbox Unveils 'Gears of War: E-Day' Limited Edition Controllers Summary Xbox is celebrating the upcoming release of 'Gears of War: E-Day' with two new limited edition controllersThe lineup includes a textured emergence hole design and a customizable Design Lab option featuring Luke Preece's artBoth accessories will be showcased at Gamescom on August 25 ahead of their respective fall launches Xbox has officially announced the launch of two new limited-edition controllers arriving alongside the highly anticipated console exclusive, Gears of War: E-Day. Designed to commemorate the return of the iconic franchise, the collection offers fans immersive hardware inspired by the game’s gritty atmosphere.Leading the announcement is a 3D-molded, laser-etched standard Xbox controller, which takes visual cues from the franchise's infamous emergence holes. The design features cracked asphalt textures, transparent red elements on the D-pad and face buttons, and matching red triggers. To complete the setup, an accompanying 8BitDo charging dock is also available, designed to power the peripheral during downtime.The second option is a specialized Xbox Design Lab gamepad, set to launch on September 30. This version features exclusive Lancer artwork by heavy metal illustrator Luke Preece, offering a sleek, graphic-forward aesthetic. While the Design Lab edition allows for further customization of triggers and buttons, it trades the 3D-molded asphalt texture of the standard version for a clean, bespoke canvas. Both controllers are scheduled to be displayed at Gamescom on August 25.The 3D-molded Gears of War: E-Day controller is available for pre-order now, with the Design Lab version following on September 30 and the game title launching October 6, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3d4447d2f2a91a94",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Balance Formally Unveils the Made in USA 2040v5",
+      "url": "https://hypebeast.com/2026/8/new-balance-made-in-usa-2040v5-castlerock-mood-indigo-blacktop-u2040509-formal-reveal-release-info",
+      "publishedAt": "2026-08-13T18:43:02.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "New Balance Formally Unveils the Made in USA 2040v5 Summary New Balance has officially announced the revival of its high-end 2040 series with the Made in USA 2040v5The premium silhouette features nubuck construction full-length carbon fiber plates and multi-era cushioningThe sneaker drops in North America on August 20 for $400 USD followed by a global release in May 2027 Name: New Balance Made in USA 2040v5Colorway: Castlerock/Mood Indigo-BlacktopSKU: U2040509MSRP: $400 USDRelease Date: August 20, 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance Made in USA 2040v5, resurrecting one of the most premium performance-oriented lineages in its American-made catalog. The fifth iteration of the 2040 series—which originally debuted in 2012—positions itself at the peak of the brand's luxury offerings.Constructed around craftsmanship and high-spec utility, the 2040v5 bridges technical running technology with luxury lifestyle execution. The upper is built with premium nubuck paneling, providing a refined tactile feel across the silhouette. Underfoot, the shoe is equipped with a full-length carbon fiber plate for enhanced stability and propulsion.To deliver optimal energy return and shock absorption, New Balance combines cushioning systems across multiple eras of its running archive. The midsole unit integrates FuelCell foam alongside ABZORB SBS and ENCAP technologies, delivering a multi-layered platform designed for high-level comfort. Rather than targeting fleeting footwear trends, the silhouette serves as a dedicated showcase of domestic manufacturing and material quality.The New Balance Made in USA 2040v5 officially releases in North America on August 20, 2026, for $400 USD via New Balance and select retailers, with a broader global launch scheduled for May 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "617f05baec236a9f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Descente Unveils Its Premium “Mizusawa Down” FW26 Outerwear Range",
+      "url": "https://hypebeast.com/2026/8/descente-unveils-its-premium-mizusawa-down-fw26-outerwear-range",
+      "publishedAt": "2026-08-13T14:48:11.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "Descente Unveils Its Premium “Mizusawa Down” FW26 Outerwear Range Summary Descente drops Mizusawa Down FW26, updating classic models with modernized shell fabrics and reworked functional details.Key styles include Anchor, Storm, and Mountaineer jackets with Heat Navi® and Dermizax®.Advance pre-orders start August 21, 2026, followed by releases on September 18 and October 23. Descente has officially unveiled its flagship \"Mizusawa Down\" Fall/Winter 2026 collection, introducing a refined evolution of its iconic outerwear lineup. Crafted at the brand's newly rebuilt Mizusawa factory, the seasonal delivery updates classic models with modernized shell fabrics, reworked functional details, and enhanced practical utility designed to withstand harsh winter conditions.Retaining the signature non-quilted thermal bonding and seam-taped waterproofing that made the series famous, the FW26 range continues to merge minimalist urban style with extreme weather performance. The lineup is led by Descente’s timeless core models alongside seasonal additions. Key styles include the flagship \"MOUNTAINEER\" and its relaxed \"Oversized MOUNTAINEER\" variant, featuring the proprietary Parahood system and dual-zip ventilation. The versatile \"ANCHOR\" down jacket, \"ANCHOR-HC\" coat, and \"SHUTTLE-L\" also return with updated materializations and streamlined fits. A notable highlight for the FW26 season is the debut of the limited \"EXPEDITION\" model, offering elevated cold-weather protection designed exclusively for this release.Rollout for the \"Mizusawa Down\" FW26 collection begins with an initial drop and advance pre-order phase starting August 21, 2026, via Descente's official webstore and select flagship outposts. Subsequent rollouts are scheduled to follow on September 18 and October 23, 2026, bringing the full men's and women's technical down range to global stockists for the winter season. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ee4b8597e518bbed",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Kaptain Sunshine",
+      "url": "https://hypebeast.com/2026/8/new-arrivals-from-hbx-kaptain-sunshine",
+      "publishedAt": "2026-08-14T04:16:12.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "New Arrivals From HBX: Kaptain Sunshine Brand Information: Founded in Tokyo in 2013 by designer Shinsuke Kojima, Kaptain Sunshine reworks vintage Americana and military archives into a smart-casual wardrobe, built from Japan's finest mills, from Okayama selvedge denim to Kamakura leather. Heritage references, modern proportions, made to be worn hard.Price Range: $335.00 USD - $955.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "981364698ab52000",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Reebok Brings Back the Sidewinder 96 as a Lifestyle Sneaker",
+      "url": "https://hypebeast.com/2026/8/reebok-sidewinder-96-id-release-info",
+      "publishedAt": "2026-08-13T12:56:02.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "Reebok Brings Back the Sidewinder 96 as a Lifestyle Sneaker Name: Reebok Sidewinder 96 IDColorway: Silver/BlackSKU: TBCMSRP: ¥16,500 JPY (approx. $104 USD)Release Date: August 14Where to Buy: ReebokCelebrating a rich 1990s athletic heritage, Reebok is reviving its classic SIDEWINDER football silhouette from 1996 to commemorate the model's 30th anniversary. Originally renowned as a performance staple on the pitch, this updated iteration - dubbed the Reebok Sidewinder 96 ID - has been meticulously reconstructed as an indoor-ready lifestyle sneaker that bridges the gap between vintage sports design and modern street culture.Debuting as an exclusive release through the Harajuku-based select shop Kinetics in Japan, the sneaker preserves its original design DNA while transitioning effortlessly into a comfortable, daily-use wardrobe staple.The new iteration is defined by a striking, retro-futuristic aesthetic synonymous with '90s football products. Its upper is crafted from premium full-grain leather, elevated by a sharp, glossy metallic silver finish that immediately draws the eye.Enhancing its aggressive, speed-focused form are dynamic graphical stitch patterns and sleek black edge lines that run along the profile of the shoe, emphasizing its sleek aerodynamic heritage. Grounding this bold upper is a classic gum rubber outsole paired with a lightweight IMEVA midsole, a proven indoor-court combination that ensures superior grip and everyday comfort. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2d98e928e06d73cc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Teaser for 'American Horror Story: 13' Reassembles Iconic Cast for Crossover Season",
+      "url": "https://hypebeast.com/2026/8/fx-networks-american-horror-story-13-reassembles-iconic-cast-crossover-jessica-lange-teaser-trailer",
+      "publishedAt": "2026-08-13T18:42:56.000Z",
+      "collectedAt": "2026-08-14T13:16:37.205Z",
+      "text": "Teaser for 'American Horror Story: 13' Reassembles Iconic Cast for Crossover Season Summary FX has dropped the official teaser trailer for 'American Horror Story' Season 13 confirming the return of franchise staplesShowrunner Ryan Murphy describes the new 13-part series as an Avengers-style crossover spanning previous fan-favorite seasonsThe show premieres September 24 on FX and Hulu featuring 13 half-hour episodes airing through October 29 FX has officially lifted the curtain on American Horror Story: 13, releasing a teaser trailer that sets the stage for an unprecedented crossover season. The upcoming installment marks the long-awaited return of series icon Jessica Lange alongside an ensemble of returning fan favorites.The newly released teaser highlights returning legends across the anthology’s history, including Jessica Lange as Constance Langdon (Murder House), Evan Peters as Kai Anderson (Cult) and Rubber Man, as well as Sarah Paulson, Angela Bassett, and Emma Roberts reprising their respective roles as Cordelia Goode, Marie Laveau, and Madison Montgomery from Coven. Co-creator Ryan Murphy teased that the season will function as an \"Avengers\"-level crossover combining worlds from Murder House, Asylum, Coven, Freak Show, and Cult, with several actors portraying multiple legacy characters within the same scene.The official cast roster features Kathy Bates, Billie Lourd, Gabourey Sidibe, Leslie Grossman, Joey Pollari, John Carroll Lynch, Mena Suvari, Jamie Brewer, John Waters, Madelaine Petsch, and Tig Notaro. Formatted as 13 half-hour episodes, the broadcast schedule kicks off with three episodes on premiere night, followed by three more in week two, before transitioning to weekly double-episode drops leading up to the finale.American Horror Story: 13 officially premieres Thursday, September 24, 2026, at 9 p.m. ET on FX and Hulu. Read more at Hypebeast"
     }
   ]
 }

@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-08-13
+# Fieldwork Public Pulse — 2026-08-14
 
 ## 1. Quiet performance
 
@@ -13,18 +13,18 @@
 
 ## 2. Decorated basics
 
-**emerging · score 69 · confidence 54% · youth 100%**
+**emerging · score 59 · confidence 50% · youth 99%**
 
-7 public posts · 1 network · 7-day comparison
+5 public posts · 1 network · 7-day comparison
 
+- [made new patches!! SWASTICARS logo patch, fash-smashing noise synth (I'm so happy to finally dedicat](https://blahaj.zone/notes/a5v2auwii5sz01oy) — Mastodon
 - [I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc](https://blahaj.zone/notes/a6qm2hx0fvau0f4o) — Mastodon
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
-- [Anime-inspired green DTF PNG design, perfect for t-shirts, hoodies, and custom apparel printing. Hig](https://mastodon.social/@vectorency/116466757522085063) — Mastodon
-- [Trendy pop singer–inspired shirt design in DTF and sublimation format, perfect for t-shirts, hoodies](https://mastodon.social/@vectorency/116455423727056804) — Mastodon
+- [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
 
 ## Network status
 
-- **mastodon:** ready — 19 observations
+- **mastodon:** ready — 17 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

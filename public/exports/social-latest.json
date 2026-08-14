@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-08-13",
+    "id": "social-2026-08-14",
     "mode": "live",
-    "generatedAt": "2026-08-13T13:22:36.096Z",
-    "postsCollected": 19,
+    "generatedAt": "2026-08-14T13:16:51.291Z",
+    "postsCollected": 17,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,12 +44,17 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 69,
-      "confidence": 54,
-      "youthRelevance": 100,
-      "velocity": -42,
-      "evidence": "7 public posts · 1 network · 7-day comparison",
+      "score": 59,
+      "confidence": 50,
+      "youthRelevance": 99,
+      "velocity": -58,
+      "evidence": "5 public posts · 1 network · 7-day comparison",
       "citations": [
+        {
+          "title": "made new patches!! SWASTICARS logo patch, fash-smashing noise synth (I'm so happy to finally dedicat",
+          "url": "https://blahaj.zone/notes/a5v2auwii5sz01oy",
+          "network": "Mastodon"
+        },
         {
           "title": "I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc",
           "url": "https://blahaj.zone/notes/a6qm2hx0fvau0f4o",
@@ -61,13 +66,8 @@
           "network": "Mastodon"
         },
         {
-          "title": "Anime-inspired green DTF PNG design, perfect for t-shirts, hoodies, and custom apparel printing. Hig",
-          "url": "https://mastodon.social/@vectorency/116466757522085063",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Trendy pop singer–inspired shirt design in DTF and sublimation format, perfect for t-shirts, hoodies",
-          "url": "https://mastodon.social/@vectorency/116455423727056804",
+          "title": "Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab",
+          "url": "https://mastodon.social/@moreniia_tys/115005103080334408",
           "network": "Mastodon"
         }
       ]
@@ -77,7 +77,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "19 observations"
+      "reason": "17 observations"
     },
     {
       "id": "bluesky",
