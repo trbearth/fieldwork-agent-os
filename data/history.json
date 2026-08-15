@@ -623,6 +623,38 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-15",
+      "mode": "live",
+      "displayDate": "AUG 15, 2026, 08:46 AM EDT",
+      "generatedAt": "2026-08-15T12:46:33.909Z",
+      "itemsCollected": 42,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 16
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 45,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -10206,6 +10238,468 @@
       "publishedAt": "2026-08-13T18:42:56.000Z",
       "collectedAt": "2026-08-14T13:16:37.205Z",
       "text": "Teaser for 'American Horror Story: 13' Reassembles Iconic Cast for Crossover Season Summary FX has dropped the official teaser trailer for 'American Horror Story' Season 13 confirming the return of franchise staplesShowrunner Ryan Murphy describes the new 13-part series as an Avengers-style crossover spanning previous fan-favorite seasonsThe show premieres September 24 on FX and Hulu featuring 13 half-hour episodes airing through October 29 FX has officially lifted the curtain on American Horror Story: 13, releasing a teaser trailer that sets the stage for an unprecedented crossover season. The upcoming installment marks the long-awaited return of series icon Jessica Lange alongside an ensemble of returning fan favorites.The newly released teaser highlights returning legends across the anthology’s history, including Jessica Lange as Constance Langdon (Murder House), Evan Peters as Kai Anderson (Cult) and Rubber Man, as well as Sarah Paulson, Angela Bassett, and Emma Roberts reprising their respective roles as Cordelia Goode, Marie Laveau, and Madison Montgomery from Coven. Co-creator Ryan Murphy teased that the season will function as an \"Avengers\"-level crossover combining worlds from Murder House, Asylum, Coven, Freak Show, and Cult, with several actors portraying multiple legacy characters within the same scene.The official cast roster features Kathy Bates, Billie Lourd, Gabourey Sidibe, Leslie Grossman, Joey Pollari, John Carroll Lynch, Mena Suvari, Jamie Brewer, John Waters, Madelaine Petsch, and Tig Notaro. Formatted as 13 half-hour episodes, the broadcast schedule kicks off with three episodes on premiere night, followed by three more in week two, before transitioning to weekly double-episode drops leading up to the finale.American Horror Story: 13 officially premieres Thursday, September 24, 2026, at 9 p.m. ET on FX and Hulu. Read more at Hypebeast"
+    },
+    {
+      "id": "7ac7e83f6945f55d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘Heated Rivalry’ Season 2 Is on Its Way—and It Already Has a Stacked Cast",
+      "url": "https://www.vogue.com/article/everything-we-know-so-far-heated-rivalry-season-2",
+      "publishedAt": "2026-08-15T12:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.735Z",
+      "text": "‘Heated Rivalry’ Season 2 Is on Its Way—and It Already Has a Stacked Cast Here’s everything we know so far about the second outing of everyone’s favorite gay hockey show—including its expected air date."
+    },
+    {
+      "id": "97a743e513b8efce",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-15-2026",
+      "publishedAt": "2026-08-15T10:06:41.000Z",
+      "collectedAt": "2026-08-15T12:46:29.736Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week Color continues to dominate, from opulent ’80s pink to dreamy shades of pastel, while glam teams got precise with eyes and lips. From Priyanka Kedia to Adela, these are the week’s best beauty looks."
+    },
+    {
+      "id": "f592556c5ea3f0ef",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Scandi Street Style Way to Wear Sheers",
+      "url": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
+      "publishedAt": "2026-08-15T10:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.736Z",
+      "text": "The Scandi Street Style Way to Wear Sheers At Copenhagen Fashion Week, peekaboo looks were all the rage."
+    },
+    {
+      "id": "d175d83f63d98ba0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At the Venice Film Festival, Why Is Only One Woman Competing for the Top Prize?",
+      "url": "https://www.vogue.com/article/why-is-only-one-woman-competing-for-venice-film-festivals-top-prize",
+      "publishedAt": "2026-08-14T22:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.736Z",
+      "text": "At the Venice Film Festival, Why Is Only One Woman Competing for the Top Prize? After years of increased representation, female directors are all but missing from the Venice Film Festival’s main competition. Here’s how we got here—and what needs to change."
+    },
+    {
+      "id": "979377f39b88191a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Mousses to Sprays, Here’s Everything You Need to Add Volume to Fine Hair",
+      "url": "https://www.vogue.com/article/volumizing-products-for-fine-hair",
+      "publishedAt": "2026-08-14T21:18:16.000Z",
+      "collectedAt": "2026-08-15T12:46:29.736Z",
+      "text": "From Mousses to Sprays, Here’s Everything You Need to Add Volume to Fine Hair What are the best products for adding volume to fine hair? Take your pick of expert-endorsed mousses, sprays, and mists that deliver long-lasting, lightweight hold."
+    },
+    {
+      "id": "cdfae5498f618bee",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Gourmand Fragrances Redefining Sweetness",
+      "url": "https://www.vogue.com/article/gourmand-fragrance",
+      "publishedAt": "2026-08-14T20:29:47.000Z",
+      "collectedAt": "2026-08-15T12:46:29.736Z",
+      "text": "The Best Gourmand Fragrances Redefining Sweetness The best gourmand fragrances have evolved into sophisticated, grown-up scents. From sweet and spicy to woody, 13 gourmand perfumes to indulge in."
+    },
+    {
+      "id": "34e4ad2798edb2be",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Coco Jones and Donovan Mitchell’s New York State Wedding",
+      "url": "https://www.vogue.com/slideshow/coco-jones-and-donovan-mitchell-wedding",
+      "publishedAt": "2026-08-14T20:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.736Z",
+      "text": "Inside Coco Jones and Donovan Mitchell’s New York State Wedding The singer and NBA player worked with designers Off-White, Esé Azénabor, Scorcésa, and Brandon Blackwood for their wedding looks—as well as bridesmaids’ dresses hand-dyed by Coco herself. See all the photos from Coco Jones and Donovan Mitchell’s wedding here."
+    },
+    {
+      "id": "5c12e102af40e02c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Taylor Swift Makes Her First Post-Wedding Solo Appearance in a Lavender Haze",
+      "url": "https://www.vogue.com/article/taylor-swift-first-post-wedding-solo-appearance",
+      "publishedAt": "2026-08-14T19:20:01.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Taylor Swift Makes Her First Post-Wedding Solo Appearance in a Lavender Haze Spotted emerging from a private members club in London, Taylor Swift wore her best lilacs and sparkles (plus, a new haircut) for a girls night out."
+    },
+    {
+      "id": "6c5995720f3926dd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Tallulah Willis and Justin Acee’s Woodland Wedding at the Bride’s Family Home in Idaho",
+      "url": "https://www.vogue.com/slideshow/tallulah-willis-and-justin-acee-wedding",
+      "publishedAt": "2026-08-14T17:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Inside Tallulah Willis and Justin Acee’s Woodland Wedding at the Bride’s Family Home in Idaho Tallulah Willis wore custom Balenciaga for her wedding to musician Justin Acee, which took place on the grounds of her childhood home surrounded by friends and family. See all the photos from Tallulah Willis’s wedding here."
+    },
+    {
+      "id": "2db6abb078642c02",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Behind-the-Scenes Look at Zara Larsson’s Lollapalooza Stop During Her ‘Midnight Sun’ Tour",
+      "url": "https://www.vogue.com/article/soundcheck-zara-larsson",
+      "publishedAt": "2026-08-14T16:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "A Behind-the-Scenes Look at Zara Larsson’s Lollapalooza Stop During Her ‘Midnight Sun’ Tour The last time the Swedish pop star played Lolla, “I was a teenager,” she tells Vogue, “and now I’m a woman..., I feel more involved in my artistry and in my songwriting and in the making of the show, and I think you can really, really tell,” she says."
+    },
+    {
+      "id": "007c62f617b04082",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story",
+      "url": "https://www.vogue.com/article/keeping-the-spirit-alive-more-than-a-month-in-pictures-the-pvmonday-story",
+      "publishedAt": "2026-08-14T14:45:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story Join us in celebrating the pics of the day since June 2025 until today"
+    },
+    {
+      "id": "b6a5c59d392a1f1d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kaia Gerber and Lewis Pullman Are Ready for Fall in Their Autumnal Couple Style",
+      "url": "https://www.vogue.com/article/kaia-gerber-lewis-pullman-autumnal-couple-style",
+      "publishedAt": "2026-08-14T14:18:39.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Kaia Gerber and Lewis Pullman Are Ready for Fall in Their Autumnal Couple Style Summer doesn’t technically end until late September, but as far as Kaia Gerber and Lewis Pullman are concerned, it’s already fall."
+    },
+    {
+      "id": "162e5a76097a8c25",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Feta Isn’t Just Delicious, It’s High in Protein and Calcium",
+      "url": "https://www.vogue.com/article/feta-cheese-benefits-2026",
+      "publishedAt": "2026-08-14T14:08:46.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Feta Isn’t Just Delicious, It’s High in Protein and Calcium Eaten in Greece for centuries and rooted in tradition, feta is an ancient cheese with plenty of nutritional benefits."
+    },
+    {
+      "id": "c06351940a991405",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Amal Clooney Has Nailed Her Summer Gala Dressing Formula",
+      "url": "https://www.vogue.com/article/amal-clooney-nails-summer-gala-dressing-formula",
+      "publishedAt": "2026-08-14T14:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Amal Clooney Has Nailed Her Summer Gala Dressing Formula High summer on Lake Como is Amal Clooney at the peak of her fashion powers—her latest look, for a Clooney Foundation for Justice dinner, hits all the right notes."
+    },
+    {
+      "id": "818080785671ca6e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tracee Ellis Ross Wants You to Have It All",
+      "url": "https://www.vogue.com/article/tracee-ellis-ross-wants-you-to-have-it-all",
+      "publishedAt": "2026-08-14T13:39:57.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Tracee Ellis Ross Wants You to Have It All The actor and entrepreneur shares her love for textured hair—curly, straight, or styled—and how Pattern Beauty’s newest collection supports beauty play."
+    },
+    {
+      "id": "0f7149ff4aa42400",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Halle Berry Is 60! 23 Vintage Photos of the Timeless Beauty",
+      "url": "https://www.vogue.com/slideshow/vintage-photos-of-halle-berry",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Halle Berry Is 60! 23 Vintage Photos of the Timeless Beauty These throwback snapshots prove that Berry has always had an ageless and absolutely jaw-dropping sense of style."
+    },
+    {
+      "id": "939c45e26dc10a3b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Justin and Hailey Bieber’s Mismatched Couple Style Through the Years",
+      "url": "https://www.vogue.com/slideshow/justin-bieber-hailey-bieber-mismatched-couple-style-through-the-years",
+      "publishedAt": "2026-08-14T06:30:00.000Z",
+      "collectedAt": "2026-08-15T12:46:29.737Z",
+      "text": "Justin and Hailey Bieber’s Mismatched Couple Style Through the Years Throughout their relationship, Hailey and Justin Bieber have continued to grow into themselves, moving away from their shared fashion choices."
+    },
+    {
+      "id": "b06e04999f55055b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Brown's Back Big & This adidas Classic Is Buying In",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-adv-dark-brown/",
+      "publishedAt": "2026-08-15T09:10:00.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Brown's Back Big & This adidas Classic Is Buying In the Three Stripes reinforces its skateboarding lineage with the arrival of the adidas Originals Samba ADV Dark Brown/Core Black/Gum."
+    },
+    {
+      "id": "7e71233cf096a10e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Frat-Boy Starter Pack That Won’t Break The Bank",
+      "url": "https://www.highsnobiety.com/p/back-to-campus-guide-under-100-dollars/",
+      "publishedAt": "2026-08-15T09:00:01.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "The Frat-Boy Starter Pack That Won’t Break The Bank Prepare for the semester ahead with our back to campus guide featuring comfortable, understated essentials under $100."
+    },
+    {
+      "id": "4ef17490819f4557",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike Put Its Classic Air Force 1 on Wheels",
+      "url": "https://www.highsnobiety.com/p/nike-sb-air-force-1-chocolate/",
+      "publishedAt": "2026-08-15T07:57:00.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Nike Put Its Classic Air Force 1 on Wheels Nike's chocolate-coated Air Force 1 skateboard sneaker is a classic Swoosh relic built for the ramp."
+    },
+    {
+      "id": "8a96ec626fe1e926",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Bottega Veneta's Well-Woven Clog Is Luxuray for the Everyday",
+      "url": "https://www.highsnobiety.com/p/bottega-venetas-well-woven-clog-is-luxuray-for-the-everyday/",
+      "publishedAt": "2026-08-15T07:35:01.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Bottega Veneta's Well-Woven Clog Is Luxuray for the Everyday Bottega Veneta's luxe leather Intrecciato Leather Clog Mule is the textbook definition of quiet luxury."
+    },
+    {
+      "id": "4343ed59b284bf40",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "How Did New Balance's Alien Moccasin Sneaker Hybrid Get Even Weirder?",
+      "url": "https://www.highsnobiety.com/p/new-balance-u1890a-cow-print/",
+      "publishedAt": "2026-08-15T01:03:01.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "How Did New Balance's Alien Moccasin Sneaker Hybrid Get Even Weirder? The New Balance U1890A Cow Print takes a silhouette that was already inherently experimental and goes all out."
+    },
+    {
+      "id": "89fd93ab5d31a3fb",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "America's Oldest Clothing Company Is Making Prep Look Better Than Prep",
+      "url": "https://www.highsnobiety.com/p/brooks-brothers-ron-herman/",
+      "publishedAt": "2026-08-14T21:33:01.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "America's Oldest Clothing Company Is Making Prep Look Better Than Prep The Japanese branch of Los Angeles retailer Ron Herman released a new Brooks Brothers collaboration that includes WASP-worthy plain totes, shirts, and more."
+    },
+    {
+      "id": "bfe5ef471a0d856a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Turns Out, Aya Brown Designed an Earthy Air Max for Everyone",
+      "url": "https://www.highsnobiety.com/p/aya-brown-nike-air-max-95-sneakers/",
+      "publishedAt": "2026-08-14T20:56:31.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Turns Out, Aya Brown Designed an Earthy Air Max for Everyone Artist Aya Brown debuts a second Air Max 95 sneaker collab in \"Atomic Green\" after her F&F pairs. Here's everything on the wider release."
+    },
+    {
+      "id": "c869dceb9a6338e9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Your Next North Face Jacket Should Be One of One",
+      "url": "https://www.highsnobiety.com/p/the-north-face-customization/",
+      "publishedAt": "2026-08-14T19:33:01.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Your Next North Face Jacket Should Be One of One The North Face Japan is introducing a permanent customization workshop to its flagship Sapporo Factory store to let you put a personal touch on every item."
+    },
+    {
+      "id": "5c9570625deb00e8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "PUMA's Most Classic Suede Sneaker Goes Suede-Free",
+      "url": "https://www.highsnobiety.com/p/puma-suede-modern-leather-sneakers/",
+      "publishedAt": "2026-08-14T19:49:51.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "PUMA's Most Classic Suede Sneaker Goes Suede-Free PUMA's newest Suede Modern sneaker switches up the program with creamy chocolate-brown leather & dressy details."
+    },
+    {
+      "id": "26b9e43c3ffde0ce",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Spotted Tennis Sneakers Literally Have That Dawg in ‘Em",
+      "url": "https://www.highsnobiety.com/p/nike-tennis-classic-chew-dog/",
+      "publishedAt": "2026-08-14T18:56:09.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Nike’s Spotted Tennis Sneakers Literally Have That Dawg in ‘Em Nike's Tennis Classic get a paw-fect makeover for the newest \"Chew Dog\" collection, resulting a furry Dalmatian-inspired take on the model."
+    },
+    {
+      "id": "776e81051b560eab",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Small Dunks Are Mighty Cool",
+      "url": "https://www.highsnobiety.com/p/nike-dunk-low-midnight-navy-speed-red/",
+      "publishedAt": "2026-08-14T20:50:58.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Nike’s Small Dunks Are Mighty Cool Nike's newest Dunk Low sneaker is a textural, multicolored flex...for kids. Here's everything on the crazy-good release."
+    },
+    {
+      "id": "2aab0da085c96ec4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Crazy Watches Are for Collectors. A Cool Timex Is for Everyone Else",
+      "url": "https://www.highsnobiety.com/p/timex-beams-square-camper/",
+      "publishedAt": "2026-08-14T17:33:00.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Crazy Watches Are for Collectors. A Cool Timex Is for Everyone Else The heritage watchmaker is known for its classic styles, but in the hands of BEAMS, it finds a way to gently rock the boat with a two-in-one timepiece."
+    },
+    {
+      "id": "defadbff8787142d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Out in the Open with Tara Thomas",
+      "url": "https://www.highsnobiety.com/p/out-in-the-open-with-tara-thomas/",
+      "publishedAt": "2026-08-14T17:27:19.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "Out in the Open with Tara Thomas When the chaos and clatter of the kitchen gets to be too loud, culinary architect Tara Thomas knows where to find peace of mind."
+    },
+    {
+      "id": "eb58a9961132908a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Designer Made Wearable Origami Art Out of adidas' Military Trainer (EXCLUSIVE)",
+      "url": "https://www.highsnobiety.com/p/ofiles-adidas-sneakers/",
+      "publishedAt": "2026-08-14T20:49:33.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "This Designer Made Wearable Origami Art Out of adidas' Military Trainer (EXCLUSIVE) O. Files debuts its adidas Origiami BW Army sneaker featuring pleated leather uppers. Here's how to score a pair."
+    },
+    {
+      "id": "1bee911ad4001322",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: In the Age of AI, Hermès Goes All-In on Illustration",
+      "url": "https://www.highsnobiety.com/p/hermes-ai-illustration/",
+      "publishedAt": "2026-08-14T15:22:22.000Z",
+      "collectedAt": "2026-08-15T12:46:31.028Z",
+      "text": "State of the Art: In the Age of AI, Hermès Goes All-In on Illustration Hermès brought together artists Sarah Martinon and Armand Béraud to give its website a hand-drawn touch, continuing its longstanding ties to the art world."
+    },
+    {
+      "id": "092181cc969fd257",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Olaolu Slawn Unveils \"The Slawn x Rolex Multiverse\" 12-Piece Custom Watch Collection",
+      "url": "https://hypebeast.com/2026/8/olaolu-slawn-rolex-multiverse-12-piece-custom-watch-collection",
+      "publishedAt": "2026-08-14T20:22:06.000Z",
+      "collectedAt": "2026-08-15T12:46:32.652Z",
+      "text": "Olaolu Slawn Unveils \"The Slawn x Rolex Multiverse\" 12-Piece Custom Watch Collection Summary British-Nigerian artist Olaolu Slawn has revealed a custom 12-piece Rolex collection co-designed alongside global cultural iconsThe project features one-of-one timepieces created with figures across rap football art and fashion with two mystery collaborators remainingEach watch will release individually throughout August following the project website launch on August 18 Olaolu Slawn has officially announced \"The Slawn x Rolex Multiverse,\" a project consisting of 12 one-of-one custom Rolex timepieces co-designed alongside cultural leaders from sports, music, art, and fashion. First reported by Will Lavin, the collection expands on the British-Nigerian artist’s previous hand-painted watch releases with an array of unique collaborative designs.The 11 confirmed co-creators span a broad cross-section of global street culture and fine art. The roster includes footballers Ronaldinho and Mario Balotelli, rap heavyweights Gunna and Lil Yachty, Corteiz founder Clint419, Fuckthepopulation founder Zac FTP, Japanese graphic designer VERDY, visual artist and photographer Gabriel Moses, artist Cedric Christie, nightlife operator David Grutman, and Nigerian skate collective Motherlan. Two mystery collaborator slots remain unrevealed within the 12-piece lineup.Revealed via a lo-fi webcam-style video teaser, each timepiece in the capsule features a distinct bespoke aesthetic, ensuring no two models share a design. The drop builds upon Slawn’s 2024 hand-painted Rolex DateJust \"Berlin\" series, which sold out in four minutes and currently commands high market resale values.\"The Slawn x Rolex Multiverse\" project website officially goes live on August 18, 2026, with the 12 one-of-one timepieces releasing individually at separate points throughout August. View this post on InstagramA post shared by slawn (@olaoluslawn) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0c17d9169b6bd605",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Instagram Unveils Refreshed Wordmark for First Time in a Decade",
+      "url": "https://hypebeast.com/2026/8/instagram-changes-wordmark-first-time-in-10-years",
+      "publishedAt": "2026-08-14T20:29:40.000Z",
+      "collectedAt": "2026-08-15T12:46:32.652Z",
+      "text": "Instagram Unveils Refreshed Wordmark for First Time in a Decade Summary Instagram has introduced a subtle refresh to its top-of-app wordmark marking its first update in 10 yearsThe redesigned typography retains the familiar script style while adopting redrawn letterforms and a cleaner overall shapeHead of Instagram Adam Mosseri highlighted that the update brings a modern feel while honoring the original design identity Instagram has officially unveiled a refreshed Instagram wordmark, marking the first time in a decade that the platform has updated the signature text logo at the top of its app. Announced directly by Head of Instagram Adam Mosseri, the visual update serves as a subtle modernization of the social media network's identity.The updated wordmark replaces the previous design introduced in 2016, which debuted alongside one of the platform's largest visual overhauls that famously replaced the original camera icon. While preserving the familiar cursive aesthetic, the new iteration incorporates redrawn letterforms designed to deliver a cleaner, more refined overall shape.Speaking on the redesign, Mosseri emphasized the balance between modern evolution and brand heritage. \"The wordmark at the top of the app hasn’t changed in 10 years, so it was time for a refresh. Cleaner and more modern, with references to the original and the simplicity and craft that’s always made it,” shared Adam Mosseri, Head of Instagram on his post. Take a look below. View this post on InstagramA post shared by Adam Mosseri (@mosseri) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a6932fb0157bf019",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Noah Reimagines the Converse Jack Purcell 1935 in Plaid",
+      "url": "https://hypebeast.com/2026/8/noah-converse-jack-purcell-1935-release-info",
+      "publishedAt": "2026-08-13T12:31:53.000Z",
+      "collectedAt": "2026-08-15T12:46:32.652Z",
+      "text": "Noah Reimagines the Converse Jack Purcell 1935 in Plaid Name: Noah x Converse Jack Purcell 1935Colorway: TBCSKU: TBCMSRP: ¥18,700 JPY (approx. $117 USD)Release Date: August 21Where to Buy: Noah, ConverseNoah has teamed up with Converse for a Japan-exclusive iteration of the iconic Jack Purcell. In celebrating the Jack Purcell 1935’s 90th anniversary, the sneaker incorporates distinctive features such as four-stitch toe caps, asymmetrical toe guards and vintage-inspired proportions.Noah adds its own identity through an original plaid pattern on the upper, embroidered cross motifs at the heel, and special heel labels. The design is completed with two sets of shoelaces in white and red, allowing for versatile styling. Crafted with refined materials and subtle branding, the collaboration balances authenticity with contemporary flair.The sneaker is slated for an initial release on August 21, 2026, at select NOAH locations and select retailers, followed by a wider Converse drop on August 26, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "944295ce5f4818db",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Inside Tololo Ugarte's Vaulted \"Spyglass\" Residence in Limache",
+      "url": "https://hypebeast.com/2026/8/tololo-ugarte-catalejo-house-limache-valparaiso-chile",
+      "publishedAt": "2026-08-13T11:48:59.000Z",
+      "collectedAt": "2026-08-15T12:46:32.652Z",
+      "text": "Inside Tololo Ugarte's Vaulted \"Spyglass\" Residence in Limache Situated in Limache within the Valparaíso Region of Chile, Catalejo House is a striking architectural project designed by the studio Tololo Ugarte. The micro-house is nestled within a monumental landscape defined by an oasis of ancient quillayes and molles trees, some of which are over 300 years old. Designed to emerge organically from its context, the residence sits on an extension of highly fertile soil that is exceptionally sensitive to seasonal shifts. During the summer months, the surroundings take on a stark, desert-like appearance, while winter and spring bring forth dense, irregular vegetation that creates the illusion of the house floating amidst nature.Conceived as a \"spyglass\" micro-house, Catalejo functions as an architectural experiment that blurs the boundaries between the indoors and the majestic outdoors. A defining feature of the structure is its prominent circular, vaulted roof crafted from a combination of steel and wood, which facilitates a spacious, double-height interior. This distinct geometry establishes a direct spatial connection with the exterior environment, fostering a sense of continuity. By leveraging the unique attributes of the site, the interior layout transforms the surrounding landscape into living art, where each window acts as a dynamic frame capturing a new, ever-changing view of the ancient trees.The materiality and construction of the Catalejo house are deeply rooted in a philosophy of environmental integration and respect. Tololo Ugarte specifically selected materials intended to generate a mimesis with the surrounding landscape, allowing the built structure to seamlessly fuse with its natural context. This intentional camouflage serves to minimize the visual footprint of the architecture, ensuring that the monumental trees remain the focal point of the site. Ultimately, the residence proposes a new way of inhabiting spaces by inviting deep reflection on the relationship between humanity and nature, offering a continuous, evolving dialogue with the Chilean landscape. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "de63057221b8cde6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Arc'teryx and BEAMS Repurpose Deadstock GORE-TEX for the STUFF SACK-ReCUT",
+      "url": "https://hypebeast.com/2026/8/arcteryx-beams-exclusive-stuff-sack-recut-release-info",
+      "publishedAt": "2026-08-13T11:52:48.000Z",
+      "collectedAt": "2026-08-15T12:46:32.652Z",
+      "text": "Arc'teryx and BEAMS Repurpose Deadstock GORE-TEX for the STUFF SACK-ReCUT Summary Arc'teryx and BEAMS drop \"STUFF SACK-ReCUT,\" repurposing deadstock GORE-TEX and nylon scraps into unique storage bags.Each patchwork pouch features distinct color blocking alongside Arc'teryx's iconic Deadbird logo.Launches August 15, 2026, through BEAMS for ¥5,500 JPY (approx. $35 USD). Arc'teryx and BEAMS have reconnected for a limited, upcycled accessory release featuring the STUFF SACK-ReCUT. Stemming from Arc'teryx’s commitment to circular design and BEAMS' distinct street aesthetic, the project repurposes leftover technical fabric scraps into functional storage gear.Each individual stuff sack is crafted as a one-of-a-kind piece, utilizing patchwork construction across a variety of Arc'teryx's deadstock GORE-TEX and nylon textiles. The release highlights the brand's iconic Deadbird logo printed alongside subtle co-branding, blending utilitarian outdoor practicality with bespoke urban styling.Priced at ¥5,500 JPY (approx. $35 USD), Arc'teryx STUFF SACK-ReCUT will be available through BEAMS starting August 15, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b18128930c20058a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kith Celebrates 15th Anniversary With BMW & Levi's Revives Historic 1942 501 in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/8/kith-bmw-gap-malcolm-todd-nike-meta-levis-info",
+      "publishedAt": "2026-08-14T13:51:00.000Z",
+      "collectedAt": "2026-08-15T12:46:32.652Z",
+      "text": "Kith Celebrates 15th Anniversary With BMW & Levi's Revives Historic 1942 501 in This Week's Top Fashion News SummaryLevi’s brought back archival 1942 501s, while Gap tapped Malcolm Todd for its new denim campaign.Nike Japan teased a One Piece collaboration, and Kith expanded its luxury automotive footprint alongside BMW.Meta's smart glasses faced major venue bans across the UK.Kith for BMW Chapter IV Collection Collaboration Release InfoFollowing the reveal of its one-of-one 1972 BMW 3.0 CSi and 1987 BMW M6 E24 restoration, Kith officially unveiled its highly anticipated Chapter IV collection with BMW. In celebration of the brand's 15th anniversary, the collaborative effort continued to bridge the gap between automotive heritage and premium streetwear. In outerwear, a multi-paneled leather jacket crafted in partnership with AVIREX is offered alongside the Braun and Dewitt leather moto jackets. Elsewhere, the Nelson Quarter Zip, Braxton Track Zip, and Nelson Hoodie stand out in a range of everyday essentials. For accessories, Kith introduces Monogram-embossed leather overnight bags, travel duffles, watch holders, ‘47 Sheep Suede Drivers Caps, and much more. The fourth installment of their partnership solidified the enduring synergy between the two powerhouse brands, proving that the crossover between luxury cars and modern fashion still had plenty of gas left in the tank.Meta Smart Glasses Face Widespread UK Venue BansMeta's smart glasses faced bans at various venues in the United Kingdom, a blow to the company's attempts to expand the product's global adoption. Event spaces and clubs cracked down on the wearable technology, citing strict privacy and unauthorized recording concerns. While Wetherspoons stands as one of the largest chains enforcing the restriction across its 800 locations, private members’ club Soho House has also asked patrons to remove the hardware upon entry. In entertainment, ATG Theatres has restricted wearing the frames during programming, and Monopoly Events instituted an outright ban for Comic-Con. The widespread restrictions served as a harsh reality check for the booming smart eyewear market, setting a definitive precedent for how wearable cameras are integrated into nightlife and entertainment.Levi's Vintage Clothing Re-Release Archival 1942 501 JeansLevi’s Vintage Clothing reached deep into its vault to re-release the iconic 1942 501 jeans. The reproduction meticulously captured World War II-era specifications, a time when strict "
+    },
+    {
+      "id": "3a1d2cc14c9d7614",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Dr. Margarita Lila Rosa Only Wants the Art World’s \"Non-Commercial Realness\"",
+      "url": "https://hypebeast.com/2026/8/dr-margarita-lil-rosa-hypeart-state-of-art-spotlight",
+      "publishedAt": "2026-08-14T16:35:00.000Z",
+      "collectedAt": "2026-08-15T12:46:32.653Z",
+      "text": "Dr. Margarita Lila Rosa Only Wants the Art World’s \"Non-Commercial Realness\" Summary 'State of Art' is a new HypeArt series inviting artists, curators, collectors and other leading voices to weigh in on the ideas, debates and cultural shifts shaping contemporary art. Through intimate questions and personal recommendations, the series offers a closer look at what is exciting the art world, what needs to change and where things may be heading next. Dr. Margarita Lila Rosa approaches contemporary art as both a historian and an active participant in the cultural conversations shaping it. Based in Harlem, the public scholar, independent curator and art critic specializes in Afro-Latinx, Latinx and Black Atlantic history, tracing the ways migration, memory, identity and diasporic experience continue to reverberate through contemporary art.That perspective also makes Rosa less interested in simply following what the art world has deemed important. She looks for the works and exhibitions that linger emotionally, challenge familiar narratives or offer new ways of understanding the present. Sometimes that means finding surreal beauty in Bony Ramirez’s sculptural world, and other times it means wandering through the Venice Biennale with a dead phone and unexpectedly finding comfort in the recorded apologies of complete strangers.For the latest installment of Hypeart’s State of Art, Rosa reflects on the art that has stayed with her in 2026, from Ramirez’s El Cielo Del Mar to the late Koyo Kouoh’s Venice Biennale. She talks about why the latter felt less like an exhibition than a “praise dance,” calls for more poetry and less noise in contemporary art and explains why she’s giving the art world an A+ despite the increasingly difficult world surrounding it.What’s the one show from the first half of this year that you can't stop thinking about?Bony Ramirez’s \"El Cielo Del Mar\" still has a grip on me. It was an installation of large-scale sculptural works at the Historic Chapel of Green-Wood Cemetery in Brooklyn, curated by the incredible Anne-Laure Saives and scored by Elvin Tavarez. My mind is both puzzled and reassembled by Ramirez’s sculptural practice–his modular wooden pieces, often geometric or circular, are meant to mimic the simple wooden slabs that countryside houses are made of. I am absolutely in awe of his practice. While Ramirez is known for his beautiful portraits of stylized doe-eyed countryside people, he manages to create sculptural “portraits” from baby"
+    },
+    {
+      "id": "07e1ab9c1154f922",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "and wander Launches Its Tech-Focused FW26 Collection",
+      "url": "https://hypebeast.com/2026/8/and-wander-fall-winter-2026-collection-lookbook-release-info",
+      "publishedAt": "2026-08-14T13:20:01.000Z",
+      "collectedAt": "2026-08-15T12:46:32.653Z",
+      "text": "and wander Launches Its Tech-Focused FW26 Collection Summary and wander unveils its FW26 Collection, engineering technical gear that bridges harsh outdoor conditions with urban environments.Features PERTEX® waterproof shells, insulated down, grid fleece, Cordura bags, and technical footwear.Available now via and wander and select stockists. Japanese outdoor label and wander has unveiled its Fall/Winter 2026 collection, delivering an extensive system of technical gear engineered to transition seamlessly between severe wilderness conditions and active urban landscapes. Centered in the brand's philosophy of bringing fashion-forward aesthetics to performance outerwear, the seasonal lineup balances advanced weatherproofing with refined, street-ready styling.The product assortment spans heavy-duty technical shells, modular mid-layers, performance fleece, utilitarian trousers, and specialized outdoor equipment. Standout styles include signature water-repellent hooded jackets utilizing PERTEX® fabrics, insulated down outerwear, and breathable grid-fleece tops crafted for optimal thermal regulation.Complementing the technical apparel is an expansive lineup of gear, featuring durable Cordura nylon backpacks, technical crossbody bags, weather-resistant headwear, and collaborative footwear built to handle unpredictable terrain and changing climates.The FW26 Collection is available now through the brand’s official site and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "37c6f4e6e55b9350",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Readies the Women’s-Exclusive First Sight Shadow SP in Two Futuristic Colorways",
+      "url": "https://hypebeast.com/2026/8/nike-readies-the-womens-exclusive-first-sight-shadow-sp-in-two-futuristic-colorways",
+      "publishedAt": "2026-08-14T13:19:55.000Z",
+      "collectedAt": "2026-08-15T12:46:32.653Z",
+      "text": "Nike Readies the Women’s-Exclusive First Sight Shadow SP in Two Futuristic Colorways Name: Nike Women's First Sight Shadow SP “Black” & “Metallic Silver”Colorway: Black/Metallic Dark Grey, Metallic Silver/Black IceSKU: HQ2410-001, HQ2410-002MSRP: ¥21,560 JPY (approx. $135 USD)Release Date: August 15Where to Buy: NikeThe Nike First Sight Shadow SP expands its women’s-exclusive lineup with two new iterations in “Black” and “Metallic Silver.” Following the all-black first look teased earlier this year, the silhouette continues to emphasize bold layering and sculptural design.Channeling the experimental, aggressive energy of 1990s and 2000s basketball designs - with distinct nods to models like the iconic Flightposite - this bold release translates vintage hardwood DNA into a highly futuristic lifestyle sneaker. The silhouette is defined by its laceless, slip-on construction, pairing a sculptural, molded outer shell with a seamless inner neoprene bootie that delivers a snug, sock-like fit. This Y2K-inspired hybrid aesthetic perfectly balances nostalgic performance heritage with a forward-thinking attitude tailored for modern wear.The avant-garde design of the First Sight Shadow SP is brought to life through its textural details, featuring raised ovals that ripple across the molded upper to create a visual effect akin to liquid metal frozen in motion. Complete with a bespoke, court-inspired traction pattern underneath, both of these women’s-only iterations make a bold, uncompromising statement in athletic-inspired design. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "50df6cddb4e8ecb4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Take a First Look at the mfpen x New Balance 992 Sneaker",
+      "url": "https://hypebeast.com/2026/8/mfpen-new-balance-992-first-look-info",
+      "publishedAt": "2026-08-14T13:19:50.000Z",
+      "collectedAt": "2026-08-15T12:46:32.653Z",
+      "text": "Take a First Look at the mfpen x New Balance 992 Sneaker Name: mfpen x New Balance 992SKU: TBCRelease Date: March 2027Making its first appearance during Copenhagen Fashion Week, the mfpen x New Balance 992 sneaker was unveiled as part of the Danish label’s Spring/Summer 2027 runway presentation.Rooted in the classic Made in USA 992 silhouette originally launched in 2006, the collaborative sneaker merges mfpen's penchant for minimalist, subverted tailoring with New Balance's heritage craftsmanship and advanced ABZORB SBS cushioning technology. The upper features a muted palette of grey suede and mesh, accented with tonal overlays that emphasize the silhouette’s layered construction. A subtle contrast is introduced through off-white midsoles and reflective detailing, balancing understated luxury with functional performance. Expected to launch in March 2027, the shoe functions as a quiet but intentional anchor to the collection's exploration of casual-formal ambiguity. Click here to view full gallery at Hypebeast"
     }
   ]
 }
