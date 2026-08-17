@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-16",
+    "id": "2026-08-17",
     "mode": "live",
-    "displayDate": "AUG 16, 2026, 08:48 AM EDT",
-    "generatedAt": "2026-08-16T12:48:55.239Z",
-    "itemsCollected": 30,
+    "displayDate": "AUG 17, 2026, 08:53 AM EDT",
+    "generatedAt": "2026-08-17T12:53:05.318Z",
+    "itemsCollected": 39,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 45,
-      "confidence": 47,
+      "score": 78,
+      "confidence": 44,
       "youthRelevance": 52,
-      "direction": "down",
+      "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 4 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · -25% seven-day velocity",
+      "whyNow": "3 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +200% seven-day velocity",
       "citations": [
         {
           "title": "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
@@ -54,15 +54,15 @@
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "3 mentions this week versus 4 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0816",
+    "code": "AUTO 0817",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
