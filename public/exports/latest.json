@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-17",
+    "id": "2026-08-18",
     "mode": "live",
-    "displayDate": "AUG 17, 2026, 08:53 AM EDT",
-    "generatedAt": "2026-08-17T12:53:05.318Z",
-    "itemsCollected": 39,
+    "displayDate": "AUG 18, 2026, 08:54 AM EDT",
+    "generatedAt": "2026-08-18T12:54:54.970Z",
+    "itemsCollected": 60,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 28
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 10
+        "count": 15
       },
       {
         "source": "Hypebeast",
@@ -30,20 +30,14 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 78,
-      "confidence": 44,
-      "youthRelevance": 52,
-      "direction": "up",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +200% seven-day velocity",
+      "score": 26,
+      "confidence": 22,
+      "youthRelevance": 46,
+      "direction": "down",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
       "citations": [
-        {
-          "title": "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
-          "source": "Vogue",
-          "date": "Aug 10",
-          "url": "https://www.vogue.com/slideshow/hot-not-heavy-how-sson-addressed-the-climate-crisis-with-charm-and-candor"
-        },
         {
           "title": "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
           "source": "Hypebeast",
@@ -54,19 +48,18 @@
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Decorated basics",
+    "reason": "1 mention this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0817",
+    "code": "AUTO 0818",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Climate Crisis: How Sson Addressed the Topic With Charm and Candor",
       "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos"
     ]
   }

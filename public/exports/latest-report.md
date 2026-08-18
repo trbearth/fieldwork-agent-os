@@ -1,16 +1,15 @@
-# Fieldwork Daily Signal — 2026-08-17
+# Fieldwork Daily Signal — 2026-08-18
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 78 · confidence 44% · youth 52%**
+**emerging · score 26 · confidence 22% · youth 46%**
 
-Decorated basics is appearing across 2 independent public sources.
+Decorated basics is appearing across 1 independent public source.
 
-3 observations · 2 independent sources · +200% seven-day velocity
+1 observation · 1 independent source · -67% seven-day velocity
 
-- [Climate Crisis: How Sson Addressed the Topic With Charm and Candor](https://www.vogue.com/slideshow/hot-not-heavy-how-sson-addressed-the-climate-crisis-with-charm-and-candor) — Vogue, Aug 10
 - [Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos](https://hypebeast.com/2026/8/apple-reference-image-verifies-iphone-photos-in-ios-27) — Hypebeast, Aug 12
 
 ## Method note
