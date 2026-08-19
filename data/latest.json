@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-18",
+    "id": "2026-08-19",
     "mode": "live",
-    "displayDate": "AUG 18, 2026, 08:54 AM EDT",
-    "generatedAt": "2026-08-18T12:54:54.970Z",
-    "itemsCollected": 60,
+    "displayDate": "AUG 19, 2026, 08:56 AM EDT",
+    "generatedAt": "2026-08-19T12:56:05.418Z",
+    "itemsCollected": 62,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 28
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 15
+        "count": 14
       },
       {
         "source": "Hypebeast",
@@ -24,43 +24,63 @@
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 38,
+      "direction": "up",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Who Knew a Track Jacket Could Be So Sexy?",
+          "source": "Highsnobiety",
+          "date": "Aug 18",
+          "url": "https://www.highsnobiety.com/p/puma-t7-track-jacket/"
+        }
+      ]
+    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 26,
-      "confidence": 22,
+      "score": 25,
+      "confidence": 23,
       "youthRelevance": 46,
       "direction": "down",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
+      "whyNow": "1 mention this week versus 4 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -75% seven-day velocity",
       "citations": [
         {
-          "title": "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos",
+          "title": "nonnative and Converse Re-Release the All Star GORE-TEX Centerzip Ox",
           "source": "Hypebeast",
-          "date": "Aug 12",
-          "url": "https://hypebeast.com/2026/8/apple-reference-image-verifies-iphone-photos-in-ios-27"
+          "date": "Aug 19",
+          "url": "https://hypebeast.com/2026/8/converse-nonnative-all-star-gore-tex-centerzip-ox-re-release-info"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "1 mention this week versus 3 in the prior seven-day window."
+    "reason": "1 mention this week versus 4 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Archival sportswear moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0818",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 0819",
+    "name": "Archival sportswear",
+    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
     "objects": [
-      "Apple Is Building a Hardware-Level “Reference Image” Tool To Combat AI-Generated Photos"
+      "Who Knew a Track Jacket Could Be So Sexy?"
     ]
   }
 }
