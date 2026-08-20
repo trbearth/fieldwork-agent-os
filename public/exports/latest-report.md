@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-08-19
+# Fieldwork Daily Signal — 2026-08-20
 
 Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -14,11 +14,11 @@ Archival sportswear is appearing across 1 independent public source.
 
 ## 2. Decorated basics
 
-**emerging · score 25 · confidence 23% · youth 46%**
+**emerging · score 26 · confidence 22% · youth 46%**
 
 Decorated basics is appearing across 1 independent public source.
 
-1 observation · 1 independent source · -75% seven-day velocity
+1 observation · 1 independent source · -67% seven-day velocity
 
 - [nonnative and Converse Re-Release the All Star GORE-TEX Centerzip Ox](https://hypebeast.com/2026/8/converse-nonnative-all-star-gore-tex-centerzip-ox-re-release-info) — Hypebeast, Aug 19
 
