@@ -825,6 +825,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-21",
+      "mode": "live",
+      "displayDate": "AUG 21, 2026, 08:56 AM EDT",
+      "generatedAt": "2026-08-21T12:56:47.557Z",
+      "itemsCollected": 49,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 28
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 13
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -13587,6 +13624,545 @@
       "publishedAt": "2026-08-19T10:29:41.000Z",
       "collectedAt": "2026-08-20T12:57:47.395Z",
       "text": "Superkicks Reimagines the adidas Samba as a Wearable Family “Heirloom” Name: Superkicks x adidas Originals Samba “Heirloom”Colorway: TBCSKU: TBCMSRP: TBCRelease Date: August 29Where to Buy: Concepts store UAE, Shopigo Turkey, The good life UAE, Carnival Thailand, amos Tokyo, DSM JapanSuperkicks and adidas Originals have joined forces to launch the Samba \"Heirloom,\" a collaborative sneaker that beautifully celebrates memory, craftsmanship and the stories we choose to preserve.Deeply rooted in Indian heritage, the conceptual release draws inspiration from the traditional peti — a handcrafted storage trunk used across generations to safeguard cherished belongings such as photographs, letters, and jewelry. Much like this vessel of family history, the globally recognized Samba silhouette is reimagined as a wearable heirloom. Originating in 1950 as a functional football shoe, the Samba has spent decades transcending its athletic roots to become a cultural icon across terrace, skate, music, and fashion landscapes. By intertwining this rich sportswear legacy with a profoundly personal Indian tradition, the partnership highlights the shared, universal themes of preservation and continuity.Translating the understated character of the peti into a contemporary lifestyle sneaker, the Superkicks x adidas Originals Samba \"Heirloom\" boasts a refined, material-driven aesthetic. The upper is constructed from a sophisticated blend of premium leather and rich suede, directly evoking the enduring craftsmanship and permanence of traditional Indian storage trunks.Subtle metallic detailing acts as a thoughtful nod to the precious keepsakes, jewelry, and intricate hardware often found within a peti, adding an elegant, elevated finish to the design. Rather than a literal recreation of the wooden trunk, the collaboration offers a nuanced homage that seamlessly fuses the Samba’s timeless DNA with deeply rooted cultural storytelling. Ultimately, the \"Heirloom\" iteration transforms a legendary sportswear staple into a meaningful tribute to heritage, designed to be worn, treasured and passed down. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a4470820eb5736d1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog",
+      "url": "https://www.vogue.com/article/jacob-elordi-rak-the-dog-the-dog-stars-premiere-london",
+      "publishedAt": "2026-08-21T10:40:59.000Z",
+      "collectedAt": "2026-08-21T12:56:43.493Z",
+      "text": "Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog Oh, to be a Dogue, posing alongside Jacob Elordi—the co-stars appeared together on the red carpet for the world premiere of Ridley Scott’s “The Dog Stars.”"
+    },
+    {
+      "id": "8fbba4bd4d62e85f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I, Too, Would Like to Vacation With the Lipas",
+      "url": "https://www.vogue.com/article/dua-lipa-family-birthday-vacation-ibiza-formentera",
+      "publishedAt": "2026-08-21T10:20:13.000Z",
+      "collectedAt": "2026-08-21T12:56:43.494Z",
+      "text": "I, Too, Would Like to Vacation With the Lipas Dua Lipa’s 31st birthday celebrations have all ready started, recruiting her siblings Rina and Gjin for a day on a yacht off the shores of Formentera."
+    },
+    {
+      "id": "a1725f127bf30d27",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen",
+      "url": "https://www.vogue.com/article/aperitivo-hour-cat-chen",
+      "publishedAt": "2026-08-21T10:00:00.000Z",
+      "collectedAt": "2026-08-21T12:56:43.494Z",
+      "text": "Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen Dulan Wine founder Cat Chen takes us behind the scenes of her Pasadena apéro."
+    },
+    {
+      "id": "9eca1eb6d0c4ea17",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "70 Glorious Kim Cattrall Looks, In Honor of Her 70th Birthday",
+      "url": "https://www.vogue.com/slideshow/kim-cattrall-best-red-carpet-looks",
+      "publishedAt": "2026-08-21T10:00:00.000Z",
+      "collectedAt": "2026-08-21T12:56:43.494Z",
+      "text": "70 Glorious Kim Cattrall Looks, In Honor of Her 70th Birthday Move over, Samantha Jones: Kim Cattrall’s red carpet history proves that the actor has a style all her own."
+    },
+    {
+      "id": "32ed8f41e930f14b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The GLP-1 Pill Era Is Forcing Beauty to Change Again",
+      "url": "https://www.vogue.com/article/the-glp-1-pill-era-is-forcing-beauty-to-change-again",
+      "publishedAt": "2026-08-21T09:30:00.000Z",
+      "collectedAt": "2026-08-21T12:56:43.494Z",
+      "text": "The GLP-1 Pill Era Is Forcing Beauty to Change Again GLP-1s have already upended the beauty market, creating a whole new host of skin and haircare concerns. Now, as GLP-1 pills reduce the barrier to entry, there’s more beauty innovation abound."
+    },
+    {
+      "id": "bc9d64746c73fcea",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Business of Katseye",
+      "url": "https://www.vogue.com/article/the-business-of-katseye",
+      "publishedAt": "2026-08-21T04:30:00.000Z",
+      "collectedAt": "2026-08-21T12:56:43.494Z",
+      "text": "The Business of Katseye As the world’s first multi-ethnic, English-language group modeled on the K-pop framework, Katseye has broken significant industry barriers. Their continued high-profile activities indicate their ability to adapt despite recent controversy. But can their influence be sustained?"
+    },
+    {
+      "id": "46138da19b62f245",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Underrated California Wine Country Will Transport You Straight to Europe",
+      "url": "https://www.vogue.com/article/temecula-valley-wine-country-guide",
+      "publishedAt": "2026-08-20T21:22:35.000Z",
+      "collectedAt": "2026-08-21T12:56:43.494Z",
+      "text": "This Underrated California Wine Country Will Transport You Straight to Europe Want the feel of an Italian or Spanish vineyard vacation, without actually traveling across the Atlantic? Head to Temecula Valley Wine Country."
+    },
+    {
+      "id": "2f06e81d6df42c09",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Jewelry-Designer Bride Created All Her Own Looks for Her Tuscan Castle Wedding",
+      "url": "https://www.vogue.com/slideshow/rene-barnes-and-christian-dicroce-wedding",
+      "publishedAt": "2026-08-20T21:11:30.000Z",
+      "collectedAt": "2026-08-21T12:56:43.495Z",
+      "text": "This Jewelry-Designer Bride Created All Her Own Looks for Her Tuscan Castle Wedding Rene Barnes created six looks using deadstock fabric from Dior, Armani, and Oscar de la Renta to marry Christian DiCroce at a 13th-century castle outside Siena."
+    },
+    {
+      "id": "9ea8dffed15f17f7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Margaret Qualley Brings Chanel’s Barefoot Sandals to the Red Carpet",
+      "url": "https://www.vogue.com/article/margaret-qualley-chanel-barefoot-sandal-red-carpet",
+      "publishedAt": "2026-08-20T19:13:42.000Z",
+      "collectedAt": "2026-08-21T12:56:43.495Z",
+      "text": "Margaret Qualley Brings Chanel’s Barefoot Sandals to the Red Carpet Get those pedicures ready! Chanel’s divisive barefoot sandals have made their way to Hollywoodland."
+    },
+    {
+      "id": "6f7212415d21a351",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "30+ Best Trench Coats for Women in 2026",
+      "url": "https://www.vogue.com/article/best-trench-coats-for-women",
+      "publishedAt": "2026-08-20T17:52:26.000Z",
+      "collectedAt": "2026-08-21T12:56:43.495Z",
+      "text": "30+ Best Trench Coats for Women in 2026 Shop Vogue’s guide to the best trench coats for women in 2026, from tried-and-true classics to reimagined silhouettes from Khaite, Burberry, Nour Hammour and more."
+    },
+    {
+      "id": "aad4c01f35a8387a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Coty Sales Fall 1% as It Gears Up for “Transition Year”",
+      "url": "https://www.vogue.com/article/coty-sales-fall-1-as-it-gears-up-for-transition-year",
+      "publishedAt": "2026-08-20T15:53:00.000Z",
+      "collectedAt": "2026-08-21T12:56:43.495Z",
+      "text": "Coty Sales Fall 1% as It Gears Up for “Transition Year” Coty ended 2026 on a high note, with Q4 results beating analyst expectations. Now, it’s preparing for the next phase of growth."
+    },
+    {
+      "id": "dd681359d6b590c1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kendall Jenner and Jacob Elordi’s Low-Key Couple Style Is Even Better in London",
+      "url": "https://www.vogue.com/article/kendall-jenner-and-jacob-elordi-low-key-couple-style-london",
+      "publishedAt": "2026-08-20T15:13:42.000Z",
+      "collectedAt": "2026-08-21T12:56:43.495Z",
+      "text": "Kendall Jenner and Jacob Elordi’s Low-Key Couple Style Is Even Better in London Kendall Jenner and Jacob Elordi were snapped out for dinner in London in outfits that will be familiar to any style-conscious Londoner."
+    },
+    {
+      "id": "5724ec4c244a6726",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A$AP Rocky Borrows From the Rihanna School of Styling",
+      "url": "https://www.vogue.com/article/asap-rocky-borrows-from-the-rihanna-school-of-styling",
+      "publishedAt": "2026-08-20T15:11:45.000Z",
+      "collectedAt": "2026-08-21T12:56:43.495Z",
+      "text": "A$AP Rocky Borrows From the Rihanna School of Styling The king and queen of coordinating couple style, A$AP Rocky and Rihanna both know: two Chanel bags are better than one!"
+    },
+    {
+      "id": "7d11e66c260cd714",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "29 Vintage Photos of a Young Martha Stewart Before She Was a Lifestyle Icon",
+      "url": "https://www.vogue.com/slideshow/martha-stewart-young-vintage-photos",
+      "publishedAt": "2026-08-20T14:26:28.000Z",
+      "collectedAt": "2026-08-21T12:56:43.495Z",
+      "text": "29 Vintage Photos of a Young Martha Stewart Before She Was a Lifestyle Icon Vogue revisits the culinary queen, tastemaker, and lifestyle super-influencer Martha Stewart in her pre-fame days as a rising model and aspiring businesswoman."
+    },
+    {
+      "id": "eebb7fa569302ab8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Alexander Wang Fall 2026 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/alexander-wang",
+      "publishedAt": "2026-08-21T12:55:41.000Z",
+      "collectedAt": "2026-08-21T12:56:43.496Z",
+      "text": "Alexander Wang Fall 2026 Ready-to-Wear "
+    },
+    {
+      "id": "0d5aa2984a8b2174",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sandy Liang Realized She Didn’t Have an Archive, So She Made One With Rizzoli",
+      "url": "https://www.vogue.com/article/sandy-liang-rizzoli-dressing-up-book",
+      "publishedAt": "2026-08-20T13:00:00.000Z",
+      "collectedAt": "2026-08-21T12:56:43.496Z",
+      "text": "Sandy Liang Realized She Didn’t Have an Archive, So She Made One With Rizzoli “It was daunting”—Sandy Liang gives an exclusive first look at her new coffee-table book."
+    },
+    {
+      "id": "c29b25c02ca38396",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s OG Sneaker Is Best Served With an Espresso",
+      "url": "https://www.highsnobiety.com/p/nike-moon-shoe-brown/",
+      "publishedAt": "2026-08-21T11:59:33.000Z",
+      "collectedAt": "2026-08-21T12:56:44.839Z",
+      "text": "Nike’s OG Sneaker Is Best Served With an Espresso The Swoosh brings back one of the Jacquemus partnership's most coveted shade profiles to mainline shelves with the Nike Moon Shoe OG Brown."
+    },
+    {
+      "id": "b4d491dcfd671824",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Balenciaga's Ballet Flat Goes Packing",
+      "url": "https://www.highsnobiety.com/p/balenciaga-ballet-sneaker-white/",
+      "publishedAt": "2026-08-21T09:55:10.000Z",
+      "collectedAt": "2026-08-21T12:56:44.839Z",
+      "text": "Balenciaga's Ballet Flat Goes Packing Balenciaga's super bendy ballet flat hybrid sneaker is flexible in more ways than one."
+    },
+    {
+      "id": "8e2433256d7083cc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Want to Become Menswear's Next Big Thing? Wait 10 Years",
+      "url": "https://www.highsnobiety.com/p/best-new-menswear-brands/",
+      "publishedAt": "2026-08-20T20:45:00.000Z",
+      "collectedAt": "2026-08-21T12:56:44.839Z",
+      "text": "Want to Become Menswear's Next Big Thing? Wait 10 Years ssstein, Auralee, mfpen, Camiel Fortgens, Gabriela Coll, Bode — nearly every single brand that's come to define modern menswear is at least a decade old."
+    },
+    {
+      "id": "b09499625203daf9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Nike Throwback Has Been Stewing Since 2001",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-01-light-army/",
+      "publishedAt": "2026-08-21T08:31:40.000Z",
+      "collectedAt": "2026-08-21T12:56:44.839Z",
+      "text": "This Nike Throwback Has Been Stewing Since 2001 The Swoosh satisfies nostalgic archival cravings with the arrival of the Nike Air Force 1 Low '01 Light Army."
+    },
+    {
+      "id": "fad90ba0d78a269a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Who Knew Arc’teryx Jackets Would Make Such Beautiful Bags?",
+      "url": "https://www.highsnobiety.com/p/arcteryx-stuff-sack/",
+      "publishedAt": "2026-08-20T18:39:59.000Z",
+      "collectedAt": "2026-08-21T12:56:44.839Z",
+      "text": "Who Knew Arc’teryx Jackets Would Make Such Beautiful Bags? The megaretailer BEAMS landed an exclusive Japan release of Arc’teryx’s recycled bag, reimagining it as an accessory fit for the streets, not the trails."
+    },
+    {
+      "id": "6a8e7a6f130065ca",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance's Most Iconic Dad Shoe Loses Its Logo",
+      "url": "https://www.highsnobiety.com/p/mfpen-new-balance-992-gray/",
+      "publishedAt": "2026-08-21T08:41:18.000Z",
+      "collectedAt": "2026-08-21T12:56:44.839Z",
+      "text": "New Balance's Most Iconic Dad Shoe Loses Its Logo Mfpen's stripped-down New Balance 992 sneaker is classic dad shoe excellence at its best."
+    },
+    {
+      "id": "a3a03a5209665d64",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Road Tripping Through Seven Cities With Carrera and Company",
+      "url": "https://www.highsnobiety.com/p/on-the-road-with-carrera/",
+      "publishedAt": "2026-08-20T16:55:55.000Z",
+      "collectedAt": "2026-08-21T12:56:44.839Z",
+      "text": "Road Tripping Through Seven Cities With Carrera and Company We hit the road with Carrera for a tour de force that gave us a front-row seat to the sights and sounds of each city, from Miami to Chicago to Toronto and more."
+    },
+    {
+      "id": "a4a02ad4904cea20",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Your Workout Wardrobe Could Use a Fall Pick-Me-Up",
+      "url": "https://www.highsnobiety.com/p/adidas-workout-collection/",
+      "publishedAt": "2026-08-20T16:02:39.000Z",
+      "collectedAt": "2026-08-21T12:56:44.840Z",
+      "text": "Your Workout Wardrobe Could Use a Fall Pick-Me-Up Discover our curated edit of the best adidas workout gear to refresh your rotation and ease you back into your workout routine this fall."
+    },
+    {
+      "id": "04b45d11dd6444d8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "How Eric Wareheim Went from Comedy Star to Los Angeles’ Plant Guru",
+      "url": "https://www.highsnobiety.com/p/eric-wareheim-serpentine-los-angeles-plants/",
+      "publishedAt": "2026-08-20T15:46:07.000Z",
+      "collectedAt": "2026-08-21T12:56:44.840Z",
+      "text": "How Eric Wareheim Went from Comedy Star to Los Angeles’ Plant Guru A bad breakup and an obsessive personality lead Wareheim to start Serpentine."
+    },
+    {
+      "id": "48ba9c1166b17473",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Proves That Miu Miu’ing a Samba Is All It Takes",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-miu-miu/",
+      "publishedAt": "2026-08-21T08:35:30.000Z",
+      "collectedAt": "2026-08-21T12:56:44.840Z",
+      "text": "adidas Proves That Miu Miu’ing a Samba Is All It Takes adidas gives the classic Samba OG a Miu Miu-inspired makeover, adding colorful laces and luxe details to the iconic terrace sneaker."
+    },
+    {
+      "id": "8abd902f57b9232f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This ASICS Archive Dad Shoe Is Learning Jiu-Jitsu",
+      "url": "https://www.highsnobiety.com/p/albino-preto-atmos-asics-gel-kayano-12-1/",
+      "publishedAt": "2026-08-20T14:15:00.000Z",
+      "collectedAt": "2026-08-21T12:56:44.840Z",
+      "text": "This ASICS Archive Dad Shoe Is Learning Jiu-Jitsu The Albino & Preto x atmos x ASICS GEL-Kayano 12.1 Pack bridges Brazilian Jiu-Jitsu culture, Tokyo street fashion, and archival running heritage."
+    },
+    {
+      "id": "28408d8e2a385c1f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nice Hand Soap Is The New Status Symbol",
+      "url": "https://www.highsnobiety.com/p/can-dollar90-hand-soap-actually-bottle-luxury/",
+      "publishedAt": "2026-08-21T08:05:32.000Z",
+      "collectedAt": "2026-08-21T12:56:44.840Z",
+      "text": "Nice Hand Soap Is The New Status Symbol In her latest Beauty Freak column, Sable Yong surveys the current post-Tomato Leaves landscape with a healthy dose of skepticism."
+    },
+    {
+      "id": "1e1ebfa6c5f0f255",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Aya Brown’s Air Max Just Took a Trip Down Memory Lane",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-95-aya-brown/",
+      "publishedAt": "2026-08-21T08:42:45.000Z",
+      "collectedAt": "2026-08-21T12:56:44.840Z",
+      "text": "Aya Brown’s Air Max Just Took a Trip Down Memory Lane Visual artist Aya Brown wraps borough pride, childhood nostalgia, and a celebration of womanhood in a New York bow with this Atomic Green and Black Air Max 95."
+    },
+    {
+      "id": "f7876b0aa35bc871",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Studio Mir and Brian Tyree Henry Team Up for Netflix Original ‘Bass X Machina’",
+      "url": "https://hypebeast.com/2026/8/netflix-bass-x-machina-official-teaser-release-info",
+      "publishedAt": "2026-08-21T12:15:54.000Z",
+      "collectedAt": "2026-08-21T12:56:46.295Z",
+      "text": "Studio Mir and Brian Tyree Henry Team Up for Netflix Original ‘Bass X Machina’ Summary Netflix released the teaser for Bass X Machina , confirming a global premiere date of November 3, 2026.Animated by Studio Mir, the steampunk Western stars Brian Tyree Henry as lawman Bass Reeves.The series blends historical frontier lore with steam-powered mechs, cyberware and industrial soundscapes. Netflix has officially released the first teaser trailer for Bass X Machina, an upcoming original animated series that reimagines the life of legendary Wild West lawman Bass Reeves through an action-packed steampunk sci-fi lens.Produced by Studio Mir - the animation studio behind Devil May Cry, The Legend of Korra and Voltron: Legendary Defender - the series stars Emmy-nominated actor Brian Tyree Henry as the voice of Bass Reeves. Set against an alternate post-Civil War American frontier, the story follows Reeves, a former enslaved man turned formidable deputy US Marshal, as he navigates a treacherous landscape populated by outlaw gangs, steam-powered mechs, and cybernetic enhancements.The 78-second teaser trailer offers a high-octane preview of the show's blend of historical Western lore and futuristic mechanical warfare, showcasing heavy-hitting revolver shootouts, train heists, and colossal mech battles across snow-covered frontier towns.Watch the latest teaser above. Netflix has confirmed that Bass X Machina will make its global streaming debut on November 3, 2026. Read more at Hypebeast"
+    },
+    {
+      "id": "795b89df171304e8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "YOKE Readies Third Drop of Its FW26 Collection",
+      "url": "https://hypebeast.com/2026/8/yoke-fall-winter-2026-drop-3-release-info",
+      "publishedAt": "2026-08-21T11:09:10.000Z",
+      "collectedAt": "2026-08-21T12:56:46.295Z",
+      "text": "YOKE Readies Third Drop of Its FW26 Collection Summary YOKE FW26 Drop 3 launches August 22, 2026.The collection highlights calf leather jackets, corduroy coveralls, pleated trousers and alpaca knitwear.Available via YOKE’s online store, flagship and select stockists. Japanese label YOKE returns with the third Fall/Winter 2026 delivery. The collection highlights premium outerwear, knitwear and trousers, with standout pieces including Calf Nappa leather jackets and blousons that emphasize supple textures and minimalist construction.Complementing these are corduroy coverall jackets and pleated easy trousers, which balance utilitarian structure with relaxed wearability. Knitwear takes center stage, featuring cable-knit V-neck sweaters, baby alpaca V-necks, and boiled wool argyle sweaters, each designed to add seasonal warmth and textural depth.The release is set to launch on August 22, 2026 via YOKE's official online store, physical plagships alongside select stockists. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "40d7a77fe96c4be5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "COMME des GARÇONS Imbues Neon Accents To Fred Perry’s Piqué Polo Shirts",
+      "url": "https://hypebeast.com/2026/8/comme-des-garcons-shirt-fred-perry-release-info",
+      "publishedAt": "2026-08-21T10:58:29.000Z",
+      "collectedAt": "2026-08-21T12:56:46.295Z",
+      "text": "COMME des GARÇONS Imbues Neon Accents To Fred Perry’s Piqué Polo Shirts Fred Perry has once again joined forces with COMME des GARÇONS to reinterpret its signature polo shirt. The collaboration reimagines the British brand’s classic piqué polo with bold, neon-accented embroidery. Available in two colorways - Black with Neon Green and Black with Neon Pink - the shirts retain Fred Perry’s signature cotton piqué fabric, regular fit, and twin tipping at the collar and cuffs.The standout detail is the embroidered chest design, which combines Fred Perry’s iconic Laurel Wreath with COMME des GARÇONS branding, creating a dual emblem that merges heritage sportswear with the spirit of avant-garde.The collaborative polo shirts are currently available to shop via Fred Perry, retailing at £130 GBP (approx. $178 USD). Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ca3d3df3a4c75e96",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Fool Night’ Will Premiere on Netflix This November",
+      "url": "https://hypebeast.com/2026/8/fool-night-anime-teaser-netflix-release-info",
+      "publishedAt": "2026-08-21T10:50:27.000Z",
+      "collectedAt": "2026-08-21T12:56:46.295Z",
+      "text": "‘Fool Night’ Will Premiere on Netflix This November Summary Bandai Namco Filmworks released a new teaser for Fool Night , confirming a global Netflix premiere on November 26, 2026.Co-animated by Sunrise and Shaft, the dystopian sci-fi series adapts Kasumi Yasuda’s award-winning manga about human-to-plant \"transfloration.\" Bandai Namco Filmworks has released a new teaser trailer for Fool Night, officially announcing that the anime will premiere worldwide on Netflix on November 26, 2026.Adapted from Kasumi Yasuda's acclaimed manga series serialized in Shogakukan’s Big Comic Spirits, the story is set in a bleak, sunless future where oxygen levels have plummeted, forcing humanity to develop \"transfloration\" — a surgical procedure that turns terminally ill individuals into oxygen-producing plants in exchange for a monetary grant.Co-animated by Sunrise and Shaft under director Hiroshi Yasuko, the narrative follows Kamiya Toshiro (voiced by Kouki Uchiyama), an impoverished young man who undergoes transfloration and finds himself tangled in a series of botanical murder investigations.The 60-second teaser trailer offers an eerie, atmospheric look into the anime’s body horror worldbuilding and noir-infused visual design. Alongside lead voice actor Uchiyama as the main protagonist, the preview also unveils newly added cast members, including Fairouz Ai as Yomiko Yomogi, Yuka Nukui as Ayaka Akira, Ayane Sakura as Ayasuko Amano and Kiyomitsu Mizuuchi as Jin Hiratoko. Read more at Hypebeast"
+    },
+    {
+      "id": "0fb07cb5ff5b3110",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The First Dedicated Jellyfish Museum in the US Opens in South Florida",
+      "url": "https://hypebeast.com/2026/8/jellyfish-museum-opens-in-floridas-repurposed-bank-space",
+      "publishedAt": "2026-08-21T10:35:01.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "The First Dedicated Jellyfish Museum in the US Opens in South Florida Summary The private Jellyfish Museum has officially opened in Florida as the first facility in the United States dedicated exclusively to the aquatic predators.Founded by Ukrainian refugees Alex and Yana Yanovsky, the destination houses roughly 20 distinct species inside customized saltwater tanks and immersive digital environments. The Jellyfish Museum has officially opened its doors just north of Fort Lauderdale, establishing itself as the first dedicated facility of its kind in the United States. Lit primarily by glowing saltwater tanks and expansive oceanic projections, the mesmerizing space in Pompano Beach places a singular focus on the resilient, brainless invertebrates that have populated the earth’s oceans for more than 500 million years.The ambitious project is the brainchild of Alex and Yana Yanovsky, who bring over two decades of experience in the aquarium industry. The couple previously operated a successful jellyfish-centric attraction in Kyiv but were forced to leave the facility behind when fleeing the 2022 Russian invasion of Ukraine. Recognizing the universal draw of the pulsing, translucent creatures, the founders quickly sought to recreate their passion project in South Florida as their first stateside aquatic endeavor.Transforming a former Wells Fargo bank branch into an underwater sanctuary, the 10,000-square-foot venue was supported by roughly $100,000 in community redevelopment grants from the city. The immersive space is designed to foster a sense of deep tranquility, pairing its 21 specialized tanks with five-meter-high 3D projections that simulate the feeling of drifting through open currents.Inside, the museum rotates through a diverse roster of marine life acquired via licensed aquaculture partners. Current highlights include Japanese sea nettles, spotted jellies and the upside-down jellyfish, a species commonly found resting on the seafloor among Florida’s native mangrove swamps. Because the animals consist almost entirely of water and possess a simple nerve net rather than a centralized brain, their rhythmic movements offer a meditative visual experience unmatched by traditional aquariums.Beyond aesthetics, the founders aim to provide essential ecological context. Expert guides educate visitors on the massive scale of the global jellyfish population, which currently encompasses roughly 4,000 known species. By placing these ancient survivors in a controlled,"
+    },
+    {
+      "id": "c57b8a7016dc6927",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "beabadoobee Explores Nostalgia and Longing on Latest Single “Memories”",
+      "url": "https://hypebeast.com/2026/8/beabadoobee-memories-single-stream-info",
+      "publishedAt": "2026-08-21T10:34:58.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "beabadoobee Explores Nostalgia and Longing on Latest Single “Memories” Summary beabadoobee released \"Memories,\" the latest single from her upcoming fourth album, Pylon .First debuted during her live set at Lollapalooza and Hinterland, the song blends bittersweet nostalgia with raw, unfiltered songwriting. beabadoobee has shared her latest single, \"Memories,\" offering another sonic glimpse into her upcoming fourth studio album, Pylon.Described by Bea as “one of the happiest songs on the album,” the track carries a bittersweet undercurrent, with lyrics that romanticize past moments while acknowledging the sadness of wanting to live in them forever. Lines such as “clinging onto ideas that should make me happy but actually make me feel sad” capture the tension between nostalgia and longing. Sonically, “Memories” continues the raw, unfiltered songwriting approach that defines Pylon, a record Bea has said was written largely in solitude, echoing the intimate process of her teenage years.Having recently given \"Memories\" its live debut during festival appearances at Lollapalooza and Hinterland, as well as a headline performance at Red Rocks Amphitheatre, beabadoobee is now gearing up to bring these new tracks on the road. The artist will embark on the 'Powerlines Tour' this late fall - her biggest headline run to date - which kicks off October 1, 2026, and includes arena stops at Madison Square Garden, The Kia Forum, and London's The O2 Arena. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "54c31426c61fe1dc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "V.A. and Hanes Deliver Color-Matched BEEFY-T® Pocket Shirts",
+      "url": "https://hypebeast.com/2026/8/v-a-hanes-beefy-tee-collaboration-release-info",
+      "publishedAt": "2026-08-21T10:27:49.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "V.A. and Hanes Deliver Color-Matched BEEFY-T® Pocket Shirts Summary Hiroshi Fujiwara’s V.A. concept store teams up with Hanes for their second BEEFY-T® pocket tee release.Features tonal embroidered \"VA\" pocket logos across seven colorways, housed in custom co-branded packaging.Available exclusively via V.A.’s Jingumae store and webstore. Tokyo-based concept store V.A., directed by Hiroshi Fujiwara and operated by JUN Co., Ltd., has announced its second collaborative release with American basics legacy label Hanes. Building upon the success of their initial partnership, the duo has chosen the crew-neck pocket tee from Hanes' iconic, heavy-duty BEEFY-T® line as its core silhouette.Revered for its classic boxy American fit, durable heavy-knit cotton construction, and shape-retaining ribbed collar, the staple top is designed to soften with every wash while retaining its structured form. Elevating the timeless blank, V.A. integrates subtle custom detailing, incorporating an embroidered \"VA\" logo onto the chest pocket with thread colors specifically customized to harmonize with each shirt's body tone.Priced at ¥4,950 JPY (approx. $31 USD), the V.A. Hanes Beefy Pocket Tees release launches in seven colorways: classic Black and White, alongside Plum, Dark Brown, Indigo, Mustard and Greige. Offered in sizes S through XL, each shirt comes housed in exclusive co-branded packaging that reflects V.A.'s refined aesthetic. The collection is officially available exclusively through the V.A. flagship store in Jingumae, Shibuya-ku, Tokyo and online via the official V.A. webstore. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "de13dd17523345ae",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "LEGO Pays Homage to Ayrton Senna With 931-Piece F1 Helmet Set",
+      "url": "https://hypebeast.com/2026/8/lego-editions-ayrton-senna-helmet-joins-f1-collection",
+      "publishedAt": "2026-08-21T09:54:56.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "LEGO Pays Homage to Ayrton Senna With 931-Piece F1 Helmet Set Summary LEGO unveiled a 931-piece set (#43024) recreating Ayrton Senna’s iconic yellow, green, and blue Brazilian racing helmet.The set features printed vintage sponsor logos, brand-new helmet printing techniques, and custom curved builds.Includes an Ayrton Senna minifigure in a Senninha cartoon tee, a mini helmet and a signed display plaque for $89.99 USD. LEGO expanded its Formula 1 Helmet Collection with a 931-piece tribute to three-time World Champion Ayrton Senna. The set, designated as number 43024, recreates the unmistakable yellow helmet featuring the green and blue stripes of the Brazilian flag. Unlike several previous entries in the series that relied on a shared modern template, this model uses specific build techniques to mirror the more rounded and compact profile of era-appropriate racing headgear. The Ayrton Senna Helmet specifically celebrates the driver's legendary 1988 season where he secured his first World Drivers' Championship behind the wheel of the dominant McLaren MP4/4.The collectible kit introduces several premium details designed to satisfy hardcore motorsport enthusiasts. Builders will find printed versions of period-accurate sponsor graphics, including the vintage BOSS emblem and the now-defunct Nacional bank logo. For the first time in its brick history, the brand developed a new technique to print directly on the back of a motorcycle helmet element. This commitment to accuracy elevates the display piece beyond a simple toy, turning it into a genuine piece of racing memorabilia that honors a silhouette instantly recognizable from across a room.Beyond the primary build, the package includes an exclusive Ayrton Senna minifigure depicted with a partially unzipped race suit revealing a graphic t-shirt underneath. The shirt features Senninha, which is a beloved cartoon persona created by Senna himself to inspire children in his home country. The minifigure is accompanied by its own miniature matching headpiece and can be positioned on the included display base right next to a printed signature plaque. This pairing adds a highly personal touch to the build, bridging the gap between the man and his larger-than-life motorsport legacy.Set for an official release on September 1, 2026, the commemorative project joins a modern LEGO Editions lineup that already includes grid mainstays like Lewis Hamilton and Charles Leclerc. Taking a step back into the history books provides new"
+    },
+    {
+      "id": "15bdc679c01991d4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Amazon Scales Prime Air Drone Network to Nearly 500 US Cities",
+      "url": "https://hypebeast.com/2026/8/amazon-prime-air-drones-expand-to-500-us-cities",
+      "publishedAt": "2026-08-21T09:53:37.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "Amazon Scales Prime Air Drone Network to Nearly 500 US Cities Summary Amazon announced a massive expansion of its Prime Air drone delivery service, aiming to serve nearly 500 US cities and towns by the end of 2026.New service areas scheduled for launch include metropolitan hubs in Atlanta, Boise, Chicago, Cleveland and Syracuse.The network utilizes MK30 drones to transport lightweight packages in roughly 60 minutes without generating traditional vehicle emissions. 13 years after Jeff Bezos first pitched the sci-fi concept of airborne logistics on national television, Amazon is finally taking its drone delivery network mainstream. The retail giant announced a sixfold expansion of its Prime Air program, projecting coverage for nearly 500 US cities and towns by the end of 2026. Operations will soon launch in major metropolitan areas including Atlanta, Boise, Chicago, Cleveland and Syracuse. These new hubs join 11 active locations across the country, fundamentally accelerating how consumers receive everyday essentials.The expanded service relies on the MK30 drone, a fully electric aircraft capable of cruising at 73 mph at altitudes up to 300 feet. Six vertical propellers provide lift, allowing the machines to navigate light rain and winds exceeding 20 mph. Each local site serves a 175-square-mile radius, pushing packages weighing five pounds or less directly to customer driveways and backyards. Delivery times clock in around 60 minutes, though some drops are completed in as little as half an hour. Consumers can order millions of eligible items ranging from cosmetics and groceries to high-end electronics like smartphones.Prime Air has already executed hundreds of thousands of drops this year, with internal projections targeting one million annual deliveries. The corporation is aggressively incentivizing the adoption of this futuristic fulfillment method. Prime members receive free ultrafast shipping on orders exceeding $50, while smaller baskets incur a minimal $2.99 fee. Non-members pay a flat rate of $4.99. By integrating drone dispatch stations into both small same-day facilities and massive robotic fulfillment centers, the brand is bridging the gap between digital storefronts and immediate physical gratification.Scaling autonomous aviation requires strict regulatory compliance and community approval. Executives are highlighting a proprietary Detect-and-Avoid system to ease local anxieties regarding noise and midair collisions. The technology acts as a virtu"
+    },
+    {
+      "id": "a5c9d82e6cfe0854",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Voltempo Reimagines Heavy Logistics With a \"Box on Wheels\" Electric Lorry",
+      "url": "https://hypebeast.com/2026/8/voltempo-cabless-autonomous-lorry-boosts-freight-capacity",
+      "publishedAt": "2026-08-21T09:52:21.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "Voltempo Reimagines Heavy Logistics With a \"Box on Wheels\" Electric Lorry Summary UK electric vehicle specialist Voltempo is developing a cabless 15.6-meter autonomous rigid lorry designed to maximize cargo capacity and minimize vehicle weight.Prototype testing is scheduled for late 2027 at a dedicated track in South Wales with initial commercial deliveries expected to begin in mid-2028. UK electric vehicle specialist Voltempo is engineering a cabless autonomous rigid lorry that pushes heavy goods transport beyond current legal dimensions. The prototype stretches to 15.6 meters in length and utilizes a five-axle layout with a 42-tonne capacity. By completely ditching the traditional driver space, the vehicle transforms into what founder Michael Boxwell calls a \"smart trailer.\" This streamlined approach significantly reduces both aerodynamic drag and overall vehicle mass to extend electric range while maximizing freight volume.Eliminating the cab frees up roughly two tonnes of dead weight. An electric articulated tractor and trailer typically weigh around 19 tonnes empty, but the new design drops the unladen mass to between 10 and 12 tonnes. That architectural shift creates 15 % more cargo space and adds five to seven tonnes of usable payload. Instead of adapting an old diesel format, the company is building a hyper-efficient box on wheels tailored strictly for autonomous operations and zero-emission delivery.The physical construction is being handled by Berkeley Coachworks an advanced manufacturing facility specializing in lightweight composite structures. A prominent commercial vehicle manufacturer will supply the electric drivetrain. Every major European truck brand has reportedly signed on to approve the prototype as an official vehicle classification. The timeline moves aggressively, with the initial build slated for completion by September 2027. Testing kicks off shortly after at a dedicated track in South Wales.Favorable legislative shifts are paving the way for immediate real-world application. The UK Automated Vehicles Act 2024 establishes a legal framework for driverless transport to operate on public roads, meaning trials will likely scale directly to highway routes. Initial deployment targets hub-to-hub motorway trunking and short-distance intermodal shuttles between ports and logistics centers. Operating in these highly controlled and predictable environments allows fleets to maximize asset productivity with uninterrupted 24-hour schedules.Upen"
+    },
+    {
+      "id": "3a1b93ae5f1215f7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Mattel Integrates Secret Cheat Codes into 3,509-Piece Original Xbox Replica",
+      "url": "https://hypebeast.com/2026/8/mattel-brick-shop-original-xbox-11-set-celebrates-25-years",
+      "publishedAt": "2026-08-21T09:50:23.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "Mattel Integrates Secret Cheat Codes into 3,509-Piece Original Xbox Replica Summary Mattel unveiled a 3,509-piece, $330 1:1 scale building set recreating the original Xbox console and its classic \"Duke\" controller for the platform's 25th anniversary.The interior houses removable dioramas and 12 NanoWorld figures celebrating Halo: Combat Evolved , Morrowind and Psychonauts . Nostalgia meets detailed craftsmanship as Mattel has announced a massive 1:1 scale building brick recreation of the original Xbox console. Released under the premium Mattel Brick Shop brand to celebrate the upcoming 25th anniversary of the platform, the 3,509-piece interactive display piece serves as a physical tribute to early 2000s gaming history. The highly detailed set features an authentic replica of the hardware alongside its famously oversized \"Duke\" controller.Builders who assemble the intricate exterior can pop open the top of the console to trigger the iconic original Xbox startup sequence. Inside, the shell houses three distinct modular dioramas paying homage to genre-defining classics Halo: Combat Evolved, The Elder Scrolls III: Morrowind and Psychonauts. These highly detailed modules seamlessly slot into the main chassis and can also be removed for individual display. To populate these miniature scenes, the box includes 12 separate one-inch NanoWorld figures featuring eight characters from the Halo universe, two from Morrowind and two from Psychonauts.The included Duke controller functions as an interactive remote rather than just a static companion piece. Pressing the tactile buttons on the controller triggers unique sound and lighting effects that bring the interior dioramas to life with their corresponding in-game soundtracks. True to early gaming cheat codes, builders can also input a secret button combination to unlock an exclusive hidden lighting sequence. This ambitious crossover highlights a growing collector market where premium toy manufacturers are elevating retro gaming hardware into high-end display art.Priced at $330, the immersive building set is currently available for pre-order through various major retailers including Amazon, Best Buy and the official Mattel Creations website. Early listings suggest the sprawling tribute will begin shipping to eager fans on October 1. The release follows previous block-building forays into the gaming space, arriving as a premium centerpiece for enthusiasts looking to physically recreate their favorite digital memories. Cli"
+    },
+    {
+      "id": "8c1f3e1ca6280d9a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Hyundai Debuts Boxy “Art of Steel” Aesthetic on the 2027 Tucson",
+      "url": "https://hypebeast.com/2026/8/hyundai-2027-tucson-debuts-with-boxy-design-xrt-trim",
+      "publishedAt": "2026-08-21T09:50:01.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "Hyundai Debuts Boxy “Art of Steel” Aesthetic on the 2027 Tucson Summary Hyundai unveiled the fifth-generation 2027 Tucson, showcasing a larger, boxier design inspired by the brand’s recent Crater concept.The redesigned interior debuts the centrally mounted Pleos infotainment system, replacing the previous model's dual-screen layout. Hyundai unveiled the new 2027 Hyundai Tucson, introducing a radical departure from the curvier outgoing model. The fifth-generation crossover steps into a bolder aesthetic utilizing the brand's Art of Steel design language. Up front, a full-width lighting bar pairs with vertical H-shaped LED daytime running lights while indirect lighting produces a soft glow to emphasize the three-dimensional front fascia. The squared-off front and rear quarter panels, sharp angles running across the door skins and beefy rocker panels give the vehicle a striking profile. At the rear, the design incorporates a light bar and narrow vertical prism lamps equipped with three-dimensionally protruding lenses.The updated SUV grows in virtually every dimension to cement its position as a highly capable family hauler. The vehicle measures 185 inches long, adding 2.3 inches over its predecessor, while the track widens by 1.5 inches to improve ride quality and expand interior room. The wheelbase now stretches to 109.6 inches, contributing to improved cabin proportions. Second-row passengers benefit directly from the lengthened roof and stretched wheelbase, gaining over an inch of additional headroom while rear doors that open wider allow for easier access.Inside, the completely new cabin follows modern industry trends by swapping the twin curved displays of the previous generation for a single tablet-like Pleos infotainment system. Floating dashboard elements, orange accents and air vents separating the upper and lower sections create a distinct futuristic vibe. Drivers face a narrow digital gauge cluster and a squircle four-spoke steering wheel. A striking stacked central transmission tunnel and console house wireless phone charging pads alongside plenty of soft-touch materials.For buyers seeking a more aggressive aesthetic, the XRT variant returns with exclusive rugged styling cues. The adventurous model features a distinct boxy front bumper, a dedicated rear bumper, a prominent skid plate, unique badging and black exterior accents. Inside, the trim includes protective second-row floor mats, while the exterior brings novel touch-sensitive LED tailgate li"
+    },
+    {
+      "id": "cc49b2b99e8d31fc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Can-Am Drops Two Unrestricted SxS Concepts to Signal Future Design Direction",
+      "url": "https://hypebeast.com/2026/8/can-am-defender-prerunner-and-maverick-r-xray-concepts",
+      "publishedAt": "2026-08-21T09:48:52.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "Can-Am Drops Two Unrestricted SxS Concepts to Signal Future Design Direction Summary Can-Am unveiled the Defender Prerunner and Maverick R XRay, two non-production side-by-side concepts exploring extreme off-road design.The Defender Prerunner boasts a 6x6 configuration with 35-inch tires and an integrated LinQ bed built for hardcore desert race support. Can-Am introduced two wild side-by-side concepts that push the boundaries of extreme all-terrain engineering. Dubbed the Defender Prerunner and Maverick R XRay, these conceptual flights of fancy serve as unrestricted design studies rather than impending production models. Unencumbered by mass-manufacturing realities, the brand’s designers created aggressive purpose-built machines that signal future stylistic evolutions in the off-road space.Conceived as the ultimate remote race support vehicle, the Defender Prerunner is a gargantuan six-wheeled beast engineered to conquer the planet's most grueling environments. The custom crew cab truck rides on a heavy-duty 6x6 configuration, anchoring its stance with rugged beadlock wheels wrapped in massive 35-inch off-road tires. The exterior is equipped for maximum utility, sporting front and rear winches, a robust front skid plate and platforms designed to hold specialized tools. A specialized LinQ bed houses a massive spare tire carrier alongside mounted fuel jugs and shovels, preparing the rig for high-stakes desert recovery operations.Inside the cabin, the heavy-duty utility transitions to high-performance motorsport aesthetics. The driver and passenger are secured in premium Sparco racing seats paired with four-point harnesses. A flat-bottom steering wheel, fully digital instrument cluster and an integrated infotainment system provide the crew with modern tactical control during remote excursions.Targeting sand dune culture, the Maverick R XRay takes a radically different approach that prioritizes lightweight agility and nighttime presence. The two-wheel-drive concept swaps traditional body panels for an aggressive exoskeleton structure covered by translucent, backlit panels. Likened to an illuminated wasp nest, the glowing bodywork serves a functional safety purpose: the ambient lights shift to a bright red when the driver applies the brakes. The lighting can also be programmed with various dynamic patterns to ensure the vehicle stands out against the dark desert backdrop.To optimize performance in deep sand, the Maverick R XRay sits aggressively on dedicated pa"
+    },
+    {
+      "id": "8333f81bc63e00fe",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "EVANGELION:95 Drops Third Impact Graphics and Distressed Caps for Its Second FW26 Drop",
+      "url": "https://hypebeast.com/2026/8/neon-genesis-evangelion-95-fall-winter-2026-drop-2-release-info",
+      "publishedAt": "2026-08-21T08:04:15.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "EVANGELION:95 Drops Third Impact Graphics and Distressed Caps for Its Second FW26 Drop Summary EVANGELION:95 FW26 Drop 2 delivers four graphic tees, two caps and a stole featuring a large colored illustration of Rei Ayanami.Designs spotlight iconic anime scenes from both the 1995 Neon Genesis Evangelion and The End of Evangelion .Available now via the EVANGELION:95 webstore. Following up on its earlier release this month, EVANGELION:95 returns with the second delivery of its seasonal collection, continuing to translate iconic scenes and motifs from the original Neon Genesis Evangelion anime and The End of Evangelion film into everyday wardrobe staples. The new drop comprises four distinct graphic T-shirts, two cap variants and a statement scarf.Leading the tee selection is the white 0104 T-Shirt, which showcases a grid layout of the series' core female characters from the 1995 opening sequence. Meanwhile, the dark-toned 0106 T-Shirt presents an ominous visual of the crucified Lilith inside Terminal Dogma. Drenched in deep purple, the 0102 T-Shirt captures EVA Unit-01's long-range sniper attack against the 5th Angel from Episode 6. Rounding out the apparel, the white 0107 T-Shirt immortalizes a pivotal Third Impact scene from The End of Evangelion, depicting Unit-01 emerging from the third eye of the Rei/Lilith hybrid.On the accessories front, the 0124 Cap arrives in black and brown with a subtly distressed finish, featuring heavy-metal-style \"MASS PRODUCTION MODEL\" embroidery above an embroidered Spear of Longinus and splattered red dots that evoke the film's climactic battle. Closing out the release, the 0120 Stole is emblazoned with Yu Honda's iconic illustration of an injured Rei Ayanami floating in a pool of LCL. The full delivery is available now via the EVANGELION:95 webstore, with prices ranging from ¥16,500 to ¥26,400 JPY (approx. 104–166 USD). Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e3a22e3de7b7669c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Cyberpunk: Edgerunners 2’ Teaser Locks in Official Netflix Release Date",
+      "url": "https://hypebeast.com/2026/8/cyberpunk-edgerunners-2-anime-teaser-netflix-release-info",
+      "publishedAt": "2026-08-21T06:49:25.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "‘Cyberpunk: Edgerunners 2’ Teaser Locks in Official Netflix Release Date Summary Netflix confirmed Cyberpunk: Edgerunners 2 officially premieres globally on October 20, 2026.Produced with Studio Trigger, the standalone 10-episode sequel returns to Night City with a fresh cast.English and Japanese dubbed teasers showcase hyper-kinetic action centered on revenge and redemption. Netflix has unveiled a new teaser for Cyberpunk: Edgerunners 2, confirming the anime’s official premiere date of October 20, 2026.Produced once again in collaboration with Studio Trigger, the upcoming sequel series returns to the neon-drenched streets of Night City to follow an all-new storyline set within the universe of CD Projekt RED's Cyberpunk 2077. Building on the overwhelming critical and commercial success of the 2022 original, which sparked a massive surge in the video game's player base - the new project continues the franchise's signature mix of hyper-kinetic action and emotional storytelling.In the meantime, watch the official English dubbed teaser above, and the Japanese version teaser below. Read more at Hypebeast"
+    },
+    {
+      "id": "019688c226c3c7af",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "UNION Subverts Industrial Uniforms for New Dickies Collaboration",
+      "url": "https://hypebeast.com/2026/8/union-dickies-inverse-collaboration-collection-release-info",
+      "publishedAt": "2026-08-20T11:12:20.000Z",
+      "collectedAt": "2026-08-21T12:56:46.296Z",
+      "text": "UNION Subverts Industrial Uniforms for New Dickies Collaboration Summary UNION and Dickies drop a capsule flipping classic workwear inside out with exposed seams.Features inverted chore jackets, Eisenhower-style tops, double-knee work pants, and graphic T-shirts.Drops today online and across UNION Los Angeles and Tokyo flagships. UNION has joined forces with Dickies for a collaborative Fall/Winter 2026 capsule titled \"INVERSE.\" True to its name, the collection reimagines Dickies' classic utilitarian silhouettes by flipping traditional garment construction inside out. The design language highlights exposed seams, inverted fabric textures, and contrast stitching across Dickies' signature heavy-duty cotton twill. By subverting industrial uniforms into elevated street staples, the joint project bridges Union’s refined West Coast streetwear aesthetic with Dickies' century-old workwear legacy.The \"INVERSE\" capsule centers around a set of co-branded workwear suits, featuring unstructured chore jackets and wide-leg Eisenhower-style tops paired with matching double-knee work pants and relaxed trousers. Each piece is finished with dual logo patches, exposed interior taping, and subtle contrast stitching that emphasizes the collection's inside-out theme. The lineup is further complemented by graphic T-shirts and daily layering tops.The UNION x Dickies “INVERSE” collection officially releases today via UNION's official webstore and in-store across UNION flagship locations in Los Angeles and Tokyo. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9ab5e89dff6a0e77",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ASICS Debuts the GEL-KINETIC FR in a Duo of Two-Tone Colorways",
+      "url": "https://hypebeast.com/2026/8/asics-gel-kinetic-fr-debut-cocoa-powder-champagne-1203b051-200-black-pure-silver-1203b051-001-release-info",
+      "publishedAt": "2026-08-20T11:01:14.000Z",
+      "collectedAt": "2026-08-21T12:56:46.297Z",
+      "text": "ASICS Debuts the GEL-KINETIC FR in a Duo of Two-Tone Colorways Name: ASICS GEL-KINETIC FR “Cocoa Powder” & “Black”Colorway: Cocoa Powder/Champagne, Black/Pure SilverSKU: 1203B051-200, 1203B051-001MSRP: TBCRelease Date: August 21Where to Buy: ASICSASICS is debuting the GEL-KINETIC FR sneaker, a progressive new everyday model that draws heavily from the brand's early-2000s running archive. Coming in two colorways - \"Cocoa Powder/Champagne\" and \"Black/Pure Silver\" - the silhouette features a feather-light construction that wraps closer to the foot, creating a streamlined, fluid profile. A reworked synthetic quarter panel gives the layered, technical upper a cleaner look.Underfoot, the shoe features an evolved cushioning system inspired by the GEL-KINETIC 2.0, incorporating Scutoid GEL technology with pods positioned directly beneath the heel for enhanced comfort. Additionally, a thicker sock-lining construction adds forefoot cushioning and contributes to a smoother transition through each step, perfectly balancing the shoe's technical foundation with a softer, more considered feel. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2a9e85fd807114be",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Czapek Reverses Its Escapement for the Skeletonized Promenade Transparencies Aqua Blue Watch",
+      "url": "https://hypebeast.com/2026/8/czapek-the-promenade-transparencies-aqua-blue-release-info",
+      "publishedAt": "2026-08-21T01:35:24.000Z",
+      "collectedAt": "2026-08-21T12:56:46.297Z",
+      "text": "Czapek Reverses Its Escapement for the Skeletonized Promenade Transparencies Aqua Blue Watch Summary Czapek introduces the Promenade Transparencies Aqua Blue, limited to 38 pieces, featuring a smoked sapphire dial with blue fumé gradient.Powered by the skeletonized Calibre SXH7, showcasing dual‑sided finishing and recycled platinum micro‑rotor.Available for pre-order now via Czapek. Czapek has expanded its openworked line with the launch of the Promenade Transparencies Aqua Blue, a limited edition that builds on the design language established by its predecessor, the Viridian Green. The watch’s centerpiece is a smoked sapphire crystal dial engineered to expose the fully skeletonized, in-house movement beneath.To achieve its blue fumé gradient, Czapek utilizes a specialized metallization process that applies microscopic metallic dots - each measuring approximately eight microns in diameter - to the underside of the sapphire disc. The dot density gradually thins out toward the center and thickens at the outer edges, providing optical clarity over the movement while creating an opaque perimeter.Fitted into a slender 38mm stainless steel case measuring 10.8mm thick, the watch introduces custom hand-applied hour markers made from solid blocks of light blue Super-LumiNova. Beneath the sapphire dial beats the automatic Calibre SXH7, an in-house skeletonized movement whose seven openworked bridges pay homage to François Czapek’s 19th-century pocket watches.To present a clean, architecture-focused front, Czapek’s watchmakers reversed the escapement and relocated the small seconds subdial off-center to the 4:30 mark. The movement also features a micro-rotor machined from 100% recycled platinum, openworked ratchets, sandblasted bridges and extensive hand-chamfered inward angles that are finished symmetrically across both sides.Capped at a limited run of just 38 pieces, the Czapek Promenade Transparencies Aqua Blue opens for orders starting today via Czapek’s Geneva flagship boutique, authorized global retailers, and the brand’s website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8da6c89459f7a05d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Aimé Leon Dore Teases Knicks Collaboration for FW26 Delivery 1",
+      "url": "https://hypebeast.com/2026/8/aime-leon-dore-fw26-delivery-1-knicks-info",
+      "publishedAt": "2026-08-20T19:50:37.000Z",
+      "collectedAt": "2026-08-21T12:56:46.297Z",
+      "text": "Aimé Leon Dore Teases Knicks Collaboration for FW26 Delivery 1 SummaryAimé Leon Dore’s FW26 collection features collaborations with Technics, GORE-TEX, The North Face, and Last Resort AB.Delivery 1, which may include the brand’s first Knicks cap alongside Yankees headwear and new apparel, will be released shortly.Aimé Leon Dore has officially unveiled its FW26 lookbook, which appears to hint at a possible New York Knicks collaboration. Rooted in the brand’s NY provenance, the broader collection brings its signature high-end sportswear aesthetic into the fold with additional collaborative pieces from Technics, GORE-TEX, The North Face, and Swedish label Last Resort AB.If you flip through the lookbook, you can easily miss the single Knicks cap featured in the collection alongside new Yankees caps and beanies. The Knicks cap could very well be the brand’s first-ever partnership with the basketball team, though it has repped the NY Yankees baseball team as far back as 2017. The lookbook also continues its collaborations with Japanese audio brand Technics and GORE-TEX, while introducing another debut footwear collaboration with Swedish brand Last Resort AB. Standout outerwear pieces include the Suede Cafe Racer Jacket, the Technics Varsity Leather Jacket, and a North Face puffer jacket with leather yoke details. The season’s knitwear is expressive with chunky yarns and colorful Fair-Isle patterns. Tailoring is executed with classic woolen tweeds and earth-toned windowpane checks seen in double-breasted jackets and matching trousers. To balance out more tailored looks, denim plays a crucial role in this range, appearing in double-knee carpenter pants, pinstriped jeans, and even shirting.The Aime Leon Dore Delivery 1 drops on Friday, August 2 at 11 AM ET on aimeleondore.com and at the brand’s flagship stores in New York, Los Angeles, and London. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "54f59d088aa20523",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Supreme Chief Creative Officer Steps Down After 22 Years",
+      "url": "https://hypebeast.com/2026/8/supreme-chief-creative-officer-steps-down-after-22-years",
+      "publishedAt": "2026-08-20T17:10:14.000Z",
+      "collectedAt": "2026-08-21T12:56:46.297Z",
+      "text": "Supreme Chief Creative Officer Steps Down After 22 Years SummaryErin Magee stepped down as Supreme's Chief Creative Officer after 22 years, likely to focus on her growing label, Mademe.Her exit adds to Supreme's recent instability, following Tremaine Emory's controversial resignation and successive corporate buyouts.On August 20, Supreme Chief Creative Officer Erin Magee announced her departure via Instagram after more than two decades at the NYC-born streetwear label. “It has been the honor of a lifetime to be part of the World Famous Supreme Team,” she shared in the post.Magee had been with the brand since 2004, having held several positions during her tenure. Since the brand’s early days, she has been behind the development and direction of some of the brand's most iconic pieces and collaborative projects. In 2007, Magee launched women's streetwear brand Mademe, which she may very well center her focus on now that she has departed from Supreme. The Mademe label has continued to grow in the 2020s, capturing major partnerships with brands like Doc Martens, Alpha Industries, and Courtney Love's band Hole.&nbsp;View this post on Instagram&nbsp;A post shared by erin_mademe (@erin_mademe)The news is only the latest reshuffle to come from the brand in recent years, including its 2020 VF Corp acquisition, designer Tremaine Emory’s sudden departure from his new Creative Director role in 2023, and VF’s sale of the label to EssilorLuxottica in 2024. Emory's departure, only a year after his appointment, was particularly controversial as he cited internal discrimination as the reason for his decision. Since then, the brand has left the Creative Director position without replacement. Supreme has yet to announce who will fill Magee's long-held CCO role.Stay tuned to Hypebeast for the latest fashion industry news and insights. Click here to view full gallery at Hypebeast"
     }
   ]
 }
