@@ -899,6 +899,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-23",
+      "mode": "live",
+      "displayDate": "AUG 23, 2026, 08:49 AM EDT",
+      "generatedAt": "2026-08-23T12:49:28.793Z",
+      "itemsCollected": 23,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 11
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -14728,6 +14765,259 @@
       "publishedAt": "2026-08-21T15:02:25.000Z",
       "collectedAt": "2026-08-22T12:48:36.745Z",
       "text": "Central Cee, Cole Palmer and More Take Coca-Cola's London Football Event For its second season as the official soft drink partner of the Premier League, Coca-Cola Zero Sugar has been shining the spotlight on football culture through its “Taste Every Second” campaign. With the visuals soundtracked by Central Cee, the brand went on to host a music-meets-football celebration, harnessing the energy and passion of the sport’s diehard fans. The event took place earlier this week in central London, where a specially built cage-style pitch came together with spectator zones to replicate the feel of community football. On the pitch, Coca-Cola invited Football Beyond Borders, This Fan Girl, Bloomsbury Football, and several other grassroots and fan teams for a 3v3 tournament where they would go head-to-head in fast-paced knock-out rounds.Before the games began, though, guests explored the Kit Lab with customizable Coke Zero jerseys and showcased their skills in a penalty shoot challenge. Central Cee also made a guest appearance, sharing an exclusive first play of his track, The Team, produced by P-rallel. The listening party-style moment set the tone for the evening, with the single's electronic beats and football-inspired lyrics underscoring the tension and euphoria of the Premier League. As the knock-out rounds kicked off, Cole Palmer stopped off to soak up the action on the pitch. Bringing together some of football’s biggest names, who live and breathe the sport every week, the Chelsea midfielder was joined by former athletes David James and Ledley King, who were enlisted to pundit the matches. After the final match against Spurs' Community Team, Central Cee’s handpicked group Live Yours FC were crowned the winners. They headed up the stage with the rapper and Cole Palmer to lift the bespoke trophy, ending the evening on a high. Take a look back at the CC Cup via the images in the gallery above. You can discover the latest from Coca-Cola’s Premier League partnership by visiting its website now. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3b618896c4a0a181",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 7 Best Airbnbs in Morocco Include Stately Riads",
+      "url": "https://www.vogue.com/article/airbnbs-in-morocco",
+      "publishedAt": "2026-08-23T10:00:00.000Z",
+      "collectedAt": "2026-08-23T12:49:24.455Z",
+      "text": "The 7 Best Airbnbs in Morocco Include Stately Riads An Airbnb in Morocco gives you lots of space, privacy, and (if you book one of our favorite riads) unique architectural charm. Here, seven favorites."
+    },
+    {
+      "id": "b9ae606c8914e1ce",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival",
+      "url": "https://www.vogue.com/slideshow/20-times-italian-bombshells-ruled-the-venice-film-festival",
+      "publishedAt": "2026-08-23T10:00:00.000Z",
+      "collectedAt": "2026-08-23T12:49:24.456Z",
+      "text": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival From Sophia Loren to Monica Bellucci, we look back at the Venice Film Festival’s most stylish attendees from decades past."
+    },
+    {
+      "id": "92c07764023c91bb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zoë Kravitz Experiments in a Long Misunderstood Denim Style",
+      "url": "https://www.vogue.com/article/zoe-kravitz-experiments-in-a-long-misunderstood-denim-style",
+      "publishedAt": "2026-08-23T05:56:33.000Z",
+      "collectedAt": "2026-08-23T12:49:24.456Z",
+      "text": "Zoë Kravitz Experiments in a Long Misunderstood Denim Style Harry Styles and Zoë Kravitz have a shared love of classic straight-leg jeans; but the actor strikes out in a more retro silhouette."
+    },
+    {
+      "id": "e8c12c9b96b313ea",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ariana Grande and Ricky Álvarez Layer Up for an Even Harder Launch in London",
+      "url": "https://www.vogue.com/article/ariana-grande-and-ricky-alvarez-layer-up-in-london",
+      "publishedAt": "2026-08-22T22:07:52.000Z",
+      "collectedAt": "2026-08-23T12:49:24.456Z",
+      "text": "Ariana Grande and Ricky Álvarez Layer Up for an Even Harder Launch in London In London for the Eternal Sunshine tour, Ariana Grande and boyfriend Ricky Álvarez are holding onto the last embers of British summertime, despite the temp."
+    },
+    {
+      "id": "1e18755e80d93bca",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kendall Jenner and Jacob Elordi’s Dating World Tour Continues in London",
+      "url": "https://www.vogue.com/article/kendall-jenner-and-jacob-elordi-dating-world-tour-london",
+      "publishedAt": "2026-08-22T16:00:00.000Z",
+      "collectedAt": "2026-08-23T12:49:24.456Z",
+      "text": "Kendall Jenner and Jacob Elordi’s Dating World Tour Continues in London Following his solo appearance at “The Dog Stars” premiere, Jacob Elordi was joined by Kendall Jenner for a night on the town."
+    },
+    {
+      "id": "b246dcb485b138e6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Harry Styles and Zoë Kravitz Propose Different Approaches to the Travel Outfit",
+      "url": "https://www.vogue.com/article/harry-styles-and-zoe-kravitz-propose-different-approaches-to-the-travel-outfit",
+      "publishedAt": "2026-08-22T13:33:47.000Z",
+      "collectedAt": "2026-08-23T12:49:24.456Z",
+      "text": "Harry Styles and Zoë Kravitz Propose Different Approaches to the Travel Outfit Landing in New York ahead of the Together, Together residency at Madison Square Garden, Harry Styles and Zoë Kravitz take their touchdown looks seriously."
+    },
+    {
+      "id": "48ca4d3ab599e5e6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "These adidas Mary Janes Are Bringing Chocolate to Barre",
+      "url": "https://www.highsnobiety.com/p/adidas-barreda-mary-jane-shadow-brown/",
+      "publishedAt": "2026-08-23T09:00:02.000Z",
+      "collectedAt": "2026-08-23T12:49:26.057Z",
+      "text": "These adidas Mary Janes Are Bringing Chocolate to Barre The Three Stripes introduces a fresh feminine hybrid: the adidas Originals Barreda Mary Jane Shadow Brown/Cream White."
+    },
+    {
+      "id": "f048a6a1685cdaaf",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Cocoa-Flavored Dad Shoe Puts the Taste in Tasteful",
+      "url": "https://www.highsnobiety.com/p/new-balance-991v1-cocoa/",
+      "publishedAt": "2026-08-22T19:14:05.000Z",
+      "collectedAt": "2026-08-23T12:49:26.057Z",
+      "text": "New Balance’s Cocoa-Flavored Dad Shoe Puts the Taste in Tasteful New Balance reveals a 991v1 Made in UK \"Cocoa\" sneaker featuring luxe chocolate-brown suede. Here's everything on the tasty release."
+    },
+    {
+      "id": "83df4d941ba3d905",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Techy ASICS Trainer Signs Up for Ballet Lessons",
+      "url": "https://www.highsnobiety.com/p/asics-gel-ds-trainer-sp-sneakers/",
+      "publishedAt": "2026-08-22T19:15:01.000Z",
+      "collectedAt": "2026-08-23T12:49:26.057Z",
+      "text": "A Techy ASICS Trainer Signs Up for Ballet Lessons ASICS releases a new version of its GEL-DS Trainer featuring ballet-style laces. Here's everything on the techy shoe gone ballerina."
+    },
+    {
+      "id": "28f2d1f81977aa85",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Soft Suede Dunk Is as Real as It Gets",
+      "url": "https://www.highsnobiety.com/p/nike-dunk-low-soft-blue/",
+      "publishedAt": "2026-08-22T19:13:43.000Z",
+      "collectedAt": "2026-08-23T12:49:26.058Z",
+      "text": "Nike's Soft Suede Dunk Is as Real as It Gets Nike's Dunk Low Retro \"Soft Blue\" sneaker gets the \"seal of authenticity\" from the brand for its latest release. But it's not what you think."
+    },
+    {
+      "id": "8c813f6aba49ebfb",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Velvety Air Max Soccer Sneaker Crossover Is Muy Bonito",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-joga-bonito-black-red/",
+      "publishedAt": "2026-08-22T19:11:36.000Z",
+      "collectedAt": "2026-08-23T12:49:26.058Z",
+      "text": "Nike’s Velvety Air Max Soccer Sneaker Crossover Is Muy Bonito Nike's Air Max Joga Bonito sneaker gets a new textural look for the \"Black/University Red\" release. Here's everything on the new 'fit."
+    },
+    {
+      "id": "8de6d8abb63189b7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Cinnamon Leather Forces Have a Sweet Sole",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-black-cinnamon/",
+      "publishedAt": "2026-08-22T19:16:16.000Z",
+      "collectedAt": "2026-08-23T12:49:26.058Z",
+      "text": "Nike’s Cinnamon Leather Forces Have a Sweet Sole Nike's Air Force 1 '07 Low sneaker lands with \"Cinnamon\" leather uppers & black soles, resulting in a delicious & surprisingly textural spin."
+    },
+    {
+      "id": "8dce80d48b83812b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Blacked-Out OG Has Future Classic Written All Over It",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-95-big-bubble-premium-black-gum-volt/",
+      "publishedAt": "2026-08-22T12:50:00.000Z",
+      "collectedAt": "2026-08-23T12:49:26.058Z",
+      "text": "Nike’s Blacked-Out OG Has Future Classic Written All Over It The Nike Air Max 95 Big Bubble Premium Black/Gum/Volt combines enlarged OG cushioning specs with a rugged, stealthy material treatment."
+    },
+    {
+      "id": "f557b014d59634cd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Director Jon Turteltaub Confirms 'National Treasure 3' Is Officially in Development",
+      "url": "https://hypebeast.com/2026/8/disney-director-jon-turteltaub-confirms-national-treasure-3-officially-in-development",
+      "publishedAt": "2026-08-23T06:49:35.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Director Jon Turteltaub Confirms 'National Treasure 3' Is Officially in Development Summary Director Jon Turteltaub confirmed during a podcast taping that 'National Treasure 3' is currently in developmentA script is actively being written with intentions to bring back key original cast membersDisney and Nicolas Cage representatives have not yet officially commented on the project's progress Disney and franchise director Jon Turteltaub are officially moving forward with National Treasure 3. Turteltaub broke the news during a live taping of the National Treasure Hunt podcast, confirming that a third chapter in the action-adventure series is officially in active development.Speaking at the live event, Turteltaub revealed that a screenplay is currently being written for the long-awaited sequel, adding that plans are underway to bring back as much of the original ensemble as possible. While representatives for Disney and lead actor Nicolas Cage have not officially issued statements regarding the announcement, Turteltaub emphasized that creative momentum on the project has officially resumed.The original National Treasure debuted in 2004, grossing $347 million USD worldwide as it followed historians Ben Gates and Abigail Chase in a quest centered on the Declaration of Independence. Its 2007 sequel, National Treasure: The Book of Secrets, expanded the franchise further with $459 million USD in global box office receipts. While Disney+ previously expanded the universe with the 2022 spin-off series National Treasure: Edge of History, the main feature film series has remained dormant for nearly two decades.&nbsp;View this post on Instagram&nbsp;A post shared by National Treasure Hunt (@nthuntpodcast) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fe234e76ca93c125",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Mac Miller Estate Celebrates 10 Years of 'The Divine Feminine' With Expanded Vinyl Reissue",
+      "url": "https://hypebeast.com/2026/8/mac-miller-the-divine-feminine-10th-anniversary-three-new-tracks-album-release-info",
+      "publishedAt": "2026-08-23T06:57:51.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "The Mac Miller Estate Celebrates 10 Years of 'The Divine Feminine' With Expanded Vinyl Reissue Summary The Mac Miller Estate has announced an official 10th anniversary edition of 'The Divine Feminine' featuring three unreleased songsThe reissue is led by the new single Butterflies produced by Taylor Graves with bass instrumentation from ThundercatThe album arrives October 2 on 3LP vinyl formats alongside the launch of an interactive archival website The Mac Miller Estate and Warner Records have officially announced The Divine Feminine (10th Anniversary). Marking 10 years since the release of the late rapper’s landmark 2016 album, the expanded project introduces three previously unreleased tracks from the original recording sessions alongside standard and deluxe 3LP vinyl pressings.Originally released in September 2016, The Divine Feminine represented a major stylistic shift in Mac Miller's catalog, blending hip-hop with jazz-infused instrumentation and soul-focused vocals. The 10th anniversary release is anchored by the newly released single \"Butterflies,\" produced by Taylor Graves and featuring bass work from longtime collaborator Thundercat.The expanded project integrates two additional unreleased session tracks into the original tracklist, which features guest appearances from Anderson .Paak, Ariana Grande, Kendrick Lamar, Ty Dolla $ign, CeeLo Green, Bilal, and Njomza. To celebrate the milestone, the estate also launched a new interactive website designed in partnership with XXIX, serving as a digital archive of Miller's life and artistic legacy through photos and media contributed by friends and collaborators.The Divine Feminine (10th Anniversary) officially releases on October 2, 2026, with 3LP vinyl pre-orders available now online and select music retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5346164c942ee452",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Kobe 3 Low Protro Prepares for \"Pure Platinum\" Fall 2026 Release",
+      "url": "https://hypebeast.com/2026/8/nike-kobe-3-low-protro-pure-platinum-official-look-iv7127-001-release-info",
+      "publishedAt": "2026-08-23T06:36:52.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Nike Kobe 3 Low Protro Prepares for \"Pure Platinum\" Fall 2026 Release Summary Nike is expanding its Kobe 3 Low Protro lineup with an upcoming \"Pure Platinum\" colorwayThe understated design features a light grey build highlighted by metallic heel branding and Armory Blue accentsThe sneaker is scheduled to release in September 2026 for a retail price of $190 USD Name: Nike Kobe 3 Low Protro \"Pure Platinum\"Colorway: Pure Platinum/Armory BlueSKU: IV7127-001MSRP: $190 USDRelease Date: September 2026Where to Buy: NikeNike is extending its basketball lineup with the upcoming Kobe 3 Low Protro in \"Pure Platinum.\" Official imagery of the low-top silhouette has surfaced following a busy run of recent releases for the model, including the \"Atomic Pink,\" \"WNBA All-Star,\" and \"Warning Label\" renditions.Taking a more understated design direction compared to its vibrant predecessors, the \"Pure Platinum\" colorway dresses almost the entire shoe in light grey. Armory Blue hits accentuate the branding throughout, while a subtle metallic Swoosh at the heel adds a reflective finish without disrupting the overall neutral aesthetic.Ahead of its retail debut, the colorway appeared on court during the FIBA World Cup 2027 Qualifiers, worn by basketball player Jun Seok Yeo. The model continues its momentum across hardwood courts alongside other recent highlights, such as Jalen Brunson's \"Arancia\" iteration.The Nike Kobe 3 Low Protro \"Pure Platinum\" drops in September 2026 via Nike.com and select retailers for $190 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1c95be6e6f81066d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Stüssy Embraces Seasonal Changes With Fall 2026 Lookbook Reveal",
+      "url": "https://hypebeast.com/2026/8/stussy-fall-2026-lookbook-collection-release-info",
+      "publishedAt": "2026-08-23T07:15:39.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Stüssy Embraces Seasonal Changes With Fall 2026 Lookbook Reveal Summary Stüssy has officially unveiled its Fall 2026 collection alongside a 14-image campaign lookbookThe range bridges summer-ready baggy shorts with transitional zip-up hoodies and layered outerwearThe full collection drops on August 21 via Stüssy Chapter locations and the brand's webstore Stüssy has officially revealed its Fall 2026 Collection with an accompanying 14-image campaign lookbook. The upcoming seasonal offering bridges summer-ready apparel with functional autumn outerwear designed to adapt to shifting weather conditions.The visual presentation showcases a versatile range engineered for multi-seasonal layering. Key pieces within the drop span from relaxed, baggy shorts to cold-weather staples, including loose-cut zip-up hoodies, transitional outerwear, and graphic tops including floral shirts and '90s-inspired cable knits. Every garment emphasizes a relaxed, comfortable fit that functions through changing temperatures while highlighting Stüssy’s unmistakable visual branding.The Stüssy Fall 2026 collection officially releases on Friday, August 21, 2026, at 10 a.m. local time via select Stüssy Chapter locations and online across North America, the UK, Europe, Japan, and Korea. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7cb9f8b3f628d424",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Michael Jordan's 1998 NBA Finals Game 3 Jersey Heads to Auction at Pharrell's JOOPITER",
+      "url": "https://hypebeast.com/2026/8/michael-jordan-1998-nba-finals-game-3-jersey-auction-pharrells-joopiter",
+      "publishedAt": "2026-08-23T06:11:50.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Michael Jordan's 1998 NBA Finals Game 3 Jersey Heads to Auction at Pharrell's JOOPITER Summary Digital auction platform JOOPITER has announced the upcoming sale of Michael Jordan's 1998 NBA Finals Game 3 jerseyThe white uniform represents the only publicly known white game-winning jersey from Jordan's final championship run with the Chicago BullsBidding opens on September 15 at 10 a.m. EDT with an estimated valuation between $10 million and $15 million USD Digital auction platform JOOPITER has officially announced the upcoming sale of Michael Jordan's 1998 NBA Finals Game 3 Game-Worn Jersey. Representing one of the most significant basketball artifacts ever brought to market, the uniform from Jordan's legendary \"The Last Dance\" championship season with the Chicago Bulls is estimated to fetch between $10 million USD and $15 million USD.Worn on June 7, 1998, at Chicago's United Center against the Utah Jazz, the jersey marks a pivotal moment in NBA history. Jordan played 43 minutes in Game 3, recording 24 points, 4 rebounds, 3 assists, 2 steals, and 1 block to lead Chicago to a 96-54 victory. The 42-point blowout held Utah to the fewest points ever scored by a team in an NBA Finals game, shifting momentum in Chicago's favor en route to their sixth and final championship title.The white home uniform stands as the only publicly known white game-winning jersey from the 1998 NBA Finals ever to surface. Adding to its historical value, the piece features the coveted 1998 NBA Finals embroidered patch on the left chest. For verified authenticity, the jersey is accompanied by a MeiGray photomatching certificate and an official letter of provenance from Bill Thoma.Bidding for Michael Jordan's 1998 NBA Finals Game 3 Jersey officially opens on September 15, 2026, at 10:00 AM EDT exclusively via JOOPITER. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4fc058da23437b25",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tyler, The Creator, Future, and Don Toliver Lead 2026 Camp Flog Gnaw Lineup",
+      "url": "https://hypebeast.com/2026/8/2026-camp-flog-gnaw-lineup-tyler-the-creator-future-don-toliver-announcement",
+      "publishedAt": "2026-08-23T06:02:44.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Tyler, The Creator, Future, and Don Toliver Lead 2026 Camp Flog Gnaw Lineup Summary Tyler, The Creator, Future, Don Toliver, Steve Lacy, and Turnstile are set to headline the 2026 Camp Flog Gnaw CarnivalThe twelfth annual music festival produced in partnership with Goldenvoice returns to Dodger Stadium on November 14 and 15The official lineup announcement follows an immediate ticket sellout for the two-day event Tyler, The Creator, Future, Don Toliver, Steve Lacy, and Turnstile are officially set to headline the twelfth edition of the Camp Flog Gnaw Carnival. Produced in collaboration with Goldenvoice, the Los Angeles music festival returns to Dodger Stadium on November 14 and 15, 2026, following an immediate ticket sellout.Curated directly by Tyler, The Creator, the 2026 lineup features a wide-ranging roster spanning hip-hop, R&B, indie, and alternative subcultures. Joining the headliners are major acts including J.I.D, Vince Staples, Lupe Fiasco, Earl Sweatshirt & Mike, Isaiah Rashad, Syd, The Alchemist, Latin Mafia, 2hollis, Not For Radio, Wallows, Thee Sacred Souls, and Concrete Boys.The festival also spotlights a mix of longtime Odd Future collaborators, rising talent, and genre-defying acts, including Domo Genesis, Left Brain, Mike G, Casey Veggies, Magdalena Bay, Leon Thomas, Audrey Nuna, Lola Young, Quadeca, and 310babii. Celebrating its twelfth installment, the artist-led gathering maintains its reputation for community-driven curation and landmark live performances.The 2026 Camp Flog Gnaw Carnival officially takes place on November 14 and 15, 2026, at Dodger Stadium in Los Angeles. View this post on InstagramA post shared by Camp Flog Gnaw Carnival (@campfloggnaw) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9147cc3ccf0e1f06",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ella Beatty Stars as History’s Infamous Axe Murderer in 'Monster: The Lizzie Borden Story'",
+      "url": "https://hypebeast.com/2026/8/netflix-monster-the-lizzie-borden-story-ryan-murphy-axe-murder-official-trailer",
+      "publishedAt": "2026-08-22T15:17:05.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Ella Beatty Stars as History’s Infamous Axe Murderer in 'Monster: The Lizzie Borden Story' Summary Netflix has released the official trailer for 'Monster: The Lizzie Borden Story' created by Ryan Murphy and Ian BrennanElla Beatty stars as the title character in the anthology’s fourth installment alongside Charlie Hunnam and Rebecca HallThe eight-episode series explores the 1892 Fall River axe murders and officially premieres on September 17 Netflix has officially released the full trailer for Monster: The Lizzie Borden Story, marking the fourth installment in Ryan Murphy and Ian Brennan’s true-crime anthology series.The upcoming season stars Ella Beatty as the infamous title character accused of the 1892 axe murders of her father and stepmother.The eight-episode season explores the repressed dynamics of a wealthy 19th-century New England family as Lizzie Borden and her maid escape into a world of revenge following familial cruelty. Beatty leads the cast alongside Charlie Hunnam and Rebecca Hall, who portray Borden’s father and stepmother. The series also features appearances from Sarah Paulson as serial killer Aileen Wuornos and Vicky Krieps as Elizabeth Báthory, expanding Murphy's thematic exploration of history's most notorious figures.Max Winkler directs six episodes of the season, with Sarah Adina Smith helming episodes four and six. Co-created and written by Ian Brennan, the series is executive produced by Murphy, Brennan, Winkler, Eric Kovtun, Scott Robertson, Louise Shore, Nissa Diederich, Todd Kubrak, Carl Franklin, and Tanase Popa. The story follows previous iterations of the Monster franchise that focused on Jeffrey Dahmer, the Menendez brothers, and Ed Gein.Monster: The Lizzie Borden Story officially launches with all eight episodes on September 17, 2026, streaming exclusively on Netflix. Read more at Hypebeast"
+    },
+    {
+      "id": "50147fe6fa37529f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Dave Bautista Officially Cast as Kratos in Amazon's 'God of War' TV Series",
+      "url": "https://hypebeast.com/2026/8/amazon-mgm-studios-prime-video-dave-bautista-officially-cast-kratos-god-of-war-tv-series",
+      "publishedAt": "2026-08-22T15:11:37.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Dave Bautista Officially Cast as Kratos in Amazon's 'God of War' TV Series Summary Dave Bautista has officially been cast in the lead role of Kratos for Amazon Prime Video’s live-action 'God of War' seriesThe casting follows an onset bicep injury sustained by Ryan Hurst requiring surgery and complete reshoots of Kratos' scenesThe project has received a two-season order from Amazon MGM Studios and Sony Pictures Television with Ronald D Moore attached as showrunner Amazon MGM Studios and Sony Pictures Television have officially cast Dave Bautista to star as Kratos in the upcoming God of War TV series. The Guardians of the Galaxy actor takes over the lead role following an onset injury to previous lead Ryan Hurst.Hurst, who was initially cast as Kratos in January 2026, suffered a torn bicep during filming in Vancouver that required surgery and would have delayed restarting production into 2027. Recasting the role allows production to resume in the coming weeks, though all previously completed scenes featuring Hurst will now be reshot. Prime Video has issued a two-season order for the live-action adaptation, with both seasons scheduled to shoot back-to-back.Written and showrun by Ronald D. Moore under his Tall Ship Productions banner, the series adapts the storyline of the Norse pantheon video games. The plot centers on Kratos and his ten-year-old son Atreus, played by Callum Vinson, as they embark on a journey to scatter the ashes of their wife and mother, Faye. The cast also includes Max Parker as Heimdall, Ólafur Darri Ólafsson as Thor, Mandy Patinkin as Odin, Alastair Duncan as Mimir, Ed Skrein as Baldur, and Danny Woodburn alongside Jeff Gulka as Brok and Sindri, with Frederick E.O. Toye directing the first two episodes.Production on God of War is expected to officially resume in Vancouver in the coming weeks. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1c3df6f5aaa71bd1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Take-Two and Rockstar Games Issue Subpoenas to Microsoft and Discord Following 'GTA 6' Leaks",
+      "url": "https://hypebeast.com/2026/8/take-two-interactive-rockstar-games-issue-subpoenas-microsoft-discord-gta-6-leaks",
+      "publishedAt": "2026-08-22T15:06:13.000Z",
+      "collectedAt": "2026-08-23T12:49:27.527Z",
+      "text": "Take-Two and Rockstar Games Issue Subpoenas to Microsoft and Discord Following 'GTA 6' Leaks Take-Two Interactive and Rockstar Games have officially filed federal court subpoenas seeking identifying information from Microsoft and Discord following leaks of Grand Theft Auto 6. The legal actions filed in the U.S. District Court for the Southern District of New York target copyrighted material, including audiovisual content, artwork, dialogue, and creative elements posted online.The subpoenas come after a hacker group calling itself CyberLeek shared multiple gameplay clips obtained from an alleged playable build of the upcoming open-world title. According to court documents, copyrighted GTA 6 material was uploaded to Microsoft’s GitHub developer platform, while infringing media was circulated across various Discord servers. Discord confirmed it complies with valid DMCA subpoenas, while Scott Van Vliet, CTO of Microsoft's Xbox division, stated that the company is working closely with Take-Two and Rockstar Games to safeguard intellectual property.Despite the unauthorized leaks, preparations for the game's launch continue forward. Take-Two CEO Strauss Zelnick previously noted an exceptional start to preorders during an August earnings call. Additionally, Netflix is slated to debut an exclusive \"extended look\" at the title prior to its broader video release across public platforms.Grand Theft Auto 6 officially launches on November 19, 2026, for PlayStation 5 and Xbox Series X and S, with Netflix debuting an exclusive extended preview on August 27. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "926bf5618685a2fd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Palace Skateboards Unveils Third Seoul Store and Exclusive Capsule Collection",
+      "url": "https://hypebeast.com/2026/8/palace-skateboards-unveils-third-seoul-store-exclusive-capsule-lotte-world-collection",
+      "publishedAt": "2026-08-21T21:04:33.000Z",
+      "collectedAt": "2026-08-23T12:49:27.528Z",
+      "text": "Palace Skateboards Unveils Third Seoul Store and Exclusive Capsule Collection Summary Palace Skateboards is expanding its retail footprint in South Korea with the opening of its third Seoul store inside Lotte World MallThe interior design draws structural cues from Jongmyo Shrine incorporating corduroy-fluted concrete columns stained teak paneling and custom UK DPM camouflage carpetTo mark the launch Palace is dropping a store-exclusive apparel capsule featuring graphics inspired by Seoul Olympic Park and Lotte World mascots Palace Skateboards has officially announced its third retail location in South Korea, Palace Seoul Lotte World Mall, opening alongside an exclusive commemorative apparel collection. Situated inside Lotte World Mall near the 555-metre Lotte World Tower in Jamsil, the 142.57-square-metre space merges the London skate label’s retail identity with traditional local architecture.Continuing a design narrative that previously referenced royal Korean palaces, Moon Jars, and London's brutalist Southbank skate scene, the new flagship turns to Seoul’s historic Jongmyo Shrine for visual inspiration. The store’s linear layout echoes the shrine's horizontal continuity, framed by round concrete columns with corduroy-fluted finishes, stained teak paneling, mirrored walls, and camouflage marble. Decorative installations include a faceted mirror-glass skateboard deck display, an infinity mirrored 3D LED tri-ferg, a freestanding LED video wall, UK DPM camouflage carpeting, and Palace’s signature oversized bulldog sculpture.To celebrate the grand opening, Palace is releasing a store-exclusive collection of limited-edition apparel and accessories. The release features technical shell jackets, shorts, hoodies, and T-shirts finished with Olympic-inspired graphics that pay homage to nearby Seoul Olympic Park in Songpa District. Additional graphic details integrate Lotty and Lorry, the official raccoon mascots of Lotte World Adventure.The Palace Skateboards Seoul Lotte World Mall store and its exclusive launch capsule officially open on Saturday, August 22, 2026.PALACE SKATEBOARDS SEOULLotte World Mall 1F300 Olympic-roSongpa-gu, Seoul Click here to view full gallery at Hypebeast"
     }
   ]
 }

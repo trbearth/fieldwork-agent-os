@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-08-22
+# Fieldwork Daily Signal — 2026-08-23
 
 Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
