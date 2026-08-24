@@ -936,6 +936,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-24",
+      "mode": "live",
+      "displayDate": "AUG 24, 2026, 08:59 AM EDT",
+      "generatedAt": "2026-08-24T12:59:04.330Z",
+      "itemsCollected": 36,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 7
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 67,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -15018,6 +15055,402 @@
       "publishedAt": "2026-08-21T21:04:33.000Z",
       "collectedAt": "2026-08-23T12:49:27.528Z",
       "text": "Palace Skateboards Unveils Third Seoul Store and Exclusive Capsule Collection Summary Palace Skateboards is expanding its retail footprint in South Korea with the opening of its third Seoul store inside Lotte World MallThe interior design draws structural cues from Jongmyo Shrine incorporating corduroy-fluted concrete columns stained teak paneling and custom UK DPM camouflage carpetTo mark the launch Palace is dropping a store-exclusive apparel capsule featuring graphics inspired by Seoul Olympic Park and Lotte World mascots Palace Skateboards has officially announced its third retail location in South Korea, Palace Seoul Lotte World Mall, opening alongside an exclusive commemorative apparel collection. Situated inside Lotte World Mall near the 555-metre Lotte World Tower in Jamsil, the 142.57-square-metre space merges the London skate label’s retail identity with traditional local architecture.Continuing a design narrative that previously referenced royal Korean palaces, Moon Jars, and London's brutalist Southbank skate scene, the new flagship turns to Seoul’s historic Jongmyo Shrine for visual inspiration. The store’s linear layout echoes the shrine's horizontal continuity, framed by round concrete columns with corduroy-fluted finishes, stained teak paneling, mirrored walls, and camouflage marble. Decorative installations include a faceted mirror-glass skateboard deck display, an infinity mirrored 3D LED tri-ferg, a freestanding LED video wall, UK DPM camouflage carpeting, and Palace’s signature oversized bulldog sculpture.To celebrate the grand opening, Palace is releasing a store-exclusive collection of limited-edition apparel and accessories. The release features technical shell jackets, shorts, hoodies, and T-shirts finished with Olympic-inspired graphics that pay homage to nearby Seoul Olympic Park in Songpa District. Additional graphic details integrate Lotty and Lorry, the official raccoon mascots of Lotte World Adventure.The Palace Skateboards Seoul Lotte World Mall store and its exclusive launch capsule officially open on Saturday, August 22, 2026.PALACE SKATEBOARDS SEOULLotte World Mall 1F300 Olympic-roSongpa-gu, Seoul Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "03d5ad912653b4bd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Haircuts For Round Faces, As Seen on Celebrities",
+      "url": "https://www.vogue.com/article/best-haircuts-round-faces",
+      "publishedAt": "2026-08-24T12:48:53.000Z",
+      "collectedAt": "2026-08-24T12:59:00.224Z",
+      "text": "The Best Haircuts For Round Faces, As Seen on Celebrities The most flattering haircuts for round faces, including layered cuts, bangs, pixies, and shoulder-length hair with movement—as recommended by experts."
+    },
+    {
+      "id": "b805a36eef27daa2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studios",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-milan",
+      "publishedAt": "2026-08-24T10:00:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studios On your next visit to Italy’s fashion capital, skip the hotel and stay in one of the best Airbnbs in Milan instead. Vogue rounds up its favorites."
+    },
+    {
+      "id": "99c64af003448481",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "20 Modern Jewelry Brands Worth Knowing in 2026",
+      "url": "https://www.vogue.com/article/contemporary-jewelry-brands-to-invest-in-now",
+      "publishedAt": "2026-08-24T10:00:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "20 Modern Jewelry Brands Worth Knowing in 2026 Get to know the modern jewelry brands Vogue editors are loving. From Juju Vera to Vertigo to Dezso, these designers deserve a spot in your jewelry box."
+    },
+    {
+      "id": "43e4860ca1a191d0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Just Browsing: L’Agence Fuses California Ease With a French Edge on Madison Avenue",
+      "url": "https://www.vogue.com/article/just-browsing-lagence-2026",
+      "publishedAt": "2026-08-24T10:00:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "Just Browsing: L’Agence Fuses California Ease With a French Edge on Madison Avenue From standout denim to elegant slip dresses, these are the best pieces to shop at L’Agence’s flagship."
+    },
+    {
+      "id": "52851b06b4d4a545",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Are Creators Up to the Task of Their New Marketing Roles?",
+      "url": "https://www.vogue.com/article/are-creators-up-to-the-task-of-their-new-marketing-roles",
+      "publishedAt": "2026-08-24T04:30:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "Are Creators Up to the Task of Their New Marketing Roles? The creator job description is no longer limited to making and distributing content — influencers are now expected to have business savvy to boot."
+    },
+    {
+      "id": "9bceb909346300d4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "In Luxury’s New Resale Era, Everyone’s a Fashion Expert",
+      "url": "https://www.vogue.com/article/in-luxurys-new-resale-era-everyones-a-fashion-expert",
+      "publishedAt": "2026-08-24T04:30:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "In Luxury’s New Resale Era, Everyone’s a Fashion Expert The RealReal’s 2026 resale report illustrates the rise in specificity and saviness in luxury resale. This will change how the industry operates."
+    },
+    {
+      "id": "1ac2d45de86263a3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Sophie McIntosh Wrote ‘Benevolent,’ One of the Most Bracing Plays of the Year",
+      "url": "https://www.vogue.com/article/sophie-mcintosh-benevolent-play-interview",
+      "publishedAt": "2026-08-23T19:00:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "How Sophie McIntosh Wrote ‘Benevolent,’ One of the Most Bracing Plays of the Year The playwright speaks to Vogue about drawing inspiration from New York’s old reformatory homes, why she still believes in content warnings, and what it means for a play to be truly “political.”"
+    },
+    {
+      "id": "aac225225001a81f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Nailed Sophisticated-Cool",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-rihanna-hailey-bieber-zoe-kravitz",
+      "publishedAt": "2026-08-23T16:14:31.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "The Best Dressed Stars of the Week Nailed Sophisticated-Cool These quietly elegant looks had serious cool factor—as seen on stars like Rihanna, Hailey Bieber, and more."
+    },
+    {
+      "id": "781383e0a1fd2c8d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rihanna Runs It Back in a 2000s-era Rihanna Staple",
+      "url": "https://www.vogue.com/article/rihanna-runs-it-back-in-a-2000s-era-rihanna-staple",
+      "publishedAt": "2026-08-23T13:27:09.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "Rihanna Runs It Back in a 2000s-era Rihanna Staple While everyone else engages in the great summer shorts debate, Rihanna opts to keep it classic on a night out in New York."
+    },
+    {
+      "id": "cb5d35ad61d3ec81",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A First Look At Sézane’s “New Era” Autumn Collection",
+      "url": "https://www.vogue.com/article/sezane-new-in",
+      "publishedAt": "2026-08-23T13:00:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "A First Look At Sézane’s “New Era” Autumn Collection Vogue hears from Sézane founder Morgane Sezalory about the brand’s new era. Expect trenches, denim and suede accessories aplenty."
+    },
+    {
+      "id": "4d1b795adc42b8fb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Sophia Loren to Monica Bellucci, 19 Times Italian Bombshells Ruled the Venice Film Festival",
+      "url": "https://www.vogue.com/slideshow/19-times-italian-bombshells-ruled-the-venice-film-festival",
+      "publishedAt": "2026-08-23T10:00:00.000Z",
+      "collectedAt": "2026-08-24T12:59:00.225Z",
+      "text": "From Sophia Loren to Monica Bellucci, 19 Times Italian Bombshells Ruled the Venice Film Festival From Sophia Loren to Monica Bellucci, we look back at the Venice Film Festival’s most stylish attendees from decades past."
+    },
+    {
+      "id": "5980ea5589956096",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Vibram Crocs Sneaker Secretly Flexes Patagonia-Level Fleece",
+      "url": "https://www.highsnobiety.com/p/crocs-tembo-ii-ro/",
+      "publishedAt": "2026-08-24T08:48:08.000Z",
+      "collectedAt": "2026-08-24T12:59:01.586Z",
+      "text": "This Vibram Crocs Sneaker Secretly Flexes Patagonia-Level Fleece Crocs debuts the Tembo II RO sneaker-clog, essentially an updated archival winter model featuring Vibram soles & Polartec fleece."
+    },
+    {
+      "id": "b85a4a70f27a97c3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Laced-Up Mary Jane Is the Best of Both Worlds",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-jane-laces/",
+      "publishedAt": "2026-08-24T08:30:45.000Z",
+      "collectedAt": "2026-08-24T12:59:01.586Z",
+      "text": "adidas’ Laced-Up Mary Jane Is the Best of Both Worlds The adidas Samba Jane sneaker is the best of both worlds with laces & its signature MJ-style strap."
+    },
+    {
+      "id": "37f064ce5508c5b6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Paul Rodriguez's Elegant Nike Skate Shoe Is Full of Fall Flavor",
+      "url": "https://www.highsnobiety.com/p/nike-sb-p-rod-light-british-tan/",
+      "publishedAt": "2026-08-24T08:26:32.000Z",
+      "collectedAt": "2026-08-24T12:59:01.586Z",
+      "text": "Paul Rodriguez's Elegant Nike Skate Shoe Is Full of Fall Flavor Nike SB's Zoom Air P-Rod sneaker returns for the fall in a season-appropriate \"Light British Tan\" colorway. Here's everything on the release."
+    },
+    {
+      "id": "7c93a4ae8c394c11",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Soccer-Coded Air Max Is Too Luxe for the Field",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-90-premium-black-gum/",
+      "publishedAt": "2026-08-24T08:24:23.000Z",
+      "collectedAt": "2026-08-24T12:59:01.586Z",
+      "text": "Nike's Soccer-Coded Air Max Is Too Luxe for the Field Nike's Air Max 90 sneaker lands with a soccer-inspired leather design, resulting in an admittedly luxe look for the model."
+    },
+    {
+      "id": "5c2dcd2c88314630",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike Put a Fly Rain Jacket on Its Dunks (Again)",
+      "url": "https://www.highsnobiety.com/p/nike-dunk-low-gore-tex-oil-grey/",
+      "publishedAt": "2026-08-24T08:22:14.000Z",
+      "collectedAt": "2026-08-24T12:59:01.586Z",
+      "text": "Nike Put a Fly Rain Jacket on Its Dunks (Again) Nike's GORE-TEX Dunk Lows return in a new \"Oil Grey\" colorway for the fall season. Here's everything on the stylish sneaker wearing a techy rain coat."
+    },
+    {
+      "id": "3eb96f6a95246c5f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Mizuno Revives the Flagship WAVE PROPHECY 1in a Stealthy “Black” Look",
+      "url": "https://hypebeast.com/2026/8/mizuno-wave-prophecy-1-black-d1ga265102-release-info",
+      "publishedAt": "2026-08-24T12:27:21.000Z",
+      "collectedAt": "2026-08-24T12:59:03.061Z",
+      "text": "Mizuno Revives the Flagship WAVE PROPHECY 1in a Stealthy “Black” Look Name: Mizuno WAVE PROPHECY 1 “Black”Colorway: BlackSKU: D1GA265102MSRP: ￥35,200 JPY (approx. $222 USD)Release Date: August 28Where to Buy: MizunoMizuno continues to delve into its archives to deliver modern reimaginings of some of its most iconic silhouettes. The latest to be unveiled is the WAVE PROPHECY 1 model, rendered in a sleek \"Black\" colorway with subtle tonal detailing.First debuted in 2011 as the brand's flagship running model, this silhouette has been meticulously reconstructed using modern footwear technology. At the core of its highly sculptural design is the revolutionary full-length INFINITY WAVE midsole structure, a defining feature that pushes functional boundaries and redefines conventional cushioning concepts. While the sneaker retains the unique aesthetic balance and geometric aesthetics of the 2011 original, it is not merely a standard retro -- instead, it's been updated to meet modern lifestyle and performance standards, seamlessly bridging its athletic heritage with a contemporary, street-ready appeal.The WAVE PROPHECY 1 “Black” features a layered mesh and synthetic upper dressed entirely in black, accented by tonal overlays and Mizuno’s Runbird logo for a stealthy, streamlined look. Its defining element remains the INFINITY WAVE sole unit, a hollowed midsole structure engineered for cushioning and stability, now optimized with updated materials and smoother transitions. The outsole incorporates Wgrip rubber for enhanced traction, while the overall construction maintains the original balance of performance and lifestyle appeal. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "84b0f4fc44f01005",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SATISFY and COROS Team Up for Their First-Ever Mountain Sports Watch",
+      "url": "https://hypebeast.com/2026/8/satisfy-coros-apex-4-mountain-sports-watch-release-info",
+      "publishedAt": "2026-08-24T12:22:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.061Z",
+      "text": "SATISFY and COROS Team Up for Their First-Ever Mountain Sports Watch Summary SATISFY and COROS launch the APEX 4 Mountain Sports Watch, blending alpine‑grade engineering with cultural design.Features include a crystallized titanium bezel, dual‑frequency GPS, a 65‑hour battery life, and exclusive SATISFY watch faces.Available now via both brands, retailing at $520 USD. SATISFY and COROS have joined forces for a collaborative mountain sports watch. The SATISFY x COROS APEX 4 marks COROS' first-ever collaboration with an apparel brand, with the resulting model blending alpine-grade performance with SATISFY's aesthetic.On the exterior, the special edition is distinguished by an exclusive ice-crystallized black titanium bezel paired with a scratch-resistant sapphire glass cover protecting a 1.3-inch always-on MIP touchscreen display. Weighing just 52 grams with its nylon band, the 46mm watch features reinforced lugs for added durability on technical terrain. The package comes bundled with two versatile straps: a khaki nylon band woven with the SATISFY wordmark and a green silicone strap engineered for wet conditions and high-output efforts. To complement the hardware, SATISFY developed three exclusive watch faces - Physical Overview, Training Overview, and Environment Conditions - and pre-loaded three custom training sessions crafted by SATISFY Pro athlete Stian Sommerseth.Underneath its custom exterior, the watch retains COROS's proven performance suite, powered by the Ambiq Apollo 510 processor. It features dual-frequency GPS navigation with free global maps, specialized climbing modes, voice tagging, and an extensive sensor array including optical heart rate, SpO2, ECG, a dual-range barometer, water depth sensor, and a compass. Engineered for endurance, the battery delivers up to 65 hours in Endurance GPS mode and 53 hours in High GPS mode. Additional features include built-in dual speakers, a microphone for hands-free calls, off-course and weather alerts, and comprehensive recovery tracking tools spanning sleep, HRV and wellness checks.Priced at $520 USD, the watch is currently available through both SATISFY and COROS' official websites. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b211351e192b4cfb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SAN SAN GEAR FW26 Explores Urban Connectivity With “CABLE”",
+      "url": "https://hypebeast.com/2026/8/san-san-gear-fall-winter-2026-collection-cable-release-info",
+      "publishedAt": "2026-08-24T12:22:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.061Z",
+      "text": "SAN SAN GEAR FW26 Explores Urban Connectivity With “CABLE” Summary SAN SAN GEAR FW26 “CABLE” explores unseen urban networks through layered silhouettes and technical fabrics.Key styles include multi‑layered outerwear, structural knitwear and modular bags.Released in three drops starting today, via flagship, online and select retailers. South Korean technical streetwear brand SAN SAN GEAR returns with its Fall/Winter 2026 collection, titled \"CABLE,\" which explores urban connectivity and the unseen networks shaping city life. The collection explores the unseen connections that shape urban life, drawing inspiration from fleeting encounters and invisible networks.The sartorial lineup alongside its conceptual campaign draws from its concept, which imagines strangers linked by an intangible cable, expressed through layered silhouettes, technical fabrics, and accessories that merge utility with subcultural streetwear. Key pieces include multi‑layered outerwear with cable‑like detailing, oversized knitwear with structural patterns, and modular bags designed for adaptability. The palette reflects muted city tones punctuated by sharp accents, reinforcing the theme of hidden networks beneath everyday structures.The collection will be released in three drops: August 24, September 3, and September 30, 2026. Items will be available through SAN SAN GEAR’s flagship store, its official online shop, as well as select retailers.&nbsp;View this post on Instagram&nbsp;A post shared by SAN SAN GEAR (@sansan_gear) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "87ae36cfb97f096c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "GDC Collaborates With Malbon Golf for a Golf Apparel Capsule Crafted From Denim",
+      "url": "https://hypebeast.com/2026/8/gdc-malbon-golf-collaboration-release-info",
+      "publishedAt": "2026-08-24T12:22:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.062Z",
+      "text": "GDC Collaborates With Malbon Golf for a Golf Apparel Capsule Crafted From Denim Summary GDC and Malbon Golf drop a four-piece golf capsule crafted entirely from 100% Japanese cotton denim chambray.Features the Collegiate Long Sleeve, Pine Windshirt, Magnolia Pants and Clubhouse Pants in Light Blue and Navy.Launches August 27 via Malbon and August 29 via GDC Daikanyama and online. Takashi Kumagai’s Japanese streetwear label GDC has partnered with Los Angeles-based lifestyle golf brand Malbon Golf for an exclusive four-piece apparel capsule, all crafted from 100% Japanese cotton denim chambray. Bridging classic sportswear with Japanese denim craftsmanship, the collaboration presents a refined, lightweight take on traditional golf attire designed for seamless wear both on and off the green.Leading the upper-body offerings are the Collegiate Long Sleeve - a quarter-zip pullover featuring a raised collar, zippered welt pockets and a side-zip slit for easy layering - and the short-sleeved Pine Windshirt, engineered with a rear ventilation panel and drawcord waist for maximum breathability and adjustability.Completing the capsule are two complementary pant styles that prioritize relaxed comfort and performance utility. The Magnolia Pants offer a classic, relaxed-straight fit with a zip fly, while the Clubhouse Pants feature an elasticated waistband with an adjustable knotted drawstring and elasticized cuffs. Both bottoms, along with the tops, are doused in Light Blue and Navy hues and feature dual-branded embroidered \"MALBON x GDC\" logos paired with Malbon's signature script typography.Priced between ¥39,600 - ¥44,000 JPY (approx. $249 - $276 USD), the collection launches on August 29, 2026 at the GDC Daikanyama flagship store and the GDC online store, with early availability beginning August 27, 2026 via Malbon. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9caed50271e5d862",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The G-Dragon x CASETiFY “Make It Yours” Collection Is Available Now",
+      "url": "https://hypebeast.com/2026/8/g-dragon-casetify-15th-anniversary-collaboration-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.062Z",
+      "text": "The G-Dragon x CASETiFY “Make It Yours” Collection Is Available Now Summary CASETiFY and G-DRAGON drop \"MAKE IT YOURS,\" expanding device protection into a customizable, charm-based accessory ecosystem.Key Accessories includes Glaze and Mirror Impact Cases, Love Lock magnetic charms, Alphabet Plush characters, and customized Bounce Suitcases. CASETiFY has marked its 15th anniversary with a new collaboration alongside G-Dragon, unveiling the \"MAKE IT YOURS\" collection. Expanding beyond device protection, the release introduces the CASETiFY PLAYSET, a customizable ecosystem of phone cases, charms, wristlets, grip stands and travel gear designed to mix, match and stack.At the core of the collection is the upgraded Impact Case, available with a high‑gloss Glaze backplate or reflective Mirror backplate, paired with ten expressive prints in vibrant candy tones. The lineup also includes Jelly Wristlets, Snappy™ Candy Mirror Grip Stands, and Glitter Silicone Charm Cubes, all powered by the proprietary Love Lock magnetic system for seamless attachment and personalization.The broader accessory lineup debuts modular attachments engineered around CASETiFY's magnetic Love Lock system, allowing users to stack Jelly Wristlets, Snappy™ Candy Mirror Grip Stands, and Glitter Silicone Charm Cubes. A key highlight of the drop is the all-new CASETiFY Alphabet Plush series — a whimsical collection of tactile character charms designed to clip directly onto phone cases or bags.The collection also extends to travel gear via the customized Bounce Suitcase and offers three curated starter bundles: the ICON PLAYSET, LOVE POP PLAYSET and NOVA PLAYSET, each packaged with exclusive G-DRAGON photo cards and sticker sets. Priced from $6 USD - $92 USD, the collection is available globally through CASETiFY's webstore and physical retail locations. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a92c3daa1a32075e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "size? and New Balance Reimagine the 204L With Picnic-Inspired Gingham",
+      "url": "https://hypebeast.com/2026/8/new-balance-204l-size-exclusive-brown-release-info-u204l3t0-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.062Z",
+      "text": "size? and New Balance Reimagine the 204L With Picnic-Inspired Gingham Name: New Balance 204L Size? ExclusiveColorway: BrownSKU: U204L3T0MSRP: £120 GBP (approx. $164 USD)Release Date: Available NowWhere to Buy: Size?New Balance has partnered up with size? for an exclusive iteration of the 204L, reimagining the sneaker's usual mesh upper with a green gingham textile upper. The gingham pattern nods to classic picnic blankets, while suede overlays in brown evoke muddy grounds and tree trunks. Rounding out the design, the collaboration includes two distinct lace options, empowering wearers to personalize their look with either a clean, traditional finish or a more expressive, layered approach. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e52e3e8cf6390422",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Everything Dropping at Palace This Week",
+      "url": "https://hypebeast.com/2026/8/palace-skateboards-fall-2026-drop-4-betty-boop-collaboration-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.062Z",
+      "text": "Everything Dropping at Palace This Week Summary Led by a Betty Boop collabortive capsule with Fleischer Studios, featuring the iconic character across chenille varsity jackets, graphic tees and headwear. Mainline seasonal drop highlights sporty pieces like the Big Ripstop jacket, Dove Stamp waffle tops as well as Legacy hoodies, polos and more.Lands August 28 globally and August 29 across Asia. Continuing its Fall 2026 seasonal rollout, Palace Skateboards is back to deliver the fourth drop of the season, headlined by an official collaboration with Fleischer Studios celebrating the iconic cartoon heroine Betty Boop. Reinterpreting historic pop-culture figures through its distinct skate-led design language, the London imprint recontextualizes the classic character across a dedicated range of apparel and accessories. Throughout the capsule, Betty Boop appears wearing her own custom take on the signature Tri-Ferg logo, set against classic Palace script, playful feline companions, heart motifs and lipstick-kissed graphics.Leading the collaborative assortment are statement varsity jackets detailed with rich chenille embroidery, alongside comfortable fleece hooded sweatshirts, woven button-down shirts and graphic T-shirts. Headwear options complete the capsule with co-branded caps and knit beanies, including a standout style featuring a knit graphic of Betty Boop wearing Palace-branded hoop earrings.Alongside the collaborative delivery, Palce also readies its fourth season delivery, focusing on rugged utility and versatile transitional layering pieces. The core offering is anchored by the Big Ripstop Jacket and matching Big Ripstop Joggers, constructed from durable technical fabrics in Army Black, Army Navy and Army Olive colorways. Joining the military-influenced aesthetic is the Dove Stamp Waffle Long-Sleeve, which arrives in Army Olive, Snow Camo and Black to provide breathable textured warmth for shifting temperatures.Rounding out the mainline delivery is the Legacy collection, featuring a coordinated polo, hoodie, and jogger set offered in timeless Black, Navy, and Woodland Camo colorways. Palace Skateboards’ Betty Boop capsule and Fall 2026 Drop 4 will release in-store and online on August 28, 2026, at 11 a.m. BST /EDT across the UK, Europe, the US and Canada. The collection will subsequently land in Japan, Australia, New Zealand, Hong Kong and South Korea on August 29. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a7146b65f96ce1ca",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Supreme and Nike Unveil the Air Max 2001 Air Ecstasy Collaboration",
+      "url": "https://hypebeast.com/2026/8/supreme-nike-air-max-2001-air-ecstasy-collaboration-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.062Z",
+      "text": "Supreme and Nike Unveil the Air Max 2001 Air Ecstasy Collaboration Summary Supreme and Nike have officially announced a collaborative Air Max 2001 Air EcstasyThe exclusive model features quilted mesh uppers 3M reflective TPU logos and debossed midsole detailingThe collection drops globally on August 27 followed by an Asia release on August 29 Supreme has officially partnered with Nike to introduce an exclusive new version of the Air Max 2001 Air Ecstasy. Offered in three distinct colorways, the collaborative sneaker combines performance construction with specialized streetwear details made exclusively for Supreme.The footwear upper is constructed from quilted mesh, accented by 3M reflective TPU logos positioned along the side and heel. Reflective elements extend further across the lace loops and a dedicated tongue panel. For support and cushioning, the silhouette utilizes a Phylon midsole housing transparent air bags, supported by a durable rubber outsole. Debossed graphics detail both the heel and midsole, while the interior features a co-branded footbed along with a mesh collar and tongue lining.The sneakers were initially teased in the Fall/Winter 2026 lookbook. The retro silhouette was first revealed in Supreme's signature matte red upper paired with a yellow midsole and silver Air bubbles. Another pair arrives in an all-black hue while another comes in a white mesh upper featuring an icy-blue gradient overlay to match the Air bubbles.The Supreme x Nike Air Max 2001 Air Ecstasy is set to drop globally on August 27 via the official Supreme webstore and flagship locations, with an Asia release following shortly after on August 29. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "101d12feb0fc5887",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Seiko Teams up With AMNIBUS for a ‘D.Gray-man’ Allen Walker Collaboration",
+      "url": "https://hypebeast.com/2026/8/seiko-d-gray-man-allen-walker-watch-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.062Z",
+      "text": "Seiko Teams up With AMNIBUS for a ‘D.Gray-man’ Allen Walker Collaboration Summary Seiko and AMNIBUS drop an official Allen Walker watch inspired by the protagonist from Katsura Hoshino's D.Gray-man . Features include Pentacle curse mark, cross scar, Timcanpy engraving, and gold‑accented black dial.Pre‑orders close September 16, 2026, shipping begins April 2027. Seiko has teamed up with anime merchandise platform AMNIBUS to launch an officially licensed, limited-edition timepiece dedicated to D.Gray-man protagonist Allen Walker. The timepiece incorporates symbolic elements from Allen’s character, including motifs of his Crown Clown mask, wings, and Exorcist crown, all set against a black dial accented with gold.At twelve o’clock, a silver marker represents his Pentacle curse mark, while the six o’clock position features his iconic cross-shaped scar. Together, these details create a design that reflects the dark, shifting atmosphere of the dark shonen fantasy series by Katsura Hoshino.Housed in a gold-plated stainless steel case measuring 37.5mm by 33.0mm, the watch achieves a slender profile designed to fit easily beneath a shirt cuff. On the caseback, an engraving depicts his golem companion Timcampy alongside Allen’s iconic motto in English: \"Don't stop. Keep walking.\" The watch is paired with an embossed genuine cowhide leather strap, Hardlex crystal, and offers 50 meters of daily water resistance.Under the hood, the timepiece is powered by the Made-in-Japan Seiko Caliber 7N01 quartz movement, which provides an accuracy of ±15 seconds per month and a three-year battery life. Each piece ships in a themed collector’s box decorated with gold foil motifs and the D.Gray-man series logo. Available for pre-order via AMNIBUS, the collaboration piece retails around ¥85,900 JPY (approx. $540 USD). Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "64e7dcd9640d3036",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Freddie Mercury's Yamaha Grand Piano Is Expected to Sell for $528,000 USD",
+      "url": "https://hypebeast.com/2026/8/freddie-mercurys-yamaha-c3-piano-headlines-propstore-auction",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.062Z",
+      "text": "Freddie Mercury's Yamaha Grand Piano Is Expected to Sell for $528,000 USD Summary Propstore is auctioning the historic Yamaha C3 grand piano Freddie Mercury used at Munich's Musicland Studios to compose Queen hits such as \"Crazy Little Thing Called Love\"The instrument headlines the Reinhold Mack Collection, an 81-lot archive featuring the late singer's studio microphone and early handwritten lyrics A historic Yamaha C3 grand piano played by legendary frontman Freddie Mercury is scheduled to go under the hammer as part of a major entertainment memorabilia sale. Mercury utilized the sleek instrument at the iconic Musicland Studios in Munich to write and record solo material as well as massive tracks for Queen albums including The Game, Hot Space and The Works. The auction house Propstore expects the musical centerpiece to sell for up to $528,000 USD. Beyond just serving as a studio tool, the piano represents a pivotal era in rock history where heavyweights like the Rolling Stones, Led Zeppelin and Black Sabbath also flocked to the German recording haven to craft their own seminal projects.The upcoming sale features the Reinhold Mack Collection, a significant trove of 81 distinct items carefully preserved by the band's longtime producer and his son Freddie Jr. Mack described the late singer as an extension of their own family who frequently used their Munich home to safely escape the intense pressures of global fame. Treasured pieces hitting the block include an AKG C414 EB microphone used specifically for Mercury’s lead and backup studio vocals, which carries a pre-sale estimate reaching $105,600 USD. Collectors will also have a rare opportunity to bid on original handwritten lyrics for early solo tracks like \"My Love Is Dangerous\" and \"Let’s Turn It On.\" The producer noted that his family held onto the archive for decades strictly for the sentimental memories rather than financial gain.Bringing these historical artifacts to the open market highlights the massive enduring cultural weight of Queen's creative process. The curated archive provides dedicated fans a highly personal connection to the charismatic star's extraordinary artistry and his quiet moments away from the blinding stadium spotlights. Overall, the broader entertainment sale expects to draw roughly $4 million USD across its extensive catalog of industry history. Enthusiasts and prospective buyers can view the prized instrument along with the rest of the exclusive lots at a public exhibition ins"
+    },
+    {
+      "id": "bf10bd6d604d1c25",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Everything Coming To Disney+ in September 2026",
+      "url": "https://hypebeast.com/2026/8/new-disney-plus-tv-shows-films-movies-september-2026",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "Everything Coming To Disney+ in September 2026 Summary FX's 'American Horror Story' returns for its 13th installment, anchoring a horror-heavy September across Disney+ and HuluThe theatrical release 'Star Wars: The Mandalorian' and 'Grogu' premieres alongside a companion podcast and a LEGO retelling of the live-action seriesNew original seasons of 'Chad Powers,' 'The Drop: A Snowfall Saga' and 'Made in Korea' round out the month next to 'Spider-Man; library additions and the return of 'Dancing With the Stars' Disney+ and Hulu have set their September 2026 lineups, and the month's biggest genre swing is the return of FX's American Horror Story, whose 13th installment premieres with three episodes on Hulu September 24. Ryan Murphy and Brad Falchuk's long-running anthology brings back an all-star cast, many reprising fan-favorite roles, for a season built around its most feared number. It anchors a horror-and-thriller-heavy month that also brings the Berlin-set vampire drama City of Blood on September 16.The marquee arrival on the film side is Star Wars: The Mandalorian and Grogu, this summer's theatrical release, which premieres on Disney+ September 2. Directed by Jon Favreau and starring Pedro Pascal alongside Grogu, with Sigourney Weaver and voice work from Martin Scorsese and Jeremy Allen White, it lands the same day as a companion behind-the-scenes podcast and LEGO Star Wars: The Mandalorian, a comedic retelling of the live-action series.The rest of the originals calendar runs deep. Chad Powers returns for its second season onHulu September 3, followed by the Snowfall spinoff FX's The Drop: A Snowfall Saga on September 8 and the second season of Korean thriller Made in Korea on September 9, while It's Always Sunny in Philadelphia Season 18 and Futurama Season 14 run new episodes throughout the month.The library additions lean Sony and Marvel. Spider-Man: Far From Home and Spider-Man: No Way Home both hit Disney+ September 4, Kraven the Hunter arrives September 13, and Hulu picks up recent awards-season titles including Wicked on September 21 and A Complete Unknown on September 27. Live programming rounds things out, with Dancing With the Stars returning for Season 35 starting September 15, the iHeartRadio Music Festival streaming September 18 and 19, and a pair of 9/11 specials marking the attacks' 25th anniversary on September 2 and September 11.Check out the full list of programming below.Coming to Disney+ and HuluThis list may not be comprehensive and"
+    },
+    {
+      "id": "e410467da390f2ca",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nobu Hospitality and Robert De Niro Are Expanding Into Egypt With Three Luxury Destinations",
+      "url": "https://hypebeast.com/2026/8/nobu-hospitality-plans-three-site-luxury-expansion-in-egypt",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "Nobu Hospitality and Robert De Niro Are Expanding Into Egypt With Three Luxury Destinations Summary Details a three-site expansion in Egypt featuring luxury hotels, branded residences and signature dining destinations in partnership with developer SODICHighlights the strategic rollout in New Cairo, the Mediterranean North Coast and West Cairo to mark a major evolution for the brandFeatures insights from cofounders Robert De Niro and Meir Teper on the hospitality group's transition toward integrated neighborhood developments Nobu Hospitality cofounders Robert De Niro and Meir Teper alongside CEO Trevor Horwell have unveiled a massive multi-site expansion into Egypt. Developed in collaboration with leading Egyptian real estate firm SODIC, the ambitious project introduces three distinct destinations integrating hospitality, residential living and dining across the country’s most sought-after locations. The bold move capitalizes on significant regional infrastructure improvements and foreign investment from Emirati and Qatari groups to position the North African nation as a premier year-round luxury hub for international travelers.The hospitality empire traces its origins to the late 1980s when De Niro lived across the street from chef Nobu Matsuhisa’s Los Angeles restaurant. Decades after their first New York collaboration opened in 1994, the brand now commands nearly 60 global dining spaces and a rapidly growing portfolio of premium accommodations. The current evolution into fully integrated neighborhoods marks a major milestone for the group. De Niro noted that the brand earned the right to participate in large-scale residential projects after years of developers using the famous restaurant name to add instant cachet to external buildings.In New Cairo, a signature restaurant recently debuted in the Eastown District as a precursor to a dedicated hotel scheduled to open in 2027. On the Mediterranean coast, the group is anchoring the 440-acre OGAMI development in Ras El Hekma. This beachfront location already features a seasonal dining space and will soon expand to include a hotel and branded residences. Designed by Rockwell Group, the coastal property blends Japanese minimalism with Mediterranean warmth to reflect the brand's Kokoro philosophy of heartfelt service. The sprawling master plan recently earned top honors at the 2025 Architecture Leaders Awards.A third complex is planned for New Zayed in West Cairo. The upcoming development will offer luxury accom"
+    },
+    {
+      "id": "5380b3676946c538",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Carlos Alcaraz and Serena Williams Are Teaming Up for 2026 US Open Mixed Doubles",
+      "url": "https://hypebeast.com/2026/8/serena-williams-x-carlos-alcaraz-join-2026-us-open-mixed-doubles",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "Carlos Alcaraz and Serena Williams Are Teaming Up for 2026 US Open Mixed Doubles Summary Serena Williams and Carlos Alcaraz received a wild card entry for the 2026 US Open mixed doubles tournamentThe revamped 16-team bracket takes place over two days and offers a $1 million prize for the winning duoWilliams is making her first competitive appearance at Flushing Meadows since 2022 while Alcaraz returns to defend his men's singles title following a wrist injury The United States Tennis Association officially announced a powerhouse pairing for the upcoming US Open mixed doubles tournament. Serena Williams and Carlos Alcaraz received a wild card entry into the main draw. The iconic duo will step onto the court together when the competition begins on Tuesday. Alcaraz confirmed the highly anticipated partnership on social media and posted a celebratory message tagging Williams on X.Organizers revamped the mixed doubles discipline last year to attract top-tier singles talent. A condensed format now features a 16-team bracket played over just two days. Champions of the event will take home a shared $1 million USD prize. This lucrative setup successfully lured a massive lineup of global tennis superstars. Heavyweights like Aryna Sabalenka partnering with Novak Djokovic, Iga Swiatek playing alongside Casper Ruud and the American duo of Jessica Pegula and Taylor Fritz round out the historic draw.This tournament marks a significant homecoming for Williams. The 23-time Grand Slam singles champion has not competed at the US Open since 2022. She holds a deep history with the event and captured a mixed doubles championship in New York back in 1998 alongside Max Mirnyi. Fans saw her return to competitive tennis earlier this summer during appearances at Wimbledon and the Cincinnati Open. Williams will strictly focus on doubles action for this trip to Flushing Meadows. The final women's singles wild card was ultimately awarded to 2020 Australian Open champion Sofia Kenin.Alcaraz arrives in New York with massive expectations on his own shoulders. The two-time US Open men's champion looks to defend his singles title after spending months sidelined by a right wrist injury that kept him out of action since April. Uniting a rising superstar with an undisputed legend of the sport adds immediate blockbuster appeal to the tournament schedule. The pair will likely draw massive crowds to the outer courts as they navigate the opening rounds against qualifying teams. Click here to view "
+    },
+    {
+      "id": "850c40e2869fe2d6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Amazon Quietly Hikes Prices Across Its Entire Hardware Lineup With Increases Up to 60 Percent",
+      "url": "https://hypebeast.com/2026/8/amazon-echo-kindle-and-eero-prices-quietly-jump",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "Amazon Quietly Hikes Prices Across Its Entire Hardware Lineup With Increases Up to 60 Percent Summary Amazon implemented significant price increases across its Echo, Kindle, Fire TV and eero lineups, with some hardware costs rising by as much as 60 percentThe quiet adjustments stem from a global memory component shortage driven by surging demand for artificial intelligence data center infrastructureWhile most hardware categories saw jumps between $5 and $100, the brand's Ring security products currently maintain their standard pricing The era of deeply subsidized Amazon hardware might be coming to a close. Over the past week, the e-commerce giant quietly implemented substantial price increases across nearly its entire consumer electronics portfolio. Spanning the Echo, Kindle, Fire TV and eero product lines, the newly adjusted retail prices reflect markup spikes as high as 60 percent. The shift signals a major departure for a tech behemoth long known for undercutting the market with highly accessible entry-level gadgets.The base model Echo Dot absorbed the steepest percentage jump, rocketing from $50 USD to $80 USD. Visual smart displays followed suit, with the Echo Show 11 climbing $30 USD and the massive Echo Show 21 leaping from $400 USD to $500 USD. Streaming enthusiasts will feel the squeeze on the Fire TV Stick 4K Max, which moves from $60 USD to $85 USD. E-reader fans face similar hurdles. The standard 16GB Kindle now commands $150 USD instead of $110 USD, and the popular Kindle Paperwhite jumped to $200 USD from a previous $160 USD baseline. Home networking hardware took the heaviest dollar-value hit, pushing the premium eero Pro 7 three-pack to an $800 price tag.A company spokesperson speaking to Fortune confirmed the sweeping changes. According to the brand, the consumer electronics industry faces relentless pressure from soaring memory and storage component costs. Amazon noted that it absorbed these financial impacts as long as possible before adjusting its list prices. The underlying catalyst traces back to the explosive global demand for artificial intelligence data centers, which has drastically strained the semiconductor supply chain. Competitors across the landscape are making identical maneuvers. Apple, Roku and Microsoft all recently raised hardware costs to counter the exact same memory squeeze.Despite the broader hardware inflation, one product category escaped the current wave of revisions. Ring home security devices remain locked at th"
+    },
+    {
+      "id": "d4907bbae6c24cd1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Mind 001 Brings the Sensory-Node Tech to a Slip-On in \"Tarp Green\"",
+      "url": "https://hypebeast.com/2026/8/nike-mind-001-tarp-green-hq4309-301-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "The Nike Mind 001 Brings the Sensory-Node Tech to a Slip-On in \"Tarp Green\" Name: Nike Mind 001 “Tarp Green”Colorway: Tarp Green/Light Orewood Brown/Black/Metallic Dark GreySKU: HQ4309-301MSRP: $95 USDRelease Date: October 1Where to Buy: SNKRSThe Nike Mind 001 Women's Pregame Mules are back in a new \"Tarp Green\" colorway for Fall 2026. The backless slip-on keeps the line's sensory technology and its warm-up-focused purpose, this time wrapping the design in a muted, army-green palette that pushes it toward neutral, everyday territory.The centerpiece is the same mechanism that anchors the rest of the Mind range. Developed in Nike's Mind Science Department, the footbed holds 22 nodes that press against different areas of the foot as the wearer moves, a system Nike says engages the sensory areas of the brain. That underfoot setup gives the mule a feel distinct from an ordinary slide, and Nike frames it around the pregame window, positioning the shoe as part of a mental warm-up rather than performance gear.The construction supports extended standing-around comfort. A soft foam midsole handles cushioning, and a stretchy fabric layer sits over the nodes to let them travel while staying soft underfoot. The upper is a molded one-piece build with a knit, perforated tongue area for breathability, and rubber pods at the toe and heel add durable traction to the easy-on, easy-off silhouette. Nike advises anyone who usually buys a half size to size up.The \"Tarp Green\" execution keeps the color blocking simple. Army green covers most of the one-piece upper, with a slightly lighter shade across the tongue, while light tan nodes underneath supply the main contrast. The Swooshes on the top and sides arrive in glossy metallic black rather than the silver branding used on some earlier Mind 001 pairs, keeping this version focused on the existing design instead of adding louder accents. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1e1e73d57201ea28",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary",
+      "url": "https://hypebeast.com/2026/8/pokemon-crocs-classic-platform-clog-jigglypuff-213869-90h-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary Name: Pokémon x Crocs Classic Platform Clog “Jigglypuff”Colorway: MultiSKU: 213869-90HMSRP: $84.99 USDRelease Date: August 28Where to Buy: CrocsCrocs and Pokémon have turned Jigglypuff into a Classic Platform Clog for the franchise's 30th anniversary. The clog leans fully into the character, pairing a light pink build with a sculpted face on the upper and design cues drawn from Jigglypuff's best-known trait, all set on the brand's raised platform sole.The upper keeps the standard Classic Clog shape but adds a dimensional PVC fixed mold of Jigglypuff's face, making the character the literal centerpiece rather than a printed graphic. The whole clog sits in a light pink colorway that matches the Pokémon's palette.The platform is where the model earns its name. The sole is raised to a 1.6-inch, or 41mm, wedge height measured from floor to heel rest, and embossed music notes run along its sides, a direct reference to Jigglypuff's habit of singing. Branding is handled at the back, where enamel Poké Ball rivets and a fixed enamel Pokémon tag decorate the backstrap in a nod to the anniversary.Function stays true to the Crocs template. The clog retains the label's lightweight, flexible construction and can be personalized with Jibbitz charms across both the upper and the backstrap, leaving room for wearers to build on the character theme. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c510eaeb911f083a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HBO Max Drops ‘The Pitt’ Season 3 Teaser, Sending Dr. Robby Back Into the ER",
+      "url": "https://hypebeast.com/2026/8/hbo-max-the-pitt-season-3-teaser-stream",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "HBO Max Drops ‘The Pitt’ Season 3 Teaser, Sending Dr. Robby Back Into the ER HBO Max has released the first trailer and first-look images for Season 3 of The Pitt, the Emmy-winning Max Original drama starring Noah Wyle, ahead of a January 2027 premiere. Created by R. Scott Gemmill and produced by John Wells Productions in association with Warner Bros. Television, the new season sets its return around Dr. Michael \"Robby\" Robinavitch's first shift back after a three-month sabbatical that closed Season 2.The trailer frames the season through Robby's re-entry to the job. In a voiceover, Wyle's character braces for the return: \"I knew my first day back was gonna be… hard dealing with what we go through here. And I knew that it could get a little bit crazy,\" he says. \"But it's time to get back to it.\" The footage then delivers on that warning, cutting through the frontline chaos the show is built on, with staff treating screaming and severely injured patients, performing chest compressions, and Robby consoling a grieving family member after tragic news, alongside more disorder in the department's hallways and bays.The teaser arrives with a returning ensemble intact. Wyle is joined by Patrick Ball as Dr. Langdon, Katherine LaNasa as Dana Evans, Fiona Dourif as Dr. McKay, Taylor Dearden as Dr. King, Isa Briones as Dr. Santos, Gerran Howell as Dr. Whitaker, Shabana Azeez as Javadi, Ayesha Harris as Dr. Ellis, Sepideh Moafi as Dr. Al-Hashimi, and Shawn Hatosy as Dr. Abbot. The series keeps to its stated premise, a realistic look at the pressures on healthcare workers in present-day America through the staff of a modern Pittsburgh hospital.The new season follows a strong awards run. Season 2, which premiered this past January, drew a haul of Emmy nominations across the drama categories, including outstanding drama series, lead actor for Wyle, and multiple supporting nods for the cast.Watch the teaser above. Season 3 of The Pitt premieres on HBO Max in January 2027. Read more at Hypebeast"
+    },
+    {
+      "id": "e35d8b9028b7e2ca",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Timberland Transforms Its Iconic 6-Inch Boot Into the Heritage Clog",
+      "url": "https://hypebeast.com/2026/8/timberland-heritage-clog-shaggy-suede-brown-tan-cement-grey-black-colorway-release-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "Timberland Transforms Its Iconic 6-Inch Boot Into the Heritage Clog Summary Timberland has introduced the Heritage Clog by converting its iconic 6-Inch Boot into a backless slip-onThe silhouette features an EVA foam midsole an anti-fatigue footbed and eco-friendly ReBotl fabric liningThe clog is currently popping up across European retailers with a US release date still unconfirmed Timberland has officially chopped the top off its classic footwear silhouette to launch the Timberland Heritage Clog. The new backless model adapts the brand's heavy-duty design heritage into a low-cut slip-on format.The design retains the lugged sole aesthetic of the original 6-Inch Boot while shifting the debossed brand logo to the midfoot. Offered in four distinct colorways, the lineup includes the essential \"Wheat\" treatment, a darker tan in shaggy suede, cement grey and an all-black edition.Engineered for daily comfort, the Heritage Clog updates the traditional construction with an EVA foam midsole, an integrated heel shank, and an anti-fatigue footbed. Additionally, the interior features a ReBotl fabric lining crafted from 50 percent recycled plastic.Take a first look above at the four colorways of the new Timberland Heritage Clog. The clogs are currently available in select regions online at in retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0a752540b176320a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Winterizes the Dunk Low With GORE-TEX and a Ring of Added Traction in \"Oil Gray\"",
+      "url": "https://hypebeast.com/2026/8/nike-dunk-low-gore-tex-oil-gray-hq2053-003-official-images",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.063Z",
+      "text": "Nike Winterizes the Dunk Low With GORE-TEX and a Ring of Added Traction in \"Oil Gray\" Name: Nike Dunk Low GORE-TEX “Oil Gray”Colorway: TBCSKU: HQ2053-003MSRP: $150 USDRelease Date: TBCNike is carrying the Dunk Low into the colder months with a GORE-TEX build in a new \"Oil Gray\" colorway. The application wraps the everyday silhouette in the waterproof membrane and pairs it with a sturdier, winter-minded construction, positioning the Dunk as a shoe that can hold up once the weather turns.GORE-TEX has become a common tool for weatherproofing core sneakers ahead of each seasonal shift, and Nike has leaned on it across its staples for some time, treating the Air Force 1 to the fabric for years. The Dunk itself is no stranger to the material either, having previously appeared in GORE-TEX form through both standard two-tone makeups and a stealthier all-black version.This release sits between those two reference points. The overlays and sole unit carry heavy dark shading in line with the blacked-out pair, while the upper breaks toward lighter aquatic tones and a contrast white Swoosh that keep it from reading as fully monochrome. The result is a gray execution that borrows from each of the earlier versions without duplicating either.The construction is where the seasonal intent shows most clearly. The build is chunkier and more hardened than a standard Dunk Low, and an additional ring of traction encircles the platform, adding grip meant to handle slick winter surfaces. Together with the membrane, those changes reframe the model as functional cold-weather footwear rather than a purely aesthetic update. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "afd95c401a9a3be3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HBO Max's ‘The People v. Gorilla Grodd’ Reopens a DCU Murder Trial as a Mockumentary",
+      "url": "https://hypebeast.com/2026/8/dc-hbo-max-people-v-gorilla-grodd-mockumentary-series-skyler-gisondo-jimmy-tatro-announcement-info",
+      "publishedAt": "2026-08-24T11:42:03.000Z",
+      "collectedAt": "2026-08-24T12:59:03.064Z",
+      "text": "HBO Max's ‘The People v. Gorilla Grodd’ Reopens a DCU Murder Trial as a Mockumentary Summary The project reframes a DC villain's origin as a true-crime docuseries investigating whether he was wrongly convictedThe creative team behind Netflix's genre-spoofing American Vandal is steering the series as showrunnersSeveral cast members carry over from the 2025 Superman film, extending that movie's Daily Planet ensemble HBO Max has officially greenlit The People v. Gorilla Grodd, an eight-episode DC Studios mockumentary that stages one of Metropolis' most notorious murder cases as a true-crime docuseries. The premise casts the Daily Planet's Jimmy Olsen, played by Skyler Gisondo, as the reporter reopening the conviction of Gorilla Grodd, with Jimmy Tatro taking the title role. First reported in late 2025, the series now has a confirmed title, cast and episode order.The logline sets up the conceit plainly: a superintelligent ape stands convicted of killing his father, the King of Gorilla City, and Olsen's eight-part investigation probes whether the verdict was wrong. Rather than presenting a conventional comic-book adaptation, the show is framed as an in-world artifact, a documentary the Daily Planet might actually have produced for the citizens of Metropolis.That framing comes from a creative team with a specific track record in the format. Tony Yacenda and Dan Perrault, who created the Peabody-winning Netflix series American Vandal and the eSports-set Players, write, executive produce and run the show, with Perrault also appearing in the cast and Yacenda directing all eight episodes. Tatro and fellow cast member Eduardo Franco both appeared in the first season of American Vandal, giving the true-crime satire a direct through-line to the pair's earlier work. \"We're excited by the challenge of creating a series that feels less like an entry into the DCU and more like an artifact from it,\" Yacenda and Perrault said in a statement. \"A Daily Planet original documentary made for the people of Metropolis. We hope it'll appeal to fans of the comics, comedy and true crime. And while we can't speak for audiences here yet, we already know it's a huge hit in Metropolis. They love this series.\"The ensemble does much of the connective work back to Superman. Alongside Gisondo, that film's actors Beck Bennett, Mikaela Hoover and Wendell Pierce reprise Steve Lombard, Cat Grant and Perry White, while Mary Holland, Arian Moayed, Andrew Leeds, Tim Baltz and Franco fill out the res"
     }
   ]
 }

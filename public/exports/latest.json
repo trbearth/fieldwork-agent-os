@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-23",
+    "id": "2026-08-24",
     "mode": "live",
-    "displayDate": "AUG 23, 2026, 08:49 AM EDT",
-    "generatedAt": "2026-08-23T12:49:28.793Z",
-    "itemsCollected": 23,
+    "displayDate": "AUG 24, 2026, 08:59 AM EDT",
+    "generatedAt": "2026-08-24T12:59:04.330Z",
+    "itemsCollected": 36,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 7
       },
       {
         "source": "Hypebeast",
@@ -24,8 +24,34 @@
       }
     ]
   },
-  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 67,
+      "confidence": 56,
+      "youthRelevance": 74,
+      "direction": "up",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "5 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "5 observations · 2 independent sources · +67% seven-day velocity",
+      "citations": [
+        {
+          "title": "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary",
+          "source": "Hypebeast",
+          "date": "Aug 24",
+          "url": "https://hypebeast.com/2026/8/pokemon-crocs-classic-platform-clog-jigglypuff-213869-90h-release-info"
+        },
+        {
+          "title": "The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studios",
+          "source": "Vogue",
+          "date": "Aug 24",
+          "url": "https://www.vogue.com/article/best-airbnbs-in-milan"
+        }
+      ]
+    },
     {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
@@ -45,42 +71,23 @@
           "url": "https://www.highsnobiety.com/p/puma-t7-track-jacket/"
         }
       ]
-    },
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 22,
-      "youthRelevance": 46,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
-      "citations": [
-        {
-          "title": "nonnative and Converse Re-Release the All Star GORE-TEX Centerzip Ox",
-          "source": "Hypebeast",
-          "date": "Aug 19",
-          "url": "https://hypebeast.com/2026/8/converse-nonnative-all-star-gore-tex-centerzip-ox-re-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "1 mention this week versus 3 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
-    "title": "Archival sportswear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0823",
-    "name": "Archival sportswear",
-    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
+    "code": "AUTO 0824",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Who Knew a Track Jacket Could Be So Sexy?"
+      "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary",
+      "The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studios"
     ]
   }
 }
