@@ -973,6 +973,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-25",
+      "mode": "live",
+      "displayDate": "AUG 25, 2026, 08:55 AM EDT",
+      "generatedAt": "2026-08-25T12:55:16.706Z",
+      "itemsCollected": 61,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 13
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 100,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -15451,6 +15493,677 @@
       "publishedAt": "2026-08-24T11:42:03.000Z",
       "collectedAt": "2026-08-24T12:59:03.064Z",
       "text": "HBO Max's ‘The People v. Gorilla Grodd’ Reopens a DCU Murder Trial as a Mockumentary Summary The project reframes a DC villain's origin as a true-crime docuseries investigating whether he was wrongly convictedThe creative team behind Netflix's genre-spoofing American Vandal is steering the series as showrunnersSeveral cast members carry over from the 2025 Superman film, extending that movie's Daily Planet ensemble HBO Max has officially greenlit The People v. Gorilla Grodd, an eight-episode DC Studios mockumentary that stages one of Metropolis' most notorious murder cases as a true-crime docuseries. The premise casts the Daily Planet's Jimmy Olsen, played by Skyler Gisondo, as the reporter reopening the conviction of Gorilla Grodd, with Jimmy Tatro taking the title role. First reported in late 2025, the series now has a confirmed title, cast and episode order.The logline sets up the conceit plainly: a superintelligent ape stands convicted of killing his father, the King of Gorilla City, and Olsen's eight-part investigation probes whether the verdict was wrong. Rather than presenting a conventional comic-book adaptation, the show is framed as an in-world artifact, a documentary the Daily Planet might actually have produced for the citizens of Metropolis.That framing comes from a creative team with a specific track record in the format. Tony Yacenda and Dan Perrault, who created the Peabody-winning Netflix series American Vandal and the eSports-set Players, write, executive produce and run the show, with Perrault also appearing in the cast and Yacenda directing all eight episodes. Tatro and fellow cast member Eduardo Franco both appeared in the first season of American Vandal, giving the true-crime satire a direct through-line to the pair's earlier work. \"We're excited by the challenge of creating a series that feels less like an entry into the DCU and more like an artifact from it,\" Yacenda and Perrault said in a statement. \"A Daily Planet original documentary made for the people of Metropolis. We hope it'll appeal to fans of the comics, comedy and true crime. And while we can't speak for audiences here yet, we already know it's a huge hit in Metropolis. They love this series.\"The ensemble does much of the connective work back to Superman. Alongside Gisondo, that film's actors Beck Bennett, Mikaela Hoover and Wendell Pierce reprise Steve Lombard, Cat Grant and Perry White, while Mary Holland, Arian Moayed, Andrew Leeds, Tim Baltz and Franco fill out the res"
+    },
+    {
+      "id": "bf378858ac4cf14d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Julia Louis-Dreyfus’s Grand Broadway Debut",
+      "url": "https://www.vogue.com/article/inside-julia-louis-dreyfus-grand-broadway-debut",
+      "publishedAt": "2026-08-25T12:45:04.000Z",
+      "collectedAt": "2026-08-25T12:55:12.704Z",
+      "text": "Inside Julia Louis-Dreyfus’s Grand Broadway Debut She’ll lead a revival of the 2011 family drama, “Other Desert Cities,” opening in October."
+    },
+    {
+      "id": "6a8cc25c19645465",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Cream or Powder Blush? Formula Matters for Skin Over 50",
+      "url": "https://www.vogue.com/article/cream-powder-blush-over-50",
+      "publishedAt": "2026-08-25T12:30:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Cream or Powder Blush? Formula Matters for Skin Over 50 The best blush for women over 50 comes down to texture. How to choose the right formula, shade, and application technique for mature skin, according to a pro."
+    },
+    {
+      "id": "b20cc6337450dff2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Podcast: Three Vogue Editors’ Most Anticipated Festival Films",
+      "url": "https://www.vogue.com/article/on-the-podcast-vogue-editors-most-anticipated-fall-films-or-plus-harry-and-meghan-head-back-to-the-uk",
+      "publishedAt": "2026-08-25T10:30:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "On the Podcast: Three Vogue Editors’ Most Anticipated Festival Films Deputy editor Taylor Antrim served as a guest host on today’s episode of “The Run-Through,” joined by fellow Vogue editors and cinephiles Liam Hess and Lisa Wong Macabasco to break down their most anticipated premieres in Venice, Toronto, and at the New York Film Festival."
+    },
+    {
+      "id": "77b874bf07cecb1c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Let’s Face It: Influencers Aren’t Really the Problem",
+      "url": "https://www.vogue.com/article/lets-face-it-influencers-arent-really-the-problem",
+      "publishedAt": "2026-08-25T10:00:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Let’s Face It: Influencers Aren’t Really the Problem Influencer culture has its problems, content creator Laura Jung writes. But its harshest critics should scrutinize the systems that power it, too."
+    },
+    {
+      "id": "c81c7b43ec3dbedb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Archives: MacKenzie Bezos: Writer, Mother of Four, and High-Profile Wife",
+      "url": "https://www.vogue.com/article/a-novel-perspective-mackenzie-bezos",
+      "publishedAt": "2026-08-25T10:00:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "From the Archives: MacKenzie Bezos: Writer, Mother of Four, and High-Profile Wife As the noted philanthropist releases her latest work of fiction, “Last Days in Two Nations,” via Substack, revisit Vogue’s profile of Scott from 2013."
+    },
+    {
+      "id": "f75efb44f70d6770",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Luxury’s Latest Cyber Risk? AI Agents Going Rogue",
+      "url": "https://www.vogue.com/article/luxurys-latest-cyber-risk-ai-agents-going-rogue",
+      "publishedAt": "2026-08-25T09:30:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Luxury’s Latest Cyber Risk? AI Agents Going Rogue As AI bots become more sophisticated, the threat of security breaches is on the rise. Here’s how brands can protect themselves."
+    },
+    {
+      "id": "d5f47c64831837dd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Tennis’s Booming Influencer Economy",
+      "url": "https://www.vogue.com/article/inside-tenniss-booming-influencer-economy",
+      "publishedAt": "2026-08-25T04:30:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Inside Tennis’s Booming Influencer Economy As Grand Slams become increasingly valuable stages for the creator economy, brands and tournaments are racing to capitalize on the attention without diluting what made the events desirable in the first place."
+    },
+    {
+      "id": "84b01a7165aab17e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Back to School: How are Parents Shopping for Gen Alpha?",
+      "url": "https://www.vogue.com/article/back-to-school-how-are-parents-shopping-for-gen-alpha",
+      "publishedAt": "2026-08-25T04:30:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Back to School: How are Parents Shopping for Gen Alpha? Despite tight budgets, parent spending for kids remains stable. The key for brands will be adapting to a new, increasingly fashion-literate generation of youngsters who know what they want."
+    },
+    {
+      "id": "5007e3224ad64bf9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Should Brands Be Patrons of Art and Culture?",
+      "url": "https://www.vogue.com/article/should-brands-be-patrons-of-art-and-culture",
+      "publishedAt": "2026-08-25T04:30:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Should Brands Be Patrons of Art and Culture? Brands are beginning to rethink their role in culture, moving from trying to create or control it to funding the people and the ecosystems already producing it."
+    },
+    {
+      "id": "4dc8e357c647266f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Here’s Everything Coming to Netflix in September 2026",
+      "url": "https://www.vogue.com/article/everything-coming-to-netflix-september-2026",
+      "publishedAt": "2026-08-24T23:07:16.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Here’s Everything Coming to Netflix in September 2026 From the return of 'Stranger Things: Tales From ‘85' to Ryan Murphy’s 'Monster: The Lizzie Borden Story' to the brand-new animated comedy 'Dang!'"
+    },
+    {
+      "id": "4e2e1ed1b264e034",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Male Model Jesse Rinderknecht Went Straight From the Farm to Being the Face of Celine",
+      "url": "https://www.vogue.com/article/model-jesse-rinderknecht-interview-photos",
+      "publishedAt": "2026-08-24T20:14:26.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Male Model Jesse Rinderknecht Went Straight From the Farm to Being the Face of Celine Swiss model Jesse Rinderknecht tells us about how he was discovered, what he likes to do, and his favorite pieces of clothing"
+    },
+    {
+      "id": "4166a6a431b14e97",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "7 Stylish Ways to Wear a Barn Jacket This Fall",
+      "url": "https://www.vogue.com/article/barn-jacket-outfits",
+      "publishedAt": "2026-08-24T20:13:55.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "7 Stylish Ways to Wear a Barn Jacket This Fall A Fashion Week mainstay—from New York to Copenhagen—the barn jacket is a beloved transitional staple. Here are 7 ways to wear it, plus the best styles to shop."
+    },
+    {
+      "id": "37a6a023c0fb50a3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rating 24 Movie Makeovers, From the Lazy to the Jaw-Dropping",
+      "url": "https://www.vogue.com/slideshow/ranking-movie-makeovers-best-and-worst",
+      "publishedAt": "2026-08-24T20:12:53.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Rating 24 Movie Makeovers, From the Lazy to the Jaw-Dropping Remember when they just took Rachel Leigh Cook’s glasses off in She’s All That?"
+    },
+    {
+      "id": "7e9098286dd59f0a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Is Sleeping Under Canvas the Secret to Better Rest?",
+      "url": "https://www.vogue.com/article/is-sleeping-under-canvas-the-secret-to-better-sleep",
+      "publishedAt": "2026-08-24T19:46:21.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Is Sleeping Under Canvas the Secret to Better Rest? Here’s why traveling to sleep in a tent could improve your sleep patterns long after you check out—plus, five of the best places in the world to do it."
+    },
+    {
+      "id": "77302f852847e6aa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Chang-rae Lee's Guide to Umbria",
+      "url": "https://www.vogue.com/article/chang-rae-lee-knows-where-the-best-pizza-in-umbria-can-be-found",
+      "publishedAt": "2026-08-24T19:45:44.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Chang-rae Lee's Guide to Umbria In late 2019, the author—whose new novel is out this month—and his wife purchased a modest former farm property in northern Umbria. Here, he reveals highlights of the region."
+    },
+    {
+      "id": "a5681aa9ce54dac0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "40+ Affordable Jewelry Brands to Know and Shop in 2026",
+      "url": "https://www.vogue.com/article/best-affordable-jewelry",
+      "publishedAt": "2026-08-24T19:31:46.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "40+ Affordable Jewelry Brands to Know and Shop in 2026 High-quality jewelry doesn’t have to come at a high cost—Vogue curates the best affordable jewelry brands on the scene right now."
+    },
+    {
+      "id": "233b2404beb94b06",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Be a Bridesmaid: All the Duties and Expectations to Know",
+      "url": "https://www.vogue.com/article/how-to-be-a-bridesmaid",
+      "publishedAt": "2026-08-24T19:26:25.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "How to Be a Bridesmaid: All the Duties and Expectations to Know Want to be a great bridal party member? A seven-time bridesmaid shares all her insights on how to excel in the role."
+    },
+    {
+      "id": "b650211a783dcc8f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "9 Fall Fashion Must-Haves Vogue Editors Are Shopping",
+      "url": "https://www.vogue.com/article/editor-picks-fall-fashion-trends-2026",
+      "publishedAt": "2026-08-24T19:08:55.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "9 Fall Fashion Must-Haves Vogue Editors Are Shopping From pops of blue to all things jacquard, these are the fall fashion finds Vogue editors are most excited to wear this season."
+    },
+    {
+      "id": "474b396a09d724c9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue’s Guide to Monte Carlo, From the Casino to the Côte d’Azur",
+      "url": "https://www.vogue.com/article/monte-carlo-monaco-guide",
+      "publishedAt": "2026-08-24T18:52:29.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Vogue’s Guide to Monte Carlo, From the Casino to the Côte d’Azur For more than a century, Monte Carlo has drawn artists, aristocrats, gamblers, and the international beau monde. Here’s how to experience it now."
+    },
+    {
+      "id": "b837a9183bde838d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Foods for Hydration: 10 Water-Rich Foods to Quench Your Thirst",
+      "url": "https://www.vogue.com/article/foods-for-hydration",
+      "publishedAt": "2026-08-24T18:30:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Foods for Hydration: 10 Water-Rich Foods to Quench Your Thirst Fall temperatures are at a record high, which means fighting dehydration is more important than ever. These 10 foods can help."
+    },
+    {
+      "id": "41849ca67948ed42",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tomato Red Nails Are Having a Moment—Kylie Jenner and Selena Gomez Agree",
+      "url": "https://www.vogue.com/article/tomato-red-nails",
+      "publishedAt": "2026-08-24T18:26:01.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Tomato Red Nails Are Having a Moment—Kylie Jenner and Selena Gomez Agree From Kylie Jenner to Selena Gomez, the summer’s hottest mani shade that everyone is wearing is the tomato nail. Here, experts break down the popular color and give their picks of the best polishes to get that tomato red look."
+    },
+    {
+      "id": "3cc0eca32fef524e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Have a Collagen-Rich Diet As a Vegetarian",
+      "url": "https://www.vogue.com/article/vegetarian-collagen-sources",
+      "publishedAt": "2026-08-24T18:03:24.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "How to Have a Collagen-Rich Diet As a Vegetarian Collagen, a vital protein that provides structure to our bodies, is derived from animals. So what can vegetarians do? Here, experts break down all the ways to support collagen if you're plant-based."
+    },
+    {
+      "id": "b4bb862a49290dbe",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "7 Best Foundation for Mature Skin That Won’t Settle Into Wrinkles",
+      "url": "https://www.vogue.com/article/best-foundations-for-mature-skin",
+      "publishedAt": "2026-08-24T17:22:10.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "7 Best Foundation for Mature Skin That Won’t Settle Into Wrinkles Achieve an ageless finish with the best foundations for mature skin, approved by makeup artists and Vogue editors. Shop brands like Jones Road and Chanel for a flawless look."
+    },
+    {
+      "id": "d3c813f5fbb19a35",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rihanna Introduces a New Fashion Statement—the Skean (Skirt-Jean)",
+      "url": "https://www.vogue.com/article/rihanna-skirt-jean-hybrid-pice",
+      "publishedAt": "2026-08-24T14:58:47.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Rihanna Introduces a New Fashion Statement—the Skean (Skirt-Jean) Leave it to Rihanna to pull of such a Frankensteinian piece."
+    },
+    {
+      "id": "d32d324ab080c98c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside a Special Dinner at The John Chamberlain Estate on Shelter Island",
+      "url": "https://www.vogue.com/slideshow/john-chamberlain-estate-sothebys-nordic-knots-dinner",
+      "publishedAt": "2026-08-24T14:07:34.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "Inside a Special Dinner at The John Chamberlain Estate on Shelter Island Among monumental sculptures, family-style food, and plenty of local lore, guests gathered to celebrate the life and legacy of the artist."
+    },
+    {
+      "id": "d59bc7b789e98a74",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "My Dream for Iran: Laughter, Love, and Freedom",
+      "url": "https://www.vogue.com/article/cyrus-veyssi-personal-essay-iran",
+      "publishedAt": "2026-08-24T13:18:09.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "My Dream for Iran: Laughter, Love, and Freedom Cyrus Veyssi reflects on how their viral video series, “Bonding With My Baba,” became a love letter to Iranian culture."
+    },
+    {
+      "id": "a37111c27bde62a9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Olaplex Shape Set Hairspray Wants You to Rethink Hold",
+      "url": "https://www.vogue.com/article/olaplex-shape-set-hairsp",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "collectedAt": "2026-08-25T12:55:12.705Z",
+      "text": "The Olaplex Shape Set Hairspray Wants You to Rethink Hold The Olaplex Shape Set Hairspray is here—infusing its bond-repair technology into a hairspray that holds style sans crunch. Here’s everything you need to know."
+    },
+    {
+      "id": "1cba5a8c6728a079",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Michael Kors and Friends Toasted to the 45th Anniversary Collection Over Dinner in East Hampton",
+      "url": "https://www.vogue.com/slideshow/michael-kors-the-hedges-hamptons-celebration",
+      "publishedAt": "2026-08-24T12:59:25.000Z",
+      "collectedAt": "2026-08-25T12:55:12.706Z",
+      "text": "Michael Kors and Friends Toasted to the 45th Anniversary Collection Over Dinner in East Hampton The Hamptons season may be winding down after a busy summer, but on Thursday evening, The Hedges Inn was still in full swing. Clad in Michael Kors Collection, a well-dressed crowd strolled down the hydrangea-lined brick path into the historic East Hampton hotel to lionize 45 years of the label and its namesake founder."
+    },
+    {
+      "id": "f0025948c65ae844",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "There Is No Watch Better Than a Beautiful Beater (EXCLUSIVE)",
+      "url": "https://www.highsnobiety.com/p/noah-timex-mk1/",
+      "publishedAt": "2026-08-25T12:00:02.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "There Is No Watch Better Than a Beautiful Beater (EXCLUSIVE) Noah's idea of the perfect watch? One you never have to take off. The Noah Timex MK1 36mm is meant to be worn, always & forever."
+    },
+    {
+      "id": "952380b11ca8b7b6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance's Weirdest Silhouette Looks Surprisingly Pretty In Pink",
+      "url": "https://www.highsnobiety.com/p/new-balance-1890a-pink/",
+      "publishedAt": "2026-08-25T11:36:01.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "New Balance's Weirdest Silhouette Looks Surprisingly Pretty In Pink The New Balance 1890A Pink takes the brand's progressive moccasin-runner blueprint and coats it in a striking, soft-tinted palette."
+    },
+    {
+      "id": "71d350d3d720c202",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "From Saucony to adidas, the Seven Best Sneakers to Cop This Week",
+      "url": "https://www.highsnobiety.com/p/sneaker-releases-2026-august-week-4/",
+      "publishedAt": "2026-08-25T10:00:19.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "From Saucony to adidas, the Seven Best Sneakers to Cop This Week Whether you're shopping for a new dad shoe or a tried-and-true icon, this week's range of releases has all types of sneakerheads covered."
+    },
+    {
+      "id": "2ab369baf30881d5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "In Pearls & Lace, adidas’ Grown-Up Samba Is Looking Very Demure",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-og-pearl-and-lace/",
+      "publishedAt": "2026-08-25T09:23:14.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "In Pearls & Lace, adidas’ Grown-Up Samba Is Looking Very Demure adidas’ Samba gets a grown-up makeover with delicate lace, pearl detailing, and a removable bow."
+    },
+    {
+      "id": "1dbcb31697fe5b2d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Coolest Mary Jane Sneaker Knows Grey Is Good",
+      "url": "https://www.highsnobiety.com/p/new-balance-breeze-mary-jane-charcoal/",
+      "publishedAt": "2026-08-25T09:20:02.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "New Balance’s Coolest Mary Jane Sneaker Knows Grey Is Good New Balance's Breeze \"Charcoal\" sneaker is a dark grey suede take on the Mary Jane model. Here's everything on the fall-ready release."
+    },
+    {
+      "id": "f35e70d3668e970b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Halloween Air Jordans Are the Calmest Spooky Flex",
+      "url": "https://www.highsnobiety.com/p/jordan-5-halloween-2026/",
+      "publishedAt": "2026-08-25T08:44:33.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "Nike’s Halloween Air Jordans Are the Calmest Spooky Flex Official images of the Air Jordan 5 \"Halloween\" sneakers reveal a dark spin with glow-in-the-dark details."
+    },
+    {
+      "id": "cd3c306801071837",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Slickest Runners Are All Chopped Now",
+      "url": "https://www.highsnobiety.com/p/running-shoe-mules/",
+      "publishedAt": "2026-08-24T20:33:00.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "The Slickest Runners Are All Chopped Now The new collaborative running shoe from Swiss athleticwear brand On and FKA twigs chopped the signature Cloudmonster 3 for an unforgettable sneaker-mule."
+    },
+    {
+      "id": "7876daca07baa1f8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "It Took Time Travel to Make a Nike Air Force 1 This Good",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-low-01-college-navy/",
+      "publishedAt": "2026-08-25T08:42:42.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "It Took Time Travel to Make a Nike Air Force 1 This Good Nike's Air Force 1 '01 sneakers are officially back in the game & looking good as ever in clean colorways like \"College Navy.\""
+    },
+    {
+      "id": "a3980b681ca66263",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Freakiest Air Max Gets Its Cleanest Colorway Yet",
+      "url": "https://www.highsnobiety.com/p/nike-air-liquid-max-grey-fog/",
+      "publishedAt": "2026-08-25T08:40:55.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "Nike's Freakiest Air Max Gets Its Cleanest Colorway Yet Nike's Air Liquid Max collection expands as the strangely comfy sneaker lands in a new \"Grey Fog\" colorway."
+    },
+    {
+      "id": "9d697e49d55a72de",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "r/Supreme Is Going To Melt Down",
+      "url": "https://www.highsnobiety.com/p/erin-magee-supreme-skims/",
+      "publishedAt": "2026-08-25T08:38:22.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "r/Supreme Is Going To Melt Down Erin Magee, Supreme's longtime chief creative officer, departed the streetwear giant for Kim Kardashian's SKIMS. The discourse speaks for itself."
+    },
+    {
+      "id": "c322379dc98a82ea",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "For the Gentleman, Perhaps a Suave PUMA “Bowling” Sneaker?",
+      "url": "https://www.highsnobiety.com/p/le-pere-puma-suede-sneakers/",
+      "publishedAt": "2026-08-25T09:15:01.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "For the Gentleman, Perhaps a Suave PUMA “Bowling” Sneaker? le PÈRE debuts its FW26 PUMA Suede sneaker, essentially a bowling-style take complete with luxe touches."
+    },
+    {
+      "id": "98a8c6bcff0aaf71",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "SOREL’s New Ambler is the Cool Younger Sibling of the Iconic Caribou Boot",
+      "url": "https://www.highsnobiety.com/p/sorels-caribou-boot-walked-so-the-ambler-clog-could-run/",
+      "publishedAt": "2026-08-24T17:38:51.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "SOREL’s New Ambler is the Cool Younger Sibling of the Iconic Caribou Boot Repackaging all of the DNA of the original fan-favorite Caribou, the adventure apparel brand has launched an innovative silhouette for the next generation: the Ambler."
+    },
+    {
+      "id": "538c6ea5dc5f51e3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Sole Food: ASICS Sneakers Go Hard. ASICS Clothes Go Harder",
+      "url": "https://www.highsnobiety.com/p/asics-collabs-clothes/",
+      "publishedAt": "2026-08-25T08:49:39.000Z",
+      "collectedAt": "2026-08-25T12:55:14.102Z",
+      "text": "Sole Food: ASICS Sneakers Go Hard. ASICS Clothes Go Harder ASICS' sneakers have been hot for a while but ASICS' clothes are suddenly as good as any shoe if not even better, thanks to some fashionable collabs."
+    },
+    {
+      "id": "7ba2d526443d4730",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Marshall Celebrates Jimi Hendrix's Legacy With a Final 60th Anniversary Drop",
+      "url": "https://hypebeast.com/2026/8/marshall-jimi-hendrix-tribute-anniversary-editions-major-v-emberton-iii-studio-vintage-amplifier-release-info",
+      "publishedAt": "2026-08-25T12:22:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "Marshall Celebrates Jimi Hendrix's Legacy With a Final 60th Anniversary Drop Summary Marshall x Hendrix 60th Anniversary celebrates six decades of partnership with limited-edition designs.The collection spans the Acton III speaker and 1959 JMH Half Stack amp, reimagined with psychedelic purple graphics and all‑seeing eye motifs.Consumer audio editions available now; full release on September 9, 2026. Celebrating the 60-year milestone of a legendary musical partnership, Marshall has officially introduced the Jimi Hendrix 60th Anniversary Collection. Marking six decades since the iconic guitarist first plugged into a Marshall amplifier in 1966, this limited-edition range pays homage to Hendrix’s enduring impact on rock history and his unique aesthetic vision.The collection spans two distinct product categories to appeal to both everyday audiophiles and dedicated guitar purists: a redesigned Acton III Bluetooth speaker and a highly coveted 1959 JMH Half Stack bundle -- each reimagined with psychedelic purple oil‑on‑water graphics, silver detailing and Hendrix’s iconic all‑seeing eye motif. These designs draw inspiration from Hendrix’s fascination with space, color and expanded vision, while maintaining Marshall’s signature craftsmanship and sound quality.Both the Major V and Emberton III editions are available to purchase starting today via Marshall's official webstore, with the Major V priced at just under £130 GBP (approx. $177 USD) and the Emberton III retailing for nearly £150 GBP (approx. $205 USD). For guitar purists and serious collectors, the premium JMH Studio edition amplifier serves as the centerpiece of this final chapter, priced at £1,749.99 GBP (approx. $2,387 USD). While the consumer audio pieces are available online now, the entire final collection - including the exclusive JMH Studio amp - will officially arrive at select global retailers and fully release online on September 9, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1f6612f29d91368e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Converse and MHL. Release Collaborative All Star LGCY Ox",
+      "url": "https://hypebeast.com/2026/8/converse-mhl-margaret-howell-all-star-lgcy-ox-light-green-black-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "Converse and MHL. Release Collaborative All Star LGCY Ox Name: Converse x MHL. All Star LGCY OXColorway: Light Green, BlackSKU: TBCMSRP: ¥21,450 JPY (approx. $135 USD)Release Date: Available NowWhere to Buy: Margaret HowellConverse Japan has joined forces with MHL., the diffusion line of acclaimed British designer Margaret Howell, for a collaborative release starring the All Star LGCY OX sneaker.Available in light olive green and black, the collaboration takes the classic low-top canvas silhouette and elevates it for the modern wardrobe. The shoe is paired with the classic white rubber toe and sole, complete with a single stripe topped with the iconic Chuck Taylor tag at the back of the heel. Inside, the insoles are marked with both Converse and MHL. branding as evidence of its collaborative status. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "746e1b3c86fc34df",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Madhappy and PUMA Reconnect for a Third Collaborative Release",
+      "url": "https://hypebeast.com/2026/8/madhappy-puma-third-collaboration-h-street-speedcat-plus-apparel-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "Madhappy and PUMA Reconnect for a Third Collaborative Release Summary PUMA and Madhappy drop their third capsule, focusing on \"inactive activewear\" and post-workout wellness.Sneaker highlights include the PUMA H-Street, special-edition Suede and a Madhappy-exclusive Speedcat Plus.Releasing on August 28 via Madhappy, followed by a global PUMA launch on September 5. PUMA and Madhappy have reunited for their third collaborative collection, channeling an optimistic, West Coast-inspired aesthetic centered around the concept of \"inactive activewear.\" Drawing visual cues from California's coastal landscapes, sandy beaches and Malibu sunsets, the lineup emphasizes recovery, wellness and post-workout comfort.The collaboration spotlights two sneaker silhouettes at its core, including the H-Street, a special-edition Suede, and a Madhappy-exclusive Speedcat Plus. Each pair is rendered in an earthy, muted color palette and updated with Madhappy's signature hand-crafted stitch detailing alongside understated co-branding hits.The apparel range extends the laid-back aesthetic with a cropped knitted T7 jacket and flared pants, reworking PUMA’s classic tracksuit through Madhappy’s relaxed lens. The exclusive Speedcat Plus will be available from August 28, 2026 via Madhappy, while the full collection launches on September 5, 2026 through PUMA. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "08dadf881b4d5d27",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kentucky Wildcats Reveal Nike Kobe 8 EM Protro and Kobe 6 Cleat PEs for Mamba Day",
+      "url": "https://hypebeast.com/2026/8/kentucky-wildcats-nike-kobe-em-protro-kobe-6-pe-revealed",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "Kentucky Wildcats Reveal Nike Kobe 8 EM Protro and Kobe 6 Cleat PEs for Mamba Day Summary Kentucky has officially revealed two exclusive Nike Kobe Player Exclusives for Wildcats athletes in honor of Mamba DayThe basketball program received a white and blue Nike Kobe 8 EM Protro while the football team debuted a Nike Kobe 6 Protro cleatBoth pairs are designed strictly for student-athletes and will not be available to the public Nike and the University of Kentucky have officially revealed two new Kobe Player Exclusives to mark Mamba Day. The dual reveal equips Wildcats athletes across both basketball and football programs with custom footwear honoring Kobe Bryant.Unveiled on August 24 in reference to Bryant’s No. 8 and No. 24 jersey numbers, the basketball program received a Nike Kobe 8 EM Protro. Dressed primarily in clean white with blue accents throughout, the pair shares its colorway scheme with the program's player-issued iteration from late 2023.The football program received a gridiron-adapted setup featuring the Nike Kobe 6 Protro modified into a cleat. The design incorporates a blue snakeskin-style TPU upper with black detailing, translating one of Bryant’s signature hardwood models into field performance gear.As exclusive player editions for University of Kentucky athletes, neither Nike Kobe PE is expected to drop at retail. View this post on InstagramA post shared by Kentucky Football (@ukfootball) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4087137e7a68ae20",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "CD Projekt Red Confirms 'The Witcher 4' Is Targeting a 2028 Launch",
+      "url": "https://hypebeast.com/2026/8/the-witcher-4-targets-2028-with-ciri-led-new-saga",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "CD Projekt Red Confirms 'The Witcher 4' Is Targeting a 2028 Launch Summary CD Projekt Red is targeting a 2028 release window for The Witcher 4 with joint CEO Michał Nowakowski confirming the timeline ahead of GamescomThe Polish studio is currently developing a new expansion for The Witcher 3 titled Songs of the Past which will take center stage at the conventionDevelopment of the mainline sequel involves more than 500 staffers working to create an expansive new saga featuring Ciri as the lead protagonist CD Projekt Red joint CEO Michał Nowakowski announced that the developer is officially aiming for a 2028 launch for The Witcher 4. This target window provides the most concrete timeline yet for the highly anticipated sequel. The studio has kept the project in active development for several years following the conclusion of Geralt of Rivia's mainline story. Fans received the latest update through a pre-Gamescom video message where Nowakowski detailed the road ahead for the beloved fantasy franchise. He noted that the upcoming entry represents the biggest and most ambitious game the studio has ever created.More than 500 developers are currently working on the next saga. The massive team is shifting focus toward a fresh narrative with Ciri taking over as the central protagonist. While the sequel will skip the convention floor in Cologne this year, leadership confirmed it will eventually launch on PlayStation 5, Xbox Series and PC. Taking the time to properly polish the new adventure remains a priority for the creative directors. The broader corporate strategy includes releasing an entire new trilogy within a six-year period starting from the launch of this fourth entry.Players eager for immediate content will still have plenty to explore before the end of the decade. The publisher plans to utilize the Opening Night Live showcase to reveal an upcoming expansion for The Witcher 3 titled \"Songs of the Past.\" Slated for a 2027 debut across modern consoles and PC hardware, the add-on is being co-developed alongside the industry veterans at Fool’s Theory. Nowakowski teased that the story acts as an indirect prologue setting the stage for the next major chapter. Attendees can experience a dedicated booth featuring a deep dive into the dark narrative additions.Beyond the core single-player experiences, the Polish developer maintains its commitment to expanding the broader universe. A multiplayer spinoff codenamed Project Siris continues its production cycle despite re"
+    },
+    {
+      "id": "ca7ff7f73626397d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Oura Is Reportedly Planning a September IPO at a $16 Billion USD Valuation",
+      "url": "https://hypebeast.com/2026/8/oura-targets-september-ipo-amid-sleep-tracking-lawsuit",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "Oura Is Reportedly Planning a September IPO at a $16 Billion USD Valuation Summary Smart ring manufacturer Oura is reportedly preparing for a September U.S. initial public offering that could value the company at more than $16 billion USDThe wearable health brand aims to raise up to $3 billion USD as projected annual sales approach the $2 billion USD mark Oura is reportedly eyeing a US initial public offering as early as next month. The smart ring maker seeks to raise up to $3 billion USD in a listing that would value the operation at more than $16 billion. Existing investors are expected to offload a significant chunk of stock during the offering. The aggressive financial move follows a confidential IPO filing earlier this year and caps off a massive period of growth for the Finnish brand. Chief Executive Officer Tom Hale recently noted the company expects to generate close to $2 billion USD in revenue in 2026. This projection is driven by international expansion and heavily integrated artificial intelligence coaching features.The wearable device has evolved from a niche biohacking tool into a mainstream health staple. The company has moved over 5.5 million units since its inception. Oura recently pushed deeper into preventative healthcare by introducing an AI chatbot alongside glucose monitoring and blood pressure research. The hardware sector is growing increasingly crowded. Samsung launched the Galaxy Ring to capture the Android ecosystem while fitness band rival Whoop recently pivoted to court a broader demographic with hormone tracking and blood-panel testing. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6af6979719643a8a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Ted Lasso' Season 5 Could Begin Filming in January 2027",
+      "url": "https://hypebeast.com/2026/8/ted-lasso-season-5-targets-2027-london-shoot",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "'Ted Lasso' Season 5 Could Begin Filming in January 2027 Summary Production for the fifth season is provisionally scheduled to begin in London in January 2027New episodes could arrive as early as summer 2027 following a turnaround cycle similar to the show's second seasonThe rapid production timeline follows the record-breaking success of the current fourth season Following the highly successful return of Ted Lasso for a fourth season, Apple is already preparing to keep the momentum going on the pitch. Reports indicate that the streaming platform is pushing forward with plans for a fifth installment of the acclaimed comedy series. Leaker Sigmund Judge revealed that production for the next season is provisionally set to kick off in London in January 2027. Barring unforeseen production complications or issues with sudden mustache growth, the timeline suggests the hit show could return to screens as early as summer 2027.The proactive scheduling marks a stark contrast to the multi-year hiatus fans endured between the third and fourth seasons. A summer release would mirror the production cycle of the show's second season, which began principal photography in January 2021 and debuted on Apple TV+ by July of that year. Apple has yet to officially confirm the renewal, but industry expectations point toward a formal announcement arriving near the conclusion of the current ten-episode run on October 7.Viewership numbers provide a clear incentive for Apple to accelerate the comedy's production pipeline. The recent season 4 premiere shattered platform records by pulling in nearly 300 million viewing minutes across the United States within its first two days of availability. This massive audience response cemented the episode as the biggest launch in Apple TV+ history and reaffirmed the cultural footprint of the Jason Sudeikis-led series.Behind the scenes, the foundation for a prolonged run is firmly in place. Key cast members including Sudeikis, Hannah Waddingham, Brett Goldstein, Juno Temple, Brendan Hunt and Jeremy Swift previously signed three-year contract extensions in 2025. Sudeikis has openly expressed interest in producing at least two more seasons of the revived sports comedy. With Apple executive Eddy Cue signaling long-term support for the franchise, the Greyhounds appear poised to remain a cornerstone of the platform's original programming slate for the foreseeable future. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7aa7fb2d8f552299",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The ASUS ROG Gjallar Gaming Soundbar Debuts With Dolby Atmos",
+      "url": "https://hypebeast.com/2026/8/asus-rog-gjallar-gaming-soundbar-debuts-with-dolby-atmos",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.451Z",
+      "text": "The ASUS ROG Gjallar Gaming Soundbar Debuts With Dolby Atmos Summary ASUS has officially released the ROG Gjallar , its first gaming soundbar, in the United States for $600The system features Dolby Atmos support alongside a wireless 65W subwoofer utilizing a low-latency 5GHz connectionAn included audio control hub provides integrated microphones and a vibrant LCD display to facilitate headset-free communication during multiplayer gaming ASUS expands its hardware ecosystem with the domestic release of the ROG Gjallar. Priced at $600 USD in the United States, this marks the brand's first foray into the dedicated gaming soundbar market. Named after the legendary horn from Norse mythology, the unit aims to elevate desktop battlestations and console setups alike. The hardware drops just as modern gaming spaces demand cleaner aesthetics without sacrificing raw audio power.The system delivers immersive Dolby Atmos surround sound tailored for tactical clarity. Internal architecture includes dedicated up-firing channels for a vertical 3D soundstage, high-fidelity tweeters for sharp highs and full-range speakers to balance mids. A slim 6.5-inch wireless subwoofer complements the main bar. Pushing 65 watts of power over a dedicated 5GHz connection, the subwoofer provides room-shaking bass with minimal latency and zero cable clutter across the floor.Multiplayer communication serves as a core focus for the engineering team. The external audio control hub houses advanced microphones equipped with Acoustic Echo Cancellation and an AI beamforming algorithm. This specific technology filters out ambient background noise alongside loud in-game sound effects. Players can coordinate with teammates clearly using headset-free communication. A vibrant LCD display on the hub grants quick access to volume adjustments, input selection and preset EQ profiles optimized for different media types.Versatility remains crucial for modern multi-platform consumers. The soundbar features a robust suite of connectivity options headlined by an HDMI 2.1 port capable of 4K at 120Hz pass-through. An additional HDMI eARC connection ensures lossless audio synchronization. Users can also connect via USB-C, optical cable, a standard 3.5mm AUX jack or Bluetooth 5.3. This wide array allows seamless switching between PC, Mac, PlayStation, Xbox, Nintendo Switch and mobile devices. Two built-in USB Type-A side ports offer convenient housing for wireless peripheral dongles.Customization options round out th"
+    },
+    {
+      "id": "4fe5ba1e0e6cd417",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Vans Cuts the Premium SF Moc Low Into a Waffle-Soled Moccasin for Everyday Wear",
+      "url": "https://hypebeast.com/2026/8/vans-premium-sf-moc-low-light-brown-black-dark-brown-vn000z3xicx-vn000z3xbka-vn000z3xdrb-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Vans Cuts the Premium SF Moc Low Into a Waffle-Soled Moccasin for Everyday Wear Name: Vans Premium SF Moc Low “Light Brown,” Vans Premium SF Moc Low “Black,” Vans Premium SF Moc Low “Dark Brown”Colorway: Light Brown/Brown, Black/Black, BrownSKU: VN000Z3XICX, VN000Z3XBKA, VN000Z3XDRBMSRP: $100 USDRelease Date: Available nowWhere to Buy: VansThe Vans Premium SF Moc Low brings a moccasin staple down to a low-top profile, filtering the traditional shape through the brand's own construction vocabulary. Positioned as a clean, easy-wearing everyday shoe, the model pairs a textured mixed-material build with the vulcanized foundation and waffle grip that define Vans' back catalog.The upper is where the moc heritage meets the Vans treatment. The shoe is built on moccasin-inspired construction, carrying the relaxed, timeless look that shape is known for, then lowered into a low-top cut that opens it up to more flexible daily styling. A premium mixed-material upper adds texture, durability, and depth, with suede worked in for a soft, tactile finish, and a lace-up closure keeps the fit secure and adjustable rather than leaving it a pure slip-on.Underneath, the shoe runs on the details Vans has leaned on for decades. The build is vulcanized for the original look and feel long tied to the brand's skate-rooted output, and it rides on the signature waffle outsole pattern that has been a Vans grip staple since the 1960s. That combination anchors the SF Moc Low in familiar territory even as the moccasin upper pushes it somewhere more refined than a standard Vans silhouette.Comfort is handled by a more contemporary addition. Inside sits the Sola Foam ADC (All-Day Comfort) insole, tuned for soft, durable cushioning and made using at least 30% biobased PU foam that is partially derived from plants and USDA Certified Biobased. It is a quietly modern, lower-impact touch inside an otherwise classic package, and it rounds out a shoe that spans three colorways: a warm Light Brown/Brown, an all-over Black/Black, and a deeper Dark Brown for those after something in between. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5d717fc3955b823b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Netflix May Turn Its Platform Into a Streaming Hub by Adding Peacock and Fox One",
+      "url": "https://hypebeast.com/2026/8/netflix-could-host-peacock-and-fox-one-inside-app",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Netflix May Turn Its Platform Into a Streaming Hub by Adding Peacock and Fox One Summary Netflix is reportedly considering bringing competitor platforms like Peacock and Fox One directly into its user interfaceThe platform is evaluating whether to act as a subscription storefront or integrate third-party catalogs into its existing libraryA recent integration with French network TF1 serves as a blueprint for transforming the streaming giant into a centralized content hub Netflix is reportedly exploring a major shift in its platform strategy by hosting third-party streaming services within its own application. Executives have held internal discussions regarding the potential integration of NBCUniversal’s Peacock and the emerging platform Fox One directly into the Netflix interface. The move would transition the service from a strictly closed ecosystem into a centralized hub for competing catalogs. Decision makers are currently evaluating whether to sell subscriptions directly through the app or seamlessly fold outside content into the existing library.The potential pivot arrives as the industry shifts focus from acquiring new subscribers to retaining current viewers. Competitors are aggressively leaning into aggregation to dominate screen time. YouTube recently established a blueprint for this model by bundling Peacock access into its Premium tier for next year. By serving as the digital front door for other networks, Netflix could command a lucrative share of third-party subscription revenue while drastically increasing the hours users spend locked into its ecosystem.Consumer behavior heavily supports the platform-as-a-storefront approach. Recent industry data reveals that subscriptions purchased through third-party hubs have increased by 60 percent over the past three years. Nearly one third of all new streaming sign-ups now occur through intermediary platforms like Amazon Prime Video and Roku. Netflix currently boasts more than 325 million global subscribers and holds unprecedented leverage to capitalize on this shifting market dynamic.The blueprint for a broader rollout is already active in international markets. Netflix successfully launched a localized third-party partnership in France by integrating live channels and on-demand programming from domestic broadcaster TF1. French members can watch leading scripted dramas and live sports from the network without ever leaving the Netflix application. Co-CEO Greg Peters recently highlighted the promising ini"
+    },
+    {
+      "id": "c7eb9f3732af966b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Cools the Mind 001 in Faded \"Work Blue\"",
+      "url": "https://hypebeast.com/2026/8/nike-mind-001-work-blue-hq4307-401-official-images",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Nike Cools the Mind 001 in Faded \"Work Blue\" Name: Nike Mind 001 “Work Blue”Colorway: Work Blue/Hydrogen Blue-Light Lemon TwistSKU: HQ4307-401MSRP: $95 USDRelease Date: Holiday 2026The Nike Mind 001 arrives in a new \"Work Blue\" treatment that leans into the experimental silhouette's open-back build. Rendered as a mule, the futuristic model takes on a faded blue coat that pushes it toward lifestyle territory while keeping the focus on the unconventional sole underneath.The construction is the story here. The Mind 001 is an open-back mule, a slip-on shape that strips away the heel and hands the silhouette its casual, easy-wearing character. This colorway commits almost fully to Work Blue, a washed-out shade that softens the model's more futuristic edges, before Light Hydrogen Blue steps in for subtle contrast on the Swoosh branding at the toe and along the midsole.The real payoff sits beneath the foot. Flashes of Light Lemon Twist appear underneath the shoe, and that brighter yellow is placed to pull attention straight to the independent foam nodes running along the sole. Nike built the nodes as a sensory system, designed to shift with the wearer and stimulate different areas of the foot as they move, which turns the unusual outsole into both the model's core technology and its most identifiable feature. The color placement makes that relationship explicit, using the yellow to spotlight the part of the shoe doing the actual work.That combination is what sets the Mind 001 apart from a standard slip-on. Where most mules treat the sole as an afterthought, this one makes it the centerpiece, and the \"Work Blue\" palette is arranged to reinforce that hierarchy rather than distract from it. The result is a quiet upper doing setup work for a loud, function-forward base, a balance that fits the experimental brief Nike has attached to the wider Mind platform. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2c70de7cd504992e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Stockholm Surfboard Club and RHC Turn the Icon Tag Navy for the \"Black Beach\" Capsule",
+      "url": "https://hypebeast.com/2026/8/stockholm-surfboard-club-rhc-collaboration-collection-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Stockholm Surfboard Club and RHC Turn the Icon Tag Navy for the \"Black Beach\" Capsule Summary Stockholm Surfboard Club and RHC assemble a special-order \"Black Beach\" capsule described as one of SSC's largest-ever rangesThree of the brand's signature logos are applied selectively across a hooded shirt, polo shirt, back logo tee, and capSSC's signature red icon tag is reworked in navy for the first time as a world-first special-order label Stockholm Surfboard Club and RHC have teamed on \"Black Beach,\" a special-order capsule that pairs the Swedish label's surf sensibility with Ron Herman's clean house style. Built out as one of SSC's largest assortments to date, the collection spans four core pieces and centers on a detail the brand has never altered before: its signature icon tag, here rendered in navy.The logos do the design work. The capsule is built around three of the signature logos SSC has carried and preserved over the years, applied piece by piece so that each garment gets the mark best suited to its character rather than a single logo stamped across the range. That approach runs through all four styles, from the cap and back logo tee to the polo shirt and hooded shirt, the latter two representing the kind of pieces that have become popular signatures of SSC in recent seasons.The headline detail is smaller but more significant. For \"Black Beach,\" SSC took its emblematic red-based icon tag and switched it to a navy base, creating what the collection frames as a world-first special-order label for the brand. It is a subtle change on paper, but for a label whose red tag functions as a recognition point, reworking it in navy turns an ordinary branding element into the capsule's defining flourish, finished with close attention to detail.The lineup itself is compact but considered. It runs across a black Hooded Shirt, a black Polo Shirt, a white Back Logo Tee, and a black Logo Cap, a mostly blacked-out spread that reads directly off the \"Black Beach\" name. Taken together, the release positions itself as a meeting of Stockholm's quiet surf culture and RHC's understated sensibility, framed as a one-season-only capsule rather than a permanent addition.The Stockholm Surfboard Club x RHC \"Black Beach\" collection arrives at the online store on August 29 and is already available at RHC Ron Herman and Ron Herman \"R\" stores. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "dcf185f32cbad102",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A Pablo Picasso Print Stolen in 2018 Has Finally Been Recovered",
+      "url": "https://hypebeast.com/2026/8/pablo-picasso-torero-etching-resurfaces-in-milwaukee",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "A Pablo Picasso Print Stolen in 2018 Has Finally Been Recovered Summary An original 1949 Pablo Picasso etching titled Torero was recovered in Milwaukee eight years after it was stolen from a downtown galleryA local landlord discovered the dust-covered print hanging in a vacant apartment following a tenant evictionValued at approximately $50,000, the rare artwork is one of 30 known copies and still featured its original gallery sticker on the frame A rare Pablo Picasso print that vanished in broad daylight from DeLind Fine Art Appraisals in February 2018 has resurfaced in an unexpected location. The artwork was found by a local landlord inside a vacant apartment. Tucked away and obscured by layers of dust, the piece remained largely untouched since its disappearance. A community member eventually walked into a Milwaukee Police Department station on August 5 to hand over the etching. Gallery owner Bill DeLind authenticated the work shortly after its recovery.Signed by the legendary artist in green crayon, the recovered print is the ninth copy in a limited run of 30 produced using a sugar lift etching process at the Mourlot Studio in Paris. Appraisers value the black ink woven paper piece at up to $50,000 USD. The artwork still bore the original gallery sticker on the back of its frame when authorities took possession of it. The initial theft made international headlines and prompted the FBI to add the piece to its National Stolen Art File. Experts note that the notoriety surrounding the high-profile heist could increase the market value of the work significantly.The sudden return of the piece brings closure to a long-running mystery for the local art community. DeLind and his late business partner Michael Goforth had originally displayed the piece in a lobby case at a downtown building. Goforth passed away earlier this year and spent the last six years calling police on the anniversary of the crime to keep the investigation active. Surveillance cameras famously failed to capture the culprit during the brief afternoon window when the theft occurred.Authorities noted that the six-year statute of limitations for felony theft in Wisconsin has expired, making criminal charges improbable despite the recovery. Police continue to investigate the exact circumstances of the artwork's journey over the past eight years. For now, the Picasso etching remains in custody while gallery representatives coordinate with the insurance company that paid out the original claim. De"
+    },
+    {
+      "id": "78c2e626983d3d0a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Marmot and KEEN Build Their First Collaboration on the Waterproof Targhee EXP WP Hiking Boot",
+      "url": "https://hypebeast.com/2026/8/marmot-keen-targhee-exp-wp-black-red-1032965-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Marmot and KEEN Build Their First Collaboration on the Waterproof Targhee EXP WP Hiking Boot Name: Marmot x KEEN Targhee EXP WPColorway: Black/RedSKU: Black/RedMSRP: ¥24,200 JPY (approx. $150 USD)Release Date: August 28Where to Buy: KEEN, MarmotKEEN and Marmot have chosen the Targhee EXP WP as the foundation for their first collaborative boot, a hybrid hiking model designed to move between pavement and trail without a change of footwear. Built to carry the wearer through a full day across shifting terrain, the boot leans on KEEN's waterproofing and traction systems to handle both the commute and the climb.The waterproofing does the frontline work. The Targhee EXP WP is fitted with KEEN.DRY, the brand's proprietary waterproof-breathable material, which blocks water from getting in while letting internal moisture escape, a combination meant to keep the interior comfortable across changing conditions. That membrane sits behind a durable nylon upper, giving the boot a hard-wearing shell before traction even enters the equation.Underfoot, grip is handled by the KEEN.ALL-TERRAIN rubber outsole, built with a multi-directional lug pattern engineered to stay stable across surfaces that range from paved roads to open natural ground. It is tuned for durability over longer distances as well, positioning the boot as an all-rounder rather than a specialist. Up front, a KEEN.PROTECT rubber toe bumper shields the toes from rocks and obstacles, adding a layer of protection where hiking boots tend to take the most abuse. The fit follows KEEN's original last, with added room from the forefoot through the toes for a less restrictive feel over a long day on foot.The technical package extends to odor control. The boot uses Eco Anti-Odor, a pesticide-free treatment built on naturally derived probiotics rather than chemical additives, keeping the interior fresh while aligning with KEEN's broader emphasis on lower-impact materials. Taken together, the waterproof membrane, all-terrain outsole, protective bumper, roomy fit, and eco-minded odor control make up a spec sheet aimed squarely at wearers who want one boot to cover city streets and light hikes alike.The Marmot x KEEN Targhee EXP WP releases August 28 across Japan, China, Taiwan, Thailand, South Korea, and the Philippines. In Japan, it will be available at KEEN retail stores, the KEEN official online store, and KEEN stockists, along with Marmot's official online store as an online exclusive. Click here to view full gallery a"
+    },
+    {
+      "id": "35bae03945d9c44c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lamborghini Revives the Tricolore Name With a One-Off Temerario Paying Homage to the Italian Flag",
+      "url": "https://hypebeast.com/2026/8/lamborghini-temerario-tricolore-revives-patriotic-livery",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Lamborghini Revives the Tricolore Name With a One-Off Temerario Paying Homage to the Italian Flag Summary Lamborghini debuted the Temerario Tricolore, a bespoke one-off creation celebrating the colors of the Italian flag and the creative depths of the brand’s Ad Personam personalization programThe vehicle features a striking two-tone Bianco Monocerus and Blu Marinus Shiny livery accented by a tricolor racing stripe, reviving a moniker last seen 15 years ago on the Gallardo LP 550-2While the exterior and interior are extensively customized, the car maintains the standard 907-horsepower hybrid powertrain pairing a high-revving twin-turbo V-8 with three electric motors Lamborghini has officially resurrected a celebrated moniker with the debut of the one-off Temerario Tricolore. Developed to showcase the limitless creative potential of the brand’s Ad Personam personalization department, the bespoke supercar pays direct homage to the Italian flag. Designed in collaboration with the Centro Stile division, the striking build revives a patriotic theme last seen 15 years ago on the Gallardo LP 550-2. Stephan Winkelmann, chairman and CEO of Automobili Lamborghini, noted that the new interpretation successfully translates national pride into a modernized era of super sports cars. He emphasized that the project acts as a functional canvas, proving how affluent buyers can transform a personal vision into a unique automotive expression.The exterior commands attention with a bold two-tone livery. A crisp Bianco Monocerus finish covers the upper half of the vehicle, aggressively contrasted by a Blu Marinus Shiny application across the lower aerodynamic sections. Glossy Nero Noctis accents highlight the lightweight wheels, mirrors and engine cover to ground the vibrant aesthetic. Running down the center of the chassis, a definitive green, white and red racing stripe anchors the design’s national inspiration. The interior continues the motif through supple Nero Ade black upholstery offset by Rosso Alala contrast stitching, alongside prominent Tricolore lettering embroidered directly into the door panels.While the visual identity receives a comprehensive overhaul, the performance foundation remains untouched from the standard production model. The vehicle utilizes a cutting-edge 907-horsepower electrified powertrain, mating a high-revving 4.0-liter twin-turbocharged V-8 with three electric motors. The internal combustion engine alone is capable of spinning to a blistering 10"
+    },
+    {
+      "id": "14b230e176107532",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The 1986 World Cup Ball From Maradona's Hand of God Goal Sells for Over $3 Million USD at Auction",
+      "url": "https://hypebeast.com/2026/8/adidas-azteca-hand-of-god-match-ball-sells-at-auction",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "The 1986 World Cup Ball From Maradona's Hand of God Goal Sells for Over $3 Million USD at Auction Summary The Adidas Azteca football used during the 1986 World Cup quarter-final between Argentina and England sold for £2.5 million at Heritage AuctionsMatch referee Ali Bin Nasser originally kept the historic artifact that Diego Maradona used to score the infamous Hand of God goalThe final hammer price fell significantly short of initial pre-auction estimates that projected a massive $10 million valuation The football responsible for one of the most polarizing moments in sports history just found a new owner. The adidas Azteca used during the 1986 World Cup quarter-final between Argentina and England officially sold for £2.5 million GBP (approx. $3.4 million USD) at a Heritage Auctions event in Dallas. Diego Maradona famously punched this exact ball past goalkeeper Peter Shilton to secure a legendary 2-1 victory for his nation.The legendary Argentine later described the opening goal as being scored a little with his head and a little with the hand of God. Beyond that controversial moment, the same ball also touched the pitch for what fans crowned the Goal of the Century. Maradona masterfully dribbled past five English outfield players before sliding his final shot into the net. Heritage Auctions specialist Mike Provenzale described the artifact as arguably the most significant soccer item in existence.Tunisian referee Ali Bin Nasser originally collected the ball at full-time and held onto it for over three decades. The official missed the notorious handball infraction in real time and allowed the goal to stand. Bin Nasser eventually parted ways with the memorabilia in 2022 for £1.74 million GBP (approx. $2.3 million USD). A subsequent owner attempted to move the item in 2023 but failed to meet the minimum reserve price during that specific bidding cycle.Independent authenticators verified its status as the sole ball used throughout the entire 90 minutes of the storied match. While £2.5 million GBP (approx. $3.4 million USD) remains a monumental sum for sporting equipment, the final figure landed well below pre-auction estimates that hovered near $10 million USD. The sports memorabilia market continues to set high benchmarks for match-worn gear compared to field equipment. For direct comparison, the jersey worn by the Argentine forward during the exact same tournament bracket shattered records when it sold for £7.1 million GBP (approx. $9.6 million USD) back i"
+    },
+    {
+      "id": "b590b4ba3e8a4d19",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Porsche Denies Plans to Kill the Taycan Despite Reports of a Phase-Out by 2030",
+      "url": "https://hypebeast.com/2026/8/porsche-taycan-stays-as-brand-reworks-ev-strategy",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Porsche Denies Plans to Kill the Taycan Despite Reports of a Phase-Out by 2030 Summary Porsche firmly denied reports of a planned 2030 discontinuation for the Taycan and stated there are no plans to scrap the electric sedan in the short termThe automaker is streamlining the model range to reduce production complexity following a significant sales drop from a 2023 peak of 40,629 units to 16,339 in 2025Stuttgart is adjusting its broader electrification targets and reintroducing combustion engine options for upcoming models in response to cooling demand for luxury electric vehicles Porsche executives are aggressively changing the narrative after rumors suggested the brand would kill off its flagship electric vehicle. German business publication WirtschaftsWoche recently sent shockwaves through the automotive sphere by reporting that the automaker and its works council had quietly agreed to phase out the model by the end of the decade. Company CEO Michael Leiters clarified the brand's stance to international media this week. He emphasized that an ongoing effort to simplify production does not equate to a death sentence for the entire model line.The core issue driving the speculation is a massive sales decline across the luxury electric vehicle sector. Taycan deliveries have taken a major hit over the last two years. The model dropped from a peak of 40,629 units in 2023 down to just 16,339 in 2025. The bleeding continued into the first half of 2026 with only 6,219 units shipped globally. In response to the cooling demand, Leiters noted that the company is actively reducing the number of available variants to lower complexity and manage overhead.This stark drop in consumer appetite is driven by a convergence of global market pressures. Domestic manufacturers in China are currently undercutting legacy European brands with cheaper high-performance alternatives. This new wave of competition is stripping away some of the traditional cachet associated with the Stuttgart crest. Meanwhile higher import tariffs and shifting consumer sentiment in the United States have further stifled the electric sedan’s momentum.The uncertain long-term fate of the Taycan reflects a much wider reality check inside the boardroom. The automaker is openly recalibrating its initial electrification targets and walking back promises of an EV-only future for highly anticipated platforms. Future iterations of the 718 Cayman and Boxster models will now be offered with combustion engines. Industr"
+    },
+    {
+      "id": "f9ed45cfefa2dc82",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Salomon Evolves the XT Franchise With the Brand-New XT-EVO",
+      "url": "https://hypebeast.com/2026/8/salomon-xt-evo-black-asphalt-l45419100-alloy-castlerock-ftw-silver-l45419100-black-fiery-red-white-l49177900-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Salomon Evolves the XT Franchise With the Brand-New XT-EVO Name: Salomon XT-EVOMSRP: $190 USDRelease Date: September 2Where to Buy: SalomonSalomon is expanding its revered XT franchise with the brand-new XT-EVO, a silhouette that reimagines the performance DNA of the iconic XT-6 through a bold design language inspired by speed, movement and exploration.Built for those who embrace the unknown, this next-generation model transforms the brand's technical heritage into a sculptural expression of motion. The XT-EVO arrives in a trio of dynamic colorways: a stealthy \"Black/Asphalt,\" a sleek \"Alloy/Castlerock/FTW Silver\" and an energetic \"Black/Fiery Red/White.\" This latter red, black, and gray palette serves as a direct homage to one of the original launch colorways of the XT-6, seamlessly bridging the franchise's racing-spirit heritage with its forward-looking future.The XT-EVO model features a reworked upper defined by sharper proportions, amplified layering, and flowing lines that create an aggressive sense of movement from every angle. It retains the signature jumbo mesh that has become a defining hallmark of the XT lineage, pairing it with newly developed liquid rubber overlays that add distinct depth, texture, and a high-tech finish to the silhouette. Beneath this contemporary, speed-inspired exterior, the shoe remains grounded in Salomon’s trusted technical foundations. Equipped with the brand's proprietary Agile Chassis™ System, the XT-EVO delivers exceptional stability, durable cushioning, and confident control across shifting terrains. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4e6962505e2341bf",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lucien Pellat-Finet Brings Vintage ‘PEANUTS’ Artwork to Its Luxurious Sweaters",
+      "url": "https://hypebeast.com/2026/8/lucien-pellat-finet-peanuts-capsule-collaboration-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Lucien Pellat-Finet Brings Vintage ‘PEANUTS’ Artwork to Its Luxurious Sweaters Summary Lucien Pellat-Finet and PEANUTS unveil a collaborative capsule.Scottish intarsia-knitted cashmere sweaters and graphic crewneck sweatshirts featuring early Snoopy artwork.Releasing on August 28, 2026, via Lucien Pellat-Finet's website and flagships. French luxury street label Lucien Pellat-Finet, widely dubbed the “King of Cashmere,” has teamed up with PEANUTS for a collaborative capsule. The lineup features cashmere knits and sweatshirts adorned with vintage PEANUTS artwork from the 1950s, hand-selected by Artistic Director Tsuyoshi Noguchi.The designs reinterpret Snoopy and the gang with a modern sensibility, blending playful nostalgia with the brand’s signature French chic. Standout pieces include cashmere knits crafted using traditional Scottish intarsia techniques, elevated with ribbed cuffs and hems for refined comfort.Priced at ¥121,000 JPY (approx. $759 USD) for the sweatshirt and ¥594,000 JPY (approx. $ 3,727 USD) for the cashmere knit, the Lucien Pellat-Finet x PEANUTS capsule will be available through the brand's website and flagship stores starting August 28, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8072923d27fad3e6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Watch the Fourth Official Trailer for ‘Tokyo Revengers: War of the Three Titans Arc’",
+      "url": "https://hypebeast.com/2026/8/tokyo-revengers-season-4-war-of-the-three-titans-arc-anime-trailer-theme-song-reveal-release-info",
+      "publishedAt": "2026-08-25T11:42:03.000Z",
+      "collectedAt": "2026-08-25T12:55:15.452Z",
+      "text": "Watch the Fourth Official Trailer for ‘Tokyo Revengers: War of the Three Titans Arc’ Summary Tokyo Revengers: War of the Three Titans Arc released a new official trailer, confirming an October 2, 2026 premiere.Animated by LIDENFILMS, Takemichi travels to 2008 to save Mikey from joining the crime syndicate. Bonten. A new official trailer for Tokyo Revengers: War of the Three Titans Arc has been officially unveiled, confirming that the new anime season will premiere in Japan on October 2, 2026.Based on Ken Wakui’s blockbuster manga published in Kodansha’s Weekly Shōnen Magazine, the upcoming arc continues Takemichi's time-traveling saga for one final, high-stakes mission. After discovering that his former friend and Tokyo Manji Gang leader Mikey (Manjiro Sano) has descended into dark impulses to lead Japan’s premier crime syndicate, Bonten, Takemichi leaps back to 2008 to save Mikey before his moral collapse.The newly dropped two-minute trailer offers a tense look into the turf war brewing between Tokyo’s three ruling delinquent factions: the Kanto Manji Gang, Brahman, and Rokuhara Tandai. Set to the high-energy opening theme song \"IGNITE\" by Japanese boy group JO1, the trailer showcases intense street brawls, updated character visual designs, and high-contrast night-time action sequences. Animated once again by LIDENFILMS, the series will premiere on Japan’s MBS/TBS network block while streaming internationally on Disney+. Read more at Hypebeast"
     }
   ]
 }

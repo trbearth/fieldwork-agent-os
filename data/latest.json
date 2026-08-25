@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-24",
+    "id": "2026-08-25",
     "mode": "live",
-    "displayDate": "AUG 24, 2026, 08:59 AM EDT",
-    "generatedAt": "2026-08-24T12:59:04.330Z",
-    "itemsCollected": 36,
+    "displayDate": "AUG 25, 2026, 08:55 AM EDT",
+    "generatedAt": "2026-08-25T12:55:16.706Z",
+    "itemsCollected": 61,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 7
+        "count": 13
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 67,
-      "confidence": 56,
+      "score": 100,
+      "confidence": 54,
       "youthRelevance": 74,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "5 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "5 observations · 2 independent sources · +67% seven-day velocity",
+      "whyNow": "5 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "5 observations · 2 independent sources · +400% seven-day velocity",
       "citations": [
         {
           "title": "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary",
@@ -49,6 +49,26 @@
           "source": "Vogue",
           "date": "Aug 24",
           "url": "https://www.vogue.com/article/best-airbnbs-in-milan"
+        }
+      ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 38,
+      "direction": "up",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Marmot and KEEN Build Their First Collaboration on the Waterproof Targhee EXP WP Hiking Boot",
+          "source": "Hypebeast",
+          "date": "Aug 25",
+          "url": "https://hypebeast.com/2026/8/marmot-keen-targhee-exp-wp-black-red-1032965-release-info"
         }
       ]
     },
@@ -82,7 +102,7 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0824",
+    "code": "AUTO 0825",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
