@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-08-25",
+    "id": "2026-08-26",
     "mode": "live",
-    "displayDate": "AUG 25, 2026, 08:55 AM EDT",
-    "generatedAt": "2026-08-25T12:55:16.706Z",
-    "itemsCollected": 61,
+    "displayDate": "AUG 26, 2026, 09:01 AM EDT",
+    "generatedAt": "2026-08-26T13:01:23.086Z",
+    "itemsCollected": 62,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 13
+        "count": 16
       },
       {
         "source": "Hypebeast",
@@ -32,23 +32,23 @@
       "stage": "emerging",
       "score": 100,
       "confidence": 54,
-      "youthRelevance": 74,
+      "youthRelevance": 66,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
       "whyNow": "5 mentions this week versus 1 in the prior seven-day window.",
       "evidence": "5 observations · 2 independent sources · +400% seven-day velocity",
       "citations": [
         {
+          "title": "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
+          "source": "Vogue",
+          "date": "Aug 26",
+          "url": "https://www.vogue.com/slideshow/dolly-parton-quotes-on-life-love-and-everything-in-between"
+        },
+        {
           "title": "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary",
           "source": "Hypebeast",
           "date": "Aug 24",
           "url": "https://hypebeast.com/2026/8/pokemon-crocs-classic-platform-clog-jigglypuff-213869-90h-release-info"
-        },
-        {
-          "title": "The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studios",
-          "source": "Vogue",
-          "date": "Aug 24",
-          "url": "https://www.vogue.com/article/best-airbnbs-in-milan"
         }
       ]
     },
@@ -71,26 +71,6 @@
           "url": "https://hypebeast.com/2026/8/marmot-keen-targhee-exp-wp-black-red-1032965-release-info"
         }
       ]
-    },
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 38,
-      "direction": "up",
-      "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Who Knew a Track Jacket Could Be So Sexy?",
-          "source": "Highsnobiety",
-          "date": "Aug 18",
-          "url": "https://www.highsnobiety.com/p/puma-t7-track-jacket/"
-        }
-      ]
     }
   ],
   "cooling": {
@@ -102,12 +82,12 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0825",
+    "code": "AUTO 0826",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary",
-      "The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studios"
+      "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
+      "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary"
     ]
   }
 }
