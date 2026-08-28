@@ -1,17 +1,17 @@
-# Fieldwork Daily Signal — 2026-08-27
+# Fieldwork Daily Signal — 2026-08-28
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 100 · confidence 54% · youth 66%**
+**emerging · score 100 · confidence 59% · youth 77%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-5 observations · 2 independent sources · +400% seven-day velocity
+6 observations · 2 independent sources · +500% seven-day velocity
 
 - [15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between](https://www.vogue.com/slideshow/dolly-parton-quotes-on-life-love-and-everything-in-between) — Vogue, Aug 26
-- [‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary](https://hypebeast.com/2026/8/pokemon-crocs-classic-platform-clog-jigglypuff-213869-90h-release-info) — Hypebeast, Aug 24
+- [ASICS Taps Gohar World for an Edgy, Charm-Covered Sneakerina](https://hypebeast.com/2026/8/gohar-world-asics-gel-ds-trainer-sp-collaboration-release-info) — Hypebeast, Aug 28
 
 ## 2. Quiet performance
 

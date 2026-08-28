@@ -1089,6 +1089,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-28",
+      "mode": "live",
+      "displayDate": "AUG 28, 2026, 06:00 PM EDT",
+      "generatedAt": "2026-08-28T22:00:33.385Z",
+      "itemsCollected": 53,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 14
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 100,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -17525,6 +17562,589 @@
       "publishedAt": "2026-08-27T21:42:01.000Z",
       "collectedAt": "2026-08-27T22:03:40.275Z",
       "text": "James Gunn Announces Filming on 'Superman: Man of Tomorrow' Has Officially Wrapped Summary Director James Gunn has officially confirmed the completion of principal photography for 'Superman: Man of Tomorrow'The storyline forces David Corenswet's Superman to team up with Nicholas Hoult's Lex Luthor against BrainiacThe upcoming DC feature film officially arrives in theaters on July 9 2027 Writer and director James Gunn has officially wrapped principal photography on DC’s Superman: Man of Tomorrow. Gunn confirmed the production milestone via Threads, expressing gratitude for his cast and crew alongside behind-the-scenes set photos.Serving as the direct sequel to 2025’s Superman, the upcoming feature sees David Corenswet return as the titular hero. The plot forces Superman into an unexpected alliance with his primary adversary, Lex Luthor—played by Nicholas Hoult—in order to defeat the super-intelligent antagonist Brainiac, portrayed by Lars Eidinger. Gunn revealed on Threads, \"That's a wrap on principal photography for Man of Tomorrow. Truly a joyful experience and I have immense gratitude to my cast and crew. First photo: [Nicholas Hoult] jumped in the lake after last shot. Second photo: The brain trust (except Brian) around video village during the whole shoot. They make making movies fun.\"The ensemble cast features returning actors including Rachel Brosnahan as Lois Lane, Skyler Gisondo as Jimmy Olsen, Sara Sampaio as Eve Teschmacher, Isabela Merced as Hawkgirl, Nathan Fillion as Guy Gardner, and Edi Gathegi as Mister Terrific. Additionally, Milly Alcock reprises her role as Kara Zor-El (Supergirl), while Aaron Pierre joins the film as John Stewart ahead of his debut in HBO Max’s Lanterns series.Superman: Man of Tomorrow is scheduled to officially release in theaters on July 9, 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ee391a0d0c7d69a3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Loafers for Women to Invest In in 2026",
+      "url": "https://www.vogue.com/slideshow/best-loafers-for-women",
+      "publishedAt": "2026-08-28T21:13:47.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "The Best Loafers for Women to Invest In in 2026 Shop Vogue’s edit of the best loafers for women, with everyday styles from Gucci, The Row, Prada, and more."
+    },
+    {
+      "id": "f5cfb5271df0520f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "8 Best Shampoos for Frizzy Hair, According to Hair Stylists and Vogue Editors",
+      "url": "https://www.vogue.com/article/shampoo-for-frizzy-hair",
+      "publishedAt": "2026-08-28T20:41:12.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "8 Best Shampoos for Frizzy Hair, According to Hair Stylists and Vogue Editors Can shampoo actually prevent hair frizz? Six pro hairstylists share everything you need to know; plus, shop Vogue’s edit of the best shampoos for frizzy hair."
+    },
+    {
+      "id": "9602676b7a860b1b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best NARS Products Have Serious Staying Power",
+      "url": "https://www.vogue.com/article/best-nars-makeup",
+      "publishedAt": "2026-08-28T20:10:09.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "The Best NARS Products Have Serious Staying Power The iconic ’90s beauty brand still holds up—in popularity and product wear time. From blush to foundation, these are the nine best NARS products according to Vogue."
+    },
+    {
+      "id": "c665a94855b2ca21",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "57 Thoughts I Had While Watching 'Spa Weekend'",
+      "url": "https://www.vogue.com/article/57-thoughts-i-had-while-watching-spa-weekend",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "57 Thoughts I Had While Watching 'Spa Weekend' ...so you don't have to. You're welcome!"
+    },
+    {
+      "id": "bcb5853e0fd94d30",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘I Was Honestly Speechless’: Christy Lee on Post Malone’s Proposal—and That 20-Plus Carat Diamond Ring",
+      "url": "https://www.vogue.com/article/post-malone-christy-lee-engagement-exclusive",
+      "publishedAt": "2026-08-28T19:49:07.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "‘I Was Honestly Speechless’: Christy Lee on Post Malone’s Proposal—and That 20-Plus Carat Diamond Ring The bride-to-be Christy Lee shares the story behind her proposal from Post Malone—and her dazzling 20-plus-carat diamond engagement ring."
+    },
+    {
+      "id": "ab6973409aebc5cc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Retinol vs Hyaluronic Acid: Which Is Better For Fine Lines and Hydration?",
+      "url": "https://www.vogue.com/article/retinol-vs-hyaluronic-acid",
+      "publishedAt": "2026-08-28T16:16:18.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "Retinol vs Hyaluronic Acid: Which Is Better For Fine Lines and Hydration? When it comes to aging, acne or dry skin, the experts detail which ingredient, retinol vs hyaluronic acid, you should add to your routine. Plus, the best products to shop."
+    },
+    {
+      "id": "de9ff9f0967d4d10",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Labor Day Sales to Kick Off Your Fall Shopping in 2026",
+      "url": "https://www.vogue.com/article/best-labor-day-sales-2026",
+      "publishedAt": "2026-08-28T16:00:45.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "The Best Labor Day Sales to Kick Off Your Fall Shopping in 2026 The best Labor Day sales 2026 have arrived early—meaning there’s no better time to shop for fall. Shop coveted deals from Net-a-Porter, Nordstrom & more."
+    },
+    {
+      "id": "6a2fa1ccac1b70bf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Happy Birthday, Jennifer Coolidge! 12 Iconic Pictures of the Star Over the Years",
+      "url": "https://www.vogue.com/slideshow/vintage-pictures-jennifer-coolidge",
+      "publishedAt": "2026-08-28T16:00:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "Happy Birthday, Jennifer Coolidge! 12 Iconic Pictures of the Star Over the Years The actor, known for her memorable turns in “American Pie,” “Legally Blonde,” “Best in Show,” and, more recently, Mike White’s “The White Lotus,” turned 65 today."
+    },
+    {
+      "id": "cd4c984a7fb762d6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Unexpected and Somehow Sexy, the Bermuda Short Won the Summer",
+      "url": "https://www.vogue.com/article/unexpected-and-somehow-sexy-the-bermuda-short-won-the-summer",
+      "publishedAt": "2026-08-28T15:52:32.000Z",
+      "collectedAt": "2026-08-28T22:00:29.314Z",
+      "text": "Unexpected and Somehow Sexy, the Bermuda Short Won the Summer At first glance, these knee-length shorts might feel like a casual cousin to the flirty capri, but they might just be the perfect pairing with your favorite teeny-tiny tank."
+    },
+    {
+      "id": "b1aeb352370897cc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tamme Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/tamme",
+      "publishedAt": "2026-08-28T21:54:53.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "Tamme Tokyo Spring 2027 "
+    },
+    {
+      "id": "80406180ea6fe3b2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ancellm Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/ancellm",
+      "publishedAt": "2026-08-28T21:54:53.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "Ancellm Tokyo Spring 2027 "
+    },
+    {
+      "id": "53d083450ed362a2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Does Harry Styles’s Madison Square Garden Show Grow?",
+      "url": "https://www.vogue.com/article/harry-styles-madison-square-garden-review",
+      "publishedAt": "2026-08-28T15:00:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "How Does Harry Styles’s Madison Square Garden Show Grow? Harry, Harry, quite contrary, how does your (Madison Square) Garden grow? With disco balls and dance halls and screaming girls all in their rows."
+    },
+    {
+      "id": "2545de1e7c600996",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jury Announcement Mena Panorama Regional Open Call",
+      "url": "https://www.vogue.com/article/mena-panorama-open-call-the-jury",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "Jury Announcement Mena Panorama Regional Open Call Meet the experts from the MENA region shaping this year’s selection."
+    },
+    {
+      "id": "303bed29274e167e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zara’s New Arrivals Are Full of Fall 2026’s Biggest Trends",
+      "url": "https://www.vogue.com/article/best-zara-finds",
+      "publishedAt": "2026-08-28T10:00:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "Zara’s New Arrivals Are Full of Fall 2026’s Biggest Trends Transitional essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week."
+    },
+    {
+      "id": "62e448c36c2deda9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Endometriosis Symptoms Changed My Beauty Routine",
+      "url": "https://www.vogue.com/article/how-endometriosis-changed-my-beauty-routine",
+      "publishedAt": "2026-08-28T09:30:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "How Endometriosis Symptoms Changed My Beauty Routine More women than ever are being diagnosed with endometriosis. Easing symptoms means overhauling your lifestyle and adopting a broader view of beauty."
+    },
+    {
+      "id": "38c63fd3a5fcaece",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Amal and George Clooney See Out Euro Summer in Matching Bright Whites",
+      "url": "https://www.vogue.com/article/amal-and-george-clooney-matching-bright-whites-lake-como",
+      "publishedAt": "2026-08-28T07:45:07.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "Amal and George Clooney See Out Euro Summer in Matching Bright Whites The Clooneys have perfected the art of the staycation, with a coordinating late summer wardrobe to match in Italy."
+    },
+    {
+      "id": "73a7d83bdf6d0e39",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "79-Year-Old Diane von Furstenberg’s Fabulously Over-The-Top Skin Secret",
+      "url": "https://www.vogue.com/article/diane-von-furstenberg-over-the-top-skincare-secret",
+      "publishedAt": "2026-08-28T07:07:47.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "79-Year-Old Diane von Furstenberg’s Fabulously Over-The-Top Skin Secret What do Anne Hathaway and Diane von Furstenberg have in common? This skincare essential."
+    },
+    {
+      "id": "0c057963e2626dc0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Scoop With Repetto’s Charlotte Gaucher-Holmann: On Collaborating with Yohji Yamamoto",
+      "url": "https://www.vogue.com/article/the-scoop-with-repettos-charlotte-gaucher-holmann-on-collaborating-with-yohji-yamamoto",
+      "publishedAt": "2026-08-28T04:30:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "The Scoop With Repetto’s Charlotte Gaucher-Holmann: On Collaborating with Yohji Yamamoto This week’s guest is Charlotte Gaucher-Holmann, CEO of Repetto, a Parisian brand that’s been making ballet flats since 1947."
+    },
+    {
+      "id": "85f187027bbad6f4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From ACOTAR to Fourth Wing: Should Luxury Invest in Romantasy?",
+      "url": "https://www.vogue.com/article/from-acotar-to-fourth-wing-should-luxury-invest-in-romantasy",
+      "publishedAt": "2026-08-28T04:30:00.000Z",
+      "collectedAt": "2026-08-28T22:00:29.315Z",
+      "text": "From ACOTAR to Fourth Wing: Should Luxury Invest in Romantasy? The spicy literary genre, spearheaded by Sarah J. Maas’s A Court of Thorns and Roses series, is more popular than ever, opening up myriad opportunities for labels. But how can they get involved without turning readers off?"
+    },
+    {
+      "id": "61bc9f968a781921",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Baddest Winter Boot Is Even Better as a Sneaker",
+      "url": "https://www.highsnobiety.com/p/vans-standard-low-shoe/",
+      "publishedAt": "2026-08-28T21:18:40.000Z",
+      "collectedAt": "2026-08-28T22:00:30.682Z",
+      "text": "Vans’ Baddest Winter Boot Is Even Better as a Sneaker Vans releases the Standard Low, a low-top sneaker-ish version of its toughest MTE winter boots."
+    },
+    {
+      "id": "5bc896906392f572",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Bad Bunny’s Wildest adidas Sneaker Just Got Wearable",
+      "url": "https://www.highsnobiety.com/p/bad-bunny-x-adidas-f50-ghost-sprint-charcoal/",
+      "publishedAt": "2026-08-28T20:23:00.000Z",
+      "collectedAt": "2026-08-28T22:00:30.682Z",
+      "text": "Bad Bunny’s Wildest adidas Sneaker Just Got Wearable Bad Bunny’s F50 Ghost Sprint returns in “Charcoal,” a dark, wearable take on the singer's web-covered adidas sneaker."
+    },
+    {
+      "id": "2a3bba6bb28a893e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Skate-able Samba Has No Business Looking This Tasty",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-adv-shoes-dark-brown/",
+      "publishedAt": "2026-08-28T20:17:03.000Z",
+      "collectedAt": "2026-08-28T22:00:30.682Z",
+      "text": "adidas’ Skate-able Samba Has No Business Looking This Tasty adidas' latest Samba ADV sneaker lands in \"Dark Brown,\" resulting in easily the sweetest version of the skate model thus far."
+    },
+    {
+      "id": "92377662cae4b4d7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Good Shirt Is Ordinary. A Great Shirt Is Art",
+      "url": "https://www.highsnobiety.com/p/casey-casey-shirt/",
+      "publishedAt": "2026-08-26T16:33:46.000Z",
+      "collectedAt": "2026-08-28T22:00:30.682Z",
+      "text": "A Good Shirt Is Ordinary. A Great Shirt Is Art Casey Casey makes regular shirts into works of wearable art, when it feels so inclined. It makes you think: shirts should all be statement."
+    },
+    {
+      "id": "371bf2ee25363310",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Crisp Black Denim Air Maxes Are Only Part \"Jeaker\"",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-90-black-denim/",
+      "publishedAt": "2026-08-28T21:11:03.000Z",
+      "collectedAt": "2026-08-28T22:00:30.682Z",
+      "text": "Nike's Crisp Black Denim Air Maxes Are Only Part \"Jeaker\" Nike's latest Air Max 90 sneakers feature black denim moments, as well as other nice textures. So, don't call them \"jeakers\" just yet."
+    },
+    {
+      "id": "50b6cc2915578ff9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Iced-Out Snakeskin Air Forces Are Seriously Cold (Blooded)",
+      "url": "https://www.highsnobiety.com/p/nike-kobe-air-force-1-armory-blue/",
+      "publishedAt": "2026-08-28T21:09:44.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "Nike’s Iced-Out Snakeskin Air Forces Are Seriously Cold (Blooded) Nike's Kobe Air Force 1 \"Armory Blue\" sneakers marry crisp snakeskin uppers with icy blue accents for the coldest release yet."
+    },
+    {
+      "id": "829af186523bac38",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Miu Miu's Quirky, Spiky Leather Mule Is a Piece of Weird '90s Nostalgia",
+      "url": "https://www.highsnobiety.com/p/miu-miu-mule-leather/",
+      "publishedAt": "2026-08-28T19:03:00.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "Miu Miu's Quirky, Spiky Leather Mule Is a Piece of Weird '90s Nostalgia The Miu Miu Leather Mules in Caffè Brown subvert expectations by merging backless slide convenience with archival sole units."
+    },
+    {
+      "id": "61d514fe561085bc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's British Air Jordans Are as Handsome as They Are Hairy",
+      "url": "https://www.highsnobiety.com/p/jordan-4-london/",
+      "publishedAt": "2026-08-28T21:08:14.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "Nike's British Air Jordans Are as Handsome as They Are Hairy The Air Jordan 4 \"London\" sneaker lands as a city-themed spin complete with faded fuzzy suede uppers & vintage-style details."
+    },
+    {
+      "id": "eb265c4c296f99b7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "With Clothes This Good, You Only Need One Collection a Year",
+      "url": "https://www.highsnobiety.com/p/morrow-brand-interview/",
+      "publishedAt": "2026-08-28T16:53:29.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "With Clothes This Good, You Only Need One Collection a Year With his eponymous brand, designer Ryan Morrow is putting out exceptional clothes at a steady pace."
+    },
+    {
+      "id": "6b73cc92eb4028df",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Bubbly Runner Gets the Tonal Treatment For Recovery",
+      "url": "https://www.highsnobiety.com/p/nike-247-recovery-sneakers/",
+      "publishedAt": "2026-08-28T16:39:39.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "Nike’s Bubbly Runner Gets the Tonal Treatment For Recovery Nike 24.7 combines full-length Air Bubble cushioning, slipper-inspired comfort, and minimalist styling for effortless post-training recovery and everyday wear."
+    },
+    {
+      "id": "970ce0d1dc2a6736",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Noah’s Notes: Black T-Shirts Are for Weirdos",
+      "url": "https://www.highsnobiety.com/p/noahs-notes-supreme-bbblllaaahhh-tennis/",
+      "publishedAt": "2026-08-28T16:55:44.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "Noah’s Notes: Black T-Shirts Are for Weirdos Plus: a new tennis brand that’s doing everything right, and a bit of Supreme drop nostalgia."
+    },
+    {
+      "id": "84cc77b38d194df6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Slimmest Air Max Sneaker Remains Its Mixiest",
+      "url": "https://www.highsnobiety.com/p/nikes-slimmest-air-max-sneaker-remains-its-mixiest/",
+      "publishedAt": "2026-08-28T15:05:51.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "Nike’s Slimmest Air Max Sneaker Remains Its Mixiest Hiroshi Fujiwara's GOATed slim Nike Air Max sneaker has been killing it for a decade."
+    },
+    {
+      "id": "f3897121cdf86cf4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans Goes DIY On This Pearly Archival Gem",
+      "url": "https://www.highsnobiety.com/p/vans-old-skool-36-pearlized-red/",
+      "publishedAt": "2026-08-28T15:08:58.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "Vans Goes DIY On This Pearly Archival Gem The Vans Old Skool 36 Pearlized Red breathes new energy into the timeless low-top build. Shop the style here."
+    },
+    {
+      "id": "c5396835be9c011a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "One Good Mule That's Not On Everyone Else's Feet Yet",
+      "url": "https://www.highsnobiety.com/p/one-good-plush-skate-mule-vans-harbor/",
+      "publishedAt": "2026-08-28T13:34:06.000Z",
+      "collectedAt": "2026-08-28T22:00:30.683Z",
+      "text": "One Good Mule That's Not On Everyone Else's Feet Yet One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a Boston-eqsue mule from... Vans?!"
+    },
+    {
+      "id": "a176e448f1573cc5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SKIMS Enlists Supreme Veteran & Lemaire Designer Duo Exits Uniqlo U in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/8/skims-supreme-uniqlo-u-ugg-willy-chavarria-gunna-under-armour-ovo-drake-info",
+      "publishedAt": "2026-08-28T20:30:21.000Z",
+      "collectedAt": "2026-08-28T22:00:32.133Z",
+      "text": "SKIMS Enlists Supreme Veteran & Lemaire Designer Duo Exits Uniqlo U in This Week's Top Fashion News SummarySKIMS names a Supreme veteran as design chief, Authentic Brands Group acquires a majority stake in Drake’s OVO, and Uniqlo U says farewell to Christophe Lemaire and Sarah-Linh Tran.UGG debuts a capsule with Willy Chavarria, while Gunna leads Under Armour’s new P-Star collection.Gucci taps global stars, like BTS's Jin, EsDeeKid, Rico Nasty, and Shawn Mendes, for its Primavera push.SKIMS' New Chief Design Officer Spent 22 Years at SupremeKim Kardashian’s SKIMS shifted its creative strategy this week, appointing Erin Magee as the brand’s first-ever Chief Design Officer. The move followed Magee’s recent departure from legendary streetwear label Supreme, where she spent 22 years shaping its cultural dominance and visual identity. Magee, who also founded the women’s streetwear brand Mademe, takes on the responsibility of guiding SKIMS’ creative product direction as it expands its global footprint. Kardashian praised Magee’s ability to connect with audiences and push creative boundaries. Alongside Magee's appointment, SKIMS also promoted Kim Schraub to the newly minted role of Chief Brand Officer, signaling a robust structural shift for the booming shapewear empire.Christophe Lemaire & Sarah-Linh Tran Exit Uniqlo UAfter a defining 10-year run, Christophe Lemaire and Sarah-Linh Tran stepped down as the inaugural head designers of Uniqlo U. Their FW26 collection served as their final release for the Japanese retailer's design-forward sub-label. Since 2015, the duo bridged the gap between functional basics and high-end minimalism, transforming Uniqlo U into a commercial powerhouse that generated an estimated $1 billion in 2025 alone, according to Binance. While Uniqlo confirmed their departure, the retailer assured fans that the sub-label will continue. The fashion world now watches to see who will take the reins and if the brand can maintain its maison-level appeal without its foundational creative minds.Authentic Brands Group Acquires Majority Stake in Drake's OVO BrandGlobal brand management firm Authentic Brands Group acquired a 51% majority stake in October’s Very Own (OVO), the lifestyle brand co-founded by Drake. Under the new agreement, Drake retained a 44% share of the intellectual property, while Vince Holding Corp. secured the remaining 5% and stepped in as the core global apparel and retail licensee. The Toronto-based OVO team will continue to handl"
+    },
+    {
+      "id": "2967e51c3d989a1f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Anne-Laure Lemaitre Wants Art to Take Up More Space",
+      "url": "https://hypebeast.com/2026/8/anne-laure-lemaitre-wants-art-to-take-up-more-space",
+      "publishedAt": "2026-08-28T14:30:19.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "Anne-Laure Lemaitre Wants Art to Take Up More Space Summary 'State of Art' is a new HypeArt series inviting artists, curators, collectors and other leading voices to weigh in on the ideas, debates and cultural shifts shaping contemporary art. Through intimate questions and personal recommendations, the series offers a closer look at what is exciting the art world, what needs to change and where things may be heading next. Anne-Laure Lemaitre has long been interested in what happens when art is given more room to move.Based in New York, the curator specializes in large-scale, in-situ projects, splitting her time between consulting for a range of clients, including Fortune 500 companies, and managing curatorial programs centered on emerging artists. Rather than treating architecture as a backdrop, her work often considers how an artwork can respond to, occupy and transform the space around it.It makes sense, then, that two of the exhibitions that have stayed with her most this year took place far outside the conventional gallery model. One unfolded inside an empty Brooklyn office, while another took over six floors of a building in Jersey City. For Lemaitre, their appeal was not simply their scale, but the ambition behind them: independent curatorial projects using underutilized spaces to create something rigorous, unexpected and alive.That same appetite for work that expands beyond familiar formats runs through her assessment of the art world in 2026. She sees an industry in transition, but also one filled with artists and organizers testing new ways of working, gathering and reaching audiences.For the latest edition of State of Art, Lemaitre discusses the exhibitions still on her mind, Lesley-Anne Cao’s haunting \"Amphibian Palm,\" the artists she would invite to dinner and why she gives the art world a B-minus.What’s the one show from the first half of this year that you can't stop thinking about?There are a few, but I'll mention two. Both are very different, but function on a similar principle.The first would be The Gallery's WeWork (oralmoral), an evolving group show put together by Florian Meisenberg in an empty office space in Brooklyn. It showcased site-responsive works by so many artists I respect and adore, such as Cato Ouyang, Craig Jun Lee, Kyle Clairmont Jacques, Shaina Tabak, Brian Oakes, Anna K.E., Fin Simonetti and Pol Morton, among many others. It also offered free daily co-working space for artists alongside extensive, thorough and sharp prog"
+    },
+    {
+      "id": "9b4863fc4154111b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Hypegolf Clubhouse Brought a Serious Game-Improvement Setup to SoHo",
+      "url": "https://hypebeast.com/2026/8/hypegolf-brought-a-uneekor-simulator-to-soho",
+      "publishedAt": "2026-08-28T14:11:37.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "Hypegolf Clubhouse Brought a Serious Game-Improvement Setup to SoHo Golf courses, pro shops and institutions are often defined by who already feels comfortable inside of them. The latest edition of Hypegolf Clubhouse took a different approach, bringing together experienced players, newcomers and golf communities from across New York under one roof in SoHo.Throughout its three-week run, the Clubhouse hosted events with groups including Dual Sport, Swang and Long Island Golf Junkies. Each brought its own perspective and relationship with the game, reflecting the increasingly varied makeup of modern golf culture. But while community remained at the center of the Clubhouse, this year’s space also placed a greater emphasis on something more tangible: helping people get better.That was most apparent in the simulator bay at the back of the space, powered by an Uneekor EYE MINI SIMKIT. Rather than functioning simply as another attraction, the bay gave visitors access to a legitimate practice and performance environment that golfers could use to understand their swing, dial in their equipment or continue playing throughout the year.The SIMKIT is a complete simulator setup built around an Uneekor launch monitor, with this event featuring the portable EYE MINI alongside a premium enclosure and impact screen, hitting turf, projector and the software needed to bring everything together. At the Clubhouse, that turnkey setup helped transform a relatively compact downtown space into something resembling a fully equipped indoor golf studio.The premium setup was anchored by the technology golfers can rely on to better understand their game. Uneekor’s EYE MINI uses two high-speed cameras and Dimple Optix® technology to capture the golf ball at impact, producing 19 ball and club data points without requiring specially marked balls. Club Optix® adds real-time club tracking and visual impact replay, allowing golfers to see what happened at the moment of impact rather than relying solely on numbers or simulated ball flight.That balance between accessibility and serious feedback made the setup particularly suited to the Clubhouse. A visitor could step into the bay for a casual closest-to-the-pin challenge, while a more experienced player could use the same technology to examine impact conditions and understand why the ball moved the way it did.On opening night, that overlap between community, competition and game improvement came together particularly clearly. Guests competed in "
+    },
+    {
+      "id": "c47445d0bea0481a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: KidSuper",
+      "url": "https://hypebeast.com/2026/8/new-arrivals-from-hbx-kidsuper-2",
+      "publishedAt": "2026-08-28T14:08:41.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "New Arrivals From HBX: KidSuper Brand Information: KidSuper, US-based streetwear label is more than just a clothing brand. KidSuper is an idea that came from the desire to dream and rediscover the wonderment of being a kid. The label works to recapture this magic, and to re-explore the KID in all of us that is screaming for adventure, creativity, and sheer enjoyment. Thanks to its artful roots, KidSuper is anything but understated, founder and creative director Colm Dillane uses his clothing line as a canvas to showcase his original artworks. This unconventional brand intertwines art and fashion breathing Dillane’s artistic projects into garments, taking high fashion to new heights.Price Range: $60.00 USD - $995.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3be2f0895a936fbc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "TDR Broadens FW26 Collection With Technical Fabrics and Expert Craftsmanship",
+      "url": "https://hypebeast.com/2026/8/tdr-garbstore-fw26-collection-release-info",
+      "publishedAt": "2026-08-28T11:43:38.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "TDR Broadens FW26 Collection With Technical Fabrics and Expert Craftsmanship West London retailer The Garbstore has unveiled the Fall/Winter 2026 collection for its in-house label, TDR. The brainchild of founder Ian Paley, the new seasonal range expands the brand's offerings across both menswear and womenswear, drawing inspiration from decades of expertise in archived utility garments and global textile sourcing.Focusing on subtle, muted tones and intricate construction details, the latest lineup bridges the gap between British heritage and Japanese silhouettes, emphasizing functional durability and tactile quality. Outerwear highlights include the Cordura Balmacaan overcoat, available in unlined or Japanese Primaloft-insulated versions, alongside the Japanese canvas-lined Duxville Jacket with raglan sleeves and wrap-around pouch pockets.Denim and workwear continue to anchor the collection through pieces like the 11oz Hiroshima-woven denim Coverall Removed Jacket, featuring hand-distressed detailing, sun-aged dyeing, and hidden pocketing, alongside the military-inspired Jungle Repair Pant. In knitwear, TDR elevates to new heights to utilize the innovative Shima Seiki 3D knitting technology in Scotland for 100% British lambswool seamless crews, tunics, beanies, and scarves. Elsewhere, it is the Japanese cotton-wool check overshirts and signature crown chinos that complete the versatile drop.The full TDR collection is available now, with rolling releases available online and in-store at Couverture & The Garbstore over the following week. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d6865a7d3e99256e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "5 Rare Celebrity-Owned Timepieces That Go Beyond the Hype",
+      "url": "https://hypebeast.com/2026/8/five-rare-celebrity-owned-timepieces-that-go-beyond-the-hype",
+      "publishedAt": "2026-08-28T11:38:42.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "5 Rare Celebrity-Owned Timepieces That Go Beyond the Hype The world of celebrity watch collecting has officially evolved. While diamond-encrusted sports models and standard-issue hype pieces once dominated the wrists of the cultural elite, today’s heavy hitters are digging much deeper. The new ultimate flex is all about acquiring the unattainable: off-catalog exclusives, piece-uniques and obscure vintage grails that require immense horological knowledge - or serious industry leverage - to secure. Blurring the lines between high jewelry, pop culture and mechanical artistry, these timepieces serve as the ultimate status symbols for those who already have everything. Below, we look back at five of the most jaw-dropping and rare celebrity-owned watches.Drake - 1-of-1 Custom \"Ice Gradient\" Rolex Daytona&nbsp;View this post on Instagram&nbsp;A post shared by champagnepapi (@champagnepapi) When you are one of the most successful artists on the planet, standard Rolex allocations simply do not cut it. Drake recently proved this when he debuted a completely bespoke, 1-of-1 Custom \"Ice Gradient\" Rolex Daytona. Celebrating his monumental 15th Billboard No. 1 record, this off-catalog grail is a masterclass in gem-setting, featuring a stunning gradient of brilliant-cut diamonds and sapphires that flawlessly transition around the bezel and dial. It perfectly aligns with the 6 God's history of flexing exclusive, custom Rolexes, proving that for Drake, a watch isn't just a tool to tell time — it's a wearable trophy for his unprecedented chart dominance.Tom Brady - $6 Million USD Off-Catalog Rolex Sea-DwellerTom Brady's transition from the gridiron to full-time celebrity status has come with a massive upgrade to his already legendary watch collection. Stepping onto the stage for Netflix's The Roast of Kevin Hart, the seven-time Super Bowl champion wore an absolutely blinding off-catalog Rolex Sea-Dweller with an estimated value of $6 million USD. Crafted from 18-karat white gold and entirely encrusted in factory diamonds, the watch completely subverts the Sea-Dweller’s traditional heritage as a rugged, utilitarian diving tool. By casually pulling out a hyper-rare, gem-set model secretly reserved for Rolex's top-tier VIP clients, Brady executed the ultimate post-retirement power move.Jay-Z - Piece-Unique Blue Sapphire Richard Mille RM056Jay-Z has long been considered the ultimate tastemaker in the hip-hop watch collecting community, and his piece-unique Richard Mille RM056 i"
+    },
+    {
+      "id": "782ebf776138c99f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "CARNIVAL Brings Harajuku-Based WEEKEND SEQUEL to Bangkok for Exclusive Pop-Up",
+      "url": "https://hypebeast.com/2026/8/carnival-weekend-sequel-bangkok-pop-up-merch-info",
+      "publishedAt": "2026-08-28T10:45:07.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "CARNIVAL Brings Harajuku-Based WEEKEND SEQUEL to Bangkok for Exclusive Pop-Up Summary CARNIVAL hosts Tokyo’s WEEKEND SEQUEL for its first Thailand pop-up at CARNIVAL ONE BANGKOK.Features collaborative T-shirts combining CARNIVAL, WEEKEND SEQUEL, and Hiroshi Fujiwara’s fragment design branding.Runs August 29–30, 2026, at CARNIVAL ONE BANGKOK. Leading Thai streetwear boutique CARNIVAL is bringing Harajuku-based retail concept WEEKEND SEQUEL to Thailand for the very first time through an exclusive two-day pop-up event. Founded by Yasunari Miyazaki, WEEKEND SEQUEL is a Tokyo-based project famous for its distinct rhythm — opening its physical Harajuku doors strictly on weekends to create a fleeting gathering place for product releases, street culture and community. The project is also closely associated with Hiroshi Fujiwara, founder of fragment design, whose creative presence and iconic lightning bolt insignia have become defining elements of the WEEKEND SEQUEL identity.To mark this cross-cultural connection between Tokyo and Bangkok, the collaboration debuts a special event-exclusive T-shirt collection that fuses the visual identities of CARNIVAL, WEEKEND SEQUEL, and fragment design. Designed to introduce the ephemeral, in-person spirit of Harajuku's weekend culture to Southeast Asia, the CARNIVAL x WEEKEND SEQUEL pop-up will run on August 29 - 30, 2026. The experience and limited graphic tees will be hosted at the CARNIVAL ONE BANGKOK flagship store, located in The Storeys at One Bangkok. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "53fe396629383dfb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Diesel and ‘Final Fantasy XIV’ Channel a “Brave” Spirit for Their Collaborative Capsule",
+      "url": "https://hypebeast.com/2026/8/diesel-final-fantasy-xiv-brave-collection-release-info",
+      "publishedAt": "2026-08-28T10:44:53.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "Diesel and ‘Final Fantasy XIV’ Channel a “Brave” Spirit for Their Collaborative Capsule Summary Diesel teams up with Final Fantasy XIV on a 27-piece \"BRAVE\" capsule collection.The range features graphic hoodies, character tees, washed denim sets and Mothercrystal jewelry.Launches September 16, 2026, via Tokyo pop-ups and Diesel online. Diesel has teamed up with Square Enix's acclaimed MMORPG Final Fantasy XIV for a multi-faceted project anchored in the shared philosophy of \"BRAVE\".Fusing fashion, gaming culture and contemporary art, the centerpiece of the project is a 27-piece capsule collection. The lineup translates rich gaming lore into streetwear staples, spanning washed denim jackets, wide-leg denim trousers, hoodies, long-sleeve tees, graphic T-shirts and silver jewelry. Design motifs draw directly from the world of Hydaelyn, featuring imagery of Azem’s Crystal, the Mothercrystal, the Grand Companies of Eorzea and iconic Scions of the Seventh Dawn characters including Y'shtola, Thancred, Alphinaud, and Estinien.Ranging in price from ¥11,000 to ¥207,900 JPY (approx. $69 - $1,302 USD), the collection kicks off on September 16, 2026, with an exclusive pop-up at Isetan Shinjuku in Tokyo, which will offer custom job-icon embroidery services and a 30-set limited \"Scions of the Seventh Dawn Complete Box\". A wider release follows on October 2, 2026, via Diesel's official online store and the DIESEL SHIBUYA flagship, alongside secondary pop-ups at Hankyu Umeda in Osaka and Iwataya in Fukuoka later in the month. Coinciding with the drop, DIESEL ART GALLERY in Shibuya will host a collaborative collage art exhibition by renowned artist Kosuke Kawamura from October 2 through November 8, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3252a1e534c0f667",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ASICS Taps Gohar World for an Edgy, Charm-Covered Sneakerina",
+      "url": "https://hypebeast.com/2026/8/gohar-world-asics-gel-ds-trainer-sp-collaboration-release-info",
+      "publishedAt": "2026-08-28T10:21:24.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "ASICS Taps Gohar World for an Edgy, Charm-Covered Sneakerina Name: Gohar World x ASICS GEL-DS TRAINER SPColorway: TBCSKU: TBCMSRP: $218 USDRelease Date: September 1Where to Buy: Gohar WorldNew York-based lifestyle and homeware brand Gohar World - co-founded by sisters Laila and Nadia Gohar - has teamed up with ASICS for a surrealist take on the all-new GEL-DS TRAINER SP.Launching as the duo's first-ever sneaker collaboration, the limited-edition silhouette seamlessly blends the technical aesthetic of mid-2000s track-and-field spikes with the delicate, hyperfeminine lines of a traditional ballet flat. This unique approach completely reimagines the sporty foundation of the original ASICS runner, resulting in an experimental, low-profile design that perfectly balances athletic heritage with elevated elegance. Retaining a commitment to everyday comfort, the shoe integrates ASICS' signature TRUSSTIC support unit and rearfoot GEL technology.Visually, the collaborative sneaker arrives in a sleek, predominantly black colorway constructed from techy mesh and synthetic materials. What truly sets the sneaker apart is its array of eccentric, hand-applied embellishments that channel Gohar World's signature whimsy. The uppers are playfully adorned with bespoke charms, including a Chicken Foot Pearl, Potato Pearl, Baroque Pearl and a round Black Onyx stone.Adding a slightly industrial edge to the delicate silhouette, stainless-steel piercings and a silver-plated copper Gohar Bean logo elevate the highly textured finish. To further personalize the look, the sneaker includes dual black and vibrant orange laces, allowing wearers to style the shoe in multiple dynamic ways. View this post on Instagram Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6296b791cf5dc172",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Billionaire Boys Club and New York Yankees™ Return for Drop II Collection",
+      "url": "https://hypebeast.com/2026/8/billionaire-boys-club-new-york-yankees-drop-ii-collection-release-info",
+      "publishedAt": "2026-08-28T10:17:23.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "Billionaire Boys Club and New York Yankees™ Return for Drop II Collection Summary Billionaire Boys Club x New York Yankees reunite for Drop II, expanding the collaboration with Billionaire Girls Club.Collection spans denim, outerwear, tees and headwear with custom embroidery and graphics.Available to shop now across BBC, Yankees, MLB Shop and New Era. Billionaire Boys Club and the New York Yankees™ have reunited for drop two of their ongoing partnership, presenting an elevated 14-piece collection that bridges professional sports heritage with authentic New York street culture. Extending far beyond traditional stadium merchandise, this second installment expands its scope by officially integrating Billionaire Girls Club with a dedicated women's assortment.Set against the backdrop of Ray’s local bar in New York City, the collection's campaign emphasizes how the Yankees' visual identity seamlessly translates into everyday, lived-in city spaces. Constructed for daily wear, the range spans developed denim, outerwear, cut-and-sew apparel, graphic tees and headwear finished with custom embroidery, specialized hardware, and co-branded graphics.Prices range from $60 – $600 USD, key highlights include the NY Yankees Embroidered Denim Trucker Jacket, Embroidered Denim Pants, Spirit Longsleeve Tee and Quarter Zip Pullover, alongside women’s pieces from Billionaire Girls Club such as the Varsity Jacket, Heart Monster Ringer Tee, and Denim Jorts. In total, Drop II comprises 14 new styles, available now via bbcicecream.com, BBC’s New York and Miami flagships, Yankee Stadium, MLB Shop and New Era online. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8ff6cc1e1f52283b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "IWC’s New Pilot’s Watch for the Mercedes AMG PETRONAS Formula One™ Team Blooms in Purple",
+      "url": "https://hypebeast.com/2026/8/iwc-pilots-watch-chronograph-41-mercedes-amg-petronas-formula-one-team-kimi-antonelli-george-russell-release-info",
+      "publishedAt": "2026-08-28T09:52:53.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "IWC’s New Pilot’s Watch for the Mercedes AMG PETRONAS Formula One™ Team Blooms in Purple Summary IWC unveils the Pilot’s Watch Chronograph 41 Mercedes‑AMG PETRONAS Formula One™ Team with a vivid purple dial inspired by Singapore’s orchid.Features a Grade 5 titanium case, 69385 caliber, PETRONAS green accents.Releasing ahead of the upcoming Singapore Grand Prix. IWC has unveiled the Pilot’s Watch Chronograph 41 Mercedes-AMG PETRONAS Formula One™ Team, celebrating its 14th year as the official engineering partner of the F1 team. Releasing ahead of the upcoming Singapore Grand Prix, the watch marks the fourth official team watch created for trackside mechanics, engineers, and headquarters staff.The timepiece stands out as the first in IWC’s Pilot’s Watch collection to feature a vivid, deep purple dial. The rich hue pays tribute to Singapore’s national flower - the orchid Vanda Miss Joaquim - and is contrasted by the team's signature PETRONAS green accents on the numerals, indices and luminescent hands.Framed in a 41mm case crafted from Grade 5 titanium, the watch borrows directly from motorsport materials prized for high strength-to-density ratios, heat resistance and light weight. The brushed silvery-gray metal body is paired with a matching purple rubber strap equipped with IWC's EasX-CHANGE® quick-release system, allowing for rapid strap swaps. Built with an instrument-style layout, the watch features IWC's signature vertical sub-dial configuration at 12 o'clock alongside a day-date display positioned at 3 o'clock.Underneath the sapphire crystal dial, the watch is driven by the IWC-manufactured Calibre 69385. This mechanical chronograph utilizes a classical column-wheel architecture paired with a bidirectional pawl winding system, offering a 46-hour power reserve.Retailing at $9,200 USD, the new Pilot's Watch Chronograph 41 Mercedes-AMG PETRONAS Formula One™ Team model will be available via IWC. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e0d4c79ae0974afb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "FIA Declares Red Bull Has F1's Most Powerful Engine in 2026",
+      "url": "https://hypebeast.com/2026/8/fia-says-red-bull-still-holds-f1s-strongest-engine",
+      "publishedAt": "2026-08-28T09:52:37.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "FIA Declares Red Bull Has F1's Most Powerful Engine in 2026 Summary The FIA confirms Red Bull maintains the strongest internal combustion engine after the second 2026 ADUO assessmentMercedes, Audi, Ferrari and Honda are granted additional development tokens while the Milton Keynes outfit receives zero upgrade opportunitiesRankings only measure combustion power and exclude the electrical components that fuel Mercedes' dominant race performance The FIA has officially declared that Red Bull possesses the most powerful internal combustion engine in Formula 1 following the second Additional Development and Upgrade Opportunities assessment of the 2026 season. Released shortly after the Dutch Grand Prix, these latest findings mirror the initial rankings published three months ago. The governing body denied Red Bull the chance to upgrade its power unit despite the team failing to secure a single victory across the first 12 races of the year. This ruling firmly establishes the benchmark for combustion performance under the heavily regulated hybrid era.Introduced alongside the sweeping 2026 engine regulations, the ADUO mechanism aims to level the playing field by granting extra homologated upgrades to manufacturers with a significant power deficit. The most recent analysis determined that Mercedes operates within a two to four percent deficit window relative to the benchmark. Meanwhile Audi, Ferrari and Honda all fall more than four percent behind the leading standard. Consequently the Silver Arrows are permitted one additional upgrade in both 2026 and 2027 while the other three chasing manufacturers receive two development tokens each.The entire evaluation process remains a point of intense contention within the paddock. The current formula exclusively measures the performance of the internal combustion engine rather than calculating the total hybrid output. Electrical elements account for nearly half of total vehicle performance and are completely excluded from the metric. While Red Bull leads the combustion standings thanks to its brand-new engine design and manufacturing facility, the reality on the track paints a different picture. Mercedes has won eight of the twelve races so far this season, leading industry insiders to believe the German manufacturer actually possesses the superior overall power unit package.Limiting upgrade paths based solely on partial power unit data forces teams into complex strategic corners. Denying Red Bull developmental freedom could"
+    },
+    {
+      "id": "d5d995703d2a7bb7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "UEFA Moves to File Criminal Charges Against Gianni Infantino Over FIFA's Collapsed $4.2 Billion USD Deal",
+      "url": "https://hypebeast.com/2026/8/uefa-targets-gianni-infantino-with-criminal-mismanagement-case",
+      "publishedAt": "2026-08-28T09:52:35.000Z",
+      "collectedAt": "2026-08-28T22:00:32.134Z",
+      "text": "UEFA Moves to File Criminal Charges Against Gianni Infantino Over FIFA's Collapsed $4.2 Billion USD Deal Summary UEFA is preparing criminal mismanagement claims in Switzerland against FIFA President Gianni Infantino regarding a scrapped multibillion-dollar investment proposalThe European football governing body filed discovery requests in US federal courts to obtain testimony and documents from entities connected to the dealWhile an immediate tournament boycott has been paused, UEFA confirmed plans to back a challenger in the upcoming FIFA leadership elections The ongoing power struggle between global football governing bodies just escalated into a severe legal confrontation. UEFA is actively preparing to file criminal claims against FIFA President Gianni Infantino in Switzerland. The potential lawsuit centers on alleged criminal mismanagement under Article 158 of the Swiss Criminal Code. This dramatic move follows the recent collapse of the FIFA Forward Enterprise plan. Infantino had proposed transferring commercial rights tied to the World Cup and Club World Cup into a new subsidiary and selling a 20 percent stake to an investor group for $4.2 billion USD. UEFA and several member associations aggressively opposed the transaction.To build its case, UEFA submitted discovery applications in the United States. These filings allow foreign entities to request relevant documents and testimony from American corporations for overseas legal proceedings. The petitions target information from FIFA subsidiaries and Thrive Capital. Thrive Capital founder Joshua Kushner was slated to be the lead investor for the highly controversial deal. UEFA attorneys described the aborted commercial strategy as a stunning dereliction of duty that bypassed standard governance processes. Court documents allege Infantino developed the initiative in secret with a tight circle of advisors and completely sidelined the official FIFA Council.Financial discrepancies form a core component of the impending Swiss lawsuit. UEFA argues that the $4.2 billion USD investment figure implied an absurdly low enterprise valuation of just $20 billion USD for the most lucrative tournaments in international sports. Legal filings point out that the price was never subjected to an open auction or tested by independent financial experts. By contrast, independent market assessments indicate a baseline valuation exceeding $30 billion USD is readily supportable. The European governing body also highlighted a $40"
+    },
+    {
+      "id": "861aeac2d5ed1282",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "IM MEN Crafts Sculpted “LEATHER PLEATS” Shoulder Bags for Fall 2026",
+      "url": "https://hypebeast.com/2026/8/im-man-leather-pleats-shoulder-bag-release-info",
+      "publishedAt": "2026-08-28T09:52:17.000Z",
+      "collectedAt": "2026-08-28T22:00:32.135Z",
+      "text": "IM MEN Crafts Sculpted “LEATHER PLEATS” Shoulder Bags for Fall 2026 Summary IM MEN debuts the LEATHER PLEATS shoulder bag series in two sizes and two colorways.Crafted from supple leather with a pleated design, adjustable straps, and interior pockets.Launches September 1, 2026 via IM MEN stores and ISSEY MIYAKE’s website. IM MEN has introduced its latest accessory release, the “LEATHER PLEATS” shoulder bag, a design that translates the brand’s signature pleated aesthetic into supple leather. The collection arrives in two sizes - large and small - crafted to balance sculptural form with everyday practicality.The larger version accommodates a 13‑inch laptop, making it suitable for commuting, while the smaller option is tailored for essentials such as a phone and wallet. Both models feature zippered interior pockets for organization and adjustable straps with ten settings, ensuring comfort across different styling needs. Offered in Black and Brown bi‑color finishes, the bags are designed to evolve with use, developing richer texture and sheen over time.Set to launch on September 1, 2026, the LEATHER PLEATS shoulder bag series will be available through IM MEN’s official channels, including isseymiyake.com and select IM MEN stores. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "313a08d561b62f29",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jordan Brand Officially Debuts the Air Jordan 41",
+      "url": "https://hypebeast.com/2026/8/jordan-brand-debuts-air-jordan-41-ruby-hv6474-601-official-launch-release-info",
+      "publishedAt": "2026-08-28T09:50:38.000Z",
+      "collectedAt": "2026-08-28T22:00:32.135Z",
+      "text": "Jordan Brand Officially Debuts the Air Jordan 41 Summary Jordan Brand has officially introduced the Air Jordan 41 as its newest game shoe built for full-court performanceThe silhouette debuts a nano print mesh upper alongside a full-length Zoom Strobel ZoomX midsole and a heel Air Zoom unitThe footwear model launches with a limited release in China on August 28 2026 followed by a wider global drop Name: Air Jordan 41 \"Ruby\"Colorway: University Red/Infrared 23SKU: HV6474-601MSRP: $205 USDRelease Date: October 25, 2026Where to Buy: NikeJordan Brand has officially unveiled its newest game shoe, the Air Jordan 41. Marking a distinct evolution from previous heritage designs, the performance silhouette moves beyond traditional leather construction in favor of advanced lightweight materials and future-forward innovation.Engineered using insights from Michael Jordan, professional athletes, and collegiate players, the Air Jordan 41 debuts a new nano print mesh upper designed for targeted containment and breathability. The upper incorporates a cross-hatch pattern capable of receiving dual color treatments, paired with a TPU window inspired by high-performance automobiles to showcase internal tooling. Exterior accents feature an asymmetrical collar alongside metallic Jumpman hardware.Underfoot, the silhouette combines a full-length Zoom Strobel with a ZoomX midsole and an added Air Zoom heel unit for impact protection and responsiveness. Structural stability is provided by a carbon fiber and TPU shank, which works in tandem with a full-length HART rubber herringbone traction pattern. The seasonal rollout centers on a gemstone theme, launching in a \"Ruby\" colorway alongside planned \"Amethyst\" and \"Opal\" iterations.The Air Jordan 41 debuts with a limited release in China on August 28, 2026, with a global release set to follow via Jordan Brand.&nbsp; Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b09cdedd42caa6e7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "eYe JUNYA WATANABE MAN x The North Face",
+      "url": "https://hypebeast.com/2026/8/eye-junya-watanabe-man-the-north-face-collaboration-release-info",
+      "publishedAt": "2026-08-28T09:46:23.000Z",
+      "collectedAt": "2026-08-28T22:00:32.135Z",
+      "text": "eYe JUNYA WATANABE MAN x The North Face Summary The North Face and eYe JUNYA WATANABE MAN reunite for their first global collaboration since 2017.Features a Search and Rescue-vest Mountain Jacket and a workwear-inspired MA-1 Bomber.Available now via The North Face and select retailers. The North Face has reunited with eYe JUNYA WATANABE MAN for a two-piece outerwear collaboration, marking the long-awaited global return of their partnership for the first time since 2017. Fusing Junya Watanabe’s avant-garde structural design with the outdoor giant's technical expertise, the capsule delivers a pair of hybrid jackets rooted in utility, military aesthetic and functional performance.The centerpiece of the drop is a complete reinterpretation of The North Face’s classic Mountain Jacket, which integrates an operational vintage Search and Rescue vest over the main shell. Alongside it, the collection offers a modified MA-1 Bomber Jacket that incorporates weather-resistant technical fabrics inspired by traditional workwear.Retailing between $775 and $1,250 USD, the capsule presents a focused study on utility-driven streetwear. Following an initial launch in Asia and Europe on August 20, 2026, the eYe JUNYA WATANABE MAN x The North Face collection rolled out in the United States on August 27, 2026. Both pieces are available now in limited quantities via thenorthface.com and select global stockists. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b3438c306c6298a0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jack Harlow and New Balance Connect Louisville to New York With the T500 \"Olmsted\"",
+      "url": "https://hypebeast.com/2026/8/jack-harlow-new-balance-t500-olmsted-u5005jd-official-look-release-info",
+      "publishedAt": "2026-08-28T09:33:57.000Z",
+      "collectedAt": "2026-08-28T22:00:32.135Z",
+      "text": "Jack Harlow and New Balance Connect Louisville to New York With the T500 \"Olmsted\" Summary New Balance and Jack Harlow have officially revealed the collaborative T500 \"Olmsted\" sneakerThe design honors landscape architect Frederick Law Olmsted with references to parks in Louisville and New York CityThe silhouette debuts in an exclusive pop-up on August 28 2026 prior to a wider online drop on September 4, 2026 Name: Jack Harlow x New Balance T500 \"Olmsted\"Colorway: Black CoffeeSKU: U5005JDMSRP: $130 USDRelease Date: September 4, 2026Where to Buy: New BalanceNew Balance and Jack Harlow have officially unveiled their latest collaborative sneaker, the Jack Harlow x New Balance T500 \"Olmsted\". The release pays homage to legendary landscape architect Frederick Law Olmsted, designer of New York City’s Central Park and Prospect Park alongside Louisville’s Cherokee Park.Constructed with a minimalist aesthetic, the court silhouette is executed in a tonal brown palette featuring soft, wrinkled leather across the upper in a \"Black Coffee\" shade. The design keeps branding subtle, omitting the traditional tongue tag for a clean finish while placing an inset \"N\" logo along the sidewalls rather than a standard overlay. Additional details include complementary brown laces, a matching translucent sole unit, and a tonally embroidered \"NB\" logo stamped across the heel.Connecting Harlow's upbringing in Louisville to his current residency in New York City, the design honors the shared park systems that defined both environments. The T500 model originally launched in 1982 as part of New Balance’s Technology Transfer Court Collection before returning to the brand's lifestyle lineup.The Jack Harlow x New Balance T500 “Olmsted” will first release at a free pop-up at Cherokee Park in Louisville on August 28, 2026, followed by a wider release on September 4, 2026, via New Balance.&nbsp;View this post on Instagram&nbsp;A post shared by @jackharlow Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "99d08b72ad5650e7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lee Byung-hun and Squid Game Creator Hwang Dong-hyuk Reunite for Sci-Fi Thriller ‘K.O. Club’",
+      "url": "https://hypebeast.com/2026/8/squid-game-lee-byung-hun-hwang-dong-hyuk-reunite-k-o-club",
+      "publishedAt": "2026-08-28T09:33:32.000Z",
+      "collectedAt": "2026-08-28T22:00:32.135Z",
+      "text": "Lee Byung-hun and Squid Game Creator Hwang Dong-hyuk Reunite for Sci-Fi Thriller ‘K.O. Club’ Summary Lee Byung-hun is reuniting with Squid Game creator Hwang Dong-hyuk to lead the sci-fi thriller K.O. ClubThe film is Hwang's first feature in nearly ten years and centers on a near-future generational war over the ability to buy biological youthFellow Squid Game alum Park Hae-soo joins an ensemble that also includes Oh Jung-se, Cho Yeo-jeong and Kim So-jin Lee Byung-hun is reuniting with Squid Game creator Hwang Dong-hyuk, this time on the big screen, to headline the sci-fi thriller K.O. Club. The project marks Hwang's first feature film in nearly a decade, with his production company Firstman Studio, which he runs with producer Kim Ji-yeon, confirming the casting and targeting a filming start in the first half of 2027.Lee is stepping back into Hwang's orbit after playing the Front Man across the Squid Game franchise, and he is not making the jump alone. The lineup also features Park Hae-soo, another face from the Squid Game world, alongside three actors coming into Hwang's fold for the first time: Oh Jung-se of It's Okay to Not Be Okay, Cho Yeo-jeong of Parasite and Kim So-jin of The Man Standing Next.The story trades the deadly playground of Squid Game for a dystopian near-future, but keeps the class conflict that runs through Hwang's work. In K.O. Club, wealth can purchase biological youth, and the film sets an aging elite that hoards money and power against a younger generation shut out of both. The title itself lays the premise bare: K.O. Club is shorthand for \"Killing Oldmen Club,\" a name that names the generational war at the center of the plot.Firstman Studio made its name helping carry Squid Game to a worldwide audience and has since moved into television with the series Affairs Not the Only Secret. K.O. Club now stands as the company's return to feature production, made hand in hand with its founder.For Hwang, the film caps a period of enormous visibility. Squid Game ran for three seasons on Netflix and became one of the platform's most-watched titles anywhere, and it leaves him one of Korean entertainment's most closely tracked names as he pivots back to cinema.K.O. Club is targeting a filming start in the first half of 2027. Stay tuned for an official trailer and release date. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "323091064126ee2b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ANA Sends Its “Pokémon Jet Green” Onto International Routes for ‘Pokémon's’ 30th Anniversary",
+      "url": "https://hypebeast.com/2026/8/ana-japan-pokemon-jet-green-international-flights-routes-announcement-info",
+      "publishedAt": "2026-08-28T09:33:29.000Z",
+      "collectedAt": "2026-08-28T22:00:32.135Z",
+      "text": "ANA Sends Its “Pokémon Jet Green” Onto International Routes for ‘Pokémon's’ 30th Anniversary Summary ANA is putting its new Pokémon Jet Green special-livery aircraft into scheduled international service as part of its Pokémon 30th-anniversary projectThe Boeing 787-9 begins flying on September 18 and is slated to operate through late March 2027A second Pokémon GO collaboration launches the same day, adding ANA-designed PokéStops and Gyms at 14 airports ANA is taking its Pokémon partnership across borders, sending the new \"Pokémon Jet Green\" special-livery aircraft into scheduled international service beginning September 18. The jet is the second phase of the ANA x Pokémon 30th anniversary project, and rather than confine the design to domestic hops, ANA is putting it on overseas routes so the collaboration's world travels with the plane.The aircraft carrying the livery is a Boeing 787-9, registration JA923A, and ANA has set it to operate on international routes from September 18 through March 27, 2027. There is a deliberate catch for plane spotters and fans hoping to book a seat: the specific routes shift day to day depending on operations and are not locked in until the day itself, so ANA is not publishing a fixed destination list. The carrier also notes that the assigned aircraft can change at short notice for operational reasons, and that, for aviation-security reasons, crew won't sign autographs or write messages in log books.The 30th anniversary framing is what ties the effort together. ANA has a long history of flying Pokémon-themed jets, a lineage stretching back to the late 1990s that has made the \"Pokémon Jet\" one of the most recognizable brand tie-ups in commercial aviation. Positioning the newest entry on international service leans into that legacy at a milestone moment, extending a franchise celebration well beyond Japan's borders.On the ground, the initiative extends into gaming. ANA is launching a second Pokémon GO collaboration on the same September 18 date, rolling out ANA-designed PokéStops and Gyms, the latter hosting Raid Battles, across 14 airports: Kochi, Matsuyama, Takamatsu, Tokushima, Fukuoka, Saga, Miyazaki, Kumamoto, Kagoshima, Nagasaki, Oita, Ishigaki, Miyako and Naha. At those airports, players can encounter Pokémon set against a special location background tied specifically to the Pokémon Jet Green collaboration, turning a layover into part of the campaign.The Pokémon Jet Green enters international service on September 18 opera"
+    },
+    {
+      "id": "149fbcefe07c728e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Globe-Trotter Restores 1-of-1 Vintage Trunks for the Second “Renewed Edit” Drop",
+      "url": "https://hypebeast.com/2026/8/globe-trotter-the-restoration-edit-second-drop-release-info",
+      "publishedAt": "2026-08-28T09:32:04.000Z",
+      "collectedAt": "2026-08-28T22:00:32.135Z",
+      "text": "Globe-Trotter Restores 1-of-1 Vintage Trunks for the Second “Renewed Edit” Drop Summary Globe-Trotter debuts drop two of The Renewed Collection, offering hand-restored 1-of-1 vintage luggage.Handcrafted in Hertfordshire from Vulcanised Fibreboard, featuring original patinas, travel stickers, and leather trims.Available now exclusively online. British luxury luggage house Globe-Trotter has introduced the second drop of The Renewed Collection, the foundational release under its circular initiative, The Restoration Edit. Following the immediate sell-out of its initial launch, this second release brings forward a newly curated series of one-of-a-kind vintage suitcases, each painstakingly restored by hand at the brand’s Hertfordshire workshop.Handcrafted using Globe-Trotter’s proprietary Vulcanised Fibreboard and reinforced with vegetable-tanned leather, the pieces are renewed using original manufacturing techniques that date back to 1897. Rather than erasing age, the restoration process carefully repairs essential hardware and structural elements while preserving the unique patina, travel stickers and historical character that make each piece a singular living archive.Notable highlights in the new drop include vibrant orange, cream, and sky-blue colorways, featuring contrasting leather straps, custom lining patterns, and original travel decals from historic airlines. Because every restored trunk is entirely unique, each piece exists as a true 1-of-1. The second drop of The Renewed Collection is available exclusively online via yhe brand's website, with Globe-Trotter set to expand the initiative later this year through \"The Archive,\" a forthcoming release of exceptionally rare historic pieces curated directly from the brand’s heritage vaults. Click here to view full gallery at Hypebeast"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-27",
+    "id": "2026-08-28",
     "mode": "live",
-    "displayDate": "AUG 27, 2026, 06:03 PM EDT",
-    "generatedAt": "2026-08-27T22:03:41.541Z",
-    "itemsCollected": 55,
+    "displayDate": "AUG 28, 2026, 06:00 PM EDT",
+    "generatedAt": "2026-08-28T22:00:33.385Z",
+    "itemsCollected": 53,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 6
+        "count": 14
       },
       {
         "source": "Hypebeast",
@@ -31,12 +31,12 @@
       "name": "Decorated basics",
       "stage": "emerging",
       "score": 100,
-      "confidence": 54,
-      "youthRelevance": 66,
+      "confidence": 59,
+      "youthRelevance": 77,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "5 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "5 observations · 2 independent sources · +400% seven-day velocity",
+      "whyNow": "6 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "6 observations · 2 independent sources · +500% seven-day velocity",
       "citations": [
         {
           "title": "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
@@ -45,10 +45,10 @@
           "url": "https://www.vogue.com/slideshow/dolly-parton-quotes-on-life-love-and-everything-in-between"
         },
         {
-          "title": "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary",
+          "title": "ASICS Taps Gohar World for an Edgy, Charm-Covered Sneakerina",
           "source": "Hypebeast",
-          "date": "Aug 24",
-          "url": "https://hypebeast.com/2026/8/pokemon-crocs-classic-platform-clog-jigglypuff-213869-90h-release-info"
+          "date": "Aug 28",
+          "url": "https://hypebeast.com/2026/8/gohar-world-asics-gel-ds-trainer-sp-collaboration-release-info"
         }
       ]
     },
@@ -82,12 +82,12 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0827",
+    "code": "AUTO 0828",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
       "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
-      "‘Pokémon’ and Crocs Give Jigglypuff a Platform Sole and a Face-Molded Toe for the 30th Anniversary"
+      "ASICS Taps Gohar World for an Edgy, Charm-Covered Sneakerina"
     ]
   }
 }
