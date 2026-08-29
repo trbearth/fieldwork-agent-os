@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-08-28
+# Fieldwork Public Pulse — 2026-08-29
 
 ## 1. Quiet performance
 
@@ -22,9 +22,17 @@
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
 
+## 3. Washed tailoring
+
+**emerging · score 19 · confidence 42% · youth 46%**
+
+1 public posts · 1 network · 7-day comparison
+
+- [Classic elegance with a warm smile. A timeless frontal portrait pairing structured three-piece tailo](https://pixelfed.social/p/tjb.picture/999327036713688248) — Mastodon
+
 ## Network status
 
-- **mastodon:** ready — 17 observations
+- **mastodon:** ready — 18 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

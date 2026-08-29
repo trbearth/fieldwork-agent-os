@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-08-28",
+    "id": "social-2026-08-29",
     "mode": "live",
-    "generatedAt": "2026-08-28T22:00:43.591Z",
-    "postsCollected": 17,
+    "generatedAt": "2026-08-29T16:30:46.590Z",
+    "postsCollected": 18,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -71,13 +71,30 @@
           "network": "Mastodon"
         }
       ]
+    },
+    {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "stage": "emerging",
+      "score": 19,
+      "confidence": 42,
+      "youthRelevance": 46,
+      "velocity": 0,
+      "evidence": "1 public posts · 1 network · 7-day comparison",
+      "citations": [
+        {
+          "title": "Classic elegance with a warm smile. A timeless frontal portrait pairing structured three-piece tailo",
+          "url": "https://pixelfed.social/p/tjb.picture/999327036713688248",
+          "network": "Mastodon"
+        }
+      ]
     }
   ],
   "networkStatus": [
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "17 observations"
+      "reason": "18 observations"
     },
     {
       "id": "bluesky",
