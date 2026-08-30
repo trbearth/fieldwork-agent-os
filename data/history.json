@@ -1163,6 +1163,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-08-30",
+      "mode": "live",
+      "displayDate": "AUG 30, 2026, 12:24 PM EDT",
+      "generatedAt": "2026-08-30T16:24:20.290Z",
+      "itemsCollected": 22,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 13
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 100,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -18391,6 +18428,248 @@
       "publishedAt": "2026-08-29T02:00:40.000Z",
       "collectedAt": "2026-08-29T16:30:35.894Z",
       "text": "The Tamagotchi Ring Puts ’90s Nostalgia Right at Your Fingertips Summary Bandai launches the Tamagotchi Ring, a compact, finger‑sized wearable that features a color display, touch controls and customizable styles.Retains classic pet‑care gameplay while adding new animations and trendy finishes. Bandai has officially unveiled the Tamagotchi Ring, a new wearable that reimagines the iconic virtual pet experience in a compact, finger‑sized format. Launching in late August 2026, the device features a color display, touch controls and a streamlined design that allows users to care for their Tamagotchi discreetly throughout the day. Unlike the traditional egg‑shaped handhelds, the ring integrates seamlessly into everyday fashion, offering both playful nostalgia and modern convenience.The Tamagotchi Ring comes in multiple styles and finishes, including metallic and translucent options, appealing to collectors and casual fans alike. Beyond its design, the device retains the core gameplay of feeding, nurturing, and interacting with digital pets, while adding new animations and customization features. For more insights and specific release details, check out Bandai's official website and official channels. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b3f7c5bdaff712c6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Did Minimalism-Versus-Maximalism",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-nicole-kidman-celine-dion-yara-shahidi",
+      "publishedAt": "2026-08-30T15:55:43.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "The Best Dressed Stars of the Week Did Minimalism-Versus-Maximalism From Celine Dion to Nicole Kidman: simple and sleek looks sat alongside over-the-top finishes this week."
+    },
+    {
+      "id": "c1e4588f27db2b45",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Claudia Sulewski and Finneas Are Married! Inside the Bride’s Final Fitting at Oscar de la Renta",
+      "url": "https://www.vogue.com/article/the-final-fitting-claudia-sulewski",
+      "publishedAt": "2026-08-30T13:00:00.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "Claudia Sulewski and Finneas Are Married! Inside the Bride’s Final Fitting at Oscar de la Renta On Saturday, the beauty founder and musician tied the knot in Santa Barbara—but only after the bride invited Vogue along to the final fitting of her four Oscar de la Renta wedding looks in Beverly Hills."
+    },
+    {
+      "id": "146cad6934d338f8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "All the Celebrity Sightings at the 2026 U.S. Open",
+      "url": "https://www.vogue.com/slideshow/celebrity-sightings-at-the-2026-us-open",
+      "publishedAt": "2026-08-30T12:32:25.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "All the Celebrity Sightings at the 2026 U.S. Open The annual tennis event has turned into an opportunity for stars to step out in their best courtside looks."
+    },
+    {
+      "id": "abf1cc38bfb71b3e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Game, Set, Manicure: The Best Tennis-Themed Nails To Try For The US Open",
+      "url": "https://www.vogue.com/article/tennis-themed-nails",
+      "publishedAt": "2026-08-30T11:30:00.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "Game, Set, Manicure: The Best Tennis-Themed Nails To Try For The US Open The US Open is here and what better way to celebrate the tennis tournament than by using it as inspiration for your next manicure? Find all the best tennis-core nail art here."
+    },
+    {
+      "id": "f6e043d0d68a2144",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Bob-ell Roan Is Chappell Roan in Her Truest Form",
+      "url": "https://www.vogue.com/article/chappell-roan-bob-hair-daisy-chain-fields-festival",
+      "publishedAt": "2026-08-30T10:33:37.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "Bob-ell Roan Is Chappell Roan in Her Truest Form Performing at Olivia Rodrigo’s Daisy Chain Fields Festival, Chappell Roan returned to a sleek, razor-sharp bob with bangs."
+    },
+    {
+      "id": "bfa3f9aeddec646c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class",
+      "url": "https://www.vogue.com/article/what-to-wear-to-pilates",
+      "publishedAt": "2026-08-30T10:00:00.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class Kickstart your workout with the best pilates clothes and gear, as recommended by experts themselves, from Alo, Free People, Lululemon, and more."
+    },
+    {
+      "id": "c502db04e7a308e3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "6 of the Best Rom-Coms That Borrow From Shakespeare",
+      "url": "https://www.vogue.com/article/best-rom-coms-that-borrow-from-shakespeare",
+      "publishedAt": "2026-08-30T10:00:00.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "6 of the Best Rom-Coms That Borrow From Shakespeare Millennials, wake up! Lena Dunham and Carly Rae Jepson’s musical adaptation of “10 Things I Hate About You” lands next year! Here are the best Shakespearean rom-coms to watch while you wait."
+    },
+    {
+      "id": "f204c2e9f682d72e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Amidst Tears and Fanfare, Roger Federer Is Inducted Into the International Tennis Hall of Fame in Newport",
+      "url": "https://www.vogue.com/article/roger-federer-international-tennis-hall-of-fame",
+      "publishedAt": "2026-08-30T04:02:30.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "Amidst Tears and Fanfare, Roger Federer Is Inducted Into the International Tennis Hall of Fame in Newport With a crowd of thousands there to witness history, Federer, long a member-in-waiting, made it official."
+    },
+    {
+      "id": "0655907b524cb0ed",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Olivia Rodrigo’s First Daisy Chain Fields Festival Look Comes With a Feminist Message",
+      "url": "https://www.vogue.com/article/olivia-rodrigo-first-daisy-chain-fields-festival-look",
+      "publishedAt": "2026-08-29T20:31:29.000Z",
+      "collectedAt": "2026-08-30T16:24:16.110Z",
+      "text": "Olivia Rodrigo’s First Daisy Chain Fields Festival Look Comes With a Feminist Message The pop star kicked off the inaugural women-led festival with the announcement that they’ve raised $10 million for women-focused non-profits."
+    },
+    {
+      "id": "00ec370bb9b71bfa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kendall Jenner’s Latest Accessory: Finn Jenner (-Elordi?)",
+      "url": "https://www.vogue.com/article/kendall-jenner-latest-accessory-finn-the-dog",
+      "publishedAt": "2026-08-29T17:20:27.000Z",
+      "collectedAt": "2026-08-30T16:24:16.111Z",
+      "text": "Kendall Jenner’s Latest Accessory: Finn Jenner (-Elordi?) Stepping out in LA after a jaunt to London, the model dressed mostly in The Row, with a miniature wire-haired dachshund peeking out from the Tori tote."
+    },
+    {
+      "id": "ca3ecfe9d8226c69",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Had A Private Tennis Lesson From Grand Slam Champion Stan Wawrinka Inside The Waldorf Astoria Ballroom",
+      "url": "https://www.vogue.com/article/waldorf-astoria-ballroom-tennis-stan-wawrinka",
+      "publishedAt": "2026-08-29T17:14:05.000Z",
+      "collectedAt": "2026-08-30T16:24:16.111Z",
+      "text": "I Had A Private Tennis Lesson From Grand Slam Champion Stan Wawrinka Inside The Waldorf Astoria Ballroom First, I saw Ben Shelton, Tommy Paul, Leylah Fernandez, and Maria Sakkari play an exhibition; then I took to the court myself with the former US Open champion."
+    },
+    {
+      "id": "a65c82f8534d5ecd",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Killer Trail Sneaker Is Still a Beauty With the Lights Off",
+      "url": "https://www.highsnobiety.com/p/nike-acg-zegama-trail-gore-tex-black/",
+      "publishedAt": "2026-08-29T16:46:05.000Z",
+      "collectedAt": "2026-08-30T16:24:17.446Z",
+      "text": "Nike's Killer Trail Sneaker Is Still a Beauty With the Lights Off Nike cooks up an all-black version of its ACG Zegama Trail GORE-TEX sneaker. It's quiet on the outside, still an outdoor-ready beast on the inside."
+    },
+    {
+      "id": "a0bbac41a56f0621",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: ANCELLM",
+      "url": "https://hypebeast.com/2026/8/new-arrivals-from-hbx-ancellm",
+      "publishedAt": "2026-08-30T14:16:23.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "New Arrivals From HBX: ANCELLM Brand Information: Founded in 2021, this fashion brand from Japan has a concept of “Proposals for changes over time from a different perspective”. The idea is that after repeated wear, the item will undergo further changes and grow into a unique item, creating value that changes over time. Involving in the choice of fabrics, design, and the production process, ANCELLM values the importance of the material and craftsmanship on every piece. ANCELLM is now gaining ground in Japan, entering many well-known select shops and e-commerce platforms, and earned its place in the Japanese fashion brand industry.Price Range: $120.00 USD - $615.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b2b5ac62022404b7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JENNIE Releases Three-Track EP 'Fallen Angel'",
+      "url": "https://hypebeast.com/2026/8/jennie-three-track-ep-fallen-angel-music-video-release-info",
+      "publishedAt": "2026-08-30T09:23:50.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "JENNIE Releases Three-Track EP 'Fallen Angel' JENNIE has officially released her new solo digital EP, Fallen Angel. The three-track project released via her label Odd Atelier in partnership with Columbia Records, accompanied by a dark, fairytale-inspired music video for the title track.Described as a personal project reflecting self-expression, the release balances contrasting visual themes of light and dark. The cinematic music video for \"Fallen Angel\" utilizes surreal foggy landscapes, warped architecture, and heavy visual effects to build its narrative. A disclaimer accompanying the clip confirms that all featured fire was produced using CG visual effects and that scenes with minors were filmed under strict safety supervision.In addition to the title track, the digital EP includes \"Heaven\"—which the artist previously debuted during her headline set at the Open’er Festival in Gdynia, Poland—and the summer-inspired track \"Less Than a Lover.\"JENNIE’s Fallen Angel EP is available now to stream across major digital platforms. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "81222fe5366f6892",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jordan Brand Honors the U.K. Hoop Scene With the Air Jordan 4 \"London\"",
+      "url": "https://hypebeast.com/2026/8/air-jordan-4-london-iv6048-001-official-look-release-info",
+      "publishedAt": "2026-08-30T08:38:59.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "Jordan Brand Honors the U.K. Hoop Scene With the Air Jordan 4 \"London\" Summary Jordan Brand is releasing the Air Jordan 4 \"London\" colorwayThe sneaker trades standard nubuck for shaggy gray suede with rust-colored accents and a transparent mustache layerThe silhouette officially launches on September 12 2026 for $220 USD Name: Air Jordan 4 \"London\"Colorway: Black/Red Bark/Dark Smoke Grey/Smoke Grey/HempSKU: IV6048-001MSRP: $230 USDRelease Date: September 12, 2026Where to Buy: NikeJordan Brand has officially revealed a regional exclusive with the Air Jordan 4 \"London\". The sneaker commitment follows the announcement of the London Lions becoming the first British basketball team outfitted by the brand.The regional design shifts away from the silhouette's traditional nubuck upper, opting for a textured shaggy gray suede construction. Monochromatic styling carries through the upper with lighter gray eyestay clips and side netting, complemented by a black midsole, TPU wings, and interior lining. A rust-brown shade accents the outsole along with branding on the tongue and heel, paired with a sandy hue wrapping the heel portion of the midsole.The sneaker's most notable detail sits on the heel mustache, which overlays raised, translucent \"Air\" text directly above a visible \"LDN\" graphic. Adding a subtle touch to the interior, a hidden tag on the inner tongue features the phrase \"Say Less.\" This U.K.-focused drop arrives alongside other regional efforts from the brand aimed at expanding its international footprint within European basketball culture.The Air Jordan 4 “London” will release on September 12, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "16a8a66561a81027",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lando Norris Docuseries Is Coming To Prime Video",
+      "url": "https://hypebeast.com/2026/8/lando-norris-docuseries-coming-to-prime-video-announcement",
+      "publishedAt": "2026-08-30T07:30:58.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "Lando Norris Docuseries Is Coming To Prime Video Summary Prime Video has officially announced a three-part docuseries following reigning Formula 1 world champion Lando NorrisProduced by Box to Box Films the project captures the 26-year-old driver defending his title while detailing his personal lifeThe docuseries is currently in production and is scheduled to premiere globally next year Prime Video has officially greenlit a three-part docuseries centered on reigning Formula 1 world champion Lando Norris. The upcoming project—currently operating under the working title Lando—promises unprecedented access to the 26-year-old British driver's personal life beyond the paddock.Produced by Box to Box Films, the series follows Norris as he defends his championship crown while offering an intimate look at his world leading up to his 27th birthday. The narrative traces his career path from his early karting days in Bristol through his rise in global motorsport, juxtaposing the high-stakes pressure of Grand Prix racing with candid moments alongside friends and family.Norris remains actively involved in the development of the project, which is executive produced by Tom Keeling, Warren Smith, and Jon Smith. Clare Little serves as series producer, with Ben Phethean directing the three-part feature.The untitled Lando Norris docuseries is scheduled to premiere globally on Prime Video next year. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d3a744ee506c7688",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jordan Brand Brings the Air Jordan 3 Mid TD Cleat to the Gridiron in \"Metallic Silver\"",
+      "url": "https://hypebeast.com/2026/8/air-jordan-3-td-cleats-metallic-silver-fz8626-002-official-look-release-info",
+      "publishedAt": "2026-08-30T06:20:50.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "Jordan Brand Brings the Air Jordan 3 Mid TD Cleat to the Gridiron in \"Metallic Silver\" Summary Jordan Brand is releasing the Air Jordan 3 Mid TD cleat in a sleek monochromatic Metallic Silver colorwayThe design pairs a tumbled leather upper with elephant-print overlays and a gridiron-ready TD cleated outsoleThe model features an Air Zoom forefoot unit and wide stud placement for speed and quick cuts on turf and grass Name: Air Jordan 3 TD Cleats \"Metallic Silver\"Colorway: Metallic Silver/White-BlackSKU: FZ8626-002MSRP: $205 USDRelease Date: September 10, 2026Where to Buy: NikeJordan Brand has officially unveiled its latest gridiron footwear release, the Air Jordan 3 Mid TD \"Metallic Silver\". The performance cleat brings Michael Jordan's third signature basketball silhouette to the football field in a shimmering monochromatic finish.Constructed with a premium tumbled leather upper, the football-ready model maintains the core aesthetic of the original basketball shoe, featuring signature elephant-print textured overlays alongside Jumpman branding on the tongue and heel. A uniform Metallic Silver shade covers the upper, tongue, and overlays, offering a clean colorway designed to complement any team uniform.Underfoot, the classic basketball tooling is replaced with a cleated TD outsole plate built specifically for traction on grass and turf. Engineered for field performance, the boot incorporates wide stud placements for fast accelerations and lateral cuts, paired with an Air Zoom unit embedded in the forefoot for responsive four-quarter cushioning.The Air Jordan 3 Mid TD \"Metallic Silver\" officially releases on September 10, 2026, for $205 USD via SNKRS and select Jordan Brand retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "14ea46f4e2f02070",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ridley Scott Announces Third 'Alien' Prequel Centering on Michael Fassbender's David",
+      "url": "https://hypebeast.com/2026/8/ridley-scott-announces-third-alien-prequel-centering-michael-fassbender-david-news",
+      "publishedAt": "2026-08-30T06:12:24.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "Ridley Scott Announces Third 'Alien' Prequel Centering on Michael Fassbender's David Summary Ridley Scott has confirmed plans to direct a third 'Alien' prequel centered on Michael Fassbender's android character DavidThe upcoming narrative follows David as he attempts to establish a brave new world for himself following the events of 'Alien Covenant'The announcement arrives alongside Scott's broader reflection on artificial intelligence during a recent interview Director Ridley Scott has officially confirmed development on a third Alien prequel feature. The filmmaker revealed details regarding the project during an interview with the L.A. Times.The planned project will focus on David, the malfunctioning AI android portrayed by Michael Fassbender in Prometheus and Alien: Covenant. According to Scott, the narrative follows David as he attempts to create a \"brave new world for himself\" following his previous efforts to manipulate synthetic and biological evolution.Addressing his ongoing thematic obsession with artificial intelligence—a subject explored across his filmography from Alien to Blade Runner—Scott reflected on the real-world evolution of AI technology. The director noted that while he does not currently use AI in his creative process, he views synthetic intelligence as an unpredictable force capable of outpacing human control. The film joins a slate of upcoming projects from Scott, including The Dog Stars starring Jacob Elordi and a Treasure Island adaptation featuring Hugh Jackman.Official production schedules and release dates for the third Alien prequel have not yet been announced. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a17c88d96ce44570",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Converse Unveils the SHAI 001 in \"Ghosted\"",
+      "url": "https://hypebeast.com/2026/8/converse-shai-001-ghosted-a23976c-official-look-release-info",
+      "publishedAt": "2026-08-30T04:41:18.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "Converse Unveils the SHAI 001 in \"Ghosted\" Summary Converse and Shai Gilgeous-Alexander have revealed the upcoming SHAI 001 in a Ghosted colorwayThe silhouette features a white zippered upper paired with a subtle Dream Yellow tongue detailThe sneaker officially releases on September 24 2026 for a retail price of $140 USD Name: Converse SHAI 001 \"Ghosted\"Colorway: Ghosted/Dream YellowSKU: A23976CMSRP: $140 USDRelease Date: September 24, 2026Where to Buy: ConverseConverse has officially revealed the latest colorway for Shai Gilgeous-Alexander's first signature sneaker, the Converse SHAI 001 \"Ghosted\". The upcoming release brings a stripped-back, minimalist aesthetic to the NBA star's signature silhouette.The design presents a clean, mostly white upper spanning from the toe through the heel, incorporating the silhouette's familiar zippered build and tonal Converse Star branding at the back. By maintaining a sleek monochromatic exterior, the shoe places primary visual focus directly on its structural shape.Subtle contrast appears beneath the shroud, where the underlying tongue is finished in a \"Dream Yellow\" hue. The accent is completed with Gilgeous-Alexander’s signature double-2 logo embroidered on the tongue in white. Arriving amid ongoing questions regarding Gilgeous-Alexander’s future partnership with the brand, the pair offers a refined option within the current SHAI 001 release calendar.The Converse SHAI 001 “Ghosted” releases on September 24, 2026, for $140 USD in unisex sizing via Converse and select retailers online and in-store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "baaa7827c79e5eba",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Pharrell x adidas Adistar Jellyfish Receives a Vibrant \"Red\" Colorway",
+      "url": "https://hypebeast.com/2026/8/pharrell-adidas-adistar-jellyfish-red-kk0633-first-look-release-info",
+      "publishedAt": "2026-08-30T02:42:21.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "Pharrell x adidas Adistar Jellyfish Receives a Vibrant \"Red\" Colorway Summary adidas and Pharrell Williams are expanding their collaborative VIRGINIA project with a new red Adistar Jellyfish colorwayThe sneaker features a two-tone red upper paired with contrasting black Three Stripes and subtle grey detailsThe Pharrell x adidas Adistar Jellyfish Red is expected to launch on October 24 2026 for $300 USD Name: Pharrell x adidas Adistar Jellyfish \"Red\"Colorway: Red/Core BlackSKU: KK0633MSRP: $300 USDRelease Date: October 24, 2026Where to Buy: adidasadidas and Pharrell Williams have revealed their latest collaborative colorway, the Pharrell x adidas Adistar Jellyfish \"Red\". The upcoming release expands the duo's ongoing VIRGINIA project lineup for Fall 2026.The silhouette is constructed using two distinct shades of red across its upper. A brighter red hue coats the outer overlays and toe box, while \"Team Victory Red\" fills in the base material and select sections of the sculpted midsole. Contrasting black Three Stripes run along the sidewalls, complemented by grey accents surrounding the shoe's raised structural panels.Taking design cues from the archival adidas Adistar Cushion, the Adistar Jellyfish maintains a signature bulky silhouette. This red iteration shifts away from the traditional color palettes seen on earlier drops, placing an emphasis on the model's layered panelling and exaggerated tooling.The Pharrell x adidas Adistar Jellyfish \"Red\" is expected to release on October 24, 2026, for $300 USD via adidas and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ce6693db4d45f815",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nicole McLaughlin Upcycles Vintage Oakley Golf Bags Into Custom Outerwear",
+      "url": "https://hypebeast.com/2026/8/nicole-mclaughlin-upcycles-vintage-oakley-golf-bags-custom-leather-jackets-outerwear",
+      "publishedAt": "2026-08-30T01:19:30.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "Nicole McLaughlin Upcycles Vintage Oakley Golf Bags Into Custom Outerwear Summary Nicole McLaughlin has revealed her latest upcycling project transforming vintage Oakley golf bags into custom outerwearThe design process deconstructs original straps pockets oversized logos and technical panels into a pair of one-off jacketsProfessional golfer Paris Hilinski was recently spotted wearing one of the completed custom creations on the course Designer Nicole McLaughlin has officially revealed her latest upcycling project, crafting custom Oakley Golf Bag Jackets from vintage equipment. Known for her functional transformations of sports gear, McLaughlin’s newest experiment turns archival golf bags into a pair of one-off wearable jackets.McLaughlin takes to Instagram to show the process of transforming the bags into leather motocross-inspired leather jackets. Starting with a collection of vintage Oakley golf bags, McLaughlin dismantled the original builds while still taking into account the branding, to repurpose their core functional elements. The resulting outerwear pieces integrate the bags' oversized brand logos, utility pockets, carrying straps, and durable technical panels directly into the jacket silhouettes. By retaining these structural details, the custom designs preserve the distinct visual language and hardware of the original golf gear.Bringing the experiment back onto the green, one of the finished custom jackets was recently worn by professional golfer Paris Hilinski, highlighting the practical utility of the upcycled technical concept.Take a look at the finished product above or below.&nbsp;View this post on Instagram&nbsp;A post shared by nm (@nicolemclaughlin) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f6d778c2c32d410f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: NÒMARHYTHM TEXTILE",
+      "url": "https://hypebeast.com/2026/8/new-arrivals-from-hbx-nomarhythm-textile",
+      "publishedAt": "2026-08-30T00:52:21.000Z",
+      "collectedAt": "2026-08-30T16:24:19.027Z",
+      "text": "New Arrivals From HBX: NÒMARHYTHM TEXTILE Brand Information: Launched in 2005 by Masako Noguchi and Takuma Sasaki, NÒMARHYTHM TEXTILE redefines fabrics with a minimalist, individualistic aesthetic. Known for iconic patterns like \"Draw Your Garden\" florals and \"Butterfly’s Revenge,\" the Tokyo-based label emphasizes textile innovation, collaborating with brands like Engineered Garments. In 2025, it marked 20 years with a renewed focus on its textile-driven identity.Price Range: $160.00 USD - $715.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
     }
   ]
 }
