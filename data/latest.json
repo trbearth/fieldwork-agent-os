@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-08-30",
+    "id": "2026-08-31",
     "mode": "live",
-    "displayDate": "AUG 30, 2026, 12:24 PM EDT",
-    "generatedAt": "2026-08-30T16:24:20.290Z",
-    "itemsCollected": 22,
+    "displayDate": "AUG 31, 2026, 02:59 PM EDT",
+    "generatedAt": "2026-08-31T18:59:46.489Z",
+    "itemsCollected": 43,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -20,23 +20,43 @@
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 48,
+      "confidence": 24,
+      "youthRelevance": 73,
+      "direction": "up",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Everything Dropping at Palace This Week",
+          "source": "Hypebeast",
+          "date": "Aug 31",
+          "url": "https://hypebeast.com/2026/8/palace-skateboards-fall-2026-drop-5-release-info"
+        }
+      ]
+    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 100,
-      "confidence": 59,
-      "youthRelevance": 77,
-      "direction": "up",
+      "score": 45,
+      "confidence": 48,
+      "youthRelevance": 68,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "6 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "6 observations · 2 independent sources · +500% seven-day velocity",
+      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
       "citations": [
         {
           "title": "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
@@ -45,49 +65,28 @@
           "url": "https://www.vogue.com/slideshow/dolly-parton-quotes-on-life-love-and-everything-in-between"
         },
         {
-          "title": "ASICS Taps Gohar World for an Edgy, Charm-Covered Sneakerina",
+          "title": "Supreme Celebrates Larry Clark's 'Tulsa' Legacy in New FW26 Collaboration",
           "source": "Hypebeast",
-          "date": "Aug 28",
-          "url": "https://hypebeast.com/2026/8/gohar-world-asics-gel-ds-trainer-sp-collaboration-release-info"
-        }
-      ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 38,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Marmot and KEEN Build Their First Collaboration on the Waterproof Targhee EXP WP Hiking Boot",
-          "source": "Hypebeast",
-          "date": "Aug 25",
-          "url": "https://hypebeast.com/2026/8/marmot-keen-targhee-exp-wp-black-red-1032965-release-info"
+          "date": "Aug 31",
+          "url": "https://hypebeast.com/2026/8/supreme-larry-clark-collaboration-fall-2026-release-info"
         }
       ]
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Decorated basics",
+    "reason": "3 mentions this week versus 5 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Quiet performance moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0830",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 0831",
+    "name": "Quiet performance",
+    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
-      "ASICS Taps Gohar World for an Edgy, Charm-Covered Sneakerina"
+      "Everything Dropping at Palace This Week"
     ]
   }
 }
