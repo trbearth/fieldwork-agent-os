@@ -1237,6 +1237,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-01",
+      "mode": "live",
+      "displayDate": "SEP 01, 2026, 12:21 PM EDT",
+      "generatedAt": "2026-09-01T16:21:04.009Z",
+      "itemsCollected": 55,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 8
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 48,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 45,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -19180,6 +19222,611 @@
       "publishedAt": "2026-08-31T09:25:12.000Z",
       "collectedAt": "2026-08-31T18:59:45.223Z",
       "text": "Analysts Estimate 'GTA VI's' Budget Exceeds $1 Billion USD, Making It the Costliest Entertainment Product Ever Summary Grand Theft Auto VI is projected to be the most expensive entertainment production in history, with analyst estimates placing the development budget between $1 billion and $1.5 billionRockstar North co-head Aaron Garbut revealed the title features over 600,000 unique animations, facilitated by a dedicated Los Angeles team focused on hand-crafting individual NPCsFollowing multiple delays, the game is officially scheduled for a November 19, 2026 release on PlayStation 5 and Xbox Series X|S amid ongoing legal claims regarding alleged union busting Grand Theft Auto VI looks set to become the most expensive entertainment product ever created. Rockstar Games has not publicly disclosed the exact financial investment, but industry analysts peg the estimated budget at well over $1 billion USD. Some current estimates place the figure closer to $1.5 billion USD. This massive financial commitment outpaces the known budgets of major Hollywood theatrical releases and sets a new benchmark for AAA game development. To contextualize this scale, recent court documents revealed that Sony Interactive Entertainment spent $212 million USD on Horizon Forbidden West and $220 million USD on The Last of Us: Part II, while Activision invested roughly $700 million USD into Call of Duty: Black Ops Cold War over its life cycle.A billion-dollar budget stems directly from the modern realities of game development and a production schedule spanning nearly a decade. Creating an expansive open-world environment requires vast teams of actors, writers, programmers, animators, designers and composers. Rockstar established a specialized Los Angeles-based team specifically to art-direct every individual non-player character. Studio co-head Aaron Garbut noted in a recent interview that this technical ambition pushed the in-game animation count to 600,000. That figure dwarfs the 55,000 animations found in Grand Theft Auto V and doubles the 300,000 implemented in Red Dead Redemption 2.Publishers Take-Two Interactive and Rockstar are willing to risk unprecedented sums because the potential return on investment remains unparalleled. The previous franchise entry generated $800 million USD in sales within a single day of its 2013 launch. Total revenue for that title now stands around the $10 billion USD mark, driven heavily by ongoing microtransactions and premium memberships in its onl"
+    },
+    {
+      "id": "415d05dcd2ad96e3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "All the Best Looks From the 2026 Venice Film Festival",
+      "url": "https://www.vogue.com/slideshow/all-the-best-looks-from-the-2026-venice-film-festival",
+      "publishedAt": "2026-09-01T16:11:47.000Z",
+      "collectedAt": "2026-09-01T16:21:00.030Z",
+      "text": "All the Best Looks From the 2026 Venice Film Festival As the 2026 Venice Film Festival kicks off this week, all eyes will be on the red carpet—with the likes of George and Amal Clooney, Claire Foy, and Robert Pattinson arriving in the Italian city. See all the best fashion from Venice Film Festival so far."
+    },
+    {
+      "id": "05e6e7c42d85dabd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "FoundRae Sets Up Camp in Montauk for a Night of Bracelet and Kite Making",
+      "url": "https://www.vogue.com/slideshow/camp-foundrae-montauk-event",
+      "publishedAt": "2026-09-01T15:43:22.000Z",
+      "collectedAt": "2026-09-01T16:21:00.030Z",
+      "text": "FoundRae Sets Up Camp in Montauk for a Night of Bracelet and Kite Making The jewelry label hosted Julianne Moore, Ashlyn Harris, Sophia Bush, and others for a night of nostalgia and new summer memories."
+    },
+    {
+      "id": "48b0ad1562d07cd6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Witchy Guide on What to Do for Salem’s 400th Anniversary",
+      "url": "https://www.vogue.com/article/witch-guide-to-salem",
+      "publishedAt": "2026-09-01T14:39:33.000Z",
+      "collectedAt": "2026-09-01T16:21:00.031Z",
+      "text": "A Witchy Guide on What to Do for Salem’s 400th Anniversary Vogue’s go-to astrologer speaks to a handful of modern witches living in and around Salem to get their tips on how to experience the city’s spiritual side."
+    },
+    {
+      "id": "96280f1274df297f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Amal Clooney Kicks Off Venice Film Festival With a Skirt Suit",
+      "url": "https://www.vogue.com/article/amal-clooney-venice-film-festival-skirt-suit",
+      "publishedAt": "2026-09-01T14:07:49.000Z",
+      "collectedAt": "2026-09-01T16:21:00.031Z",
+      "text": "Amal Clooney Kicks Off Venice Film Festival With a Skirt Suit The Clooneys have touched down in Venice, Italy, where George is set to receive a lifetime achievement award."
+    },
+    {
+      "id": "79adc25125e7a6e5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mukcyen Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/mukcyen",
+      "publishedAt": "2026-09-01T16:17:25.000Z",
+      "collectedAt": "2026-09-01T16:21:00.031Z",
+      "text": "Mukcyen Tokyo Spring 2027 "
+    },
+    {
+      "id": "19533d9c517d7cef",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best On-Court Style Moments Served at the 2026 U.S. Open",
+      "url": "https://www.vogue.com/slideshow/best-on-court-style-moments-2026-us-open",
+      "publishedAt": "2026-09-01T13:34:25.000Z",
+      "collectedAt": "2026-09-01T16:21:00.031Z",
+      "text": "The Best On-Court Style Moments Served at the 2026 U.S. Open The 2026 U.S. Open is here! With Naomi Osaka, Coco Gauff, and Venus Williams in play, don’t expect traditional tennis whites on the hard court."
+    },
+    {
+      "id": "f5a15571045e03a3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Newest Way to Wear Your Perfume Is as an Accessory",
+      "url": "https://www.vogue.com/article/perfume-is-as-an-accessory",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.031Z",
+      "text": "The Newest Way to Wear Your Perfume Is as an Accessory Lately, a whole host of options to help you carry your perfume bottles with you have emerged—not just in your bag, but on your neck, wrist or fingers."
+    },
+    {
+      "id": "735320be7bd38dbd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Bride Wore a White Lehenga for Her India-Meets-Italy Wedding in a Sicilian Baroque Church",
+      "url": "https://www.vogue.com/slideshow/divya-lagisetti-and-holden-prosser-wedding",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "The Bride Wore a White Lehenga for Her India-Meets-Italy Wedding in a Sicilian Baroque Church Childhood sweethearts Divya Lagisetti and Holden Prosser held a multi-day celebration across Taormina’s ancient Greek theater, a 17th-century church, and a baraat celebration in the foothills of Mount Etna."
+    },
+    {
+      "id": "3ccee617fff3af49",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘Sense & Sensibility’ Is the Vogue Book Club’s Next Read",
+      "url": "https://www.vogue.com/article/sense-and-sensibility-vogue-book-club-announcement",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "‘Sense & Sensibility’ Is the Vogue Book Club’s Next Read Fasten your bonnets, readers: ahead of Georgia Oakley’s starry adaptation, the Vogue Book Club is reading Jane Austen’s “Sense and Sensibility.”"
+    },
+    {
+      "id": "0ba8385e7336cef1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“You Have a Five-Pocket Jean, Why Not a Five-Pocket Tote? Introducing GapBags",
+      "url": "https://www.vogue.com/article/you-have-a-five-pocket-jean-why-not-a-five-pocket-tote-introducing-gapbags",
+      "publishedAt": "2026-09-01T12:30:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "“You Have a Five-Pocket Jean, Why Not a Five-Pocket Tote? Introducing GapBags Reed Krakoff is Gap Inc.’s new Executive Director of Accessories. His mission for GapBags: “to capture the essence of the brand in a handbag.”"
+    },
+    {
+      "id": "9514adae3b72f348",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Unfortunately, Life Got Better When I Started Running",
+      "url": "https://www.vogue.com/article/unfortunately-life-got-better-when-i-started-running",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "Unfortunately, Life Got Better When I Started Running The diary of a reluctantly obsessed runner"
+    },
+    {
+      "id": "92f61a2c7be06714",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Pop Art Pioneer, Wrestler, Author—Rosalyn Drexler Was the Ultimate Multihyphenate",
+      "url": "https://www.vogue.com/article/pop-art-pioneer-rosalyn-drexler",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "Pop Art Pioneer, Wrestler, Author—Rosalyn Drexler Was the Ultimate Multihyphenate A new exhibition at Garth Greenan Gallery celebrates the life and work of this extraordinary, varied artist."
+    },
+    {
+      "id": "4afe13a9786c36c1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Marlon James—Author of ‘The Book of the Century’—Wants You to Know Where to Go for a Cheap Date",
+      "url": "https://www.vogue.com/article/marlon-james-guide-to-jamaica",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "Marlon James—Author of ‘The Book of the Century’—Wants You to Know Where to Go for a Cheap Date The author of the much-lauded new novel “The Disappearers” shares his favorite places in Jamaica."
+    },
+    {
+      "id": "8678862f1272aac8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "An Insider’s Guide to Sardinia’s Costa Smeralda",
+      "url": "https://www.vogue.com/article/costa-smeralda-sardinia-insiders-guide",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "An Insider’s Guide to Sardinia’s Costa Smeralda Once you’ve windowshopped at Hermès and Dior in Porto Cervo, here’s where to discover archeological ruins, wineries, and the most stylish spots to dine and stay."
+    },
+    {
+      "id": "9d2bb4cba594b63c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Fashion Politics of Nicole Kidman’s Pieter Mulier Versace Debut",
+      "url": "https://www.vogue.com/article/nicole-kidman-versace-pieter-mulier",
+      "publishedAt": "2026-09-01T11:00:10.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "The Fashion Politics of Nicole Kidman’s Pieter Mulier Versace Debut At the Los Angeles premiere of ‘Practical Magic 2,’ Nicole Kidman offered the first glimpse of Pieter Mulier’s vision for Versace."
+    },
+    {
+      "id": "a4c00c5c7801d2d7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Discover the Best Dresses for Every September Occasion",
+      "url": "https://www.vogue.com/article/dresses",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "Discover the Best Dresses for Every September Occasion Explore the best dresses of the month, from slip dresses to practical everyday dresses. Shop a wide selection of handpicked Vogue dresses."
+    },
+    {
+      "id": "7f082882be7e028c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Brands Can Manage the Affiliate Attribution Problem",
+      "url": "https://www.vogue.com/article/how-brands-can-manage-the-affiliate-attribution-problem",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "How Brands Can Manage the Affiliate Attribution Problem The Phia investigation has raised questions about one of the industry’s biggest revenue drivers."
+    },
+    {
+      "id": "12391a5e5a4d8075",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 22 Best Airbnbs in Sicily, From Historic Villas to Seaside Rooftops",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-sicily",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "The 22 Best Airbnbs in Sicily, From Historic Villas to Seaside Rooftops Planning a trip to the ancient island? These are the best Airbnbs in Sicily—including spots in Noto, Taormina, Palermo, and more."
+    },
+    {
+      "id": "be91b0be5c0eec2b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era",
+      "url": "https://www.vogue.com/article/what-dysons-first-toothbrush-says-about-oral-cares-beauty-era",
+      "publishedAt": "2026-09-01T09:30:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era The CameraJet toothbrush marks Dyson’s first step into the oral care category, which is undergoing a broader makeover."
+    },
+    {
+      "id": "8e8922951d886e62",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "With His New Shirts-Only Collection, Phillip Lim Wants to PlayLoveWin",
+      "url": "https://www.vogue.com/article/with-his-new-shirts-only-collection-phillip-lim-wants-to-playlovewin",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.032Z",
+      "text": "With His New Shirts-Only Collection, Phillip Lim Wants to PlayLoveWin Phillip Lim, the founder and former designer of 3.1 Phillip Lim, has imaged his new project PlayLoveWin as a singular destination for shirts."
+    },
+    {
+      "id": "98c825512f35e473",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Emilio Pucci Fall 2026 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/emilio-pucci",
+      "publishedAt": "2026-09-01T16:17:25.000Z",
+      "collectedAt": "2026-09-01T16:21:00.033Z",
+      "text": "Emilio Pucci Fall 2026 Ready-to-Wear "
+    },
+    {
+      "id": "24760411b3816b8f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Archives: Brad Johns, the Color Czar",
+      "url": "https://www.vogue.com/article/from-the-archives-brad-johns-the-color-czar-brad-johns",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.033Z",
+      "text": "From the Archives: Brad Johns, the Color Czar Brad Johns, the celebrity colorist known for his “chunking” technique and influential work with Carolyn Bessette Kennedy, died last week at his home in Los Angeles. Revisit Vogue’s profile of Johns from the July 1995 issue, titled “The Color Czar.”"
+    },
+    {
+      "id": "a418967cfb48ecb5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Can Aaron Esh Make AllSaints Cool Again?",
+      "url": "https://www.vogue.com/article/can-aaron-esh-make-allsaints-cool-again",
+      "publishedAt": "2026-09-01T05:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.033Z",
+      "text": "Can Aaron Esh Make AllSaints Cool Again? CEO Peter Wood met Aaron Esh in a chance encounter at the Fashion Awards in 2024. Now, he’s giving the designer full creative freedom to reset the label."
+    },
+    {
+      "id": "53ad95449523ebfa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The First AllSaints Collection by Aaron Esh Drops Today",
+      "url": "https://www.vogue.com/article/the-first-allsaints-collection-by-aaron-esh-drops-today",
+      "publishedAt": "2026-09-01T05:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.033Z",
+      "text": "The First AllSaints Collection by Aaron Esh Drops Today Aaron Esh descirbes his new AllSaints collection as “a real wardrobe worn by real people, inspired by the kids who are out there with music that’s loud.”"
+    },
+    {
+      "id": "aca1800ed934e4de",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why Diptyque Is Making a Bigger Bet on Bodycare",
+      "url": "https://www.vogue.com/article/why-diptyque-is-making-a-bigger-bet-on-bodycare",
+      "publishedAt": "2026-09-01T04:30:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.033Z",
+      "text": "Why Diptyque Is Making a Bigger Bet on Bodycare CEO Laurence Semichon outlines how she is positioning bodycare as Diptyque’s third pillar."
+    },
+    {
+      "id": "cd44ee02157e359b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Marketer’s Guide to Choosing the Right Influencer",
+      "url": "https://www.vogue.com/article/the-marketers-guide-to-choosing-the-right-influencer",
+      "publishedAt": "2026-09-01T04:30:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.033Z",
+      "text": "The Marketer’s Guide to Choosing the Right Influencer Where once reach and following were the be-all and end-all, creator marketing metrics have shifted. Today, brands that want to capitalize on influencers need to choose differently, leaning into the micro economy."
+    },
+    {
+      "id": "5e5610760bc10719",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Meet the Aussie Athleisure Brand Coming for Your Favorite Labels",
+      "url": "https://www.vogue.com/article/meet-the-aussie-athleisure-brand-coming-for-your-favorite-labels",
+      "publishedAt": "2026-09-01T04:30:00.000Z",
+      "collectedAt": "2026-09-01T16:21:00.033Z",
+      "text": "Meet the Aussie Athleisure Brand Coming for Your Favorite Labels Already spotted on Hailey Bieber and Alix Earle, CSB is emerging as a major challenger brand to some of the women’s activewear incumbents. The US market is its first port of call."
+    },
+    {
+      "id": "062500e806f4c1d7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Favorite Dad Shoe Gets Its Shine On",
+      "url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-gridiron/",
+      "publishedAt": "2026-09-01T08:29:25.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "Nike's Favorite Dad Shoe Gets Its Shine On The Nike Zoom Vomero 5 Gridiron delivers a metallic, slate-toned spin on the retro runner."
+    },
+    {
+      "id": "271d268c4df728e6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker",
+      "url": "https://www.highsnobiety.com/p/saucony-stockx-report/",
+      "publishedAt": "2026-08-31T23:26:16.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker StockX names Saucony its fastest-growing sneaker brand in the August 2026 Big Facts report. Here, we unpack the secrets to the label's resale success."
+    },
+    {
+      "id": "eb141b9f52b1601c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Nike Noughties Revival Is an Optical Illusion",
+      "url": "https://www.highsnobiety.com/p/nike-air-jordan-8-chrome/",
+      "publishedAt": "2026-09-01T08:26:29.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "This Nike Noughties Revival Is an Optical Illusion The Nike Air Jordan 8 Chrome revives Tinker Hatfield’s strap-laden 1993 silhouette for a new generation."
+    },
+    {
+      "id": "e8a837a55a973379",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Only Logical Fall Fit Is a Long-Sleeve Polo",
+      "url": "https://www.highsnobiety.com/p/only-logical-fall-fit-long-sleeve-polo/",
+      "publishedAt": "2026-08-31T18:49:51.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "The Only Logical Fall Fit Is a Long-Sleeve Polo From J. Press and Ralph Lauren to UMBRO and Supreme, fashion brands understand that the perfect fall fit is locked in with the long-sleeve polo shirt."
+    },
+    {
+      "id": "e01612667ffdd3f4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
+      "url": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/",
+      "publishedAt": "2026-08-31T17:03:00.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "From Table to Foot, Gohar World Does Ballet Sneakers Now Translating a theatrical lens into footwear, the Gohar World x ASICS GEL-DS Trainer SP Ballet is a head-turning ballet sneaker."
+    },
+    {
+      "id": "9301cb2de5d906ff",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Weirdest Design Now Glows In the Dark",
+      "url": "https://www.highsnobiety.com/p/nike-air-foamposite-one-phantom-barel-volt/",
+      "publishedAt": "2026-09-01T08:24:41.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "Nike's Weirdest Design Now Glows In the Dark The Nike Air Foamposite One Phantom/Barely Volt writes an even more eye-catching new chapter in a liquid-metal legacy"
+    },
+    {
+      "id": "890154453a5b54e3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Isabel Marant’s Bekett Sneaker Drives a Wedge in the Flat Sneaker Conversation",
+      "url": "https://www.highsnobiety.com/p/isabel-marant-bekett-reedition-sneaker/",
+      "publishedAt": "2026-08-31T22:48:41.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "Isabel Marant’s Bekett Sneaker Drives a Wedge in the Flat Sneaker Conversation Isabel Marant's Bekett Reedition sneaker is a remake of one of the best wedge sneakers in the game."
+    },
+    {
+      "id": "70c4d5df4db0b7f5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "You're Supposed to Stumble Upon This Store the Old-Fashioned Way",
+      "url": "https://www.highsnobiety.com/p/afactory-nyc-store/",
+      "publishedAt": "2026-09-01T12:52:45.000Z",
+      "collectedAt": "2026-09-01T16:21:01.353Z",
+      "text": "You're Supposed to Stumble Upon This Store the Old-Fashioned Way AFACTORY, a modest menswear store tucked into a quiet Chinatown street, sells some of New York City's most exciting clothes in New York City. Here's why."
+    },
+    {
+      "id": "7516ed8ab8872688",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "KidSuper x Havaianas Merge Art and Football Across a Bold Four-Piece Footwear Collection",
+      "url": "https://hypebeast.com/2026/9/kidsuper-havaianas-top-turf-pitch-collaboration-collection-release-info",
+      "publishedAt": "2026-09-01T15:31:22.000Z",
+      "collectedAt": "2026-09-01T16:21:02.744Z",
+      "text": "KidSuper x Havaianas Merge Art and Football Across a Bold Four-Piece Footwear Collection Brazilian footwear icon Havaianas and Brooklyn-based label KidSuper have officially unveiled their collaborative four-piece footwear collection. Building on an ongoing creative partnership, the latest capsule bridges the gap between traditional athletic inspiration and avant-garde street style. KidSuper founder Colm Dillane applies his distinct design language directly to the renowned Havaianas footwear frame to merge art and sport.The unquestionable centerpiece of the release is the Havaianas x KidSuper \"Top Turf Pitch\" sandal. Originally previewed during KidSuper's FW26 runway presentation at Paris Men's Fashion Week, the model features an unorthodox material overhaul. The entire silhouette is wrapped in lush green velvet designed to recreate the visual and tactile sensation of a football pitch directly beneath the wearer's feet. This structural choice connects directly to the \"futebol arte\" inspiration driving the collaboration.Beyond the velvet flagship model, the collection includes three additional styles featuring original printed artwork by Dillane. These graphic iterations focus on vibrant colors, movement, and the expressive character motifs that define the KidSuper design universe. Every pair in the four-piece lineup is finalized with exclusive co-branded detailing and specialized collectible packaging. Inside the box, buyers will find a custom card equipped with four distinct metallic pins meant for personalizing the sandals alongside a co-branded KidSuper gym sack.The partnership physically extends to São Paulo, where Havaianas and KidSuper restored a public football court. Transformed using original artwork by Dillane, the space eventually served as the physical setting for the campaign shoot.The release also builds upon Dillane's deep personal relationship with Brazilian culture. A passionate football fan and former player, he previously lived in the country and spent time at Esporte Clube Vitória in Bahia. His connection to the Portuguese language and local football lore serves as the foundational creative exchange behind the footwear designs. “Havaianas is such a Brazilian icon, and for me that made it a really exciting canvas to play with. We took this shared love of football and brought it into the KidSuper world through color, art and a little bit of the unexpected. The result feels like both brands, which is always what you want from a collaboratio"
+    },
+    {
+      "id": "030ea884e96df6b4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "mfpen Remakes the New Balance 991v1 in \"Surplus Leathers\"",
+      "url": "https://hypebeast.com/2026/9/mfpen-new-balance-made-in-uk-991v1-surplus-leathers",
+      "publishedAt": "2026-09-01T14:54:28.000Z",
+      "collectedAt": "2026-09-01T16:21:02.744Z",
+      "text": "mfpen Remakes the New Balance 991v1 in \"Surplus Leathers\" SummaryThe mfpen x New Balance Made in UK 991v1 uses upcycled surplus materials for a limited 90-pair release on September 3.It features a hand-debossed \"N\" logo, blending New Balance’s Flimby factory heritage with mfpen’s minimalist aesthetic.mfpen and New Balance give excess materials new life with their first-ever collaboration, which reimagines the Made in UK 991v1 in “Surplus Leathers.” The debut silhouette from mfpen x New Balance embraces the footwear brand’s archival history, while staying true to mfpen’s design philosophy and lived-in feel.mfpen founder Sigurd Bank offered Hypebeast exclusive insights on the partnership, sharing, “New Balance has always felt somehow connected to mfpen. I remember styling the first collections with my own thrashed New Balance sneakers. I’ve always loved the normy, dad-core look of the 99' series, so it felt like a natural fit for us to work together.”Using leftover materials from New Balance’s Flimby, England factory, mfpen’s 991v1 gets a lived-in feel from a tumbled nubuck, pigsuede, and mesh makeup. The approach aligns with mfpen’s production values, which have historically centered on deadstock, surplus, and upcycled fabrics, as well as conscious mitigation of overproduction. “I went to visit the factory in Flimby, in northern England, and went through their old stocks of leathers and materials. Everything was available in different quantities and with different options, which is why the release is limited to just 90 pairs,” Bank explained. “All upper materials are surplus from past production,” he added.Notably, the collaborative model tones down the classic N monogram with a debossed finish, lending it a minimalist sensibility, in tune with the mfpen aesthetic. “Personally, I have a hard time with logos, and I think toning down the N is a simple way to mess with the silhouette while still keeping that recognizable New Balance reference,” Bank shared.And while the subtle N stamp may feel like a contemporary development, it’s actually pulled from the New Balance archives. However, applying the archival detail to the nubuck was its own challenge: “After some trials, they got it right, but they had to do every single emboss by hand. I really liked that process and the fact that it made each pair feel connected to the factory and its history.”The unveiling of mfpen's New Balance 991v1 comes just weeks after the brand previewed a New Balance 992 at its SS27 r"
+    },
+    {
+      "id": "0cb4b20371fa5c3c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Maison Margiela",
+      "url": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-maison-margiela",
+      "publishedAt": "2026-09-01T14:07:38.000Z",
+      "collectedAt": "2026-09-01T16:21:02.744Z",
+      "text": "New Arrivals From HBX: Maison Margiela Brand Information: Maison Margiela is a Paris-based fashion house founded in 1988 by Martin Margiela. The brand is best known for its progressive aesthetic and unique approach to deconstructing, reinventing, and redefining men’s and womenswear. It is a design philosophy that permeates into a wide range of ready-to-wear items such as T-shirts, sweaters, hoodies, and crewnecks, as well as other complementary items such as bags, small leather goods, and shoes. Currently, Maison Margiela is headed by the four-time winner of British Designer of the Year, couturier John Galliano. Galliano has also served as the head designer at various French fashion companies, including Givenchy, Christian Dior, and his own label, John Galliano. Maison Margiela has collaborated with many different brands over the years, such as The North Face, Swarovski, and Mykita. The brand has also established a diffusion line named MM6 Maison Margiela.Price Range: $210.00 USD - $2,990.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "67d299b1294b5e63",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Bremont’s Terra Nova Nova Jumping Hour Watch Now Comes in a Compact 35mm Case Size",
+      "url": "https://hypebeast.com/2026/9/bremont-terra-nova-35-collection-geneva-watch-days-2026-novelties-release-info",
+      "publishedAt": "2026-09-01T13:00:41.000Z",
+      "collectedAt": "2026-09-01T16:21:02.744Z",
+      "text": "Bremont’s Terra Nova Nova Jumping Hour Watch Now Comes in a Compact 35mm Case Size Summary Bremont expands its Terra Nova Jumping Hour line with a compact 35mm case in 904L steel.Variants include core steel, sunray burgundy, and limited-edition shimmering Frosted and Frosted Pink models.Driven by the automatic Calibre BC634, delivering instantaneous hour changes and a 54-hour power reserve. Unveiled at Geneva Watch Days, Bremont has expanded its field-inspired Terra Nova collection with five new additions headlined by a 35mm case size. First introduced in 2024, the Terra Nova line draws design cues from early 20th-century trench and military pocket watches, reimagining classic military aesthetics through modern cushion-shaped cases with low profiles and shortened lugs. The new 35mm silhouette transforms the collection’s signature montre à guichet (jumping hour) display into a versatile dress watch format with vintage charm, joining an updated 40.5mm execution to broaden the range.The 35mm lineup is crafted from 904L stainless steel and features several distinct finishes and dial designs. The core Terra Nova 35 Jumping Hour presents a closed, brushed steel dial face with dual aperture windows at 12 and 6 o'clock for the jumping hour and sweeping minutes. Adding rich color to the range, the Terra Nova 35 Jumping Hour Burgundy introduces a sunray-lacquered burgundy dial with vertical jumping hour windows, a central seconds hand, and star and dot hour markers.For a more decorative touch, Bremont introduced two limited-edition textured models: the Terra Nova 35 Jumping Hour Frosted, limited to 150 pieces with a shimmering, diamond-like hammered case, and the Terra Nova 35 Jumping Hour Frosted Pink, limited to 200 pieces featuring a sunray pink dial, star and diamond markers, and a pale pink nubuck leather strap.At the heart of the new models is the automatic Bremont Calibre BC634, developed in exclusive partnership with Sellita. Running at 28,800 vph with a 54-hour power reserve, the movement powers a high-torque jumping hour mechanism capable of instantaneous hour changes in under one-tenth of a second. Depending on the model, the watches offer water resistance ranging from 30 meters on the closed-dial editions to 100 meters on the burgundy dial variants. Every reference is equipped with quick-release 904L stainless steel bracelets or coordinating nubuck leather straps, offering versatile styling across the updated collection. Head over to Bremont's website no"
+    },
+    {
+      "id": "979b00d180ec950d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "An Official Look at Pharrell and adidas Originals’ VIRGINIA Watermoc Pack",
+      "url": "https://hypebeast.com/2026/9/adidas-originals-pharrell-williams-virginia-watermoc-pack-official-look-blue-yellow-black-release-info",
+      "publishedAt": "2026-09-01T11:19:17.000Z",
+      "collectedAt": "2026-09-01T16:21:02.744Z",
+      "text": "An Official Look at Pharrell and adidas Originals’ VIRGINIA Watermoc Pack Name: adidas Originals x Pharrell Williams VIRGINIA Watermoc PackMSRP: $140 USDRelease Date: September 5Where to Buy: adidasFollowing up on its initial tease in \"Lucid Ray Blue\" this past May and a closer look provided earlier this August, the adidas Originals x Pharrell Williams VIRGINIA Watermoc Pack is officially slated for a global debut. Originally revealed during a beach takeover in Marseille, France, this latest silhouette expands the collaborative VIRGINIA universe — moving beyond the exaggerated futurism of the Adistar Jellyfish and the refined subtlety of the Flat Earther.Drawing direct inspiration from the early-2000s adidas Adventure Water Moc, the project reimagines archival outdoor heritage through Pharrell’s creative lens, delivering a functional, everyday lifestyle sneaker built to embrace spontaneous exploration at the intersection of culture, community, and design. Arriving in a trio of bold \"Blue,\" vibrant \"Yellow,\" and versatile \"Black\" colorways, the Watermoc merges utilitarian aesthetics with high-visibility finishes.The shoe's upper is constructed with a flexible neoprene U-throat and breathable mesh ventilation for adaptable, temperature-regulated comfort, accented by reflective webbing that adds a technical, safety-inspired touch. A quick-adjust bungee speed lacing system ensures a secure, customizable fit, while the base is grounded by a heavily textured, durable rubber lug outsole engineered for enhanced multidirectional traction. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "cb4d8dce551613e8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Berneron’s Mirage Miroir Shines in 18K White and Yellow Gold",
+      "url": "https://hypebeast.com/2026/9/berneron-mirage-miroir-white-yellow-gold-watches-release-info",
+      "publishedAt": "2026-09-01T11:00:04.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "Berneron’s Mirage Miroir Shines in 18K White and Yellow Gold Summary Berneron unveils the asymmetric Mirage Miroir watch in 18K white and yellow gold.Introduces the all-gold, openworked Caliber 283 with a mirrored movement construction.Limited to 36 pieces per colorway annually. Independent Swiss watch brand Berneron has revealed the Mirage Miroir, an openworked evolution of its signature asymmetric dress watch. Produced in extremely limited numbers, the Mirage Miroir is defined by its asymmetry, drawn not from external design but from the mechanics themselves. The new “mirrored construction” approach reimagines openworking, with bridges and mainplate architecture designed to guide the eye and serve as visual markers for reading the time. Crafted entirely in 18K gold, the watch embodies discreet luxury and refined elegance.At the heart of the Mirage Miroir lies the Calibre 283, Berneron’s fourth in‑house movement. Measuring just 2.83 mm thick, it features an inverted hand set with the hour hand on top, a free‑sprung balance wheel, and a 72‑hour power reserve. The seconds counter is deliberately omitted to maximize the openwork design, with the rotating seconds wheel itself acting as a running indicator. Decorative techniques such as guillochage, anglage and laser engraving elevate the movement’s architectural presence, underscoring Berneron’s commitment to artisanal craft.Reflecting Berneron's commitment to high quality and limited production, each colorway will be produced at a rate of 36 pieces per year over a 10-year cycle (Series A), with initial deliveries slated to begin in October 2027. Water-resistant to 30 meters, the watch is topped with a scratch-resistant coated Hesalite crystal and can be configured on either a Barenia leather strap or a matching 20mm 18K solid gold bracelet. Pricing for the Mirage Miroir is set at 72,500 CHF (approx. $89,528 USD) on the leather strap and 130,250 CHF (approx. $160,842 USD) on the solid gold bracelet. For more information, visit Berneron's official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "527b03aac144f86a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "sacai TO GO Lands in Paris With Exclusive Pieces",
+      "url": "https://hypebeast.com/2026/9/sacai-to-go-le-bon-marche-rive-gauche-event-announcement-info",
+      "publishedAt": "2026-09-01T10:39:43.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "sacai TO GO Lands in Paris With Exclusive Pieces Summary sacai is staging a limited-time pop-up called \"sacai TO GO\" inside Le Bon Marché Rive Gauche as part of SUPER JAPONThe space carries exclusive merchandise spanning collaborative tees, repurposed-fabric totes, plush charms and a magnetic paper-doll setCo-curated by colette co-founder Sarah Andelman, the takeover pulls in Japanese confectioners, Paris coffee shops and a rotating cast of the label's friends sacai is bringing an immersive slice of its world to Paris with \"sacai TO GO,\" a limited-time event on the second floor of Le Bon Marché Rive Gauche. Running as part of the store's SUPER JAPON program, the takeover blends Japanese culture with Parisian creativity across food, drink and a deep bench of exclusive merchandise.The exclusive apparel spans a run of black and white T-shirts, some carrying the sacai logo, others leaning on MA-1-inspired detailing or rocky's matcha's tiger graphic. Rounding out the shirt selection are pieces pulled from sacai's collaborations with Carhartt WIP and Nike, folding two of the label's marquee tie-ups into the same exclusive rack.Beyond the tees, the accessories carry real weight. sacai is stocking tote bags from its signature Zantan series, each crafted from repurposed archive fabrics, and pairing them with Peloqoon's plush key charms designed by plush artist Madoka Morikawa. The most unexpected object is a boxed RYVDOLL set made with French artist Ryvka Adda, a collection of magnetic paper dolls that recreate sacai's 26AW looks and let visitors mix and match styling combinations by hand.The consumables are just as considered. Toraya, a Japanese confectioner with five centuries of history, and rocky's matcha, founded by Rocky Xu, are featured throughout the run. Weekends add a rotating cast of Paris-based friends of the label, with ice cream shop F.O.L.D.E.R.O.L, bento brand Iné, kissaten-inspired sandwich and coffee spot Benchy, seasonal-cuisine specialist NIWA and coffee shop Dreamin' Man each taking a turn across the calendar.Tying the whole thing together is co-curator Sarah Andelman, co-founder and former Creative Director of the influential Paris concept store colette, who assembled a community of longtime collaborators to shape the space. The result reads as a hybrid environment, one that fuses Japanese sensibility with a distinctly Parisian creative spirit while staying unmistakably sacai.sacai TO GO is open now at Le Bon Marché Rive Gauche, running throug"
+    },
+    {
+      "id": "22f29b6f44f957aa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "côte&ciel Launches Transformative Bags and Accessories for FW26",
+      "url": "https://hypebeast.com/2026/9/coteciel-fall-winter-2026-collection-lookbook-release-info",
+      "publishedAt": "2026-09-01T10:07:01.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "côte&ciel Launches Transformative Bags and Accessories for FW26 The côte&ciel Fall/Winter 2026 Collection explores fashion as an active verb - an act of making, shaping, and constructing - rather than a static statement of style.Led by designer Emilie Arnault, the seasonal concept takes inspiration from Charles Fréger's photographic study Wilder Mann, which observes European folk festival costumes blending human and animal forms. This ritualistic connection to nature translates into an earthy, tactile palette that features wool-like Tweed Anthracite, home upholstery-inspired Black & Cream Tweed, lightweight Smooth Burgundy Nylon and technical Carbon Black textiles. To emphasize the craftsmanship behind the designs, the brand paired its industrial lookbook with handcrafted artistic works by Paris-based creative Aurélie Mathigot.Rooted in the philosophy of \"the same song, but different instruments,\" the seasonal range evolves côte&ciel's iconic silhouettes through fluid, body-responsive forms that bridge the gap between bags and wearable garments. Key styles in the range include the ELVO backpack in Carbon Black, which expands and compresses to fit tech devices up to 16 inches, and the RENO shoulder bag, which unfolds into a wearable vest complete with an integrated Smooth Black hood.Furthering the origami-like construction, the compact PO S twists water-repellent nylon to transition seamlessly between a sling and a vest. The collection is completed by small accessories (\"Petits Accessories\"), including the AÓOS NANO pouch, eyewear cases, and modular leather charm cords like the LETGO series. The collection is available now globally through côte&ciel and will also be stocked by HBX starting September 2, 2025. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6cb9871d9cb8dd92",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Taemin on Finding Cruelty in Beauty on 'PHASE 1: Soft Violence'",
+      "url": "https://hypebeast.com/2026/9/taemin-phase-1-soft-violence-interview",
+      "publishedAt": "2026-09-01T10:00:45.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "Taemin on Finding Cruelty in Beauty on 'PHASE 1: Soft Violence' Taemin has spent almost 20 arguing that a pop star can be an unsettling one too, and PHASE 1: Soft Violence is his most literal case for it yet. The album introduces itself with a sugar cube being pulled apart by ants, an image that reads as sweet and grim in the same glance, and from there he fills the record with slime, clay and holes torn through walls. None of it is set dressing. Each object stands in for a version of himself he has lived through and kept.The title is the whole thesis in two words; the SHINee and SuperM staple treats loveliness and harm as the same material rather than as opposites, which is where the \"violence\" in the phrase comes from. \"I believe there is cruelty within beauty, and in a certain sense, that can also be a form of violence,\" he says. He applies the same logic to his own history, declining to sort it into wins and wounds. The hard stretches and the joyful ones, in his telling, fed the same foundation, and the injuries that keep surfacing across the album are really the many Taemins who built the one speaking now.If the album serves an accounting of the past, the tour is written in the present tense. He named it \"LiMiNaL\" after the threshold — the charged pause that comes before anything actually changes, and he is frank that the choice was a message to himself as much as a concept for an audience. \"'LiMiNaL' refers to a boundary or a state of being on the threshold. I chose the title 'LiMiNaL' for this tour because I wanted to take a step beyond the way I had been doing things up until now,\" he explains. He describes the era as a doorway he is currently standing in, with the next chapter waiting on the far side. \"In a way, I think 'LiMiNaL' represents who I am right now, standing at that threshold. And through 'PHASE 2,' which will follow, I want to show a version of myself that has crossed that boundary and taken another step forward.\"A lot of that momentum traces back to a field in the California desert. Taemin performed at Coachella billed as the first Korean male soloist to do so, and the size of the moment clearly lodged itself somewhere permanent. \"I also realized, 'There's a much bigger market and a much bigger world out there,'\" he says. What stayed with him was the way the crowd used the platform, moving and singing together instead of simply watching a performance, and it quietly reset his sense of the job. \"In the past, I tended to approach music "
+    },
+    {
+      "id": "643ecb8a892de381",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "PUMA Taps Graphpaper for an Earthy H-STREET Colorway",
+      "url": "https://hypebeast.com/2026/9/graphpaper-puma-h-street-collaboration-release-info",
+      "publishedAt": "2026-09-01T09:49:53.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "PUMA Taps Graphpaper for an Earthy H-STREET Colorway Name: Graphpaper x PUMA H-STREETColorway: BrownSKU: TBCMSRP: ¥16,500 JPY (approx. $103 USD)Release Date: September 5Where to Buy: PUMA, GraphpaperGraphpaper has partnered with PUMA for a refined take on the H-STREET, a silhouette originally rooted in 2000s track running spikes. Ditching the standard inline model's breathable mesh upper, the collaborative pair is reconstructed using an elevated combination of smooth nylon and supple nubuck paneling.Offered exclusively in a unified, monochromatic \"Brown\" - a key seasonal color for Graphpaper’s Fall/Winter 2026 line - the design relies on the subtle textural interplay between matte nubuck overlays and sleek nylon bases to highlight its fluid, racing-inspired lines. The muted aesthetic is further enhanced by tonal embroidered branding on the tongue, matching brown laces, and a flexible dark rubber outsole that wraps subtly over the toe. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0f36f04b4c91dd6b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "UNDERCOVER Turns Its ‘UNDERMAN’ Mythology Into a Feature Film With ‘UNDERGIRL’",
+      "url": "https://hypebeast.com/2026/9/jun-takahashi-undercover-production-undergirl-film-release-info",
+      "publishedAt": "2026-09-01T09:47:51.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "UNDERCOVER Turns Its ‘UNDERMAN’ Mythology Into a Feature Film With ‘UNDERGIRL’ Summary UNDERCOVER is releasing UNDERGIRL, described as the first film from its UNDERCOVER PRODUCTION armThe story picks up the world of UNDERMAN, the art book tied to the label's 2011 spring/summer collection, and follows a hero's daughter stepping into his roleA limited Shibuya screening run brings the roughly hour-long feature to audiences this September UNDERCOVER is stepping into filmmaking with UNDERGIRL, billed as the debut movie from UNDERCOVER PRODUCTION. The project revives the fictional universe first laid out in UNDERMAN, the photo-and-graphic art book that accompanied the brand's Spring/Summer 2011 collection, and reanimates it 15 years later as a 54-minute feature.The narrative centers on Yuri Ibuki, the daughter of a hero named UNDERMAN who has long shouldered the sorrows of the city while protecting its people. When he vanishes without warning, a mysterious envoy called Kiko appears before Yuri and guides her toward an inescapable destiny: succeeding her father and becoming UNDERGIRL. The film follows her through the trials that transformation demands.The production is led by UNDERCOVER PRODUCTION, a unit built around Jun Takahashi alongside Tetsuya Nagato, Katsuhide Morimoto and Taro Mizutani. Morimoto, a photographer and filmmaker, directs, while the screenplay was written jointly by Takahashi, Nagato, Morimoto and Mizutani. Takahashi additionally serves as executive producer.The casting anchors the fiction with recognizable faces. Sena Nakajima plays the lead, Yuri Ibuki and UNDERGIRL, opposite Ryuhei Matsuda as UNDERMAN. Kiko Mizuhara, who appeared in the original 2011 UNDERMAN project, returns here, and Mitsuko Baisho joins as another key figure moving through the story.UNDERGIRL screens at SPACE PART 3 by PARCO in Shibuya from September 14 through September 20, 2026, with weekday showings at 6 p.m. and 7:30 p.m. and weekend showings at 2 p.m. and 4 p.m. Tickets are available from September 2 via the venue's dedicated web page.SPACE PART 3 by PARCO7th floor, Shibuya Miba BuildingTokyo Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "972234754885eadb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Take an Inside Look at ‘Dressing Up,’ Sandy Liang’s First Rizzoli Monograph",
+      "url": "https://hypebeast.com/2026/9/rizzoli-dressing-up-sandy-liang-book-inside-look",
+      "publishedAt": "2026-09-01T09:46:12.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "Take an Inside Look at ‘Dressing Up,’ Sandy Liang’s First Rizzoli Monograph Summary Sandy Liang is releasing Dressing Up: Sandy Liang, a monograph gathering ten years of the label's visual world through Rizzoli New YorkThe book leans on previously unpublished personal photography to trace her runway moments, inspirations and take on uniform dressingCreative director Ava Nirui and stylist Dean DiCriscio contribute to the project alongside Liang Sandy Liang is giving readers a look behind the curtain with Dressing Up: Sandy Liang, a new monograph arriving via Rizzoli New York. Marking more than a decade of her namesake label, the book compiles an intimate selection of ephemera from the designer's world and opens up the process behind the girlish, nostalgia-driven universe she has built.As an object, the release is a substantial one. It runs 276 pages in hardcover, and the interior is anchored by previously unpublished material, including personal film and iPhone photographs that Liang has kept as her own running record. Rather than a straight lookbook, the pages are curated through a close, personal lens, surfacing the inspirations, runway moments and evolving ideas around uniform dressing that have defined her output.\"I've been documenting my life through photos since high school when I got my first iPhone. Holding memories through photos has always felt as precious as keeping a childhood memento,\" Liang said in the announcement. \"Sharing my life through my work feels intuitive for me - one does not feel complete without the other. This scrapbook of memories captures a decade of the brand through that lens.\"The visual language the book catalogs is instantly legible to anyone who has followed the label. Liang's collections have long trafficked in bows, Peter Pan collars, pleated skirts, ballet references, florals and kawaii touches, fusing a downtown New York attitude with cues pulled from memory, nostalgia and youth culture. A native New Yorker whose work draws heavily on growing up in Chinatown, she has turned that specific blend of femininity and intergenerational influence into a devoted global following, positioning the monograph as both a personal archive and a broader statement on her place in contemporary fashion.The book features contributions from Ava Nirui, the New York creative director known for her work on Heaven by Marc Jacobs, and Dean DiCriscio, a stylist who splits his time between New York and Los Angeles. Beyond documenting Liang's decade"
+    },
+    {
+      "id": "a64c45dd71b2886e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BAPE Splits the Toe on Its MANHUNT Moc With the Sashiko-Stitched \"MANHUNT Tabi\"",
+      "url": "https://hypebeast.com/2026/9/a-bathing-ape-bape-manhunt-tabi-blue-release-info",
+      "publishedAt": "2026-09-01T09:35:19.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "BAPE Splits the Toe on Its MANHUNT Moc With the Sashiko-Stitched \"MANHUNT Tabi\" Name: A Bathing Ape MANHUNT TabiColorway: BlueSKU: TBCMSRP: ¥39,600 JPY (approx. $250 USD)Release Date: September 4Where to Buy: BAPEBAPE is putting a traditional spin on one of its sneaker mainstays with the MANHUNT Tabi, a new shoe that reshapes the label's MANHUNT silhouette around the split-toe form of Japanese tabi socks. The result reworks a familiar streetwear base through the lens of Japanese dress, landing somewhere between a heritage object and a modern sneaker.The craft detailing is where the meeting of old and new plays out. Rather than a printed graphic, the upper leans on sashiko, the centuries-old Japanese stitching technique, layering delicate needlework and patchwork across the shoe as a nod to the texture and handwork of the artisans behind it. An indigo-based color scheme reinforces the reference, tying the design to a palette long associated with traditional Japanese textiles while keeping the overall look restrained.That heritage framing is balanced against BAPE's own footwear engineering. The tabi is built on a lightweight MANHUNT outsole and finished with a wide Vibram sole unit, the specialist rubber the source positions for durability and grip in daily use. The pairing lets the shoe carry its traditional cues without giving up the comfort and wearability expected of a contemporary sneaker, which is the tension the brand frames as the whole point: tradition and innovation meeting in a single silhouette.The MANHUNT Tabi arrives in a single blue colorway, keeping the focus on the stitching and the split-toe construction rather than splitting the concept across multiple finishes. It reads as a fairly pointed entry in the long lineage of Japanese labels reinterpreting the tabi, filtered here through BAPE's specific streetwear vocabulary. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3304355f73912383",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "TAG Heuer Marks 50 Years of the Monza With a Stealthy Forged Carbon Flyback Edition",
+      "url": "https://hypebeast.com/2026/9/tag-heuer-monza-flyback-chronograph-carbon-42mm-cr5092-fc8372-release-info",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "collectedAt": "2026-09-01T16:21:02.745Z",
+      "text": "TAG Heuer Marks 50 Years of the Monza With a Stealthy Forged Carbon Flyback Edition Summary TAG Heuer celebrates 50 years of Monza with a limited Flyback Chronograph.It features a 42mm forged carbon case with a motorsport‑inspired dial, and runs on a COSC‑certified Calibre TH20‑12.Limited to 500 pieces and retails for $13,400 USD. TAG Heuer marks the 50th anniversary of the Monza with the launch of the Monza Flyback Chronograph, unveiled ahead of the Formula 1 Pirelli Gran Premio d’Italia 2026. Limited to 500 numbered pieces, the watch pays tribute to the original 1976 model created to celebrate Niki Lauda’s championship victory with Ferrari, while embracing modern materials and technical innovation.Housed in a modern 42mm cushion-shaped case crafted entirely from forged carbon, the watch features a unique marbled texture that makes each individual piece unique while offering exceptional strength and lightweight comfort on the wrist. The matte black dial honors the 1976 model's visual codes with bold red accents and high-legibility layout features, including white lacquered hands filled with Super-LumiNova.Positioned across the dial are two sub-counters at 3 and 6 o'clock, an angled date window at 9 o'clock, and an outer black flange that incorporates both a tachymeter and a pulsometer scale. The case is capped with a fixed carbon bezel and domed sapphire crystal, while a black DLC steel crown and pushers complete the dark, stealthy exterior.Visible through the grade 2 titanium sapphire caseback is the in-house, COSC-certified Calibre TH20-12. The automatic movement features a flyback chronograph function, enabling wearers to reset and restart timing intervals with a single press of the pusher. Completing the design is a black perforated calfskin strap with red stitching, echoing classic motorsport style. Available via TAG Heuer, the Monza Flyback Chronograph is priced at $13,400 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "53cc135a573228f2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SpongeBob Trades Bikini Bottom for the Grand Line in McDonald's ‘SpongeBob SquarePants’ x ‘ONE PIECE’ Happy Meal",
+      "url": "https://hypebeast.com/2026/9/mcdonalds-spongebob-squarepants-one-piece-happy-meal-toys-announcement-release-info",
+      "publishedAt": "2026-09-01T08:33:56.000Z",
+      "collectedAt": "2026-09-01T16:21:02.746Z",
+      "text": "SpongeBob Trades Bikini Bottom for the Grand Line in McDonald's ‘SpongeBob SquarePants’ x ‘ONE PIECE’ Happy Meal Summary McDonald's is running a SpongeBob SquarePants x ONE PIECE Happy Meal that dresses Bikini Bottom's residents as the Straw Hat PiratesThe collectible toys pair off characters from each cast, led by SpongeBob standing in for Monkey D. LuffyThe launch is backed by a special animated intro that merges the two seafaring worlds McDonald's is turning its Happy Meal into a crossover between SpongeBob SquarePants and ONE PIECE, a set of collectible toys that reimagines the Bikini Bottom cast as the Straw Hat crew. The tie-up leans on the shared nautical DNA of both franchises, mapping one universe's characters onto the other's rather than simply packaging them side by side.Each toy reworks a familiar Bikini Bottom character into a member of the ONE PIECE crew, starting with SpongeBob himself cast as captain Monkey D. Luffy. From there the swaps run deep: Patrick Star takes on Roronoa Zoro, Sandy Cheeks becomes Nami, Plankton stands in for Usopp, Squidward is remade as Sanji, and Gary the snail is reimagined as Tony Tony Chopper. The roster reaches further down both casts. Additional figures cast Pearl Krabs as Nico Robin, Larry the Lobster as Franky, Mr. Krabs as Jinbe and the town's longest-named resident as the skeleton musician Brook, filling out most of the core crew across the set. The exact number of toys is not fully settled across early coverage, with counts reported at both 13 and 15, so the final tally is worth pinning down before publication.More than a straight toy drop, the collaboration arrives with its own animated introduction. The short piece merges the visual worlds of both properties, sending the two casts crashing together in a single sequence rather than keeping them in separate frames. The result frames the Happy Meal less as a giveaway and more as an event, complete with promotional animation built specifically for the mashup.The McDonald’s SpongeBob SquarePants x ONE PIECE Happy Meal is rolling out across more than 60 territories on staggered regional dates, with a United States launch cited for September 15. Read more at Hypebeast"
+    },
+    {
+      "id": "f613ad95ef81fb55",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Seiko Revs Up Retro Motoring Style With Two Speedtimer Additions",
+      "url": "https://hypebeast.com/2026/9/seiko-prospex-heritage-motoring-countdown-speedtimer-watches-powder-blue-petrol-blue-release-info",
+      "publishedAt": "2026-09-01T08:28:07.000Z",
+      "collectedAt": "2026-09-01T16:21:02.746Z",
+      "text": "Seiko Revs Up Retro Motoring Style With Two Speedtimer Additions Summary Seiko launches the Prospex Heritage Motoring Countdown Speedtimer HBC003 & HBC004, inspired by the 1969 Speedtimer.Powder Blue recalls the 1972 “Panda”; Petrol Blue channels 1970s “young‑timer” cars.Both feature 6R55 calibre, 72‑hour reserve, 200m water resistance. Seiko Prospex has expanded its motorsport-inspired lineup with two new timepieces: the Heritage Motoring Countdown Speedtimer in Powder Blue (HBC003) and Petrol Blue (HBC004). Drawing inspiration from Seiko’s groundbreaking 1969 Speedtimer - the world’s first automatic chronograph equipped with both a vertical clutch and column wheel - these new releases bring a refined 1970s automotive aesthetic to a modern, time-and-date format.The Powder Blue draws from Seiko’s 1972 “Panda” chronograph, featuring a flowing case shape and a light blue dial beneath curved sapphire crystal. A countdown timer with Lumibrite detailing enhances clarity, reinforcing its motorsport‑ready functionality. Meanwhile, the Petrol Blue HBC004 channels the neo‑classic “young‑timer” cars of the 1970s. Its rich petrol blue dial is paired with a sustainable LWG‑approved leather strap embossed with patterns inspired by vintage car interiors, creating a strong connection to automotive heritage.Housed in a compact, versatile 39.5mm stainless steel case AND measuring 12mm in thickness, the watches run on Seiko's in-house 6R55 automatic movement. Delivering a 72-hour power reserve and a date window discreetly positioned at 4:30, the timepieces also boast a robust 200-meter water resistance rating. Both references are available for pre-order starting now via Seikoboutique.co.uk, with retail pricing set between £840 - £870 GBP (approx. $1,137 - $1,177 USD). Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "649ca6dd183d4f71",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Universal Studios Hollywood’s ‘Fast & Furious:’ Hollywood Drift Races to a September 16 Opening",
+      "url": "https://hypebeast.com/2026/9/fast-and-furious-hollywood-drift-universal-studios-hollywood-rollercoaster-opening-info",
+      "publishedAt": "2026-09-01T08:20:01.000Z",
+      "collectedAt": "2026-09-01T16:21:02.746Z",
+      "text": "Universal Studios Hollywood’s ‘Fast & Furious:’ Hollywood Drift Races to a September 16 Opening Summary Universal Studios Hollywood has set a September 16 opening for 'Fast & Furious:' Hollywood Drift, its first outdoor high-speed coasterThe ride runs independently rotating cars across 4,100 feet of aerial track at speeds up to 72 mphUniversal is billing it as the fastest roller coaster in its global portfolio Fast & Furious: Hollywood Drift, the new high-speed roller coaster at Universal Studios Hollywood, will open to the public on September 16. Positioned as the park's first outdoor high-speed coaster, the ride translates the franchise's obsession with drifting into a physical system of spinning cars racing along an elevated track.Each car uses 360-degree rotation technology, spinning independently as the train moves so riders feel the sensation of a car breaking traction and drifting rather than simply cornering. Because the cars are programmed individually, the experience shifts depending on which vehicle a rider is seated in. The coaster reaches up to 72 mph across roughly 4,100 feet of aerial track, a distance the park compares to about 12 football fields, with the layout threading over sections of the park below. Universal frames it as the fastest roller coaster in its global lineup of parks.The build had to bend to its surroundings. Rather than clearing flat ground, the team routed the coaster down the terraced hillside of the Upper Lot, using the steep natural grade of the studio site as the structure's backbone and housing it within a red-brick, garage-themed facade. A portion of the track also runs through a transparently encased stretch of the queue, letting waiting guests watch cars race past mid-line.The vehicles themselves pull directly from the films. The ride cars are modeled on some of the saga's most recognizable machines, including Dominic Toretto's 1970 Dodge Charger, Han's Mazda RX-7, and Brian O'Conner's blue Nissan Skyline GT-R and orange Toyota Supra. The queue extends the theming with recreated props from the films and QR-code displays that open additional behind-the-scenes content through Universal's Backlot Club fan platform.Fast & Furious: Hollywood Drift opens at Universal Studios Hollywood on September 16, following earlier delays that Universal addressed in part by installing transparent sound-reduction barriers along portions of the ride. A separate version of the coaster is due at Universal Orlando in 2027. Click here to "
+    },
+    {
+      "id": "395e66a3026af5df",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole",
+      "url": "https://hypebeast.com/2026/9/beams-boy-clarks-desert-trek-gore-tex-mocha-13320068100-release-info",
+      "publishedAt": "2026-09-01T08:19:33.000Z",
+      "collectedAt": "2026-09-01T16:21:02.746Z",
+      "text": "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole Name: BEAMS BOY x Clarks Desert Trek GORE-TEXColorway: MochaSKU: 13320068100MSRP: ¥33,000 JPY (approx. $210 USD)Release Date: September 2026Where to Buy: BEAMSBEAMS BOY and Clarks have rebuilt the Desert Trek for wet weather, fitting the long-running silhouette with a GORE-TEX membrane in a new special-order model. The collaboration keeps the shoe's familiar shape while reengineering what protects and supports the foot, aimed at year-round, all-conditions wear.The weatherproofing is the headline change. The build integrates GORE-TEX for all-weather coverage, the source's stated case for wearing it through rain without hesitation, turning a traditionally fair-weather silhouette into something more rugged.Underfoot, the shoe uses a two-layer setup. A high-grip Vibram outsole is paired with a crepe midsole, and that stacked construction is what recreates the distinctive volume of the original Desert Trek rather than flattening it out. The leather upper is chosen to age with wear, gaining character the longer it's worn.Smaller details carry the collaboration's fingerprints. The insole is finished in a turquoise tone, a nod to the Native American jewelry long associated with BEAMS BOY, tucked out of sight as a quiet signature. The shoe also arrives with three interchangeable laces, so the finish can be dialed between understated and more playful depending on the day.The palette ties it together. The special order comes in a custom “Mocha” shade positioned between brown and beige, a restrained mid-tone meant to slide across everything from casual to trad styling. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f6949c08b0448933",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Cartier Skeletonizes the Tank Américaine for the First Time With the New 1988 MC Caliber",
+      "url": "https://hypebeast.com/2026/9/cartier-tank-americaine-tank-americaine-skeleton-watches-crwgta0371-crwhta0041-crwhta0040-release-info",
+      "publishedAt": "2026-09-01T08:08:24.000Z",
+      "collectedAt": "2026-09-01T16:21:02.746Z",
+      "text": "Cartier Skeletonizes the Tank Américaine for the First Time With the New 1988 MC Caliber Summary Cartier is expanding the Tank Américaine with a pair of skeleton watches and a burgundy Art Deco model, all keeping the collection's elongated, curved caseThe skeletons debut the hand-wound 1988 MC caliber, the first skeleton movement fitted to the Américaine, with bridges shaped as Roman numeralsThe skeletons come in platinum and rose gold, while the Art Deco model runs an automatic caliber in platinum Cartier is pushing the Tank Américaine into openworked territory for the first time, introducing two skeleton editions built around a new hand-wound caliber alongside an automatic model with a graduated burgundy dial. Each retains the elongated, curved case that has defined the Américaine since 1988, now used as a frame for very different technical and decorative treatments.The headline development sits under the crystal. Both skeleton watches run the 1988 MC, a manually wound movement making its Tank Américaine debut and named for the year the model itself launched. Rather than hiding the mechanics, Cartier shapes the movement's bridges into Roman numerals and suspends them within the case, so the openworked structure doubles as the dial's typography. The bridges curve to follow the case, reinforcing the vertical lines that give the Américaine its stretched silhouette. The caliber carries 24 jewels and beats at 28,800 vibrations per hour, with the movement measuring 33.9 x 20.8 mm across and 4.2 mm thick.The two skeletons are separated by metal and stone. The platinum reference pairs a matching platinum faceted crown set with a faceted ruby against blued-steel sword hands, and ships on two straps, a semi-matte burgundy alligator and a dark gray alligator, closed with a platinum interchangeable deployant buckle. The rose gold version swaps in a faceted sapphire on its crown, arrives on a navy blue alligator strap with a second dark gray strap, and offers roughly a 50-hour power reserve. Both measure 44.4 x 24.4 mm with a case 8.24 mm thick and are water-resistant to 3 bar.The third watch trades openwork for depth of color. The Tank Américaine large model in platinum runs the automatic 1899 MC caliber and centers on a burgundy dial worked in opaline and a satin sunray effect, matched to rhodiumized steel sword hands beneath a sapphire crystal. It shares the 44.4 x 24.4 mm footprint, sits 8.6 mm thick, and comes on a semi-matte burgundy alligator strap fastened wi"
+    },
+    {
+      "id": "f0da72610ab3a579",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NOT A HOTEL and ‘Pokémon Sleep’ Turn a Poké Ball Into a Place You Can Actually Sleep In",
+      "url": "https://hypebeast.com/2026/9/pokemon-sleep-not-a-hotel-poke-ball-themed-hokkaido-collaboration-announcement-info",
+      "publishedAt": "2026-09-01T08:07:16.000Z",
+      "collectedAt": "2026-09-01T16:21:02.746Z",
+      "text": "NOT A HOTEL and ‘Pokémon Sleep’ Turn a Poké Ball Into a Place You Can Actually Sleep In Summary NOT A HOTEL and Pokémon Sleep have announced a collaboration centered on a Poké Ball-themed hotel in HokkaidoThe project reimagines the Poké Ball as a restful space for people, echoing the sleep-tracking game at its coreA campaign will give entrants the chance to stay in the one-off structure, with details due in mid-September NOT A HOTEL and Pokémon Sleep are joining forces on a Poké Ball you can spend the night inside. Set to appear in Hokkaido this September, the \"Poké Ball-Themed Hotel\" translates one of gaming's most recognizable objects into a real, stayable retreat, with the collaboration's full scope held back until a September 15 reveal.In the games, a Poké Ball is meant to be a comfortable home for the Pokémon inside it, and the collaboration extends that idea to human guests, shaping a space designed around deep rest and calm. That framing is a natural fit for Pokémon Sleep, the sleep-tracking app that turns a good night into a game, measuring and recording rest so players can collect the various sleeping poses of Pokémon gathering around a slumbering Snorlax.Realizing a spherical hotel as somewhere people can genuinely stay plays directly to NOT A HOTEL's wheelhouse. The company has built its name on treating architecture and technology as the whole point rather than a backdrop, commissioning one-off homes from established architects and creators and wrapping them in concierge-level service, part of a stated mission to raise the value of Japan itself. A Poké Ball dropped into the Hokkaido landscape is exactly the kind of high-concept build that reads as an extension of that approach rather than a novelty bolted onto it.For now, the brand is keeping the interior under wraps. The release stops short of showing what the space looks like or how a night in it unfolds, promising instead that the entirety of the \"sleepable Poké Ball\" will be unveiled on September 15. What is confirmed is the mechanism for getting in: rather than a public opening, the stay will be offered through a campaign, a winners-only experience that will not be open to the general public during its run.Full details on the Poké Ball-Themed Hotel, including how to enter the stay campaign, are set to be announced on September 15 via Pokemon Sleep. Click here to view full gallery at Hypebeast"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "run": {
-    "id": "2026-08-31",
+    "id": "2026-09-01",
     "mode": "live",
-    "displayDate": "AUG 31, 2026, 02:59 PM EDT",
-    "generatedAt": "2026-08-31T18:59:46.489Z",
-    "itemsCollected": 43,
+    "displayDate": "SEP 01, 2026, 12:21 PM EDT",
+    "generatedAt": "2026-09-01T16:21:04.009Z",
+    "itemsCollected": 55,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 13
+        "count": 8
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -31,18 +31,18 @@
       "name": "Quiet performance",
       "stage": "emerging",
       "score": 48,
-      "confidence": 24,
-      "youthRelevance": 73,
+      "confidence": 25,
+      "youthRelevance": 81,
       "direction": "up",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
       "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
       "citations": [
         {
-          "title": "Everything Dropping at Palace This Week",
+          "title": "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole",
           "source": "Hypebeast",
-          "date": "Aug 31",
-          "url": "https://hypebeast.com/2026/8/palace-skateboards-fall-2026-drop-5-release-info"
+          "date": "Sep 1",
+          "url": "https://hypebeast.com/2026/9/beams-boy-clarks-desert-trek-gore-tex-mocha-13320068100-release-info"
         }
       ]
     },
@@ -71,6 +71,26 @@
           "url": "https://hypebeast.com/2026/8/supreme-larry-clark-collaboration-fall-2026-release-info"
         }
       ]
+    },
+    {
+      "id": "narrow-technical-footwear",
+      "name": "Narrow technical footwear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 46,
+      "direction": "up",
+      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
+          "source": "Highsnobiety",
+          "date": "Aug 31",
+          "url": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/"
+        }
+      ]
     }
   ],
   "cooling": {
@@ -82,11 +102,11 @@
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0831",
+    "code": "AUTO 0901",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "Everything Dropping at Palace This Week"
+      "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole"
     ]
   }
 }
