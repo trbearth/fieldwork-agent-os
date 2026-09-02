@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-01",
+    "id": "2026-09-02",
     "mode": "live",
-    "displayDate": "SEP 01, 2026, 12:21 PM EDT",
-    "generatedAt": "2026-09-01T16:21:04.009Z",
-    "itemsCollected": 55,
+    "displayDate": "SEP 02, 2026, 12:19 PM EDT",
+    "generatedAt": "2026-09-02T16:19:13.992Z",
+    "itemsCollected": 47,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -47,32 +47,6 @@
       ]
     },
     {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 45,
-      "confidence": 48,
-      "youthRelevance": 68,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
-      "citations": [
-        {
-          "title": "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
-          "source": "Vogue",
-          "date": "Aug 26",
-          "url": "https://www.vogue.com/slideshow/dolly-parton-quotes-on-life-love-and-everything-in-between"
-        },
-        {
-          "title": "Supreme Celebrates Larry Clark's 'Tulsa' Legacy in New FW26 Collaboration",
-          "source": "Hypebeast",
-          "date": "Aug 31",
-          "url": "https://hypebeast.com/2026/8/supreme-larry-clark-collaboration-fall-2026-release-info"
-        }
-      ]
-    },
-    {
       "id": "narrow-technical-footwear",
       "name": "Narrow technical footwear",
       "stage": "emerging",
@@ -91,18 +65,58 @@
           "url": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/"
         }
       ]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 70,
+      "direction": "up",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "PLEASURES and Umbro Revisit '90s British Terrace Style in a New Capsule Collection",
+          "source": "Hypebeast",
+          "date": "Sep 2",
+          "url": "https://hypebeast.com/2026/9/pleasures-umbro-britpop-football-collaboration-collection-release-info"
+        }
+      ]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 31,
+      "confidence": 29,
+      "youthRelevance": 65,
+      "direction": "down",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 5 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · -60% seven-day velocity",
+      "citations": [
+        {
+          "title": "Supreme Celebrates Larry Clark's 'Tulsa' Legacy in New FW26 Collaboration",
+          "source": "Hypebeast",
+          "date": "Aug 31",
+          "url": "https://hypebeast.com/2026/8/supreme-larry-clark-collaboration-fall-2026-release-info"
+        }
+      ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "3 mentions this week versus 5 in the prior seven-day window."
+    "reason": "2 mentions this week versus 5 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0901",
+    "code": "AUTO 0902",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
