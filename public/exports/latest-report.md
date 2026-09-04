@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-09-03
+# Fieldwork Daily Signal — 2026-09-04
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -34,13 +34,14 @@ Archival sportswear is appearing across 1 independent public source.
 
 ## 4. Decorated basics
 
-**emerging · score 31 · confidence 29% · youth 65%**
+**emerging · score 39 · confidence 44% · youth 57%**
 
-Decorated basics is appearing across 1 independent public source.
+Decorated basics is appearing across 2 independent public sources.
 
-2 observations · 1 independent source · -60% seven-day velocity
+2 observations · 2 independent sources · -67% seven-day velocity
 
 - [Supreme Celebrates Larry Clark's 'Tulsa' Legacy in New FW26 Collaboration](https://hypebeast.com/2026/8/supreme-larry-clark-collaboration-fall-2026-release-info) — Hypebeast, Aug 31
+- [10 Fall 2026 Accessory Trends That Stole the Show](https://www.vogue.com/article/fall-2026-accessory-trends) — Vogue, Sep 4
 
 ## Method note
 

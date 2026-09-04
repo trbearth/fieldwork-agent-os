@@ -1373,6 +1373,53 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-04",
+      "mode": "live",
+      "displayDate": "SEP 04, 2026, 12:04 PM EDT",
+      "generatedAt": "2026-09-04T16:04:24.020Z",
+      "itemsCollected": 56,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 28
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 12
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 48,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 39,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -20955,6 +21002,622 @@
       "publishedAt": "2026-09-03T07:31:32.000Z",
       "collectedAt": "2026-09-03T16:09:28.633Z",
       "text": "KidSuper and BÉIS Turn Luggage Into a Canvas With Their \"Graffiti Cargo\" Travel Capsule Summary BÉIS and KidSuper have partnered on a nine-piece travel capsule that introduces the brand's first-ever TrunkEvery piece is wrapped in one of two custom KidSuper prints drawn from Colm Dillane's paintings and hand-drawn graphicsThe collection debuted on the runway during KidSuper's Spring/Summer 2027 show in Miami BÉIS and KidSuper have joined forces on a nine-piece travel collection that treats luggage as something to look at rather than something to overlook. The capsule first surfaced on the runway at KidSuper's Spring/Summer 2027 show in Miami this past June, worn by BÉIS founder Shay Mitchell, and pairs the label's functional travel design with the imagination Colm Dillane has built KidSuper on.The collection's centerpiece is a milestone for BÉIS: The Trunk Check-In Roller, the brand's debut entry in the category and a long-requested addition. It arrives with a wide 70/30 opening, detachable kickstand straps, braking wheels and interior organization built for the piece's scale. Alongside it sits the newest expansion of the sold-out Hybrid Rollers, offered in Check-In and Carry-On formats and equipped with the patent-pending BÉIS Coupling System, which links multiple Hybrid rollers together so they move as a single unit. Filling out the range are a Carryall Duffle, a Pro Travel Backpack Carryall Duffle, a Pro Travel Crossbody, Luggage Covers and a Luggage Tag, several of them pulled from the existing BÉIS Pro Collection.Where the hardware comes from BÉIS, the personality comes from Dillane. Each piece carries one of two custom prints: the Graffiti Cargo artwork or his vivid Finale painting. The Cargo design has an origin story rooted in how KidSuper actually operates. Dillane and his team spent years hauling collections between projects in cardboard shipping boxes rather than proper luggage, and that habit became the concept's jumping-off point, reimagining the worn, well-traveled look of a beat-up box, hand-drawn graphics and all, as a genuinely functional bag.For Dillane, the appeal was in claiming territory most designers ignore. \"I travel constantly, so I've spent a ridiculous amount of my life thinking about bags and luggage. I don't think it's a category that always gets treated as a creative canvas, and there's no reason it shouldn't be... I love the idea of making a piece of art that then literally travels around the world with someone,\" he said. That"
+    },
+    {
+      "id": "f7919d024711a0cb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Isaac Mizrahi Fall 1994 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/fall-1994-ready-to-wear/isaac-mizrahi",
+      "publishedAt": "2026-09-04T15:59:41.000Z",
+      "collectedAt": "2026-09-04T16:04:20.047Z",
+      "text": "Isaac Mizrahi Fall 1994 Ready-to-Wear "
+    },
+    {
+      "id": "eb226817c6d682d9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Unzipped: The Oral History",
+      "url": "https://www.vogue.com/article/unzipped-25-year-anniversary-isaac-mizrahi-douglas-keeve-interviews",
+      "publishedAt": "2026-09-04T14:00:22.000Z",
+      "collectedAt": "2026-09-04T16:04:20.047Z",
+      "text": "Unzipped: The Oral History As this beloved documentary heads back to cinemas, Isaac Mizrahi, Douglas Keeve, and Nina Santisi—the film’s star, director, and producer, respectively, tell Vogue how it all came together back in 1995."
+    },
+    {
+      "id": "7f4657d73ee6cdc7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue’s Guide to Palm Beach: Where to Sleep, Eat, and Shop",
+      "url": "https://www.vogue.com/article/vogue-editors-guide-to-palm-beach",
+      "publishedAt": "2026-09-04T14:00:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.047Z",
+      "text": "Vogue’s Guide to Palm Beach: Where to Sleep, Eat, and Shop All about Palm Beach, where glossy green lawns sit adjacent to sandy beaches and no one waits till cocktail hour to get things shaking."
+    },
+    {
+      "id": "4aff08487b4d8dc7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Where to Stay, Eat, and Play in Florence, Italy",
+      "url": "https://www.vogue.com/article/florence-italy-guide",
+      "publishedAt": "2026-09-04T13:45:29.000Z",
+      "collectedAt": "2026-09-04T16:04:20.047Z",
+      "text": "Where to Stay, Eat, and Play in Florence, Italy Here, find Vogue’s ultimate guide to Italy’s Renaissance city."
+    },
+    {
+      "id": "b09fbc0e328bcf37",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Street Style Photos From the Spring 2027 Shows in Seoul",
+      "url": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-seoul",
+      "publishedAt": "2026-09-04T13:45:13.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "The Best Street Style Photos From the Spring 2027 Shows in Seoul Young Chul Kim photographs the best dressed guests at the spring 2027 shows in Seoul."
+    },
+    {
+      "id": "ca40258efabde9ab",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Julie Kegels Wins 2026 LVMH Prize, Lii Wins Karl Lagerfeld and Yoshita 1967 Wins Savoir-Faire",
+      "url": "https://www.vogue.com/article/julie-kegels-wins-2026-lvmh-prize-lii-wins-karl-lagerfeld-and-yoshita-1967-wins-savoir-faire",
+      "publishedAt": "2026-09-04T13:39:05.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "Julie Kegels Wins 2026 LVMH Prize, Lii Wins Karl Lagerfeld and Yoshita 1967 Wins Savoir-Faire Each emerging designer will leave Paris with a cash prize and a long-term mentorship to scale their brand."
+    },
+    {
+      "id": "260ce06606533e0c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Brave New Visions: Creativity as Rebellion. A Global Open Call by PhotoVogue",
+      "url": "https://www.vogue.com/article/brave-new-visions-creativity-as-rebellion-a-global-open-call-by-photovogue",
+      "publishedAt": "2026-09-04T13:38:47.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "Brave New Visions: Creativity as Rebellion. A Global Open Call by PhotoVogue The PhotoVogue Global Open Call 2026 invites artists from all over the world to submit works that are an act of courage resisting against indifference."
+    },
+    {
+      "id": "713ccab58152317e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The DVF Awards Celebrated Extraordinary Women—and Honored the Legacy of Gloria Steinem",
+      "url": "https://www.vogue.com/slideshow/dvf-awards-venice-2026",
+      "publishedAt": "2026-09-04T13:37:56.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "The DVF Awards Celebrated Extraordinary Women—and Honored the Legacy of Gloria Steinem On Thursday evening, Venice's Teatro Goldoni provided the setting for a gathering of women who tend to make things happen rather than wait for them to happen: the 17th edition of the DVF Awards."
+    },
+    {
+      "id": "272b68bfb0f5e084",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Behave Yourself at the US Open",
+      "url": "https://www.vogue.com/article/how-to-behave-at-the-us-open",
+      "publishedAt": "2026-09-04T12:58:40.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "How to Behave Yourself at the US Open Like it or not, there are a few stringent matters of etiquette unique to the game that, as Naomi Osaka noted this week, need to be respected. So, herewith, our nonnegotiable, no-nonsense rules for behavior at the US Open."
+    },
+    {
+      "id": "7270667c86ba2dac",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Spots! Sparkles! Amal Clooney’s Venice Film Festival Fashion Is Party-Ready",
+      "url": "https://www.vogue.com/article/amal-clooney-venice-film-festival-fashion",
+      "publishedAt": "2026-09-04T12:56:15.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "Spots! Sparkles! Amal Clooney’s Venice Film Festival Fashion Is Party-Ready Joining husband George—who picked up a lifetime achievement award at the festival earlier this week—Amal Clooney is making the most of her late summer wardrobe."
+    },
+    {
+      "id": "09b70f1f199ee801",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 8 Best Lunches for a Healthy Gut",
+      "url": "https://www.vogue.com/article/best-lunches-for-gut-health",
+      "publishedAt": "2026-09-04T11:58:33.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "The 8 Best Lunches for a Healthy Gut Breakfast provides a strong base for keeping your gut health in check, but lunch is just as important. Here, experts break down the best lunch options for a healthy gut."
+    },
+    {
+      "id": "238a4897394e24cf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Whatever the Season, Zoë Kravitz Backs These It-Girl Staples",
+      "url": "https://www.vogue.com/article/whatever-the-season-zoe-kravitz-backs-these-it-girl-staples",
+      "publishedAt": "2026-09-04T11:56:30.000Z",
+      "collectedAt": "2026-09-04T16:04:20.048Z",
+      "text": "Whatever the Season, Zoë Kravitz Backs These It-Girl Staples Whether it’s Cou Cou Intimates or Saint Laurent, Zoë Kravitz has her transeasonal outfit formula down."
+    },
+    {
+      "id": "97662ef5ba4ab1e3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Khoki Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/khoki",
+      "publishedAt": "2026-09-04T15:59:41.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Khoki Tokyo Spring 2027 "
+    },
+    {
+      "id": "dd9b9543ff497752",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "6 Reasons to Eat Sunflower Seeds Daily",
+      "url": "https://www.vogue.com/article/6-reasons-to-eat-sunflower-seeds-daily",
+      "publishedAt": "2026-09-04T11:30:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "6 Reasons to Eat Sunflower Seeds Daily Experts explain how the small-but-mighty sunflower seed makes a great addition to your diet by supporting immune health and helping combat oxidative stress."
+    },
+    {
+      "id": "3e9185b6646d8906",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“I Don’t Have the Regrets that Are Sometimes Assumed”: An Excerpt from Gloria Steinem’s New Memoir",
+      "url": "https://www.vogue.com/article/gloria-steinems-forthcoming-memoir",
+      "publishedAt": "2026-09-04T11:00:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "“I Don’t Have the Regrets that Are Sometimes Assumed”: An Excerpt from Gloria Steinem’s New Memoir In this exclusive excerpt from her landmark, forthcoming memoir, Steinem discussed the trajectory of her life and what she hoped to leave behind."
+    },
+    {
+      "id": "d6583d66c36407be",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beyoncé’s Greatest Fashion Moments, From Destiny’s Child Boy Scout to ‘Cowboy Carter’ Vuitton",
+      "url": "https://www.vogue.com/slideshow/beyonce-iconic-fashion-moments",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Beyoncé’s Greatest Fashion Moments, From Destiny’s Child Boy Scout to ‘Cowboy Carter’ Vuitton In honor of Beyoncé's birthday, take a look back at some of our favorite looks from her storied career."
+    },
+    {
+      "id": "6aa428d66b35b093",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Aperitivo Hour: A Birthday Block Party With Jennifer and Nicole Vitagliano",
+      "url": "https://www.vogue.com/article/aperitivo-hour-jennifer-nicole-vitagliano",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Aperitivo Hour: A Birthday Block Party With Jennifer and Nicole Vitagliano Restaurateurs (and twin sisters) Jennifer and Nicole Vitagliano take us behind the scenes of their late-summer New York City block party."
+    },
+    {
+      "id": "be980095a1425953",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 Fall 2026 Accessory Trends That Stole the Show",
+      "url": "https://www.vogue.com/article/fall-2026-accessory-trends",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "10 Fall 2026 Accessory Trends That Stole the Show From printed scarves to floral brooches and weighty charm necklaces, these 10 fall 2026 accessory trends made us take a closer look."
+    },
+    {
+      "id": "34f74bd5898487f7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Orimi Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/orimi",
+      "publishedAt": "2026-09-04T15:59:41.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Orimi Tokyo Spring 2027 "
+    },
+    {
+      "id": "e9973bfbf38cd65e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sonia Carrasco Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/sonia-carrasco",
+      "publishedAt": "2026-09-04T15:59:41.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Sonia Carrasco Tokyo Spring 2027 "
+    },
+    {
+      "id": "e9ce679729628a02",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The New Luxury Flex? Your Vagina",
+      "url": "https://www.vogue.com/article/the-new-luxury-flex-your-vagina",
+      "publishedAt": "2026-09-04T09:30:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "The New Luxury Flex? Your Vagina From microbiome testing to diagnostic tampons, a new generation of companies is building an emerging market around vaginal health."
+    },
+    {
+      "id": "e21b94560b222c23",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Would You Go on a Glowcation? K-Beauty Is Betting So",
+      "url": "https://www.vogue.com/article/would-you-go-on-a-glowcation-k-beauty-is-betting-so",
+      "publishedAt": "2026-09-04T09:30:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Would You Go on a Glowcation? K-Beauty Is Betting So Seoul has overtaken London and Dubai to become the world’s busiest international airport, with a majority of visitors citing “dermatology” as their reason for travel. From advanced derma to rule-bending makeup and fragrance, here’s what will hit big next in K-beauty."
+    },
+    {
+      "id": "8e06258f7152ae6b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Venice Hit ‘Wild Horse Nine’ Is Galloping Into the Awards Race",
+      "url": "https://www.vogue.com/article/wild-horse-nine-venice-review",
+      "publishedAt": "2026-09-04T09:00:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Venice Hit ‘Wild Horse Nine’ Is Galloping Into the Awards Race Martin McDonagh’s latest romp, starring John Malkovich, Sam Rockwell, and Parker Posey, just premiered at the Venice Film Festival—and is heading straight for the Oscars."
+    },
+    {
+      "id": "94909d107c6668e4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Everything You Need to Know About New York Fashion Week, Spring 2027 Edition",
+      "url": "https://www.vogue.com/article/new-york-fashion-week-spring-2027-preview",
+      "publishedAt": "2026-09-04T09:00:00.000Z",
+      "collectedAt": "2026-09-04T16:04:20.049Z",
+      "text": "Everything You Need to Know About New York Fashion Week, Spring 2027 Edition A list of restaurant openings, anniversaries, debuts and other happenings beyond the runway at New York Fashion Week."
+    },
+    {
+      "id": "be059bec2c8345ec",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "12 Amsterdam Brands We Love",
+      "url": "https://www.highsnobiety.com/p/12-amsterdam-brands-we-love/",
+      "publishedAt": "2026-09-04T14:56:39.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "12 Amsterdam Brands We Love Highsnobiety curates the best brands to browse, buy, and know in Amsterdam."
+    },
+    {
+      "id": "908e5621780ac182",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Put One of Its Slimmest Sneakers on Double-Lace Duty",
+      "url": "https://www.highsnobiety.com/p/adidas-tokyo-brown-laces/",
+      "publishedAt": "2026-09-04T14:29:00.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "adidas Put One of Its Slimmest Sneakers on Double-Lace Duty adidas’ slim Tokyo sneaker gets a playful update with a rich brown colorway and double-lace detailing, adding a fresh twist to the ’70s-inspired silhouette."
+    },
+    {
+      "id": "e88b33edd04b2414",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "lululemon’s Latest Collection Has Plans After Practice",
+      "url": "https://www.highsnobiety.com/p/lululemons-latest-collection-has-plans-after-practice/",
+      "publishedAt": "2026-09-04T14:16:30.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "lululemon’s Latest Collection Has Plans After Practice Activewear brand lululemon launches new 2026 athletic-wear collection on Zalando."
+    },
+    {
+      "id": "2cd4d6ec18785986",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans Quilted Slip-On Is a (Patch) Work of Art",
+      "url": "https://www.highsnobiety.com/p/vans-premium-classic-slip-on/",
+      "publishedAt": "2026-09-04T11:14:01.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "Vans Quilted Slip-On Is a (Patch) Work of Art Vans just upgraded its super simple slip-on sneaker with a charming patchwork quilt."
+    },
+    {
+      "id": "eeb1762be737872d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Next Big Thing in Coffee Is Surprisingly Small",
+      "url": "https://www.highsnobiety.com/p/lavazza-tabli-coffee-tab-at-home-espresso/",
+      "publishedAt": "2026-09-04T10:49:08.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "The Next Big Thing in Coffee Is Surprisingly Small Meet Lavazza Tablì, a new 100% coffee tab bringing a fresh take to at-home espresso. Discover the new format debuting in the U.S. this summer."
+    },
+    {
+      "id": "cac967c3ad7957ad",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Best adidas Sneaker Releases This Week",
+      "url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-1/",
+      "publishedAt": "2026-09-04T09:30:55.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "The Best adidas Sneaker Releases This Week The first weekly instalment of release round-up is all about icons, new and old, that are perfect for the streets."
+    },
+    {
+      "id": "dc7c77b1402c680a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas & Pharrell Want You to Walk on Water",
+      "url": "https://www.highsnobiety.com/p/pharrell-adidas-watermoc-virginia-starfish/",
+      "publishedAt": "2026-09-04T08:34:12.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "adidas & Pharrell Want You to Walk on Water Pharrell is bringing the adidas Watermoc V shoe back from the archives to take over land & sea."
+    },
+    {
+      "id": "096e58d3b045d838",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Amsterdam Fashion Week Is Changing. The Bikes Are Not",
+      "url": "https://www.highsnobiety.com/p/amsterdam-fashion-week-2026-recap/",
+      "publishedAt": "2026-09-03T21:25:51.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "Amsterdam Fashion Week Is Changing. The Bikes Are Not Amsterdam Fashion Week 2026 felt like the event's pinnacle moment. Never has it felt so dynamic while still feeling unbelievably unpretentious."
+    },
+    {
+      "id": "ae463994722fa6ed",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "All These Woven Shoes Are Bottega at Its Best",
+      "url": "https://www.highsnobiety.com/p/bottega-veneta-klog/",
+      "publishedAt": "2026-09-04T08:29:07.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "All These Woven Shoes Are Bottega at Its Best Everything from Nike to Converse may be Botega-fying their shoes, but a new Intrecciato-woven Bottega Veneta Klog Mule proves nobody does it like the OG."
+    },
+    {
+      "id": "f76502351da56a5c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "\"We Didn’t Design the Store for a Broader Audience\": Satisfy's Store Is for the Heads",
+      "url": "https://www.highsnobiety.com/p/satisfy-store-interview/",
+      "publishedAt": "2026-09-03T18:32:00.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "\"We Didn’t Design the Store for a Broader Audience\": Satisfy's Store Is for the Heads Satisfy's first-ever flagship store is not \"for a broader audience,\" founder Brice Partouche tells us. This is a running store for Satisfy enjoyers."
+    },
+    {
+      "id": "c79118d74f0c7af9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "COMME des GARÇONS Found the Air Jordan 11's Purest Form",
+      "url": "https://www.highsnobiety.com/p/cdg-homme-plus-aj11/",
+      "publishedAt": "2026-09-03T16:15:52.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "COMME des GARÇONS Found the Air Jordan 11's Purest Form The first-ever collaborative release of the Nike Air Jordan 11 sees COMME des GARÇONS HOMME PLUS cut straight to the soul of the iconic sneaker."
+    },
+    {
+      "id": "e13e96268d68bccc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Another Glam Grunge Vans Sneaker Enters the Chat",
+      "url": "https://www.highsnobiety.com/p/harris-tweed-vans-old-skool-36/",
+      "publishedAt": "2026-09-04T08:31:15.000Z",
+      "collectedAt": "2026-09-04T16:04:21.416Z",
+      "text": "Another Glam Grunge Vans Sneaker Enters the Chat Harris Tweed just inducted another Vans Old Skool sneaker into the punk rock hall of fame."
+    },
+    {
+      "id": "9f855010198aaf89",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: SATISFY",
+      "url": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-satisfy-3",
+      "publishedAt": "2026-09-04T14:08:43.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "New Arrivals From HBX: SATISFY Brand Information: Brice Partouche, founder of SATISFY, drew inspiration from his diverse music, fashion, and sports background to craft a brand that transcends traditional running apparel. His early life, shaped by snowboarding and skateboarding, instilled a rebellious spirit, which later influenced SATISFY's design philosophy. After experiencing the transformative power of running, Partouche was inspired to create apparel that enhances performance and embodies the euphoria of the runner's high. This led to SATISFY, where fashion meets function, using premium European materials and innovative fabrics like Justice and MothTech. His vision combines high design with performance technology, aiming to foster a community that values freedom, style, and the pursuit of personal enlightenment through running.Price Range: $90.00 USD - $410.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "edac49c7a8bacd3c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "PUMA and Hypebeast Hosted “Suede Sessions” in London",
+      "url": "https://hypebeast.com/2026/9/puma-hypebeast-suede-sessions-london-event-recap",
+      "publishedAt": "2026-09-04T14:01:15.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "PUMA and Hypebeast Hosted “Suede Sessions” in London Under the arches of Waterloo in London, Hypebeast hosted “Suede Sessions” in collaboration with PUMA last week. Inspired by generations of music subcultures connected to the iconic Suede silhouette, the event set out to platform the distinct sounds and eclectic genres shaping the local music scene today.As the first event of its kind, Yussef Dayes was enlisted to unite emerging music artists and a handful of established rappers, musicians, and vocalists through a unique two-part format. Comprising an artist workshop, followed by a live performance later in the day, each activation was hosted by the drummer and composer who brought his genre-blending jazz to the forefront.Dayes kicked off the event with the music-making session. Acting as a creative incubator, the workshop saw the drummer offer advice to help the participants elevate their respective sounds. After collaborating, the workshop culminated in a collective jam as the artists showcased their latest material to the group. A few hours later, the venue was prepared for a live performance headlined by Dayes. In keeping with the graffiti-emblazoned tunnels outside, it was lit up in moody orange lights and featured spray-painted branding on the walls around the main stage. Elsewhere, a pop-up studio was erected for guests to take their own Polaroid portraits. For the first performance, Nepali-American singer-songwriter Parijita set the mood with her ballads, layering deeply melodic vocals and gentle piano notes. London-based music duo ZENA then picked up the tempo, playing a mix of Ethiopian-inspired jazz and dub. Riffing on the melting pot of music styles, Saiming, a rapper hailing from South London, followed on with his blend of grime and neo-jazz. In a crescendo to the night, Dayes took the stage for the final performance. Having recently announced a feature in Wyclef Jean’s new album Q, guests crowded around eager to get up close to listen to his latest music. Over the 30-minute set, he opted for a mix of tracks from his albums, including Black Classical Music, while also going freestyle to honor the playful and experimental edge of London’s music scene. View this post on InstagramA post shared by HYPEBEAST UK (@hypebeastuk) If you missed out, check out what went down at “Suede Sessions” in the gallery above. You can also shop the latest colorways of the PUMA Suede on the brand’s website, global stores and partner retailers. Click here to view fu"
+    },
+    {
+      "id": "1462a99a701fe09e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A. Lange & Söhne Reimagines the Classic 1815 UP/DOWN With Striking Blue Dials",
+      "url": "https://hypebeast.com/2026/9/a-lange-sohne-1815-up-down-triple-split-release-info",
+      "publishedAt": "2026-09-04T12:00:17.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "A. Lange & Söhne Reimagines the Classic 1815 UP/DOWN With Striking Blue Dials Summary A. Lange & Söhne debuts new 1815 UP/DOWN and TRIPLE SPLIT editions at Concours of Elegance 2026.The 37.5mm 1815 UP/DOWN drops in white and pink gold with blue dials, limited to 300 pieces each.The platinum TRIPLE SPLIT features a rhodié dial and grey subdials, capped at 100 units. A. Lange & Söhne has unveiled its latest watchmaking novelties. Emphasizing the brand’s commitment to combining classic Glashütte aesthetics with complex mechanical engineering, the Saxon manufacture extends two of its most celebrated families. The release brings a fresh interpretation to traditional watchmaking, debuting refined colorways across both an elegant classic dress watch and an unprecedented horological benchmark.The first highlight of the unveiling is the new 1815 UP/DOWN, a model deeply rooted in the heritage of Ferdinand Adolph Lange’s historic pocket watches. Housed in a compact case measuring 37.5 mm in diameter and just 8.7 mm in height, the timepiece focuses entirely on its power-reserve display positioned opposite the subsidiary seconds sub-dial. Driven by the manually wound L051.2 manufacture calibre, the AUF (UP) and AB (DOWN) indicators are integrated directly into the movement via a space-saving planetary gear system rather than an added module. Offered in 750 white gold and 750 pink gold- each strictly limited to 300 pieces - the new iterations pair deep blue dials with argenté-coloured auxiliary sub-dials, railway-track minute scales, and blued hands, creating a contemporary contrast with classic Glashütte aesthetics.Alongside this, the watchmaker also presents a new iteration of the ultimate chronograph benchmark: the TRIPLE SPLIT. Since its debut in 2018, the TRIPLE SPLIT has held a unique title as the world's only mechanical chronograph capable of measuring comparative and intermediate times up to an aggregate duration of 12 hours. By extending split-seconds rattrapante functionality to both the minute and hour counters alongside the central seconds hand, the watch allows complex additive timing for endurance events, complete with a flyback function. This latest version is presented in a 43.2 mm 950 platinum case with a cool rhodié-coloured dial offset by dark grey auxiliary dials, luminous main hands, and blued rattrapante hands. Capped at just 100 pieces, the watch is fitted with a dark brown alligator leather strap secured by a platinum deployant buckle.At the hear"
+    },
+    {
+      "id": "d2bc0a46f78282e5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Christie's Next Auction is for a New Generation of Design Collectors",
+      "url": "https://hypebeast.com/2026/9/christies-basic-space-auction-news",
+      "publishedAt": "2026-09-04T11:33:44.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "Christie's Next Auction is for a New Generation of Design Collectors Basic.Space is taking over Christie's Beverly Hills with a selling exhibition of 50 chairs, which gathers design classics alongside contemporary pieces.Named \"50 Chairs at Christie's\", the auction has been curated by Basic.Space and will feature works created by, and also owned by, famed designers. For Basic.Space founder Jesse Lee, the event is designed to cater to the \"next generation of collectors\", pairing cult favourites such as Gufram's huge Pratone lounge chair with classics like Charles and Ray Eames' LCW in a rare calfskin edition. \"Discovery has always been at the heart of Basic.Space and our ecosystem of designers, artists and creatives,\" says Lee, who founded the platform in 2020 and has spent recent years making his way into the field through IRL experiences and the acquisition of industry tentpole Design Miami. \"We are redefining luxury for the next generation of collectors. 50 Chairs at Christie’s is an expression of that ethos - showcasing iconic works from the past alongside original pieces from the voices shaping the future of design.\"On the more historical end of the spectrum, a hammered-brass chair by Philippe Hiquily made in the 1970s has been put forwards by Kelly Wearstler, and comedian, filmmaker and design collector Eric Wareheim is parting with Joe Colombo's molded-fiberglass Elda Chair from 1963. Los Angeles furniture designer BASA is contributing Gufram's oversized Pratone lounge chair, and collectors Giampiero Tagliaferri and Adrien Dewulf have supplied a CL9 ribbon chair.The contemporary side leans more on pieces from collectible design galleries. Carpenters Workshop Gallery is bringing Rick Owens' Stag Stool, a limited edition in black plywood and natural moose antler, and The Future Perfect has supplied Seoul-based SeungJin Yang's Lounge Chair 01 – Transparent Blue, formed from balloons and resin. Sam Klemick's Trumpet Dining Chair works the fluidity of textiles into solid wood, while Los Angeles furniture and decorative arts dealer JF Chen is contributing pieces by multidisciplinary artist and audiophile Devon Turnbull, California sculptor Vince Skelly and London-based Max Lamb.50 Chairs at Christie's runs September 25 to 30, 2026, at Christie's Beverly Hills, 336 North Camden Drive, Beverly Hills, CA 90210, with a VIP preview taking place on September 24. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "380256ed8123a880",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "These adidas Originals Handball Spezial Loafers Are Releasing as a BILLY's-Exclusive",
+      "url": "https://hypebeast.com/2026/9/adidas-originals-handball-spezial-loafer-sneakers-billys-exclusive-release-info",
+      "publishedAt": "2026-09-04T11:24:32.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "These adidas Originals Handball Spezial Loafers Are Releasing as a BILLY's-Exclusive Name: adidas Originals Handball Spezial LoaferColorway: Black, Brown/GreenSKU: TBCMSRP: ¥17,600 JPY (approx. $113 USD)Release Date: Available NowWhere to Buy: BILLY’sadidas Originals has unveiled the Handball Spezial Loafer, which is exclusively released in Japan via BILLY'S. Reimagining the classic \"HANDBALL SPEZIAL\" - a beloved silhouette originally introduced in 1979 for indoor sports = this new iteration merges vintage sportswear DNA with elevated, everyday elegance.Available in Black and Brown/Green, the design features smooth leather uppers paired with adidas’ signature Three Stripes branding in tonal execution. The low-profile construction emphasizes a sleek, minimal aesthetic, while subtle stitching and embossed detailing add refinement. A cushioned midsole and tonal rubber outsole ensure comfort and durability, making the sneaker versatile for both casual and elevated styling. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "073ac1b74be698f6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Fear of God Unifies Three House Sub-Labels for “An Eternal Perspective”",
+      "url": "https://hypebeast.com/2026/9/fear-of-god-an-eternal-perspective-campaign-info",
+      "publishedAt": "2026-09-04T11:09:03.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "Fear of God Unifies Three House Sub-Labels for “An Eternal Perspective” Summary Fear of God unveils “An Eternal Perspective”, uniting Collection Nine, Eternal Order and ESSENTIALS Signature.The campaign emphasizes continuity, transcending seasons and moments with a distinct American luxury vision.Eternal serves as the foundation, guiding the brand’s pursuit of timeless intention. Fear of God has unveiled An Eternal Perspective, a campaign that brings together three distinct pillars of the house - Collection Nine, Eternal Order and ESSENTIALS Signature - under a singular, unified narrative. Rooted in the foundational principles established by founder and creative director Jerry Lorenzo, the initiative frame-shifts away from traditional, isolated seasonal drops. Instead, it presents each sub-label as part of an interconnected design continuum, articulating a refined vision of modern American luxury through quiet elegance, intentional proportion, and meticulous craftsmanship.At its foundation, Eternal serves as the guiding principle from which Fear of God creates and communicates, positioning the brand’s work as an ongoing pursuit of transcendence through intention. “An Eternal Perspective” underscores the idea that fashion is not confined to moments or trends but is instead a lasting expression of identity and vision. Available now through fearofgod.com, the campaign reinforces Jerry Lorenzo’s philosophy of building a cohesive universe where every piece, whether from Collection Nine, Eternal Order, or ESSENTIALS, exists as part of a timeless continuum. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5f0eddc5e94ba4a8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JISOO Pairs Playful Grooves With Dark Fairy-Tale Aesthetics on \"CLICK\"",
+      "url": "https://hypebeast.com/2026/9/jisoo-click-official-single-music-video-stream-info",
+      "publishedAt": "2026-09-04T10:46:40.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "JISOO Pairs Playful Grooves With Dark Fairy-Tale Aesthetics on \"CLICK\" Summary JISOO released her new synth-pop solo single \"CLICK\" alongside an official music video directed by Joseph Kahn.The track explores romantic chemistry, balancing hesitation against an undeniable, magnetic attraction.Set in an overgrown amusement park, the visual blends post-apocalyptic fairy-tale aesthetics with mechanical carnival figures. JISOO has officially unveiled her new solo single \"CLICK\" alongside a captivating official music video directed by Joseph Kahn. Driven by an infectious synth-pop groove and crisp percussion, the track balances a playful, romantic mood with an undercurrent of hesitation. Lyrically, JISOO navigates the delicate boundary between friendship and deeper physical chemistry, weighing her skepticism about a partner who \"flirts with everyone\" against an undeniable magnetic connection. Anchored by a rhythmic, addictive hook - \"Your lips, my lips, click / We were made to fit\" - the song captures the feeling of giving in to romantic attraction despite knowing the potential risks involved.The accompanying music video turns this romantic tension into a whimsical, post-apocalyptic narrative set within an overgrown, abandoned amusement park. Blending dark fairy-tale aesthetics with sci-fi elements, JISOO moves among mechanized carnival mannequins and vintage mechanical attractions alongside a robotic teddy bear companion. Styled in contrasting looks, ranging from corseted ballet dresses to dramatic black lace gowns, she waltzes inside a lit gazebo with a dapper mechanical figure before riding a rusted roller coaster across the dystopian skyline. Read more at Hypebeast"
+    },
+    {
+      "id": "ab0530e0601b0baa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Maison Margiela's REPLICA Wraps \"Lazy Sunday Morning\" and \"Jazz Club\" Scents in Newspaper Print for Its Second Holiday 2026 Offering",
+      "url": "https://hypebeast.com/2026/9/maison-margiela-replica-holiday-2026-set-lazy-sunday-morning-jazz-club-release-info",
+      "publishedAt": "2026-09-04T10:09:33.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "Maison Margiela's REPLICA Wraps \"Lazy Sunday Morning\" and \"Jazz Club\" Scents in Newspaper Print for Its Second Holiday 2026 Offering Summary Maison Margiela's REPLICA line returns with the second installment of its 2026 holiday collection, led by newspaper-print editions of two signature scentsNew additions include an \"Up At Dawn\" hand cream and a \"By the Fireplace\" candle built around wintry scent storiesTwo mix-and-match coffret sets let shoppers pair a fragrance with their choice of body care Maison Margiela's REPLICA fragrance line is expanding its 2026 holiday offering with a second wave, anchored by limited-edition versions of \"Lazy Sunday Morning\" and \"Jazz Club.\" Both eau de toilettes arrive dressed in a holiday-exclusive newspaper-style print, joined by new body care, a candle, and a pair of customizable gift sets.The two returning scents are the centerpiece, each carried over in its full 100 mL format under the \"PRINT SHOP\" holiday design. \"Lazy Sunday Morning\" builds its story around a sunny Sunday in Florence, spent wrapped in freshly laundered linen sheets, and reads as fresh and clean on the skin. \"Jazz Club\" pulls in the opposite direction, drawing on a private New York jazz club for a warmer, spicier profile that suggests rich cocktails and mellow whiskey for a more intimate, grown-up mood.New to this wave is the \"Up At Dawn\" hand cream, centered on a dawn-rose scent that opens like fresh roses blooming in a mist-covered garden. The formula does functional work alongside the fragrance, using hyaluronic acid to add moisture while shea butter and almond oil guard against dryness, finishing with a light texture meant to leave hands supple rather than heavy.Rounding out the seasonal additions is the \"By the Fireplace\" candle, a natural fit for winter. Its scent sets the scene in midwinter Chamonix, France, capturing the crackle of a fireplace and the faint sweetness of chestnut for a warm, enclosed feel.The collection also leans into personalization through two coffret formats. The larger 30 mL Holiday Set lets shoppers choose one 30 mL fragrance from all 14 REPLICA scents, add a body care item of their choice, and take home a 1.2 mL \"Jazz Club\" mini and a holiday-exclusive shopper. A more compact 10 mL Holiday Set pairs a 10 mL fragrance with a hand cream, with both drawn from a choice of \"Lazy Sunday Morning\" or \"Up At Dawn.\" Standalone holiday gift versions of \"Lazy Sunday Morning\" in eau de toilette, hand cream, and lip balm complete the ra"
+    },
+    {
+      "id": "9c3480b8aac94098",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "McDonald's Japan Supersizes the Tsukimi Burger Into a 27-Inch Plushie",
+      "url": "https://hypebeast.com/2026/9/mcdonalds-japan-tsukimi-burger-plushie-release-info",
+      "publishedAt": "2026-09-04T10:09:14.000Z",
+      "collectedAt": "2026-09-04T16:04:22.753Z",
+      "text": "McDonald's Japan Supersizes the Tsukimi Burger Into a 27-Inch Plushie Summary McDonald's Japan is running a lottery for a giant Tsukimi Burger plushie tied to the sandwich's 35th anniversaryThe soft toy measures 27.6 inches across and faithfully recreates the burger's signature layersEntry is limited to MyMcDonald's Rewards members and closes in late October McDonald's Japan is handing fans a chance to win an oversized Tsukimi Burger plushie, celebrating 35 years of one of the chain's most recognizable seasonal sandwiches. First introduced in 1991 as a nod to Japan's fall moon-viewing custom, the Tsukimi Burger now gets a plush tribute built at a scale that will not fit neatly on a shelf.The plushie is the whole point, and it commits to the bit. It measures 27.6 inches, or roughly 70 cm, and recreates the Tsukimi Burger's full stack in soft form, from its signature round egg to a chunky beef patty, smoked bacon, and a layer of creamy tomato sauce. Its soft, fluffy texture leans into the toy angle, making it as much a huggable living-room object as an anniversary keepsake.Getting one takes some work, since it is a lottery prize rather than an item for sale. The plushie is available only to members of the MyMcDonald's Rewards program in Japan. To qualify, customers first register through the official McDonald's Japan app, then purchase three eligible Tsukimi Family sets and spend 250 reward points to submit an entry.The entry period runs from September 2 through October 21, with lottery applications accepted until October 27. Anyone in Japan during that stretch has a shot at taking home the giant burger, assuming they can find room to carry it back. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "87b38a524cf5299f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Michael Jordan's Ferrari That Inspired the Air Jordan XIV Is Heading to Auction Estimated at Up to $1.3M USD",
+      "url": "https://hypebeast.com/2026/9/michael-jordan-ferrari-550-maranello-heads-to-joopiter-auction",
+      "publishedAt": "2026-09-04T10:09:08.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Michael Jordan's Ferrari That Inspired the Air Jordan XIV Is Heading to Auction Estimated at Up to $1.3M USD Summary Michael Jordan's custom 1997 Ferrari 550 Maranello is heading to auction for the first time after disappearing from public view for 24 yearsThe V-12 grand tourer famously inspired the design of the Air Jordan XIV and appeared onscreen during the Chicago Bulls' historic championship runPharrell Williams' platform Joopiter expects the cultural artifact to fetch up to $1.3 million in its inaugural automotive sale Michael Jordan's exactingly customized 1997 Ferrari 550 Maranello is stepping back into the spotlight, hitting the auction block for an estimated $700,000 USD to $1,300,000 USD. The monumental sale marks a first for JOOPITER, the sports collectibles platform founded by singer Pharrell Williams, which is operating in partnership with automotive specialist Curated to move its first-ever car. By bridging the world of high-end automotive collecting with the cultural weight of elite sports memorabilia, this auction tests a new ceiling for modern classic valuation.Jordan took delivery of the new vehicle in May 1997, specifically tailoring the Italian powerhouse to his exact aesthetic and physical dimensions. The grand tourer is cloaked in Rosso Barchetta paint, riding on chrome Speedline wheels and concealing a naturally aspirated, 485-hp Ferrari V-12 engine mated to a purist-approved gated manual transmission. To accommodate his six-foot-six frame, Ferrari uniquely modified the tan leather interior by installing longer chair rails and equipping the seats with slimmer padding. In a move of calculated understatement, Jordan also ordered the car entirely without the traditional yellow Ferrari fender shields.The coupe's provenance is inextricably tied to peak Chicago Bulls dominance. Jordan famously drove the car out of the United Center with an Illinois vanity plate reading \"MJ 5\" on June 13, 1997, immediately after clinching his fifth NBA Championship. The vehicle was later seen rolling out of a January 1998 practice in the seminal ESPN documentary The Last Dance. Its cultural footprint extends far beyond the pavement, directly shaping sneaker history when the vehicle inspired Nike VP of Design Tinker Hatfield to create the Air Jordan XIV basketball shoe. Hatfield pulled directly from the Italian bodywork, integrating a Ferrari-like yellow-and-black Jumpman shield and a heavy tire-tread sole pattern into the iconic silhouette.Jordan ultimatel"
+    },
+    {
+      "id": "be157a11fca0c57c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jin Sakai Returns as a Playable Fighter in ‘Ghost of Yōtei: Most Wanted’",
+      "url": "https://hypebeast.com/2026/9/jin-sakai-return-ghost-of-tsushima-ghost-of-yotei-most-wanted-trailer-stream-release-info",
+      "publishedAt": "2026-09-04T10:07:53.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Jin Sakai Returns as a Playable Fighter in ‘Ghost of Yōtei: Most Wanted’ Summary Jin Sakai, the hero of 'Ghost of Tsushima,' has been revealed as a playable character in the new 'Ghost of Yōtei: Most Wanted' modeMost Wanted is a single-player roguelike built around bounty runs, unlockable perks, and four distinct fightersThe mode arrives alongside the narrative expansion 'Echoes of Sekigahara' as part of 'Ghost of Yōtei' Complete Edition Jin Sakai is back. Sucker Punch has revealed that the Ghost of Tsushima protagonist joins Ghost of Yōtei: Most Wanted as a playable character, carrying over all four of his signature combat stances. Shown during the September 3 State of Play, his return anchors a brand-new roguelike mode landing inside Ghost of Yōtei Complete Edition on October 1.Sucker Punch built Jin’s return as a faithful bridge between games. The team took his Ghost of Tsushima model and preserved it while applying upgrades for Ghost of Yōtei, keeping all four of the original stances so players can once again shift between them to exploit enemy weaknesses. He starts with a Sticky Bomb and a hankyu, and his kit leans on returning signatures: his Ultimate is the \"Dance of Wrath\" skill that targets and disarms multiple enemies, while his Kill Streak is, fittingly, Ghost Stance, letting him terrify nearby foes and cut down a limited number in single hits. The nod runs deep, given that Jin headlined Sucker Punch's 2020 predecessor before Atsu took over the Ghost mantle in Ezo.Around him sits the structure of Most Wanted itself, pitched as the studio's spin on the roguelike. Runs begin at a bounty board, where each target is a member of the Yōtei Six, reached only by clearing waves of enemies and minibosses. Finishing waves unlocks perks that shape an increasingly powerful build toward the bounty's final boss, and cleared bounties can be replayed at higher difficulty, culminating in the toughest run against Lord Saito. Between runs, players spend earned Mon on techniques, weapon upgrades, charms, and character unlocks, and any cosmetics earned carry back into the main game. Perks are framed as the real engine of the mode, with frequent choices spanning weapon mastery, gear loadouts, summons, parries, and survivability that reward experimentation.The default fighter is Atsu, who wields dual katana and two Ghost Tools, with a \"Call of the Pack\" Ultimate that summons wolves. Oyuki fights with the kusarigama, kunai, and tanegashima rifle, backed by a \"Shadow Kil"
+    },
+    {
+      "id": "2029f2f7998c9afa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Square Enix Sets April 2027 Release Date for ‘Final Fantasy VII Revelation’",
+      "url": "https://hypebeast.com/2026/9/square-enix-sets-april-2027-release-date-for-final-fantasy-vii-revelation",
+      "publishedAt": "2026-09-04T10:05:23.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Square Enix Sets April 2027 Release Date for ‘Final Fantasy VII Revelation’ Summary Square Enix has dated 'Final Fantasy VII Revelation,' the conclusion of its Remake project, with a new trailer and gameplay shown during PlayStation's State of PlayThe finale introduces a fully open world traversed by the Highwind airship, alongside new systems and playable charactersThe story sends Cloud and his companions toward a final confrontation with Sephiroth as the planet faces total destruction Square Enix has set Final Fantasy VII Revelation, the closing chapter of its sprawling Remake project, for release on April 8, 2027. Revealed during PlayStation's State of Play with a fresh trailer and an extended gameplay deep dive, the finale arrives across PlayStation 5, Nintendo Switch 2, Xbox Series X|S, and PC via Steam, the Epic Games Store, and Xbox on PC.The headline change is scale. Revelation opens the planet into a genuinely borderless world, letting players roam every corner aboard the series' iconic Highwind airship. Traversal gets its own companion in Piko, a Chocobo that grows alongside the party and picks up new movement and combat abilities over time, while a new grappling gun lets characters scale rooftops and zip through the environment at speed.Combat builds on the hybrid system the trilogy is known for, now reshaped by the new FITS system. FITS grants abilities and higher tiers of power through specialized roles, including Warrior, Knight, Black Mage, and Summoner, with the extended footage showing new playable character Cid in the Knight FITS and returning fan favorite Vincent in the Summoner FITS. Beyond the two additions to the roster, players can freely swap their active character and rework the party at any point during exploration, and can steer the narrative by choosing which members take on specific quests, changing how certain events play out.All of that flexibility feeds into a story pitched as the end of the line. Cloud Strife and his companions face a world on the edge of annihilation, grieving a fallen ally as Sephiroth closes in on godhood. The party takes to the skies aboard the Highwind in a race to stop Meteor, the ultimate destructive magic, before it wipes out the planet entirely.The finale also caps a trilogy that arrived with heavy expectations and largely met them. The first two entries, Final Fantasy VII Remake and Final Fantasy VII Rebirth, drew wide acclaim, together collecting more than 140 perfect review scores along with Gam"
+    },
+    {
+      "id": "910d0506439f654d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Converse Elevates the First String Jack Purcell With Premium Canvas",
+      "url": "https://hypebeast.com/2026/9/converse-first-string-jack-purcell-mountain-view-marshmallow-chestnut-premium-white-marshmallow-black-official-images-release-info",
+      "publishedAt": "2026-09-04T10:02:31.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Converse Elevates the First String Jack Purcell With Premium Canvas Name: Converse First String Jack PurcellColorway: Mountain View/Marshmallow/Chestnut, Premium White/Marshmallow/BlackSKU: TBCMSRP: $250 USDRelease Date: Available NowWhere to Buy: Select RetailersThe Converse First String Jack Purcell returns with a premium update that underscores the franchise’s heritage while introducing elevated material choices. Available in \"Mountain View/Marshmallow/Chestnut\" and \"Premium White/Marshmallow/Black,\" the sneakers feature canvas uppers paired with refined detailing that highlights the Jack Purcell’s iconic low-profile silhouette.Honoring its vintage roots, the sneaker features upper stitching inspired by mid-1970s models, a slightly raised collar top line mirroring its 1980s iterations, and a tonal molded heel license plate complete with the era-accurate JP script and wedge logo. Crucially, the sneaker's defining toe “smile” remains intact, though its rubber inlay has been subtly reshaped for a refined, modern finish.The two new Converse First String Jack Purcell variants are only available through select retailers. The full retailer and stockist list can be found via this dedicated webpage on Converse's website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c12005b509fce3fc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Japanese Supergroup YAO Drops Emotionally Charged Single “FOR OKINAWA”",
+      "url": "https://hypebeast.com/2026/9/yao-for-okinawa-awich-one-ok-rock-chico-carlito-paledusk-single-stream-release-info",
+      "publishedAt": "2026-09-04T09:24:34.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Japanese Supergroup YAO Drops Emotionally Charged Single “FOR OKINAWA” Summary Supergroup YAO - Awich, ONE OK ROCK, Paledusk and CHICO CARLITO - released their second single, \"FOR OKINAWA.\"The track blends heavy riffs and passionate rap, exploring Okinawa's history and advocating for peace.Released ahead of ONE OK ROCK's tour finale, an official music video will follow. Japanese collective YAO - the supergroup formed by Awich, ONE OK ROCK, Paledusk and CHICO CARLITO - has released their second single, \"FOR OKINAWA.\" Following the high-energy, rebellion-driven tone of their debut track \"777,\" this latest offering serves as a deeply emotional and personal reflection on Okinawa's history, cultural heritage and the enduring scars of its past.Born out of candid conversations between Okinawa natives Awich and CHICO CARLITO and their bandmates, the song channels a collective determination to honor their roots and advocate for peace. Frontman Taka (ONE OK ROCK) stepped outside his traditional style to craft a completely unprecedented melody, providing an expansive, soaring sonic foundation where heavy guitar riffs, passionate rap cadences and emotive vocal lines converge around a unified message.The single arrives at a pivotal moment, dropping just ahead of ONE OK ROCK's final DETOX Japan Tour shows this weekend, which mark the grand finale of the band's entire nationwide tour. Adding to the anticipation, Awich recently took to her Instagram story to rally fans attending the upcoming weekend shows, passionately urging the crowd to learn the lyrics and sing along together during the live performance. A music video is set to follow soon, expanding the narrative and visual world behind “FOR OKINAWA.” Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2a9f094f5ea1ddcb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Netflix Orders a Live-Action 'Dungeons & Dragons Ravenloft' Series",
+      "url": "https://hypebeast.com/2026/9/netflixs-ravenloft-explores-strahds-dark-origins",
+      "publishedAt": "2026-09-04T08:49:56.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Netflix Orders a Live-Action 'Dungeons & Dragons Ravenloft' Series Summary Netflix is officially developing a live-action series based on the classic Dungeons & Dragons campaign setting RavenloftThe narrative will trace the dark origins and undead transformation of iconic vampire villain Strahd von ZarovichIndustry heavyweights Alfonso Cuarón and John August are steering the adaptation as executive producers Netflix is developing a Ravenloft live-action series to translate a significant corner of the role-playing world to the screen. Alfonso Cuarón joined the production as an executive producer, while John August signed on to serve as both a core writer and an executive producer. Hasbro Entertainment also develops the project alongside these producers to ensure the property carries weight.For decades, the source material has commanded respect in the gaming community as one of the most iconic campaign settings in Dungeons & Dragons, Ravenloft. This atmospheric universe provides a textured canvas for a premium adaptation. The television project specifically adapts the classic tabletop setting to capitalize on a renewed interest in the franchise's darker dimensions. Development of the show aligns with a modern revitalization of the lore following the release of Ravenloft: The Horrors Within. Narrative themes prioritize the psychology of a legendary antagonist over traditional action.The narrative centers strictly on the origins of the most famous vampire in Dungeons & Dragons, Strahd von Zarovich. This character has terrorized campaigns for generations as an enigmatic force. The upcoming series humanizes the backstory of the villain by offering a look at the man before the monster. Intense plot points focus on his pursuit of power, his experiences with love and the blinding obsession that ultimately dictates his fate.The series explores the undead transformation of the protagonist with narrative depth. Its overarching story charts a journey from a tragic antihero into a bloodthirsty vampire Darklord. This evolution ensures the adaptation is steeped in tragedy and complex character dynamics. The Netflix production anchors its central conflict entirely around this dark metamorphosis. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "302e8977f18b0f28",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Buffer Drags ‘Fast Times at Ridgemont High’ Into a Capsule Ruled by \"No Shirts, No Shoes, No Dice\"",
+      "url": "https://hypebeast.com/2026/9/buffer-fast-times-at-ridgemont-high-collaboration-collection-release-info",
+      "publishedAt": "2026-09-04T08:35:46.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Buffer Drags ‘Fast Times at Ridgemont High’ Into a Capsule Ruled by \"No Shirts, No Shoes, No Dice\" Summary Buffer, the label helmed by creative director Tetsu Nishiyama and operated by HUMAN MADE, has teamed with the 1982 American teen movie for a graphics-led collectionThe collaboration runs to three T-shirt styles, each filtering the film through Buffer's own design lensA set of Buffer original pieces rounds out the release, including a long-sleeve T-shirt that reworks the brand's main logo Buffer, the brand led by creative director Tetsu Nishiyama and operated by HUMAN MADE, is releasing a collaboration collection with Fast Times at Ridgemont High, the 1982 American high-school comedy. The capsule reads the film's world through Buffer's graphic sensibility, landing as a tight run of T-shirts rather than a sprawling licensing exercise.The collaboration centers on three T-shirt designs, each taking a different route into the source material. One is handled by illustrator Naoki Shoji, who builds his piece around the movie as a motif. A second prints a run of the film's memorable scenes directly onto the shirt, leaning on recognizable imagery. The third distills the movie down to a single line, translating its emblematic rule \"NO SHIRTS, NO SHOES, NO DICE\" into a standalone graphic.That three-way split is where the technical intent shows. Rather than slapping a single still on a blank, Buffer treats the film as raw material to be reinterpreted, moving from illustration to photographic scene print to text-driven graphic across the set. It is a small collection built to cover distinct graphic registers instead of repeating one idea in different colors.The film crossover also fits a longer pattern for the label. Buffer has built a throughline of movie-referencing capsules, and pairing with a 1982 teen comedy slots neatly into a graphic language rooted in American pop-culture nostalgia. Fast Times at Ridgemont High carries a specific early-80s Americana that maps onto Nishiyama's ongoing interest in vintage US reference points, giving the T-shirts a cultural anchor beyond the artwork itself.Alongside the collaboration, Buffer is offering its own originals in the same drop. Those include a T-shirt drawing on 1990s street culture and a long-sleeve T-shirt that reconstructs the brand's main logo, extending the release past the film tie-in and into Buffer's core graphic identity.The Buffer x Fast Times at Ridgemont High collection releases September 5 at Buffer Sto"
+    },
+    {
+      "id": "85f4739afdd42e44",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The LEGO PlayStation Rebuilds the Original 1994 Console in 1,911 Bricks With Working Buttons",
+      "url": "https://hypebeast.com/2026/9/lego-playstation-1-set-release-info",
+      "publishedAt": "2026-09-04T08:27:45.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "The LEGO PlayStation Rebuilds the Original 1994 Console in 1,911 Bricks With Working Buttons Summary Sony and the LEGO Group have revealed the LEGO PlayStation, a brick replica of the original console and controllerThe 1,911-piece build recreates the hardware at close to 1:1 scale and folds in functional details and hidden nods to PlayStation historyTwo removable game dioramas tied to Ape Escape and Gran Turismo extend the set into a display piece marking 30 years of the platform Sony and the LEGO Group have unveiled the LEGO PlayStation, a buildable replica of the original PlayStation console and controller shown during the September 3 State of Play. It is the first time fans can construct the debut hardware brick by brick, arriving as a tribute to a platform that has been in players' hands for more than three decades.The set runs to 1,911 pieces and lands at a near 1:1 recreation of the console, measuring 10.5 inches, or 26 cm, wide once fully assembled. Rather than a static shelf model, it carries functional mechanisms: the Power and Open buttons work, and the included controller can plug into the console, giving the finished piece a layer of interactivity beyond the display.Working with LEGO designers, PlayStation built the assembly around its own origins, tucking hidden references to the platform's history into the process. Two of those references become their own modules, pulling in a pair of games that launched on the original console. The Gran Turismo diorama includes a miniature track with scaled-down cars, while the Ape Escape diorama sets up a nostalgic island scene with a swappable blue or red light on the monkey's helmet. Both dioramas can be removed and displayed on their own, and each carries customizable elements, so the set functions as three connected pieces rather than one fixed sculpture.By recreating the 1994 hardware and threading in Ape Escape and Gran Turismo, the set reaches back to the era that defined the brand's first generation, aiming squarely at players who have followed PlayStation since launch as much as newer fans. The result positions the LEGO PlayStation less as a toy and more as a physical marker of the platform's 30-plus-year run, built to sit on a shelf as a piece of console history.The LEGO PlayStation goes on sale via the PlayStation webstore and for LEGO Insiders Early Access starting October 1, then reaches the LEGO webstore and LEGO Stores on October 4. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ccdb645bddba2acb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Beyoncé Expands ‘B'Day’ Into a 31-Track 20th Anniversary Edition With Unreleased Songs and a Pharrell Collab",
+      "url": "https://hypebeast.com/2026/9/beyonce-b-day-20th-anniversary-deluxe-edition-album-stream",
+      "publishedAt": "2026-09-04T08:27:37.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Beyoncé Expands ‘B'Day’ Into a 31-Track 20th Anniversary Edition With Unreleased Songs and a Pharrell Collab Summary Beyoncé has revealed a 20th-anniversary edition of her 2006 album B'Day, released on her September 4 birthdayThe expanded digital version runs to 31 tracks and folds in four previously unreleased songs alongside the original lineupNew collaborations with Maluma and Selena Quintanilla arrive next to a full remaster of the era's music videos Beyoncé has unveiled a 20th-anniversary edition of B'Day, her sophomore album, timed to her birthday on September 4. The expanded digital reissue stretches the record to 31 tracks, pairing the 2006 originals with a set of previously unreleased material and two high-profile new collaborations.The reissue's biggest draw is the vault material. Four previously unreleased songs join the tracklist: \"Creole,\" \"Back Up,\" \"Lost Yo Mind,\" and \"Can I Watch You,\" the last featuring Pharrell Williams. Those sit alongside a remastered version of the original 2006 album, positioning the edition as both an expansion and a clean-up of the source recordings.Two collaborations anchor the new additions. \"Cuerpo Tumbao (Get Me Bodied)\" marks Beyoncé's first time working with Maluma and builds on a sample of Celia Cruz's \"La Negra Tiene Tumbao.\" A press release ties the choice to Beyoncé's respect for the late artist, noting she has \"long admired Cruz's pride in her African culture; her refusal to bend in the wake of racism, colorism and the narrow definition of beauty.\" The second is \"Irreemplazable (Como La Flor),\" a duet built with the late Selena Quintanilla and cleared through Selena's estate, extending a Latin influence Beyoncé has cited across her Spanish-language work, including her 2007 EP Irreemplazable.The visual side of the era got the same treatment as the audio. Beyoncé remastered the accompanying videos, all originally shot on 35mm, recoloring the footage and finishing it in 4K. Among them is a redone version of \"Déjà Vu,\" featuring JAY-Z and directed by Sophie Muller, which dropped alongside the anniversary release.Beyoncé first teased the anniversary edition on July 4 with \"Morning Dew (Donk),\" starting a 60-day countdown to the reveal. The original B'Day set the bar it now builds on, arriving in summer 2006 as a Number One album, later certified quintuple platinum by the RIAA, and home to hits including \"Irreplaceable,\" \"Déjà Vu,\" and \"Ring the Alarm.\"Stream the 20th anniversary edition of B'Day on Spotify and"
+    },
+    {
+      "id": "13db8f64f8e131c4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "PlayStation Unveils Two ‘Grand Theft Auto VI’ DualSense Controllers That Shimmer Like a Vice City Sunset",
+      "url": "https://hypebeast.com/2026/9/grand-theft-auto-vi-gta-6-sony-playstation-dualsense-wireless-controllers-release-info",
+      "publishedAt": "2026-09-04T08:25:31.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "PlayStation Unveils Two ‘Grand Theft Auto VI’ DualSense Controllers That Shimmer Like a Vice City Sunset Summary Sony revealed two limited-edition 'Grand Theft Auto VI' DualSense controllers at the September 3 State of PlayA Black and a White edition each translate Vice City's coastal days and neon nights into a shifting, color-changing finishBoth arrive alongside the game on November 19, tying the hardware directly to Jason and Lucia's story Sony has revealed two limited-edition Grand Theft Auto VI DualSense wireless controllers, unveiled during the September 3 State of Play. Split into a Black Limited Edition and a White Limited Edition, both pull the look of Vice City, the fictional heart of Leonida, straight onto the hardware ahead of the game's November 19 release.Each controller carries a shimmering, color-shifting finish that blends the warm tones of a Vice City sunset with the glow of neon, so the surface reads differently depending on the light. Custom palm tree details are molded directly into the body, adding a tactile texture that sits alongside official Grand Theft Auto VI branding. It is a finish built to move rather than sit flat, which suits a setting defined equally by sun-soaked coastline and after-dark energy.From there, the two editions pull in opposite directions. The White Limited Edition leans into Vice City at daybreak, drawing on white sand, pastel skies and a laid-back sense of glamour. The Black Limited Edition takes the other half of the day, channeling the charge of the city's nightlife into a darker treatment. Together they function as a matched day-and-night pair rather than two versions of the same idea.Beyond the surface, these remain full-featured DualSense units. In Grand Theft Auto VI, the controller's haptic feedback and adaptive triggers respond to the on-screen action with dynamic resistance, pushing the sights, sounds and physical sensations of the game into the player's hands. That functional layer is central to how Sony has positioned the tie-in, framing the controllers as part of the argument that the game plays best on PS5 when it lands November 19.The White edition will be offered in limited quantities globally through PlayStation and participating retailers, while the Black edition runs exclusively through PlayStation where available, reaching other regions via select retailers.Both limited-edition DualSense controllers launch November 19, with pre-orders opening September 10 at 10:00 a.m. local time via PlaySt"
+    },
+    {
+      "id": "b95f9efd5942bcc4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ami Paris Celebrates Friendship and Parisian Elegance for FW26 Campaign",
+      "url": "https://hypebeast.com/2026/9/ami-paris-fall-winter-2026-collection-campaign-release-info",
+      "publishedAt": "2026-09-04T07:00:56.000Z",
+      "collectedAt": "2026-09-04T16:04:22.754Z",
+      "text": "Ami Paris Celebrates Friendship and Parisian Elegance for FW26 Campaign Summary Ami Paris debuts FW26 campaign starring brand friends like Saskia de Brauw.Key offerings span versatile outerwear, the Mirage sneaker and the crocodile-embossed Carrousel bag.Available now at Ami Paris boutiques globally and online. For Fall/Winter 2026, Ami Paris honors the real people and longtime friends who inspire creative director Alexandre Mattiussi. Set against a clean studio backdrop to highlight both the individuals and the garments, the series of spontaneous portraits functions as a manifesto of Parisian elegance and effortless ease. The casting brings together familiar faces of the house - including Rebecca Leigh, Saskia de Brauw, George Anderson, Jia Jingwen, Dara Gueye, Mack Karpes, Elliot Belot and Mohamed Benhadda - each bringing their unique personality to showcase how inclusivity and togetherness define the brand's identity.Designed for real-life wearability, the new seasonal wardrobe emphasizes comfortable, protective and versatile silhouettes rendered in a palette of quiet neutrals and earthy tones, punctuated by deep natural colors and bright red accents. Key collection highlights include signature tailoring and seasonal outerwear, rounded out by standout accessories such as the Carrousel bag in burgundy crocodile-embossed leather, the new Mirage sneaker, and graphic baseball caps embroidered with the message: \"Thank you for being a friend.\"The Ami Paris FW26 collection is available now at Ami Paris boutiques worldwide and online via amiparis.com. Click here to view full gallery at Hypebeast"
     }
   ]
 }

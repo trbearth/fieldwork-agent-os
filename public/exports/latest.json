@@ -1,26 +1,26 @@
 {
   "run": {
-    "id": "2026-09-03",
+    "id": "2026-09-04",
     "mode": "live",
-    "displayDate": "SEP 03, 2026, 12:09 PM EDT",
-    "generatedAt": "2026-09-03T16:09:29.903Z",
-    "itemsCollected": 47,
+    "displayDate": "SEP 04, 2026, 12:04 PM EDT",
+    "generatedAt": "2026-09-04T16:04:24.020Z",
+    "itemsCollected": 56,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 28
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 8
+        "count": 12
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -90,33 +90,39 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 31,
-      "confidence": 29,
-      "youthRelevance": 65,
+      "score": 39,
+      "confidence": 44,
+      "youthRelevance": 57,
       "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 5 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · -60% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "2 mentions this week versus 6 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · -67% seven-day velocity",
       "citations": [
         {
           "title": "Supreme Celebrates Larry Clark's 'Tulsa' Legacy in New FW26 Collaboration",
           "source": "Hypebeast",
           "date": "Aug 31",
           "url": "https://hypebeast.com/2026/8/supreme-larry-clark-collaboration-fall-2026-release-info"
+        },
+        {
+          "title": "10 Fall 2026 Accessory Trends That Stole the Show",
+          "source": "Vogue",
+          "date": "Sep 4",
+          "url": "https://www.vogue.com/article/fall-2026-accessory-trends"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "2 mentions this week versus 5 in the prior seven-day window."
+    "reason": "2 mentions this week versus 6 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0903",
+    "code": "AUTO 0904",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
