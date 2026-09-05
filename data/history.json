@@ -1420,6 +1420,53 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-05",
+      "mode": "live",
+      "displayDate": "SEP 05, 2026, 10:54 AM EDT",
+      "generatedAt": "2026-09-05T14:54:21.546Z",
+      "itemsCollected": 37,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 12
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 48,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 39,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -21618,6 +21665,413 @@
       "publishedAt": "2026-09-04T07:00:56.000Z",
       "collectedAt": "2026-09-04T16:04:22.754Z",
       "text": "Ami Paris Celebrates Friendship and Parisian Elegance for FW26 Campaign Summary Ami Paris debuts FW26 campaign starring brand friends like Saskia de Brauw.Key offerings span versatile outerwear, the Mirage sneaker and the crocodile-embossed Carrousel bag.Available now at Ami Paris boutiques globally and online. For Fall/Winter 2026, Ami Paris honors the real people and longtime friends who inspire creative director Alexandre Mattiussi. Set against a clean studio backdrop to highlight both the individuals and the garments, the series of spontaneous portraits functions as a manifesto of Parisian elegance and effortless ease. The casting brings together familiar faces of the house - including Rebecca Leigh, Saskia de Brauw, George Anderson, Jia Jingwen, Dara Gueye, Mack Karpes, Elliot Belot and Mohamed Benhadda - each bringing their unique personality to showcase how inclusivity and togetherness define the brand's identity.Designed for real-life wearability, the new seasonal wardrobe emphasizes comfortable, protective and versatile silhouettes rendered in a palette of quiet neutrals and earthy tones, punctuated by deep natural colors and bright red accents. Key collection highlights include signature tailoring and seasonal outerwear, rounded out by standout accessories such as the Carrousel bag in burgundy crocodile-embossed leather, the new Mirage sneaker, and graphic baseball caps embroidered with the message: \"Thank you for being a friend.\"The Ami Paris FW26 collection is available now at Ami Paris boutiques worldwide and online via amiparis.com. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "15e9295e8534bab5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Artist Bride’s Hand-Painted Danielle Frankel Dress Shaped the Aesthetic of Her Carmel Valley Wedding",
+      "url": "https://www.vogue.com/slideshow/mackenzie-cantor-and-benjamin-taft-wedding",
+      "publishedAt": "2026-09-05T13:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "This Artist Bride’s Hand-Painted Danielle Frankel Dress Shaped the Aesthetic of Her Carmel Valley Wedding Artist Mackenzie Cantor married entrepreneur Benjamin Taft in a garden wedding at the Carmel Valley Ranch, with the cream and pastel blue hues of the bride’s gown defining the palette of the wedding."
+    },
+    {
+      "id": "63f6ff0ed75191a6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kim Gordon and Suzanne Lindon on Film, Friendship, and Collaborating With Claire Denis for Miu Miu Women’s Tales",
+      "url": "https://www.vogue.com/article/kim-gordon-suzanne-lindon-miu-miu-womens-tales-claire-denis-interview",
+      "publishedAt": "2026-09-05T12:55:39.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Kim Gordon and Suzanne Lindon on Film, Friendship, and Collaborating With Claire Denis for Miu Miu Women’s Tales The actor and musician are premiering the latest chapter in Miu Miu’s ongoing short film series at Venice Film Festival—and shared the story behind the film with Vogue."
+    },
+    {
+      "id": "295b5a56825b6922",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lawrence Debuts Butterfly Bangs Just in Time for Fall",
+      "url": "https://www.vogue.com/article/jennifer-lawrence-debuts-butterfly-bangs-for-fall",
+      "publishedAt": "2026-09-05T12:52:20.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Jennifer Lawrence Debuts Butterfly Bangs Just in Time for Fall Presenting at the LVMH Prize ceremony in Paris yesterday, Jennifer Lawrence proved once again the power of a seasonal hair switch-up."
+    },
+    {
+      "id": "e5ebf84820b4dbb8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mariacarla Boscono on Wearing Chanel to Venice Film Festival: “I Feel Like Matthieu’s Princess”",
+      "url": "https://www.vogue.com/article/mariacarla-boscono-chanel-venice-film-festival-2026",
+      "publishedAt": "2026-09-05T10:39:35.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Mariacarla Boscono on Wearing Chanel to Venice Film Festival: “I Feel Like Matthieu’s Princess” Supermodel Mariacarla Boscono marked her fifth time on the lido wearing the newspaper print gown from the Chanel resort 2027 collection."
+    },
+    {
+      "id": "aba372dc9f0b91ea",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On Hulu’s ‘Furious’ and the Potent Fantasy of Revenge",
+      "url": "https://www.vogue.com/article/furious-and-the-potent-fantasy-of-female-revenge",
+      "publishedAt": "2026-09-05T10:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "On Hulu’s ‘Furious’ and the Potent Fantasy of Revenge “Furious” imagines a world in which the powerful can be made physically afraid of someone they once regarded as disposable. Its popularity may tell us less about women’s appetite for brutality than about our collapsing faith in systems of justice."
+    },
+    {
+      "id": "76edb0ff960f1ca5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Skinny Jeans to Wear in 2026",
+      "url": "https://www.vogue.com/article/best-skinny-jeans",
+      "publishedAt": "2026-09-05T10:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "The Best Skinny Jeans to Wear in 2026 The Y2K-era denim favorite is back in the game, but these aren’t the same skinnies you’ve seen before. Shop the best skinny jeans here."
+    },
+    {
+      "id": "04e454bfb3545c98",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Street Style Rewind: What the Fashion Set Wore to the Shows in 2017",
+      "url": "https://www.vogue.com/article/street-style-rewind-what-the-fashion-set-wore-to-the-shows-in-2017",
+      "publishedAt": "2026-09-05T10:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Street Style Rewind: What the Fashion Set Wore to the Shows in 2017 Ahead of the spring 2027 season, we’re throwing it back a decade to see what was all the rage in the streets."
+    },
+    {
+      "id": "c6e91fe9ea383491",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘Heated Rivalry’ Season 2 Is on Its Way. Here’s Everything We Know So Far",
+      "url": "https://www.vogue.com/article/everything-we-know-so-far-heated-rivalry-season-2",
+      "publishedAt": "2026-09-05T09:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "‘Heated Rivalry’ Season 2 Is on Its Way. Here’s Everything We Know So Far Here’s everything we know so far about the second outing of everyone’s favorite gay hockey show—including its expected air date."
+    },
+    {
+      "id": "79ae2cc4004b73d7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-september-5",
+      "publishedAt": "2026-09-05T08:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From Mary Beth Barone at Venice Film Festival to Doechii at Daisy Chain Fields Festival, these are the best beauty looks of the week."
+    },
+    {
+      "id": "578a0f932887f175",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Can You Unshrink Clothes Without Ruining The Fit?",
+      "url": "https://www.vogue.com/article/how-to-unshrink-your-clothes",
+      "publishedAt": "2026-09-04T21:20:30.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Can You Unshrink Clothes Without Ruining The Fit? We’ve all done it: Accidentally shrunken a favorite sweater or top. These are the tips and tricks to salvage them."
+    },
+    {
+      "id": "62ec8d9c7961c0ba",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Angie Nixon Has Big Senate Dreams—But Her Feet Are Firmly on the Ground (in Hot Pink Skechers)",
+      "url": "https://www.vogue.com/article/angie-nixon-interview-2026",
+      "publishedAt": "2026-09-04T19:02:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Angie Nixon Has Big Senate Dreams—But Her Feet Are Firmly on the Ground (in Hot Pink Skechers) The Democratic candidate for the Florida Senate talks campaign-trail style, scoring an AOC endorsement, rising above racist criticism and more."
+    },
+    {
+      "id": "014d71dc66e34ac5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "45 Throwback Photos of a Young Beyoncé on Her 45th Birthday",
+      "url": "https://www.vogue.com/slideshow/45-throwback-photos-of-a-young-beyonce",
+      "publishedAt": "2026-09-04T19:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "45 Throwback Photos of a Young Beyoncé on Her 45th Birthday As Beyoncé celebrates her 45th birthday, revisit her early days of fame in the ’90s and aughts."
+    },
+    {
+      "id": "bd482ec9f1a56c61",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Aaron Esh and AllSaints Fêted a New Era in East London",
+      "url": "https://www.vogue.com/slideshow/aaron-esh-allsaints-east-london-launch-party",
+      "publishedAt": "2026-09-04T18:40:18.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Aaron Esh and AllSaints Fêted a New Era in East London Last night, Aaron Esh—and generations of libertines old and new—brought the legendary British high street brand back to its roots with a ravey launch party."
+    },
+    {
+      "id": "deb9a6ff6600c96a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Road With Hilary Duff",
+      "url": "https://www.vogue.com/slideshow/on-the-road-with-hilary-duff-lucky-me-tour",
+      "publishedAt": "2026-09-04T18:00:02.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "On the Road With Hilary Duff Before Hilary Duff embarks on the international leg of The Lucky Me Tour—kicking off in Ireland this weekend—she shared some intimate snapshots from her summer on the road."
+    },
+    {
+      "id": "dafe9f81228cd4b5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Finneas and Claudia Sulewski’s Romantic Garden Wedding in Montecito",
+      "url": "https://www.vogue.com/slideshow/finneas-and-claudia-sulewski-wedding",
+      "publishedAt": "2026-09-04T17:34:25.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Inside Finneas and Claudia Sulewski’s Romantic Garden Wedding in Montecito The musician married the beauty founder at a star-studded wedding on a California estate—in a ceremony officiated by the groom’s sister, Billie Eilish."
+    },
+    {
+      "id": "736e5bc4cc346e3a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vittoria Ceretti Has a Bedazzled New Take on Naked Dressing",
+      "url": "https://www.vogue.com/article/vittoria-ceretti-venice-film-festival-armani-dress",
+      "publishedAt": "2026-09-04T17:14:40.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Vittoria Ceretti Has a Bedazzled New Take on Naked Dressing Stepping out for the “Wild Horse Nine” premiere at the Venice Film Festival, Vittoria Ceretti wore a sheer, delicately embellished Armani gown."
+    },
+    {
+      "id": "7a1c172c5b626c5c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Shine Bright: One New York Museum Exhibit Is Exploring Queer Identity Through Blingy, Beautiful Baubles",
+      "url": "https://www.vogue.com/article/museum-of-arts-design-queer-jewelry-exhibit",
+      "publishedAt": "2026-09-04T16:04:43.000Z",
+      "collectedAt": "2026-09-05T14:54:17.452Z",
+      "text": "Shine Bright: One New York Museum Exhibit Is Exploring Queer Identity Through Blingy, Beautiful Baubles At New York’s Museum of Arts and Design, OUT of the Jewelry Box brings together 78 works spanning seven decades to explore queer identity, desire, loss, and community through the intimate art of adornment."
+    },
+    {
+      "id": "549f10927f254fbb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘Sterling Point’ Star Ella Rubin Has Some Family Beauty Secrets—and a Pair of Scissors",
+      "url": "https://www.vogue.com/article/beauty-secrets-ella-rubin",
+      "publishedAt": "2026-09-04T16:00:00.000Z",
+      "collectedAt": "2026-09-05T14:54:17.453Z",
+      "text": "‘Sterling Point’ Star Ella Rubin Has Some Family Beauty Secrets—and a Pair of Scissors From overcoming cystic acne to cutting her own split ends, Ella Rubin shares her everyday beauty routine with Vogue."
+    },
+    {
+      "id": "e5cfef766bdc4967",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Y-3's Predator Is Field-Meets-Fashion",
+      "url": "https://www.highsnobiety.com/p/adidas-y-3-predator-precision/",
+      "publishedAt": "2026-09-05T11:14:01.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "Y-3's Predator Is Field-Meets-Fashion Y-3's Predator Precision football boot is a spikeless take on the Three Stripes' best field sneaker."
+    },
+    {
+      "id": "f4cd3a2cd229c32a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "ASICS’ Blackberry Flavored Dad Shoe Has Fashion on the Brain",
+      "url": "https://www.highsnobiety.com/p/carnan-x-asics-gel-cumulus-16/",
+      "publishedAt": "2026-09-05T10:03:02.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "ASICS’ Blackberry Flavored Dad Shoe Has Fashion on the Brain ASICS and CARNAN team up for the GEL-CUMULUS 16, bringing the Y2K-inspired runner back in a bold Blackberry/Purple colorway."
+    },
+    {
+      "id": "bb2355307ec62805",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Mossy Authentic Sneaker Shines from the Swamp",
+      "url": "https://www.highsnobiety.com/p/vans-authentic-sneaker-green/",
+      "publishedAt": "2026-09-05T08:16:02.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "Vans’ Mossy Authentic Sneaker Shines from the Swamp Vans' brought Oscar the Grouch in to design its mossy green Authentic sneaker that's garbage can chic."
+    },
+    {
+      "id": "b31ab199206d4c79",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Leopard AF1 Is King of the Simple Shoe Jungle",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-black-leopard/",
+      "publishedAt": "2026-09-05T05:05:01.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "Nike’s Leopard AF1 Is King of the Simple Shoe Jungle Nike's loud leopard Air Force 1 sneaker is changing the narrative around black Air Force 1 sneakers."
+    },
+    {
+      "id": "60b322d857b31096",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Clarks Gave an Old-School Shoe a Lowkey Crazy Upgrade",
+      "url": "https://www.highsnobiety.com/p/beams-clarks-vibram/",
+      "publishedAt": "2026-09-04T21:21:35.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "Clarks Gave an Old-School Shoe a Lowkey Crazy Upgrade Clarks Desert Trek is a classic but tricked out with GORE-TEX lining & Vibram soles, the classic walking shoe looks downright beastly. And beautiful."
+    },
+    {
+      "id": "aa7c48b676d23a9a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Noah’s Notes: Libraries Deserve Better Merch",
+      "url": "https://www.highsnobiety.com/p/noahs-notes-nypl-merch-common-projects/",
+      "publishedAt": "2026-09-04T20:11:44.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "Noah’s Notes: Libraries Deserve Better Merch Plus: Common Projects is back, a word on asymmetry, and the omnipresence of the cargo pant."
+    },
+    {
+      "id": "99ee4d41e4e350bd",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jane Wade Built Her Corpcore Empire on Clothes Worth Working For",
+      "url": "https://www.highsnobiety.com/p/jane-wade-what-it-cost-me/",
+      "publishedAt": "2026-09-04T20:05:55.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "Jane Wade Built Her Corpcore Empire on Clothes Worth Working For Fashion loves to romanticize the creative. Moodboards get all the glory, but Jane Wade knows there’s a personal finance spreadsheet somewhere in the plot, too. For \"What It Cost Me,\" presented by Ally, we get a closer look at her creative practice."
+    },
+    {
+      "id": "eef71d2854d316a7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: Why Is Fashion Still Obsessed With Snoopy?",
+      "url": "https://www.highsnobiety.com/p/snoopy-fashion-history/",
+      "publishedAt": "2026-09-04T18:52:33.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "State of the Art: Why Is Fashion Still Obsessed With Snoopy? The new \"Snoopy in Style NYC\" exhibition charts the Peanuts pooch's countless fashion collabs, from Chanel and Bode to Willy Chavarria and Gucci."
+    },
+    {
+      "id": "0c7044803afce5b8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "One Good Dad Shoe I Have Every Intention of Ruining",
+      "url": "https://www.highsnobiety.com/p/one-good-dad-shoe-ready-to-get-ruined-new-balance/",
+      "publishedAt": "2026-09-04T16:07:01.000Z",
+      "collectedAt": "2026-09-05T14:54:18.804Z",
+      "text": "One Good Dad Shoe I Have Every Intention of Ruining One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This one features a sneaker that gets better with wear."
+    },
+    {
+      "id": "e363f957ea07f55c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Deana Lawson Links With Gagosian for Inaugural New York Solo Exhibition",
+      "url": "https://hypebeast.com/2026/9/deana-lawson-solo-exhibition-gagosian-new-york-city-info",
+      "publishedAt": "2026-09-05T10:00:40.000Z",
+      "collectedAt": "2026-09-05T14:54:20.278Z",
+      "text": "Deana Lawson Links With Gagosian for Inaugural New York Solo Exhibition Summary Gagosian hosts Deana Lawson’s debut gallery solo show in New York from September 10 to October 24, 2026.The exhibition debuts Edge Control , a series recontextualizing beauty store surveillance stills.Works include luminous mirror-framed photographs, glass holograms, and large-scale portraits. Gagosian will present its inaugural solo exhibition of works by acclaimed artist Deana Lawson, opening on September 10, 2026, at 541 West 24th Street in New York and running through October 24.The presentation features a dynamic selection of mirror-framed photographs, holograms, and recent large-scale portraits that collectively explore issues of personhood, surveillance, and control within late capitalist society. A central highlight is the debut of selections from Edge Control, a photographic series initiated in 2023 in which Lawson recontextualizes surveillance stills captured at U.S. beauty supply stores. Borrowing its title from both a gel used to lay down hairlines and the literal systems of image-based policing, the series reimagines surveillance imagery - marked by deep-horizon blues and greens - while intervening to protect the identities of those pictured.Expanding on Edge Control, the exhibition also introduces new glass-encased holograms inspired in part by Philip K. Dick’s 1977 dystopian novel A Scanner Darkly and its conceptual \"scramble suits\" that obscure a wearer's identity. These futuristic works are presented alongside Lawson’s signature, highly detailed domestic portraits. Drawing structural inspiration from 17th-century Dutch paintings and family photo albums, her large-scale figures gaze directly at the camera, asserting a vivid palette of deep greens, mauves, yellows, and browns. Grounded in intimate collaborations between the artist and her subjects, the exhibition highlights the transformative potential of beauty culture and human agency against a backdrop of contemporary paranoia and widespread surveillance.Gagosian NYC541 West 24th StreetNew York, NY 10011, USA Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0dfdbc812e60c3d5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Wraps the Air Force 1 in GORE-TEX and Vibram for a Winterized \"Baroque Brown\" Build",
+      "url": "https://hypebeast.com/2026/9/nike-air-force-1-low-gore-tex-baroque-brown-hv5953-200-official-images",
+      "publishedAt": "2026-09-05T08:00:11.000Z",
+      "collectedAt": "2026-09-05T14:54:20.278Z",
+      "text": "Nike Wraps the Air Force 1 in GORE-TEX and Vibram for a Winterized \"Baroque Brown\" Build Name: Nike Air Force 1 Low GORE-TEX “Baroque Brown”Colorway: Baroque Brown/Speed Yellow-University Red-Shadow BrownSKU: HV5953-200MSRP: $150 USDRelease Date: TBC 2026The Nike Air Force 1 Low GORE-TEX \"Baroque Brown\" takes one of Nike's most familiar silhouettes and reworks it for colder, wetter days. Set for a 2026 release, the shoe layers weatherproofing and a grippier outsole onto the standard AF1, turning an all-year staple into a purpose-built winter option.The upper is where the seasonal intent shows first. Most of it is finished in Baroque Brown leather, with black Swooshes, heel tabs, lining, and midsole cutting through the tone. GORE-TEX is built into the leather for weather protection, and the product images show the material beading water rather than soaking it in. Brown rope laces and a thicker tongue reinforce the winter-ready feel, while small yellow GORE-TEX tags near the collar provide one of the only bright accents on an otherwise muted build.A metal lace dubrae carries another GORE-TEX callout, and Nike Air branding is embossed into the black heel tabs, keeping the back of the shoe clean without introducing extra color. It is a restrained execution that leans on texture and hardware rather than loud graphics to signal the technical upgrade.Underfoot is the clearest departure from a standard Air Force 1. Nike drops the usual outsole in favor of a Vibram unit with a more aggressive traction pattern, aimed at the same slick, cold conditions the upper is built for. Black rubber wraps the outer edges while University Red fills most of the center, and yellow Vibram branding at the midfoot and lateral heel ties back to the GORE-TEX tag up top.Taken together, the changes reframe the AF1 as more than a seasonal colorway. By pairing a waterproof membrane with a purpose-built Vibram sole, Nike positions the \"Baroque Brown\" pair as a genuine all-weather version of a shoe that usually trades on year-round wearability, giving the silhouette a functional reason to exist in the depths of winter. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "820f640e1a20f601",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Pas Normal Studios' Fall/Winter 2026 Cycling Collections Split the Cold Into Three Riding Mindsets",
+      "url": "https://hypebeast.com/2026/9/pas-normal-studios-fall-winter-fw-2026-cycling-collections-release-info",
+      "publishedAt": "2026-09-05T06:00:03.000Z",
+      "collectedAt": "2026-09-05T14:54:20.278Z",
+      "text": "Pas Normal Studios' Fall/Winter 2026 Cycling Collections Split the Cold Into Three Riding Mindsets Summary Pas Normal Studios frames its Fall/Winter 2026 season around the idea that riders share the same conditions but train for personal reasonsThree collections cover racing, gravel exploration and relaxed everyday performance, each built on its own technical constructionA seasonal color palette pulls from the textile traditions of mountain communities where craft blends artistry with function Pas Normal Studios has unveiled its Fall/Winter 2026 cycling collections, uniting Mechanism, Escapism and Essential under a single seasonal narrative titled \"Same Season. Different Reasons.\" The Copenhagen brand treats winter riding as one shared commitment approached through different motivations, then engineers a distinct garment system for each: dedicated racing, gravel adventure and understated daily riding.Mechanism is the race-fit line, and for FW26 it grows into a fuller cold-weather system. The centerpiece Mechanism Thermal Jacket is built from a three-layer fabric with a Windtex Pro membrane, pairing a highly breathable 20,000 g/m²/24h construction with 10,000 mm of water resistance. A DWR treatment and ultrasonically welded, taped seams seal out the elements, while a grid-fleece backer handles wicking and insulation without loosening the close race cut. It runs alongside the Thermal Long Sleeve Jersey 2.0, which uses Polartec Power Shield Pro Knit and Power Grid fabrics, and the new Thermal Long Bibs, giving the collection a range that stretches from mild fall days to deep-winter training in rain or snow.Escapism turns toward gravel and terrain beyond the familiar, and its FW26 expansion leads with a rethink of protective outerwear. The new Escapism Hooded Lightweight Jacket uses a three-layer waterproof, lightweight ripstop, with high-stretch, breathable ripstop panels placed to preserve range of motion. Critically taped seams add protection at the points that matter while keeping weight and pack size down, and the hood is cut to sit under a helmet, with elasticated adjustment and ear inserts for fit. Completing the setup are the new Escapism Long Cargo Bibs, made from a textured, rugged fabric meant to survive rough ground.Essential rounds out the season with a looser read on performance, matching technical function to understated styling for everyday rides. Designed to work across transitional weather in both hemispheres, it introduces new colorways acro"
+    },
+    {
+      "id": "50dcd31095bb3016",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "nonnative Reinterprets Paraboot’s Archival Briac Silhouette in Premium Suede",
+      "url": "https://hypebeast.com/2026/9/nonnative-paraboot-moccasin-briac-cow-leather-shoes-collaboration-release-info",
+      "publishedAt": "2026-09-05T04:00:01.000Z",
+      "collectedAt": "2026-09-05T14:54:20.278Z",
+      "text": "nonnative Reinterprets Paraboot’s Archival Briac Silhouette in Premium Suede Name: nonnative x Paraboot Moccasin “Briac Cow Leather”Colorway: Charcoal GraySKU: TBCMSRP: ¥82,500 JPY (approx. $528 USD)Release Date: September 5Where to Buy: nonnativeContinuing their partnership, nonnative and Paraboot have reunited to deliver a refined take on the classic deck-style moccasin. For this latest collaboration, the duo selected the Paraboot Briac — a popular 1990s silhouette that recently saw a highly anticipated revival.Crafted with premium suede uppers, the moccasins are dressed in \"Charcoal Gray.\" Maintaining the traditional McKay construction that gives the shoe its signature flexible comfort, the design is heavily anchored by the voluminous black JANNU SOLE, which provides robust traction and support for active movement. External branding is intentionally omitted, with the only collaborative mark being a discreet \"Paraboot for nonnative\" logo embossed on the footbed. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "18d5e2149506e3af",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "L’Épée 1839 Transforms a Soccer Ball Into an 8-Day Kinetic Clock Sculpture",
+      "url": "https://hypebeast.com/2026/9/lepee-1839-novelty-the-football-clock-info",
+      "publishedAt": "2026-09-05T02:00:59.000Z",
+      "collectedAt": "2026-09-05T14:54:20.279Z",
+      "text": "L’Épée 1839 Transforms a Soccer Ball Into an 8-Day Kinetic Clock Sculpture Summary L’Épée 1839 unveils “The Football” kinetic table clock at Geneva Watch Days 2026.Features a 1:1 scale truncated icosahedron design constructed from 882 individual hand-finished components.Houses an 8-day in-house mechanical movement across four finishes limited to 99 pieces each. Unveiled at Geneva Watch Days 2026, “The Football” by L’Épée 1839 marks the Swiss Manufacture's latest kinetic sculpture. Joining the LVMH group, the brand expands its sports-inspired lineup into the world of soccer. The timepiece draws inspiration from the geometry of the truncated icosahedron - specifically the 1962 Telstar satellite and the 1970 Telstar match ball produced by adidas - featuring an architectural layout made of 12 pentagons and 20 hexagons built to a 1:1 scale of an official soccer ball.Comprising 882 individual components, the kinetic sculpture is divided into two interlocking modules that house an 8-day in-house mechanical movement. The openworked skeletal framework reveals its internal gear train and escapement at the base, creating a dynamic visual contrast between traditional haute horlogerie and athletic industrial design. Time is read through rotating discs visible through the geometric cutouts, while the movement is wound via a custom key positioned at the top of the sculpture.L’Épée 1839 offers \"The Football\" in four distinct surface finishes: full gold-plated, full palladium-plated and two two-tone variants featuring either black or gold numerals. Each finish is strictly limited to 99 pieces, capping total production across the collection at 396 units. Designed for high-end table clock collectors, every individual component undergoes hand-finishing with alternating polished and satin-brushed textures. For more information, head over to L’Épée 1839's official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b368b19a1bb3023d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "How This 88-Year-Old Whisky Inspired Daniel Arsham’s New Artworks",
+      "url": "https://hypebeast.com/2026/9/daniel-arsham-balvenie-kelsey-mckechnie-frieze-seoul-collaboration-interview",
+      "publishedAt": "2026-09-04T23:53:32.000Z",
+      "collectedAt": "2026-09-05T14:54:20.279Z",
+      "text": "How This 88-Year-Old Whisky Inspired Daniel Arsham’s New Artworks Daniel Arsham’s latest zen garden performance could be the makings of your great-grandchildren’s favorite whisky. Four dancers move through a circular bed of barley at S50 in Seongsu, Seoul, sweeping, raking, and gliding through the sea of grains in meditative gestures. While this barley likely won’t hit the mill, the “Dawn Of Our Spirit” experience was inspired by traditional whisky-making, culminating in its last act: the reveal of The Balvenie’s 88-year-old Single Scotch Malt.Distilled in 1931 and bottled in 2019 by Malt Master Kelsey McKechnie, The Balvenie’s oldest (and rarest) edition leads its new 1931 Collection. When it came time to debut the bottle during Frieze Seoul, the label tapped Arsham for a sculptural casing and companion performance that embodies its generations-long devotion to craft, technique, and tradition, while also feeling artistically at home.The story behind the bottle begins with Arsham’s first trip to the distillery in Speyside, Scotland, said to be the heart of whisky country. “One of the things that struck me was the handmade quality of everything. It's technical, but very craft in a way, so I pulled out a lot of materials I saw.” Arsham said, sitting across from Hypebeast at The Distiller’s Library inside the Shilla Hotel. “We went through a lot of different processes around the [bottle’s] design,” with several “experimental” mockups behind him. “In the end, the preciousness of that liquid really needs to be considered.”The liquid itself lay in a hand-blown crystal decanter detailed with 18-karat gold gilding, a stopper made from a decommissioned copper still, and a neck taking after the “Balvenie Ball,” the unique still shape which gives the whisky its famed honeyed flavor. Arsham also created the architecture housing the form. Its face features eight fluid layers of hand-patinated copper, evoking textures and hues found throughout the still safe, while 88 thinly layered sections of oak on the back refer to the European oak sherry butt where it was first poured. “It’s the whisky when it’s moving through time,” he explained. “When you look at the sculpture, it's moving through the copper, into the wood, and then into your glass.”Beyond closing the cask of the 88-year-old, 1931 was a defining year for the label, which then opened its Home Malt Floor, still in operation. In today’s whisky game, the labor-intensive floor malting is seen as old-school. But for Th"
+    },
+    {
+      "id": "1e39744f3c1da6a7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ib Kamara Exits Off-White & The Met Cancels John Galliano Exhibition in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/9/ib-kamara-exits-off-white-the-met-cancels-john-galliano-exhibition-in-this-weeks-top-fashion-news",
+      "publishedAt": "2026-09-04T20:30:16.000Z",
+      "collectedAt": "2026-09-05T14:54:20.279Z",
+      "text": "Ib Kamara Exits Off-White & The Met Cancels John Galliano Exhibition in This Week's Top Fashion News SummaryIb Kamara mutually steps down from his creative director role at Off-White™, while The Met officially cancels its controversial Spring 2026 John Galliano exhibition.Stone Island taps cultural fixtures like fakemink for its latest campaign, and a Beijing-based designer transforms the Air Jordan 1 for women.YOSHIDA & Co. brings a five-day PORTER limited store to New York, and Sandy Liang reflects on a decade of design in her new monograph.Ib Kamara Exits Off-White™Ib Kamara and Off-White™ mutually parted ways, concluding the designer's tenure as creative director. Kamara, a close collaborator of the late Virgil Abloh, formally took the helm in Spring 2022. The CEO of Bluestar Alliance, Joey Gabbay, thanked Kamara in an official statement: \"We are deeply grateful for Ib’s vision, creativity, and the remarkable energy he brought to Off-White throughout his tenure. Ib’s contributions have been instrumental in shaping and evolving the brand, and we sincerely thank him for his dedication and lasting impact.” During his run, Kamara spearheaded notable milestones, including Off-White™’s first New York fashion show in Brooklyn and the launch of the more accessible L/AB c/o Off-White line. The house has not yet named a successor.The Met Cancels John Galliano ExhibitionThe Metropolitan Museum of Art officially cancels its planned Spring 2026 Costume Institute exhibition, “John Galliano: Horizons,” following widespread backlash regarding the designer’s 2011 racist remarks. In a joint statement, Galliano, Anna Wintour, and curator Andrew Bolton confirmed the mutual decision not to proceed. Galliano expressed regret and took accountability for his past words, while Wintour offered her full support for the cancellation. John Galliano wrote an extended remark, saying, “After much reflection and discussion with The Met and all those involved, I have decided, with great sadness, that it is best for the exhibition not to take place at this time,” he said. “I remain fully accountable for the pain caused by my words in the past, particularly the hurt I caused to the Jewish and Asian communities, and I remain deeply sorry for it.”Fakemink and Skepta's First Collaboration Is in the New Stone Island CampaignStone Island’s ongoing “Community as a Form of Research” campaign returns with a new roster of cultural tastemakers. The latest visual series stars fakemink, Skepta, Step"
+    },
+    {
+      "id": "4523a15166667a0b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "norda and Black Diamond Enter a New Era of Alpine Performance",
+      "url": "https://hypebeast.com/2026/9/norda-and-black-diamond-enter-a-new-era-of-alpine-performance",
+      "publishedAt": "2026-09-04T18:59:52.000Z",
+      "collectedAt": "2026-09-05T14:54:20.279Z",
+      "text": "norda and Black Diamond Enter a New Era of Alpine Performance In an era defined by collaboration, the partnerships that truly resonate feel inevitable. norda and Black Diamond are exactly that: two brands united by a shared obsession with performance, coming together through the all-new norda 000 silhouette to redefine what alpine exploration can look like.norda, the performance footwear brand built on advanced material innovation, and Black Diamond Equipment, a global leader in mountain sports equipment and apparel, have entered a long-term partnership, bringing together their respective expertise in footwear and mountain equipment. Anchored in an all-new set of trail-ready products, the collection draws on both brands' experience to create the highest-quality gear possible, combining advanced technology with decades of mountain expertise.Hypebeast wanted to learn more about the collaboration, speaking with Adam John, norda’s Creative Director, and Dan Rowe, Special Projects and Design Lead at Black Diamond, about how the partnership began and how it ultimately came to life.What sparked the initial ideas for this collaboration — where did this idea come from?Dan Rowe: The origins of this partnership began at the athlete level, with admiration for Joe Grant in the way he chooses to interact with trails. While he has a decorated past in traditional racing, his movement through the mountains has evolved into something more than numbers and data. Following his journey offers a rare lens into the spirit that drives us outside in the first place, and Black Diamond is a rare brand that caters to the spirited yet serious.How did both Norda and Black Diamond’s DNA show up in the design?Adam John: We built this partnership from the ground up—quite literally. Rather than take an existing shoe model and co-brand it, we created a brand-new shoe that dictated the type of movement we wanted the partnership to convey. The result is the norda x Black Diamond 000, a shoe for long days that can handle highly variable and uneven terrain. Black Diamond's equipment followed suit: complementary upgrades to existing and new products that support these kinds of journeys. What are some of the shared philosophies and crossovers between the brands?DR: There was an immediate mutual respect between the two design teams and the way each approaches product, but finding the spirit of the collaboration took time and flowed organically. Both brands share a deep connection to the mountains "
+    },
+    {
+      "id": "bad98b49cc40e4bc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A First Look at the Melitta Baumeister x Nike Rift Rocker",
+      "url": "https://hypebeast.com/2026/9/melitta-baumeister-nike-rift-rocker-release-info",
+      "publishedAt": "2026-09-04T16:12:16.000Z",
+      "collectedAt": "2026-09-05T14:54:20.279Z",
+      "text": "A First Look at the Melitta Baumeister x Nike Rift Rocker SummaryMelitta Baumeister officially unveiled her latest Nike collaboration at Seoul Art WeekThe heavily modified tabi-toe sneaker features a crackled upper and extra-chunky rocker solesA special viewing experience will be open to the public on September 5 and 6 in Jongno-guMelitta Baumeister has officially unveiled her latest footwear collaboration with Nike, debuting the Nike Rift Rocker, at Seoul Art Week. Following up on her distinct spins on the Nike Vomero Premium and Nike Pegasus Premium, the NYC designer is now bringing her signature surreal, amorphous aesthetic to the beloved tabi-toe sneaker.Designed to turn heads, the NikeRift Rocker demands immediate attention with its heavily modified, extra-chunky rocker soles, complete with a debossed Nike Swoosh. On the uppers, the silhouette sports a crackled finish that introduces a raw, tactile texture to the split-toe classic. True to Baumeister’s whimsical and avant-garde approach to garment design, the sneaker design is rounded off with a playful pair of eyes staring out directly from the back heels. Further, Melitta Baumeister branding is also emblazoned on the Velcro strap, while both the heel strap and midsole boast cursive Nike wordmarks.The physical debut is anchored by a special NIKELAB SEOUL installation taking place on September 5 and 6, giving attendees a first-hand look at the designer's latest conceptual footwear drop. As of the time of writing, an official release date for the Melitta Baumeister x Nike Rift Rocker hasn’t been announced, so stay tuned to Hypebeast for further updates. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "961bf426ff7dbfec",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Christie's Next Show is for a New Generation of Design Collectors",
+      "url": "https://hypebeast.com/2026/9/christies-basic-space-auction-news",
+      "publishedAt": "2026-09-04T11:33:44.000Z",
+      "collectedAt": "2026-09-05T14:54:20.279Z",
+      "text": "Christie's Next Show is for a New Generation of Design Collectors Basic.Space is taking over Christie's Beverly Hills with an exhibition of 50 chairs, which gathers design classics alongside contemporary pieces.Named \"50 Chairs at Christie's\", the pieces have been curated by Basic.Space and will feature works created by, and also owned by, famed designers. For Basic.Space founder Jesse Lee, the event is designed to cater to the \"next generation of collectors\", pairing cult favourites such as Gufram's huge Pratone lounge chair with classics like Charles and Ray Eames' LCW in a rare calfskin edition. \"Discovery has always been at the heart of Basic.Space and our ecosystem of designers, artists and creatives,\" says Lee, who founded the platform in 2020 and has spent recent years making his way into the field through IRL experiences and the acquisition of industry tentpole Design Miami. \"We are redefining luxury for the next generation of collectors. 50 Chairs at Christie’s is an expression of that ethos - showcasing iconic works from the past alongside original pieces from the voices shaping the future of design.\"On the more historical end of the spectrum, a hammered-brass chair by Philippe Hiquily made in the 1970s has been put forwards by Kelly Wearstler, and comedian, filmmaker and design collector Eric Wareheim is parting with Joe Colombo's molded-fiberglass Elda Chair from 1963. Los Angeles furniture designer BASA is contributing Gufram's oversized Pratone lounge chair, and collectors Giampiero Tagliaferri and Adrien Dewulf have supplied a CL9 ribbon chair.The contemporary side leans more on pieces from collectible design galleries. Carpenters Workshop Gallery is bringing Rick Owens' Stag Stool, a limited edition in black plywood and natural moose antler, and The Future Perfect has supplied Seoul-based SeungJin Yang's Lounge Chair 01 – Transparent Blue, formed from balloons and resin. Sam Klemick's Trumpet Dining Chair works the fluidity of textiles into solid wood, while Los Angeles furniture and decorative arts dealer JF Chen is contributing pieces by multidisciplinary artist and audiophile Devon Turnbull, California sculptor Vince Skelly and London-based Max Lamb.50 Chairs at Christie's runs September 25 to 30, 2026, at Christie's Beverly Hills, 336 North Camden Drive, Beverly Hills, CA 90210, with a VIP preview taking place on September 24. The pieces will be sold via the Basic.Space platform throughout. Click here to view full gallery at Hypebeast"
     }
   ]
 }
