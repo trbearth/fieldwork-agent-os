@@ -1,16 +1,16 @@
 {
   "run": {
-    "id": "2026-09-06",
+    "id": "2026-09-07",
     "mode": "live",
-    "displayDate": "SEP 06, 2026, 11:14 AM EDT",
-    "generatedAt": "2026-09-06T15:14:30.264Z",
-    "itemsCollected": 29,
+    "displayDate": "SEP 07, 2026, 01:35 PM EDT",
+    "generatedAt": "2026-09-07T17:35:45.212Z",
+    "itemsCollected": 38,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
@@ -24,48 +24,8 @@
       }
     ]
   },
-  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 48,
-      "confidence": 25,
-      "youthRelevance": 81,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole",
-          "source": "Hypebeast",
-          "date": "Sep 1",
-          "url": "https://hypebeast.com/2026/9/beams-boy-clarks-desert-trek-gore-tex-mocha-13320068100-release-info"
-        }
-      ]
-    },
-    {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 46,
-      "direction": "up",
-      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
-          "source": "Highsnobiety",
-          "date": "Aug 31",
-          "url": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/"
-        }
-      ]
-    },
     {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
@@ -87,23 +47,37 @@
       ]
     },
     {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 26,
+      "confidence": 21,
+      "youthRelevance": 46,
+      "direction": "down",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "citations": [
+        {
+          "title": "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole",
+          "source": "Hypebeast",
+          "date": "Sep 1",
+          "url": "https://hypebeast.com/2026/9/beams-boy-clarks-desert-trek-gore-tex-mocha-13320068100-release-info"
+        }
+      ]
+    },
+    {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 39,
-      "confidence": 44,
-      "youthRelevance": 57,
+      "score": 25,
+      "confidence": 22,
+      "youthRelevance": 38,
       "direction": "down",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 6 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · -67% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
       "citations": [
-        {
-          "title": "Supreme Celebrates Larry Clark's 'Tulsa' Legacy in New FW26 Collaboration",
-          "source": "Hypebeast",
-          "date": "Aug 31",
-          "url": "https://hypebeast.com/2026/8/supreme-larry-clark-collaboration-fall-2026-release-info"
-        },
         {
           "title": "10 Fall 2026 Accessory Trends That Stole the Show",
           "source": "Vogue",
@@ -114,19 +88,19 @@
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "2 mentions this week versus 6 in the prior seven-day window."
+    "name": "Quiet performance",
+    "reason": "1 mention this week versus 2 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Quiet performance moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
+    "title": "Archival sportswear moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0906",
-    "name": "Quiet performance",
-    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
+    "code": "AUTO 0907",
+    "name": "Archival sportswear",
+    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
     "objects": [
-      "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole"
+      "PLEASURES and Umbro Revisit '90s British Terrace Style in a New Capsule Collection"
     ]
   }
 }

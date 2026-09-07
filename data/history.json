@@ -1514,6 +1514,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-07",
+      "mode": "live",
+      "displayDate": "SEP 07, 2026, 01:35 PM EDT",
+      "generatedAt": "2026-09-07T17:35:45.212Z",
+      "itemsCollected": 38,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 8
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 26,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 25,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -22438,6 +22480,424 @@
       "publishedAt": "2026-09-05T16:28:14.000Z",
       "collectedAt": "2026-09-06T15:14:28.995Z",
       "text": "New Arrivals From HBX: KHOKI Brand Information: KHOKI is a Tokyo-based design team formed by several young designers whose identities remain undisclosed. The team celebrates craftsmanship through the visible hand of its makers, blending traditional techniques with innovative patterns to create modern, casual wear infused with multicultural references, nostalgia, and subtle playfulness.Price Range: $185.00 USD - $1,995.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7be7faeb2040c2c9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why You Should Visit the Original ‘Practical Magic’ Filming Location This Fall",
+      "url": "https://www.vogue.com/article/where-was-practical-magic-filmed",
+      "publishedAt": "2026-09-07T17:11:33.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "Why You Should Visit the Original ‘Practical Magic’ Filming Location This Fall A travel guide to Washington state's Whidbey Island: the filming location for the original ‘Practical Magic,’ where orca sightings, historic wharves, and misty nature reserves are just another day."
+    },
+    {
+      "id": "e12fbaa1d2d42881",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the Most Glittering Parties of Venice Film Festival 2026 (So Far)",
+      "url": "https://www.vogue.com/article/venice-film-festival-2026-best-parties",
+      "publishedAt": "2026-09-07T17:02:59.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "Inside the Most Glittering Parties of Venice Film Festival 2026 (So Far) From fashion dinners to charity galas, here, find Vogue’s roundup of the best and most star-studded parties at the 2026 Venice Film Festival."
+    },
+    {
+      "id": "b91d15a629313836",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why Can’t You Wear White After Labor Day?",
+      "url": "https://www.vogue.com/article/wearing-white-after-labor-day",
+      "publishedAt": "2026-09-07T15:52:05.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "Why Can’t You Wear White After Labor Day? Here’s where this archaic rule came from—and why it no longer necessarily holds true."
+    },
+    {
+      "id": "a11e3578c7874252",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Parker Posey’s Venice Film Festival—From Sightseeing to Fabulous Fashions",
+      "url": "https://www.vogue.com/slideshow/inside-parker-poseys-venice-film-festival-2026",
+      "publishedAt": "2026-09-07T14:09:52.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "Inside Parker Posey’s Venice Film Festival—From Sightseeing to Fabulous Fashions The star touched down in Venice for her film “Wild Horse Nine” this week. “I like looking like I’m showing up,” says Parker Posey."
+    },
+    {
+      "id": "7367c010c1b4743f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Brooklyn and Nicola Peltz Beckham Stepped Back Into the Spotlight in Venice",
+      "url": "https://www.vogue.com/article/brooklyn-and-nicola-peltz-beckham-venice",
+      "publishedAt": "2026-09-07T11:25:53.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "How Brooklyn and Nicola Peltz Beckham Stepped Back Into the Spotlight in Venice Brooklyn and Nicola Peltz Beckham made a rare red-carpet appearance at the 2026 Venice Film Festival."
+    },
+    {
+      "id": "5520d5a0e61fd09e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ciara Is Pregnant! The Singer Is Expecting Her Fifth Child With Russell Wilson",
+      "url": "https://www.vogue.com/article/ciara-pregnant-with-her-fifth-child",
+      "publishedAt": "2026-09-07T11:09:23.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "Ciara Is Pregnant! The Singer Is Expecting Her Fifth Child With Russell Wilson “One more person to love,” so said Ciara and Russell Wilson as they joyfully revealed the news of their fifth child."
+    },
+    {
+      "id": "c24d1278c492998a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Connor Storrie Officially Debuts His Buzzcut at the 2026 Creative Arts Emmys",
+      "url": "https://www.vogue.com/article/connor-storrie-buzzcut-2026-creative-arts-emmys",
+      "publishedAt": "2026-09-07T10:37:37.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "Connor Storrie Officially Debuts His Buzzcut at the 2026 Creative Arts Emmys The “Heated Rivalry” star walked the red carpet with his mom and a dramatic new haircut, swapping his signature curls for a shorn look."
+    },
+    {
+      "id": "096c41d1c093cb5d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "These Vintage Photos of Jane Birkin Prove She’s the Ultimate Fall Style Muse",
+      "url": "https://www.vogue.com/article/vintage-photographs-of-jane-birkins-fall-style",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.117Z",
+      "text": "These Vintage Photos of Jane Birkin Prove She’s the Ultimate Fall Style Muse Chic, yet cozy—the British singer, actor, and French icon knew how to dress for chilly weather."
+    },
+    {
+      "id": "87a4b957a9328155",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "36 Bridal Clutches, Purses, and Handbags to Carry on Your Big Day",
+      "url": "https://www.vogue.com/slideshow/bridal-clutch-purse-handbag",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "36 Bridal Clutches, Purses, and Handbags to Carry on Your Big Day Make sure every detail of your look feels special, including the bag you carry. Shop 36 of the best bridal clutches, purses, and handbags."
+    },
+    {
+      "id": "b0ee4d8b99984ba9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "28 Travel Jackets for Every Climate, Itinerary, and Jet-Setting Style",
+      "url": "https://www.vogue.com/article/travel-jackets",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "28 Travel Jackets for Every Climate, Itinerary, and Jet-Setting Style Before you hit the road this fall, be sure to pack the right travel jacket for your itinerary—from lightweight cotton styles to designer raincoats, here are some of our favorites."
+    },
+    {
+      "id": "c5e7190cd95abe08",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Style a Suede Jacket—6 Fall-Ready Outfits to Try",
+      "url": "https://www.vogue.com/article/how-to-style-a-suede-jacket",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "How to Style a Suede Jacket—6 Fall-Ready Outfits to Try Textural, cool, and endlessly versatile, suede jackets are a fall—and Fashion Month!—favorite for a reason. Here are six ways how to style a suede jacket now."
+    },
+    {
+      "id": "13b3ecf4a3669b3d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sabato De Sarno Looks Eastward for His Next Move",
+      "url": "https://www.vogue.com/article/sabato-de-sarno-looks-eastward-for-his-next-move",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "Sabato De Sarno Looks Eastward for His Next Move The former creative director of Gucci joins Icicle as creative director."
+    },
+    {
+      "id": "c19e34d88e91592d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "4 Key Takeaways From Tokyo Fashion Week SS27",
+      "url": "https://www.vogue.com/article/4-key-takeaways-from-tokyo-fashion-week-ss27",
+      "publishedAt": "2026-09-07T04:50:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "4 Key Takeaways From Tokyo Fashion Week SS27 With many emerging local designers showing outside of TFW, the SS27 schedule felt sparse. But this season, JFWO seized the opportunity to showcase international talent."
+    },
+    {
+      "id": "f19626768e4bde7d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Story Behind Kendall Jenner’s Ultra-Rare, Artist-Made Earrings",
+      "url": "https://www.vogue.com/article/kendall-jenner-ultra-rare-calder-artist-earrings",
+      "publishedAt": "2026-09-06T18:36:26.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "The Story Behind Kendall Jenner’s Ultra-Rare, Artist-Made Earrings Kendall Jenner looked to Peggy Guggenheim—Venice’s legendary adopted art-world grande dame—as inspiration for her first Venice Film Festival looks."
+    },
+    {
+      "id": "6396c1296baa6b0d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Phoebe Bridgers and Her Leg Hair Make for a Memorable Venice Film Festival Debut",
+      "url": "https://www.vogue.com/article/phoebe-bridgers-venice-film-festival-debut",
+      "publishedAt": "2026-09-06T17:26:57.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "Phoebe Bridgers and Her Leg Hair Make for a Memorable Venice Film Festival Debut For a turn around the Lido, musician and “Primetime” actor Phoebe Bridgers embraced the glamorous yet free-spirited Venice dress codes her way."
+    },
+    {
+      "id": "397bc5c3f1420c48",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ever Anderson Marked Her First Venice Film Festival Premiere in Style",
+      "url": "https://www.vogue.com/slideshow/ever-anderson-venice-film-festival-diary",
+      "publishedAt": "2026-09-06T17:11:37.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "Ever Anderson Marked Her First Venice Film Festival Premiere in Style The rising actor and daughter of Milla Jovovich wore Dior and vintage for her first Venice: “I wanted something that was easy to wear but super fun and flashy.”"
+    },
+    {
+      "id": "4301309da883483e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Balance Summer and Fall Style",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-amal-clooney-kendall-jenner-jennifer-lawrence",
+      "publishedAt": "2026-09-06T15:32:20.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "The Best Dressed Stars of the Week Balance Summer and Fall Style From Jennifer Lawrence to Amal Clooney: easy, breezy summery dresses collided with sleek fall suiting on the red carpets this week."
+    },
+    {
+      "id": "3f9f918733a132e6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The “Curtain Crop” Is the Cool-Girl Haircut for Fall 2026",
+      "url": "https://www.vogue.com/article/curtain-crop-2026",
+      "publishedAt": "2026-09-06T14:00:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "The “Curtain Crop” Is the Cool-Girl Haircut for Fall 2026 Part Kiera Knightley in ‘Bend It Like Beckham,’ part Gina Gershon in ‘Bound,’ part Carrie-Anne Moss in ‘The Matrix,’ the grown-out crop is already this year’s most in-demand style."
+    },
+    {
+      "id": "61ff4079a3997cf8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Story Behind Edith Head’s Very First Collaboration With Alfred Hitchcock",
+      "url": "https://www.vogue.com/article/the-story-behind-edith-heads-very-first-collaboration-with-alfred-hitchcock",
+      "publishedAt": "2026-09-06T10:00:00.000Z",
+      "collectedAt": "2026-09-07T17:35:41.118Z",
+      "text": "The Story Behind Edith Head’s Very First Collaboration With Alfred Hitchcock Not only was 1946’s “Notorious” the film that confirmed Alfred Hitchcock’s position as the “master of suspense,” but it also has an important place in Hitchcock lore, and indeed in cinematic history, marking the director’s first time working with costumer extraordinaire Edith Head."
+    },
+    {
+      "id": "f1d4cbb80688d475",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "CHANGBIN x AUTRY Collection Launch Event Brings a Pink Paradise to Seoul",
+      "url": "https://hypebeast.com/2026/9/autry-changbin-collection-launch-seoul-event-recap",
+      "publishedAt": "2026-09-07T13:44:37.000Z",
+      "collectedAt": "2026-09-07T17:35:43.942Z",
+      "text": "CHANGBIN x AUTRY Collection Launch Event Brings a Pink Paradise to Seoul Autry and K-pop artist Changbin are making their partnership official with the release of a new capsule collection. Co-designed by the Stray Kids member, the collaborative drop, featuring two reimagined sneaker silhouettes and a lineup of streetwear staples, sets out to commemorate his arrival at the brand as its first-ever global ambassador. In an official statement, Changbin recently shared, “Designing this capsule with Autry was an exciting journey. It gave me the opportunity to bring my personality and point of view to the brand’s iconic sneakers and apparel. Both reflect strength and playfulness — the balance that defines me as an artist. Autry’s timeless style gave me the perfect canvas to share part of my world through fashion in a meaningful and personal way.”Celebrating the meeting of two identities, Autry went on to host a special launch event in Seoul, Korea earlier this week. The occasion welcomed friends of the brand and others from the region’s creative scene to a pink-emblazoned venue in the Seongsu district that boldly co-ordinated with the collection's dedicated motifs and accent tones. The vibrant and joyful theme flowed from the outside into the interiors. On walls, soft blush lights shone down on posters of the CHANGBIN x AUTRY branding while vending machines and rails were stacked with pieces from the collaboration. In a more sculptural segment, the remodelled Medalist and Hyperway sneakers were raised on pink blocks and 3-D models of the DWAEKKI tail symbol, complementing the graphic detailing on the sneaker designs. Making the event more than a showcase, but a multi-sensory experience, the space was peppered with photo booths, candy stations and platters stacked with rose-tinted gelato and pink pasta. Each element, particularly the refreshments, provided a direct tribute to the partnership with Autry’s Italian heritage coming through in a uniquely K-pop style. As a live DJ set played, guests immersed themselves in the activations before leaving with a limited-edition collector’s item made specially for the launch night. If you missed out, explore the event in the gallery above. The CHANGBIN x AUTRY capsule collection is now available to shop online and in global flagship stores. Read more at Hypebeast"
+    },
+    {
+      "id": "0bcf130f19fe29a1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Everything Dropping at Palace This Week",
+      "url": "https://hypebeast.com/2026/9/palace-skateboards-fall-2026-drop-6-release-info",
+      "publishedAt": "2026-09-07T11:00:44.000Z",
+      "collectedAt": "2026-09-07T17:35:43.942Z",
+      "text": "Everything Dropping at Palace This Week Summary Palace Skateboards has detailed its Fall 2026 Week 6 drop, spanning outerwear, denim, a trucker jacket and a graphic teeThe lineup foregrounds specific fabrics, from a 10 oz hooded canvas jacket to a Polartec-lined Legacy Jacket Palace Skateboards has laid out the sixth weekly installment of its Fall 2026 season, a five-piece drop that puts its material choices front and center. The release runs from heavyweight canvas outerwear through technical fabrics and worked denim, giving each piece a distinct construction story rather than relying on graphics alone.The outerwear splits between raw material weight and technical performance. Anchoring the drop is a 10 oz Hooded Canvas Jacket, whose stated fabric weight signals a sturdy, structured build, offered in Black, Brown and Navy Blue. Running alongside it, the Polartec Legacy Jacket swaps canvas for a named technical fabric associated with warmth and insulation, arriving in Black and Racey Green for a more performance-minded option within the same release.Denim and the trucker bring the worked-fabric details. The Legacy P90 Jean comes in Black, Indigo and a Woodland Camo treatment, spanning a clean wash, a classic indigo and a patterned option in a single silhouette. The OM Distressed Trucker leans into finishing rather than fabric novelty, with a distressed treatment across Black, Realtree Edge and White that includes a licensed camo pattern among its colorways.The graphic piece keeps the range grounded in everyday staples. The Cat Face T-shirt rounds out the drop with the widest color spread of the five, offered in Black, White, Chalky Green and Grey Marl, giving the release an accessible entry point beneath the heavier outerwear and denim.Taken together, the five pieces read as a deliberately material-led drop, pairing raw canvas and technical fabric up top with camo-inflected denim and a distressed trucker below, each carried across several colorways to widen the options within a compact release.The Palace Skateboards Fall 2026 Week 6 drop launches Friday, September 11 at 11:00 a.m. BST across the UK, Europe and US, followed by Saturday, September 12 at 11:00 a.m. local time in Japan, China, Korea and Australia. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5551dda2f7f3e6ad",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A.PRESSE and Supreme Build a Fall 2026 Collection on Calfskin, Silk-Cotton Suiting and Hand-Applied Camo",
+      "url": "https://hypebeast.com/2026/9/a-presse-supreme-fall-2026-collaboration-collection-release-info",
+      "publishedAt": "2026-09-07T10:30:52.000Z",
+      "collectedAt": "2026-09-07T17:35:43.942Z",
+      "text": "A.PRESSE and Supreme Build a Fall 2026 Collection on Calfskin, Silk-Cotton Suiting and Hand-Applied Camo Summary Supreme has partnered with Japanese brand A.PRESSE on a Fall 2026 collection spanning leather outerwear, tailoring, knitwear and accessoriesThe lineup leans on custom-developed fabrics, including a cotton-silk suit, a David & John Anderson Oxford shirt and hand-applied camo on the M-65 and Cargo PantThe pieces were produced by A.PRESSE across Japan, Portugal and the USA with custom fits built collaboratively Supreme and A.PRESSE have unveiled a Fall 2026 collection that channels the Japanese label's fabric-first, heritage-minded approach across a full run of apparel and accessories. The collaboration threads A.PRESSE's custom-developed materials and vintage finishing through leather jackets, tailoring, workwear staples and hardware, each piece cut to fits the two brands developed together.The materials do much of the talking here, in keeping with A.PRESSE's reputation. The label, founded by Kazuma Shigematsu in 2021, built its name on reinterpreting workwear, military and tailored archetypes through meticulously sourced fabrics and vintage finishing techniques, and the collaboration puts that sensibility front and center. Rather than leaning on graphics, the collection foregrounds construction and cloth as its main points of interest.The outerwear anchors the range in leather and military reference. A Leather Jacket arrives in two distinct hides, one in calfskin and one in cowhide, offering different weights and hands within the same silhouette. Alongside it, the M-65 and Cargo Pant both carry a hand-applied camo pattern, a labor-intensive finishing choice that ties the pieces to A.PRESSE's vintage-treatment approach while nodding to the military lineage that informs the brand.Tailoring and shirting extend the fabric story. The Suit is cut from a cotton-silk blend that balances structure with a softer drape, while the Shirt uses a David & John Anderson cotton pin Oxford, a nod to premium British-milled cloth. The Vintage Zip Up Hooded Sweatshirt adds a cotton waffle thermal lining for texture and warmth, and a Tee brings in original photography by Ari Marcopoulos, folding an art-world collaborator into the otherwise material-led lineup.Accessories round the collection out and stretch it into hardware. A Camp Cap and a Cashmere Beanie cover headwear across seasons, while a 20-inch sterling silver Classic Key Chain gives the range a precious-metal"
+    },
+    {
+      "id": "703e174da8d3b694",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike First Sight Shadow Closes the Trilogy With Sculptural Slip-On Build in \"Light Crimson/Metallic Silver\"",
+      "url": "https://hypebeast.com/2026/9/nike-first-sight-shadow-light-crimson-metallic-silver-hq2410-600-release-info",
+      "publishedAt": "2026-09-07T08:51:07.000Z",
+      "collectedAt": "2026-09-07T17:35:43.942Z",
+      "text": "The Nike First Sight Shadow Closes the Trilogy With Sculptural Slip-On Build in \"Light Crimson/Metallic Silver\" Name: Nike First Sight Shadow “Light Crimson and Metallic Silver”Colorway: Light Crimson/Metallic SilverSKU: HQ2410-600MSRP: $145 USDRelease Date: September 15Where to Buy: NikeNike has unveiled the Women's First Sight Shadow in a \"Light Crimson and Metallic Silver\" colorway, positioning the model as the closing chapter of the brand's First Sight collection. The Shadow arrives as a slip-on silhouette that pulls its cues from early-2000s design while grounding itself in Nike's basketball lineage.Construction is where the Shadow makes its case. The model is built as a futuristic slip-on, doing away with traditional lacing in favor of an easy step-in entry, and it is topped by a sculptural upper that gives the shoe its molded, forward-leaning shape. That upper is the defining visual element, prioritizing a bold, contoured profile over conventional paneling.Underfoot, the traction is purpose-built rather than borrowed. Nike finishes the Shadow with a bespoke, court-inspired outsole pattern, tying the silhouette's grip back to the basketball reference points that inform the wider collection. It is a functional nod that keeps the design connected to performance roots even as the overall shape reads as street-focused.The design language traces directly to the early 2000s. The Shadow draws on the silhouettes of that era and filters them through Nike basketball DNA, translating a specific moment in the brand's hoops history into a contemporary, slip-on form. That lineage is what separates the model from a purely futuristic exercise, anchoring its forward-looking build in a recognizable design heritage.Within the First Sight lineup, the Shadow carries a specific role. Nike frames the collection as an effort to push athletic style into new territory, and the Shadow completes that three-model arc, presented as the piece that rounds out the trilogy. The \"Light Crimson and Metallic Silver\" treatment gives that closing entry a high-contrast finish to match its sculptural form. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "282f0f81b2e21739",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BUNNEY's Teddy Bear T-Shirt Carries Josh Hight's Black-and-White Bear Studies",
+      "url": "https://hypebeast.com/2026/9/bunney-teddy-bear-t-shirt-release-info",
+      "publishedAt": "2026-09-07T08:50:49.000Z",
+      "collectedAt": "2026-09-07T17:35:43.942Z",
+      "text": "BUNNEY's Teddy Bear T-Shirt Carries Josh Hight's Black-and-White Bear Studies Summary BUNNEY has released the Teddy Bear T-Shirt, printed with a series of black-and-white studies of stuffed bears by Josh HightThe piece is made from 100% cotton and offered across a full S to XL size runThe imagery is framed by the line \"What will survive of us is love,\" pairing childhood nostalgia with the brand's jewellery BUNNEY has introduced the Teddy Bear T-Shirt, a 100% cotton piece built around a series of intimate black-and-white photographs by Josh Hight. The construction keeps things deliberately spare, using a straightforward cotton build as the canvas for the tee's photographic subject matter.The shirt is cut from 100% cotton, a single-material construction that keeps the garment uncomplicated and lets the print carry the design. Rather than layering in technical treatments or blended fibres, BUNNEY leans on a clean cotton base as the surface for its imagery.The print itself is what the construction is built to showcase. Hight's black-and-white studies capture a collection of stuffed bears drawn from shared childhood familiarity, at times playful and at times openly sentimental, their worn surfaces suggesting years of being held and carried. Set alongside BUNNEY's jewellery and framed by the line \"What will survive of us is love,\" the imagery gives the simple cotton piece its emotional weight.The Teddy Bear T-Shirt is available now via BUNNEY. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6b9ed158a2d37c7c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Etro Leads the Birkenstock Boston and Gizeh With Paisley Outsoles and Pegaso Rivets",
+      "url": "https://hypebeast.com/2026/9/etro-birkenstock-boston-gizeh-fall-winter-2026-fw-26-collaboration-release-info",
+      "publishedAt": "2026-09-07T08:30:27.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Etro Leads the Birkenstock Boston and Gizeh With Paisley Outsoles and Pegaso Rivets Name: Etro x Birkenstock Boston, Etro x Birkenstock GizehColorway: TBCSKU: TBCMSRP: TBCRelease Date: September 10Where to Buy: Birkenstock, EtroBirkenstock and Etro have released their collaborative footwear, opening with the Boston and the Gizeh as the first pairs in the partnership. The two styles graft Etro's decorative language onto Birkenstock's most recognizable silhouettes while leaving the brand's core footbed engineering intact.The ornamentation is where the collaboration concentrates its detailing. Both silhouettes are worked with a paisley motif and dense material treatments, then dressed with embroidered accents and long fringe for movement and texture. A Western-inspired buckle reshapes the closure hardware away from Birkenstock's standard fittings, while special rivets carry Etro's Pegaso emblem, embedding the house's identity into the functional hardware rather than only the surface.Underneath the decoration, the construction stays true to Birkenstock. Each style is built on the brand's anatomically shaped cork-latex footbed, the contoured base that defines how a Birkenstock sits and supports the foot. It anchors the collaboration's more expressive upper work to a familiar, function-first foundation, keeping the pairs recognizable as the Boston and Gizeh beneath the styling.The outsole is where both brands meet in a single component. Birkenstock's signature bone-pattern tread is retained for grip and identity, then overlaid with Etro's paisley motif, so the underfoot surface reads as a merger of the two design vocabularies. It turns a purely functional part of the shoe into another site for the co-branding.Positioned as the opening chapter of the tie-up, the Boston and Gizeh set the template for what the brands frame as a first drop, suggesting the collaboration is built to extend beyond these two styles. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "840a638fec489770",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Anbernic Reveals the RG DS Plus, a Dual-Screen Handheld Built for Nintendo DS Emulation Under $100 USD",
+      "url": "https://hypebeast.com/2026/9/anbernic-rg-ds-plus-dual-screen-linux-retro-handheld",
+      "publishedAt": "2026-09-07T08:24:33.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Anbernic Reveals the RG DS Plus, a Dual-Screen Handheld Built for Nintendo DS Emulation Under $100 USD Summary Anbernic expands its retro gaming lineup with a larger dual-screen handheld engineered for authentic Nintendo DS emulationThe device transitions to a Linux operating system powered by the new NNDSS emulator featuring robust touch and microphone integrationHardware updates include an integrated capacitive stylus, a stepless dual alloy hinge and a strategic RAM adjustment to support GammaOS Shenzhen-based hardware manufacturer Anbernic officially announced the Anbernic RG DS Plus, a dual-screen handheld gaming console inspired by the classic Nintendo DS. Arriving with a footprint larger than the original non-Plus model, this updated release is tailored for emulation. The device natively integrates a dual-screen setup alongside an integrated capacitive stylus and a built-in microphone to cater to the retro gaming community. This approach bridges a physical gap in portable emulation by addressing the hardware requirements necessary for legacy Nintendo DS titles.Front and center on the Anbernic RG DS Plus are its twin displays. Both screens measure 4.3 inches and deliver a 1024×768 resolution backed by 4x pixel-perfect scaling. The lower second display operates using a touch-based interface for the included stylus. Connecting these two panels is an upgraded dual alloy hinge. Built for a long lifespan, this hinge mechanism allows for stepless positioning to ensure optimal viewing angles. Physical inputs include four digital shoulder buttons and an analog stick. The handheld is also equipped with dual USB-C ports, dual microSD card slots, a headphone jack and front-facing speakers.A Linux operating system powers the handheld, shifting away from the Android OS used on its predecessor. This software foundation relies on a newly developed dual-screen emulator called NNDSS. The NNDSS emulator natively supports microphone input, allowing players to use the built-in mic for gameplay mechanics. Specialized software delivers screen swapping, an instant save feature and a real-time clock. Players can also customize visual output by cycling through 76 built-in shader options.Internal architecture makes trade-offs to balance community-driven software with affordability. The device is powered by the Rockchip RK3568 chipset, a processor unchanged from the previous version. The system features 1GB of RAM, representing a deliberate downgrade from the previous model's 3"
+    },
+    {
+      "id": "0d6c75114464dde5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Neil Druckmann Confirms Multiple New 'The Last of Us' Projects Are in Development at Naughty Dog",
+      "url": "https://hypebeast.com/2026/9/naughty-dog-exits-hbos-the-last-of-us-show",
+      "publishedAt": "2026-09-07T08:24:24.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Neil Druckmann Confirms Multiple New 'The Last of Us' Projects Are in Development at Naughty Dog Summary Neil Druckmann confirmed that Naughty Dog has stepped away from the creative direction of HBO's adaptation of \"The Last of Us\"The acclaimed studio maintains stewardship of the hit franchise with multiple undisclosed gaming projects actively in the worksDruckmann is currently focused on co-directing and co-writing a new title called \"Intergalactic: The Heretic Prophet\" Speaking recently to the Washington Post, Neil Druckmann set the record straight on where Naughty Dog stands with the hit television adaptation of its flagship property. While the game director previously served as the co-creator and co-showrunner of the HBO series alongside Craig Mazin, Druckmann formally announced his departure from the television show in 2025. He confirmed that both he and the studio were uninvolved in shaping the creative direction for the upcoming season of The Last of Us, which is scheduled to return to screens in 2027.Stepping back from the television spotlight does not mean the studio is abandoning the property. Druckmann affirmed the developer's continued ownership of the franchise, stating that as the creator of the games, Naughty Dog remains the steward of the IP. Driving the point home to fans, Druckmann guaranteed the franchise's continuation by declaring that while this adaptation might end, the team is not done with the series. He teased that the studio currently has a couple projects in the works that he remains excited to discuss when the time is right.While those mystery titles develop in secrecy, the studio is pushing boundaries on its upcoming slate. Druckmann and Naughty Dog are currently deep into active development on a brand-new project titled Intergalactic: The Heretic Prophet. Bringing his focus back to the native gaming medium, Druckmann is serving a dual role by co-directing and co-writing the new title.This internal focus marks a pivot for the developer after Naughty Dog previously canceled a massive and highly anticipated multiplayer project set within the franchise universe. Druckmann had hinted that a third game in the franchise was in the works. Now, with a new console generation looming and the television show boosting popularity, the studio is positioned to capitalize on the renewed cultural demand for its signature prestige single-player entries. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0c17631e04db709e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Italian State Police Just Got a 907 HP Lamborghini Temerario Built for Emergency Organ Deliveries",
+      "url": "https://hypebeast.com/2026/9/lamborghini-temerario-polizia-hybrid-joins-italian-fleet",
+      "publishedAt": "2026-09-07T08:24:19.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "The Italian State Police Just Got a 907 HP Lamborghini Temerario Built for Emergency Organ Deliveries Summary Lamborghini unveiled a specialized 907-hp hybrid vehicle designed specifically for the Italian State PoliceThe high-performance patrol car will be deployed to transport critical medical supplies and organs during emergenciesThe model continues a two-decade initiative that has successfully delivered over 200 organs since launching in 2004 When emergency medical runs demand hypercar-level urgency, law enforcement officers now have a new ultimate responder in their arsenal. Lamborghini has officially introduced the Lamborghini Temerario Polizia, a highly customized, high-performance vehicle created specifically for the Italian State Police. The Italian State Police will use the vehicle, which was engineered to conquer the relentless pressure of time-sensitive operations, exclusively to transport organs and critical medical supplies in high-stakes emergencies. To ensure these vital deliveries reach their destinations before time out, the specialized patrol car relies on staggering performance metrics. Pushing the limits of high-speed response, the Temerario Polizia can accelerate from 0-62 mph (0-100 km/h) in a blistering 2.7 seconds. The vehicle ultimately reaches a maximum top speed of 213 mph (343 km/h), transforming open stretches of highway into high-velocity medical corridors.That blistering pace is generated by a radically advanced plug-in hybrid powertrain engineered for maximum forward thrust. At the core of the vehicle sits a heavily armed twin-turbo 4.0-liter V8 engine, which operates in seamless tandem with three electric motors to lay down massive power. This complex hybrid setup utilizes an aggressive eight-speed dual-clutch transmission, routing energy alongside a 3.8 kWh battery pack. Such performance metrics elevate the technical capabilities available to modern law enforcement. Combining these components, the advanced system delivers a devastating combined output of 907 hp (677 kW / 920 PS). Adding to that sheer aggressive force, the car produces an equally massive 538 lb-ft (730 Nm) of torque, guaranteeing that the vehicle maintains relentless pace when carrying life-saving cargo.Visually, the vehicle seamlessly merges exotic automotive design with authoritative official duty. The car features a striking blue and white exterior livery, broadcasting its official status with bold \"Polizia\" badging positioned prominently on the doors. O"
+    },
+    {
+      "id": "2f4f73ad2a684499",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kimi Antonelli Wins His Home Italian Grand Prix, the First Italian Victor at Monza in 60 Years",
+      "url": "https://hypebeast.com/2026/9/kimi-antonelli-wins-2026-italian-grand-prix-f1-first-italian-since-1996",
+      "publishedAt": "2026-09-07T08:06:51.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Kimi Antonelli Wins His Home Italian Grand Prix, the First Italian Victor at Monza in 60 Years Summary Kimi Antonelli started the Italian Grand Prix 19th after taking new power unit components, then charged through the field to win on home soil at MonzaHis victory made him the first Italian driver to win the Italian Grand Prix since Ludovico Scarfiotti in 1966The result marked his seventh win of the season and moved him 66 points clear of teammate George Russell in the drivers' standings Kimi Antonelli won the Italian Grand Prix from 19th on the grid, completing one of the great modern comeback drives on home soil at Monza. The Mercedes driver reeled in and passed teammate and title rival George Russell in the closing laps of the 53-lap race, becoming the first Italian to win his home Grand Prix in six decades.A first win at Monza had looked improbable for Antonelli before the race, with a grid penalty for new power unit components leaving him 19th while Russell lined up near the front. The tone shifted early when Charles Leclerc crashed heavily at the final corner on the second lap, bringing out a red flag. By that point Antonelli had already climbed to 12th, and he sliced through the order at the restart to put himself in contention for the lead.The decisive strategic moment came later, when a mid-race Virtual Safety Car allowed Mercedes to bring Antonelli into the pits for fresher rubber while Russell stayed out. Russell's tyres faded over the closing laps, and Antonelli used his pace advantage to hunt his teammate down. The chase nearly ended in disaster when the pair almost touched at the first chicane and Antonelli ran across the gravel, but he gathered it up and completed the move on the run to Ascari with four laps left.\"Unbelievable, I'm so happy and I could never have imagined to be here today but we managed to pull it off and I'm really happy,\" Antonelli said immediately after the race, adding that it felt like \"a dream coming true.\" He also recounted the near miss that almost cost him the win, saying, \"I thought I could still do the corner but once I went over a bit of gravel I went straight, and I was like maybe I've lost my chance, but then luckily we still had the pace and managed to bring it home.\"The historical weight of the result is considerable. No Italian driver had won the Italian Grand Prix since Ludovico Scarfiotti in 1966, a 60-year drought Antonelli ended in front of his home crowd. His starting position added another layer to the"
+    },
+    {
+      "id": "6c6fd39f3dae5678",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Bad Bunny's Super Bowl Halftime Show Makes a Historic Seven Emmy Sweep",
+      "url": "https://hypebeast.com/2026/9/bad-bunny-super-bowl-halftime-show-7-emmy-awards-win-new-record",
+      "publishedAt": "2026-09-07T08:06:47.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Bad Bunny's Super Bowl Halftime Show Makes a Historic Seven Emmy Sweep Summary The Apple Music Super Bowl LX Halftime Show Starring Bad Bunny took every category it was nominated for at Emmys Night 1, formerly the Creative Arts EmmysIts win for Outstanding Variety Special (Live) made it only the second halftime show ever to claim the top program prize and the first Spanish-language program to do soThe victory caps a landmark year that also saw Debí Tirar Más Fotos become the first Spanish-language album to win the GRAMMY for Album of the Year Bad Bunny's Apple Music Super Bowl LX Halftime Show has become the most awarded Super Bowl performance in Emmy history, sweeping all seven categories it was nominated for at the 2026 Creative Emmy Awards. The wins hand the Puerto Rican superstar his first Emmy and cement a 13-minute set as one of the most decorated live productions of the season.The sweep was built on craft as much as star power. Alongside the top prize for Outstanding Variety Special (Live), the show collected trophies for directing, music direction, choreography, sound mixing, lighting design, technical direction and camerawork, a spread of wins that reads like a full accounting of everything that goes into staging a halftime show. Each category rewarded a different discipline behind the performance, which threaded Puerto Rican imagery and Latin music through guest turns from Lady Gaga and Ricky Martin.The Outstanding Variety Special (Live) win carries the most weight historically. It marks only the second time a Super Bowl halftime show has taken the category's top program prize, following the 2022 performance that united Dr. Dre, Snoop Dogg, Mary J. Blige, Eminem, Kendrick Lamar and 50 Cent. More significantly, it is the first Spanish-language program to win the award, a distinction that mirrors the barrier-breaking arc Bad Bunny has been on for the better part of a year.The Emmy arrives seven months after Debí Tirar Más Fotos (I Should Have Taken More Photos) became the first Spanish-language album to win the GRAMMY for Album of the Year, stacking two of the industry's highest honors within a single historic run. The through line is a body of work that has kept pushing Spanish-language art into spaces it had never occupied.The performance itself was framed by the message Bad Bunny delivered from the stage. \"The only thing more powerful than hate is love,\" he said as he opened the show, a line that landed amid the noise surrounding his selection t"
+    },
+    {
+      "id": "733c7ede26179f2f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Crocs' 2026 Horror Pack Loads Two Classic Clogs With ‘Halloween’ and ‘Saw’ Props and Blood Splatter",
+      "url": "https://hypebeast.com/2026/9/halloween-saw-crocs-classic-clog-michael-myers-jigsaw-213831-90h-213832-90h-release-info",
+      "publishedAt": "2026-09-07T07:44:44.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Crocs' 2026 Horror Pack Loads Two Classic Clogs With ‘Halloween’ and ‘Saw’ Props and Blood Splatter Name: ‘Halloween’ x Crocs Classic Clog “Michael Myers”, ‘Saw’ x Crocs Classic Clog “Jigsaw”Colorway: MultiSKU: 213831-90H, 213832-90HMSRP: $70 USDRelease Date: September 24Where to Buy: CrocsCrocs is bringing its Horror Pack back for 2026 with two Classic Clogs built around Halloween and Saw. The set hands the spotlight to Michael Myers and Jigsaw, with each clog taking a distinct approach to its source film rather than running the same template in two colorways.The Michael Myers pair goes the comic route. Its upper carries a black and off-white graphic of the character, cut through with orange panels and red blood splatter, and that splatter carries onto the gray midsole. An olive heel strap and black hardware close out the back. Up front, a set of themed Jibbitz includes a knife and Halloween graphics, and Crocs layers in \"The Night He Came Home\" movie references so the design reads as more than a straight character print.The Jigsaw clog pushes much darker. Black, gray, cream, and red cover the upper, with puzzle-piece outlines linking the graphics across both sides and Jigsaw imagery sitting over the forefoot. The attached Jibbitz pull from across the franchise, including the spiral logo, a key, a timer, a cassette tape, and other props. A brown, industrial-looking trim wraps the midsole and heel, finished with molded screw details and gear-shaped hardware on the strap, while blood splatter runs across both the upper and lower sections.Under all the artwork, both pairs stay true to the Classic Clog. The forefoot ventilation holes remain, the heel straps can be flipped up or down, and each sits on the standard Crocs outsole. The extra graphics, hardware, and Jibbitz are what pull these away from a regular seasonal colorway. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "31d68efc39253042",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "CDs Are Booming Again With 17.5 Million Units Sold in the First Half of 2026",
+      "url": "https://hypebeast.com/2026/9/cd-sales-surge-45-7-as-gen-z-fuels-2026-revival",
+      "publishedAt": "2026-09-07T07:43:34.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "CDs Are Booming Again With 17.5 Million Units Sold in the First Half of 2026 Summary The RIAA reported 17.5 million CDs sold in the first half of 2026, marking a 45.7 percent spike in unit salesLuminate research indicates Gen Z and millennials are driving the surge by purchasing K-Pop special editions as collectiblesOverall US recorded music revenues hit $5.97 billion with growth across every major category outpacing inflation The compact disc is officially back in heavy rotation. CD sales sparked a physical media revival in the first six months of 2026, according to a mid-year report by the Recording Industry Association of America (RIAA). Matt Bass, the organization's Vice President of Research, revealed that 17.5 million CDs were sold in the first half of the year. Total unit volume marked a 45.7 percent jump compared to the 12 million CDs sold during the same period in 2025. Cash flowing into the space grew by 58.6 percent to reach $171.1 million USD. This explosion served as a pivot for the format, arriving after a sharp decline where sales shrank by 22 percent between 2024 and 2025.Fan culture rather than pure audiophile demand drives the mechanics behind this retro hardware boom. Luminate research clocked 16.3 million CD units sold in the first half of the year, noting that Gen Z and millennials purchase the discs mostly as collectibles. Data indicated that much of the increase came from special editions released by K-Pop acts like BTS. Aesthetic purchasing is so dominant that only about half of all CD buyers actually own a CD player. Such consumer behavior treats physical music as high-value visual merchandise, reflecting a market where revenues outpace inflation.The resurgence drags the rest of the physical market upward. Vinyl sales continue to cement their legacy status, climbing by nearly 21 percent from last year to reach 26.5 million units sold. Niche categories of other physical media saw their own aggressive spike. This vintage-leaning segment which includes CD singles, DVDs, cassettes, SACD and DVD-Audio surged by over 73 percent to reach 1.6 million units in the first half of 2026.Digital ecosystems remain at the top of the hierarchy despite the cultural obsession with physical artifacts. Streaming revenue grew by 4.7 percent to reach $4.9 billion USD, remaining the largest source of recorded music revenue. Paid streaming subscriptions carried the bulk of that weight, reaching $3.4 billion USD to reflect a 6.4 percent increase. Free strea"
+    },
+    {
+      "id": "12170625aeaa682a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "WALLHACK Turns Your Desk Into KOJIMA PRODUCTIONS Territory With Two SP-005 Glass Mousepads",
+      "url": "https://hypebeast.com/2026/9/kojima-productions-wallhack-ludens-collaboration-glass-mousepad-release-info",
+      "publishedAt": "2026-09-07T07:43:01.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "WALLHACK Turns Your Desk Into KOJIMA PRODUCTIONS Territory With Two SP-005 Glass Mousepads Summary WALLHACK and KOJIMA PRODUCTIONS have collaborated on two glass mousepads, each built on the SP-005 tempered glass surfaceOne design carries LUDENS in its 10th anniversary form on white glass, the other centers the studio logo on black glassBoth pads are single production runs sharing the same dimensions and construction WALLHACK and KOJIMA PRODUCTIONS have teamed on a pair of glass mousepads, both constructed on WALLHACK's SP-005 tempered glass platform. The two pads split into distinct visual treatments while sharing an identical hardware base, translating the studio's imagery onto a rigid glass gaming surface.The shared foundation is the SP-005 tempered glass surface. Each pad measures 44cm by 51cm, or 17.3 by 20 inches, giving both designs the same large footprint and the smooth, hard glide characteristic of a glass pad rather than a cloth one. That common base is what lets the collaboration run two different graphic approaches without changing the underlying product.The first design, the SP-005 KJP Ludens-10, puts the studio's character front and center. LUDENS appears in its 10th anniversary form, printed full-bleed across white glass so the cloak, antenna and full suit stretch edge to edge. Functional-looking graphic details reinforce the theme, with crosshair markers drawn from aerial surveillance grids and a barcode lifted directly from LUDENS' own suit, small callouts that tie the print back to the character's world.The second design, the SP-005 KJP Logo, strips the concept back to the studio mark. Here the KOJIMA PRODUCTIONS logo sits centered on black glass with everything else pared away, offset only by industrial graphic elements including crosshair marks and a barcode. It reads as the quieter of the two, built to disappear into a dark desk setup rather than dominate it, a deliberate contrast to the full-bleed white version.Each treatment is offered in a single colorway matched to its concept, white for the Ludens-10 and black for the Logo, and both are produced as one-time runs. WALLHACK frames the project as a move beyond conventional gaming hardware, putting the studio's aesthetic onto its glass pads as a step forward for the brand.Both the SP-005 KJP Ludens-10 and SP-005 KJP Logo are available on September 8 via the WALLHACK official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fbce115f74ecac09",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Razer Unveils the Clio X, a USD Wireless Speaker Head Cushion for Gaming Chairs",
+      "url": "https://hypebeast.com/2026/9/razer-clio-x-wireless-speaker-cushion-debuts-at-pax",
+      "publishedAt": "2026-09-07T07:36:24.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Razer Unveils the Clio X, a USD Wireless Speaker Head Cushion for Gaming Chairs Summary Razer reveals the $109.99 Clio X wireless speaker head cushion at PAX West 2026The streamlined release costs less than half the price of the brand's original premium modelFeatures THX Spatial Audio and near-field loudspeakers to eliminate headset fatigue Razer unveiled the brand-new Razer Clio X at PAX West 2026. This hardware addition is a dedicated head cushion with a built-in wireless speaker. Priced at $109.99 USD, the new model costs less than half the price of the original $230 USD Razer Clio. The lower price point offers an affordable entry for users upgrading their hardware. Headset-free 3D sound eliminates the physical fatigue that comes with wearing traditional headphones during marathon sessions.Engineered for maximum compatibility, the Clio X attaches directly to the headrest of all Razer gaming chairs using an adjustable nylon strap. External power is required to keep the aesthetic sleek, and the unit must be plugged into a 15W USB-C power source. Razer recommends utilizing a PD2.0 power source to drive the audio because relying on non-PD sources will limit power draw and cap maximum volume. Portable power banks with a capacity of at least 10,000mAh are advised for gamers opting for a completely untethered setup.A redesigned internal acoustic architecture maintains performance levels found in the previous model. While the flagship Clio utilized 43mm aluminum cone drivers, this streamlined iteration packs two 38mm near-field loudspeakers angled toward the user's ears. Two 55mm passive radiators ensure audio depth is not lost during the transition. This precise layout provides immersive audio while maintaining a compact form factor.Beyond raw hardware, localized software integration pushes spatial boundaries. THX Spatial Audio converts standard stereo surround sound into a 360-degree audio environment. Low-latency HyperSpeed 2.4 GHz wireless technology links the speaker directly to computers to ensure tactical sound cues never lag. Connecting the Clio X to a soundbar is an option for expanded audio. Genuine audio immersion is achieved without the physical exhaustion of traditional headwear. Availability includes Razer’s website and physical retail stores. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4b93f2602c5252fc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Invincible, Thragg, Angstrom Levy, and Allen the Alien Get the Super7 DELUXE Treatment",
+      "url": "https://hypebeast.com/2026/9/super7-invincible-allen-the-alien-thragg-angstrom-levy-collectibles-release-info",
+      "publishedAt": "2026-09-07T07:33:19.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Invincible, Thragg, Angstrom Levy, and Allen the Alien Get the Super7 DELUXE Treatment Summary Super7 has launched its first 'Invincible' DELUXE figure wave, covering Invincible, Allen the Alien, Thragg and Angstrom LevyEach figure stands 7 inches tall with 32 points of articulation and character-specific accessoriesThe line draws on the Invincible comic universe, which ran from 2003 to 2018 Super7 has revealed its first Invincible DELUXE wave, a four-figure lineup pulled from the Invincible comic universe. The release brings Invincible, Allen the Alien, Thragg and Angstrom Levy into Super7's DELUXE format, each built as a fully articulated, highly detailed collectible rooted in a comic series with a long publishing run behind it.Every figure in the wave stands 7 inches tall and carries 32 points of articulation, giving collectors a wide range of posability across the set. That articulation count is the headline engineering figure here, positioning the DELUXE line as a more poseable, display-focused option rather than a static statue.Sculpt detail and accessories round out each character. The figures are described as ultra-detailed and intricately sculpted, built to capture the essential elements of each core character, and they ship with the accessories specific to each one. That per-character approach means the four figures are differentiated not just by likeness but by the extras packaged with them, tailoring each release to its subject. The wave comes on new blister-card packaging, a presentation the brand ties to an entry-level positioning aimed at newer collectors.The source material gives the line its depth. Super7's DELUXE wave draws on the Invincible comic universe, a series that ran from 2003 to 2018 and followed Mark Grayson, a teenager balancing superhero powers with a dark family history. That run gives the property a substantial body of storytelling for a figure line to pull from, and the four-character selection reflects it, spanning heroes and antagonists rather than a single central figure.That roster choice is what ties the specs back to the property. Invincible himself anchors the wave alongside Allen the Alien, while Thragg and Angstrom Levy fill out the lineup, giving collectors a foundational cast from across the comic's run as the DELUXE line opens.The Super7 Invincible DELUXE Wave 01 figures are available via Super7 as a complete four-figure set or as individual releases. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "afbb541d5ad61c06",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nathan Fielder and Lance Oppenheim’s Secret Elizabeth Holmes Documentary Is Real, and the First Teaser Has Arrived",
+      "url": "https://hypebeast.com/2026/9/nathan-fielder-lance-oppenheim-a24-you-can-see-everything-elizabeth-holmes-theranos-documentary-teaser-stream",
+      "publishedAt": "2026-09-07T07:23:23.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "Nathan Fielder and Lance Oppenheim’s Secret Elizabeth Holmes Documentary Is Real, and the First Teaser Has Arrived Summary Nathan Fielder and Lance Oppenheim have revealed 'You Can See Everything,' a documentary centered on Theranos founder Elizabeth HolmesThe film began 34 days before Holmes reported to prison and grew into a three-year projectIt premiered at the Telluride Film Festival after years of speculation about Fielder's secret Holmes interviews Nathan Fielder and Lance Oppenheim have officially unveiled You Can See Everything, a documentary built around disgraced Theranos founder Elizabeth Holmes. The A24 project starts 34 days before Holmes is due to report to prison, when she invites a skeptical film crew to follow her, and expands from that setup into a three-year descent that reaches far beyond a conventional portrait.The premise is anchored to a specific and unusual countdown. With just over a month left before her sentence begins, Holmes opens her life to a crew that approaches her with open doubt, framing the film's central tension from the outset. What is pitched as an intimate study of an enigmatic convicted felon gradually mutates into something stranger and longer, a mind-bending journey that the filmmakers track across three years rather than a single pre-prison window.The directing pairing is a large part of why the film carries weight. Fielder and Oppenheim both trade in boundary-pushing, formally slippery work, and the documentary leans into that reputation rather than smoothing it over. The teaser plays up the uneasy dynamic between subject and filmmaker, with Fielder and Holmes locking eyes and openly sizing each other up, a standoff over honesty in which Holmes insists she has no reason to deceive him and maintains she is always being real, while Fielder presses on whether she is telling the truth.The film also lands atop years of rumor. It had long been whispered that Fielder was quietly interviewing Holmes, including visits to see her in prison, for a project shrouded in secrecy. That speculation resolved when the documentary surfaced publicly, confirming the collaboration that observers had guessed at without proof.You Can See Everything premiered on Sunday night at the Telluride Film Festival, moving the long-secret project out of rumor and into public view with a debut on one of the fall festival circuit's most closely watched stages.Watch the teaser above. You Can See Everything hits theaters this October. Read more at Hyp"
+    },
+    {
+      "id": "f3426587fd70b918",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SUBU Warms Its ORIGINALS F-LINE Sandal With New \"Lavender\" and \"Matcha\" Colorways",
+      "url": "https://hypebeast.com/2026/9/subu-originals-f-line-matcha-lavender-release-info",
+      "publishedAt": "2026-09-07T07:04:59.000Z",
+      "collectedAt": "2026-09-07T17:35:43.943Z",
+      "text": "SUBU Warms Its ORIGINALS F-LINE Sandal With New \"Lavender\" and \"Matcha\" Colorways Name: SUBU Originals F-LineColorway: Matcha, MatchaSKU: N/AMSRP: ¥5,280 JPY (approx. $35 USD)Release Date: Available nowWhere to Buy: SUBUSUBU has introduced two new colorways of its ORIGINALS F-LINE sandal, \"Lavender\" and \"Matcha,\" for the 2026 fall and winter season. Rather than a warm-weather slide, the F-LINE is engineered as a cold-season sandal that can be worn on bare feet, using its layered construction to trap heat where conventional open footwear leaves it exposed.The heart of the design is a four-layer insole that gives the sandal its cushioning and thermal payoff. Underfoot, those stacked layers are tuned to deliver a plush, settled feel that the brand positions as more comfortable than standard house footwear, while the structure hugs the whole foot for a secure fit. It is the part of the build doing the quiet work, turning a slip-on silhouette into something that holds the foot rather than simply covering it.Warmth comes from the materials wrapped around that base. The interior uses a brushed, napped fabric lining that surrounds bare skin in a down-like softness, the kind of insulation associated with a winter jacket rather than a sandal. That lining is what makes barefoot use viable in low temperatures, letting the wearer step outside without socks for quick errands without the discomfort a normal sandal would bring.The outer shell and sole round out the functional package. Up top, a nylon upper carries a slight sheen and handles the elements, while the insole itself is made from a brushed polyester and the sole from synthetic rubber for grip and durability. The result is a self-contained system where each layer, from upper to footbed to outsole, is assigned a job in keeping the foot warm, cushioned and planted.Color separates the two releases within that shared construction. \"Lavender\" arrives as a soft, pale purple with a nylon gloss that keeps the sweetness from tipping into saccharine, a lighter note for a season otherwise dominated by dark footwear. \"Matcha\" takes the opposite tack, a deep, calm green drawn from the tones of the traditional Japanese home that reads as understated yet still stands out against the winter default of black and gray. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "db2f8fe59b285589",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BEAMS BOY and Birkenstock Rebuild the Boston in Three-Tone Asymmetric Suede Patchwork",
+      "url": "https://hypebeast.com/2026/9/beams-boy-birkenstock-boston-patch-work-13330193271-release-info",
+      "publishedAt": "2026-09-07T07:04:57.000Z",
+      "collectedAt": "2026-09-07T17:35:43.944Z",
+      "text": "BEAMS BOY and Birkenstock Rebuild the Boston in Three-Tone Asymmetric Suede Patchwork Name: BEAMS BOY x Birkenstock Boston Patch WorkColorway: Brown PatchworkSKU: 13330193271MSRP: ¥36,300 JPY (approx. $230 USD)Release Date: September 12Where to Buy: BEAMSBEAMS BOY and Birkenstock have reworked the Boston clog for a special-order collaboration, executed in a \"Brown Patchwork\" colorway assembled from three tones of suede. The project reworks one of Birkenstock’s most recognizable shapes with a paneled, craft-forward upper rather than a single continuous material.The build starts with the Boston’s clog construction and reworks the upper into an asymmetric patchwork. Three suede leathers, in Birkenstock’s Taupe, Mink and Mocha tones, are pieced together in a deliberately mismatched crazy pattern, so each shoe reads as a mix of distinct leather surfaces rather than one uniform panel. The asymmetry is the point, giving the two feet slightly different arrangements and lending the pair a handmade, one-off character.That paneling leans on leather selection and assembly to carry the design. The suedes are cut and joined so the seams themselves become the visual language of the shoe, a construction approach that trades the Boston’s usual clean single-material face for texture and contrast. It layers a crafted, worked-by-hand feel onto a silhouette better known for its uncomplicated lines.The co-branding is worked into the details rather than stamped across the exterior. Inside, the footbed carries both the Birkenstock and BEAMS logos, marking the shoe as a joint effort at the point of contact with the foot. The pair then ships in BEAMS' signature orange box, extending the collaboration's identity to the packaging.Underneath, the specs stay true to the Boston platform. The upper and the insole lining are both natural leather, while the outsole is a synthetic EVA build for lightweight cushioning. The release is produced in Germany and spans a broad size run, with the smaller sizes offered through the BEAMS BOY label for a gender-spanning fit and larger men's sizes available as a companion listing. Click here to view full gallery at Hypebeast"
     }
   ]
 }
