@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-07
+# Fieldwork Public Pulse — 2026-09-08
 
 ## 1. Quiet performance
 
@@ -24,15 +24,16 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 19 · confidence 42% · youth 46%**
+**emerging · score 24 · confidence 44% · youth 47%**
 
-1 public posts · 1 network · 7-day comparison
+2 public posts · 1 network · 7-day comparison
 
+- [Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ](https://mastodon.social/@wenzhouchenshang/117233100411824998) — Mastodon
 - [Classic elegance with a warm smile. A timeless frontal portrait pairing structured three-piece tailo](https://pixelfed.social/p/tjb.picture/999327036713688248) — Mastodon
 
 ## Network status
 
-- **mastodon:** ready — 18 observations
+- **mastodon:** ready — 19 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

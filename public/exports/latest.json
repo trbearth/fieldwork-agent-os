@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-07",
+    "id": "2026-09-08",
     "mode": "live",
-    "displayDate": "SEP 07, 2026, 01:35 PM EDT",
-    "generatedAt": "2026-09-07T17:35:45.212Z",
-    "itemsCollected": 38,
+    "displayDate": "SEP 08, 2026, 12:22 PM EDT",
+    "generatedAt": "2026-09-08T16:22:16.710Z",
+    "itemsCollected": 54,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 8
+        "count": 7
       },
       {
         "source": "Hypebeast",
@@ -30,39 +30,25 @@
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 70,
+      "score": 58,
+      "confidence": 38,
+      "youthRelevance": 73,
       "direction": "up",
-      "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "thesis": "Archival sportswear is appearing across 2 independent public sources.",
+      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
       "citations": [
         {
           "title": "PLEASURES and Umbro Revisit '90s British Terrace Style in a New Capsule Collection",
           "source": "Hypebeast",
           "date": "Sep 2",
           "url": "https://hypebeast.com/2026/9/pleasures-umbro-britpop-football-collaboration-collection-release-info"
-        }
-      ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 21,
-      "youthRelevance": 46,
-      "direction": "down",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
-      "citations": [
+        },
         {
-          "title": "BEAMS BOY Waterproofs the Clarks Desert Trek With GORE-TEX and a Two-Layer Vibram Sole",
-          "source": "Hypebeast",
-          "date": "Sep 1",
-          "url": "https://hypebeast.com/2026/9/beams-boy-clarks-desert-trek-gore-tex-mocha-13320068100-release-info"
+          "title": "This Leather adidas Staple Went From the Terraces to the Skate Park",
+          "source": "Highsnobiety",
+          "date": "Sep 8",
+          "url": "https://www.highsnobiety.com/p/adidas-glenburn-auburn/"
         }
       ]
     },
@@ -70,37 +56,44 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 25,
-      "confidence": 22,
-      "youthRelevance": 38,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
+      "score": 45,
+      "confidence": 46,
+      "youthRelevance": 52,
+      "direction": "flat",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +0% seven-day velocity",
       "citations": [
         {
           "title": "10 Fall 2026 Accessory Trends That Stole the Show",
           "source": "Vogue",
           "date": "Sep 4",
           "url": "https://www.vogue.com/article/fall-2026-accessory-trends"
+        },
+        {
+          "title": "GU's ‘Pokémon’ Collection Slips Mew, Gengar and Eevee Into an Outdoor-Ready Capsule",
+          "source": "Hypebeast",
+          "date": "Sep 8",
+          "url": "https://hypebeast.com/2026/9/pokemon-gu-october-2026-collaboration-collection-release"
         }
       ]
     }
   ],
   "cooling": {
-    "name": "Quiet performance",
-    "reason": "1 mention this week versus 2 in the prior seven-day window."
+    "name": "Decorated basics",
+    "reason": "3 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Archival sportswear moves outward",
     "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0907",
+    "code": "AUTO 0908",
     "name": "Archival sportswear",
     "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
     "objects": [
-      "PLEASURES and Umbro Revisit '90s British Terrace Style in a New Capsule Collection"
+      "PLEASURES and Umbro Revisit '90s British Terrace Style in a New Capsule Collection",
+      "This Leather adidas Staple Went From the Terraces to the Skate Park"
     ]
   }
 }
