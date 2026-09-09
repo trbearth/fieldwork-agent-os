@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-08",
+    "id": "social-2026-09-09",
     "mode": "live",
-    "generatedAt": "2026-09-08T16:22:26.276Z",
-    "postsCollected": 19,
+    "generatedAt": "2026-09-09T16:17:54.050Z",
+    "postsCollected": 21,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -76,12 +76,17 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 24,
-      "confidence": 44,
-      "youthRelevance": 47,
-      "velocity": -33,
-      "evidence": "2 public posts · 1 network · 7-day comparison",
+      "score": 29,
+      "confidence": 46,
+      "youthRelevance": 48,
+      "velocity": -25,
+      "evidence": "3 public posts · 1 network · 7-day comparison",
       "citations": [
+        {
+          "title": "Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer",
+          "url": "https://mastodon.social/@suspenders/117238855331700409",
+          "network": "Mastodon"
+        },
         {
           "title": "Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ",
           "url": "https://mastodon.social/@wenzhouchenshang/117233100411824998",
@@ -93,13 +98,30 @@
           "network": "Mastodon"
         }
       ]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 25,
+      "confidence": 42,
+      "youthRelevance": 60,
+      "velocity": 0,
+      "evidence": "1 public posts · 1 network · 7-day comparison",
+      "citations": [
+        {
+          "title": "90s Starter Jackets remain a popular choice for anyone who likes vintage sportswear and retro street",
+          "url": "https://mastodon.social/@bflwear/117239519066957055",
+          "network": "Mastodon"
+        }
+      ]
     }
   ],
   "networkStatus": [
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "19 observations"
+      "reason": "21 observations"
     },
     {
       "id": "bluesky",

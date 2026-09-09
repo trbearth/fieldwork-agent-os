@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-08
+# Fieldwork Public Pulse — 2026-09-09
 
 ## 1. Quiet performance
 
@@ -24,16 +24,25 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 24 · confidence 44% · youth 47%**
+**emerging · score 29 · confidence 46% · youth 48%**
 
-2 public posts · 1 network · 7-day comparison
+3 public posts · 1 network · 7-day comparison
 
+- [Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer](https://mastodon.social/@suspenders/117238855331700409) — Mastodon
 - [Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ](https://mastodon.social/@wenzhouchenshang/117233100411824998) — Mastodon
 - [Classic elegance with a warm smile. A timeless frontal portrait pairing structured three-piece tailo](https://pixelfed.social/p/tjb.picture/999327036713688248) — Mastodon
 
+## 4. Archival sportswear
+
+**emerging · score 25 · confidence 42% · youth 60%**
+
+1 public posts · 1 network · 7-day comparison
+
+- [90s Starter Jackets remain a popular choice for anyone who likes vintage sportswear and retro street](https://mastodon.social/@bflwear/117239519066957055) — Mastodon
+
 ## Network status
 
-- **mastodon:** ready — 19 observations
+- **mastodon:** ready — 21 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

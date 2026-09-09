@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-08",
+    "id": "2026-09-09",
     "mode": "live",
-    "displayDate": "SEP 08, 2026, 12:22 PM EDT",
-    "generatedAt": "2026-09-08T16:22:16.710Z",
-    "itemsCollected": 54,
+    "displayDate": "SEP 09, 2026, 12:17 PM EDT",
+    "generatedAt": "2026-09-09T16:17:41.309Z",
+    "itemsCollected": 60,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,54 +15,28 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 7
+        "count": 13
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
-  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 58,
-      "confidence": 38,
-      "youthRelevance": 73,
-      "direction": "up",
-      "thesis": "Archival sportswear is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "PLEASURES and Umbro Revisit '90s British Terrace Style in a New Capsule Collection",
-          "source": "Hypebeast",
-          "date": "Sep 2",
-          "url": "https://hypebeast.com/2026/9/pleasures-umbro-britpop-football-collaboration-collection-release-info"
-        },
-        {
-          "title": "This Leather adidas Staple Went From the Terraces to the Skate Park",
-          "source": "Highsnobiety",
-          "date": "Sep 8",
-          "url": "https://www.highsnobiety.com/p/adidas-glenburn-auburn/"
-        }
-      ]
-    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 45,
-      "confidence": 46,
+      "score": 54,
+      "confidence": 45,
       "youthRelevance": 52,
-      "direction": "flat",
+      "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +0% seven-day velocity",
+      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +50% seven-day velocity",
       "citations": [
         {
           "title": "10 Fall 2026 Accessory Trends That Stole the Show",
@@ -77,23 +51,43 @@
           "url": "https://hypebeast.com/2026/9/pokemon-gu-october-2026-collaboration-collection-release"
         }
       ]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 27,
+      "confidence": 20,
+      "youthRelevance": 38,
+      "direction": "flat",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "citations": [
+        {
+          "title": "This Leather adidas Staple Went From the Terraces to the Skate Park",
+          "source": "Highsnobiety",
+          "date": "Sep 8",
+          "url": "https://www.highsnobiety.com/p/adidas-glenburn-auburn/"
+        }
+      ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "3 mentions this week versus 3 in the prior seven-day window."
+    "name": "Archival sportswear",
+    "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Archival sportswear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0908",
-    "name": "Archival sportswear",
-    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
+    "code": "AUTO 0909",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "PLEASURES and Umbro Revisit '90s British Terrace Style in a New Capsule Collection",
-      "This Leather adidas Staple Went From the Terraces to the Skate Park"
+      "10 Fall 2026 Accessory Trends That Stole the Show",
+      "GU's ‘Pokémon’ Collection Slips Mew, Gengar and Eevee Into an Outdoor-Ready Capsule"
     ]
   }
 }
