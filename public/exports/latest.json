@@ -1,16 +1,16 @@
 {
   "run": {
-    "id": "2026-09-09",
+    "id": "2026-09-10",
     "mode": "live",
-    "displayDate": "SEP 09, 2026, 12:17 PM EDT",
-    "generatedAt": "2026-09-09T16:17:41.309Z",
-    "itemsCollected": 60,
+    "displayDate": "SEP 10, 2026, 12:08 PM EDT",
+    "generatedAt": "2026-09-10T16:08:55.011Z",
+    "itemsCollected": 58,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
@@ -20,7 +20,7 @@
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -82,7 +82,7 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0909",
+    "code": "AUTO 0910",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
