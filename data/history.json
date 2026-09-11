@@ -1667,6 +1667,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-11",
+      "mode": "live",
+      "displayDate": "SEP 11, 2026, 12:12 PM EDT",
+      "generatedAt": "2026-09-11T16:12:33.924Z",
+      "itemsCollected": 56,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 12
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "archival-sportswear",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 45,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -24901,6 +24938,622 @@
       "publishedAt": "2026-09-10T08:40:39.000Z",
       "collectedAt": "2026-09-10T16:08:53.740Z",
       "text": "The ‘Nintendo Switch Sports Resort’ Turns Wuhu Island Into a Fully Explorable Open World Summary 'Nintendo Switch Sports Resort' expands its predecessor's lineup to 12 motion-controlled sports plus a jump rope warm-upThe game brings back Wuhu Island as a fully explorable resort, reviving a hallmark of Wii Sports ResortPlayers can compete or cooperate online using customizable Sportsmate or classic Mii characters Nintendo is bringing its motion-controlled sports library to Nintendo Switch 2 with Nintendo Switch Sports Resort, a follow-up that significantly expands on the original Switch Sports while pulling directly from Wii Sports Resort's format. The game arrives as one of Switch 2's more nostalgia-driven exclusives, built around the same pick-up-and-play appeal that made its Wii predecessor a fixture of the console generation.The roster spans 12 sports played with Joy-Con 2 motion controls: boxing, table tennis, archery, tennis, volleyball, bowling, basketball, golf, thumb wrestling, skateboarding, power cruising, and prop plane flying, alongside a jump rope activity used as a warm-up. Most events use one or two Joy-Con 2 controllers for motion input, though skateboarding offers an alternative mouse-control option, giving players more than one way to approach the same sport.Outside of the sports themselves, the game brings back Wuhu Island as an explorable resort space, letting players fly a prop plane between activities rather than jumping straight from menu to menu. On the technical side, Nintendo Switch Sports Resort supports both tabletop and TV modes, HDR on compatible displays, and surround sound, while online play for up to four players requires a Nintendo Switch Online membership and syncs progress through Save Data Cloud support.That expanded scope directly answers one of the bigger criticisms of the original Switch Sports, which launched with a noticeably smaller event list and no real exploration layer. Reintroducing Wuhu Island and nearly doubling the sports count positions Switch Sports Resort as a more complete successor to Wii Sports Resort's format rather than a scaled-down reboot, giving longtime fans of the Wii-era games a more direct equivalent on modern hardware.Players build out either a customizable Sportsmate character or a traditional Mii to use across every event, letting the same avatar carry over between separate sports rather than resetting between games.Nintendo Switch Sports Resort launches exclusively on Nintendo Switch 2 o"
+    },
+    {
+      "id": "bdc3ecb0c1cb45ab",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ravyn Lenae Tried to Keep Her Heart Rate Down at Tory Burch",
+      "url": "https://www.vogue.com/slideshow/ravyn-lenae-tory-burch-spring-2027-diary",
+      "publishedAt": "2026-09-11T15:48:02.000Z",
+      "collectedAt": "2026-09-11T16:12:29.824Z",
+      "text": "Ravyn Lenae Tried to Keep Her Heart Rate Down at Tory Burch Come along with Ravyn Lenae as she attends the Tory Burch spring 2027 show in New York City."
+    },
+    {
+      "id": "c07868e31f8fd463",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Michelle Obama Returns to the U.S. Open in Patriotic Colors",
+      "url": "https://www.vogue.com/article/michelle-obama-returns-to-the-us-open-in-patriotic-colors",
+      "publishedAt": "2026-09-11T15:45:07.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "Michelle Obama Returns to the U.S. Open in Patriotic Colors Seen in the stands for the women’s semi-finals, former First Lady Michelle Obama cheered on Coco Gauff in a contemporary take on American stripes."
+    },
+    {
+      "id": "4fa0c4fbaa7aec36",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Slayyyter on Cranking Up the Energy With Her Surprise NYFW Performance",
+      "url": "https://www.vogue.com/article/slayyyter-tommy-hilfiger-performance-nyfw",
+      "publishedAt": "2026-09-11T15:34:59.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "Slayyyter on Cranking Up the Energy With Her Surprise NYFW Performance The pop star closed out the Tommy Hilfiger show with two of her hits—on the same day she unveiled a new song, no less. Vogue caught 15 minutes with her backstage."
+    },
+    {
+      "id": "320cb92b8b9171e2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "CondéFuture Program 2025/26: a Year in Review",
+      "url": "https://www.vogue.com/article/condefuture-2025-26-a-year-in-review",
+      "publishedAt": "2026-09-11T14:57:54.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "CondéFuture Program 2025/26: a Year in Review CondéFuture, led by Condé Nast’s creative and editorial teams, is a global initiative that aims to inspire and nurture future generations of multimedia creative talent."
+    },
+    {
+      "id": "21479f2020d33bf4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kate Middleton Knows A Winning Outfit Formula When She Sees One",
+      "url": "https://www.vogue.com/article/kate-middleton-knows-a-winning-outfit-formula-when-she-sees-one",
+      "publishedAt": "2026-09-11T14:54:04.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "Kate Middleton Knows A Winning Outfit Formula When She Sees One For everything from Prince George’s school drop-off to hospital visits, this stunning color has become a fashion favorite for the Princess of Wales."
+    },
+    {
+      "id": "0cc789cc2acae667",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Checking In! Valentino Vendetta Took Over an Iconic LA Motel with Dakota Johnson, Alexander Skarsgård, and Solange Knowles",
+      "url": "https://www.vogue.com/slideshow/valentino-vendetta-launch-party-dakota-johnson-alexander-skarsgard",
+      "publishedAt": "2026-09-11T14:40:44.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "Checking In! Valentino Vendetta Took Over an Iconic LA Motel with Dakota Johnson, Alexander Skarsgård, and Solange Knowles Valentino Beauty celebrated the launch of its Vendetta fragrances alongside Dakota Johnson, Alexander Skarsgård, Keke Palmer, Solange Knowles, Brooklyn Beckham, Nicola Peltz Beckham, Sophia Bush, and soccer star Ashlyn Harris."
+    },
+    {
+      "id": "cd658e4c280456eb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Michael Kors Collection Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/michael-kors-collection",
+      "publishedAt": "2026-09-11T16:06:42.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "Michael Kors Collection Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "900af77967ab7a9c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Katie Holmes Makes Her Relationship New York Fashion Week-Official",
+      "url": "https://www.vogue.com/article/katie-holmes-makes-her-relationship-new-york-fashion-week-official",
+      "publishedAt": "2026-09-11T14:32:11.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "Katie Holmes Makes Her Relationship New York Fashion Week-Official Alongside Jason Bard Yarmosky, Katie Holmes kickstarted NYFW in style sitting front row at Cult Gaia."
+    },
+    {
+      "id": "302b7e072cb50524",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Rebecca Hall and Morgan Spector’s Art-Filled Hudson Valley Farmhouse Home",
+      "url": "https://www.vogue.com/article/rebecca-hall-and-morgan-spector-hudson-valley-home",
+      "publishedAt": "2026-09-11T14:00:00.000Z",
+      "collectedAt": "2026-09-11T16:12:29.825Z",
+      "text": "Inside Rebecca Hall and Morgan Spector’s Art-Filled Hudson Valley Farmhouse Home A look inside the home and creative space of the actor and filmmaker couple, courtesy of the new book, ‘Hudson Folk.’"
+    },
+    {
+      "id": "5267b3b1c7b73e20",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Partow Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/nellie-partow",
+      "publishedAt": "2026-09-11T16:06:42.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Partow Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "be52848a6bd177a9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Chanel Transformed Balthazar into Café Mademoiselle to Launch its Latest Fragrance",
+      "url": "https://www.vogue.com/slideshow/chanel-coco-mademoiselle-crush-absolu-launch-party",
+      "publishedAt": "2026-09-11T13:20:48.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Chanel Transformed Balthazar into Café Mademoiselle to Launch its Latest Fragrance The order of the evening on Spring Street was a spritz of Coco Mademoiselle Crush Absolu; the recently-revealed fine fragrance from Chanel."
+    },
+    {
+      "id": "ca07716dbda829f1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Cinq à Sept Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cinq-a-sept",
+      "publishedAt": "2026-09-11T16:06:42.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Cinq à Sept Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "881dfa1643269b57",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“New York Is My Paris”: Conner Ives on Showing Across the Pond Ahead of His New York Fashion Week Debut",
+      "url": "https://www.vogue.com/article/new-york-is-my-paris-conner-ives-on-showing-across-the-pond-ahead-of-his-new-york-fashion-week-debut",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "“New York Is My Paris”: Conner Ives on Showing Across the Pond Ahead of His New York Fashion Week Debut For London-based Conner Ives, his New York Fashion Week debut represents all he has been working towards. Of course, this includes some gilded glamour and cheeky T-shirts, too."
+    },
+    {
+      "id": "3bc236dd9fe7ab1f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "MENA Panorama: A Regional Open Call by PhotoVogue",
+      "url": "https://www.vogue.com/article/mena-panorama-a-regional-open-call-by-photovogue",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "MENA Panorama: A Regional Open Call by PhotoVogue A PhotoVogue Open Call for Image-Makers from Middle East and North Africa and Their Diasporas"
+    },
+    {
+      "id": "98e5f8c31890b5f8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "NIHL Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/nihl",
+      "publishedAt": "2026-09-11T16:06:42.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "NIHL Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "def37f9124374b78",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Eckhaus Latta and J.Crew’s Collaboration Is a Celebration of American Style",
+      "url": "https://www.vogue.com/article/eckhaus-latta-and-jcrews-collaboration-is-a-celebration-of-american-style-in-all-its-forms",
+      "publishedAt": "2026-09-11T12:00:00.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Eckhaus Latta and J.Crew’s Collaboration Is a Celebration of American Style The mega brand based on classics tapped the downtown darlings to join forces"
+    },
+    {
+      "id": "1ff09aad732a518d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Seeking Sanctuary? Check Into One of Italy’s Convent Hotels",
+      "url": "https://www.vogue.com/article/italy-convent-hotels",
+      "publishedAt": "2026-09-11T11:45:13.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Seeking Sanctuary? Check Into One of Italy’s Convent Hotels The best way to discover Italy’s more peaceful side? Get thee to a nunnery."
+    },
+    {
+      "id": "9ffd17f387ed4c68",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How the Salad Got Serious",
+      "url": "https://www.vogue.com/article/how-the-salad-got-serious",
+      "publishedAt": "2026-09-11T11:40:44.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "How the Salad Got Serious One writer investigates how the humble salad has gone from a side dish to the centerpiece of many Michelin-star menus."
+    },
+    {
+      "id": "9ad70cdb6a102990",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dakota Johnson Takes the Plunge Dress to New Places",
+      "url": "https://www.vogue.com/article/dakota-johnson-takes-the-plunge-dress-to-new-places",
+      "publishedAt": "2026-09-11T10:13:46.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Dakota Johnson Takes the Plunge Dress to New Places After a summer of denim and Dôen, Dakota Johnson is back in full red carpet mode for the 2026 Kering Foundation Caring for Women dinner."
+    },
+    {
+      "id": "1e3d7602717c33bf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "12 Airbnbs in Vermont to Book for a Quintessential Fall Weekend Away",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-vermont",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "12 Airbnbs in Vermont to Book for a Quintessential Fall Weekend Away Heading to New England for a long weekend? Book one of the best Airbnbs in Vermont for the full cozy cabin experience."
+    },
+    {
+      "id": "9a2d8f0249ba4b05",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Meet the Wellness Brands Riding the Anti-Optimization Wave",
+      "url": "https://www.vogue.com/article/meet-the-wellness-brands-riding-the-anti-optimization-wave",
+      "publishedAt": "2026-09-11T09:30:00.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Meet the Wellness Brands Riding the Anti-Optimization Wave As a growing cohort of consumers tire of tracking metrics and optimizing their wellbeing, anti-optimization has never been hotter. Here are the brands offering a blueprint for those looking to carve out a niche in an otherwise saturated wellness space."
+    },
+    {
+      "id": "f70a728f115872f2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Scoop With Nordic Poetry’s Ameli Lindgren: On a Rare Alexander McQueen Piece and Building an Archive",
+      "url": "https://www.vogue.com/article/the-scoop-with-nordic-poetrys-ameli-lindgren-on-a-rare-alexander-mcqueen-piece-and-building-an-archive",
+      "publishedAt": "2026-09-11T04:30:00.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "The Scoop With Nordic Poetry’s Ameli Lindgren: On a Rare Alexander McQueen Piece and Building an Archive This week’s guest is Ameli Lindgren, owner of Nordic Poetry, which, according to British Vogue, is one of the best vintage stores in the world and, according to my banking app, is where my son’s college tuition is being spent."
+    },
+    {
+      "id": "31bd398b27035f74",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "48 Thoughts I Had About the Season 1 Finale of ‘The Shards’",
+      "url": "https://www.vogue.com/article/48-thoughts-i-had-about-the-season-1-finale-of-the-shards",
+      "publishedAt": "2026-09-11T03:51:37.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "48 Thoughts I Had About the Season 1 Finale of ‘The Shards’ We’ve cried, we’ve laughed, we’ve admired the smoldering beauty of Kaia Gerber and Homer Gere, and now it’s over."
+    },
+    {
+      "id": "b4809dc88111bfb0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kate Barton Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/kate-barton",
+      "publishedAt": "2026-09-11T16:06:42.000Z",
+      "collectedAt": "2026-09-11T16:12:29.826Z",
+      "text": "Kate Barton Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "173e47dbdcbe19c6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Miu Miu-y Track Star Is Fall-Ready With a Warm Vanilla Makeover",
+      "url": "https://www.highsnobiety.com/p/adidas-ghost-sprint-warm-vanilla/",
+      "publishedAt": "2026-09-11T16:09:01.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "adidas' Miu Miu-y Track Star Is Fall-Ready With a Warm Vanilla Makeover The adidas Originals Ghost Sprint Warm Vanilla/Earth Strata delivers an earth-tone spin on a streamlined silhouette."
+    },
+    {
+      "id": "19d435af5be381e4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Berlin Goes Full Italian Sports Club",
+      "url": "https://www.highsnobiety.com/p/ellesse-highsnobiety-tennis-club-aw26-berlin/",
+      "publishedAt": "2026-09-11T14:55:43.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "Berlin Goes Full Italian Sports Club Inside the ellesse x Highsnobiety Tennis Club in Berlin, celebrating AW26 and the Andrew Garfield-fronted “Do It Like An Italian” campaign."
+    },
+    {
+      "id": "1f8799a16aac4799",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Hairy Suede Is In Dolomite's Nature",
+      "url": "https://www.highsnobiety.com/p/hairy-suede-is-in-dolomites-nature/",
+      "publishedAt": "2026-09-11T14:50:31.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "Hairy Suede Is In Dolomite's Nature Hiking shoe brand Dolomite has released the SAXIFRAGA mountain sneaker, made for nature trails and city sidewalks alike."
+    },
+    {
+      "id": "ff275ac29a596902",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Eckhaus Latta & J.Crew Are Running Back the Sweater of 2026 — And Then Some",
+      "url": "https://www.highsnobiety.com/p/eckhaus-latta-jcrew-interview/",
+      "publishedAt": "2026-09-11T13:11:44.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "Eckhaus Latta & J.Crew Are Running Back the Sweater of 2026 — And Then Some Eckhaus Latta's instantly sold-out J.Crew sweater is back & better than ever, extending that gorgeous rollneck into a complete killer clothing capsule."
+    },
+    {
+      "id": "9ee6cb418a1ad7bf",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Onitsuka Tiger Makes One Heck of a Kitten Heel",
+      "url": "https://www.highsnobiety.com/p/onitsuka-tiger-mexico-66-kitten-heel/",
+      "publishedAt": "2026-09-11T10:56:01.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "Onitsuka Tiger Makes One Heck of a Kitten Heel Onitsuka Tiger's stunted little stunner turns the Mexico 66 \"Kill Bill\" sneaker into an actual heel."
+    },
+    {
+      "id": "85db7e0ae3e9246c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Anthony Edwards' Sideline Signature Goes Hard off the Bench",
+      "url": "https://www.highsnobiety.com/p/adidas-ae-3-mule-bliss-blue/",
+      "publishedAt": "2026-09-11T09:54:00.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "Anthony Edwards' Sideline Signature Goes Hard off the Bench Taking his signature line and stripping away the heel counter, the Three Stripes introduces the adidas Anthony Edwards 3 Mule Bliss Blue."
+    },
+    {
+      "id": "28467cf94de0b153",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Everyone Wants to Feel Like A Niche Brand",
+      "url": "https://www.highsnobiety.com/p/everyone-wants-to-feel-like-a-niche-brand/",
+      "publishedAt": "2026-09-11T09:44:57.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "Everyone Wants to Feel Like A Niche Brand In September 1's newsletter, shopping editor Max Migowski comments on consumers' cognitive dissonance."
+    },
+    {
+      "id": "22a1e4c332e75e5c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Insanely Rare Incense Holder is Peak Arc’teryx",
+      "url": "https://www.highsnobiety.com/p/veilance-incense-holder/",
+      "publishedAt": "2026-09-11T13:08:52.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "This Insanely Rare Incense Holder is Peak Arc’teryx The Canadian outdoor gear giant's luxury label, Veilance, is quietly releasing a free stainless steel incense holder at a small event in Japan with BEAMS."
+    },
+    {
+      "id": "d67a774a0b5b8dcc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jil Sander Looks Better Weird",
+      "url": "https://www.highsnobiety.com/p/jil-sander-fw26/",
+      "publishedAt": "2026-09-11T07:17:45.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "Jil Sander Looks Better Weird The Jil Sander Fall/Winter 2026 campaign's experimental short film by Moni Haworth pushes the German brand into an exciting, more avant-garde chapter."
+    },
+    {
+      "id": "22bab34d7be12fe3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Best adidas Sneaker Releases This Week",
+      "url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-2/",
+      "publishedAt": "2026-09-11T15:41:04.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "The Best adidas Sneaker Releases This Week In this iteration of our weekly round-up of adidas' best releases, find boat shoes, water shoes, and ballet shoes. Oh, and some regular sneakers, too."
+    },
+    {
+      "id": "2895c24bc56bf438",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Century of Montblanc Handcraft Is Rich Like Leather",
+      "url": "https://www.highsnobiety.com/p/montblanc-party-recap/",
+      "publishedAt": "2026-09-10T21:24:03.000Z",
+      "collectedAt": "2026-09-11T16:12:31.245Z",
+      "text": "A Century of Montblanc Handcraft Is Rich Like Leather Montblanc officially turns 100 birthday in 2026 and the maison celebrated its luxury leather heritage with a star-studded NYC blowout."
+    },
+    {
+      "id": "19df435995ba82d2",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Is the Aesthetic Ideal of a Birkenstock Clog",
+      "url": "https://www.highsnobiety.com/p/birkenstock-amsterdam-clog/",
+      "publishedAt": "2026-09-11T07:16:53.000Z",
+      "collectedAt": "2026-09-11T16:12:31.246Z",
+      "text": "This Is the Aesthetic Ideal of a Birkenstock Clog Birkenstock's Amsterdam Clog is essentially a Birkenstock Boston made simpler and sleeker. Kith knows better than to mess with something like that."
+    },
+    {
+      "id": "7703acc66c3af21b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Merrell and YMC Reunite for the Moab 2 Slide",
+      "url": "https://hypebeast.com/2026/9/ymc-merrell-moab-2-slide-dark-walnut-black-collaboration-release-info",
+      "publishedAt": "2026-09-11T13:33:54.000Z",
+      "collectedAt": "2026-09-11T16:12:32.681Z",
+      "text": "Merrell and YMC Reunite for the Moab 2 Slide Name: YMC x Merrell Moab 2 SlideColorway: Dark Walnut, BlackSKU: TBCMSRP: $150 USDRelease Date: Available NowWhere to Buy: YMCMerrell has once again joined forces with YMC (You Must Create) for a collaboration. This time, the two brands unveil the Moab 2 Slide, coming in Dark Walnut and Black colorways. Defined by its tactile, high-grade hairy suede upper that adds a plush, organic finish to the upper.For enhanced durability across varied environments, a protective black rubber toe cap wraps the front of the shoe, complemented by a smooth leather footbed cover that delivers a premium underfoot feel. The silhouette comes equipped with Merrell's Air Cushion in the heel, which absorbs shock and adds stability, while a Vibram Ecostep Recycle outsole - constructed with 30% recycled rubber - provides reliable all-terrain grip on both wet and dry surfaces.= Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f45bad4b42434a4c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "GOD SELECTION XXX Taps GAN and I Don’t Like Mondays’ YU For a Time-Limited T-shirt Drop",
+      "url": "https://hypebeast.com/2026/9/god-selection-xxx-yu-i-dont-like-mondays-gan-collaboration-release-info",
+      "publishedAt": "2026-09-11T13:33:46.000Z",
+      "collectedAt": "2026-09-11T16:12:32.681Z",
+      "text": "GOD SELECTION XXX Taps GAN and I Don’t Like Mondays’ YU For a Time-Limited T-shirt Drop Summary GOD SELECTION XXX partners with I Don’t Like Mondays.’ YU and designer GAN on a \"1989\" theme.Key Graphic Tops: Features the “LYRICS” Box Logo Tee and the “1989” Archive Tee.Available online via a 48-hour pre-order starting September 12. Japanese streetwear mainstay GOD SELECTION XXX has linked up with YU, lead vocalist of rock band I Don’t Like Mondays., and creative designer GAN for a tri-party capsule collection centered around the theme \"1989.\" Merging distinct creative sensibilities across music, graphic design and Tokyo street culture, the collaborative effort captures a nostalgic yet sharp aesthetic. Grounded in a sleek, music-infused mood, the limited range fuses GOD SELECTION XXX's bold, graphic-heavy identity with YU's lyrical influence and GAN's refined visual design language.The range spotlights two key items: the “LYRICS” Box Logo Tee, which reinterprets GOD SELECTION XXX’s iconic logo with lyrical influence, and the “1989” Archive Tee, a design that anchors the collaboration’s theme in bold, archival-inspired graphics. The drop will be available only through a 48-hour limited order window from September 12 – 14, 2026, via god-selection-xxx.com. View this post on InstagramA post shared by GOD SELECTION XXX OFFICIAL (@god_selection_x_x_x_) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "db925f0c7863e8e7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Eckhaus Latta and J.Crew Expand Partnership for 27-Piece Capsule Collection",
+      "url": "https://hypebeast.com/2026/9/eckhaus-latta-j-crew-collaboration-release-info",
+      "publishedAt": "2026-09-11T13:00:54.000Z",
+      "collectedAt": "2026-09-11T16:12:32.681Z",
+      "text": "Eckhaus Latta and J.Crew Expand Partnership for 27-Piece Capsule Collection Summary Eckhaus Latta x J.Crew expands their partnership into a 27-piece men’s and women’s collection.Archive classics like the Barn Jacket and Rollneck™ are reworked with modern textures and proportions.Launches September 15, 2026, priced $75–$650 USD. Following the overwhelming response to Eckhaus Latta’s interpretation of J.Crew’s signature Rollneck™ for the \"Rollneck Remix\" earlier this year, the two brands have reunited to expand their partnership into a full 27-piece capsule collection. Pulled directly from the J.Crew archives, the limited-edition range reinterprets classic American sportswear through the distinctly modern and irreverent lens of designers Mike Eckhaus and Zoe Latta.The accompanying campaign, shot by Luna Conte with motion directed by Brett Milspaw, frames the collection around a house party concept that brings together artists, athletes, musicians, and academics to celebrate an inclusive, community-driven spirit where classic prep meets avant-garde styling. This setting reflects the collaboration’s ethos: everyone can wear it, everyone can make it their own.Spanning knitwear, outerwear, shirting and bottoms, the collection is priced between $75 and $650 USD and will officially release on September 15, 2026, via J.Crew. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7ccb874ed0efaf2d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ADERERROR Unveils Pottery-Inspired FW26 \"Time After Time\" Collection",
+      "url": "https://hypebeast.com/2026/9/adererror-fall-winter-2026-main-collection-time-after-time-release-info",
+      "publishedAt": "2026-09-11T11:27:23.000Z",
+      "collectedAt": "2026-09-11T16:12:32.681Z",
+      "text": "ADERERROR Unveils Pottery-Inspired FW26 \"Time After Time\" Collection Summary ADERERROR FW26 “Time After Time” explores pottery as a timeless motif.Rounded outerwear, clay-inspired tones, and craft textures define silhouettes.Highlights include the evolved Prato bag and debut Veilin sneaker, available online and in stores. ADERERROR’s Fall/Winter 2026 Main Collection, “Time After Time,” explores the enduring values of craftsmanship and cultural memory through a pottery-inspired motif that runs across silhouettes, materials and campaign visuals.Grounded in Eastern aesthetics, the collection balances soft curves with rigid structure, featuring rounded outerwear, fluid lines, and restrained tailoring. The color palette draws from clay and glaze tones, accented with pale blue and turquoise, while craft-inspired textures add depth to the garments.The lineup also strengthens ADERERROR’s growing accessories and footwear categories. The signature Prato bag evolves into new leather shoulder, crossbody, and tote variations, while the newly introduced Veilin sneaker features a minimalist laceless upper, irregular outsole and hidden logo detail that shifts with perspective.These designs reflect the brand’s post-minimal aesthetic and its philosophy of finding “unexpected experiences” within order. Available now at adererror.com and across ADERERROR stores in Korea, China and Japan. View this post on Instagram Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "21da8390ec7798b6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Suzhou Museum of Contemporary Art Is Officially Open",
+      "url": "https://hypebeast.com/2026/9/big-bjarke-ingels-suzhou-museum-of-contemporary-art-opening-info",
+      "publishedAt": "2026-09-11T11:27:20.000Z",
+      "collectedAt": "2026-09-11T16:12:32.681Z",
+      "text": "The Suzhou Museum of Contemporary Art Is Officially Open Summary The 60,000-square-meter Suzhou Museum of Contemporary Art is officially opened.Designed by BIG, the 12-pavilion complex reimagines traditional Chinese garden layouts with ribbon-like roofs.Inaugural programming features a major Picasso exhibition and BIG's Materialism installation. The Suzhou Museum of Contemporary Art has officially opened on the shores of Jinji Lake, marking a milestone as BIG – Bjarke Ingels Group’s first completed art museum. Conceived as a 60,000 m² “village” of 12 interconnected pavilions beneath a ribbon‑like roof, the design draws inspiration from Suzhou’s historic gardens and their lang \"廊,\" or covered corridors. Visitors move through a continuous route that links galleries, gathering spaces, and cultural venues, while bridges and tunnels above and below ground create a flexible sequence of experiences shaped by exhibitions and seasons.Celebrating its grand opening, Suzhou MoCA debuted an expansive inaugural arts program spanning cross-cultural dialogue, technology-driven practices, and contemporary surveys. Headlining the launch is Picasso and the World of His Influence, a major exhibition exploring the legendary artist's lasting impact across the globe, alongside a comprehensive survey of contemporary Chinese art. Furthermore, BIG’s own Materialism exhibition - which previously served as a preview installation - remains on view, guiding visitors through a tactile journey of ten different materials from stone to recyclate that shape the firm’s architectural portfolio. The Suzhou Museum of Contemporary Art is now officially open for public visitation in China's Jiangsu province. For more information, head over to the museum’s official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2669416d69828ef8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "J.Press Delivers Authentic Collegiate Style in New FW26 Campaign",
+      "url": "https://hypebeast.com/2026/9/j-press-fal-lwinter-2026-collection-campaign-release-info",
+      "publishedAt": "2026-09-11T10:09:39.000Z",
+      "collectedAt": "2026-09-11T16:12:32.681Z",
+      "text": "J.Press Delivers Authentic Collegiate Style in New FW26 Campaign Summary J.Press FW26 campaign reinterprets Ivy League tradition through British tailoring heritage.Key looks include blazers, Shetland knits, Fair Isle sweaters, and Harris Tweed outerwear.The collection launches ahead of NYFW, marking J.Press’s 125th anniversary. J.Press has unveiled its Fall/Winter 2026 campaign and lookbook, continuing the historic brand's centuries-long legacy of traditional Ivy League tailoring and classic American menswear. Grounded in timeless collegiate style, the new collection emphasizes rich textures, enduring craftsmanship, and classic tailoring designed for versatile, cold-weather layering. The seasonal aesthetic effortlessly bridges J.Press’s East Coast heritage with modern wardrobe sensibilities, maintaining the authentic construction and natural-shoulder silhouettes that have defined the label since its founding in New Haven in 1902.The range highlights a comprehensive range of seasonal outerwear and tailoring staples, led by heavy wool tweed sport coats, structured balmacaan overcoats and classic navy blazers. Complementing the outerwear is a refined selection of traditional knitwear, including chunky cable-knit sweaters and brushed Shaggy Dog® crewnecks in rich autumn colorways, paired alongside heritage tartan trousers, oxford cloth button-downs, and repp stripe neckties. The J.Press FW26 collection is available now via J.Press flagship stores in New York, New Haven and Washington D.C., as well as online at jpress.com. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "93b80fb96142ed94",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "H//PE Princess Is Breaking the Rules of Girls-Group Music",
+      "url": "https://hypebeast.com/2026/9/hiipe-princess-group-kcon-debut-lost-angeles-interview",
+      "publishedAt": "2026-09-11T10:00:35.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "H//PE Princess Is Breaking the Rules of Girls-Group Music When Mnet’s joint Korean-Japanese audition program Unpretty Rapstar: HIP POP Princess wrapped up, it birthed a seven-member global entity determined to break every convention in girls-group music. Operating under the name H//PE Princess, COCO, YSY, YUJU, DOI, RINO, NIKO and SUJIN officially launched on May 27, 2026, with their debut mini-album 17.7 — a direct reference to the members’ average age when the group first assembled.The group's immediate impact was solidified through major breakout tracks -- their lead single \"Stolen,\" produced by Dynamicduo's Gaeko, exploded past 1 million views within 24 hours of release, while \"One day,\" written and produced by ONE OK ROCK frontman Taka, racked up millions of views within one week. Together with audition fan-favorites like \"DAISY\" and \"gOOd!,\" these releases fueled a rapid ascent that carried H//PE Princess to major international stages like Rakuten GirlsAward and KCON.Fresh off their whirlwind promotions, we spoke with H//PE Princess to discuss life after their debut, the symbolic meaning behind their name, and how they plan to forge their own path in global music.It’s been about two months since H//PE Princess officially stepped into the spotlight. How has daily life changed for you all since debuting?NIKO: It’s been so exciting to connect with fans through social media and really let people get to know who we are. We’re also getting to perform on so many different stages - festivals, TV shows, university events - and every time we step out there, it finally hits me: “Wow, we’re really H//PE Princess now.” Experiencing that love and support firsthand in our new daily lives is something we’re deeply grateful for, and it makes every day so much fun.DOI: Life has been an absolute whirlwind. I’m constantly practicing, studying and pushing myself to grow every single day. If I had to pick the biggest shift since our debut, it’s definitely the fact that we’re continuously on stage now. Being able to show so many people who we are as artists is something I’m genuinely thankful for.Let's talk about your group name, H//PE Princess. What's the meaning behind the double slashes, and how does the name reflect your visual and musical identity?YUJU: The name represents our desire to fill the space between those double slashes with our own story. It’s about transcending boundaries - specifically between Korean and Japanese cultures, languages and ideas - and breaki"
+    },
+    {
+      "id": "3230da0918ce7170",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Justin Bieber Teases New SKYLRK \"Speed Demon\" Sunglasses",
+      "url": "https://hypebeast.com/2026/9/justin-bieber-new-skylrk-speed-demon-sunglasses-teaser",
+      "publishedAt": "2026-09-11T09:52:26.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Justin Bieber Teases New SKYLRK \"Speed Demon\" Sunglasses Summary Justin Bieber has revealed a new lineup of his SKYLRK \"Speed Demon\" sunglassesThe upcoming model features translucent wraparound frames paired with tinted lensesFour initial colorways have been previewed with additional options planned for the release Justin Bieber and his brand SKYLRK have teased an upcoming set of \"Speed Demon\" sunglasses. According to social media previews shared by Bieber, the release expands the signature silhouette across four new vibrant colorways.Suggested imagery reveals that latest accessories from the brand will include the \"Speed Demon\" frames will be available in purple, red, orange, and blue options. Each pair is built using a futuristic, translucent wraparound frame designed with matching tinted lenses.While four initial iterations have been showcased, Bieber indicated that additional colorways are currently on the way. Official pricing, specific frame materials, and distribution details have not yet been disclosed by the brand. View this post on InstagramA post shared by Justin Bieber (@lilbieber) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2c321a591af44e52",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Uchronia Brings Fluid Curves and Glitter Finishes to Tiptoe’s Signature Furniture",
+      "url": "https://hypebeast.com/2026/9/tiptoe-uchronia-furniture-collaboration-grand-palais-paris-design-week-info",
+      "publishedAt": "2026-09-11T09:51:08.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Uchronia Brings Fluid Curves and Glitter Finishes to Tiptoe’s Signature Furniture Summary Tiptoe x Uchronia unveil their \"DAYDREAM\" collection at Paris Design Week 2026, reworking Tiptoe’s iconic furniture.The collection features wave‑like contours and four exclusive colors blending art and function.Launch at Grand Palais, highlighting sustainability and emotional design innovation. French furniture brand Tiptoe and Parisian multidisciplinary collective Uchronia have joined forces to unveil \"DAYDREAM,\" a vibrant collaborative collection debuting at the Grand Palais during Paris Design Week. Showcased within Uchronia's monumental \"Le Grand Bouquet\" installation, the capsule blends two distinct design philosophies: Tiptoe’s renowned industrial utility and Uchronia’s deeply poetic, sensory-driven universe.Described by Uchronia founder Julien Sebban as a \"sensory, colour-driven journey,\" the \"DAYDREAM\" concept envisions a suspended dream state where everyday objects break free from their rigid forms, allowing contours to soften and colors to become a highly expressive, emotional language.Aesthetically, the collection transforms Tiptoe's signature steel hardware through a profound exploration of organic volume and vivid pigmentation. In stark contrast to the strictly geometric, minimalist lines that have defined Tiptoe's previous industrial iterations, this new capsule introduces fluid, wave-like curves inspired by the movement of water. This undulating motif softens the brand's historically rigid silhouettes, elevating functional homeware into sensory art objects. The visual language is further anchored by a bespoke palette of four exclusive, mood-inspired shades: a vibrant Magma Orange, a soft Ice Cream Beige, a nostalgic Chocolate Brown, and an Astral Purple that is uniquely flecked with fine stardust-like glitter to invite contemplation.Color plays a defining role in the collaboration, with Uchronia developing a palette of four exclusive shades: Magma Orange, a vibrant signature hue; Ice Cream Beige, soft and luminous; Astral Violet, deep with pearlescent highlights; and Chocolate Brown, nostalgic and comforting. These tones are applied across reworked surfaces and sculpted wood tabletops, each ripple carefully cut to respect the grain and natural nobility of the material. The result is a collection that feels both playful and contemplative, inviting users to experience furniture as part of an inner landscape. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "167a83f1ef11ce06",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Suicoke Readies More Boots and Mules for FW26",
+      "url": "https://hypebeast.com/2026/9/suicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info",
+      "publishedAt": "2026-09-11T09:50:04.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Suicoke Readies More Boots and Mules for FW26 Name: SUICOKE FW26 Boots & MulesMSRP: ¥36,300 - ¥39,600 JPY (approx. $236 - $257 USD)Release Date: Available NowWhere to Buy: SUICOKEHighlighted from Suicoke's FW26 offerings is a selection of rugged boots and cozy mules, designed to balance utilitarian construction with everyday comfort. The lineup includes the STRIKE and BEETLE‑LO boots, both offered in Black, featuring waterproof leather uppers, Suicoke SHERPA lining, and SOFTSTEP cushioned insoles. Each boot is finished with a Vibram MEGAGRIP outsole, ensuring reliable traction across wet and dry terrain. These models emphasize durability and protection while maintaining a sleek, minimal profile suited for urban and outdoor wear.Complementing the boots are two mule silhouettes: the FL‑MOC in Black and the POTON in Dark Taupe. The FL‑MOC features a cow suede upper with a FLEXSTEP LEATHER sole, offering flexibility and slip‑on ease for everyday use. The POTON adds warmth with shearling lining, paired with suede uppers and the same flexible sole, creating a tonal, lifestyle‑driven finish. Together, the FW26 releases highlight SUICOKE’s ability to merge performance‑grade materials with understated design, offering versatile footwear options that transition seamlessly from field testing to daily wear. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "22af0539f61e6621",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Josh Hartnett Battles a Terrifying Sea Creature in Upcoming Netflix Series 'Below'",
+      "url": "https://hypebeast.com/2026/9/josh-hartnett-netflix-horror-thriller-series-below-official-trailer-release-info",
+      "publishedAt": "2026-09-11T09:14:37.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Josh Hartnett Battles a Terrifying Sea Creature in Upcoming Netflix Series 'Below' Summary Netflix has released the official trailer for its upcoming limited drama series 'Below'Josh Hartnett stars as a Newfoundland fisherman confronting a deadly sea creature lurking off the coastCreated by Jesse McKeown the six-part thriller debuts October 8 following its TIFF premiere Netflix has officially unveiled the trailer for its upcoming drama series, Below. The six-part limited series stars Josh Hartnett and is set to make its world premiere at the Toronto International Film Festival before launching on the streaming platform.Set off the coast of Newfoundland, the story follows Calvin Penney (Hartnett), a stubborn small-town fisherman haunted by the mysterious death of his father decades prior. When a terrifying, unidentified sea creature begins terrorizing the local waters, Calvin is forced into action. He teams up with a visiting marine researcher (Mackenzie Davis) to protect his son Wade (Charlie Heaton) and his community, racing to uncover the island's buried secrets before it's too late.Created by Jesse McKeown, the project blends local mythology, suspense, and humor to explore deeper themes of family, community, and change. The ensemble cast features Ruby Stokes, Kaleb Horn, Rohan Campbell, and Willow Kean. Executive production is handled by Jessica Rhoades, Chris Hatcher, Jamie Childs, Louise Sutton, Sharon Hall, and Hartnett.Below will officially launch globally on Netflix on October 8, 2026. Read more at Hypebeast"
+    },
+    {
+      "id": "b6e04140403954b1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lil Wayne Officially Joins the 'Fortnite' Icon Series",
+      "url": "https://hypebeast.com/2026/9/lil-wayne-officially-joins-fortnite-icon-series-announcement",
+      "publishedAt": "2026-09-11T09:06:19.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Lil Wayne Officially Joins the 'Fortnite' Icon Series Summary Lil Wayne is officially joining the 'Fortnite' Icon Series starting September 12The release features custom Outfits alongside themed Back Blings Pickaxes Gliders Emotes and Jam TracksPlayers can compete in the Weezy Icon Cup on September 12 to earn select cosmetic items early Fortnite and Lil Wayne have officially partnered to bring the hip-hop legend to the Fortnite Icon Series. Releasing amidst his ongoing tour for Tha Carter VI, the virtual collaboration introduces themed Outfits, Emotes, and reactive cosmetics to the game.The drop features two main cosmetics: the \"Lil Wayne Outfit,\" which showcases gold graffiti that glows and pulses to the beat alongside toggleable sunglasses, and the \"Weezy Outfit,\" incorporating an ember reactive style with a toggleable tank top, hat, and sunglasses. Matching accessories include the Milli Bricks Back Bling—a stack of gold bricks forming the Young Money logo—and the flaming Weezy Board Back Bling paired with the dual-wield Weezy Boardbreaker Pickaxe.Rounding out the release is the Young Money Stage Glider featuring pyrotechnic effects, choreographed \"Lollipop\" and \"6 Foot 7 Foot\" Emotes with Las Vegas-inspired lighting, and three Jam Tracks (\"Lollipop,\" \"A Milli,\" and \"6 Foot 7 Foot\"). Ahead of the store drop, players can compete in the Solo Battle Royale or Solo Zero Build Weezy Icon Cup on September 12 to earn the Weezy Outfit and Weezy Board Back Bling early, while all participants receive the YM Emoticon.The Lil Wayne Fortnite Icon Series collection will be available in the Fortnite Item Shop from September 12 at 8 p.m. ET through September 21. Read more at Hypebeast"
+    },
+    {
+      "id": "6eff1c58fe43c517",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Avatar: Seven Havens' Introduces South Asian-Inspired Earthbender Pavi in New Trailer",
+      "url": "https://hypebeast.com/2026/9/paramount-plus-animated-series-avatar-seven-havens-introduces-south-asian-inspired-earthbender-pavi-official-trailer-release-info",
+      "publishedAt": "2026-09-11T08:51:51.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "'Avatar: Seven Havens' Introduces South Asian-Inspired Earthbender Pavi in New Trailer Summary Paramount+ has released a new trailer and episode roll-out plan for 'Avatar: Seven Havens'The animated series will drop in three-episode weekly batches from October 9 through October 30 2026Co-creators Michael Dante DiMartino and Bryan Konietzko helm the South Asian-inspired Earthbender storyline Paramount+ and Avatar Studios have officially released a new trailer and episode release schedule for Avatar: Seven Havens. The upcoming Avatar: The Last Airbender sequel series is set to premiere on October 9, 2026.Created by franchise masterminds Michael Dante DiMartino and Bryan Konietzko, the animated series adopts a batch release model, dropping three episodes weekly each Friday through October 30. Set in a cataclysmic world, the story introduces Pavi (voiced by Saheli Khan), a young Earthbender who succeeds Avatar Korra, alongside her long-lost twin Nisha (Aishu Devan) as they navigate threats from both humans and spirits across the Seven Havens.Drawing heavy inspiration from South Asian culture and Sanskrit traditions, the project features a core voice cast including Akshay Khanna, Major Curda, Sakina Jaffrey, Darren Barnet, Dianne Doan, and Dee Bradley Baker. Paramount+ has already greenlit a 13-episode second book for the series ahead of its debut.Avatar: Seven Havens officially debuts its first three episodes on October 9, 2026, exclusively on Paramount+. Read more at Hypebeast"
+    },
+    {
+      "id": "1542476b842c6ca2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Aminé and New Balance Unveil the 992 \"Outdoor School\"",
+      "url": "https://hypebeast.com/2026/9/amine-new-balance-992-outdoor-school-first-look-revealed-release-info",
+      "publishedAt": "2026-09-11T08:29:01.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Aminé and New Balance Unveil the 992 \"Outdoor School\" Summary Aminé has partnered with New Balance on the 992 silhouette for his inaugural MADE in USA collaborationThe design draws inspiration from the rapper's sixth-grade trip to the MESD Outdoor School at Milk CreekEach pair includes a customized wooden hangtag decorative charms and tackle box packaging New Balance and Oregon rapper Aminé have officially announced the Aminé x New Balance 992 \"Outdoor School\". First reported by Mario Briguglio, the collaborative project marks the artist’s debut MADE in USA release, drawing direct inspiration from his nostalgic experience attending the MESD Outdoor School program as a sixth grader in Oregon.Constructed in rich shades of reddish brown, the upper combines breathable mesh, premium suede, and patent leather overlays. Custom branding appears throughout the silhouette, featuring Club Banana logos on the tongues, heel branding, and specialized graphics printed across the insoles that reference the Outdoor School curriculum.Every pair arrives with themed accessories derived from Aminé's childhood memories, anchored by a wooden \"wood cookie\" hangtag stamped with \"Horizon Cabin.\" The hangtag can be decorated with an included set of charms shaped like a frog, compass, whistle, slug, and fish. Completing the release, the shoe box is specially designed to mimic a traditional fishing tackle box.The Aminé x New Balance 992 \"Outdoor School\" officially drops on October 2, 2026, for $220 USD exclusively via Club Banana. View this post on InstagramA post shared by Aminé (@amine) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c54c0990cc0068ca",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "McLaren Reveals Plans for an 810 HP Hybrid P34 Supercar, an SUV, and a Luxury Brand Overhaul",
+      "url": "https://hypebeast.com/2026/9/mclaren-p34-hybrid-supercar-leads-brand-lifestyle-pivot",
+      "publishedAt": "2026-09-11T08:28:09.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "McLaren Reveals Plans for an 810 HP Hybrid P34 Supercar, an SUV, and a Luxury Brand Overhaul Summary McLaren briefed retailers on a future product roadmap highlighted by a new 810-horsepower hybrid V-6 supercarThe automaker plans to ditch its clinical dealership aesthetic to mimic luxury fashion boutiques like Gucci and Louis VuittonA long-rumored SUV and a front-engined grand tourer are slated for release further down the production timeline McLaren is officially drawing up the blueprint for its next era, pivoting its identity from a performance manufacturer to a lifestyle powerhouse. During a recent confidential briefing with its retail network, the British automaker outlined a future product roadmap alongside sweeping changes to its brand aesthetic. Showroom floor transformations represent the most immediate cultural shift. Dealerships are slated for a massive redesign, ditching their current Apple-store-like aesthetic in favor of the opulent ambiance found in luxury fashion stores like Gucci, Louis Vuitton or Burberry. This transformation of retail spaces represents a deliberate strategic pivot to reposition McLaren against high-end lifestyle brands by relying on elite luxury aesthetics rather than just track-day supremacy.The tip of the spear for this incoming product wave is a highly anticipated mid-engined supercar currently operating under the code-named P34. Expected to arrive next summer, the vehicle will be propelled by a hybridized twin-turbo V-6 powertrain. This setup is similar to the system found in the Artura, effectively moving the brand away from its long-lived V-8 engine. Despite the shift in configuration, the output remains entirely uncompromising. The upcoming P34 will reportedly push out approximately 810 horsepower and 800 pound-feet of torque. Slated to slot cleanly between the Artura and the 750S in the McLaren vehicle lineup, the hybrid supercar is expected to carry a starting price of around $310,000, deliberately undercutting the MSRP of the 750S.To match the company's new lifestyle directive, the P34 aims to deliver serious physical and technological upgrades. The exterior shape of the new supercar will reportedly be longer and more dramatic than the current Artura profile. Inside the cabin, the automaker is leaning heavily into its luxury-focused identity. New leather seats and an array of updated LED screens will outfit the interior of the P34, a direct maneuver to better compete with rival high-end luxury brands. Anticipati"
+    },
+    {
+      "id": "839dcf630308b0ef",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "WILDSIDE Yohji Yamamoto x The Weeknd Unearth an Unreleased Saeko Tsuemura Drawing for New Collab",
+      "url": "https://hypebeast.com/2026/9/wildside-yohji-yamamoto-the-weeknd-after-hours-til-dawn-collaboration-collection-release-info",
+      "publishedAt": "2026-09-11T08:28:06.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "WILDSIDE Yohji Yamamoto x The Weeknd Unearth an Unreleased Saeko Tsuemura Drawing for New Collab Summary WILDSIDE YOHJI YAMAMOTO and The Weeknd have built a five-piece capsule around a previously unreleased illustration by Saeko TsuemuraThe range runs from cotton jersey up to a Japanese-made cow leather jacket and a triacetate crepe de chine tailored jacketA special brooch and printed graphic combining the WILDSIDE and XO logos ties the pieces together WILDSIDE Yohji Yamamoto has released a five-piece collaboration with The Weeknd marking his \"After Hours Til Dawn Tour,\" built around a previously unreleased illustration by artist Saeko Tsuemura. Rather than keeping the artwork on jersey, the capsule carries it across five very different constructions, from a printed tee up to tailoring and outerwear made in Japan.The leather jacket sits at the top of the range and is the most substantial piece here. It is cut from 100% cow leather in a free size, with polyester padding and a cotton lining, and it puts Tsuemura's illustration across the back as a print. A brooch combining the WILDSIDE and XO logos fastens at the collar, which is a notably different approach to branding than a stitched or printed label.The two-button tailored collar jacket handles the same graphic in a lighter register. Its body is a triacetate and polyester crepe de chine, blended at 57% and 43%, a fabric chosen for its low weight, resistance to creasing and restrained sheen, with a cupro lining underneath. The lapel takes the same logo brooch, and the piece is offered in two sizes rather than the free sizing used elsewhere in the capsule.The rayon shirt inverts the layout. Here the Tsuemura print moves to the front while the back carries the combined WILDSIDE and XO logo, and the printing method leaves a hard contrast between the ground colour and the figure, which is where the piece earns most of its visual weight. It is made in Japan in a single free size.The two jersey pieces handle the graphic most directly. The pullover hoodie, made in the USA from 100% cotton, places the illustration large across the back with the logo graphic sitting small at the left chest, and the short sleeve tee repeats that configuration in Vietnamese-made cotton. Both back graphics fold the tour title into Tsuemura's artwork rather than printing it separately.The choice of artwork is what gives the capsule its depth. Tsuemura's illustrations appeared through a collaborative relationship that ran from 1991 to 2"
+    },
+    {
+      "id": "6165bd5f6451d8e6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "MegaHouse's Life-Size ‘Chainsaw Man’ Pochita Doll Barks, Revs and Stares Back at You",
+      "url": "https://hypebeast.com/2026/9/megahouse-chainsaw-man-pochita-life-size-doll-release-info",
+      "publishedAt": "2026-09-11T08:28:02.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "MegaHouse's Life-Size ‘Chainsaw Man’ Pochita Doll Barks, Revs and Stares Back at You Summary MegaHouse is adding Pochita from Chainsaw Man to its Life Size Doll seriesThe doll reproduces the character at roughly 600mm and is made chiefly from polyesterA five-sound audio unit sits inside the body and activates when the doll's back is stroked MegaHouse is producing a Life Size Doll rendition of Pochita from Chainsaw Man. The series is built on the premise of a doll that stays close to its owner's daily life, and this entry reproduces the character at life-size scale, standing roughly 600mm as a high-end doll rather than a display statue.Articulation is handled through joint parts set into both the arms and the legs, each of which can be adjusted to hold a chosen angle. The tail is built as an interactive element to be pulled rather than a fixed appendage, and the sculpt concentrates its detail around the face, where a plump, rounded mouth sits at the base of the character's blade.The sound gimmick is the centrepiece. Stroking the doll's back plays Pochita's vocalisations, including a bark and a low mechanical churn, and the unit holds five sounds in total with engine noise among them. Power comes from three AAA batteries, sold separately, and the box contains the doll body with its five-sound audio unit plus an instruction manual.Attention has also gone into the eyes, which are large and glossy enough to catch the reflection of whoever is looking down at the doll. MegaHouse frames the piece around that kind of proximity, pitching it as something to keep beside you while eating jam-covered bread or playing games in your room.The Life Size Doll Pochita is slated for late February 2027 and is open for pre-order now, with orders closing November 1, and delivery scheduled for early March 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6796f3eaa1a9509f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tommy Hilfiger Reimagines Heritage Prep at The Plaza Hotel for Spring 2027",
+      "url": "https://hypebeast.com/2026/9/tommy-hilfiger-new-york-fashion-week-ss27-spring-2027-runway-collection",
+      "publishedAt": "2026-09-11T08:24:58.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Tommy Hilfiger Reimagines Heritage Prep at The Plaza Hotel for Spring 2027 Summary Tommy Hilfiger has debuted its Spring 2027 Plaza Prep collection at The Plaza Hotel during New York Fashion WeekThe presentation remixed classic collegiate prep with altered proportions washed suedes and '90s-inspired footwearGigi Hadid opened the runway show alongside an all-star front row and a finale performance by Slayyyter Tommy Hilfiger has officially unveiled its Spring 2027 \"Plaza Prep\" collection with a runway show staged at The Plaza Hotel during New York Fashion Week. Drawing inspiration from four decades of New York street style, the presentation brought modern prep to the landmark address's Palm Court and Terrace Room.The collection remixes heritage prep icons through bold color shifts and dynamic proportions. Primary red, white, and blue tones are refreshed alongside vivid yellow and green hues across color-blocked rugby dresses, Ithaca stripe Oxford shirting, and tartan plaid blazers. Polos alternate between shrunken and oversized fits accented by micro-embroidered crests, while chinos are reworked into high-cut hot shorts and twisted-seam trousers. Faded Tommy Flag motifs adorn superfine suede jackets, silk-cashmere knitwear, and voluminous totes. Grounding the looks, footwear introduces '90s-inspired two-tone skate sneakers, boat shoes, penny loafers, and leather pool slides.Gigi Hadid opened the runway presentation, which brought together an eclectic crowd including Kate Moss, Camila Cabello, JISOO, Patrick Schwarzenegger, Carmelo Anthony, and Arón Piper. Accompanied by the Matt Jones Orchestra, the presentation closed with Romeo Beckham walking the final look followed by a surprise performance by pop artist Slayyyter.The Tommy Hilfiger \"Plaza Prep\" collection will officially release for the Spring 2027 season. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5b46660c80c783e6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Toyota Gazoo Racing Releases the $2,500 USD GR KART to Bring Motorsport to Everyday Families",
+      "url": "https://hypebeast.com/2026/9/toyota-gr-kart-entry-level-racer-launches-in-japan",
+      "publishedAt": "2026-09-11T08:15:25.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "Toyota Gazoo Racing Releases the $2,500 USD GR KART to Bring Motorsport to Everyday Families Summary Toyota Gazoo Racing launches the $2,500 entry-level GR KART to make motorsports accessibleThe 215-cc vehicle features a space-saving design specifically built for vertical storageSales are currently exclusive to select tracks and official GR Garages within Japan Toyota Gazoo Racing has released the GR KART to democratize the track. The entry-level vehicle costs approximately $2,500 USD and makes motorsports accessible to families. This release follows the vision of Toyota Motor Corporation chairman Akio Toyoda to make grassroots racing as simple as baseball or soccer. By delivering a transportable design, the company eliminates logistical hurdles that previously restricted kart ownership. Lowering equipment barriers allows families to maintain a racing hobby without the logistical overhead usually required for professional circuits.Built to accommodate a wide range of statures, the 183-pound GR KART features a 215-cc engine. A tilting steering wheel and adjustable pedals allow the chassis to be shared across a family. Ergonomic adjustments ensure the vehicle fits drivers ranging from 135 to 185 centimeters tall.Engineering breakthroughs allow the GR KART to solve complex storage problems. Owners can slide the vehicle into Toyota Noah and Voxy minivans without any disassembly. Vertical storage becomes possible through a specially developed fuel system and oil catch tank. These components allow the machine to stand on its end without leaking gasoline or engine oil.Modernized upkeep keeps drivers on the asphalt rather than performing maintenance in a garage. An advanced belt-drive system with an automatic tensioner eliminates messy chain maintenance and periodic adjustments. Newcomers receive support through a dedicated GR app that provides instructional material. Every purchase includes a digital driver's passport for immediate access to participating tracks without a separate license.Sales of the vehicle are currently restricted to the Japanese market. Toyota distributes the product through 36 kart tracks and seven official GR Garage locations across the country. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "66979969704bf6b4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘GTA VI Online’ Could Have a 32-Player Format",
+      "url": "https://hypebeast.com/2026/9/rockstar-games-gran-theft-auto-6-gta-vi-online-32-player-format-reports-rumors",
+      "publishedAt": "2026-09-11T07:48:16.000Z",
+      "collectedAt": "2026-09-11T16:12:32.682Z",
+      "text": "‘GTA VI Online’ Could Have a 32-Player Format Summary A Rockstar statement submitted to an employment tribunal in Edinburgh references employees discussing a 32-player online format for GTA VIThe filing stops short of confirming the figure as a launch specification, saying only that it was discussed and highly confidentialThe same statement lays out the measures Rockstar says it takes to keep gameplay details from leaving the building Rockstar Games has inadvertently put a number to GTA VI Online. A statement the studio submitted to an employment tribunal in Edinburgh, where Dexerto reports that 31 former employees are challenging their dismissals, describes staff discussing \"an online 32 player format\" for a confidential project in a private Discord server, and characterises game features as belonging among the company's most closely guarded secrets.The precise wording matters more than the number. The filing establishes that a 32-player format existed as a topic of internal conversation and that the detail was treated as highly confidential at the time it was raised. It does not state that 32 players will be the ceiling when the mode ships, nor does it describe the figure as final, so anyone reading it as a hard specification is reading past what the document actually says. One staff member is described in the statement as having found the Discord discussion extraordinarily alarming, which says more about how the information was classified internally than about the feature itself.The monitoring side is staffed rather than automated. The studio reportedly maintains five full-time investigators and a director dedicated to tracking potential leaks, and it fitted privacy film to its office windows after drones were allegedly used to photograph the interior of its buildings. Rockstar set the standard it is working to directly in the statement, which reads that \"Guarding the secrets of the unique gameplay and design are akin to Apple protecting the iPhone or Coke protecting its formula.\"For now, that posture makes the tribunal filing an unusually direct source on a mode Rockstar has said little about. Bloomberg reporter Jason Schreier has stated that the studio has no plans to discuss what GTA VI Online will look like any time soon, which leaves a court document as the most concrete reference point available.Rockstar describes its internal security culture as being comparable to Apple’s. Visitors must sign NDAs, photography is strictly prohibited, contractors "
     }
   ]
 }
