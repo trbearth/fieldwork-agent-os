@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-11",
+    "id": "social-2026-09-12",
     "mode": "live",
-    "generatedAt": "2026-09-11T16:12:43.417Z",
-    "postsCollected": 21,
+    "generatedAt": "2026-09-12T15:19:34.315Z",
+    "postsCollected": 22,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -76,12 +76,17 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 29,
-      "confidence": 46,
-      "youthRelevance": 48,
-      "velocity": -40,
-      "evidence": "3 public posts · 1 network · 7-day comparison",
+      "score": 37,
+      "confidence": 48,
+      "youthRelevance": 56,
+      "velocity": -20,
+      "evidence": "4 public posts · 1 network · 7-day comparison",
       "citations": [
+        {
+          "title": "Coach reinvents classic Americana for Spring/Summer 2027, bringing a relaxed, nostalgic ease to the ",
+          "url": "https://mastodon.social/@nowfashion/117257153270539815",
+          "network": "Mastodon"
+        },
         {
           "title": "Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer",
           "url": "https://mastodon.social/@suspenders/117238855331700409",
@@ -121,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "21 observations"
+      "reason": "22 observations"
     },
     {
       "id": "bluesky",

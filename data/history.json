@@ -1704,6 +1704,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-12",
+      "mode": "live",
+      "displayDate": "SEP 12, 2026, 11:19 AM EDT",
+      "generatedAt": "2026-09-12T15:19:24.979Z",
+      "itemsCollected": 47,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 13
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "archival-sportswear",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 45,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -25554,6 +25591,523 @@
       "publishedAt": "2026-09-11T07:48:16.000Z",
       "collectedAt": "2026-09-11T16:12:32.682Z",
       "text": "‘GTA VI Online’ Could Have a 32-Player Format Summary A Rockstar statement submitted to an employment tribunal in Edinburgh references employees discussing a 32-player online format for GTA VIThe filing stops short of confirming the figure as a launch specification, saying only that it was discussed and highly confidentialThe same statement lays out the measures Rockstar says it takes to keep gameplay details from leaving the building Rockstar Games has inadvertently put a number to GTA VI Online. A statement the studio submitted to an employment tribunal in Edinburgh, where Dexerto reports that 31 former employees are challenging their dismissals, describes staff discussing \"an online 32 player format\" for a confidential project in a private Discord server, and characterises game features as belonging among the company's most closely guarded secrets.The precise wording matters more than the number. The filing establishes that a 32-player format existed as a topic of internal conversation and that the detail was treated as highly confidential at the time it was raised. It does not state that 32 players will be the ceiling when the mode ships, nor does it describe the figure as final, so anyone reading it as a hard specification is reading past what the document actually says. One staff member is described in the statement as having found the Discord discussion extraordinarily alarming, which says more about how the information was classified internally than about the feature itself.The monitoring side is staffed rather than automated. The studio reportedly maintains five full-time investigators and a director dedicated to tracking potential leaks, and it fitted privacy film to its office windows after drones were allegedly used to photograph the interior of its buildings. Rockstar set the standard it is working to directly in the statement, which reads that \"Guarding the secrets of the unique gameplay and design are akin to Apple protecting the iPhone or Coke protecting its formula.\"For now, that posture makes the tribunal filing an unusually direct source on a mode Rockstar has said little about. Bloomberg reporter Jason Schreier has stated that the studio has no plans to discuss what GTA VI Online will look like any time soon, which leaves a court document as the most concrete reference point available.Rockstar describes its internal security culture as being comparable to Apple’s. Visitors must sign NDAs, photography is strictly prohibited, contractors "
+    },
+    {
+      "id": "768f2d67a83f6afc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Todd Snyder Spring 2027 Menswear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-menswear/todd-snyder",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.163Z",
+      "text": "Todd Snyder Spring 2027 Menswear "
+    },
+    {
+      "id": "798544eb37666ea3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jamie Haller Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jamiehaller",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Jamie Haller Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "42bb6d911ad85b49",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-september-12",
+      "publishedAt": "2026-09-12T11:35:51.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From pop world tours to the Venice Film Festival and the start of New York Fashion Week: the best beauty looks of the week are going for glitz."
+    },
+    {
+      "id": "f54ee1a127a77bc8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Melania to Michelle: The 9/11 Memorial Ceremonies and Somber FLOTUS Fashion",
+      "url": "https://www.vogue.com/article/melania-trump-michelle-obama-9-11-memorial-ceremonies-flotus-fashion",
+      "publishedAt": "2026-09-12T11:15:55.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "From Melania to Michelle: The 9/11 Memorial Ceremonies and Somber FLOTUS Fashion Current and former first ladies of the United States gathered at ceremonies in Virginia and New York to commemorate the 25th anniversary of the terrorist attacks."
+    },
+    {
+      "id": "0a2dab1911df96a9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Nicole Kidman and Faith Margaret Make the U.S. Open a Mother-Daughter Moment",
+      "url": "https://www.vogue.com/article/nicole-kidman-and-faith-margaret-us-open",
+      "publishedAt": "2026-09-12T10:40:52.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Nicole Kidman and Faith Margaret Make the U.S. Open a Mother-Daughter Moment From Sydney to the U.S. Open, the mother-daughter duo have been making increasingly frequent appearances together with distinctly individual wardrobes."
+    },
+    {
+      "id": "6fd64a0a1b12e8dd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Small Bag? No Worries, Says Liana Satenstein",
+      "url": "https://www.vogue.com/article/liana-satenstein-small-bags",
+      "publishedAt": "2026-09-12T10:00:00.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Small Bag? No Worries, Says Liana Satenstein Liana Satenstein on the freedom of carrying little to nothing."
+    },
+    {
+      "id": "41a32085a38f453f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What to Pack for Hawaii, According to a Vogue Staffer",
+      "url": "https://www.vogue.com/article/what-to-pack-for-hawaii",
+      "publishedAt": "2026-09-12T10:00:00.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "What to Pack for Hawaii, According to a Vogue Staffer Heading to Hawaii? Here’s how to pack for the sun, according to one Vogue staffer—whether you have a destination wedding or a relaxing beach vacation in the works."
+    },
+    {
+      "id": "9f7ec16691ef8172",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "You Don’t Have to Be a Lady to Dress ‘Ladylike’",
+      "url": "https://www.vogue.com/article/jalil-johnson-updated-lady",
+      "publishedAt": "2026-09-12T10:00:00.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "You Don’t Have to Be a Lady to Dress ‘Ladylike’ Jalil Johnson offers his modern interpretation of an outdated term."
+    },
+    {
+      "id": "19b5bd24f1c600e8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "57 Thoughts I Had While Watching ‘Practical Magic 2’",
+      "url": "https://www.vogue.com/article/57-thoughts-i-had-while-watching-practical-magic-2",
+      "publishedAt": "2026-09-12T09:00:00.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "57 Thoughts I Had While Watching ‘Practical Magic 2’ I feel like Nicole and Sandra were lesbian lovers, not sisters, in the original script for this film franchise."
+    },
+    {
+      "id": "a7a69006ec47d913",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Simkhai Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jonathan-simkhai",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Simkhai Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "8202c1f1eb0afab7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the Buzziest Parties of New York Fashion Week",
+      "url": "https://www.vogue.com/article/best-parties-new-york-fashion-week-september-2026",
+      "publishedAt": "2026-09-12T03:41:48.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Inside the Buzziest Parties of New York Fashion Week Beyond the runways and presentations, the Spring 2027 season has also spelled no shortage of parties popping off across Manhattan—with plenty of celebrity names on the guest lists too. Here, Vogue’s look inside the events everyone is still talking about…"
+    },
+    {
+      "id": "5abb38a26f753595",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Backstage Photos From the Spring 2027 Shows in New York",
+      "url": "https://www.vogue.com/slideshow/the-best-backstage-photos-from-the-spring-2027-shows-in-new-york",
+      "publishedAt": "2026-09-12T03:09:53.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "The Best Backstage Photos From the Spring 2027 Shows in New York Acielle Tanbetova is backstage getting the best behind-the-scenes moments from the spring 2027 shows in New York."
+    },
+    {
+      "id": "1c7e5ab570dd153d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rio Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gypsy-sport",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Rio Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "3b4580c6ccfe82de",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the Plywood-and Lego Chanel Boutique Created by New York Artist Tom Sachs",
+      "url": "https://www.vogue.com/article/tom-sachs-chanel-boutique-art",
+      "publishedAt": "2026-09-12T01:37:38.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Inside the Plywood-and Lego Chanel Boutique Created by New York Artist Tom Sachs The ensembles of Elizabeth Taylor, Olivia Rodrigo, Marge Simpson, and more become art—and social commentary—at this installation."
+    },
+    {
+      "id": "7da39d308ad6aabc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Lady Gaga Has Welcomed Her First Child",
+      "url": "https://www.vogue.com/article/lady-gaga-has-welcomed-her-first-child",
+      "publishedAt": "2026-09-12T01:13:23.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Lady Gaga Has Welcomed Her First Child On Friday evening, Page Six reported that the pop star and her fiancé, Michael Polansky, had welcomed their first child together. The baby’s sex and name have not yet been confirmed."
+    },
+    {
+      "id": "352382426e8dd776",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Eckhaus Latta Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/eckhaus-latta",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Eckhaus Latta Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "9ba001229a207040",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Nomia Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/nomia",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Nomia Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "dc6f265dd6742b6b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Yigal Azrouël Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yigal-azrouel",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Yigal Azrouël Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "144f3d1db976a598",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kim Shui Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/kim-shui",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Kim Shui Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "999e6f76708ca775",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dior and A24 Toasted to the West Village’s Beloved Cherry Lane Theatre",
+      "url": "https://www.vogue.com/slideshow/dior-a24-cherry-lane-theater-justin-vivian-bond",
+      "publishedAt": "2026-09-11T22:07:46.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Dior and A24 Toasted to the West Village’s Beloved Cherry Lane Theatre Alexa Chung, Grace Gummer, and Emily Ratajkowski were among those who joined Jonathan Anderson for a cocktail reception and a performance by Justin Vivian Bond at the Commerce Street theater."
+    },
+    {
+      "id": "f2c24dae9b056b83",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Monse Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/monse",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Monse Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "de30403913d14c01",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Attersee Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/attersee",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Attersee Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "a5651fe8e3df6a4d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Moncler Cut the Ribbon on its New Manhattan Flagship with Help From Some Very Famous Friends",
+      "url": "https://www.vogue.com/slideshow/moncler-manhattan-flagship-opening-party",
+      "publishedAt": "2026-09-11T21:22:46.000Z",
+      "collectedAt": "2026-09-12T15:19:20.164Z",
+      "text": "Moncler Cut the Ribbon on its New Manhattan Flagship with Help From Some Very Famous Friends Cher, Julia Roberts, Jessica Chastain, and Anne Hathaway joined Moncler as it opened the doors to its new 23,680-square-foot flagship on Fifth Avenue—making it officially the brand’s largest store in the world."
+    },
+    {
+      "id": "3655e6ea7b77aa38",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Christian Cowan Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/christian-cowan",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.165Z",
+      "text": "Christian Cowan Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "375bf40983df06ad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Robot Models to Bold Minimalism: Seoul Fashion Week Shows Another Side of K-Culture",
+      "url": "https://www.vogue.com/article/from-robot-models-to-bold-minimalism-seoul-fashion-week-shows-another-side-of-k-culture",
+      "publishedAt": "2026-09-11T20:51:15.000Z",
+      "collectedAt": "2026-09-12T15:19:20.165Z",
+      "text": "From Robot Models to Bold Minimalism: Seoul Fashion Week Shows Another Side of K-Culture A Seoul Fashion Week recap on the spring 2027 season."
+    },
+    {
+      "id": "52892671ca1c37c2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Lafayette 148 New York Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lafayette-148",
+      "publishedAt": "2026-09-12T15:17:41.000Z",
+      "collectedAt": "2026-09-12T15:19:20.165Z",
+      "text": "Lafayette 148 New York Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "76950f06d679ff38",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Elle Fanning and Storm Reid Helped Coach Fete its 85th Birthday",
+      "url": "https://www.vogue.com/slideshow/coach-85th-birthday-party-september-2026",
+      "publishedAt": "2026-09-11T20:28:06.000Z",
+      "collectedAt": "2026-09-12T15:19:20.165Z",
+      "text": "Elle Fanning and Storm Reid Helped Coach Fete its 85th Birthday Following Coach’s Spring 2027 show at Pier 36, the waterfront venue transformed into a birthday bash fueled by signature Coach 85 cocktails."
+    },
+    {
+      "id": "73f812500d10e82d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Net-A-Porter Hosted an Incredible Women Party During NYFW—and the Whole Town Showed Up",
+      "url": "https://www.vogue.com/slideshow/net-a-porter-nyfw-incredible-women-party",
+      "publishedAt": "2026-09-11T20:26:39.000Z",
+      "collectedAt": "2026-09-12T15:19:20.165Z",
+      "text": "Net-A-Porter Hosted an Incredible Women Party During NYFW—and the Whole Town Showed Up It helped that it was set to be the very first event thrown at Straker’s—Thomas Straker’s first permanent digs in the city—in the former Lucky Strike space on SoHo’s Grand Street."
+    },
+    {
+      "id": "7fc8190392ac6254",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue Vacations: 9 Days in Sardinia With Lisa Aiken",
+      "url": "https://www.vogue.com/article/vogue-vacations-lisa-aiken-sardinia",
+      "publishedAt": "2026-09-11T20:16:38.000Z",
+      "collectedAt": "2026-09-12T15:19:20.165Z",
+      "text": "Vogue Vacations: 9 Days in Sardinia With Lisa Aiken Vogue’s executive fashion director shares everything she wore, indulged in, and snapped photos of during a late summer trip to the island."
+    },
+    {
+      "id": "fbd282107c593149",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Newest Boat Shoe Has Unc Status",
+      "url": "https://www.highsnobiety.com/p/adidas-originals-barreda-decode/",
+      "publishedAt": "2026-09-12T09:54:00.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "adidas' Newest Boat Shoe Has Unc Status Tapping into prep heritage and unc-on-the-grill codes, the Three Stripes introduces the adidas Originals Barreda Decode."
+    },
+    {
+      "id": "e76f8913ccf9278b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Crocs Clog Means Business Now",
+      "url": "https://www.highsnobiety.com/p/solebox-crocs-echo-ii-clog/",
+      "publishedAt": "2026-09-11T21:40:49.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "The Crocs Clog Means Business Now Solebox's Crocs Echo II clog collaboration results in the first-ever Crocs loafer-clog, complete with leather uppers & tassels."
+    },
+    {
+      "id": "9bd7e5eb04f1e25d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "To Make Its Spiffiest Loafer, adidas Went Back to the Basics",
+      "url": "https://www.highsnobiety.com/p/adidas-handball-spezial-loafer-black-white/",
+      "publishedAt": "2026-09-11T22:00:33.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "To Make Its Spiffiest Loafer, adidas Went Back to the Basics The adidas Handball Spezial Loafer gets a classic black and white makeover, resulting in its spiffiest look yet."
+    },
+    {
+      "id": "8f9e81469aeeb0f2",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Why This Artist Built a Bootleg Chanel Store Out of Waste",
+      "url": "https://www.highsnobiety.com/p/chanel-tom-sachs/",
+      "publishedAt": "2026-09-12T13:49:42.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "Why This Artist Built a Bootleg Chanel Store Out of Waste Tom Sachs' \"Chanel\" store is a commentary on luxury & exclusivity timed to New York Fashion Week — and we went inside for more."
+    },
+    {
+      "id": "1a11a54bd9e13939",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Thicc Jordan Sneaker Does a Very Good Wallabee Impression",
+      "url": "https://www.highsnobiety.com/p/jordan-1-brooklyn-low-derby-pack/",
+      "publishedAt": "2026-09-11T21:59:35.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "Nike's Thicc Jordan Sneaker Does a Very Good Wallabee Impression The Jordan 1 Brooklyn Low lands in a \"Derby Pack\" with a luxe leather moccasin-style design. It's like the Wallabee meets Jumpman."
+    },
+    {
+      "id": "f357f5296f0c49ed",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike Transforms a “Mid” Sneaker Into a Monster Winter Boot",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-mid-gore-tex-vibram/",
+      "publishedAt": "2026-09-11T21:58:09.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "Nike Transforms a “Mid” Sneaker Into a Monster Winter Boot Nike debuts a GORE-TEX Vibram-soled Air Force 1 Mid sneaker, transforming yet another classic AF1 into a winter tank."
+    },
+    {
+      "id": "735533d8b0b7d004",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Original Sneaker Heads to Public School",
+      "url": "https://www.highsnobiety.com/p/public-school-nike-moon-shoe/",
+      "publishedAt": "2026-09-11T17:37:10.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "Nike’s Original Sneaker Heads to Public School Public School reveals a Nike Moon Shoe collaboration during its SS27 New York Fashion Week presentation. Here's everything on the newest collab."
+    },
+    {
+      "id": "92567e7bf216ce02",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: So We're Still Doing These Streetwear-Art Collabs, Huh?",
+      "url": "https://www.highsnobiety.com/p/kaws-uniqlo-van-gogh/",
+      "publishedAt": "2026-09-11T17:22:00.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "State of the Art: So We're Still Doing These Streetwear-Art Collabs, Huh? With new BAPE and Van Gogh, KAWS and Uniqlo, Nike and MoMA, it's time to ask why fashion can't stop recycling the same tired streetwear-art collaborations."
+    },
+    {
+      "id": "9842813d75abe1c8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Noah’s Notes: Why Aren’t Big Brands Going All-In on Tennis?",
+      "url": "https://www.highsnobiety.com/p/noahs-notes-us-open-celine-sam-rockwell/",
+      "publishedAt": "2026-09-11T16:34:03.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "Noah’s Notes: Why Aren’t Big Brands Going All-In on Tennis? Plus, Michael Rider dropped by the Celine store in New York, and a theory on Supreme’s A. Presse collab."
+    },
+    {
+      "id": "fdb51d1de3b88ba5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Larry June Goes All Out to Recolor a Vintage Runner",
+      "url": "https://www.highsnobiety.com/p/larry-june-adidas-adistar-control-5/",
+      "publishedAt": "2026-09-11T16:46:24.000Z",
+      "collectedAt": "2026-09-12T15:19:21.596Z",
+      "text": "Larry June Goes All Out to Recolor a Vintage Runner Joining forces with adidas, Larry June puts his personal spin on a technical mid-2000s runner, dropping the Larry June x adidas Adistar Control 5."
+    },
+    {
+      "id": "0692d0cc56c0f43c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Carne Bollente",
+      "url": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-carne-bollente",
+      "publishedAt": "2026-09-12T14:06:21.000Z",
+      "collectedAt": "2026-09-12T15:19:23.710Z",
+      "text": "New Arrivals From HBX: Carne Bollente Brand Information: Carne Bollente, led by Hijiri Endo, Theodore Famery, and Agoston Palinko, is a Paris-based brand founded in 2015. The Parisian brand is known for being \"sex-positive;\" a progressive and honest approach to sexuality that champions free expression on all facets of sex through fashion. Carne Bollente couples streetwear and sexual illustrations to boldly challenge sexual taboos that dictate our relationships. Unique in its expressionist foundations, Carne Bollente still boasts collaborations with well-known brands like Ace & Tatem, Agnes B and Undercover to name a few.Price Range: $60.00 USD - $400.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fe4516cc69c7ad0d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
+      "url": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
+      "publishedAt": "2026-09-12T10:00:33.000Z",
+      "collectedAt": "2026-09-12T15:19:23.710Z",
+      "text": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways Name: Nike Air Monarch Suede PackColorway: Cacao Wow/Gum Medium Brown, Black/Gum Medium BrownSKU: IB2281-200, IB2281-001MSRP: $100 USDRelease Date: Holiday 2026Nike is giving the Air Monarch a material rework for Holiday 2026, rolling out a two-pair pack that moves the trainer from leather onto suede. The pack pairs a tonal brown “Cacao Wow” build with a “Black” version, and both sit on gum outsoles rather than the model's more familiar white tooling.Suede covers the majority of both uppers, which changes how the Monarch reads more than any panel reshuffle would. Where leather gives the shoe its slick, uniform sheen, the nap here absorbs light and softens the overlays, pushing a trainer built for function toward something closer to a seasonal boot finish.Colour is handled differently across the two. The Cacao Wow pair runs brown from the upper straight through the midsole, so the whole shoe holds one register until the gum tooling arrives underneath. The Black version keeps the upper and midsole dark, which lets the Gum Medium Brown outsole do the work of breaking up the block and reads as the higher-contrast of the two.What the pack does not do is touch the shape; the Monarch's bulky, layered profile is carried over as is. This release keeps the proportions the model has always had and lets the fabrication account for the difference. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "bb56e3de16b91b25",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "House of Errors Packs 1,500,000 Stitches Into the Jacket Leading \"The Paint Collection\"",
+      "url": "https://hypebeast.com/2026/9/house-of-errors-the-paint-collection-release-info",
+      "publishedAt": "2026-09-12T08:00:23.000Z",
+      "collectedAt": "2026-09-12T15:19:23.710Z",
+      "text": "House of Errors Packs 1,500,000 Stitches Into the Jacket Leading \"The Paint Collection\" Summary House of Errors has built its most detailed capsule yet around paint splatters rendered entirely in embroideryThe lead jacket carries 1,500,000 individual stitches while the matching carpenter jeans hold 1,150,000A hoodie, two caps, two knitted rugbys and a tee complete the eight-piece lineup House of Errors has released The Paint Collection, a Fall/Winter 2026 capsule in which every paint splatter is stitched rather than printed or dyed. The London label has scaled up a concept it first tested on a single hero piece from its 6 Year Anniversary collection, expanding it into a full run of garments where the artwork exists as thread.The Embroidered Paint Workwear Jacket sets the benchmark at 1,500,000 individual stitches. Beyond the embroidery, it runs a brown corduroy collar, a YKK zip and bespoke hardware developed for the capsule. The Embroidered Carpenter Jeans follow with 1,150,000 threads and the same custom hardware, putting both halves of the set above a million stitches apiece.The detail work does not stop at the splatter itself. Each paint colour is embroidered with its own contrasting pattern, worked at a scale that only becomes legible when the garment is viewed up close. From a distance the effect reads as a single splash; step closer and the surface breaks into separate textures, which is where the capsule makes its case for embroidery over a printed alternative.Around the two-piece set, the range extends to an Embroidered Paint Hoodie in Grey, two Vintage Paint Caps, a pair of Knitted Wall Paint Rugbys in Cream and Grey, and a Paint Splatter Tee.The Paint Collection is available now via House of Errors. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4181086dd885f67f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Sacha Baron Cohen to Star in Quentin Tarantino's Debut Stage Play 'The Popinjay Cavalier'",
+      "url": "https://hypebeast.com/2026/9/sacha-baron-cohen-star-quentin-tarantino-debut-stage-play-the-popinjay-cavalier-news",
+      "publishedAt": "2026-09-12T06:00:45.000Z",
+      "collectedAt": "2026-09-12T15:19:23.710Z",
+      "text": "Sacha Baron Cohen to Star in Quentin Tarantino's Debut Stage Play 'The Popinjay Cavalier' Summary Sacha Baron Cohen will star in Quentin Tarantino’s debut West End stage play 'The Popinjay Cavalier'Co-produced by Sonia Friedman Productions and Sony Pictures Entertainment the production is set in 1830s EuropeThe swashbuckling comedy is scheduled to open at an unannounced London venue in spring 2027 Quentin Tarantino and Sacha Baron Cohen are teaming up for The Popinjay Cavalier, marking the director’s first stage play. The upcoming West End production stars Baron Cohen in the title role for his London theater debut.Produced by Sonia Friedman Productions in partnership with Sony Pictures Entertainment, the project is described by producers as a rambunctious comedy of deception and disguise inspired by grand swashbuckling epics of stage and screen. Set in 1830s Europe, the original stage story sees Baron Cohen step into the lead role.The theatrical casting comes ahead of Baron Cohen reprising his signature character in the Amazon MGM feature Ali G Who Iz I? in October. Tarantino’s move into London theater brings together two high-profile creators for an original West End debut.The Popinjay Cavalier is scheduled to open at an as-yet-unannounced West End venue in spring 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "08834aec5f0e0367",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Paramount Taps Destin Daniel Cretton to Direct 'Hawaii Five-O' Movie",
+      "url": "https://hypebeast.com/2026/9/paramount-taps-destin-daniel-cretton-to-direct-hawaii-five-o-movie-news",
+      "publishedAt": "2026-09-12T04:00:54.000Z",
+      "collectedAt": "2026-09-12T15:19:23.710Z",
+      "text": "Paramount Taps Destin Daniel Cretton to Direct 'Hawaii Five-O' Movie Summary Paramount Pictures is officially developing a feature film adaptation of the classic police procedural 'Hawaii Five-O'Destin Daniel Cretton is set to direct following the massive global box office success of 'Spider-Man: Brand New Day'The screenplay is being written by Chris Bremner with plot details kept under wraps in early development Paramount Pictures is officially developing a feature film adaptation of the classic police procedural Hawaii Five-O. The studio has tapped director Destin Daniel Cretton to helm the project following the box office run of Spider-Man: Brand New Day.Scripted by Chris Bremner (Bad Boys for Life), the feature marks the latest attempt to bring the classic TV property to theaters. Created by Leonard Freeman in 1968, the original television series became the longest-running police drama on American television by its 1980 finale, famously popularizing the catchphrase \"Book 'em, Danno.\" CBS later revived the franchise in 2010 with a modern 10-season reboot anchored by Alex O’Loughlin, Scott Caan, Daniel Dae Kim, and Grace Park.While specific narrative details remain under wraps during early development, Cretton steps into the director's chair following an extraordinary theatrical run. His recent Marvel blockbuster, Spider-Man: Brand New Day, has earned $924 million USD domestically and $2.4 billion USD worldwide, placing it on the verge of becoming the highest-grossing domestic release in history alongside his previous work on Shang-Chi and the Legend of the Ten Rings. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d9334230a1ae4bb0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Take a Look Inside Ome Dezin’s 4,500-Square-Foot Hollywood Hills Restoration",
+      "url": "https://hypebeast.com/2026/9/ome-dezin-residential-project-hollywood-hills-los-angeles-interiors",
+      "publishedAt": "2026-09-12T02:00:46.000Z",
+      "collectedAt": "2026-09-12T15:19:23.710Z",
+      "text": "Take a Look Inside Ome Dezin’s 4,500-Square-Foot Hollywood Hills Restoration Summary Ome Dezin restored a 4,500-square-foot Hollywood Hills home originally designed by Jeffrey Mills.Interiors feature natural stone, warm woods and a custom stained-glass kitchen pantry.A mirrored exterior sauna houses a vibrant kiwi glass and granite bathroom. Los Angeles-based design firm Ome Dezin has unveiled its latest residential project, a stunning 4,500-square-foot property nestled behind a gated drive on over an acre in the Hollywood Hills, Los Angeles. Originally built in 1997 by architect Jeffrey Mills, the contemporary home was initially conceived with a strong emphasis on natural light and a seamless connection to the outdoors. Over the decades, the residence has boasted a rich history, previously serving as an art gallery and the private residence of an A-list Hollywood actor. In its meticulous restoration, Ome Dezin preserved the property's unique architectural history while thoroughly reimagining its aesthetic footprint.Drawing direct cues from the original architecture and the surrounding woodland landscape, Ome Dezin altered 99% of the home's interior surfaces to further soften the boundary between indoors and out. The refined material palette relies on warm woods, richly veined natural stone, sleek stainless steel, and expansive glass, creating a serene environment that feels deeply connected to its natural setting. A standout feature of the interior is a custom kitchen pantry framed by stained-glass doors; a hidden window positioned behind the glass casts beautiful highlights of color and natural light into the kitchen and hallway, bringing an artful warmth to the space.The property’s most striking addition is a newly constructed, mirrored structure designed to house a sauna and full bathroom. Inspired by Doug Aitken’s Mirage - a famous mirror-clad home installation in the desert - the detached building essentially disappears into the forest, reflecting the landscape rather than interrupting it. A distinctive circular cutout acts as an architectural portal framing views toward the pool. In sharp contrast to its quiet, camouflaged exterior, the structure's interior delivers a vibrant, otherworldly mood. The bathroom is enveloped entirely in two materials: kiwi-colored glass by Zia Tile and Palladium Arte Granite stone. This saturated palette draws directly from the vivid hues of brightly colored tree frogs, creating an immersive, nature-inspired experience."
+    },
+    {
+      "id": "70c2279b374a0928",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Welcome to Maurizio Cattelan’s “Church” of Failure",
+      "url": "https://hypebeast.com/2026/9/maurizio-cattelan-night-exhibition-neue-nationalgalerie-berlin",
+      "publishedAt": "2026-09-11T21:36:08.000Z",
+      "collectedAt": "2026-09-12T15:19:23.711Z",
+      "text": "Welcome to Maurizio Cattelan’s “Church” of Failure Summary Italian artist Maurizio Cattelan opens a new solo exhibition, 'Night,' at the Neue Nationalgalerie in BerlinOn through March 7, 2027, the exhibition is imagined as a \"contemporary church\" and features hyperrealistic sculptures exploring authority, religion, and mortality A fire extinguisher might be the easiest piece in Maurizio Cattelan's new Berlin show to miss. But \"Dust,\" perched at the entrance of Ludwig Mies van der Rohe’s modernist glass hall, is also the most significant. Inside are the ashes of the artist's friend.This is just the first piece of Night, now on view at Neue Nationalgalerie. For decades, Cattelan has held down quite the reputation as conceptual art's enfant terrible. His often provocative work unsettles our relationship to authority, value, and mortality, revealing humanity's weaknesses in the process. In his first major go-around at a German museum, the Italian artist skips the tongue-in-cheek pieces he's best known for — like the taped banana or solid-gold toilet, dubbed \"America\" — instead, bringing new commissions and works from the past 30 years that bend towards the sinister.To enter, visitors must pass through \"Purgatory,\" a scaled-down Brandenburg Gate, confronting ambiguity and division that shapes the historic no-man's land. At the center, \"Him\" — Cattelan’s infamous miniaturized Hitler, kneeling in prayer — faces \"Dawn,\" a crucified woman suspended in a transport crate.On the rafts above, in \"People,\" thousands of taxidermied pigeons glare down on passersby below. Other animals nearby explore themes of exhaustion and labor: a dead horse hangs midair in \"Novecento,\" while \"Pentecost\" similarly sees a donkey up high, struggling under the weight of an overloaded cart.\"Night is not simply the absence of light. It is a condition. The exhibition is not about darkness. It is about the loss of certainty,\" Cattelan wrote in a press release. \"And while failure and despair seem to prevail for now, salvation, reflection, and imagination await on the other side. The space, after all, was imagined \"like a contemporary church,\" fitting to both the architecture and the artist's own fraught relationship with Catholicism. \"Night is also temporary,\" he continued, \"it always contains the possibility of morning, even if you cannot see it yet.\"The exhibition is now on view in Berlin until March 7, 2027.Neue NationalgaleriePotsdamer Str. 50,10785 Berlin,Germany Click here to view full ga"
+    },
+    {
+      "id": "7e6682a7fa1d3014",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Explore the Evolution of Skateboarding With the \"50 Years of VISION\" Traveling Exhibition",
+      "url": "https://hypebeast.com/2026/9/50-years-of-vision-exhibition-recap-los-angeles",
+      "publishedAt": "2026-09-11T18:00:30.000Z",
+      "collectedAt": "2026-09-12T15:19:23.711Z",
+      "text": "Explore the Evolution of Skateboarding With the \"50 Years of VISION\" Traveling Exhibition VISION celebrates 50 years of shaping skate, streetwear, and urban art with its traveling exhibition.The \"50 Years of VISION\" exhibition started its first leg of a global tour in Los Angeles, California at the independent HVW8 Gallery, which saw a complete takeover of VISION's highly curated collection of brand memorabilia. Historic skate decks, prints, flyers, accessories and even original concepts and sketches filled the space, allowing guests to explore the expansive history of the brand dating as far back as 1976. Alongside cultural elements, the gallery housed original artwork rarely seen by the public, including rough draft art by Mark Gonzales, one of VISION's first pro skaters. VISION threw an opening reception on September 4, which saw a large gathering of OG skaters and LA skate community members. The party also saw the return of the brand's designs with new stickers, posters and apparel given to the invited guests in attendance.\"50 Years of VISION\" has concluded its LA leg of the tour, and continue on in Shanghai, China from October 1-30, followed by Tokyo, Japan from December 4-13. Click here to view full gallery at Hypebeast"
     }
   ]
 }

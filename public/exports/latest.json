@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-11",
+    "id": "2026-09-12",
     "mode": "live",
-    "displayDate": "SEP 11, 2026, 12:12 PM EDT",
-    "generatedAt": "2026-09-11T16:12:33.924Z",
-    "itemsCollected": 56,
+    "displayDate": "SEP 12, 2026, 11:19 AM EDT",
+    "generatedAt": "2026-09-12T15:19:24.979Z",
+    "itemsCollected": 47,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 12
+        "count": 13
       },
       {
         "source": "Hypebeast",
@@ -82,7 +82,7 @@
     "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0911",
+    "code": "AUTO 0912",
     "name": "Archival sportswear",
     "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
     "objects": [
