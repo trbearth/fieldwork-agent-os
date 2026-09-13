@@ -1741,6 +1741,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-13",
+      "mode": "live",
+      "displayDate": "SEP 13, 2026, 11:56 AM EDT",
+      "generatedAt": "2026-09-13T15:56:27.130Z",
+      "itemsCollected": 44,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 8
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "archival-sportswear",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 45,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -26108,6 +26145,490 @@
       "publishedAt": "2026-09-11T18:00:30.000Z",
       "collectedAt": "2026-09-12T15:19:23.711Z",
       "text": "Explore the Evolution of Skateboarding With the \"50 Years of VISION\" Traveling Exhibition VISION celebrates 50 years of shaping skate, streetwear, and urban art with its traveling exhibition.The \"50 Years of VISION\" exhibition started its first leg of a global tour in Los Angeles, California at the independent HVW8 Gallery, which saw a complete takeover of VISION's highly curated collection of brand memorabilia. Historic skate decks, prints, flyers, accessories and even original concepts and sketches filled the space, allowing guests to explore the expansive history of the brand dating as far back as 1976. Alongside cultural elements, the gallery housed original artwork rarely seen by the public, including rough draft art by Mark Gonzales, one of VISION's first pro skaters. VISION threw an opening reception on September 4, which saw a large gathering of OG skaters and LA skate community members. The party also saw the return of the brand's designs with new stickers, posters and apparel given to the invited guests in attendance.\"50 Years of VISION\" has concluded its LA leg of the tour, and continue on in Shanghai, China from October 1-30, followed by Tokyo, Japan from December 4-13. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "72c2e00293bd98c6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Area Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/area",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "Area Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "65a1297a31668f74",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Powered by Matcha and Hometown Spirit, Hayes Warner Hypes up Kaia Gerber at Khaite",
+      "url": "https://www.vogue.com/slideshow/hayes-warner-khaite-new-york-fashion-week-diary",
+      "publishedAt": "2026-09-13T13:59:19.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "Powered by Matcha and Hometown Spirit, Hayes Warner Hypes up Kaia Gerber at Khaite It was a homecoming twice-over for New York-raised Hayes Warner, who sat front row of Khaite’s spring 2027 show, which was opened by her “The Shards” co-star."
+    },
+    {
+      "id": "c93874890eccfefa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Perfected Texture and Silhouette",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-alex-consani-chase-infiniti-anne-hathaway",
+      "publishedAt": "2026-09-13T13:27:45.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "The Best Dressed Stars of the Week Perfected Texture and Silhouette Between New York Fashion Week and international film festivals, there were no shortage of great red carpet looks this week."
+    },
+    {
+      "id": "2dfd9f1793f3f434",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "James Veloria Has a New Downtown Location but the Same Heart (And Heart Wall)",
+      "url": "https://www.vogue.com/article/james-veloria-has-a-new-downtown-location-but-the-same-heart",
+      "publishedAt": "2026-09-13T12:40:29.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "James Veloria Has a New Downtown Location but the Same Heart (And Heart Wall) Goodbye, East Broadway mall; hello, Henry Street! James Veloria 2.0 marks a new chapter for the NYC's vintage hotspot, one of which founders Collin James Weber and Brandon Veloria Giordano have always dreamed."
+    },
+    {
+      "id": "953a7e75e75411e6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Archives: Catch George Clooney if You Can",
+      "url": "https://www.vogue.com/article/from-the-archives-catch-him-if-you-can",
+      "publishedAt": "2026-09-13T12:00:00.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "From the Archives: Catch George Clooney if You Can In “The Perfect Storm,” George Clooney is the perfect leading man, but Lisa DePaulo goes in pursuit of the real thing."
+    },
+    {
+      "id": "cb89c2233c5c2863",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What’s a Fall Must-Have? Fashion’s Top Retail Buyers Share Their Predictions",
+      "url": "https://www.vogue.com/article/fall-retailer-predictions-2026",
+      "publishedAt": "2026-09-13T10:00:00.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "What’s a Fall Must-Have? Fashion’s Top Retail Buyers Share Their Predictions Fashion’s top retail buyers, from Nordstrom, Net-a-Porter, and more, predict the season’s bestsellers. Shop them here first."
+    },
+    {
+      "id": "237e2024157efc5f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 New York Fashion Week Outfits to Recreate Now",
+      "url": "https://www.vogue.com/article/fashion-week-trends",
+      "publishedAt": "2026-09-13T10:00:00.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "10 New York Fashion Week Outfits to Recreate Now From cool everyday looks to statement ensembles, recreate the season’s top fashion week outfits, inspired by the street style scene at New York Week."
+    },
+    {
+      "id": "81641bb827ecdd57",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zendaya Makes a Dramatic Return to the Pixie Cut",
+      "url": "https://www.vogue.com/article/zendaya-makes-a-dramatic-return-to-the-pixie-cut",
+      "publishedAt": "2026-09-13T09:58:50.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "Zendaya Makes a Dramatic Return to the Pixie Cut After months of goddess-like lengths, Zendaya has graduated from the bixie to a fully fledged, romantic and curly pixie cut."
+    },
+    {
+      "id": "dc0dedc73d3ee4cc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lawrence Nails the Transeasonal Style Formula",
+      "url": "https://www.vogue.com/article/jennifer-lawrence-nails-the-transeasonal-style-formula",
+      "publishedAt": "2026-09-13T09:51:38.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "Jennifer Lawrence Nails the Transeasonal Style Formula With a teal knit, pearl slip, and boat shoes, Jennifer Lawrence offers a masterclass in dressing for that tricky stretch between summer and fall."
+    },
+    {
+      "id": "3a0254107f37140a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "15 Dashing Pictures of a Young Hugh Grant",
+      "url": "https://www.vogue.com/slideshow/vintage-pictures-of-hugh-grant",
+      "publishedAt": "2026-09-13T09:00:00.000Z",
+      "collectedAt": "2026-09-13T15:56:22.917Z",
+      "text": "15 Dashing Pictures of a Young Hugh Grant In the wake of his 66th birthday, we revisit some dapper vintage pictures of the one and only Mr. Hugh Grant."
+    },
+    {
+      "id": "60a2b284eccd758a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Elena Velez Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/elena-velez",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Elena Velez Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "a5710fb040c55e45",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Threeasfour Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/threeasfour",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Threeasfour Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "7e282cf1f138f54c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Elena Rybakina Wins the US Open Women’s Championship",
+      "url": "https://www.vogue.com/article/elena-rybakina-wins-the-us-open-womens-championship",
+      "publishedAt": "2026-09-12T22:58:22.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Elena Rybakina Wins the US Open Women’s Championship Elena Rybakina is the freshly crowned US Open women’s champion, beating Aryna Sabalenka, 6-4, 5-7, 6-2 in a closely fought match on Saturday."
+    },
+    {
+      "id": "32626c3cfad77ee3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "See the 1972 ‘Vogue’ Story That Inspired Anna Sui’s Dreamy Spring 2027 Collection",
+      "url": "https://www.vogue.com/slideshow/see-the-1972-vogue-story-that-inspired-anna-sui-s-dreamy-spring-2027-collection",
+      "publishedAt": "2026-09-12T22:01:05.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "See the 1972 ‘Vogue’ Story That Inspired Anna Sui’s Dreamy Spring 2027 Collection Enchanted by Howard Gardiner Cushing’s paintings, the designer went down a reseach rabbit hole."
+    },
+    {
+      "id": "561b77e17e92dc62",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rosalía Is Simply Euphoric Right Now",
+      "url": "https://www.vogue.com/article/rosalia-is-simply-euphoric-right-now",
+      "publishedAt": "2026-09-12T22:00:46.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Rosalía Is Simply Euphoric Right Now The singer reflects upon beauty, emotions, and fragrance before the Calvin Klein New York Fashion Week party."
+    },
+    {
+      "id": "b5dbbb23dfe81326",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Prabal Gurung Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/prabal-gurung",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Prabal Gurung Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "c789a9a104bf7c57",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Happens After the Runway? Inside the Best Post-Show After-Parties of NYFW",
+      "url": "https://www.vogue.com/article/best-after-show-parties-new-york-fashion-week-september-2026",
+      "publishedAt": "2026-09-12T20:53:55.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "What Happens After the Runway? Inside the Best Post-Show After-Parties of NYFW Thought the fun ended after the model walk finale? Think again. Here’s Vogue’s peek inside the buzziest after-parties of the Spring 2027 season…"
+    },
+    {
+      "id": "647248fd54548921",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ashlyn Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ashlyn",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Ashlyn Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "851234437ebc4452",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "John Elliott Fall 2026 Menswear",
+      "url": "https://www.vogue.com/fashion-shows/fall-2026-menswear/john-elliot-co",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "John Elliott Fall 2026 Menswear "
+    },
+    {
+      "id": "09dbd9c524fcf32a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "All the Winners From the 2026 Venice Film Festival",
+      "url": "https://www.vogue.com/article/all-the-winners-from-the-2026-venice-film-festival",
+      "publishedAt": "2026-09-12T19:41:29.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "All the Winners From the 2026 Venice Film Festival As the glittering showcase comes to an end, here’s who walked away with the biggest prizes at the 2026 Venice Film Festival"
+    },
+    {
+      "id": "e60936bba4790a75",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Benito Skinner on Embracing “Nasty” Style—and a ’Stache Reveal!—at NYFW",
+      "url": "https://www.vogue.com/slideshow/benito-skinner-calvin-klein-new-york-fashion-week",
+      "publishedAt": "2026-09-12T19:33:45.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Benito Skinner on Embracing “Nasty” Style—and a ’Stache Reveal!—at NYFW “It takes at least five gay men to get me ready for an event,” says the Overcompensating star, who sat front row at Calvin Klein with his famous bestie Mary Beth Barone."
+    },
+    {
+      "id": "ae0766077d54940c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tibi Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tibi",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Tibi Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "6167ec68cc2e549f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Anna Sui Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anna-sui",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Anna Sui Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "2e0d152d0827d8c6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Bardia Zeinali and Vittoria Ceretti Brought the Themes of Vogue World: Milano to Surreal Life",
+      "url": "https://www.vogue.com/article/bardia-zeinali-vittoria-ceretti-vogue-world-milano",
+      "publishedAt": "2026-09-12T18:31:25.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "How Bardia Zeinali and Vittoria Ceretti Brought the Themes of Vogue World: Milano to Surreal Life A video preview of Vogue World: Milan captures how technology assists the humanity at the heart of the creative process."
+    },
+    {
+      "id": "72f1a1631aa98761",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Bergdorf Goodman Toasted to 125 Years with a Suitably Glamorous Get-Together",
+      "url": "https://www.vogue.com/slideshow/bergdorf-goodman-125th-anniversary-celebration",
+      "publishedAt": "2026-09-12T18:16:17.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Bergdorf Goodman Toasted to 125 Years with a Suitably Glamorous Get-Together The luxury retailer took over its legendary handbag floor to celebrate its 125th anniversary with a splashy party for the books."
+    },
+    {
+      "id": "a3bfc3c3bc583c37",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "7 For All Mankind Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/7-for-all-mankind",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "7 For All Mankind Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "27262735674f0fa9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Calvin Klein and Rosalía Celebrated the Return of Euphoria over Jell-o-Shots at People’s",
+      "url": "https://www.vogue.com/slideshow/rosalia-calvin-klein-euphoria-party-nyfw",
+      "publishedAt": "2026-09-12T17:03:49.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Calvin Klein and Rosalía Celebrated the Return of Euphoria over Jell-o-Shots at People’s Calvin Klein and Calvin Klein Fragrances celebrated the launch of the new iteration of Euphoria with a post-show cocktail party at People's, featuring a special appearance by campaign star Rosalía."
+    },
+    {
+      "id": "18abb85519fd21a6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Conner Ives Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/conner-ives",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Conner Ives Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "37e350d1bd1b7aee",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Ground at the US Open, Tennis Whites and Neon Brights",
+      "url": "https://www.vogue.com/article/on-the-ground-at-the-2026-us-open-tennis-whites-and-neon-brights",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "On the Ground at the US Open, Tennis Whites and Neon Brights The 1.1 million fans on the grounds and in the stands at the 2026 US Open dressed to impress, whether they showed up in crisp white shirtdresses, neatly pleated skirts or trousers, or tops and accessories in that electric shade of tennis-ball green."
+    },
+    {
+      "id": "4e7fc6ca14941ab1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Altuzarra Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/altuzarra",
+      "publishedAt": "2026-09-13T15:55:10.000Z",
+      "collectedAt": "2026-09-13T15:56:22.918Z",
+      "text": "Altuzarra Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "b00188e680b547ce",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Pharrell’s Latest adidas Is One Strange Looking Water Shoe",
+      "url": "https://www.highsnobiety.com/p/adidas-pw-water-moc/",
+      "publishedAt": "2026-09-13T10:03:00.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "Pharrell’s Latest adidas Is One Strange Looking Water Shoe Pharrell Williams and adidas team up on the PW Water Moc, a futuristic take on the classic water shoe with a bold yellow, black, and silver colorway."
+    },
+    {
+      "id": "610b1258058d0ef1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Made Slippers for Your Next Winter Hike",
+      "url": "https://www.highsnobiety.com/p/adidas-terrex-winter-slip-on-cold-rdy-boots/",
+      "publishedAt": "2026-09-13T09:54:00.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "adidas Made Slippers for Your Next Winter Hike Engineered to tackle freezing conditions without sacrificing aesthetics, the outdoor division presents the adidas Terrex Winter Slip-On COLD.RDY Boots."
+    },
+    {
+      "id": "43e54abf40c15abc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Furry Sambas Don’t Bite — They Skate",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-skate-shoe-black-fur/",
+      "publishedAt": "2026-09-12T20:52:34.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "adidas’ Furry Sambas Don’t Bite — They Skate adidas releases a new Samba skate shoe with black fur & purple accents. Here's everything on the spooky season-worthy release."
+    },
+    {
+      "id": "696891ff204e05b3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ New Ostrich-Leather Sneaker Is an Even Bigger Star",
+      "url": "https://www.highsnobiety.com/p/adidas-ultrastar-made-in-germany-ostrich-sneakers/",
+      "publishedAt": "2026-09-12T21:01:23.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "adidas’ New Ostrich-Leather Sneaker Is an Even Bigger Star adidas' Ultrastar sneaker gets another \"Made in Germany\" makeover, this time with ostrich-leather. Here's everything on the luxuriously wild release."
+    },
+    {
+      "id": "3a0ef05dd1889647",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Ultra-Ruggedized Forces Have Never Looked More Delicious",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-baroque-brown/",
+      "publishedAt": "2026-09-12T20:59:49.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "Nike’s Ultra-Ruggedized Forces Have Never Looked More Delicious Nike's Air Force 1 Low GORE-TEX Vibram sneakers are back in a new \"Baroque Brown\" colorway. It's easily the tastiest version of the toughened model yet."
+    },
+    {
+      "id": "1b28f15f382e0555",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "JAIDE's Minty-Fresh Jordan Sneaker Is a Feeling",
+      "url": "https://www.highsnobiety.com/p/jaide-jordan-11-low/",
+      "publishedAt": "2026-09-12T20:58:07.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "JAIDE's Minty-Fresh Jordan Sneaker Is a Feeling The Whitaker Group's JAIDE debuts its Air Jordan 11 Low sneaker collaboration, which lands in a minty colorway. Here's everything on the release."
+    },
+    {
+      "id": "3a409fb046cff7f6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Flyest Outdoor Boot Is Back Home for the Season",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-goamdome-black-volt/",
+      "publishedAt": "2026-09-12T20:56:20.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "Nike’s Flyest Outdoor Boot Is Back Home for the Season Nike's ACG Air Max Goadome boot returns for the colder seasons in a new street-ready \"Black/Volt\" outfit."
+    },
+    {
+      "id": "b43f2e95ab22c371",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Just Said Three Stripes, No Laces",
+      "url": "https://www.highsnobiety.com/p/adidas-adizero-evo-sl-laceless/",
+      "publishedAt": "2026-09-12T16:09:00.000Z",
+      "collectedAt": "2026-09-13T15:56:24.345Z",
+      "text": "adidas Just Said Three Stripes, No Laces Reimagining its ultra-lightweight running franchise into a slip-on, the Three Stripes unveils the adidas Adizero Evo SL Laceless Collection."
+    },
+    {
+      "id": "46bb63a49bb48df5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Globe-Trotter x Aston Martin Aramco F1 Luggage Collection Drops Globally",
+      "url": "https://hypebeast.com/2026/9/globe-trotter-aston-martin-aramco-formula-one-team-collection-release-info",
+      "publishedAt": "2026-09-13T09:00:14.000Z",
+      "collectedAt": "2026-09-13T15:56:25.863Z",
+      "text": "The Globe-Trotter x Aston Martin Aramco F1 Luggage Collection Drops Globally Summary Globe-Trotter partners with the Aston Martin Aramco F1 Team on a 100-piece limited luggage collection.Features black Vulcanised Fibreboard, Aston Martin Green accents, lime stitching and houndstooth nylon lining.Available now online, at the London flagship, and in select global stores. Globe-Trotter has unveiled a new limited-edition collaboration with the Aston Martin Aramco Formula One™ Team, continuing its partnership with the motorsport brand through a collection that merges British craftsmanship with racing performance. Limited to just 100 pieces worldwide, the collection is designed for collectors and travelers who value precision, technical detail, and the allure of motorsport. Drawing inspiration from the team’s Formula One car, the cases feature black Vulcanised Fibreboard accented with Aston Martin Green and Lime, with green leather detailing, lime stitching, and bespoke wheels branded in Aston Martin Green.The collection's centerpiece suitcase is constructed from signature Black Vulcanised Fibreboard, accented with striking Aston Martin Green corners and vibrant lime stitching and edge inking. Automotive-inspired details continue across the exterior with custom wheel caps featuring co-branded Globe-Trotter x Aston Martin Green caps. Inside, the case features a durable nylon lining woven with a modernized British houndstooth pattern in the racing team's colors, finished with a co-branded logo patch and an individually numbered stainless steel plaque. Expanding the lineup, the release also includes a Charcoal Grey Leather Passport Sleeve and matching Luggage Tag detailed with coordinating green accents.Handcrafted by skilled artisans in Hertfordshire, England, the Globe-Trotter x Aston Martin Aramco Formula One™ Team collection represents an exclusive, highly collectible capsule. The 100-piece limited run is available globally through Globe-Trotter’s official website as well as its flagship boutiques in London (Burlington Arcade), Paris, and Kobe. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7e65e11eaa5bc517",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Take a First Look at Patta and Crocs’ Classic Clog Collab",
+      "url": "https://hypebeast.com/2026/9/take-a-first-look-at-patta-and-crocs-classic-clog-collab",
+      "publishedAt": "2026-09-13T08:00:52.000Z",
+      "collectedAt": "2026-09-13T15:56:25.863Z",
+      "text": "Take a First Look at Patta and Crocs’ Classic Clog Collab Name: Patta x Crocs Classic ClogSKU: TBCRelease Date: TBCPatta has joined forces with Crocs to deliver a heavy-duty, utilitarian update to the iconic Classic Clog. Revealed via an early look on Instagram by Patta co-founder Guillaume Schmidt, the upcoming collaboration drastically reworks the casual slip-on for more demanding urban and outdoor environments.At the core of this transformation is the integration of a rugged Vibram rubber outsole, elevating the typically lightweight foam silhouette with an aggressive, trail-ready foundation. This unexpected three-way partnership seamlessly merges Patta’s signature street-level edge with the unmatched grip and durability of Vibram tooling, pushing the Classic Clog into an entirely new functional footwear category.Based on the initial teaser images, the collaborative clog arrives in a muted camo-print, paired with embellishments and a strap in black. Custom Patta branding replaces the standard Crocs logo on the pivot rivets and the adjustable heel strap, subtly marking the Amsterdam imprint's presence on the shoe. Bold, statement-like Patta Jibbitz adorn the upper, including a sculptural piece emulating a brick wall, emblazoned with \"Patta\" alongside the words \"TEAR DOWN THE WALL.\" Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fb5d168c45528912",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Victor Kan Offers a First Look at His Upcoming Timberland Euro Hiker GTX Collaboration",
+      "url": "https://hypebeast.com/2026/9/timberland-curated-by-victor-kan-f26-euro-hiker-gtx-first-look-info",
+      "publishedAt": "2026-09-13T07:00:19.000Z",
+      "collectedAt": "2026-09-13T15:56:25.863Z",
+      "text": "Victor Kan Offers a First Look at His Upcoming Timberland Euro Hiker GTX Collaboration Name: Timberland By Victor Kan F26 Euro Hiker GTXSKU: TBCRelease Date: October 2026Following the opening of his Third of June storefront in NYC earlier this year, Victor Kan is continuing his 2026 momentum by teaming up with Timberland for a curated take on the classic Euro Hiker GTX. Slated for an October release, the \"Timberland Curated By Victor Kan F26\" project brings a refined, streetwear-adjacent lens to the brand's rugged outdoor heritage. The collaborative boot preserves the utilitarian DNA of the original Euro Hiker while introducing a premium, weather-ready material construction built to navigate both city sidewalks and unpredictable fall climates.As revealed in the first look images, the silhouette arrives in an earthy, color-blocked palette anchored by a smooth taupe suede upper and breathable grey mesh side panels. A rich burgundy brown suede tongue, detailed with an embossed Timberland tree logo, serves as the shoe’s visual centerpiece, offering a deep pop of color against the neutral base. Functional outdoor elements are heavily emphasized through metallic D-ring hardware, contrasting white rope laces, and a heavy-duty black rubber toe bumper that seamlessly transitions into a chunky black lug outsole. Finished with a subtle lateral GORE-TEX tag indicating a fully waterproof construction, this collaborative Euro Hiker offers a compelling blend of high-end material execution and off-road durability. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f5705d6ca9d0d87c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A ‘Diablo’ Animated Series Officially in Development at Netflix",
+      "url": "https://hypebeast.com/2026/9/netflix-new-diablo-animated-series-announcement-info",
+      "publishedAt": "2026-09-13T05:00:38.000Z",
+      "collectedAt": "2026-09-13T15:56:25.863Z",
+      "text": "A ‘Diablo’ Animated Series Officially in Development at Netflix Summary Blizzard and Netflix announced a new animated series based on the dark fantasy Diablo franchise.Revealed by Blizzard President Johanna Faries at BlizzCon 2026, the series is set within Sanctuary.Release date is unconfirmed, but the project expands Netflix’s video game adaptation slate. Blizzard Entertainment and Netflix have officially announced that a new animated series based on the dark fantasy video game franchise Diablo is currently in development. Revealed by Blizzard President Johanna Faries during the opening keynote at BlizzCon 2026 in Anaheim, the adaptation marks a major effort to bring the iconic universe of Sanctuary into the world of episodic television.The announcement comes alongside a broader initiative by Blizzard and parent company Microsoft to expand their core gaming intellectual properties across film and television, with Faries teasing that the project is \"just the beginning\" of wider transmedia plans across Blizzard's gaming franchises.Diablo, first launched in 1996, has become a cornerstone of action RPG gaming, known for its atmospheric storytelling, dungeon‑crawling mechanics, and enduring popularity across multiple sequels. The upcoming animated adaptation is expected to draw from the franchise’s rich mythology, including the eternal conflict between the High Heavens and Burning Hells. While specific release dates have not yet been confirmed, the announcement positions the project as a major addition to Netflix’s expanding lineup of game‑to‑screen adaptations, aiming to capture both long‑time fans and new audiences with its dark, immersive world. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8123838cb610c49d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Seiko 5 Sports Reveals the SKX SNZH in Two Sleek Colorways",
+      "url": "https://hypebeast.com/2026/9/seiko-5-sports-skx-snzh-formal-white-tweed-green-hdb004-hdb005-release-info",
+      "publishedAt": "2026-09-13T04:00:25.000Z",
+      "collectedAt": "2026-09-13T15:56:25.863Z",
+      "text": "Seiko 5 Sports Reveals the SKX SNZH in Two Sleek Colorways Summary Seiko expands its 5 Sports lineup with new SKX SNZH models in \"Formal White\" and \"Tweed Green.\"Features crisp white with yellow gold accents and deep green paired with rose gold accents.Pre-orders are open now; shipping begins in October. Seiko has expanded its versatile 5 Sports lineup with two new SKX SNZH references, coming in \"Formal White\" and \"Tweed Green.\" Building on a legacy that traces back to the 1960s and the modernized 1990s SKX evolution, these new models combine everyday practical durability - including enhanced water resistance, durable crystals, and luminous hands and markers - with refined colorways. The \"Formal White\" edition delivers a clean, elevated look with its crisp white dial set against yellow gold-colored accents. In contrast, the \"Tweed Green\" model offers a richer, more distinctive visual profile by pairing a deep green dial and matching bezel with warm rose gold-colored accents.Both models continue the SKX legacy that began in the 1990s, when Seiko modernized its 1960s sports designs with enhanced durability and practicality. True to that heritage, the new releases feature strengthened crystals, luminous hands and markers, and water resistance suited for daily wear. Priced at £340 GBP (approx. $459 USD), the Seiko 5 Sports SKX SNZH “Formal White” and “Tweed Green” are now available for pre‑order through Seikoboutique.co.uk, with deliveries beginning in October. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ebc0d57d9b617b40",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Song for the Mute and adidas Originals Revisit Heritage Icons for FW26",
+      "url": "https://hypebeast.com/2026/9/song-for-the-mute-adidas-originals-samba-og-sftm-010-sl-72-pro-sftm-011-first-look-release-info",
+      "publishedAt": "2026-09-13T02:00:43.000Z",
+      "collectedAt": "2026-09-13T15:56:25.863Z",
+      "text": "Song for the Mute and adidas Originals Revisit Heritage Icons for FW26 Name: Song for the Mute x adidas Originals FW26 CollectionSKU: TBCMSRP: TBCRelease Date: October 16Where to Buy: Song for the Mute, adidasAustralian fashion label Song for the Mute and adidas Originals are reuniting for a Fall/Winter 2026 collection. Expanding on their highly successful partnership, the upcoming release continues to merge adidas' sporting DNA with Song for the Mute’s signature experimental aesthetic and \"slow design\" philosophy.This season, the collaboration spotlights two reimagined classics - the timeless Samba OG SFTM-010 and the newly introduced SL 72 PRO SFTM-011 - alongside a cohesive apparel and accessories capsule. The collection embraces a muted, monochromatic, and earthy color palette that emphasizes raw textures, material contrast, and a naturally worn, nomadic style.Taking a completely new structural approach to an iconic silhouette, the Samba OG SFTM-010 transforms the classic low-top into a versatile, deconstructed staple. The most notable feature of this iteration is its collapsible, crumpled heel, allowing the shoe to be effortlessly worn as a slip-on mule. The upper utilizes a premium mix of soft leather and suede overlays, characterized by minimalist branding and tonal stitching that outline the classic Three Stripes. Grounded by a traditional semi-translucent gum sole that honors the shoe's heritage, the Samba OG SFTM-010 will be available in three understated, earthy colorways - \"Black,\" \"Brown\" and \"Green\" - providing a sophisticated, highly wearable finish.Complementing the relaxed nature of the Samba is the SL 72 PRO SFTM-011, which introduces a modernized, heavily textured take on the vintage runner. Elevating the traditional slim profile, this model features a massive, stacked rocker midsole while the upper employs a patchwork-like construction that blends woven fabric bases with premium suede overlays. Rope laces and naturally faded finishes give the shoe an intentionally weathered, handcrafted feel, seamlessly blending high fashion with everyday utility. The SL 72 PRO arrives in \"Collegiate Green,\" \"Beige\" and \"Off White.\" To round out the footwear, the accompanying apparel line mirrors this artisanal approach, offering track tops, track pants, shorts, tees, and accessories that share the same earthy tones, relaxed fits, and meticulous attention to detail. Click here to view full gallery at Hypebeast"
     }
   ]
 }
