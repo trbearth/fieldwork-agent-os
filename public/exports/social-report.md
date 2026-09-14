@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-13
+# Fieldwork Public Pulse — 2026-09-14
 
 ## 1. Quiet performance
 
@@ -22,18 +22,7 @@
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
 
-## 3. Washed tailoring
-
-**emerging · score 37 · confidence 48% · youth 56%**
-
-4 public posts · 1 network · 7-day comparison
-
-- [Coach reinvents classic Americana for Spring/Summer 2027, bringing a relaxed, nostalgic ease to the ](https://mastodon.social/@nowfashion/117257153270539815) — Mastodon
-- [Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer](https://mastodon.social/@suspenders/117238855331700409) — Mastodon
-- [Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ](https://mastodon.social/@wenzhouchenshang/117233100411824998) — Mastodon
-- [Classic elegance with a warm smile. A timeless frontal portrait pairing structured three-piece tailo](https://pixelfed.social/p/tjb.picture/999327036713688248) — Mastodon
-
-## 4. Archival sportswear
+## 3. Archival sportswear
 
 **emerging · score 25 · confidence 42% · youth 60%**
 
@@ -41,9 +30,18 @@
 
 - [90s Starter Jackets remain a popular choice for anyone who likes vintage sportswear and retro street](https://mastodon.social/@bflwear/117239519066957055) — Mastodon
 
+## 4. Washed tailoring
+
+**emerging · score 24 · confidence 44% · youth 47%**
+
+2 public posts · 1 network · 7-day comparison
+
+- [Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer](https://mastodon.social/@suspenders/117238855331700409) — Mastodon
+- [Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ](https://mastodon.social/@wenzhouchenshang/117233100411824998) — Mastodon
+
 ## Network status
 
-- **mastodon:** ready — 22 observations
+- **mastodon:** ready — 20 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

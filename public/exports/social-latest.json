@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-13",
+    "id": "social-2026-09-14",
     "mode": "live",
-    "generatedAt": "2026-09-13T15:56:37.167Z",
-    "postsCollected": 22,
+    "generatedAt": "2026-09-14T17:57:24.357Z",
+    "postsCollected": 20,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -73,38 +73,6 @@
       ]
     },
     {
-      "id": "washed-tailoring",
-      "name": "Washed tailoring",
-      "stage": "emerging",
-      "score": 37,
-      "confidence": 48,
-      "youthRelevance": 56,
-      "velocity": -33,
-      "evidence": "4 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "Coach reinvents classic Americana for Spring/Summer 2027, bringing a relaxed, nostalgic ease to the ",
-          "url": "https://mastodon.social/@nowfashion/117257153270539815",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer",
-          "url": "https://mastodon.social/@suspenders/117238855331700409",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ",
-          "url": "https://mastodon.social/@wenzhouchenshang/117233100411824998",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Classic elegance with a warm smile. A timeless frontal portrait pairing structured three-piece tailo",
-          "url": "https://pixelfed.social/p/tjb.picture/999327036713688248",
-          "network": "Mastodon"
-        }
-      ]
-    },
-    {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
@@ -120,13 +88,35 @@
           "network": "Mastodon"
         }
       ]
+    },
+    {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "stage": "emerging",
+      "score": 24,
+      "confidence": 44,
+      "youthRelevance": 47,
+      "velocity": -67,
+      "evidence": "2 public posts · 1 network · 7-day comparison",
+      "citations": [
+        {
+          "title": "Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer",
+          "url": "https://mastodon.social/@suspenders/117238855331700409",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ",
+          "url": "https://mastodon.social/@wenzhouchenshang/117233100411824998",
+          "network": "Mastodon"
+        }
+      ]
     }
   ],
   "networkStatus": [
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "22 observations"
+      "reason": "20 observations"
     },
     {
       "id": "bluesky",

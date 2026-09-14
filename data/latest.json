@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-13",
+    "id": "2026-09-14",
     "mode": "live",
-    "displayDate": "SEP 13, 2026, 11:56 AM EDT",
-    "generatedAt": "2026-09-13T15:56:27.130Z",
-    "itemsCollected": 44,
+    "displayDate": "SEP 14, 2026, 01:57 PM EDT",
+    "generatedAt": "2026-09-14T17:57:15.252Z",
+    "itemsCollected": 59,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 8
+        "count": 13
       },
       {
         "source": "Hypebeast",
@@ -24,8 +24,28 @@
       }
     ]
   },
-  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 91,
+      "confidence": 35,
+      "youthRelevance": 71,
+      "direction": "up",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "4 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "4 observations · 1 independent source · +300% seven-day velocity",
+      "citations": [
+        {
+          "title": "Burger King's \"Le Nugguette\" Is a Nugget-Sized Micro-Bag With a Sauce Charm Inside",
+          "source": "Hypebeast",
+          "date": "Sep 14",
+          "url": "https://hypebeast.com/2026/9/burger-king-le-nugguette-chicken-nugget-bag-release-info"
+        }
+      ]
+    },
     {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
@@ -51,26 +71,6 @@
           "url": "https://hypebeast.com/2026/9/toyota-gr-kart-entry-level-racer-launches-in-japan"
         }
       ]
-    },
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 45,
-      "confidence": 31,
-      "youthRelevance": 68,
-      "direction": "up",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "3 observations · 1 independent source · +50% seven-day velocity",
-      "citations": [
-        {
-          "title": "Aminé and New Balance Unveil the 992 \"Outdoor School\"",
-          "source": "Hypebeast",
-          "date": "Sep 11",
-          "url": "https://hypebeast.com/2026/9/amine-new-balance-992-outdoor-school-first-look-revealed-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
@@ -78,16 +78,15 @@
     "reason": "More history is required."
   },
   "prediction": {
-    "title": "Archival sportswear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0913",
-    "name": "Archival sportswear",
-    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
+    "code": "AUTO 0914",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "This Leather adidas Staple Went From the Terraces to the Skate Park",
-      "Toyota Gazoo Racing Releases the $2,500 USD GR KART to Bring Motorsport to Everyday Families"
+      "Burger King's \"Le Nugguette\" Is a Nugget-Sized Micro-Bag With a Sauce Charm Inside"
     ]
   }
 }
