@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-14",
+    "id": "2026-09-15",
     "mode": "live",
-    "displayDate": "SEP 14, 2026, 01:57 PM EDT",
-    "generatedAt": "2026-09-14T17:57:15.252Z",
-    "itemsCollected": 59,
+    "displayDate": "SEP 15, 2026, 12:39 PM EDT",
+    "generatedAt": "2026-09-15T16:39:15.615Z",
+    "itemsCollected": 62,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 13
+        "count": 15
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 91,
-      "confidence": 35,
-      "youthRelevance": 71,
-      "direction": "up",
+      "score": 31,
+      "confidence": 27,
+      "youthRelevance": 57,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "4 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "4 observations · 1 independent source · +300% seven-day velocity",
+      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · -33% seven-day velocity",
       "citations": [
         {
           "title": "Burger King's \"Le Nugguette\" Is a Nugget-Sized Micro-Bag With a Sauce Charm Inside",
@@ -50,20 +50,14 @@
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
-      "score": 57,
-      "confidence": 39,
-      "youthRelevance": 41,
-      "direction": "up",
-      "thesis": "Archival sportswear is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
+      "score": 26,
+      "confidence": 21,
+      "youthRelevance": 38,
+      "direction": "down",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
       "citations": [
-        {
-          "title": "This Leather adidas Staple Went From the Terraces to the Skate Park",
-          "source": "Highsnobiety",
-          "date": "Sep 8",
-          "url": "https://www.highsnobiety.com/p/adidas-glenburn-auburn/"
-        },
         {
           "title": "Toyota Gazoo Racing Releases the $2,500 USD GR KART to Bring Motorsport to Everyday Families",
           "source": "Hypebeast",
@@ -74,15 +68,15 @@
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Decorated basics",
+    "reason": "2 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0914",
+    "code": "AUTO 0915",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
