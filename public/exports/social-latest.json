@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-15",
+    "id": "social-2026-09-16",
     "mode": "live",
-    "generatedAt": "2026-09-15T16:39:28.070Z",
-    "postsCollected": 20,
+    "generatedAt": "2026-09-16T16:32:46.942Z",
+    "postsCollected": 21,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -73,6 +73,33 @@
       ]
     },
     {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "stage": "emerging",
+      "score": 35,
+      "confidence": 46,
+      "youthRelevance": 62,
+      "velocity": -25,
+      "evidence": "3 public posts · 1 network · 7-day comparison",
+      "citations": [
+        {
+          "title": "How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo",
+          "url": "https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer",
+          "url": "https://mastodon.social/@suspenders/117238855331700409",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ",
+          "url": "https://mastodon.social/@wenzhouchenshang/117233100411824998",
+          "network": "Mastodon"
+        }
+      ]
+    },
+    {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
@@ -88,35 +115,13 @@
           "network": "Mastodon"
         }
       ]
-    },
-    {
-      "id": "washed-tailoring",
-      "name": "Washed tailoring",
-      "stage": "emerging",
-      "score": 24,
-      "confidence": 44,
-      "youthRelevance": 47,
-      "velocity": -50,
-      "evidence": "2 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer",
-          "url": "https://mastodon.social/@suspenders/117238855331700409",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ",
-          "url": "https://mastodon.social/@wenzhouchenshang/117233100411824998",
-          "network": "Mastodon"
-        }
-      ]
     }
   ],
   "networkStatus": [
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "20 observations"
+      "reason": "21 observations"
     },
     {
       "id": "bluesky",

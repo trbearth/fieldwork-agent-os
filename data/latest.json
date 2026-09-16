@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-15",
+    "id": "2026-09-16",
     "mode": "live",
-    "displayDate": "SEP 15, 2026, 12:39 PM EDT",
-    "generatedAt": "2026-09-15T16:39:15.615Z",
-    "itemsCollected": 62,
+    "displayDate": "SEP 16, 2026, 12:32 PM EDT",
+    "generatedAt": "2026-09-16T16:32:30.934Z",
+    "itemsCollected": 65,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 15
+        "count": 18
       },
       {
         "source": "Hypebeast",
@@ -30,19 +30,19 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 31,
-      "confidence": 27,
-      "youthRelevance": 57,
-      "direction": "down",
+      "score": 37,
+      "confidence": 32,
+      "youthRelevance": 68,
+      "direction": "flat",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · -33% seven-day velocity",
+      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "3 observations · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
-          "title": "Burger King's \"Le Nugguette\" Is a Nugget-Sized Micro-Bag With a Sauce Charm Inside",
+          "title": "Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot",
           "source": "Hypebeast",
-          "date": "Sep 14",
-          "url": "https://hypebeast.com/2026/9/burger-king-le-nugguette-chicken-nugget-bag-release-info"
+          "date": "Sep 16",
+          "url": "https://hypebeast.com/2026/9/timberland-kohjiya-waterproof-field-boots-release-info"
         }
       ]
     },
@@ -51,12 +51,12 @@
       "name": "Archival sportswear",
       "stage": "emerging",
       "score": 26,
-      "confidence": 21,
+      "confidence": 20,
       "youthRelevance": 38,
-      "direction": "down",
+      "direction": "flat",
       "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
           "title": "Toyota Gazoo Racing Releases the $2,500 USD GR KART to Bring Motorsport to Everyday Families",
@@ -69,18 +69,18 @@
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "2 mentions this week versus 3 in the prior seven-day window."
+    "reason": "3 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0915",
+    "code": "AUTO 0916",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Burger King's \"Le Nugguette\" Is a Nugget-Sized Micro-Bag With a Sauce Charm Inside"
+      "Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot"
     ]
   }
 }
