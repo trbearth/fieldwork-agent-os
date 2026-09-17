@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-16",
+    "id": "social-2026-09-17",
     "mode": "live",
-    "generatedAt": "2026-09-16T16:32:46.942Z",
-    "postsCollected": 21,
+    "generatedAt": "2026-09-17T16:37:58.522Z",
+    "postsCollected": 22,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -76,15 +76,20 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 35,
-      "confidence": 46,
-      "youthRelevance": 62,
-      "velocity": -25,
-      "evidence": "3 public posts · 1 network · 7-day comparison",
+      "score": 43,
+      "confidence": 48,
+      "youthRelevance": 70,
+      "velocity": -33,
+      "evidence": "4 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo",
           "url": "https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Coach reinvents classic Americana for Spring/Summer 2027, bringing a relaxed, nostalgic ease to the ",
+          "url": "https://mastodon.social/@nowfashion/117257153270539815",
           "network": "Mastodon"
         },
         {
@@ -121,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "21 observations"
+      "reason": "22 observations"
     },
     {
       "id": "bluesky",
