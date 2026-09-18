@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-17
+# Fieldwork Public Pulse — 2026-09-18
 
 ## 1. Quiet performance
 
@@ -24,14 +24,13 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 43 · confidence 48% · youth 70%**
+**emerging · score 38 · confidence 46% · youth 69%**
 
-4 public posts · 1 network · 7-day comparison
+3 public posts · 1 network · 7-day comparison
 
 - [How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo](https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/) — Mastodon
 - [Coach reinvents classic Americana for Spring/Summer 2027, bringing a relaxed, nostalgic ease to the ](https://mastodon.social/@nowfashion/117257153270539815) — Mastodon
 - [Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer](https://mastodon.social/@suspenders/117238855331700409) — Mastodon
-- [Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ](https://mastodon.social/@wenzhouchenshang/117233100411824998) — Mastodon
 
 ## 4. Archival sportswear
 
@@ -43,7 +42,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 22 observations
+- **mastodon:** ready — 21 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

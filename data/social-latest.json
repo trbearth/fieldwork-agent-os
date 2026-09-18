@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-17",
+    "id": "social-2026-09-18",
     "mode": "live",
-    "generatedAt": "2026-09-17T16:37:58.522Z",
-    "postsCollected": 22,
+    "generatedAt": "2026-09-18T16:09:29.361Z",
+    "postsCollected": 21,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -76,11 +76,11 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 43,
-      "confidence": 48,
-      "youthRelevance": 70,
-      "velocity": -33,
-      "evidence": "4 public posts · 1 network · 7-day comparison",
+      "score": 38,
+      "confidence": 46,
+      "youthRelevance": 69,
+      "velocity": -57,
+      "evidence": "3 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo",
@@ -95,11 +95,6 @@
         {
           "title": "Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer",
           "url": "https://mastodon.social/@suspenders/117238855331700409",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Relaxed tailoring does not mean removing all structure. Before developing a suit sample, define the ",
-          "url": "https://mastodon.social/@wenzhouchenshang/117233100411824998",
           "network": "Mastodon"
         }
       ]
@@ -126,7 +121,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "22 observations"
+      "reason": "21 observations"
     },
     {
       "id": "bluesky",

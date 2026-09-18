@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-17",
+    "id": "2026-09-18",
     "mode": "live",
-    "displayDate": "SEP 17, 2026, 12:37 PM EDT",
-    "generatedAt": "2026-09-17T16:37:48.429Z",
-    "itemsCollected": 63,
+    "displayDate": "SEP 18, 2026, 12:09 PM EDT",
+    "generatedAt": "2026-09-18T16:09:20.155Z",
+    "itemsCollected": 64,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -20,32 +20,12 @@
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
-  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 48,
-      "confidence": 25,
-      "youthRelevance": 49,
-      "direction": "up",
-      "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "9090 and adidas Originals Give the Track Jacket a Cow-Print Makeover",
-          "source": "Hypebeast",
-          "date": "Sep 17",
-          "url": "https://hypebeast.com/2026/9/yutori-9090-adidas-originals-track-jacket-collaboration-release-info"
-        }
-      ]
-    },
     {
       "id": "narrow-technical-footwear",
       "name": "Narrow technical footwear",
@@ -70,13 +50,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 37,
-      "confidence": 32,
-      "youthRelevance": 68,
-      "direction": "flat",
+      "score": 31,
+      "confidence": 27,
+      "youthRelevance": 49,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "3 observations · 1 independent source · +0% seven-day velocity",
+      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · -33% seven-day velocity",
       "citations": [
         {
           "title": "Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot",
@@ -85,22 +65,42 @@
           "url": "https://hypebeast.com/2026/9/timberland-kohjiya-waterproof-field-boots-release-info"
         }
       ]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 26,
+      "confidence": 21,
+      "youthRelevance": 46,
+      "direction": "down",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "citations": [
+        {
+          "title": "9090 and adidas Originals Give the Track Jacket a Cow-Print Makeover",
+          "source": "Hypebeast",
+          "date": "Sep 17",
+          "url": "https://hypebeast.com/2026/9/yutori-9090-adidas-originals-track-jacket-collaboration-release-info"
+        }
+      ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "3 mentions this week versus 3 in the prior seven-day window."
+    "reason": "2 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Archival sportswear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Narrow technical footwear moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0917",
-    "name": "Archival sportswear",
-    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
+    "code": "AUTO 0918",
+    "name": "Narrow technical footwear",
+    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [
-      "9090 and adidas Originals Give the Track Jacket a Cow-Print Makeover"
+      "Nike Readied Its Most Athletic Trail Shoe with Pickle Juice"
     ]
   }
 }
