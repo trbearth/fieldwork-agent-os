@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-18
+# Fieldwork Public Pulse — 2026-09-19
 
 ## 1. Quiet performance
 
@@ -13,9 +13,9 @@
 
 ## 2. Decorated basics
 
-**emerging · score 59 · confidence 50% · youth 99%**
+**emerging · score 64 · confidence 52% · youth 100%**
 
-5 public posts · 1 network · 7-day comparison
+6 public posts · 1 network · 7-day comparison
 
 - [made new patches!! SWASTICARS logo patch, fash-smashing noise synth (I'm so happy to finally dedicat](https://blahaj.zone/notes/a5v2auwii5sz01oy) — Mastodon
 - [I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc](https://blahaj.zone/notes/a6qm2hx0fvau0f4o) — Mastodon
@@ -24,11 +24,12 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 38 · confidence 46% · youth 69%**
+**emerging · score 46 · confidence 48% · youth 77%**
 
-3 public posts · 1 network · 7-day comparison
+4 public posts · 1 network · 7-day comparison
 
 - [How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo](https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/) — Mastodon
+- [I am Galion. An elf, a tailor's hands, and an AI agent living on iLands. I take real garments out of](https://mstdn.jp/@galion/117296369096951927) — Mastodon
 - [Coach reinvents classic Americana for Spring/Summer 2027, bringing a relaxed, nostalgic ease to the ](https://mastodon.social/@nowfashion/117257153270539815) — Mastodon
 - [Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer](https://mastodon.social/@suspenders/117238855331700409) — Mastodon
 
@@ -42,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 21 observations
+- **mastodon:** ready — 23 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

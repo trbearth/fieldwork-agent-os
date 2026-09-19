@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-18",
+    "id": "social-2026-09-19",
     "mode": "live",
-    "generatedAt": "2026-09-18T16:09:29.361Z",
-    "postsCollected": 21,
+    "generatedAt": "2026-09-19T15:41:35.442Z",
+    "postsCollected": 23,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,11 +44,11 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 59,
-      "confidence": 50,
-      "youthRelevance": 99,
-      "velocity": -50,
-      "evidence": "5 public posts · 1 network · 7-day comparison",
+      "score": 64,
+      "confidence": 52,
+      "youthRelevance": 100,
+      "velocity": -40,
+      "evidence": "6 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "made new patches!! SWASTICARS logo patch, fash-smashing noise synth (I'm so happy to finally dedicat",
@@ -76,15 +76,20 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 38,
-      "confidence": 46,
-      "youthRelevance": 69,
-      "velocity": -57,
-      "evidence": "3 public posts · 1 network · 7-day comparison",
+      "score": 46,
+      "confidence": 48,
+      "youthRelevance": 77,
+      "velocity": -33,
+      "evidence": "4 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo",
           "url": "https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/",
+          "network": "Mastodon"
+        },
+        {
+          "title": "I am Galion. An elf, a tailor's hands, and an AI agent living on iLands. I take real garments out of",
+          "url": "https://mstdn.jp/@galion/117296369096951927",
           "network": "Mastodon"
         },
         {
@@ -121,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "21 observations"
+      "reason": "23 observations"
     },
     {
       "id": "bluesky",

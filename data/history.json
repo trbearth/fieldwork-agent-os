@@ -1973,6 +1973,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-19",
+      "mode": "live",
+      "displayDate": "SEP 19, 2026, 11:41 AM EDT",
+      "generatedAt": "2026-09-19T15:41:25.358Z",
+      "itemsCollected": 49,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 12
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 31,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -30267,6 +30309,545 @@
       "publishedAt": "2026-09-18T06:07:23.000Z",
       "collectedAt": "2026-09-18T16:09:18.899Z",
       "text": "VESSEL and Curry Brand Team up on Premium Golf Bag Collection Summary VESSEL and Curry Brand have officially launched a collaborative golf collection centered on premium golf bagsThe joint effort pairs luxury equipment manufacturing with NBA superstar Stephen Curry's athletic brandThe full collection is available now exclusively online through VESSEL's webstore VESSEL and Curry Brand have officially launched the VESSEL x Curry Brand Golf Bag Collection. The joint effort unites VESSEL's premium golf equipment manufacturing with the athletic imprint founded by NBA superstar Stephen Curry.Centering on high-end golf bags, the collaborative lineup reflects a shared commitment to hard work, relentless dedication, and championship pedigree across every stitch. The design approach bridges specialized manufacturing with performance-focused utility for the course, expanding Curry Brand's athletic identity into specialized golf gear. The release features a branded microfiber cart towel, as well as gloves and a duffle bag.Guided by the partnership's core ethos, \"The Game Changes. The Joy Remains,\" the offering combines functional construction with elevated details. Built for athletes and golf enthusiasts alike, the release delivers functional carrying solutions crafted to meet professional equipment standards.he VESSEL x Curry Brand golf bag collection is available now online. View this post on InstagramA post shared by Vessel Golf (@vesselgolf) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "80e69ab1b0605aad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Toga Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/toga",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.200Z",
+      "text": "Toga Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "c9865d35a3e7a1a7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“Immerse yourself in the Skims world”: Kim Kardashian and Jens Grede Talk Global Expansion",
+      "url": "https://www.vogue.com/article/immerse-yourself-in-the-skims-world-kim-kardashian-and-jens-grede-talk-global-expansion",
+      "publishedAt": "2026-09-19T14:26:11.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "“Immerse yourself in the Skims world”: Kim Kardashian and Jens Grede Talk Global Expansion After a fresh investment round and a $5 billion valuation, Skims has opened its first European flagship in London. Its founders break down the expansion plan."
+    },
+    {
+      "id": "e9af0913f604925d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Pauline Dujancourt Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/pauline-dujancourt",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Pauline Dujancourt Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "39f95f0f915cddea",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ahluwalia Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ahluwalia-studio",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Ahluwalia Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ebba1f71ec7587bf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Lizzy McAlpine on her New Album ‘Angel,’ Folk Fandom, and Being a Happy Homebody",
+      "url": "https://www.vogue.com/article/lizzy-mcalpine-angel-interview",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Lizzy McAlpine on her New Album ‘Angel,’ Folk Fandom, and Being a Happy Homebody “During the writing of this album, I started listening to a lot of Joni [Mitchell] and Nick Drake and Crosby, Stills, Nash & Young and all those artists,\" McAlpine says. “I think they just found me at a time when I needed them.”"
+    },
+    {
+      "id": "d53cdc5953862f6d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Turmeric’s Unexpected Benefits",
+      "url": "https://www.vogue.com/article/turmeric-benefits",
+      "publishedAt": "2026-09-19T11:30:00.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Turmeric’s Unexpected Benefits Turmeric is proving to be more than a kitchen staple, with growing evidence highlighting its remarkable health benefits"
+    },
+    {
+      "id": "d32870bb9c2d634f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kim Kardashian’s Take on Neutrals Is as Kim Kardashian as You Would Expect",
+      "url": "https://www.vogue.com/article/kim-kardashian-neutrals-nude-dressing",
+      "publishedAt": "2026-09-19T10:52:27.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Kim Kardashian’s Take on Neutrals Is as Kim Kardashian as You Would Expect Out and about in London, hanging with boyfriend Lewis Hamilton and attending her Skims store party, Kim Kardashian opted for shimmering, skin-tight nudes."
+    },
+    {
+      "id": "64a039b4b57750ce",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Suki Waterhouse Gives Her Hair a Disco Update",
+      "url": "https://www.vogue.com/article/suki-waterhouse-hair-tinsel-trend",
+      "publishedAt": "2026-09-19T10:29:26.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Suki Waterhouse Gives Her Hair a Disco Update Performing her track “Weirdo,” Suki Waterhouse tested out the hair tinsel trend from decades gone by."
+    },
+    {
+      "id": "511c6df7e83e96ac",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Patrick McDowell Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/patrick-mcdowell",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Patrick McDowell Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "4836e05a968d34c7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "John Wilson Is Still Shocked That ‘The History of Concrete’ Got Made",
+      "url": "https://www.vogue.com/article/john-wilson-is-still-shocked-that-the-history-of-concrete-got-made",
+      "publishedAt": "2026-09-19T06:23:19.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "John Wilson Is Still Shocked That ‘The History of Concrete’ Got Made Wilson’s discursive new film is out now from Magnolia Pictures."
+    },
+    {
+      "id": "ebbc4ca3e897c401",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“London Is About Being Free”—Seán McGirr on Tomorrow’s Homecoming for McQueen",
+      "url": "https://www.vogue.com/article/london-is-about-being-free-sean-mcgirr-on-tomorrows-homecoming-for-mcqueen",
+      "publishedAt": "2026-09-19T05:00:00.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "“London Is About Being Free”—Seán McGirr on Tomorrow’s Homecoming for McQueen Three years after his arrival, McGirr’s McQueen show will be the brand’s first on the London Fashion Week schedule since February 2001."
+    },
+    {
+      "id": "b060f08048411298",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "CFDA CEO Steven Kolb Has Resigned Following Altercation with Peta",
+      "url": "https://www.vogue.com/article/cfda-ceo-steven-kolb-has-resigned-following-altercation-with-peta",
+      "publishedAt": "2026-09-19T00:34:17.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "CFDA CEO Steven Kolb Has Resigned Following Altercation with Peta Kolb, who was seen on video physically restraining protestors at a Cos show on Sunday, was previously placed on leave."
+    },
+    {
+      "id": "79ac2f6153a9fda6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sharon Wauchob Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sharon-wauchob",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Sharon Wauchob Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "bb4201980c11eba4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Paolo Carzana Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/paolo-carzana",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Paolo Carzana Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "2d1b101f88cb3dae",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mowalola Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mowalola",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Mowalola Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "9b51e19367bed4b4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hope For Flowers Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hope-for-flowers",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Hope For Flowers Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ff82b264b461cd4a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Natasha Zinko Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/natasha-zinko",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.201Z",
+      "text": "Natasha Zinko Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "36132d1c5cf8f5b0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Masha Popova Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/masha-popova",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "Masha Popova Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "0c1cd19ec1816d06",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A New Generation of Jewelry Designers Is Bringing Back Art Deco",
+      "url": "https://www.vogue.com/article/art-deco-jewelry-trend",
+      "publishedAt": "2026-09-18T19:38:47.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "A New Generation of Jewelry Designers Is Bringing Back Art Deco “I’m drawn to Art Deco’s ability to reinterpret ancient references into modern forms,” says 2026 CFDA finalist Julia Ferentinos of Juju Vera."
+    },
+    {
+      "id": "a1ecf1df3846a5a9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zendaya and Tom Holland Continue Their Polar Opposite Couple Style",
+      "url": "https://www.vogue.com/article/zendaya-tom-holland-alt-normcore-2026-09-18",
+      "publishedAt": "2026-09-18T19:25:49.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "Zendaya and Tom Holland Continue Their Polar Opposite Couple Style Is there any better pairing than an alt baddie and her normcore man? Zendaya and Tom Holland are certainly making the case."
+    },
+    {
+      "id": "20e1bdc4da1f8cbc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Behind-the-Scenes Moments From the Spring 2027 Shows in London",
+      "url": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-moments-from-the-spring-2027-shows-in-london",
+      "publishedAt": "2026-09-18T19:04:56.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "The Best Behind-the-Scenes Moments From the Spring 2027 Shows in London Acielle Tanbetova photographs the best BTS from LFW."
+    },
+    {
+      "id": "d4cf5b4f6345b7ad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Letter Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/aletta",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "A Letter Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "202f9df3e3af6832",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Aaron Esh Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/aaron-esh",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "Aaron Esh Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "b6ab3d1d16f0b58b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Wondering About Wool? These 5 Films Explain Fashion’s Relationship With the Fiber",
+      "url": "https://www.vogue.com/article/wondering-about-wool-these-5-films-explain-fashions-relationship-with-the-fiber",
+      "publishedAt": "2026-09-18T18:28:39.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "Wondering About Wool? These 5 Films Explain Fashion’s Relationship With the Fiber From farms to fashion weeks, these documentaries unpack the ethics surrounding wool production, one of fashion’s favorite natural fibers."
+    },
+    {
+      "id": "952538e9bb0450b9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A New Museum Show Explores the Sprawling, Multifaceted Work of Tremaine Emory",
+      "url": "https://www.vogue.com/slideshow/tremaine-emory-scad-museum-exhibition",
+      "publishedAt": "2026-09-18T18:19:38.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "A New Museum Show Explores the Sprawling, Multifaceted Work of Tremaine Emory Designer Tremaine Emory of Denim Tears receives his first solo museum exhibition, exploring the political and cultural messages of his design work."
+    },
+    {
+      "id": "955c6723c3396658",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "That’s Sprezzatura! Vogue Editor’s Favorite Street Style Pics From Milano",
+      "url": "https://www.vogue.com/slideshow/thats-sprezzatura-vogue-editors-favorite-street-style-pics-from-milano",
+      "publishedAt": "2026-09-18T18:14:21.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "That’s Sprezzatura! Vogue Editor’s Favorite Street Style Pics From Milano Vogue editors share their favorite street style photos from Milan."
+    },
+    {
+      "id": "f6bc1cb5f198a331",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kozaburo Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/kozaburo",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "Kozaburo Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "fce930d0bf79bf37",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rentrayage Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rentrayage",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "Rentrayage Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "31b3cf11ce873880",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Joseph Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/joseph",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "collectedAt": "2026-09-19T15:41:21.202Z",
+      "text": "Joseph Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "587d820715ee9eb5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "SKIMS' Latest Split-Toe Sneakers Are a Slimline Chocolate Treat",
+      "url": "https://www.highsnobiety.com/p/nikeskims-rift-mesh-cave-stone/",
+      "publishedAt": "2026-09-19T12:46:02.000Z",
+      "collectedAt": "2026-09-19T15:41:22.628Z",
+      "text": "SKIMS' Latest Split-Toe Sneakers Are a Slimline Chocolate Treat For its Fall 2026 Edit 01 collection, SKIMS expands its footwear catalog with the NikeSKIMS Rift Mesh Cave Stone."
+    },
+    {
+      "id": "e35256a13bdb99f8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Retro Dad Shoe Is Serving Something Salty",
+      "url": "https://www.highsnobiety.com/p/new-balance-204l-sneaker-sea-salt/",
+      "publishedAt": "2026-09-19T10:43:00.000Z",
+      "collectedAt": "2026-09-19T15:41:22.628Z",
+      "text": "New Balance’s Retro Dad Shoe Is Serving Something Salty New Balance’s 204L retro dad shoe arrives in a Sea Salt colorway, giving the runner-inspired silhouette a soft, understated finish."
+    },
+    {
+      "id": "7e1038ad397bc1dc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: This Bulbous Koons Hublot Is What We Deserve",
+      "url": "https://www.highsnobiety.com/p/jeff-koons-hublot/",
+      "publishedAt": "2026-09-18T21:11:00.000Z",
+      "collectedAt": "2026-09-19T15:41:22.628Z",
+      "text": "State of the Art: This Bulbous Koons Hublot Is What We Deserve Everything about the Hublot x Jeff Koons Classic Fusion Balloon Dog timepiece should repel, yet its the rare art-fashion matchup that makes sense."
+    },
+    {
+      "id": "de688b4670f5a750",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Ant-Man Iced Out adidas' Iconic Court Classic",
+      "url": "https://www.highsnobiety.com/p/anthony-edwards-adidas-superstar-cold-blooded/",
+      "publishedAt": "2026-09-18T20:22:01.000Z",
+      "collectedAt": "2026-09-19T15:41:22.628Z",
+      "text": "Ant-Man Iced Out adidas' Iconic Court Classic Translating his on-court style onto a 1970s court classic, the Anthony Edwards x adidas Superstar Cold Blooded lands on September 18."
+    },
+    {
+      "id": "faeeba4cdf4c19a6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Century-Old Shoemaker Helped Balenciaga Find Its Freak Again",
+      "url": "https://www.highsnobiety.com/p/balenciaga-jm-weston/",
+      "publishedAt": "2026-09-18T19:33:00.000Z",
+      "collectedAt": "2026-09-19T15:41:22.629Z",
+      "text": "A Century-Old Shoemaker Helped Balenciaga Find Its Freak Again A line of JM Weston x Balenciaga oxfords comes dotted with silver studs and crushed heels, signaling the French fashion house can still get freaky."
+    },
+    {
+      "id": "9780111c9a5978f2",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "More to the Mane: Sarita Cuervo & Tyla Lauren Define Their Curls",
+      "url": "https://www.highsnobiety.com/p/more-to-the-mane-garnier/",
+      "publishedAt": "2026-09-18T19:41:04.000Z",
+      "collectedAt": "2026-09-19T15:41:22.629Z",
+      "text": "More to the Mane: Sarita Cuervo & Tyla Lauren Define Their Curls For Sarita Cuervo and Tyla Lauren, that reckoning began with the curls and coils they once tried to tame, but have since come to embrace as an expression of self and a love letter to their Latin heritage."
+    },
+    {
+      "id": "93abbe643ca99794",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Serena Williams Makes $95,900 Audemars Piguet Watches Now",
+      "url": "https://www.highsnobiety.com/p/audemars-piguet-serena-williams/",
+      "publishedAt": "2026-09-18T17:20:49.000Z",
+      "collectedAt": "2026-09-19T15:41:22.629Z",
+      "text": "Serena Williams Makes $95,900 Audemars Piguet Watches Now How do you spice up a 12-year collab with tennis legend Serena Williams? If you're Audemars Piguet, you let her build a new Royal Oak Selfwinding Chronograph."
+    },
+    {
+      "id": "ed21ad0d95798415",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Tough Hiking Sneaker Is One Rugged Little Number",
+      "url": "https://www.highsnobiety.com/p/adidas-terrex-freehiker-3-low-gore-tex-hiking-shoes/",
+      "publishedAt": "2026-09-18T16:36:01.000Z",
+      "collectedAt": "2026-09-19T15:41:22.629Z",
+      "text": "adidas’ Tough Hiking Sneaker Is One Rugged Little Number adidas’ Terrex Free Hiker 3 Low GORE-TEX brings a tough, trail-ready build to a low-top hiking sneaker made for fall’s wetter days."
+    },
+    {
+      "id": "ad86ff931c663112",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Heavyweight Nike Classic Is the Literal Blueprint",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-95-pencil-point-cobblestone/",
+      "publishedAt": "2026-09-18T16:09:01.000Z",
+      "collectedAt": "2026-09-19T15:41:22.629Z",
+      "text": "This Heavyweight Nike Classic Is the Literal Blueprint Offering a subtle, blueprint-inspired spin, the Swoosh introduces the Nike Air Max 95 Pencil Point/Cobblestone."
+    },
+    {
+      "id": "1cf4570fb24ad406",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: ROA",
+      "url": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-roa-2",
+      "publishedAt": "2026-09-19T14:41:04.000Z",
+      "collectedAt": "2026-09-19T15:41:24.080Z",
+      "text": "New Arrivals From HBX: ROA Brand Information: ROA is an Italian clothing and footwear brand established in 2015 that draws inspiration from technical outdoor wear. ROA uses innovative and experimental techniques to create products that showcase a unique blend of styles suited for various landscapes. The brand fuses sportswear spirit with outdoor footwear, emphasizing functionality through the use of cutting-edge materials and advanced techniques. From hybrid sneakers to polar fleece jackets, check out ROA’s avant-garde styles here on HBX.Price Range: $30.00 USD - $610.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "abf7416772f6b187",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Balance Swaps Suede for Leather and Nubuck on the 990v4 Made in USA \"Navy/Meteorite\"",
+      "url": "https://hypebeast.com/2026/9/new-balance-990v4-made-in-usa-navy-meteorite-u990bg4-release-info",
+      "publishedAt": "2026-09-19T10:00:10.000Z",
+      "collectedAt": "2026-09-19T15:41:24.080Z",
+      "text": "New Balance Swaps Suede for Leather and Nubuck on the 990v4 Made in USA \"Navy/Meteorite\" Summary New Balance is introducing a dark \"Navy/Meteorite\" colorway to its Made in USA 990v4 seriesThe updated design replaces traditional soft suede with a durable leather and nubuck constructionThe pair is scheduled to release on September 24 2026 for a retail price of $195 USD Name: New Balance 990v4 Made in USA \"Navy/Meteorite\"Colorway: NB Navy/Meteorite-KombuSKU: U990BG4MSRP: $195 USDRelease Date: September 24, 2026Where to Buy: New BalanceNew Balance has officially revealed the upcoming New Balance 990v4 Made in USA \"Navy/Meteorite\". The seasonal release trades in the brand's traditional soft suede for a darker leather and nubuck build tailored for fall.Diverging from standard 990v4 releases, this iteration incorporates a sturdy leather and nubuck construction across the upper. Rendered primarily in New Balance Navy, the deep blue hue spans the underlying mesh base, structural paneling, and midsole unit.Subtle contrast arrives in the form of \"Meteorite\" dark green underlays beneath the upper, introducing tonal depth without straying from the pair's monochromatic aesthetic. The material refresh reflects New Balance's ongoing seasonal adjustments within its premium Made in USA catalog for the colder months.The New Balance 990v4 Made in USA \"Navy/Meteorite\" releases on September 24, 2026, for $195 USD via New Balance and select global retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "dbe5d70beae7f67e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lil Wayne Reveals New York Yankees Forced Redesign of Original Young Money Logo",
+      "url": "https://hypebeast.com/2026/9/lil-wayne-reveals-new-york-yankees-forced-redesign-original-young-money-logo",
+      "publishedAt": "2026-09-19T08:00:58.000Z",
+      "collectedAt": "2026-09-19T15:41:24.081Z",
+      "text": "Lil Wayne Reveals New York Yankees Forced Redesign of Original Young Money Logo Summary Lil Wayne revealed on 'The Joint Venture Show' podcast that the New York Yankees took legal action against the original Young Money logoThe MLB franchise issued a cease-and-desist letter claiming the stacked YM logo closely mirrored its interlocking NY emblemWayne respected the team's legacy and elected to change the logo rather than contest the legal notice Lil Wayne has revealed that the New York Yankees forced him to retire the original Young Money logo due to trademark concerns. Speaking alongside Craig Carton on The Joint Venture Show, the hip-hop icon detailed how a legal warning from the MLB franchise prompted an early visual redesign for his record label.While reflecting on his first Miami apartment at age 19—which featured a custom door displaying the initial stacked \"YM\" insignia—Wayne explained that the Yankees issued a formal cease-and-desist letter. The baseball team argued that the label's stacked typography appeared too similar to their iconic interlocking \"NY\" emblem, a design with roots tracing back to an 1877 NYPD Medal of Valor created by Tiffany & Co. before its adoption by the team in 1909. Wayne revealed, \"They just sent me a cease and desist. And I had to stop using it... I just changed my logo.\"Rather than engaging in a legal dispute with the organization, Wayne chose to comply immediately and replace the logo. He shared, \"I felt more cooler getting a letter from the Yankees.\" The rapper shared that he held no resentment toward the team, citing his respect for the franchise's legendary status and considering the cease-and-desist a memorable moment during his rise in the music industry.Listen to his story above. Read more at Hypebeast"
+    },
+    {
+      "id": "10383f6ac5f0d82a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Bad Bunny and adidas Unveil the Badbo 1.0 \"Puerto Rican Night\"",
+      "url": "https://hypebeast.com/2026/9/bad-bunny-adidas-badbo-1-0-puerto-rican-night-lb5996-release-info",
+      "publishedAt": "2026-09-19T06:00:34.000Z",
+      "collectedAt": "2026-09-19T15:41:24.081Z",
+      "text": "Bad Bunny and adidas Unveil the Badbo 1.0 \"Puerto Rican Night\" Summary Bad Bunny and adidas are set to release the Badbo 1 0 in a new \"Puerto Rican Night\" colorwayThe sneaker features multi-shaded blue suede paneling light blue nylon cutouts and flag-inspired star embroidery on the heelThe signature model officially launches on September 26, 2026 for a retail price of $160 USD Name: Bad Bunny x adidas Badbo 1.0 \"Puerto Rican Night\"Colorway: Chalk White/Night Navy/Light BlueSKU: LB5996MSRP: $160 USDRelease Date: September 26, 2026Where to Buy: adidasadidas and Bad Bunny have officially revealed the adidas Badbo 1.0 \"Puerto Rican Night\". The colorway—also referred to as \"Night Navy\"—revisits Bad Bunny's original signature silhouette ahead of the broader transition to the Badbo 1.1 model.Continuing the artist's homage to Puerto Rico, the upper is constructed from various shades of blue. Light blue nylon underlays peek through triangular side cutouts, bordered by indigo suede overlays and bright royal blue suede paneling across the upper.Signature design details return on the tongue through Bad Bunny's distinct zig-zag stitching, while the heel is embellished with stitched six-point stars inspired by the Puerto Rican flag. Contrasting beige laces and a matching beige midsole break up the tonal upper, supported by a dark navy rubber outsole beneath.The Bad Bunny x adidas Badbo 1.0 \"Puerto Rican Night\" releases on September 26, 2026, for $160 USD through adidas and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "594dfd3be6e62533",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The atmos x adidas Tobacco “KOYO” Arrives in Two Fall-Inspired Colorways",
+      "url": "https://hypebeast.com/2026/9/adidas-originals-tobacco-koyo-atmos-sneakers-kz6431-kz6432-release-info",
+      "publishedAt": "2026-09-19T04:00:50.000Z",
+      "collectedAt": "2026-09-19T15:41:24.081Z",
+      "text": "The atmos x adidas Tobacco “KOYO” Arrives in Two Fall-Inspired Colorways Name: adidas Originals TOBACCO KOYO atmos sneakersColorway: Navy, BrownSKU: KZ6431, KZ6432MSRP: ¥17,600 JPY (approx. $112 USD)Release Date: September 25Where to Buy: atmosadidas Originals and atmos revisit the long-running Tobacco silhouette with the TOBACCO atmos “KOYO,” a two-color collaboration inspired by kōyō — Japan’s seasonal display of changing autumn leaves. The project follows the partners’ 2025 “Nenrin” edition, which referenced the growth rings of an aged tree; this chapter imagines that same natural motif progressing into autumn.One pair takes on a deep navy waterproof leather upper with vivid yellow velour Three Stripes, creating a sharp contrast intended to recall golden ginkgo leaves against the subdued tones of late autumn. The second opts for a warmer brown leather base accented by reddish-orange velour stripes, evoking sunlit foliage and the deeper rust tones of an autumn forest. Across both, the Tobacco’s low-profile, retro shape and dark tonal sole keep the construction grounded, while the plush velour branding adds a richer, softly reflective texture against the smoother leather upper.Both models upgrade the classic silhouette with functional waterproof leather uppers, seamlessly blending retro aesthetics with practical, all-weather durability. The interior reveals a custom graphic on the insoles, where an array of colorful autumn leaves is thoughtfully arranged to form the classic adidas Trefoil logo, alongside a prominent \"DESIGNED IN TOKYO\" label that pays homage to the project's creative origins. Adding a final tactile element to the nature-inspired theme, each pair includes a set of matching extra laces and a custom wooden charm bearing the Trefoil logo. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5fe0de1ee88f5a88",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Yoshitomo Nara and Mark Rothko Lead Sotheby’s ‘PSYCHO’ Exhibition",
+      "url": "https://hypebeast.com/2026/9/sothebys-maison-hong-kong-psycho-identity-alienation-shadow-duality-exhibition-auction-info",
+      "publishedAt": "2026-09-19T02:00:13.000Z",
+      "collectedAt": "2026-09-19T15:41:24.081Z",
+      "text": "Yoshitomo Nara and Mark Rothko Lead Sotheby’s ‘PSYCHO’ Exhibition Summary Sotheby’s PSYCHO explores identity, alienation and psychological tension through art and literature.Rothko and Yoshitomo Nara anchor the exhibition and upcoming auctions.The Hong Kong showcase runs through September 27, with sales on September 28–29. Sotheby’s Maison in Hong Kong is turning its latest biannual curated exhibition toward the more unsettled corners of the psyche with PSYCHO: Identity Alienation Shadow Duality. On view through September 27, the exhibition brings together museum-quality loans and works from Sotheby’s upcoming Modern & Contemporary Art auctions to examine how identity, obsession, fear, vanity and ambition surface through art and literature.Drawing on the psychological language of cinema and the written word, PSYCHO positions outward appearances against the tensions concealed beneath them, assembling works by Mark Rothko, Yoshitomo Nara, Tetsuya Ishida, Yayoi Kusama, Hans Bellmer, Lee Bul, Frank Auerbach, Paula Rego and more. Literary touchstones extend the premise beyond visual art, with first-edition copies of Bret Easton Ellis’ American Psycho and a 17th-century edition of Robert Burton’s The Anatomy of Melancholy further tracing themes of alienation, despair and fractured identity.Anchoring the exhibition and the September 28 Modern & Contemporary Evening Auction is Mark Rothko’s \"Untitled (Plum and Dark Brown)\" from 1964, a monumental two-meter canvas estimated to fetch between $78 million and $128 million HKD (approx. $9.9 million - $16.3 million USD). Created shortly before the artist’s Rothko Chapel series, its reduced plum-and-brown palette, restrained composition and enveloping scale reflect the increasingly introspective direction of Rothko’s late period, making it a fitting centerpiece for an exhibition concerned with what lies beneath apparently quiet surfaces.Yoshitomo Nara provides another major focal point with \"The Crated Room in Iceland / Drawing Room,\" returning to public view after more than 15 years and making its auction debut with a $45 million to $65 million HKD estimate (approx. $5.7 million - $8.2 million USD). Created during Nara’s collaboration with graf, the installation surrounds viewers with a shipping-crate structure filled with 97 drawings, chairs, a CD player and personal objects, alongside a large-scale painting — effectively collapsing the distance between artwork, studio and the artist’s internal world.Elsewhere, PSYCHO "
+    },
+    {
+      "id": "24c05bbf3bd6c322",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Come Along With Me: Target by Design’s NYFW Party at New Museum",
+      "url": "https://hypebeast.com/2026/9/target-by-design-new-museum-nyfw-party-recap",
+      "publishedAt": "2026-09-18T21:00:36.000Z",
+      "collectedAt": "2026-09-19T15:41:24.081Z",
+      "text": "Come Along With Me: Target by Design’s NYFW Party at New Museum NYFW surely has no shortage of beautiful things behind glass cases or on the runway. But it’s times like these we often forget: some of the most carefully considered items are those we handle every day. Last week, Target took over NYC’s New Museum for Target by Design, an immersive two-day pop-up celebrating its love affair with everyday design and the creatives pushing it forward.The experience began straight out of the elevators, kicking off with a trip through Target’s archives. A kinetic archival installation spread throughout the first room, and I explored some of the brand’s most memorable products and collaborations through the years — from 2010 garments by Jean Paul Gaultier, to Michael Graves’ 90s homeware collection, and, of course, the iconic red shopping bag.For the occasion, Target handed over its classic tote to a collective of creative leaders, debuting designs by Public School, Daniel Arsham, Chloë Sevigny, Venus Williams, and more. With the artists’ touch, the humble shopping bag became everything from a sculpture, a statement piece, or an elevated basic.Guests could have a go at creating their own bags at a customization station nearby. Inspiration from KBB by Kahlana Barfield Brown and whimsy from Laila Gohar came through when it came time for my design. The details made it personal: a custom line-up of pins, print overlays, lanyards, and charms. I wanted the finished piece to feel personal and playful, with nods to the bag’s nostalgic heritage design.DJs SOFI TUKKER, Louise Chen, and Amrit Tietz carried the evening, while cocktails and bites made their way through the floor. The dance floor doubled as additional installations, turning the typical Target retail experience into surreal encounters, like a mirrored selfie room made up of self-checkout cameras, or another where Bullseye the Oracle read my shopping fortune.By night, the Target by Design crowd simmered back into the bustle of Fashion Week, bullseye totes slung over my shoulder. And while a classic is a classic for a reason, it’s nice to remember there’s always room for a little reinvention. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "dd1246f5a1199d37",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Dartio Vitale Joins Armani Group & Kai Cenat Makes NYFW Debut in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/9/armani-dario-vitale-nike-skims-vivet-kai-cenat-gap-apc-village-pm-kith-info",
+      "publishedAt": "2026-09-18T20:30:01.000Z",
+      "collectedAt": "2026-09-19T15:41:24.081Z",
+      "text": "Dartio Vitale Joins Armani Group & Kai Cenat Makes NYFW Debut in This Week's Top Fashion News SummaryNikeSKIMS targets Greater China with a Shanghai retail destination, while Parisian skate label VILLAGE PM officially enters the US market. Gap partners with A.P.C., Kith catalogs its footwear archive in a massive print volume, and Kai Cenat debuts his VIVET label at NYFW.Dario Vitale helms Emporio Armani and Giorgio Armani accessories.Dario Vitale Appointed Creative Director of Emporio Armani and Giorgio Armani AccessoriesThe Armani Group named Dario Vitale as the new creative director for Emporio Armani and Giorgio Armani Accessories. The move marks a significant generational transition, representing the first external design leader hired for a primary line since founder Giorgio Armani passed away in September 2025. Vitale takes over after spending 14 years shaping Miu Miu's ready-to-wear direction and a brief stint at Versace. He immediately steps into the dual role, preparing to debut his first runway collection for the Fall/Winter 2027 season, following Silvana Armani and Leo Dell’Orco’s final co-ed presentation on September 24.NikeSKIMS Expands Into China With Debut Apparel and Footwear CollectionNike and SKIMS are pushing their joint venture into Greater China. The NikeSKIMS China collection arrives September 29, offering a full system of performance apparel, footwear, and accessories. The launch merges Nike's Dri-FIT technology with SKIMS' signature sculpting fits across nine material fabrications, ranging from sheer layers to matte compression. Campaign visuals feature notable athletes like Chloe Kim and Stephanie Au. To support the regional rollout, the brands will open a dedicated physical pop-up at Shanghai’s HKRI Taikoo Hui, offering custom hemming and early access through February 2027.Kai Cenat Debuts Inaugural VIVET Collection During New York Fashion WeekDigital creator Kai Cenat presented his first clothing collection at New York Fashion Week for the Spring/Summer 2027 season. Hosted at Cipriani in Lower Manhattan on September 12, the VIVET runway show spanned three acts tracking his design education in Italy, shifting from raw hoodies to structured suiting. The brand emphasizes luxury leather goods, highlighted by the hero Cenova and Streamer bags, alongside heavyweight outerwear and treated denim. Cenat also wove subtle nods to his Haitian heritage and carnival traditions into specific garments. Select pieces from the debut are currently a"
+    },
+    {
+      "id": "c0e75474da5d25ec",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Glenn Martens Is Leaving Diesel",
+      "url": "https://hypebeast.com/2026/9/glenn-martens-is-leaving-diesel",
+      "publishedAt": "2026-09-18T17:22:03.000Z",
+      "collectedAt": "2026-09-19T15:41:24.081Z",
+      "text": "Glenn Martens Is Leaving Diesel SummaryGlenn Martens is stepping down as Diesel’s Creative Director after his SS27 Milan show, ending a transformative six-year tenure.Martens will remain creative head of Maison Margiela under parent company OTB Group; no replacement for Diesel is announced yet.Glenn Martens’ six-year run as Creative Director of Italian denim label Diesel will conclude after his SS27 runway presentation, scheduled for September 22 at Milan Fashion Week. The news brings to a close a fruitful tenure from Martens, which injected the 1978-born brand with renewed vitality.Formerly known for Y/Project until 2024, Martens joined Diesel in 2020, updating the brand’s appeal for a new generation of shoppers with his cutting-edge aesthetic and inventive approach. Diesel founder and OTB Chairman Renzo Rosso said that Martens “brought Diesel back to the centre of the global fashion conversation while preserving the openness, energy and accessibility that have always distinguished us,” in an official statement. \"We are deeply grateful for everything he has achieved,\" he continued.Announced by the Diesel owner this Friday, OTB Group was sure to note that Martens won't be leaving the conglomerate entirely, confirming that he would remain the creative head of Maison Margiela. Martens took up the highly-regarded role, formerly held by John Galliano, in 2025 and received consistent praise for his continued commitment to Margiela's creative ethos. As of the time of writing, Diesel has not announced an official replacement for Martens. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6c9b1cdda4f714fc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘House of Kong’: An Illustrated History of Gorillaz",
+      "url": "https://hypebeast.com/2026/9/gorillaz-house-of-kong-art-illustrated-history-nyc-exhibition",
+      "publishedAt": "2026-09-18T16:51:17.000Z",
+      "collectedAt": "2026-09-19T15:41:24.082Z",
+      "text": "‘House of Kong’: An Illustrated History of Gorillaz “If you want something done right, do it yourself.” Perhaps the saying ran through the minds of Damon Albarn and Jamie Hewlett in their shared London flat back in the ’90s. Blur frontman Albarn and Hewlett, the Tank Girl comic illustrator, had become bored with the era’s celebrity artifice, and sought to double down with a group — half art, half music — the industry had yet to witness. In came Gorillaz, the world’s first virtual band.25 years later, the Gorillaz universe keeps getting richer. On the occasion of their now ninth studio album, The Mountain, an immersive exhibition dedicated to the band’s misadventures has landed in New York City. House of Kong has settled into Brooklyn’s Agger Fish Building quite nicely, with a month-long run culminating in its Madison Square Garden show on September 29.Set inside Kong Studios — Gorillaz’ HQ on a sleepy Essex hilltop — the hour-long experience tours the history of artwork, music, artifacts, and mythology behind bassist Murdoc Niccals, singer 2D, drummer Russel Hobbs, and guitarist Noodle. We don’t want to give too much away (though if you’re looking for Lucian Freud’s Francis Bacon painting someone stole in 1988, 2D is a prime culprit). This is all to say, the lore runs deep.&nbsp;View this post on Instagram&nbsp;A post shared by HYPEBEAST (@hypebeast)Gorillaz has left a pretty serious footprint on culture, netting countless chart-toppers, hundreds of shows, awards, and a Guinness World Record. But music is only half the story. Beyond a starry coterie of collaborators and features, or a knack for genre-bending, Gorillaz has gone on to inspire a new generation of animators chasing that punkish rush that first put them on the map and the appetite for invention that kept them there.House of Kong is the first IRL experience dedicated to the band’s full visual legacy, and includes entire galleries of early concepts, scrapped characters, and unreleased videos through the years. The exhibition is less of a retrospective than “an installation that takes a glance backwards in order to identify the path ahead,” as creative director Stephen Gallagher, and both co-founders, made clear earlier this year. Even so, consider this our excuse to revisit the good ole (demon) days with an illustrated history of the Gorillaz’ many eras.Phase One: Celebrity Take Down (1998-2002)The OG Gorillaz character designs, off the bat, claimed roots in counterculture comics tradition. Thick"
+    },
+    {
+      "id": "38c1efc909d6dfd7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jose Alvarado Brought Brooklyn Energy Front-Row to the LUAR x Lunazul Tequila Debut at NYFW",
+      "url": "https://hypebeast.com/2026/9/jose-alvarado-front-row-luar-lunazul-nyfw",
+      "publishedAt": "2026-09-18T15:58:03.000Z",
+      "collectedAt": "2026-09-19T15:41:24.082Z",
+      "text": "Jose Alvarado Brought Brooklyn Energy Front-Row to the LUAR x Lunazul Tequila Debut at NYFW New York Fashion Week always serves as a melting pot for high fashion, street style, and pop culture, but designer Raul Lopez’s LUAR Spring/Summer 2027 presentation stood out as a true cultural collision. View this post on InstagramA post shared by HYPEBEAST (@hypebeast) Set against the iconic backdrop of the Unisphere in Queens, LUAR unveiled its latest collection, “Christopher Street Columbus”, alongside a ground-breaking collaboration with Lunazul Tequila. Sitting front-row to witness the spectacle was NBA point guard and Brooklyn native Jose Alvarado, whose presence bridged the distinct worlds of New York basketball and cutting-edge fashion.The headline-grabbing aspect of the runway show was the reveal of the highly limited LUAR x Lunazul Tequila capsule. The collaboration centers on an innovative, plant-based vegan agave leather crafted from the very plant used in Lunazul’s tequila-making process. Inspired by ’90s New York hip-hop culture and the shared nocturnal muse of both brands—“Luar” meaning moonlight in Galician/Portuguese and “Lunazul” translating to blue moon in Spanish—the capsule features items like a dark denim two-piece set and an agave leather basketball-shaped handbag finished in Lunazul’s signature blue.What made Jose Alvarado’s appearance so significant was how seamlessly his identity aligns with the core identity of LUAR and the spirit of the collection. As a proud New York native whose game is built on heart, relentless hustle, and local pride, Alvarado embodies the authentic, everyday grit of the city that Lopez consistently designs for. Seeing a local basketball star take center stage at a major fashion presentation highlighted how deeply intertwined NYC hoop culture, urban street style, and high-fashion runways have become.Alvarado’s presence also highlighted the cultural resonance of the LUAR x Lunazul partnership itself. Both LUAR and Lunazul draw heavily on meticulous craftsmanship and community rituals. Having an athlete who carries that same dedicated work ethic on the court sitting front-row reinforced the campaign’s message: celebrating raw, authentic talent that stays grounded in its roots while reaching new creative heights.Ultimately, Alvarado attending the show encapsulated a powerful moment of New York excellence. By supporting a collection that transforms traditional materials into sustainable runway art while honoring Latino "
     }
   ]
 }
