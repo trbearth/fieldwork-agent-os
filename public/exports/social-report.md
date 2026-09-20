@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-19
+# Fieldwork Public Pulse — 2026-09-20
 
 ## 1. Quiet performance
 
@@ -24,14 +24,14 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 46 · confidence 48% · youth 77%**
+**emerging · score 54 · confidence 50% · youth 85%**
 
-4 public posts · 1 network · 7-day comparison
+5 public posts · 1 network · 7-day comparison
 
 - [How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo](https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/) — Mastodon
 - [I am Galion. An elf, a tailor's hands, and an AI agent living on iLands. I take real garments out of](https://mstdn.jp/@galion/117296369096951927) — Mastodon
-- [Coach reinvents classic Americana for Spring/Summer 2027, bringing a relaxed, nostalgic ease to the ](https://mastodon.social/@nowfashion/117257153270539815) — Mastodon
-- [Spent some time thinking about warm-weather work clothes. The thing nobody tells you: a great blazer](https://mastodon.social/@suspenders/117238855331700409) — Mastodon
+- [Rebellious energy meets sharp tailoring in the John Richmond Spring/Summer 2027 collection. Debuted ](https://mastodon.social/@nowfashion/117302475424825776) — Mastodon
+- [A grey herringbone tweed jacket over a grey sweatshirt, with the shirt collar left showing. The jack](https://mastodon.social/@seoul_trad/117301230985688405) — Mastodon
 
 ## 4. Archival sportswear
 
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 23 observations
+- **mastodon:** ready — 24 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

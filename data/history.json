@@ -2015,6 +2015,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-20",
+      "mode": "live",
+      "displayDate": "SEP 20, 2026, 11:46 AM EDT",
+      "generatedAt": "2026-09-20T15:46:46.880Z",
+      "itemsCollected": 44,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 7
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 31,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -30848,6 +30890,490 @@
       "publishedAt": "2026-09-18T15:58:03.000Z",
       "collectedAt": "2026-09-19T15:41:24.082Z",
       "text": "Jose Alvarado Brought Brooklyn Energy Front-Row to the LUAR x Lunazul Tequila Debut at NYFW New York Fashion Week always serves as a melting pot for high fashion, street style, and pop culture, but designer Raul Lopez’s LUAR Spring/Summer 2027 presentation stood out as a true cultural collision. View this post on InstagramA post shared by HYPEBEAST (@hypebeast) Set against the iconic backdrop of the Unisphere in Queens, LUAR unveiled its latest collection, “Christopher Street Columbus”, alongside a ground-breaking collaboration with Lunazul Tequila. Sitting front-row to witness the spectacle was NBA point guard and Brooklyn native Jose Alvarado, whose presence bridged the distinct worlds of New York basketball and cutting-edge fashion.The headline-grabbing aspect of the runway show was the reveal of the highly limited LUAR x Lunazul Tequila capsule. The collaboration centers on an innovative, plant-based vegan agave leather crafted from the very plant used in Lunazul’s tequila-making process. Inspired by ’90s New York hip-hop culture and the shared nocturnal muse of both brands—“Luar” meaning moonlight in Galician/Portuguese and “Lunazul” translating to blue moon in Spanish—the capsule features items like a dark denim two-piece set and an agave leather basketball-shaped handbag finished in Lunazul’s signature blue.What made Jose Alvarado’s appearance so significant was how seamlessly his identity aligns with the core identity of LUAR and the spirit of the collection. As a proud New York native whose game is built on heart, relentless hustle, and local pride, Alvarado embodies the authentic, everyday grit of the city that Lopez consistently designs for. Seeing a local basketball star take center stage at a major fashion presentation highlighted how deeply intertwined NYC hoop culture, urban street style, and high-fashion runways have become.Alvarado’s presence also highlighted the cultural resonance of the LUAR x Lunazul partnership itself. Both LUAR and Lunazul draw heavily on meticulous craftsmanship and community rituals. Having an athlete who carries that same dedicated work ethic on the court sitting front-row reinforced the campaign’s message: celebrating raw, authentic talent that stays grounded in its roots while reaching new creative heights.Ultimately, Alvarado attending the show encapsulated a powerful moment of New York excellence. By supporting a collection that transforms traditional materials into sustainable runway art while honoring Latino "
+    },
+    {
+      "id": "4cca7388bf198f36",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Charlie Constantinou Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/charlie-constantinou",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.744Z",
+      "text": "Charlie Constantinou Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "d5479a1e2b6fd2a7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Embraced Archival Gems",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-bella-hadid-kaia-gerber-cynthia-erivo",
+      "publishedAt": "2026-09-20T15:21:44.000Z",
+      "collectedAt": "2026-09-20T15:46:42.744Z",
+      "text": "The Best Dressed Stars of the Week Embraced Archival Gems There was a fabulous presence of vintage designs this week, from Bella Hadid in Ralph Lauren to Kim Kardashian’s Saint Laurent by Tom Ford moment care of Law Roach."
+    },
+    {
+      "id": "98d750f6b632b60a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mulberry Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mulberry",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Mulberry Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "7cc4429c4f1acb77",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Perfect Fit: Kim Kardashian Celebrates Skims’s First International Flagship in London",
+      "url": "https://www.vogue.com/slideshow/kim-kardashian-celebrates-skims-first-international-flagship-london",
+      "publishedAt": "2026-09-20T13:34:53.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Perfect Fit: Kim Kardashian Celebrates Skims’s First International Flagship in London London came calling, and Central Cee, Troye Sivan, and Kim Petras joined in on the fun amid fashion week."
+    },
+    {
+      "id": "3042adad1722a49c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Labrum London Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/labrum-london",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Labrum London Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "2ef65921252e8af1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Blauer Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/blauer",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Blauer Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "4a8e84fd4467e796",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kim Kardashian and Lewis Hamilton Have Found Their Loved-up Couple Style Rhythm",
+      "url": "https://www.vogue.com/article/kim-kardashian-and-lewis-hamilton-lucas-museum",
+      "publishedAt": "2026-09-20T12:46:00.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Kim Kardashian and Lewis Hamilton Have Found Their Loved-up Couple Style Rhythm From Lake Como to London, the couple quickly found their style sensibilities overlap often. An appearance at the Lucas Museum proved it’s red carpet-worthy."
+    },
+    {
+      "id": "daaa6b5d646ba1ec",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hailey Bieber Debuts Her Darkest Hair Shade in Years",
+      "url": "https://www.vogue.com/article/hailey-bieber-debuts-dark-hair",
+      "publishedAt": "2026-09-20T12:14:57.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Hailey Bieber Debuts Her Darkest Hair Shade in Years Fall is basically here, and with it, a major seasonal switch-up for Hailey Bieber."
+    },
+    {
+      "id": "8d50056b52ecfa41",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Archives: Inside Stefano Gabbana and Domenico Dolce’s Glamorous Milan Apartment",
+      "url": "https://www.vogue.com/article/from-the-archives-animal-magnetism",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "From the Archives: Inside Stefano Gabbana and Domenico Dolce’s Glamorous Milan Apartment In a Milan triplex, Stefano Gabbana and Domenico Dolce have created an environment as glamorous—and leopard-laden—as their fashion. Hamish Bowles drops in on their dolce vita."
+    },
+    {
+      "id": "f5d837797c74e652",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Erdem Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/erdem",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Erdem Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "0fa0d891b14f3c3f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Healthiest Way to Drink Your Coffee, According to a Nutritionist",
+      "url": "https://www.vogue.com/article/healthiest-coffee",
+      "publishedAt": "2026-09-20T11:30:00.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "The Healthiest Way to Drink Your Coffee, According to a Nutritionist Coffee can spike cortisol, irritate your stomach and more—but it's also packed with antioxidants. So, is there the best way to drink it?"
+    },
+    {
+      "id": "5cb814a6baa6d10f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Edeline Lee Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/edeline-lee",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Edeline Lee Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "5abe9a3ed25f8e92",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Yaku Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yaku",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Yaku Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "abddeaa3b6c8b544",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What to Pack for a Weekend Getaway, According to a Vogue Editor",
+      "url": "https://www.vogue.com/article/what-to-pack-for-a-weekend-getaway",
+      "publishedAt": "2026-09-20T10:00:00.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "What to Pack for a Weekend Getaway, According to a Vogue Editor Planning a weekend getaway? From cozy loungewear to easy layers, here's what to include in your duffel for a seamless trip."
+    },
+    {
+      "id": "f673e00a2326fb44",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Simone Rocha Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/simone-rocha",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Simone Rocha Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "7204addbe87f0d34",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 25 Best Fall Movies to Watch This Season",
+      "url": "https://www.vogue.com/article/best-fall-movies",
+      "publishedAt": "2026-09-20T05:44:07.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "The 25 Best Fall Movies to Watch This Season While some mark the season with apple picking and hot cider, others prefer to spend fall exactly as we spent summer: parked on the couch, watching movies."
+    },
+    {
+      "id": "d2361691d7b73b73",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "New York City’s Fall Exhibition Calendar Is Reaching Peak Girlhood",
+      "url": "https://www.vogue.com/article/new-york-city-fall-2026-exhibition-calendar-peak-girlhood",
+      "publishedAt": "2026-09-20T05:08:47.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "New York City’s Fall Exhibition Calendar Is Reaching Peak Girlhood Discover here six must-see shows grounded in scholarship on female practices and pursuits."
+    },
+    {
+      "id": "d449d2a51df5808b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Phil Oh’s Best Street Style Photos From the Spring 2027 Shows in London",
+      "url": "https://www.vogue.com/slideshow/phil-ohs-best-street-style-photos-from-the-spring-2027-shows-in-london",
+      "publishedAt": "2026-09-20T00:58:12.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Phil Oh’s Best Street Style Photos From the Spring 2027 Shows in London Phil Oh captures the best dressed guests at the spring 2027 shows in London."
+    },
+    {
+      "id": "0f331c92bc4929fb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Steve O Smith Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/steve-o-smith",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Steve O Smith Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "8b0a4261d5c5f00c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-september-19",
+      "publishedAt": "2026-09-19T23:22:16.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From fashion week to the last gasps of summer, this week, the best beauty looks played with glamour at both ends of the spectrum."
+    },
+    {
+      "id": "49dc71c3dabed0c6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Chopova Lowena Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chopova-lowena",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Chopova Lowena Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "4587085d88911760",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Yuhan Wang Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yuhan-wang",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Yuhan Wang Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "51711f503b01ddbf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant",
+      "url": "https://www.vogue.com/article/frederic-arnault-inaugurates-loro-pianas-new-knitwear-plant",
+      "publishedAt": "2026-09-19T18:07:24.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Frédéric Arnault Inaugurates Loro Piana’s New Knitwear Plant Vertical integration is part of a broader strategy pursued by Bernard Arnault’s son and Loro Piana’s CEO, as he seeks healthy growth and high quality."
+    },
+    {
+      "id": "54841340070f73f1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Richard Quinn Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/richard-quinn",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.745Z",
+      "text": "Richard Quinn Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "be543a12f84400ea",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At Richard Christiansen’s Flamingo Estate, Pleasure Is a Verb—and It’s Been Put to Paper",
+      "url": "https://www.vogue.com/article/richard-christiansen-pleasure-principles-book-interview",
+      "publishedAt": "2026-09-19T17:30:00.000Z",
+      "collectedAt": "2026-09-20T15:46:42.746Z",
+      "text": "At Richard Christiansen’s Flamingo Estate, Pleasure Is a Verb—and It’s Been Put to Paper “Pleasure Principles” is an almanac by Richard Christiansen that makes the case for a life lived seasonally and sensorially."
+    },
+    {
+      "id": "c4469b455f830b28",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Talia Byre Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/talia-byre",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.746Z",
+      "text": "Talia Byre Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "21ce22c8a5b42771",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Knwls Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/charlotte-knowles",
+      "publishedAt": "2026-09-20T15:42:33.000Z",
+      "collectedAt": "2026-09-20T15:46:42.746Z",
+      "text": "Knwls Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "100c843c81e52b56",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 10 Best Films at the 2026 Toronto International Film Festival, According to Vogue",
+      "url": "https://www.vogue.com/article/vogues-10-favorite-movies-from-the-2026-toronto-international-film-festival",
+      "publishedAt": "2026-09-19T16:00:00.000Z",
+      "collectedAt": "2026-09-20T15:46:42.746Z",
+      "text": "The 10 Best Films at the 2026 Toronto International Film Festival, According to Vogue These features are sure to dominate awards season."
+    },
+    {
+      "id": "e1af515e5bd188e8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This GR Samba Is Wales Bonner-Coded",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-og-aurora-coffee/",
+      "publishedAt": "2026-09-20T12:46:02.000Z",
+      "collectedAt": "2026-09-20T15:46:44.077Z",
+      "text": "This GR Samba Is Wales Bonner-Coded Returning to the pure, unaltered 1950s indoor football blueprint, the Three Stripes delivers the adidas Samba OG Aurora Coffee/Off White."
+    },
+    {
+      "id": "cfe1f276e600a5cb",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike and Kallmeyer Turned a Tennis Shoe Into an Everyday Essential",
+      "url": "https://www.highsnobiety.com/p/nike-tennis-centre-x-kallmeyer-travertine/",
+      "publishedAt": "2026-09-20T10:43:00.000Z",
+      "collectedAt": "2026-09-20T15:46:44.077Z",
+      "text": "Nike and Kallmeyer Turned a Tennis Shoe Into an Everyday Essential Nike and Kallmeyer rework the Tennis Centre with a fashion-forward take on the classic tennis sneaker, designed for life beyond the court."
+    },
+    {
+      "id": "05611797c3639336",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Bread&&Butter Brought Fashion and Culture to 2010's Berlin",
+      "url": "https://www.highsnobiety.com/p/breadandandbutter-brought-fashion-and-culture-to-2010s-berlin/",
+      "publishedAt": "2026-09-20T10:01:59.000Z",
+      "collectedAt": "2026-09-20T15:46:44.077Z",
+      "text": "Bread&&Butter Brought Fashion and Culture to 2010's Berlin Zalando brought fashion, music, art, and culture together under one massive roof in a Berlin warehouse for their Bread&&Butter Festival. It was the ultimate Berlin 2010s event."
+    },
+    {
+      "id": "81ec5e78f1c2d13b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance's All-Black 991 Is Surprisingly Colorful",
+      "url": "https://www.highsnobiety.com/p/bleue-burnham-new-balance-991-sneaker/",
+      "publishedAt": "2026-09-20T06:10:00.000Z",
+      "collectedAt": "2026-09-20T15:46:44.077Z",
+      "text": "New Balance's All-Black 991 Is Surprisingly Colorful Bleue Burnham's blacked-out New Balance 991 sneaker still has quite a bit of color."
+    },
+    {
+      "id": "7d2a8ef40eb0d5c8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Running Sneaker Has No Business Looking This Fast",
+      "url": "https://www.highsnobiety.com/p/nike-structure-plus-sp/",
+      "publishedAt": "2026-09-20T06:17:49.000Z",
+      "collectedAt": "2026-09-20T15:46:44.077Z",
+      "text": "Nike’s Running Sneaker Has No Business Looking This Fast Nike’s Structure Plus SP brings serious performance energy to a fashion-friendly running sneaker, with ZoomX and ReactX cushioning."
+    },
+    {
+      "id": "4831ac7fb699d256",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Stella McCartney's Latest adidas Runner Is a Fluffy Winter Wonder",
+      "url": "https://www.highsnobiety.com/p/adidas-stella-mccartney-76-teddy-grey/",
+      "publishedAt": "2026-09-19T20:22:00.000Z",
+      "collectedAt": "2026-09-20T15:46:44.077Z",
+      "text": "Stella McCartney's Latest adidas Runner Is a Fluffy Winter Wonder Channeling the spirit of the 1976 Montreal Olympics through a contemporary lens, the ongoing collaboration unveils the adidas by Stella McCartney Sportswear 76."
+    },
+    {
+      "id": "eb5c85c5fcc3204f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Oogie Boogie Just Got His Own Nike Court Shoe",
+      "url": "https://www.highsnobiety.com/p/nike-book-2-halloween-2026/",
+      "publishedAt": "2026-09-20T06:15:57.000Z",
+      "collectedAt": "2026-09-20T15:46:44.077Z",
+      "text": "Oogie Boogie Just Got His Own Nike Court Shoe For the autumn basketball season, Phoenix’s star guard gets his second signature shoe prepped for the holidays with the Nike Book 2 Halloween."
+    },
+    {
+      "id": "a2c741258812ef5a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: District Vision",
+      "url": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-district-vision-3",
+      "publishedAt": "2026-09-20T14:04:28.000Z",
+      "collectedAt": "2026-09-20T15:46:45.612Z",
+      "text": "New Arrivals From HBX: District Vision Brand Information: Founded in 2016 by Tom Daly and Max Vallot, District Vision produces athletes-endorsed eyewear, accessories, and apparel. Research and development are at its core geared with performance-enhancing and highly functional elements to boost your workouts and adventures in the great outdoors. Explore our curated selection of eyewear, thermal fleece shells, and track shorts here on HBX.Price Range: $60.00 USD - $595.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "205cf96e775fbd84",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "10 Anime Releases To Look Out for in Fall 2026",
+      "url": "https://hypebeast.com/2026/9/10-anime-releases-to-look-out-for-in-fall-2026",
+      "publishedAt": "2026-09-20T09:28:55.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "10 Anime Releases To Look Out for in Fall 2026 Fall 2026 is shaping up to be particularly heavy on returning favorites, with several major franchises picking up long-running stories after years away from television. Black Clover is finally resuming its anime adaptation more than five years after its original 170-episode run concluded, while Tokyo Revengers, The Apothecary Diaries and Blue Box are all moving directly into consequential new chapters of their respective stories.But this season is not solely built around conventional sequels. Dragon Ball Super: Beerus is extensively rebuilding familiar material rather than simply revisiting it; Studio TRIGGER is returning to Night City with an entirely new cast for Cyberpunk: Edgerunners 2 and CloverWorks’ GROTESQQQUE is approaching the anthology format through three sharply different original stories. Rounding out the slate is Fool Night, an adaptation pairing SUNRISE and SHAFT for the first time. Below are 10 anime releases to keep an eye on throughout Fall 2026.STEEL BALL RUN JoJo’s Bizarre Adventure 2nd StageRelease Date: September, 25, 2026Following the feature-length 47-minute opening chapter released in March, STEEL BALL RUN JoJo’s Bizarre Adventure shifts into its weekly run with 2nd STAGE. The adaptation follows former jockey Johnny Joestar and the mysterious Gyro Zeppeli as they compete in an approximately 750-mile horse race across the American frontier, with the journey increasingly revealing the supernatural forces and political interests surrounding the competition. New characters will be introduced for the 2nd STAGE, including Mountain Tim, Hot Pants and United States President Funny Valentine.Longtime JoJo studio David Production remains behind the anime, with Yasuhiro Kimura and Hideya Takahashi directing alongside series director Toshiyuki Kato and series composition by Yasuko Kobayashi. Yugo Kanno also returns to score the series, having composed its main theme “Dance with STEEL BALL RUN.” The 11-episode 2nd STAGE will stream weekly on Fridays via Netflix, giving Part 7 considerably more room to unfold after its cinematic opening installment.The Apothecary Diaries Season 3Release Date: October, 2, 2026The Apothecary Diaries returns for a third season with Maomao once again finding herself caught between medical mysteries and the increasingly complicated politics of the imperial court. Adapted from Natsu Hyuuga’s light novel series, Season 3 expands the story beyond the palace as problems inv"
+    },
+    {
+      "id": "4348f7b07ce3a693",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Awake NY Celebrates New York Street Style With FW26 “Cold World”",
+      "url": "https://hypebeast.com/2026/9/awake-ny-fall-winter-2026-collection-lookbook-release-info",
+      "publishedAt": "2026-09-20T07:58:12.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "Awake NY Celebrates New York Street Style With FW26 “Cold World” Summary Awake NY’s FW26 “Cold World” celebrates the style and visual language of New York.Layered staples include tracksuits, faux fur, camo and football jerseys.Vanson Leathers returns for collaborative skeleton jackets; wider availability begins September 26. Awake NY is turning its attention back to its home city for Fall/Winter 2026 with “Cold World,” a collection conceived as a tribute to New York and the distinctive style shaped by its streets. Drawing from the city’s recognizable colors, graphics and everyday visual language, the range channels the individuality that defines New York dressing while placing a particular emphasis on cold-weather layering.The seasonal lineup spans elevated tracksuits, heavyweight hoodies, athletic football jerseys, textured knitwear and statement faux fur outerwear designed to be effortlessly styled together. Spotlighted styles range from track jackets emblazoned with Awake NY's emblematic star motif, tricolor zip-up hooded jacket composed of three different camo prints, as well as the brand's newest iteration of skeleton leather jackets crafted in collaboration with Vanson Leathers.The first drop of the FW26 collection is now available to shop at the brand’s NYC flagship store, with wider availability through its official website starting September 26, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6d815759d46bb528",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NN.07 and Fracap Reunite for a Third M127 Boot Collaboration",
+      "url": "https://hypebeast.com/2026/9/nn-07-fracap-third-collaboration-m127-boots-release-info",
+      "publishedAt": "2026-09-20T06:15:20.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "NN.07 and Fracap Reunite for a Third M127 Boot Collaboration Name: NN.07 x Fracap M127 BootsMSRP: $450 USDRelease Date: September 24Where to Buy: NN.07NN.07 has teamed up with Fracap for their third collaborative footwear release. Built on heavy-duty Vibram soles for optimal grip, the rugged M127 boot silhouette preserves essential mountain features - including durable stitching, robust lacing systems, and weather-ready construction - while refining the upper with clean lines and pared-back proportions cut with the restraint of a tailored shoe. The result is a versatile boot that navigates switchbacks and city sidewalks with equal ease.Three material treatments give the same construction distinct qualities. Brown Leather draws most directly from Fracap’s archive, with the press release describing its finish as worn-in and honest, emphasizing the boot’s traditional alpine character. Black Leather recasts the silhouette in a darker, cleaner treatment intended to feel more at home in the city, allowing the shape and hardware to read more sharply against the monochromatic upper.The most textural option, Dark Grey Ponyhair, replaces smooth leather with a tactile, visibly directional surface; its charcoal-grey tone keeps the palette understated while the unexpected material pushes the rugged form toward a more fashion-led finish. The third NN.07 x Fracap M127 boots will launch on September 24 via NN07.com and select retailers worldwide. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "15955a1e609118fa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Pokémon Horizons: Season 3 — Rising Hope’ Part 4 Lands on Netflix in the US",
+      "url": "https://hypebeast.com/2026/9/pokemon-horizons-season-3-rising-hope-part-4-netflix-us-release-info",
+      "publishedAt": "2026-09-20T04:48:44.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "‘Pokémon Horizons: Season 3 — Rising Hope’ Part 4 Lands on Netflix in the US Summary Pokémon Horizons: Season 3 — Rising Hope Part 4 is now streaming on Netflix in the US.Liko, Roy, Dot and Ult reunite for a climactic battle against the Explorers.The latest episodes bring Season 3’s Laqua storyline toward its conclusion. Pokémon Horizons: Season 3 — Rising Hope has reached its climactic fourth part, with the latest batch of episodes now streaming on Netflix in the U.S. Following their journey throughout the season, Liko, Roy, Dot and Ult reunite with allies they have encountered along the way as the Rising Volt Tacklers prepare for a decisive confrontation with the Explorers. With Laqua - and potentially the wider world - at stake, the group draws on Terastallization, Mega Evolution and newly learned moves as their Pokémon and the bonds they share are pushed to their limits. The accompanying trailer sets up the showdown as the culmination of the season’s escalating conflict, bringing its central characters and Pokémon together for an all-out battle against the Explorers.Rising Hope picks up a year after the events at Laqua, continuing the wider Pokémon Horizons story that introduced Liko and Roy as the Pokémon anime’s new central protagonists following Ash Ketchum’s long-running tenure. Season 3 finds the pair reconnecting with Dot and newcomer Ult while rebuilding the Rising Volt Tacklers and investigating new threats to Pokémon across the regions. Part 4 serves as the final collection of episodes for the season, bringing its ongoing Laqua storyline toward a conclusion while continuing the series’ emphasis on friendship, exploration and the evolving relationships between Trainers and Pokémon. Pokémon Horizons: Season 3 — Rising Hope Part 4 is now released on Netflix in the U.S., with Seasons 1 and 2 and the first three parts of Season 3 also available to stream. Read more at Hypebeast"
+    },
+    {
+      "id": "d84139b61f0c2321",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Marine Serre and Chaisor Rework the French Folding Chair With Signature Crescent Moon Motifs",
+      "url": "https://hypebeast.com/2026/9/marine-serre-chaisor-chair-furniture-collaboration-info",
+      "publishedAt": "2026-09-20T04:00:35.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "Marine Serre and Chaisor Rework the French Folding Chair With Signature Crescent Moon Motifs Summary Marine Serre and Chaisor reinterpret a heritage French folding chair with the house’s signature Moon motif.Three editions pair gold-toned steel frames with Tan, Inverse Tan and Denim upholstery.Handmade in France, the limited chairs retail from $660 USD. Marine Serre has stepped into furniture with a limited-edition collaboration with French folding-chair specialist Chaisor, translating the fashion house’s signature All-Over Moon motif onto one of the manufacturer’s heritage silhouettes. Founded in 1962, Chaisor is known for its distinctly ceremonial folding chairs, and the collaboration preserves that recognizable structure while recasting it through Marine Serre’s visual language.Designed by Leo Jouk, the chair combines a curved backrest inspired by Napoleon III furniture with Chaisor’s signature Saint Andrew’s cross leg construction, engineered for added stability and durability. A gold epoxy-finished steel frame supports padded seating and a 35 mm high-resilience foam backrest, both wrapped in Moon-patterned textiles. Three serial-numbered editions - Tan, Inverse Tan and Denim, corresponding to Moon Black on Tan, Moon Tan on Black and Moon Laser Denim Blue - shift the piece between warm neutral contrasts and a washed blue treatment, turning an otherwise practical folding object into something more graphic and collectible.The familiar repeating crescent motif remains the defining element, but here it is applied to an object rooted in French furniture tradition, reinforcing both brands’ shared emphasis on craftsmanship, longevity and cultural continuity. Each chair is handmade in France, retaining Chaisor’s foldable functionality while bringing a more fashion-led surface treatment to the historic form; the Denim edition uses cotton upholstery, while the Tan variants use Moon-printed technical fabric. The Marine Serre x Chaisor chairs are available through Marine Serre’s online store, priced at $660 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "531f3e77861bd75f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "An Official Look at the Complete Harris Tweed X Vans Premium Collection",
+      "url": "https://hypebeast.com/2026/9/harris-tweed-vans-premium-slip-on-tweed-red-blue-vn000e96bjn-premium-loafer-53-tweed-brown-vn000y8mcyl-premium-old-skool-36-tweed-navy-blue-vn000e8vbip-release-info",
+      "publishedAt": "2026-09-20T02:00:49.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "An Official Look at the Complete Harris Tweed X Vans Premium Collection Name: Harris Tweed x Vans Premium CollectionMSRP: $120 - $140 USDRelease Date: September 24Where to Buy: VansHarris Tweed and Vans extend their partnership into a three-model Vans Premium collection, applying the Scottish textile maker’s handwoven wool to the Old Skool 36, Classic Slip-On 98 and Loafer 53. The capsule builds on the Old Skool first previewed earlier this summer, where a blue-toned plaid upper with lilac, green and brown undertones was paired with deep navy overlays, a crystal-studded Sidestripe and jewelry-like spikes, stones and pins.Across the wider range, Harris Tweed’s coarse, dimensional texture is deliberately contrasted with Vans’ vulcanized construction and glossy sidewalls, while subtle greasing and distressed finishes give the shoes a lightly aged character rather than a pristine dress-shoe treatment.The Premium Classic Slip-On 98 places particular emphasis on the fabric, covering Vans’ laceless silhouette in a \"Tweed Red/Blue\" look. This iteration works through a warm, earthy check punctuated by cooler blue notes, with the irregular wool weave lending the surface a richer, almost archival appearance. Jewels, pins and studs interrupt the traditional textile with flashes of metallic shine, while contrast stitching and a lightly greased finish heighten its worn-in quality.The Premium Loafer 53 takes the concept in a more formal direction, translating Harris Tweed into Vans’ skate-informed penny-loafer shape. Rendered in a \"Tweed Brown\" palette, the silhouette emphasizes a muted, autumnal finish, with fuzzy woven wool and smoother leather elements set against a dark vulcanized sole for a mix of traditional tailoring and subcultural styling. Studs decorate the tongue, while removable metal charms, including safety-pin and jewel-like accents, introduce the same rebellious ornamentation seen elsewhere in the collection; subtle greasing again adds a gently weathered effect. The Loafer 53 is finished with a padded collar, gloss sidewall, waffle outsole and Sola Foam ADC insole. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fbdbca4278683f79",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Human Made",
+      "url": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-human-made-10",
+      "publishedAt": "2026-09-20T01:30:36.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "New Arrivals From HBX: Human Made Brand Information: In 2010, Japanese DJ and fashion designer NIGO® launched “HUMAN MADE” in partnership with Pharrell Williams. A lifestyle brand based on the concept of “The Future is in the Past,” HUMAN MADE products combine the best of vintage and street culture with excellent craftsmanship and unique graphics. Based on a casual American style, the brand has a wide range of tastes including workwear, military, sports, outdoor, and classic. Combined with a variety of streetwear, HUMAN MADE definitely has something tailor-made for you.Price Range: $15.00 USD - $805.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "97ab9e3582bc6323",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Balance Swaps Leather for Suede and Nubuck on the 990v4 Made in USA \"Navy/Meteorite\"",
+      "url": "https://hypebeast.com/2026/9/new-balance-990v4-made-in-usa-navy-meteorite-u990bg4-release-info",
+      "publishedAt": "2026-09-19T10:00:10.000Z",
+      "collectedAt": "2026-09-20T15:46:45.613Z",
+      "text": "New Balance Swaps Leather for Suede and Nubuck on the 990v4 Made in USA \"Navy/Meteorite\" Summary New Balance is introducing a dark \"Navy/Meteorite\" colorway to its Made in USA 990v4 seriesThe updated design replaces traditional soft suede with a durable leather and nubuck constructionThe pair is scheduled to release on September 24 2026 for a retail price of $195 USD Name: New Balance 990v4 Made in USA \"Navy/Meteorite\"Colorway: NB Navy/Meteorite-KombuSKU: U990BG4MSRP: $195 USDRelease Date: September 24, 2026Where to Buy: New BalanceNew Balance has officially revealed the upcoming New Balance 990v4 Made in USA \"Navy/Meteorite\". The seasonal release trades in the brand's traditional soft suede for a darker leather and nubuck build tailored for fall.Diverging from standard 990v4 releases, this iteration incorporates a sturdy leather and nubuck construction across the upper. Rendered primarily in New Balance Navy, the deep blue hue spans the underlying mesh base, structural paneling, and midsole unit.Subtle contrast arrives in the form of \"Meteorite\" dark green underlays beneath the upper, introducing tonal depth without straying from the pair's monochromatic aesthetic. The material refresh reflects New Balance's ongoing seasonal adjustments within its premium Made in USA catalog for the colder months.The New Balance 990v4 Made in USA \"Navy/Meteorite\" releases on September 24, 2026, for $195 USD via New Balance and select global retailers. Click here to view full gallery at Hypebeast"
     }
   ]
 }

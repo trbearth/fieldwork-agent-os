@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-09-19
+# Fieldwork Daily Signal — 2026-09-20
 
 Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
