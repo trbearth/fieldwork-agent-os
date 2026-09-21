@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-09-20",
+    "id": "2026-09-21",
     "mode": "live",
-    "displayDate": "SEP 20, 2026, 11:46 AM EDT",
-    "generatedAt": "2026-09-20T15:46:46.880Z",
-    "itemsCollected": 44,
+    "displayDate": "SEP 21, 2026, 02:05 PM EDT",
+    "generatedAt": "2026-09-21T18:05:06.539Z",
+    "itemsCollected": 53,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 7
+        "count": 6
       },
       {
         "source": "Hypebeast",
@@ -47,26 +47,6 @@
       ]
     },
     {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 31,
-      "confidence": 27,
-      "youthRelevance": 49,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · -33% seven-day velocity",
-      "citations": [
-        {
-          "title": "Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot",
-          "source": "Hypebeast",
-          "date": "Sep 16",
-          "url": "https://hypebeast.com/2026/9/timberland-kohjiya-waterproof-field-boots-release-info"
-        }
-      ]
-    },
-    {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
@@ -85,18 +65,38 @@
           "url": "https://hypebeast.com/2026/9/yutori-9090-adidas-originals-track-jacket-collaboration-release-info"
         }
       ]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 25,
+      "confidence": 23,
+      "youthRelevance": 46,
+      "direction": "down",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 4 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -75% seven-day velocity",
+      "citations": [
+        {
+          "title": "Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot",
+          "source": "Hypebeast",
+          "date": "Sep 16",
+          "url": "https://hypebeast.com/2026/9/timberland-kohjiya-waterproof-field-boots-release-info"
+        }
+      ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "2 mentions this week versus 3 in the prior seven-day window."
+    "name": "Archival sportswear",
+    "reason": "1 mention this week versus 2 in the prior seven-day window."
   },
   "prediction": {
     "title": "Narrow technical footwear moves outward",
     "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0920",
+    "code": "AUTO 0921",
     "name": "Narrow technical footwear",
     "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [
