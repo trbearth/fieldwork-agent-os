@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-09-21
+# Fieldwork Daily Signal — 2026-09-22
 
 Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -12,25 +12,35 @@ Narrow technical footwear is appearing across 1 independent public source.
 
 - [Nike Readied Its Most Athletic Trail Shoe with Pickle Juice](https://www.highsnobiety.com/p/nike-acg-picklejus-goatek-sneaker/) — Highsnobiety, Sep 17
 
-## 2. Archival sportswear
+## 2. Quiet performance
 
-**emerging · score 26 · confidence 21% · youth 46%**
+**emerging · score 43 · confidence 19% · youth 46%**
 
-Archival sportswear is appearing across 1 independent public source.
+Quiet performance is appearing across 1 independent public source.
 
-1 observation · 1 independent source · -50% seven-day velocity
+1 observation · 1 independent source · +100% seven-day velocity
 
-- [9090 and adidas Originals Give the Track Jacket a Cow-Print Makeover](https://hypebeast.com/2026/9/yutori-9090-adidas-originals-track-jacket-collaboration-release-info) — Hypebeast, Sep 17
+- [How to Make a 30-Year-Old Air Max Better? Waterproof It](https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/) — Highsnobiety, Sep 22
 
 ## 3. Decorated basics
 
-**emerging · score 25 · confidence 23% · youth 46%**
+**emerging · score 32 · confidence 26% · youth 49%**
 
 Decorated basics is appearing across 1 independent public source.
 
-1 observation · 1 independent source · -75% seven-day velocity
+2 observations · 1 independent source · +0% seven-day velocity
 
-- [Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot](https://hypebeast.com/2026/9/timberland-kohjiya-waterproof-field-boots-release-info) — Hypebeast, Sep 16
+- [Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms](https://hypebeast.com/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images) — Hypebeast, Sep 22
+
+## 4. Archival sportswear
+
+**emerging · score 26 · confidence 20% · youth 46%**
+
+Archival sportswear is appearing across 1 independent public source.
+
+1 observation · 1 independent source · +0% seven-day velocity
+
+- [9090 and adidas Originals Give the Track Jacket a Cow-Print Makeover](https://hypebeast.com/2026/9/yutori-9090-adidas-originals-track-jacket-collaboration-release-info) — Hypebeast, Sep 17
 
 ## Method note
 

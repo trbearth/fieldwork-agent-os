@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-21",
+    "id": "2026-09-22",
     "mode": "live",
-    "displayDate": "SEP 21, 2026, 02:05 PM EDT",
-    "generatedAt": "2026-09-21T18:05:06.539Z",
-    "itemsCollected": 53,
+    "displayDate": "SEP 22, 2026, 12:39 PM EDT",
+    "generatedAt": "2026-09-22T16:39:17.795Z",
+    "itemsCollected": 59,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 6
+        "count": 15
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -47,16 +47,56 @@
       ]
     },
     {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 46,
+      "direction": "up",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "How to Make a 30-Year-Old Air Max Better? Waterproof It",
+          "source": "Highsnobiety",
+          "date": "Sep 22",
+          "url": "https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/"
+        }
+      ]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 32,
+      "confidence": 26,
+      "youthRelevance": 49,
+      "direction": "flat",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +0% seven-day velocity",
+      "citations": [
+        {
+          "title": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms",
+          "source": "Hypebeast",
+          "date": "Sep 22",
+          "url": "https://hypebeast.com/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images"
+        }
+      ]
+    },
+    {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
       "score": 26,
-      "confidence": 21,
+      "confidence": 20,
       "youthRelevance": 46,
-      "direction": "down",
+      "direction": "flat",
       "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
           "title": "9090 and adidas Originals Give the Track Jacket a Cow-Print Makeover",
@@ -65,38 +105,18 @@
           "url": "https://hypebeast.com/2026/9/yutori-9090-adidas-originals-track-jacket-collaboration-release-info"
         }
       ]
-    },
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 25,
-      "confidence": 23,
-      "youthRelevance": 46,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 4 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -75% seven-day velocity",
-      "citations": [
-        {
-          "title": "Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot",
-          "source": "Hypebeast",
-          "date": "Sep 16",
-          "url": "https://hypebeast.com/2026/9/timberland-kohjiya-waterproof-field-boots-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Archival sportswear",
-    "reason": "1 mention this week versus 2 in the prior seven-day window."
+    "name": "Decorated basics",
+    "reason": "2 mentions this week versus 2 in the prior seven-day window."
   },
   "prediction": {
     "title": "Narrow technical footwear moves outward",
     "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0921",
+    "code": "AUTO 0922",
     "name": "Narrow technical footwear",
     "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [

@@ -2099,6 +2099,53 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-22",
+      "mode": "live",
+      "displayDate": "SEP 22, 2026, 12:39 PM EDT",
+      "generatedAt": "2026-09-22T16:39:17.795Z",
+      "itemsCollected": 59,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 15
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 32,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -31999,6 +32046,655 @@
       "publishedAt": "2026-09-21T08:24:52.000Z",
       "collectedAt": "2026-09-21T18:05:05.272Z",
       "text": "adidas Originals and VegNonVeg Reshape the Samba Into Two Jutti-Inspired Mules Name: VegNonVeg x adidas Originals Samba Mule “Black,” VegNonVeg x adidas Originals Samba Mule “Silver”Colorway: Black/Cream/Gum, Metal Grey/Silver-Core Black-Off WhiteSKU: HP4921, HQ2795MSRP: TBCRelease Date: Available nowWhere to Buy: VegNonVegadidas Originals and VegNonVeg have turned the Samba into an open-back mule, reshaping one of adidas' most recognizable silhouettes through the lens of the Jutti, a traditional Indian slip-on. The New Delhi retailer keeps the Samba instantly readable while rebuilding it around the ritual of stepping in and out of a shoe, and releases it in two colorways.The construction is where the two references meet. VegNonVeg retains the Samba's signature T-toe but extends it into a pointed, padded tongue, a detail that pulls the football silhouette toward the shape of a Jutti. The heel is cut away entirely to make it a mule, and the upper is built from premium leather finished with invisible stitching for a clean surface. Contrast cream Three Stripes keep the adidas identity legible against the darker leather.The Indian influence runs through the smaller details rather than sitting on the surface. Tonal botanical embroidery, which the brand ties to ideas of growth, community and roots, is worked into the upper, joined by a gold Trefoil rendered as a flower and gold foil SAMBA and VegNonVeg branding. A red lining, drawn from traditional Juttis, adds a hidden flash of color. The theme continues underfoot with mismatched insoles, one green and one red to represent the Veg and NonVeg halves of the retailer's name, each carrying Jutti-style ornamentation of the brand's leaf-tree motif along with the printed messages \"From VegNonVeg with Love\" and \"To India and Beyond.\" A gum rubber outsole closes out the build.That reworking sits on decades of Samba history. The model began as a football boot designed for training on frozen and icy pitches before it moved off the field to become one of adidas' longest-running lifestyle staples. Recasting it as a Jutti-inspired mule is a way of holding onto that heritage shape while routing it through a specifically Indian point of view. VegNonVeg frames the project as part of its decade-long effort to represent a contemporary India, positioning the shoe as an old form rebuilt for the present. The \"Silver\" colorway underscores the exclusivity, capped at 280 pairs and sold only through VegNonVeg. Click here to view full ga"
+    },
+    {
+      "id": "61393e908203f17a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rosie Huntington-Whiteley on Sitting Front Row at Burberry, Her Summer Reading List, and Loving Autumn",
+      "url": "https://www.vogue.com/slideshow/rosie-huntington-whiteley-burberry-spring-2027-diary",
+      "publishedAt": "2026-09-22T16:01:58.000Z",
+      "collectedAt": "2026-09-22T16:39:13.570Z",
+      "text": "Rosie Huntington-Whiteley on Sitting Front Row at Burberry, Her Summer Reading List, and Loving Autumn “I think the British are very good at looking as though we haven’t tried too hard,” the model and Mémoire founder told Vogue after an evening attending Burberry’s spring 2027 show at London Fashion Week."
+    },
+    {
+      "id": "6716048917be59f8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Anatomy of a Look: The Styling Tricks Behind Fall's Top Runway Moments",
+      "url": "https://www.vogue.com/article/anatomy-of-a-look",
+      "publishedAt": "2026-09-22T14:58:39.000Z",
+      "collectedAt": "2026-09-22T16:39:13.570Z",
+      "text": "Anatomy of a Look: The Styling Tricks Behind Fall's Top Runway Moments Explore the best styling ideas from the fall 2026 runways, with standout looks from Prada, Celine, and Tory Burch."
+    },
+    {
+      "id": "bf110928f5c7d321",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 Designers, Models, and Friends of Vogue Share Their Favorite Restaurants in Milan",
+      "url": "https://www.vogue.com/article/best-milan-restaurants-friends-of-vogue-world-milano",
+      "publishedAt": "2026-09-22T14:54:18.000Z",
+      "collectedAt": "2026-09-22T16:39:13.570Z",
+      "text": "10 Designers, Models, and Friends of Vogue Share Their Favorite Restaurants in Milan Just in time for Vogue World: Milano, check out a list of all the spots where fashion insiders love to dine in the Italian city."
+    },
+    {
+      "id": "c41cd02396651a7b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Diesel Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/diesel",
+      "publishedAt": "2026-09-22T16:36:27.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Diesel Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "efd6b3b228f68ecd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tolu Coker Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tolu-coker",
+      "publishedAt": "2026-09-22T16:36:27.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Tolu Coker Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "d2f42ab4185ea13c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Fall Equinox Is Arriving—Here’s What It Means for Every Star Sign",
+      "url": "https://www.vogue.com/article/fall-equinox-2026-astrology-star-signs",
+      "publishedAt": "2026-09-22T13:52:59.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "The Fall Equinox Is Arriving—Here’s What It Means for Every Star Sign As the fall equinox arrives, the stars will test our perseverance—here, discover what the astrological event means for you."
+    },
+    {
+      "id": "8e678989ab939aa1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Prada Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/prada",
+      "publishedAt": "2026-09-22T16:36:27.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Prada Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "e92e905b700f1ae7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What is Vogue World: Milano? A First Look at the Fashion Behind the Show",
+      "url": "https://www.vogue.com/article/what-is-vogue-world-milan-2026-09-22",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "What is Vogue World: Milano? A First Look at the Fashion Behind the Show From the Renaissance to rare archival pulls, go behind the scenes of Vogue World Milano to see how technology connects craft from the past to the present and beyond."
+    },
+    {
+      "id": "360c1d063043dd54",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue World 2026: Milano: Watch the Livestream",
+      "url": "https://www.vogue.com/article/watch-the-vogue-world-2026-milan-livestream",
+      "publishedAt": "2026-09-22T12:13:12.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Vogue World 2026: Milano: Watch the Livestream Experience the magic of Vogue World 2026: Milano for yourself. Watch the show live on Tuesday, September 22, at 2 p.m. EDT / 11 a.m. PDT."
+    },
+    {
+      "id": "8d5f047292ec9e4f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "5 Key Takeaways From ‘Swan Song,’ Charles Spencer’s New Book About Life as Princess Diana’s Brother",
+      "url": "https://www.vogue.com/article/swan-song-princess-diana-book-charles-spencer-key-takeaways",
+      "publishedAt": "2026-09-22T12:08:03.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "5 Key Takeaways From ‘Swan Song,’ Charles Spencer’s New Book About Life as Princess Diana’s Brother ‘Swan Song: Diana, My Sister’ has already reportedly drawn the ire of Buckingham Palace, but there’s a lot more than anti-King Charles rhetoric in the memoir."
+    },
+    {
+      "id": "e1d335d25f0faa5a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Silk Press Trials and Tribulations in a Black Hair-Care Desert",
+      "url": "https://www.vogue.com/article/silk-press-trials-and-tribulations-in-a-black-haircare-desert",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Silk Press Trials and Tribulations in a Black Hair-Care Desert When Rachel Cook Northway left New York City for a quaint country home, it came with some serious beauty drawbacks."
+    },
+    {
+      "id": "8e935f7ef612a196",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘It’s Fundamentally Unacceptable’: A Longtime White House Correspondent on Trump’s MS NOW, CNN, and Politico Bans",
+      "url": "https://www.vogue.com/article/longtime-white-house-correspondent-on-trumps-ms-now-cnn-and-politico-bans",
+      "publishedAt": "2026-09-22T11:06:09.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "‘It’s Fundamentally Unacceptable’: A Longtime White House Correspondent on Trump’s MS NOW, CNN, and Politico Bans “Just because you are not physically on the premises, it doesn’t stop us from doing our jobs,” says Ashley Parker, currently a staff writer at The Atlantic."
+    },
+    {
+      "id": "04fbc942f61d1868",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Past and Future Collide in Arlene Shechet’s Otherworldly Sculptures",
+      "url": "https://www.vogue.com/article/arlene-shechet-she-said-she-said-pace",
+      "publishedAt": "2026-09-22T10:30:51.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Past and Future Collide in Arlene Shechet’s Otherworldly Sculptures “Arlene Shechet: She Said She Said” is on view at Pace Gallery’s 508 and 510 West 25th Street locations through October 24, 2026."
+    },
+    {
+      "id": "942c5651b2b7cd26",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Look Inside the Closets of Some of Italy’s Most Stylish Women",
+      "url": "https://www.vogue.com/article/italian-style-special",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "A Look Inside the Closets of Some of Italy’s Most Stylish Women Shop the closets of some of Italy’s most stylish women ahead of Vogue World: Milano."
+    },
+    {
+      "id": "5e1ddbcb41c90b63",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Throw a Proper Italian Dinner Party, According to 5 Locals",
+      "url": "https://www.vogue.com/article/italian-dinner-party-tips",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "How to Throw a Proper Italian Dinner Party, According to 5 Locals Looking to incorporate a bit of la dolce vita into your own hosting style? We polled five Italian (and Italy-based) women on all their dinner party essentials."
+    },
+    {
+      "id": "d6520e533da3a05b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "My Packing Style: Model Carolyn Murphy",
+      "url": "https://www.vogue.com/article/packing-style-carolyn-murphy",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "My Packing Style: Model Carolyn Murphy Take a peek inside model Carolyn Murphy’s travel bag—as well as the packing tips she swears by."
+    },
+    {
+      "id": "89c0f01344b8f54a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Fix Frizzy Hair, According to the Pros",
+      "url": "https://www.vogue.com/article/how-to-fix-frizzy-hair",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "How to Fix Frizzy Hair, According to the Pros Wondering how to fix frizzy hair? It's simpler than you think. From the shower and styling to sleeping, these are the tips the pros recommend for sleek, soft hair."
+    },
+    {
+      "id": "04f546fe7bbe609c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Do Fashion Brands Need a Clipping Strategy?",
+      "url": "https://www.vogue.com/article/do-fashion-brands-need-a-clipping-strategy",
+      "publishedAt": "2026-09-22T09:30:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Do Fashion Brands Need a Clipping Strategy? Chopping up long-form videos into short clips and spreading them far and wide across the internet has become a social media silver bullet for industries willing to partake."
+    },
+    {
+      "id": "4732ac321ea29746",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Shanghai Fashion Week Unveils SS27 Schedule",
+      "url": "https://www.vogue.com/article/shanghai-fashion-week-unveils-ss27-schedule",
+      "publishedAt": "2026-09-22T06:00:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.571Z",
+      "text": "Shanghai Fashion Week Unveils SS27 Schedule Sportswear, showrooms, and supporting domestic talent are on the agenda for this Shanghai Fashion Week season."
+    },
+    {
+      "id": "b48e6d71647ef4ac",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "De Beers’s CEO: How High Jewelry Landed at London Fashion Week",
+      "url": "https://www.vogue.com/article/de-beerss-ceo-how-high-jewelry-landed-at-london-fashion-week",
+      "publishedAt": "2026-09-22T04:30:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.572Z",
+      "text": "De Beers’s CEO: How High Jewelry Landed at London Fashion Week De Beers London chose London Fashion Week to unveil its new high jewelry collection as part of a rebranding exercise."
+    },
+    {
+      "id": "6e11308e6919773a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Makes a Good Fashion Party?",
+      "url": "https://www.vogue.com/article/what-makes-a-good-fashion-party",
+      "publishedAt": "2026-09-22T04:30:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.572Z",
+      "text": "What Makes a Good Fashion Party? As brands pour more money into fashion week events, the most successful nights are proving that curation and a reason to be there matter more than reach alone."
+    },
+    {
+      "id": "c2e9fa6ec5384585",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the Dr. Martens Comeback",
+      "url": "https://www.vogue.com/article/inside-the-dr-martens-comeback",
+      "publishedAt": "2026-09-22T04:30:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.572Z",
+      "text": "Inside the Dr. Martens Comeback Following a recent decline, Dr. Martens has stabilized. In an exclusive interview, chief brand officer Carla Murphy unveils her action plan to reinvigorate the historic brand."
+    },
+    {
+      "id": "434fd44f51ea2ced",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "London Is So Back: Key Takeaways From Spring/Summer 2027",
+      "url": "https://www.vogue.com/article/london-is-so-back-key-takeaways-from-spring-summer-2027",
+      "publishedAt": "2026-09-22T04:30:00.000Z",
+      "collectedAt": "2026-09-22T16:39:13.572Z",
+      "text": "London Is So Back: Key Takeaways From Spring/Summer 2027 With renewed momentum on the ground and a more pragmatic approach to business, London Fashion Week saw a resurgence for SS27. These were the shifts industry professionals should note."
+    },
+    {
+      "id": "16abb80b2ee1e069",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘There’s a Bit of Eliza Doolittle in Me’: Twiggy on Her Unlikely Story—and New Documentary",
+      "url": "https://www.vogue.com/article/twiggy-sadie-frost-interview",
+      "publishedAt": "2026-09-21T23:46:25.000Z",
+      "collectedAt": "2026-09-22T16:39:13.572Z",
+      "text": "‘There’s a Bit of Eliza Doolittle in Me’: Twiggy on Her Unlikely Story—and New Documentary The model and actor is the focus of a new documentary by Sadie Frost. Here, subject and director discuss how “Twiggy” came to be."
+    },
+    {
+      "id": "14971422d8df5018",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Lela Rose Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lela-rose",
+      "publishedAt": "2026-09-22T16:36:27.000Z",
+      "collectedAt": "2026-09-22T16:39:13.572Z",
+      "text": "Lela Rose Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "700f4986db3ad56d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Live the Real La Dolce Vita, According to Italy’s “Pasta Grannies”",
+      "url": "https://www.vogue.com/article/how-to-live-la-dolce-vita-according-to-italy-pasta-grannies",
+      "publishedAt": "2026-09-21T20:48:20.000Z",
+      "collectedAt": "2026-09-22T16:39:13.572Z",
+      "text": "How to Live the Real La Dolce Vita, According to Italy’s “Pasta Grannies” Vicky Bennison, the author and creator of “Pasta Grannies,” shares the wisdom—and a favorite recipe—of the older women keeping Italian culinary traditions alive."
+    },
+    {
+      "id": "77a834be0ab2ed4f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jane Wade & KEEN Get Their Feet Wet For SS27",
+      "url": "https://www.highsnobiety.com/p/jane-wade-keen-ss27/",
+      "publishedAt": "2026-09-22T15:47:36.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "Jane Wade & KEEN Get Their Feet Wet For SS27 Taking us from the runway to the river, Jane Wade debuted an SS27 collection inspired by her outdoor upbringing, featuring a collaborative Keen watershoe."
+    },
+    {
+      "id": "5e7d41a165ecddd9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Inside Lacoste’s Seriously Packed Crocoliga Final",
+      "url": "https://www.highsnobiety.com/p/lacoste-crocoliga-final-berlin/",
+      "publishedAt": "2026-09-22T13:45:04.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "Inside Lacoste’s Seriously Packed Crocoliga Final Lacoste, Highsnobiety, and Zalando brought the Crocoliga table tennis final to Berlin, and the city showed up ready to play."
+    },
+    {
+      "id": "88627e08c35e4e98",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "MSCHF’s Next Hot Product? A “Physically Absurd” Lexus (Exclusive)",
+      "url": "https://www.highsnobiety.com/p/mschf-lexus/",
+      "publishedAt": "2026-09-22T16:06:50.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "MSCHF’s Next Hot Product? A “Physically Absurd” Lexus (Exclusive) We talked to the co-founder of Brooklyn art collective MSCHF about turning two electric Lexus cars into bent and twisted sculptures for New York's Armory Week."
+    },
+    {
+      "id": "b675e3c48d3ed23f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "ASICS' Lace-Free Dad Shoe Is Young at Heart — And Sole",
+      "url": "https://www.highsnobiety.com/p/camiel-fortgens-asics-gel-cumulus-16-velcro-sneaker/",
+      "publishedAt": "2026-09-22T16:01:04.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "ASICS' Lace-Free Dad Shoe Is Young at Heart — And Sole Camiel Fortgens turned ASICS' Gel-Cumulus 16 sneaker into a pre-school-approved runner."
+    },
+    {
+      "id": "d50112089938a83f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "One Good Mary Jane for Guys Willing to Get a Little Weird",
+      "url": "https://www.highsnobiety.com/p/one-good-mary-jane-new-balance-tokyo-design-studio-samba/",
+      "publishedAt": "2026-09-22T13:08:23.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "One Good Mary Jane for Guys Willing to Get a Little Weird One Good is Highsnobiety’s series on the tried, tested, and trusted products we can’t stop fawning over. This round? A Mary Jane that’s anything but ordinary."
+    },
+    {
+      "id": "33729171c132ec46",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Timberland’s Western Work Boot Brings the Bodega to the Barn",
+      "url": "https://www.highsnobiety.com/p/sneaker-politics-timberland-rodeo-work-boot/",
+      "publishedAt": "2026-09-22T15:50:59.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "Timberland’s Western Work Boot Brings the Bodega to the Barn Sneaker Politics' cowhide \"Rodeo\" Timberland work boot is a whole new kind of cowboy boot."
+    },
+    {
+      "id": "dcc3212a97678e4c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Samba Mary Jane Is the Leader of the Herd",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-jane-cow-print/",
+      "publishedAt": "2026-09-22T15:43:58.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "adidas’ Samba Mary Jane Is the Leader of the Herd adidas releases a Samba Mary Jane sneaker with cow-print fur for the fall season. Here's everything on the ballerina sneaker leading the herd."
+    },
+    {
+      "id": "23e30ff19414ec7a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The adidas Superstar Went From Shell Toes to Twinkle (Square) Toes",
+      "url": "https://www.highsnobiety.com/p/adidas-superstar-sq-aurora-brown/",
+      "publishedAt": "2026-09-22T15:38:15.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "The adidas Superstar Went From Shell Toes to Twinkle (Square) Toes adidas introduces a new Superstar SQ sneaker featuring distressed leather uppers & shiny square toes."
+    },
+    {
+      "id": "32b978f202040623",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Conor Benn Taps Into His Dark Knight Energy with Off-White™ and Everlast",
+      "url": "https://www.highsnobiety.com/p/conor-benn-taps-into-his-dark-knight-energy-with-off-white-and-everlast/",
+      "publishedAt": "2026-09-21T23:40:07.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "Conor Benn Taps Into His Dark Knight Energy with Off-White™ and Everlast Off-White™ and Everlast partner for a limited edition collection with Dark Knight Boxing Champion, Conor Benn."
+    },
+    {
+      "id": "bd47c1e0a1e674f4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "How to Make a 30-Year-Old Air Max Better? Waterproof It",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/",
+      "publishedAt": "2026-09-22T15:32:19.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "How to Make a 30-Year-Old Air Max Better? Waterproof It Nike's classic Air Max 95 Big Bubble sneaker gets the famous GORE-TEX treatment ahead of the cold season."
+    },
+    {
+      "id": "4ca3659e15f573c3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Skate-Ready Tennis Sneaker Returns to Chunk-tastic Form",
+      "url": "https://www.highsnobiety.com/p/nike-sb-zoom-tennis-classic-xl-brown/",
+      "publishedAt": "2026-09-22T15:29:19.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "Nike’s Skate-Ready Tennis Sneaker Returns to Chunk-tastic Form Nike SB's Zoom Tennis Classic XL is a return to its classic chunky skate form. Here's everything on the beefy \"Baroque Brown\" release."
+    },
+    {
+      "id": "fe0fffe53b746e49",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s *Other* Chocolate Air Max Loafer Is Extra Dapper, Equally Delicious",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-phenomena-loafer-palomino/",
+      "publishedAt": "2026-09-22T15:21:03.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "Nike’s *Other* Chocolate Air Max Loafer Is Extra Dapper, Equally Delicious Nike's Air Max Phenomena loafer is putting in overtime, having appeared in a new \"Palomino\" colorway for the Fall 2026 season."
+    },
+    {
+      "id": "628cf8de926a4219",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Every Aesop Fragrance Has a Story to Tell",
+      "url": "https://www.highsnobiety.com/p/aesop-fragrant-fables-scent-collection/",
+      "publishedAt": "2026-09-22T15:33:09.000Z",
+      "collectedAt": "2026-09-22T16:39:15.046Z",
+      "text": "Every Aesop Fragrance Has a Story to Tell The fragrance catalogue recently expanded and introduced a new scent: Unforeseen Aer."
+    },
+    {
+      "id": "df5766a1fddfd0e0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike and Zellerfeld Unveil the 3D-Printed AIRMAX 1000.3 \"Stone/Burgundy Crush\"",
+      "url": "https://hypebeast.com/2026/9/zellerfeld-nike-airmax-1000-3-stone-burgundy-crush-release-info",
+      "publishedAt": "2026-09-22T16:00:40.000Z",
+      "collectedAt": "2026-09-22T16:39:16.521Z",
+      "text": "Nike and Zellerfeld Unveil the 3D-Printed AIRMAX 1000.3 \"Stone/Burgundy Crush\" Summary Nike Sportswear and Zellerfeld have introduced the AIRMAX 1000.3 in a Stone and Burgundy Crush colorwayThe third iteration of the fully 3D-printed silhouette features updated ZellerMESH construction for a softer and lighter feelThe sneaker drops via US SNKRS on September 24 followed by a global Zellerfeld raffle running through September 28 Nike and Zellerfeld have officially introduced the AIRMAX 1000.3 \"Stone/Burgundy Crush\", marking the latest evolution of their fully 3D-printed footwear project. Reimagining the iconic design language of the 1987 Air Max 1, the updated silhouette combines a sculpted form with visible Nike Air cushioning.Central to the AIRMAX 1000.3 is the integration of advanced ZellerMESH™ technology. The updated open-mesh structure delivers a refined textile-like aesthetic while utilizing less material to reduce overall weight, increase breathability, and improve durability. The modified mesh flexes naturally across the lateral sides, replacing previous feathered paneling with a more adaptive fit.Underfoot, the 3D-printed midsole has been softened to allow the visible Nike Air unit to activate more fully during movement, delivering enhanced responsiveness underfoot. The exterior presents a muted \"Stone\" upper contrasted by a \"Burgundy Crush\" Air Max unit, while backend refinements in the digital printing process significantly accelerate production times.The Nike AIRMAX 1000.3 \"Stone / Burgundy Crush\" launches in the US via Nike SNKRS on September 24, 2026. Global customers can enter the EQL raffle on Zellerfeld, open from September 22 through September 28, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "53c7d2888ef655b0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "“There Are No Rules to Being Wild and Beautiful”: Behind the Scenes of KATSEYE’s Pre-Concert Prep",
+      "url": "https://hypebeast.com/2026/9/katseye-all-accor-hotel-suite-experience-recap",
+      "publishedAt": "2026-09-22T14:53:26.000Z",
+      "collectedAt": "2026-09-22T16:39:16.521Z",
+      "text": "“There Are No Rules to Being Wild and Beautiful”: Behind the Scenes of KATSEYE’s Pre-Concert Prep KATSEYE touched down in Paris last week for their WILDWORLD TOUR show at Accor Arena. As the fourth stop of their landmark concert run, the Grammy-nominated group partnered with ALL Accor, the booking platform and loyalty programme of Accor Group, to nail down the pre-concert rituals that happen moments before they hit the stage.In a hotel suite in SO/ Paris, KATSEYE began by imagining the perfect beauty prep space. With hotels serving as the starting point for evenings spent at gigs and concerts, this particular area was transformed with nail art and tooth gem stations. The suite revealed the importance of these spaces for both fans and artists by showing they have become places where creativity can thrive – whether they’re used to get ready or mentally prepare before the show. Before connecting with members of ALL Accor, media and content creators, the girl group got a first look at the suite, exploring the Glam Room while sharing their go-to routine in a recent video. “It's all about what makes me feel super confident,” shared Daniella. “I love accessorizing with big hoops and wearing makeup to feel powerful on stage.” Lara also mentioned how she hopes fans will show up as their most confident selves, saying, “There are no rules to being wild and beautiful; it’s just about expressing yourself and loving yourself and wearing honestly whatever you want.”After talking about face masks, headphones, and those small reminders of home, KATSEYE connected with fans and contest winners in a meet-and-greet. The VIP opportunity allowed attendees to immerse themselves further in the world of KATSEYE by catching the group during the sacred hours of styling and prepping. ALL Accor will soon be extending this program to more music artists for their upcoming gigs. To find out how to get involved, head to its website now. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d8d06792d825d95f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "10 Era-Defining Figures to Know From Sotheby’s Next Hong Kong Sale",
+      "url": "https://hypebeast.com/2026/9/10-era-defining-figures-to-know-from-sothebys-next-hong-kong-sale",
+      "publishedAt": "2026-09-22T13:30:29.000Z",
+      "collectedAt": "2026-09-22T16:39:16.521Z",
+      "text": "10 Era-Defining Figures to Know From Sotheby’s Next Hong Kong Sale The human form is never simply a story of flesh and blood. Throughout human history, artists have turned to the body to make sense of the era and the social world that produced it — from war and alienation to consumerism, identity, and desire. As Sotheby’s Hong Kong readies its Modern and Contemporary Art auction season, we’re taking a look at the stories behind 10 works from the last century of art history.Tradition Meets Modernity (1910s–1950s)The turn of the 20th century wasn’t about throwing the rules out completely, as it was fracturing them. Across Asia, artists blended Eastern and Western philosophies, styles, and techniques to reckon with a new kind of modernity. For Chinese painter Sanyu, that meant bringing the body back to its essential elements. In “Nude, Hugging Knees, Viewed from the Front I” (1950s), anatomy disappears into abstraction, in a figure defined by sparse lines and calligraphic curves. Mai Trung Thu’s “Mélodie” (1950) takes a more nostalgic approach. Working in France at the time, the artist rendered the musician through restrained color and intimate composition to evoke a sense of longing for home, memory, and connection across oceans.“Woman in Chemise” (1925–28) by Zenzaburo Kojima exhibits a similar style of play. Western posture meets the saturated color and flattened space associated with Japanese ukiyo-e. The figure’s inward gaze avoids confrontation often seen in Western portraiture. Instead, she’s absorbed in her own world. Henri Matisse’s “Femme nue” (circa 1915), too, finds defiance in sensuality and warmth. Amid the chaos of World War I is a beacon of hope and contentment, posed in the odalisque tradition.Pop Icons & Pre-Y2K Angst (1960s–1990s)By the second half of the 1900s, bold expression and figuration were taken a step further. Tom Wesselmann, for example, recasts the classical female body through the visual overload associated with American consumer culture. In “Still Life with Odalisque and Black Goldfish” (1999), Matissean desire meets the bright, seductive language of advertising, pin-ups, and mass media.For Japanese artists Yoshitomo Nara and Tetsuya Ishida, the figure becomes a portrait of social unease. Nara’s “Present” (1994) sees a childlike figure, grip tight on a knife. Striding against the backdrop of post-Cold-War realignment and simmering nuclear anxieties, her small-but-mighty bravado asserts itself against forces much larger than her"
+    },
+    {
+      "id": "d65e8d6008ab90de",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Closer Look at the Nike LeBron 24 \"Chosen 1s\"",
+      "url": "https://hypebeast.com/2026/9/nike-lebron-24-chosen-1s-io8201-700-closer-look-release-info",
+      "publishedAt": "2026-09-22T09:41:55.000Z",
+      "collectedAt": "2026-09-22T16:39:16.521Z",
+      "text": "Closer Look at the Nike LeBron 24 \"Chosen 1s\" Summary LeBron James has debuted an early look at the upcoming Nike LeBron 24 \"Chosen 1s\" during a workout sessionThe performance silhouette features a commanding Tour Yellow upper paired with Metallic Gold and Midnight Navy accentsThe pair is scheduled to release in December 2026 for $190 USD Name: Nike LeBron 24 \"Chosen 1s\"Colorway: Tour Yellow/Midnight Navy-White-Metallic GoldSKU: IO8201-700MSRP: $190 USDRelease Date: December 1, 2026Where to Buy: NikeNike and LeBron James have provided a first look at the LeBron 24 \"Chosen 1s\". The basketball icon debuted the bold, vibrant colorway during an off-season training session alongside trainer Chris Johnson.Dressed predominantly in a monochromatic Tour Yellow hue, the upper and sole unit dominate the design's overall footprint. Subdued hits of Metallic Gold and Midnight Navy deliver structural contrast across secondary accent zones. While fine design elements remain partially hidden in the early workout imagery, the execution establishes a clean aesthetic for the performance line.The \"Chosen 1s\" title directly references the legendary Sports Illustrated magazine cover that anointed James during his senior year of high school. Honoring his journey from teenage phenom to four-time champion and the NBA's all-time leading scorer, Nike is expected to incorporate dedicated storytelling touches throughout the final retail model.The Nike LeBron 24 \"Chosen 1s\" is expected to launch in December 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fd395fb41bc10977",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "AXE Just Revealed the Most Unexpected Luxury Fragrance Drop of the Year",
+      "url": "https://hypebeast.com/2026/9/axe-holder-limited-edition-release-info",
+      "publishedAt": "2026-09-22T09:36:16.000Z",
+      "collectedAt": "2026-09-22T16:39:16.521Z",
+      "text": "AXE Just Revealed the Most Unexpected Luxury Fragrance Drop of the Year You may not expect luxury in spray can fragrances, but behind every AXE product lies a high-end blend crafted by some of the world’s most renowned perfumers. Though its craftsmanship has historically been overlooked, the brand now brings its formulations to the forefront in its new over-the-top bottle concept, the Holder.This idea is backed by blind testing too. In recent trials, the brand demonstrated that it could hold its own against premium perfumes, with participants choosing AXE scents over more expensive options. It proves that the high-end experience doesn't require a luxury price tag.Over the years, the luxury fragrance world has developed a recognizable visual language through sculptural bottles and elaborate packaging. Poking fun at conventional visual cues, the entirely unnecessary Holder accessory wraps the familiar can in a square-shaped bottle to show that luxury is often about the vessel rather than the scent itself.In the launch campaign, AXE continues to tell the same story. Taking notes from the polished style of traditional fragrance adverts, the Holder is treated with drama through close-ups and low lighting, normally reserved for extravagant bottles, creating a bold statement as well as a playful parody. The Holder will launch via upcoming activations and collaborations later this year. You can now shop the debut drop in the UK via the dedicated webpage. Those in Mexico can visit the regional webpage from October. Read more at Hypebeast"
+    },
+    {
+      "id": "df2a7c5025ab3ddd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HUF Pilots a Fall 2026 ‘Neon Genesis Evangelion’ Capsule",
+      "url": "https://hypebeast.com/2026/9/neon-genesis-evangelion-huf-collaboration-collection-release-info",
+      "publishedAt": "2026-09-22T09:34:00.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "HUF Pilots a Fall 2026 ‘Neon Genesis Evangelion’ Capsule Summary HUF has teamed with anime franchise Evangelion for a Fall 2026 capsule spanning apparel and accessoriesThe lineup pairs the series' imagery with HUF's streetwear sensibility across three T-shirts, a cap and a keychainStandout details include a glow-in-the-dark front print and a six-panel hat that ships with a collectible pin HUF and Neon Genesis Evangelion have joined forces on a new Fall 2026 collection that filters the anime's world through the brand's streetwear lens. The capsule keeps things focused, rounding up a trio of graphic T-shirts alongside a six-panel cap and a metal keychain, each carrying artwork pulled from the long-running series.The T-shirts form the backbone of the range, and all three are built on the same heavyweight foundation: 100% COTTON USA jersey in a 225GSM weight with a one-wash finish for a lived-in feel from the start. The Triple Triangle T-shirt arrives in white with printed artwork across the left chest and back, while the Unit-01 T-shirt runs the same placement in black. The Rei Ayanami T-shirt is the technical standout of the group, swapping in a front print rendered in glow-in-the-dark ink so the graphic shifts once the lights go down. Each shirt finishes with a co-branded HUF X EVANGELION label stitched inside the neck.Topping off the apparel is the collection's six-panel hat, cut from 100% cotton twill with a curved visor. Embroidered artwork lands on both the front and back crown, and the cap adds a few HUF signatures, including a HUF eightynine flag label at the rear and an adjustable plastic snap closure. It also ships with a bonus: a co-branded HUF X EVANGELION pin that doubles as a small collectible alongside the headwear itself.The keychain rounds out the capsule as its most accessible entry point. Made from zinc alloy, it carries the collaboration's artwork on the front and a HUF X EVANGELION engraving on the reverse, hung on a double ring stamped with HUF Worldwide's DBC original logo. It's a compact way into the collection for anyone after the branding without committing to a full apparel piece.The Neon Genesis Evangelion x HUF collection is available now via HUF Worldwide JP. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c9533baba93e2a93",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Aston Martin's Valhalla Spider Is a Rarer Open-Top Version of Its 1,064 HP Mid-Engine Supercar",
+      "url": "https://hypebeast.com/2026/9/aston-martin-valhalla-spider-targets-november-open-top-debut",
+      "publishedAt": "2026-09-22T09:29:24.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "Aston Martin's Valhalla Spider Is a Rarer Open-Top Version of Its 1,064 HP Mid-Engine Supercar Summary Aston Martin is developing an ultra-exclusive, open-air Spider version of its Valhalla supercar for an anticipated November debutThis new variant will utilize a removable targa top to save weight and preserve the intense dynamics of the original carbon fiber chassisThe drop-top retains the coupe's uncompromised Mercedes-AMG V8 hybrid powertrain, sending 1,064 horsepower to all four wheels The British marque is preparing to unleash the Aston Martin Valhalla Spider, an exclusive, open-air iteration of its mid-engine supercar. Anticipated to make its official debut as early as November, the new drop-top represents a rare escalation in the modern exotic landscape. Production numbers for the forthcoming Spider are expected to be remarkably scarce, deliberately undercutting the already stringent allocation of the standard Valhalla Coupe, which is strictly capped at just 999 units worldwide.Introducing an even rarer open-top variant fundamentally shifts the vehicle's footprint in the exotic sector, elevating Aston Martin's standing among the world's most elite car collectors. The standard closed-roof coupe already operates in a highly exclusive market segment, delivering performance metrics that bridge the gap between heavyweights and multi-million dollar flagship hypercars. Removing the roof from the Valhalla amplifies that exclusivity, transforming an already elusive track weapon into a visceral status symbol for the hyper-wealthy.To achieve this open-sky experience, the vehicle will be built around a highly advanced, lightweight carbon fiber monocoque. While this foundational structure provides immense baseline rigidity, the architecture may require targeted additional strengthening to maintain the exact strength and torsional stiffness of the original hardtop model. For the roof itself, the Spider is expected to utilize a completely removable targa top rather than relying on a motorized folding hardtop or a traditional fabric soft top. This manual targa design was chosen specifically to avoid the added weight and mechanical complexity of automated systems, particularly because the supercar lacks the internal storage space required to house bulky folding roof mechanisms.Beneath the sculpted bodywork, the Valhalla Spider will retain the exact powertrain of the standard coupe without any modifications. The core of this hybrid system features a potent, Mercedes-"
+    },
+    {
+      "id": "5c3d9aef2acb3f9f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "100 Thieves, Pokémon, and Modernica Reframe Heritage Seating With Fine China Shell Chairs",
+      "url": "https://hypebeast.com/2026/9/100-thieves-pokemon-modernica-porcelain-china-shell-chairs-collaboration-collection",
+      "publishedAt": "2026-09-22T09:24:21.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "100 Thieves, Pokémon, and Modernica Reframe Heritage Seating With Fine China Shell Chairs Summary 100 Thieves has partnered with Pokémon and Modernica on a four-piece fiberglass shell chair collectionBuilt in Los Angeles each piece features blue and white fine china-inspired artwork across a chrome Eiffel baseThe collection highlights Bulbasaur Charmander Squirtle and Pikachu launching September 25 for $725 USD each Pokémon, 100 Thieves, and Modernica have officially unveiled the collaborative collective. The home goods capsule reimagines four iconic Kanto region starters—Bulbasaur, Charmander, Squirtle, and Pikachu—across collectible fiberglass shell seating.Handcrafted at Modernica's Los Angeles facility, each piece is built atop the historic Case Study Fiberglass Shell chassis originally created in 1948 for MoMA's International Design Competition. Marking a move beyond traditional streetwear apparel into furniture design, the capsule incorporates blue and white illustrations inspired by fine china porcelain across the shell body.Every chair comes fitted with a polished chrome Eiffel base to maintain a showroom-ready finish. The custom graphics capture the distinct traits of each character while bridging fine art porcelain motifs with mid-century design.The Pokémon + 100 Thieves by Modernica Collection releases on September 25, 2026, exclusively via 100Thieves. View this post on InstagramA post shared by 100 Thieves (@100thieves) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "cba2e8edf761cbf6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Marvel's 'Daredevil: Born Again' Will Officially End With Season 3",
+      "url": "https://hypebeast.com/2026/9/marvel-daredevil-born-again-will-officially-end-with-season-3-news",
+      "publishedAt": "2026-09-22T09:14:31.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "Marvel's 'Daredevil: Born Again' Will Officially End With Season 3 Summary Marvel Television and Disney+ will conclude Daredevil Born Again following its third season Production on Season 3 wrapped recently and is undergoing post-production ahead of its 2027 premiere Showrunner Dario Scardapane has exited the project while the final season brings back original Defenders cast members Disney+ and Marvel will officially conclude Daredevil: Born Again following its upcoming third season. The revival series starring Charlie Cox as Matt Murdock is set to wrap up after three seasons on the streaming platform.The decision comes as Season 3 enters post-production following the exit of co-creator and showrunner Dario Scardapane. Originally debuting on Netflix before transitioning to Disney+ in 2025, the series brought back key original cast members including Vincent D’Onofrio as Wilson Fisk, Deborah Ann Woll as Karen Page, Elden Henson as Foggy Nelson, and Wilson Bethel as Bullseye.Building on the storylines set up in Season 2—which saw Murdock imprisoned, his secret identity exposed, and Kingpin stripped of his mayoral office—Season 3 will unite the street-level Defenders universe. Returning cast members Krysten Ritter (Jessica Jones), Mike Colter (Luke Cage), and Finn Jones (Iron Fist) are set to reunite alongside Murdock to confront Fisk.Daredevil: Born Again Season 3 is scheduled to premiere exclusively on Disney+ in 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "933dfac51f683a05",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tremaine Emory's ‘Denim Tears from the Pool of Black Genius’ Opens at SCAD Museum of Art",
+      "url": "https://hypebeast.com/2026/9/tremaine-emory-denim-tears-from-the-pool-of-black-genius-scad-museum-of-art-exhibition-opening-info",
+      "publishedAt": "2026-09-22T09:03:08.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "Tremaine Emory's ‘Denim Tears from the Pool of Black Genius’ Opens at SCAD Museum of Art Summary SCAD Museum of Art is staging a retrospective look at Tremaine Emory's practice through his label Denim TearsThe exhibition sets Emory's work against a \"Pool of Black Genius\" spanning historical and contemporary artistsThe presentation positions his fashion output as a form of conceptual art rooted in the story of the African Diaspora SCAD Museum of Art is turning its focus to Tremaine Emory with Denim Tears from the Pool of Black Genius, a retrospective built around the founder of Denim Tears and his diaspora-driven approach to design. The exhibition traces the breadth of Emory's creative output, treating his self-described \"African American sportswear\" label as a vehicle for cultural storytelling rather than a straightforward clothing line.The show's organizing idea is the titular \"Pool of Black Genius,\" a framework that situates Emory's work within a wider constellation of influences. To draw that out, the exhibition pulls pieces by Jacob Lawrence, Romare Bearden, Alma Thomas, Faith Ringgold and others from the SCAD Museum of Art Permanent Collection, using them to trace the lineage Emory draws from. It's a deliberate pairing that positions his practice as part of a longer continuum of Black artistic expression rather than a standalone fashion project.Alongside those historical anchors, the presentation devotes significant space to the artists Emory works and thinks in tandem with. Contemporary pieces from collaborators and peers including Arthur Jafa, Hank Willis Thomas and David Hammons round out the display, mapping the network of dialogue that runs through his output. The effect is less a solo survey than a portrait of an artist in conversation, with each collection reflecting another facet of the African Diaspora and the country's complicated shared history.Central to the whole thing is Emory's use of fashion as conceptual art. The exhibition frames his work as a way of translating dense historical references into cultural touchstones, reconfiguring familiar hierarchies and opening up conversations through inclusive gestures. By treating garments as carriers of meaning, the show makes the case that Emory's clothing operates on the same plane as the fine art surrounding it, offering viewers a prompt for reflection and reconsideration.Denim Tears from the Pool of Black Genius, organized by SCAD Museum of Art chief curator Daniel S. Palmer, runs until Janu"
+    },
+    {
+      "id": "cd321bd9e96f0501",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple’s New Music Hall Turns a Battersea Power Station Room Into a Full Live-Production Studio",
+      "url": "https://hypebeast.com/2026/9/apple-music-hall-london-announcement-info",
+      "publishedAt": "2026-09-22T09:02:38.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "Apple’s New Music Hall Turns a Battersea Power Station Room Into a Full Live-Production Studio Summary Apple has opened Apple Music Hall, a live music venue inside London's Battersea Power StationThe 600-capacity space is engineered so artists can perform, record and film a show all in one placeA 48-speaker spatial sound system and dual mix studios let performances be captured in Spatial Audio and livestreamed worldwide Apple Music Hall, Apple's new live music venue in London's Battersea Power Station, is built to function as much like a studio as a concert hall. The 600-capacity room is engineered to let an artist play an intimate set and walk away with a finished recording, a broadcast mix and multicamera video from the same night.The core idea is closing the distance between a small-room show and arena-grade production. Every seat sits close to the performer, but the backend infrastructure is scaled for a touring act, anchored by a 38-foot-wide stage that reconfigures between a traditional front-facing layout and in-the-round setups. Wrapping the audience is a 48-speaker spatial sound system, positioned all around the room so that when an artist performs in spatial, fans hear the set as a fully immersive mix rather than a standard front-of-house feed.Behind the stage, the venue operates as a working production facility. Two dedicated recording and mix studios are built to professional standards, allowing any performance to be captured as a multitrack recording and mixed in Spatial Audio, either live or after the show. The camera side is equally serious: the space is hardwired for 16 or more cameras feeding a purpose-built broadcast control room, with infrastructure that runs iPhone video capture in parallel with traditional broadcast rigs. The net result is a single-show pipeline that outputs a Spatial Audio recording, a broadcast-ready mix and multicamera video at once, with performances also livestreamed globally for fans outside London.The architecture leans into its host building rather than fighting it. Apple Music Hall pulls from Battersea Power Station's design language with heritage brickwork, fluted arches and bronze balconies that echo the structure's historic oriel windows, while a giant glass wall opens up a panoramic view of the concourse and the River Thames beyond. Apple also used the opening to relocate Apple Music Radio's London hosts and shows, which now broadcast live from new studios inside Battersea. As Oliver Schusser, Apple's vice"
+    },
+    {
+      "id": "cb91ac2b62a5e28c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple Is Reportedly Developing a Screenless Health Band",
+      "url": "https://hypebeast.com/2026/9/apple-screenless-health-tracker-could-redefine-wearables",
+      "publishedAt": "2026-09-22T09:00:56.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "Apple Is Reportedly Developing a Screenless Health Band Summary Apple’s industrial design team is exploring a screenless fitness tracker band positioned below the Apple Watch SEThe potential hardware pivot follows the September 2026 launch of the data-dense Readiness app for the Series 12 and Ultra 4Health division head Eddy Cue is pushing the stripped-down wearable to accelerate the brand's pace in the fitness category Apple is preparing a radical shift in its wearable lineup by exploring the development of an Apple screenless health tracker. According to an early August 2026 report from Bloomberg’s Mark Gurman, the tech giant’s industrial design team has spent roughly a year conceptualizing new hardware formats. Gurman described this internal exploration as something that transforms the product for a new era, equating the scale of the design rethink to the iPhone eventually jumping to a foldable form factor. The display-free band is being weighed alongside other potential wearable changes such as a round display concept and a ceramic chassis reported by PCMag. However, the reporter noted that the round Apple Watch is unlikely to ever ship, framing the screenless band as the most plausible product to emerge from the initiative. By stripping away the display, Apple could eliminate the daily charging requirements that have long been a common friction point for its smartwatch users while simultaneously targeting a lower price umbrella the brand has never fully occupied just below the Apple Watch SE.While Apple remains uncommitted to the screenless band, and while the device lacks a finalized sensor array, official name, price or release date, the software engine required to power it is already on the market. On September 18, 2026, Apple launched the Readiness app on the Apple Watch Series 12 and Ultra 4. The system calculates a daily readiness score ranging from 0 to 10 by analyzing recent activity, sleep data and overnight vitals. Users receive one of four daily recommendations: Recover, Pace Yourself, Ready or Go For It. To fuel these insights, the underlying health system samples Heart Rate Variability (HRV) every five minutes. Company officials state this rate is 24 times denser than what the preceding Series 11 could manage. Engineers then split these readings into an overall HRV and a dedicated Recovery HRV, uniquely comparing the data against a user's personal baseline rather than a generic population average.The strongest internal advocate for the st"
+    },
+    {
+      "id": "5f44ca990e731194",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Weeknd Debuts New Song Sampling 'Neon Genesis Evangelion' Theme in Japan",
+      "url": "https://hypebeast.com/2026/9/the-weeknd-tokyo-new-song-sampling-neon-genesis-evangelion-after-hours-til-dawn-tour-debut",
+      "publishedAt": "2026-09-22T08:47:27.000Z",
+      "collectedAt": "2026-09-22T16:39:16.522Z",
+      "text": "The Weeknd Debuts New Song Sampling 'Neon Genesis Evangelion' Theme in Japan Summary The Weeknd premiered an unreleased track sampling the 'Neon Genesis Evangelion' theme song during his After Hours Til Dawn tour in JapanJapanese singer Yoko Takahashi joined the artist on stage while NieR creator Yoko Taro directed the multimedia visualsThe live debut marks the second city-linked track unveiled on the tour following his previous performance in Rio de Janeiro The Weeknd has premiered an unreleased track sampling the iconic Neon Genesis Evangelion theme song during the opening night of the Asian leg of his After Hours Til Dawn tour.The singer—real name Abel Tesfaye—performed the song live alongside original recording artist Yoko Takahashi at the Belluna Dome in Saitama, Japan.Dubbed \"Tokyo,\" the track incorporates elements of Takahashi’s 1995 J-pop anthem \"A Cruel Angel’s Thesis,\" famous as the opening theme to Neon Genesis Evangelion. During the performance, Takahashi sang the track in full as Tesfaye joined her on stage. The segment featured multimedia visuals directed by Yoko Taro, the creative director behind the NieR video game series, incorporating imagery from both Evangelion and 2017's NieR: Automata. Tesfaye credited the production on social media as \"Presented by YOKO TARO ft. YOKO TAKAHASHI.\"The performance marks the second unreleased, location-inspired song Tesfaye has debuted on tour, following \"Rio\" featuring Anitta. While Tesfaye previously suggested retiring The Weeknd moniker after his 2025 album Hurry Up Tomorrow, he recently confirmed he will continue creating and touring indefinitely.The After Hours Til Dawn tour continues across Jakarta, Singapore, Seoul, Bangkok, and Hong Kong before concluding in Kuala Lumpur on November 4, 2026.Presented by YOKO TARO ft. YOKO TAKAHASHI pic.twitter.com/a8wUBHV7k6— The Weeknd (@theweeknd) September 19, 2026 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a4d8f204ca93ecfd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "FunnyPlaying's FPGB Mini Is an Ultra-Compact FPGA Handheld That Plays Original Game Boy Cartridges",
+      "url": "https://hypebeast.com/2026/9/funnyplaying-fpgb-mini-shrinks-fpga-game-boy-hardware",
+      "publishedAt": "2026-09-22T08:30:48.000Z",
+      "collectedAt": "2026-09-22T16:39:16.523Z",
+      "text": "FunnyPlaying's FPGB Mini Is an Ultra-Compact FPGA Handheld That Plays Original Game Boy Cartridges Summary FunnyPlaying introduces the ultra-compact FPGB Mini for original Game Boy and Game Boy Color cartridgesHardware utilizes FPGA technology for 1:1 historical accuracy without relying on software emulationFeatures a high-resolution IPS display, physical link cable support and a built-in real-time clock The retro hardware scene recently underwent a massive downsizing. FunnyPlaying announced the FPGB Mini, an ultra-compact handheld console engineered to play original Game Boy and Game Boy Color cartridges directly without adapters. This form factor measures barely wider than a standard Game Boy cartridge. Handheld weight is approximately 135g with a strictly minimalist footprint measuring 113mm x 64mm x 22mm. A dedicated carrying case is included in the box for immediate portability. Cartridge support remains limited strictly to Game Boy and Game Boy Color titles.Under the hood, the console rejects traditional software emulation in favor of field-programmable gate array (FPGA) technology. By utilizing an FPGA chip to directly recreate original circuitry behavior, the device mirrors the exact hardware quirks, colors and timing of vintage consoles. This device caters to a specific demographic in the retro gaming market, where the inclusion of original cartridge slots and hardware mimicry signals a cultural pivot toward 1:1 historical accuracy.Visually, the handheld modernizes vintage aesthetics. The FPGB Mini features a 2.98-inch IPS screen packing a resolution of 800 by 720 pixels, a specific mathematical choice that scales the original Game Boy display by exactly five times. This screen supports 16.7 million colors and utilizes an RGB565 pipeline. Dedicated processing ensures that original Game Boy Color titles remain properly saturated, delivering the vibrancy intended by developers decades ago.The front layout features a 4-way cross D-Pad on the left, standard B and A buttons on the right and Start and Select buttons on the bottom. Physical controls include a slide power switch on the top and a volume control on the side. Crucially, the console includes a dedicated wired connection for multiplayer battles and trading, though the link cable is an optional accessory sold separately. To support vintage mechanics, a built-in real-time clock triggers in-game timed events and day-night cycles for cartridges such as Pokémon Gold and Silver.While the focus is fi"
+    },
+    {
+      "id": "937f3c26db44cd7c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Honors Caitlin Clark’s Kansas City Fandom With the Caitlin 1 \"Chiefs\"",
+      "url": "https://hypebeast.com/2026/9/nike-caitlin-1-chiefs-ih7423-601-first-look-release-info",
+      "publishedAt": "2026-09-22T08:18:48.000Z",
+      "collectedAt": "2026-09-22T16:39:16.523Z",
+      "text": "Nike Honors Caitlin Clark’s Kansas City Fandom With the Caitlin 1 \"Chiefs\" Summary Caitlin Clark has provided an early look at her upcoming Nike Caitlin 1 \"Chiefs\" signature colorwayThe sneaker pairs a bright red upper with gold midsole accents and an oversized black SwooshThe pair is scheduled to release on December 21, 2026 for $140 USD Name: Nike Caitlin 1 \"Chiefs\"Colorway: University Red/White-University Gold-Black-Metallic Silver-Racer BlueSKU: IH7423-601MSRP: $140 USDRelease Date: December 21, 2026Where to Buy: NikeNike and basketball star Caitlin Clark are expanding her inaugural signature line with the Nike Caitlin 1 \"Chiefs\". Clark provided an early look at the pair before taking to the court in the new colorway on September 20 when the Indiana Pacers faced off against the Washington Mystics. The sneaker draws design cues from the Kansas City Chiefs, a team the athlete has publicly supported for years.The silhouette comes dressed predominantly in a bright red upper, complemented by gold detailing worked throughout the midsole and outsole. An oversized black Swoosh delivers contrast across the midfoot, while metallic accents highlight Clark’s signature branding on the tongue tag. The execution channels Kansas City's traditional team colors without using official NFL logos or league marks.Rooted in Clark's longtime fandom—which includes attending games and swapping jerseys with wide receiver Rashee Rice—the colorway reflects Nike's personal storytelling approach for the Caitlin 1. Expanding on her personal connections, Nike is also expected to launch a separate iteration inspired by friendship bracelets, referencing her friendship with Kansas City regular Taylor Swift.The Nike Caitlin 1 \"Chiefs\" is expected to release on December 21, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "bc0dfaddda1889b6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Air Max Dolce Appears in “Electric Blue”",
+      "url": "https://hypebeast.com/2026/9/nike-air-max-dolce-electric-blue-ib4527-400-official-images",
+      "publishedAt": "2026-09-22T08:15:01.000Z",
+      "collectedAt": "2026-09-22T16:39:16.523Z",
+      "text": "The Nike Air Max Dolce Appears in “Electric Blue” Name: Nike Air Max Dolce “Electric Blue”Colorway: Old Royal/Black-Old RoyalSKU: IB4527-400MSRP: $170 USDRelease Date: Fall/Winter 2026Nike's Air Max Dolce returns for another general-release run, this time drenched in a bold \"Electric Blue\" finish that covers almost the whole shoe. The loafer-meets-sneaker silhouette leans into a straightforward color story that puts the vibrant upper front and center.The Dolce's appeal starts with its unusual build, a hybrid that borrows the low, slip-ready profile of a loafer and grafts it onto Air Max cushioning. That blend makes for a fairly involved construction, which is likely why Nike keeps the palette uncomplicated here. The bright blue runs across essentially the entire exterior, letting the silhouette's shape do the heavy lifting rather than layering in extra contrast panels.Balancing out the saturated upper, the inner lining and the platform underneath both land in black. The result is a clean two-part split that reins in the intensity of the blue and gives the shoe a defined base. It's a restrained approach to color blocking, and given the model's complex layout, there's a decent chance Nike carries the same simple formula across the rest of this release cycle. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f35936e6a39aab6d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "McLaren Is Discontinuing the Artura in 2028 to Make Way for the New P34 Supercar",
+      "url": "https://hypebeast.com/2026/9/mclaren-artura-retires-in-2028-as-p34-successor-looms",
+      "publishedAt": "2026-09-22T08:02:24.000Z",
+      "collectedAt": "2026-09-22T16:39:16.523Z",
+      "text": "McLaren Is Discontinuing the Artura in 2028 to Make Way for the New P34 Supercar Summary McLaren announced the official retirement of the Artura from its supercar lineup for 2028The brand's first V-6 hybrid struggled against extreme technical delays and reliability issuesA rumored P34 successor will raise the brand's entry price by roughly $60,000 The era of the McLaren Artura is already working its way toward the exit. McLaren announced plans to officially drop its first V-6 hybrid supercar from the vehicle lineup in 2028, closing the chapter on a platform that currently serves as the brand’s entry-level model. Originally introduced to the market as the direct successor to the brand's celebrated previous generation, the outgoing vehicle will step aside to clear the lane for a rumored new supercar currently operating under the internal designation P34. This shift fundamentally alters the financial barrier to entry for the elite marque. Moving forward, the introduction of the upcoming P34 is expected to command a starting price of around $313,000. By removing the current entry-level option and swapping in the P34, the absolute floor to enter the brand will be raised by approximately $60,000.The upcoming discontinuation marks the end of a run that was inherently compromised from the starting line. Initial launch dates for the McLaren Artura were pushed back multiple times, stalling early momentum. Just as customer deliveries prepared to begin in 2021, the entire rollout was severely hindered by the global semiconductor shortage. Supply chain friction was only half the battle, as the vehicle's early production run was notoriously plagued by aggressive technical issues. Internal crisis reached such a critical pitch that in late 2022, McLaren liquidated more than $120 million worth of cars from its historic heritage collection strictly to fund the necessary fixes for the new platform's relentless technical gremlins.That chaotic rollout ultimately left a permanent mark on the supercar's reputation on the showroom floor. According to a U.S. dealer, the slow launch cycle and the highly publicized technical problems immediately put off prospective buyers. In a space driven by extreme aesthetics and raw performance clout, the car lacks true headline appeal. Dealers note that rather than feeling like a revolutionary step forward, the McLaren Artura essentially looks like a redesigned model that merely swaps out its aggressive V-8 for a V-6 hybrid engine.While the Bri"
+    },
+    {
+      "id": "62c82f396dc5894f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Razer's New Tartarus V2 Pro Is a One-Handed Keypad Built for MMO and FPS Gaming",
+      "url": "https://hypebeast.com/2026/9/razer-tartarus-v2-pro-keypad-launches-with-31-keys",
+      "publishedAt": "2026-09-22T08:00:49.000Z",
+      "collectedAt": "2026-09-22T16:39:16.523Z",
+      "text": "Razer's New Tartarus V2 Pro Is a One-Handed Keypad Built for MMO and FPS Gaming Summary Razer drops the Tartarus V2 Pro, a one-handed keypad packing 31 programmable controls and adjustable optical switchesThe device integrates a drift-resistant TMR thumbstick and dynamic keystroke features for precise executionPriced at $199.99, the peripheral slims down the traditional gaming setup while minimizing hand fatigue Razer has officially announced the release of the Razer Tartarus V2 Pro, a one-handed gaming keypad designed to radically tighten your desktop setup. Priced at $199.99, the peripheral offers a compact alternative to full-sized keyboards, specifically targeting titles that require rapid access to numerous shortcuts, such as heavily layered MMOs and fast-paced FPS games. By consolidating 31 programmable controls onto a single, focused footprint, the device fundamentally changes how players interact with their game, aiming to minimize hand fatigue and completely eliminate the need to reach across a traditional keyboard during crucial moments. The unit measures a sleek 211 by 159 by 49 mm and weighs in at just 486 grams, ensuring it takes up minimal desk real estate. Customers ordering the hardware during its launch week receive a $30 Razer Store Credit.At the core of the Razer Tartarus V2 Pro are second-generation Analog Optical Switches, built to recognize the precise depth of every single key press. Players can customize the actuation point of these switches anywhere between a hair-trigger 0.1 mm and a deep 4.0 mm, allowing for highly tailored tactile responses. This is bolstered by a built-in Rapid Trigger feature that allows the keypad to instantly detect upward keystroke movements as small as 0.1 mm, resetting inputs with hyper-fast precision. Razer rates these advanced switches for a staggering lifespan of up to 100 million keystrokes, emphasizing long-term durability. Driving the performance even further is the integration of true 8000 Hz HyperPolling, ensuring ultra-low latency and near-instantaneous communication between the hardware and the game.Breaking away from traditional keypad limitations, the peripheral features a dedicated analog thumbstick that utilizes advanced TMR technology with anti-drift positioning. Positioned strategically next to the thumbstick are three dedicated thumb buttons, putting even more immediate inputs directly under your most versatile digit. This thumbstick can be used for fluid character movement, or it can be "
+    },
+    {
+      "id": "906b5fd6c4c0b59d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Calvin Harris Breaks the Guinness World Record for Largest DJ Set After a 1.6 Million-Person Crowd in São Paulo",
+      "url": "https://hypebeast.com/2026/9/calvin-harris-guinness-world-records-largest-attendance-solo-dj-set",
+      "publishedAt": "2026-09-22T07:52:31.000Z",
+      "collectedAt": "2026-09-22T16:39:16.523Z",
+      "text": "Calvin Harris Breaks the Guinness World Record for Largest DJ Set After a 1.6 Million-Person Crowd in São Paulo Summary Calvin Harris has landed a Guinness World Records title for the largest attendance for a DJ set by a single artistThe record was set at his São Paulo performance, where an estimated 1.6 million people packed the streetsHarris played the set from a carnival float, leaning fully into the spirit of Brazilian football and carnival Calvin Harris has been awarded a Guinness World Records title for the largest attendance for a DJ set by a single artist, following a massive performance in São Paulo, Brazil on February 8. An estimated 1.6 million people turned out for the show, officially making it the biggest crowd ever assembled for a solo DJ set.The scale is staggering. Harris performed from a carnival float that rolled through Rua da Consolação in central São Paulo, effectively converting one of the city's main arteries into a sprawling open-air dancefloor as crowds filled the surrounding streets. Across the set, he ran through a string of his biggest global singles, including “This Is What You Came For,” “One Kiss,” “I Need Your Love” and “We Found Love.”Harris matched the occasion with a fitting look, pulling on a Brazil shirt numbered \"00\" with \"Calvinho\" printed across the back as he played from the moving platform. The nod to Brazilian football and carnival culture made the moment feel native to the city rather than an imported spectacle, and it marked his first return to Brazil in more than a decade.Guinness World Records has formally recognized the São Paulo show, citing the 1.6 million figure in confirming the title. \"Calvin Harris has spent years creating music that brings people together, so to see that reflected on this scale is really quite remarkable,\" said Will Munford, Official Guinness World Records Adjudicator. \"An estimated 1.6 million people came out to be part of his performance in São Paulo, which is an extraordinary achievement and a testament to the global reach of his music.\" Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e038f2be446e30a0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms",
+      "url": "https://hypebeast.com/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images",
+      "publishedAt": "2026-09-22T07:45:36.000Z",
+      "collectedAt": "2026-09-22T16:39:16.523Z",
+      "text": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms Name: Nike Air Force 1 Low “Gold Charms”Colorway: White/Metallic Gold/WhiteSKU: IZ8908-100MSRP: $125 USDRelease Date: TBCThe Air Force 1 Low is the latest canvas for Nike’s growing charm obsession, pairing the silhouette's signature all-white leather with a snakeskin-textured Swoosh and a set of removable golden trinkets. It's a restrained update on paper that leans on its accessories to do the talking.The foundation stays true to the AF1 blueprint, built on the clean white leather upper that made the model a wardrobe staple. The tweak comes at the Swoosh, rendered here in a tan finish and wrapped in a snakeskin texture that adds a tactile, slightly exotic edge without disrupting the neutral palette. The effect is deliberately understated, setting a quiet base for the flashier hardware.That hardware is the real hook. A trio of golden charms dangles from the laces, made up of a miniature Swoosh, a star, and an Air Force 1 emblem. The cluster attaches by a lobster claw, so it can be repositioned anywhere the clasp fits or pulled off entirely and used to dress up something beyond the shoe. It's a small detail with outsized flexibility, turning a fixed design element into something wearers can rearrange on a whim.The charm treatment also fits into a bigger pattern for Nike, which has increasingly leaned on removable accessories across its women's footwear as an easy route to personalization. The Air Force 1 is a natural fit for the approach: its simple, roomy construction leaves plenty of space for decorative flourishes without tipping into clutter, letting the extras register as intentional rather than busy. Click here to view full gallery at Hypebeast"
     }
   ]
 }
