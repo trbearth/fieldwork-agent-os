@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-22",
+    "id": "social-2026-09-23",
     "mode": "live",
-    "generatedAt": "2026-09-22T16:39:25.826Z",
-    "postsCollected": 25,
+    "generatedAt": "2026-09-23T16:31:51.844Z",
+    "postsCollected": 26,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -76,11 +76,11 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 56,
-      "confidence": 52,
-      "youthRelevance": 79,
-      "velocity": -33,
-      "evidence": "6 public posts · 1 network · 7-day comparison",
+      "score": 61,
+      "confidence": 54,
+      "youthRelevance": 80,
+      "velocity": -22,
+      "evidence": "7 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo",
@@ -93,13 +93,13 @@
           "network": "Mastodon"
         },
         {
-          "title": "A grey sack blazer, a Fair Isle vest, a white oxford and a red-and-navy rep tie. Stop there and it r",
-          "url": "https://mastodon.social/@seoul_trad/117313262785990390",
+          "title": "A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.",
+          "url": "https://mastodon.social/@seoul_trad/117318513484772836",
           "network": "Mastodon"
         },
         {
-          "title": "For the days that call for dressing properly, it keeps coming back to this: a navy double-breasted b",
-          "url": "https://mastodon.social/@seoul_trad/117307195839344580",
+          "title": "A grey sack blazer, a Fair Isle vest, a white oxford and a red-and-navy rep tie. Stop there and it r",
+          "url": "https://mastodon.social/@seoul_trad/117313262785990390",
           "network": "Mastodon"
         }
       ]
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "25 observations"
+      "reason": "26 observations"
     },
     {
       "id": "bluesky",

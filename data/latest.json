@@ -1,31 +1,57 @@
 {
   "run": {
-    "id": "2026-09-22",
+    "id": "2026-09-23",
     "mode": "live",
-    "displayDate": "SEP 22, 2026, 12:39 PM EDT",
-    "generatedAt": "2026-09-22T16:39:17.795Z",
-    "itemsCollected": 59,
+    "displayDate": "SEP 23, 2026, 12:31 PM EDT",
+    "generatedAt": "2026-09-23T16:31:43.216Z",
+    "itemsCollected": 64,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 15
+        "count": 16
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
-  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 58,
+      "confidence": 38,
+      "youthRelevance": 49,
+      "direction": "up",
+      "thesis": "Quiet performance is appearing across 2 independent public sources.",
+      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "How to Make a 30-Year-Old Air Max Better? Waterproof It",
+          "source": "Highsnobiety",
+          "date": "Sep 22",
+          "url": "https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/"
+        },
+        {
+          "title": "Timberland Launches the Timberland 25 Lightweight Waterproof Boot",
+          "source": "Hypebeast",
+          "date": "Sep 23",
+          "url": "https://hypebeast.com/2026/9/timberland-timberland-25-release"
+        }
+      ]
+    },
     {
       "id": "narrow-technical-footwear",
       "name": "Narrow technical footwear",
@@ -47,42 +73,28 @@
       ]
     },
     {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 46,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "How to Make a 30-Year-Old Air Max Better? Waterproof It",
-          "source": "Highsnobiety",
-          "date": "Sep 22",
-          "url": "https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/"
-        }
-      ]
-    },
-    {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 32,
-      "confidence": 26,
-      "youthRelevance": 49,
-      "direction": "flat",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +0% seven-day velocity",
+      "score": 41,
+      "confidence": 41,
+      "youthRelevance": 41,
+      "direction": "down",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · -33% seven-day velocity",
       "citations": [
         {
           "title": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms",
           "source": "Hypebeast",
           "date": "Sep 22",
           "url": "https://hypebeast.com/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images"
+        },
+        {
+          "title": "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing",
+          "source": "Highsnobiety",
+          "date": "Sep 23",
+          "url": "https://www.highsnobiety.com/p/nike-moon-shoe-coconut-milk/"
         }
       ]
     },
@@ -109,18 +121,19 @@
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "2 mentions this week versus 2 in the prior seven-day window."
+    "reason": "2 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Narrow technical footwear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Quiet performance moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0922",
-    "name": "Narrow technical footwear",
-    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
+    "code": "AUTO 0923",
+    "name": "Quiet performance",
+    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "Nike Readied Its Most Athletic Trail Shoe with Pickle Juice"
+      "How to Make a 30-Year-Old Air Max Better? Waterproof It",
+      "Timberland Launches the Timberland 25 Lightweight Waterproof Boot"
     ]
   }
 }

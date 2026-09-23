@@ -2146,6 +2146,53 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-23",
+      "mode": "live",
+      "displayDate": "SEP 23, 2026, 12:31 PM EDT",
+      "generatedAt": "2026-09-23T16:31:43.216Z",
+      "itemsCollected": 64,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 16
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 58,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 41,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -32695,6 +32742,710 @@
       "publishedAt": "2026-09-22T07:45:36.000Z",
       "collectedAt": "2026-09-22T16:39:16.523Z",
       "text": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms Name: Nike Air Force 1 Low “Gold Charms”Colorway: White/Metallic Gold/WhiteSKU: IZ8908-100MSRP: $125 USDRelease Date: TBCThe Air Force 1 Low is the latest canvas for Nike’s growing charm obsession, pairing the silhouette's signature all-white leather with a snakeskin-textured Swoosh and a set of removable golden trinkets. It's a restrained update on paper that leans on its accessories to do the talking.The foundation stays true to the AF1 blueprint, built on the clean white leather upper that made the model a wardrobe staple. The tweak comes at the Swoosh, rendered here in a tan finish and wrapped in a snakeskin texture that adds a tactile, slightly exotic edge without disrupting the neutral palette. The effect is deliberately understated, setting a quiet base for the flashier hardware.That hardware is the real hook. A trio of golden charms dangles from the laces, made up of a miniature Swoosh, a star, and an Air Force 1 emblem. The cluster attaches by a lobster claw, so it can be repositioned anywhere the clasp fits or pulled off entirely and used to dress up something beyond the shoe. It's a small detail with outsized flexibility, turning a fixed design element into something wearers can rearrange on a whim.The charm treatment also fits into a bigger pattern for Nike, which has increasingly leaned on removable accessories across its women's footwear as an easy route to personalization. The Air Force 1 is a natural fit for the approach: its simple, roomy construction leaves plenty of space for decorative flourishes without tipping into clutter, letting the extras register as intentional rather than busy. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b4651eca0882d13f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "MM6 Maison Margiela Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mm6-maison-martin-margiela",
+      "publishedAt": "2026-09-23T16:27:04.000Z",
+      "collectedAt": "2026-09-23T16:31:39.132Z",
+      "text": "MM6 Maison Margiela Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "1968f0dc9f496ef5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside The Making of Dame Pat McGrath’s Vogue World Milano Makeup Vision",
+      "url": "https://www.vogue.com/article/pat-mcgrath-beauty-interview-vogue-world-milan",
+      "publishedAt": "2026-09-23T16:13:25.000Z",
+      "collectedAt": "2026-09-23T16:31:39.132Z",
+      "text": "Inside The Making of Dame Pat McGrath’s Vogue World Milano Makeup Vision Fashion’s favorite makeup artist builds a dream within a dream at Vogue World 2026: Milano."
+    },
+    {
+      "id": "8cf12e8eed928249",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 Best Night Creams to Wake Up With Glowing Skin",
+      "url": "https://www.vogue.com/article/best-night-creams",
+      "publishedAt": "2026-09-23T16:02:29.000Z",
+      "collectedAt": "2026-09-23T16:31:39.132Z",
+      "text": "10 Best Night Creams to Wake Up With Glowing Skin From Skinceuticals to L’Oréal, Medik8, and more, these are the best night creams recommended by dermatologists, estheticians, and Vogue editors."
+    },
+    {
+      "id": "2c3c6744cd9e121e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Here Comes The Bridal Inspiration! 8 Models Walked in White at Vogue World: Milano 2026",
+      "url": "https://www.vogue.com/slideshow/bridal-beauty-fashion-inspiration-vogue-world-milano-2026",
+      "publishedAt": "2026-09-23T16:02:05.000Z",
+      "collectedAt": "2026-09-23T16:31:39.132Z",
+      "text": "Here Comes The Bridal Inspiration! 8 Models Walked in White at Vogue World: Milano 2026 One unexpected trend to come out of Vogue World: Milano 2026 that everyone is pleasantly surprised to see is all the bridal inspiration that graced the halls of Milan’s Galleria."
+    },
+    {
+      "id": "419b82166b8be66a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lopez Is at Her Peak Maximalist Powers in Milan",
+      "url": "https://www.vogue.com/article/jennifer-lopez-peak-maximalist-powers-in-milan-2026-09-23",
+      "publishedAt": "2026-09-23T15:43:30.000Z",
+      "collectedAt": "2026-09-23T16:31:39.132Z",
+      "text": "Jennifer Lopez Is at Her Peak Maximalist Powers in Milan Be it in a ballgown or a pair of jeans, Jennifer Lopez reminds us that maximalism takes many forms—and she’s mastered all of them."
+    },
+    {
+      "id": "8f2e282ec7749374",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "An Afternoon of Skincare With Bluemercury and SkinCeuticals",
+      "url": "https://www.vogue.com/article/bluemercury-skinceuticals-masterclass",
+      "publishedAt": "2026-09-23T15:34:57.000Z",
+      "collectedAt": "2026-09-23T16:31:39.132Z",
+      "text": "An Afternoon of Skincare With Bluemercury and SkinCeuticals At an event in Chestnut Hill, MA, customers gathered for skin analyses, personalized treatment plans, and a masterclass led by a SkinCeuticals pro."
+    },
+    {
+      "id": "d2de192ca760cfa7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Metropolitan Opera Dialed Up the Glamour for Opening Night of Macbeth",
+      "url": "https://www.vogue.com/slideshow/metropolitan-opera-opening-night-macbeth-september-2026",
+      "publishedAt": "2026-09-23T15:30:40.000Z",
+      "collectedAt": "2026-09-23T16:31:39.132Z",
+      "text": "The Metropolitan Opera Dialed Up the Glamour for Opening Night of Macbeth During pre-show cocktails in the Grand Tier Bar, Sigourney Weaver chatted with Frances McDormand as Katie Holmes arrived with her artist beau, Jason Bard Yarmosky. Gina Gershon, Julianna Margulies, Ellen Burstyn, Edmund Donovan, and Juliana Canfield—in vintage Tom Ford-era Yves Saint Laurent—were also amongst those who filed into the packed house."
+    },
+    {
+      "id": "c47202381e90bbc7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Fashion Parade Continued at the Vogue World 2026: Milano After-Parties",
+      "url": "https://www.vogue.com/article/celebrities-vogue-world-2026-milano-after-parties",
+      "publishedAt": "2026-09-23T15:17:25.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "The Fashion Parade Continued at the Vogue World 2026: Milano After-Parties Gigi Hadid, Cardi B, and more hit the town in Milan to celebrate wrapping Vogue World: Milano."
+    },
+    {
+      "id": "9e5f405eeeb26ce5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Street Style from Milan Fashion Week, Spring 2027",
+      "url": "https://www.vogue.com/slideshow/phil-ohs-best-street-style-photos-from-the-spring-2027-shows-in-milan",
+      "publishedAt": "2026-09-23T15:00:05.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "The Best Street Style from Milan Fashion Week, Spring 2027 Phil Oh captures the stylish scene outside the spring 2027 shows at Milan Fashion Week."
+    },
+    {
+      "id": "db4229feda22a579",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Missoni Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/missoni",
+      "publishedAt": "2026-09-23T16:27:04.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Missoni Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "6e02f4937596dc97",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Behind-the-Scenes Photos from Milan Fashion Week, Spring 2027",
+      "url": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-moments-from-the-spring-2027-shows-in-milan",
+      "publishedAt": "2026-09-23T14:11:48.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "The Best Behind-the-Scenes Photos from Milan Fashion Week, Spring 2027 Photographer Acielle Tanbetova (@styledumonde) captures the backstage scene at Milan Fashion Week."
+    },
+    {
+      "id": "78b0a28ab25da385",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Celebrities Channeled Italian-Girl Beauty at Vogue World 2026: Milano",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-vogue-world-milan-2026-09-23",
+      "publishedAt": "2026-09-23T14:05:29.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Celebrities Channeled Italian-Girl Beauty at Vogue World 2026: Milano Here is how our favorite celebs channeled Italian-girl beauty at Vogue World: Milano 2026."
+    },
+    {
+      "id": "72328bfe53666ff0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars From Vogue World 2026: Milano",
+      "url": "https://www.vogue.com/slideshow/best-dressed-stars-vogue-world-2026-milano",
+      "publishedAt": "2026-09-23T13:30:50.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "The Best Dressed Stars From Vogue World 2026: Milano Tonight, A-list celebrities hit the Vogue World red carpet in their finest Milan-worthy looks. See who’s looks made our list of best dressed of the night."
+    },
+    {
+      "id": "4937f35c400dcb3a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "All the Star Athletes Who Walked Vogue World 2026: Milano",
+      "url": "https://www.vogue.com/slideshow/athletes-who-walked-vogue-world-2026-milano",
+      "publishedAt": "2026-09-23T13:07:43.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "All the Star Athletes Who Walked Vogue World 2026: Milano From modern tennis legends like Aryna Sabalenka to Italian Olympians like Arianna Fontana, the Vogue World runway was replete with sports stars."
+    },
+    {
+      "id": "b73ea4468b6c9a02",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hailey Bieber Taps This Sweater Weather-Ready Nail Shade",
+      "url": "https://www.vogue.com/article/hailey-bieber-taupe-nails",
+      "publishedAt": "2026-09-23T13:02:18.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Hailey Bieber Taps This Sweater Weather-Ready Nail Shade Say goodbye to summer’s fruity nails and hello to earthy fall colors—Hailey Bieber has already nailed her seasonal switch-up."
+    },
+    {
+      "id": "1f661dd1c840ce7a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dsquared2 Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dsquared",
+      "publishedAt": "2026-09-23T16:27:04.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Dsquared2 Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "e9b6bea7770499f3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dsquared2 Spring 2027 Menswear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-menswear/dsquared",
+      "publishedAt": "2026-09-23T16:27:04.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Dsquared2 Spring 2027 Menswear "
+    },
+    {
+      "id": "17834b9c05128af3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Fendi Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/fendi",
+      "publishedAt": "2026-09-23T16:27:04.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Fendi Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "266b520e17c3c5b0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mother’s Beverly Hills Flagship Was Worth the Wait",
+      "url": "https://www.vogue.com/slideshow/mother-beverly-hills-opening-party",
+      "publishedAt": "2026-09-23T11:53:56.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Mother’s Beverly Hills Flagship Was Worth the Wait Brittany Snow, Daphne Guinness, Dave Grohl, Alexandra Shipp, Ava Michelle, and Ava Phillippe were among those who joined Mother's Lela Becker and Tim Kaeding to celebrate their first-ever flagship; almost two years after the initial planned space was devastated by the Los Angeles fires."
+    },
+    {
+      "id": "46ac1b1d3779fd88",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 2026 Harvest Moon in Aries Is Coming—Here’s What It Means for Every Star Sign",
+      "url": "https://www.vogue.com/article/harvest-moon-2026-in-aries-astrology-every-star-sign",
+      "publishedAt": "2026-09-23T11:24:39.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "The 2026 Harvest Moon in Aries Is Coming—Here’s What It Means for Every Star Sign The first full moon of fall will occur on Saturday, September 26—find out what it means for you here with Vogue’s full astrological breakdown by star sign of the effects of the 2026 harvest moon."
+    },
+    {
+      "id": "6af797d3ee89f1d6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Wedding Dress Bustles: The Best Types to Shorten Your Train",
+      "url": "https://www.vogue.com/article/the-best-types-of-wedding-dress-bustles",
+      "publishedAt": "2026-09-23T11:12:00.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Wedding Dress Bustles: The Best Types to Shorten Your Train Wedding dress bustles are a bride's secret to shortening a dramatic train. Learn all the details of common types of bustles and how to choose the best one for your gown."
+    },
+    {
+      "id": "12378f03668e4aa2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Antonio Marras Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/antonio-marras",
+      "publishedAt": "2026-09-23T16:27:04.000Z",
+      "collectedAt": "2026-09-23T16:31:39.133Z",
+      "text": "Antonio Marras Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "c745ef3027164662",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Raquel Diniz Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/raquel-diniz",
+      "publishedAt": "2026-09-23T16:27:04.000Z",
+      "collectedAt": "2026-09-23T16:31:39.134Z",
+      "text": "Raquel Diniz Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "e7d4323f2b1fff52",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vittoria Ceretti Began Vogue World 2026 in a Dazzling Valentino Haute Couture Gown—Then Returned in Custom Prada",
+      "url": "https://www.vogue.com/article/vittoria-ceretti-vogue-world-2026-milano-valentino-prada",
+      "publishedAt": "2026-09-23T10:05:03.000Z",
+      "collectedAt": "2026-09-23T16:31:39.134Z",
+      "text": "Vittoria Ceretti Began Vogue World 2026 in a Dazzling Valentino Haute Couture Gown—Then Returned in Custom Prada The supermodel was a natural fit for a celebration of Italian fashion—and delivered two of the night’s most showstopping looks."
+    },
+    {
+      "id": "d9c2437461eab8d3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "24 Elopement Dresses That You Will Want to Rewear",
+      "url": "https://www.vogue.com/article/elopement-dresses",
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "collectedAt": "2026-09-23T16:31:39.134Z",
+      "text": "24 Elopement Dresses That You Will Want to Rewear Planning a non-traditional wedding? These elopement dresses are perfect for an intimate ceremony—no matter the setting."
+    },
+    {
+      "id": "f64a63bbf3aad3b8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Very Best Jeans for Tall Women in 2026 That Fit Perfectly",
+      "url": "https://www.vogue.com/article/best-jeans-for-tall-women",
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "collectedAt": "2026-09-23T16:31:39.134Z",
+      "text": "The Very Best Jeans for Tall Women in 2026 That Fit Perfectly Vogue contributors share how to find the best jeans for tall women. Shop top picks, from Levi’s to Frame, and more."
+    },
+    {
+      "id": "e77be03284d7b728",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Heidi Klum Makes the Naked Dress Artisanal at Vogue World 2026: Milano",
+      "url": "https://www.vogue.com/article/heidi-klum-naked-dress-vogue-world-2026-milano-09-23",
+      "publishedAt": "2026-09-23T09:58:38.000Z",
+      "collectedAt": "2026-09-23T16:31:39.134Z",
+      "text": "Heidi Klum Makes the Naked Dress Artisanal at Vogue World 2026: Milano A longtime lover of the naked dress trend, supermodel Heidi Klum tapped a Greek designer for her intricately-embroidered, lingerie-style dress at Vogue World."
+    },
+    {
+      "id": "4ad4f6b07f95c2c8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue World 2026: Milano: Rewatch the Livestream Here",
+      "url": "https://www.vogue.com/article/watch-the-vogue-world-2026-milan-livestream",
+      "publishedAt": "2026-09-23T09:21:05.000Z",
+      "collectedAt": "2026-09-23T16:31:39.134Z",
+      "text": "Vogue World 2026: Milano: Rewatch the Livestream Here Experience the magic of Vogue World 2026: Milano for yourself by rewatching the livestream video here."
+    },
+    {
+      "id": "b9970e8cfbda458f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue World: Milano: Everything You Need to Know About the 2026 Event",
+      "url": "https://www.vogue.com/article/everything-you-need-to-know-about-vogue-world-milano",
+      "publishedAt": "2026-09-23T09:02:24.000Z",
+      "collectedAt": "2026-09-23T16:31:39.134Z",
+      "text": "Vogue World: Milano: Everything You Need to Know About the 2026 Event Vogue World’s goal in Milan? To celebrate Made in Italy, craftsmanship, and, above all, the human side of fashion. Here’s what went down at the 2026 event."
+    },
+    {
+      "id": "b51bbd9725b2c56d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Fruit of the Loom's Suit Made of T-Shirts Is For Everyone Now",
+      "url": "https://www.highsnobiety.com/p/fruit-of-the-loom-clane/",
+      "publishedAt": "2026-09-23T15:10:23.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Fruit of the Loom's Suit Made of T-Shirts Is For Everyone Now After multiple releases of the popular Keiji Kaneko x Fruit of the Loom suit in soft T-shirt fabric, Japanese label CLANE was brought in for a womenswear edit."
+    },
+    {
+      "id": "70122fedbdd0538e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Model's Own: Literary Sport's Jackie McKeown Sometimes Takes 3 Baths A Day",
+      "url": "https://www.highsnobiety.com/p/models-own-literary-sport-jackie-mckeown/",
+      "publishedAt": "2026-09-23T14:27:21.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Model's Own: Literary Sport's Jackie McKeown Sometimes Takes 3 Baths A Day For Highsnobiety's \"Model's Own,\" Literary Sport designer Jackie McKeown dishes on Eddie Bauer thrifts, compression boots, and the perfect Phoebe Philo bag."
+    },
+    {
+      "id": "b9d64eb8deee2f4c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "There's Always Time to Play at Fossil Athletics Club",
+      "url": "https://www.highsnobiety.com/p/fossil-athletics-club/",
+      "publishedAt": "2026-09-23T14:12:37.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "There's Always Time to Play at Fossil Athletics Club Discover FOSSIL's most iconic watch designs"
+    },
+    {
+      "id": "4018a5590620d90d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Future Looks Bright In Nike's Airelons",
+      "url": "https://www.highsnobiety.com/p/the-future-looks-bright-in-nikes-airelons/",
+      "publishedAt": "2026-09-23T12:56:08.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "The Future Looks Bright In Nike's Airelons A staple of their '90s athletic eyewear designs, Nike have relaunched their Airelon collection for the modern consumer."
+    },
+    {
+      "id": "65594e251843345f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Onitsuka Tiger’s Most Popular Sneaker Tips the Scales",
+      "url": "https://www.highsnobiety.com/p/onitsuka-tiger-mexico-66-square/",
+      "publishedAt": "2026-09-23T15:50:42.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Onitsuka Tiger’s Most Popular Sneaker Tips the Scales Onitsuka Tiger's scale-covered Mexico 66 Square sneaker makes quite the stylish little reptile."
+    },
+    {
+      "id": "d771c000d8daf4c5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Sprinkled Samba Gets Its Just Desserts",
+      "url": "https://www.highsnobiety.com/p/asphalt-adidas-superstar-cannoli-sneaker/",
+      "publishedAt": "2026-09-23T15:46:55.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "adidas' Sprinkled Samba Gets Its Just Desserts Asphalt just baked adidas' sweetest Samba sneaker & the results are a whole new type of decadent."
+    },
+    {
+      "id": "b28e2e1337e23c4d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Climbing Samba Reaches a New Peak",
+      "url": "https://www.highsnobiety.com/p/adidas-five-ten-samba-sneaker/",
+      "publishedAt": "2026-09-23T15:43:52.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "adidas' Climbing Samba Reaches a New Peak adidas' Five Ten Samba sneaker takes a treasured flat shoe & turns it into a mountain-ready climber."
+    },
+    {
+      "id": "26764d9c956b3574",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "atmos Made the Literal adidas Sneaker of the Season",
+      "url": "https://www.highsnobiety.com/p/atmos-adidas-tobacco-sneakers-2026/",
+      "publishedAt": "2026-09-23T15:39:56.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "atmos Made the Literal adidas Sneaker of the Season atmos returns with another adidas Tobacco sneaker collaboration inspired by the fall leaves. The brand ultimately ends up with the shoe of the season."
+    },
+    {
+      "id": "1119ad9c1f46772f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Yaeji & Oatly Gave the Coffee Shop an After-Hours Remix",
+      "url": "https://www.highsnobiety.com/p/oatly-cafe-yaeji-pop-up/",
+      "publishedAt": "2026-09-22T20:18:53.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Yaeji & Oatly Gave the Coffee Shop an After-Hours Remix By day, Café Yaeji looked like somewhere you might wander into for an iced latte. But on opening night, once 7 p.m. hit and Yaeji stepped behind the decks, the intimate café became…the club? Yes, you read that right."
+    },
+    {
+      "id": "2ef9abf7ee6fc9fb",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Most Beautiful Samba Slipper Is Straight from India",
+      "url": "https://www.highsnobiety.com/p/vegnonveg-adidas-samba-mule/",
+      "publishedAt": "2026-09-23T15:33:13.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "adidas’ Most Beautiful Samba Slipper Is Straight from India VegNonVeg debuts its adidas Samba Mule collaboration, which sees the classic sneaker reimagined as a traditional Indian slipper."
+    },
+    {
+      "id": "70ee7d5ebeebe187",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Stone Island Turned Its Fans Into Collaborators (EXCLUSIVE)",
+      "url": "https://www.highsnobiety.com/p/stone-island-collectors-interview/",
+      "publishedAt": "2026-09-23T13:35:08.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Stone Island Turned Its Fans Into Collaborators (EXCLUSIVE) Only Stone Island would collaborate with the world's biggest Stone Island collectors -- both pedestaling their archives & contrasting with new gear."
+    },
+    {
+      "id": "804db2bea951f1ba",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jordan’s Black Leather Dad Shoe Is the Slickest Yet",
+      "url": "https://www.highsnobiety.com/p/jordan-ultra-coal-black/",
+      "publishedAt": "2026-09-23T15:29:54.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Jordan’s Black Leather Dad Shoe Is the Slickest Yet The Air Jordan Ultra dadcore sneaker is back in a new all-black leather look. Here's everything on the slickest release yet."
+    },
+    {
+      "id": "30f1c8011621c32b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Techy Mary Jane Sneaker Enters Its Plush Era",
+      "url": "https://www.highsnobiety.com/p/nike-shox-z-calistra-velvet/",
+      "publishedAt": "2026-09-23T15:22:22.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Nike’s Techy Mary Jane Sneaker Enters Its Plush Era Nike's Shox Z Calistra lands with velvet uppers, resulting in the plushest version of the Mary Jane sneaker yet."
+    },
+    {
+      "id": "a2f4d9285344e7ca",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "When Did Denim Stores Start Looking Like Apple Stores?",
+      "url": "https://www.highsnobiety.com/p/momotaro-denim-store/",
+      "publishedAt": "2026-09-22T18:39:37.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "When Did Denim Stores Start Looking Like Apple Stores? Momotaro, one of Japan's kings of high-end raw jeans, opened a new denim flagship that could pass for an Apple store. Why is it so fancy?"
+    },
+    {
+      "id": "2a94397c8c22005b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing",
+      "url": "https://www.highsnobiety.com/p/nike-moon-shoe-coconut-milk/",
+      "publishedAt": "2026-09-23T15:18:10.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing Nike's original Moon Shoe gets its most textural update yet, complete with floral details, mesh, & fuzzy suede."
+    },
+    {
+      "id": "3e2700dc3ad46608",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "From New Balance to Merrell, the Seven Best Sneakers to Cop This Week",
+      "url": "https://www.highsnobiety.com/p/sneaker-releases-2026-september-week-4/",
+      "publishedAt": "2026-09-22T16:54:52.000Z",
+      "collectedAt": "2026-09-23T16:31:40.524Z",
+      "text": "From New Balance to Merrell, the Seven Best Sneakers to Cop This Week From a heritage Merrell collab to a 3-D printed Nike Air Max, find here the seven best sneakers of the week."
+    },
+    {
+      "id": "6307d47bd3348486",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Inside Brooklyn’s Most Electric NYFW Event Celebrating Public School and WHATMORE for Our September Covers",
+      "url": "https://hypebeast.com/2026/9/toyota-chr-public-school-whatmore-nyfw-event",
+      "publishedAt": "2026-09-23T15:47:42.000Z",
+      "collectedAt": "2026-09-23T16:31:41.947Z",
+      "text": "Inside Brooklyn’s Most Electric NYFW Event Celebrating Public School and WHATMORE for Our September Covers New York Fashion Week kicked off with an undeniable surge of energy as Hypebeast brought its editorial pages to life for our Digital Cover celebration at Brooklyn’s 99 Scott. The evening brought together two generations of New York creative talent to celebrate our September cover stars: iconic streetwear pioneers Dao-Yi Chow and Maxwell Osborne of Public School, alongside the rising five-piece music group WHATMORE. Transforming the industrial warehouse space into an authentic block party, the night honored the city's multi-hyphenate mindset—where fashion, music, and urban culture naturally intersect.Serving as the seamless thread throughout the venue, Toyota’s all-electric C-HR was integrated directly into the rhythm of the event. The vehicle functioned as an interactive hub for attendees. Guests climbed into the backseat of the all-electric C-HR to record raw \"car confessionals\" and snap high-energy photo booth shots framed with custom event artwork. Adding an element of play, guests were handed branded keychains upon entry, testing their luck to unlock an in-car lockbox stocked with a curated road-trip style tote filled with Public School merch and JBL speakers.The physical environment tapped into classic New York iconography, featuring a custom newsstand-inspired merch booth set up in the center of the space. In a direct nod to the September digital covers, the booth served limited-edition \"No Tricks in '26\" graphic tees designed by Public School. Styled in the visual language of vintage newsprint, the shirts were handed out to guests straight from street-vendor racks and clear newspaper dispensers, turning the distribution of ephemera into a memorable design moment.Music powered the atmosphere from start to finish, keeping the crowd engaged throughout the three-hour gathering. Blu DeTiger set the initial tone from the DJ booth with an electric set while attendees enjoyed curated bites from culinary collective Ghetto Gastro. The marquee moment arrived when WHATMORE took the stage, delivering a high-octane 20-minute set that showcased their signature blend of genres, bringing the room’s energy to a peak as fellow creatives, artists, and NYFW tastemakers looked on.The launch event proved that modern NYC culture will always thrive in the creative spaces of fashion and music. Supported by Toyota, the night successfully bridged the gap between digital c"
+    },
+    {
+      "id": "015aefb13425d7dd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Inside Hypebeast Afterhours: A Saul Nash LFW Afterparty at Soho House",
+      "url": "https://hypebeast.com/2026/9/hypebeast-afterhours-saul-nash-london-fashion-week-event-recap",
+      "publishedAt": "2026-09-23T15:33:48.000Z",
+      "collectedAt": "2026-09-23T16:31:41.947Z",
+      "text": "Inside Hypebeast Afterhours: A Saul Nash LFW Afterparty at Soho House The latest Hypebeast Afterhours hit London last weekend, hosted in collaboration with designer, dancer and choreographer Saul Nash.Hot off the heels of the NYFW edition, the event took place during London Fashion Week at Soho House’s 180 House, with views overlooking the city’s lit-up skyline.With attendees pulling up in their best fits for the late-night event, cocktails were provided by Grey Goose and sounds were spun by Miles Peart, Cktrl, and Saul Nash himself, which brought the energy well into the early hours of Sunday,The Hypebeast x Saul Nash party came hours after the designer showcased his latest collection “Masquerade” at a pop-up installation inside the Dray Walk gallery. Inside, pieces originally shown on the runway at Milan Fashion Week were available to buy ahead of their general launch, with mood boards, design processes, and references from the season all on display for passersby to see.Also on view was a hand-picked curation of art from Gray Wielebinski and Izaak Brandt, alongside magazines, books, and other material that had inspired Nash this season. “Masquerade in Residence is a chance for people to step inside our world and interact with the clothing up close,\" Nash explains. \"Although it is only going to be there for a few days, it is more than just a typical pop-up shop. It is an opportunity to invite London and my community into the brand’s world”.Take a look at the gallery to see what went down. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "00b82f5742f77297",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "8 Drops You Don't Want to Miss This Week",
+      "url": "https://hypebeast.com/2026/9/best-drops-september-week-4-supreme-nike-beams-arc-teryx-awake-ny",
+      "publishedAt": "2026-09-23T12:30:05.000Z",
+      "collectedAt": "2026-09-23T16:31:41.947Z",
+      "text": "8 Drops You Don't Want to Miss This Week With another week upon us, we have yet another installment of our product drops series.This week's lineup of drops kicks off with Supreme and Nike reuniting for a Fall 2026 apparel capsule that blends technical sportswear with everyday streetwear utility. Next, Austin Post and the Dallas Cowboys fuse game-day culture with Western menswear, offering everything from graphic tees to a premium fringed jacket. ARC'TERYX and BEAMS celebrate dual anniversaries with their \"KOYO\" collection, featuring vibrant, autumn-inspired \"crazy-pattern\" technical outerwear. HUF merges mecha aesthetics with streetwear in a Neon Genesis Evangelion capsule built around heavyweight graphic tees and a collectible cap. Continuing the anime theme, RADIO EVA and AVIREX rebuild the MA-1 flight jacket with unit-coded EVA colorways and a detachable cowhide hood. Awake NY pays homage to its hometown with the \"Cold World\" collection, layering tracksuits, camo prints, and faux fur into a distinctly New York winter wardrobe. Brain Dead and Andersson Bell tap Tuareg guitarist Mdou Moctar to front a tactile, outdoor-inspired collection of utilitarian apparel and expressive tie-dye graphics. Finally, WTAPS and Shanghai Tang reinterpret traditional uniforms through a modern lens, reworking signature TANG jackets, trousers, and kung fu-inspired slip-ons for their first-ever collaboration.Check out this week’s 8 drops you don’t want to miss below.Nike x Supreme Fall 2026 CollabSupreme and Nike are reuniting for a comprehensive Fall 2026 apparel collection that seamlessly blends technical sportswear with everyday streetwear utility. Anchoring the collaborative capsule is a standout Faux Fur Reversible Parka, featuring water-resistant nylon taslan on one side and soft faux fur on the other. This weather-ready construction extends to a matching Hooded Jacket, Cargo Pant, and Trooper Hat. The lineup also delivers athletic and casual staples, including a poly-mesh Football Jersey and brushed-back fleece sweatpants and hoodies. Rounded out by a co-branded jacquard knit Oval Beanie, the Supreme x Nike collection launches September 24, followed by an Asia release on September 26 online.Austin Post x Dallas CowboysAustin Post and the Dallas Cowboys have officially reunited to launch a new collaborative apparel collection just in time for football season. Merging classic Western aesthetics with iconic team branding, the capsule seamlessly bridges game-day culture wit"
+    },
+    {
+      "id": "102defc768a45119",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Heinz’s Simply Spicy and Simply Pickle Ketchup Bring Real Jalapeños and Briny Tang to a Cleaner Recipe",
+      "url": "https://hypebeast.com/2026/9/heinz-simply-spicy-ketchup-simply-pickle-ketchup-release-info",
+      "publishedAt": "2026-09-23T11:00:29.000Z",
+      "collectedAt": "2026-09-23T16:31:41.947Z",
+      "text": "Heinz’s Simply Spicy and Simply Pickle Ketchup Bring Real Jalapeños and Briny Tang to a Cleaner Recipe Summary Heinz has launched Simply Spicy Ketchup and Simply Pickle Ketchup, the first flavored additions to its Simply lineupBoth varieties rework the brand's best-selling flavored ketchups around a simplified ingredient listSimply Spicy gets its heat from real jalapeños, while Simply Pickle layers a tangy, briny profile over Heinz's signature tomato base Heinz has introduced Simply Spicy Ketchup and Simply Pickle Ketchup, expanding its Simply line with its first flavored varieties. Both build on the stripped-back recipe philosophy behind the original Simply ketchup and bring it to two of the brand's most popular flavor profiles.The foundation is the original Heinz Simply ketchup, which uses just seven real ingredients and contains no artificial colors, flavors, sweeteners or preservatives. Heinz says the recipe keeps the thick, rich texture its classic ketchup is known for, so the shorter ingredient list doesn't come at the cost of consistency. The new flavors take cues from Heinz's top-selling flavored ketchups and rebuild them to fit the same simplified standard.Simply Spicy blends ripe red tomatoes with spices and real jalapeños, relying on actual peppers for its heat rather than a flavoring shortcut. Heinz pitches it as an all-purpose kick for burgers, chicken and even scrambled eggs.Simply Pickle keeps Heinz's familiar tomato base and adds a bright, briny pickle flavor for a sharper, tangier finish. It's aimed at the classic ketchup pairings, including hot dogs, fries and sandwiches, where a hit of acidity cuts through richer foods.The timing tracks with shifting shopper habits. Heinz cites figures showing that two in three shoppers actively look for simple, recognizable ingredient lists, while 85% say taste remains a priority when choosing food. On the flavor side, the brand points to 95% of consumers reporting that they enjoy hot and spicy foods in 2026, and year-over-year category sales growth of more than 30% for pickle-flavored products.Heinz Simply Spicy Ketchup and Simply Pickle Ketchup are rolling out now at retailers nationwide. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1e9fabe72f614475",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Stephen Curry's UNDERRATED Golf Teams Up With L.A.B. Golf for Limited-Edition Capsule",
+      "url": "https://hypebeast.com/2026/9/stephen-curry-underrated-golf-l-a-b-golf-collaboration-limited-edition-capsule-release-info",
+      "publishedAt": "2026-09-23T10:19:45.000Z",
+      "collectedAt": "2026-09-23T16:31:41.947Z",
+      "text": "Stephen Curry's UNDERRATED Golf Teams Up With L.A.B. Golf for Limited-Edition Capsule Summary L.A.B. Golf and Stephen Curry’s UNDERRATED Golf have launched a limited-edition putter and accessory collectionThe release includes custom VZN.1i and OZ.1i putters featuring a black stainless steel insert and UGT TPT shaftA portion of proceeds from every putter purchase will be donated back to the UNDERRATED Golf Tour L.A.B. Golf and Stephen Curry’s UNDERRATED Golf have officially released their collaborative limited-edition golf collection. Building on their partnership announced for the 2026 UNDERRATED Golf Tour (UGT) season, the release introduces signature putters alongside co-branded headcovers and greenside tools designed to support junior golf development.The centerpiece of the capsule includes custom iterations of L.A.B. Golf's VZN.1i and OZ.1i putters. Rendered in a limited-edition black, silver, and red color scheme, both models are engineered with a black stainless steel insert, a custom UGT TPT shaft, and a custom UGT Pistol 0º grip. Each putter ships in a custom black box detailed with red and silver highlights alongside imagery of Curry.Rounding out the kit, the collection offers a magnetic headcover ($100 USD) featuring red piping, silver-madera highlights, and triple-brand logo detailing. The accompanying Accessory Pack ($35 USD) includes a dual-pronged divot tool and a circular ball marker, both finished with dual-sided branding. A portion of proceeds from every putter sold goes directly back to supporting UGT’s mission to make golf accessible to young athletes aged 12 to 18.The UNDERRATED Golf x L.A.B. Golf collection is available now via L.A.B. Golf. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9e2803a573b15ae9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "J. Cole Unveils His First Independent Sneaker Silhouette, the Dreamer Indie 5000",
+      "url": "https://hypebeast.com/2026/9/j-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info",
+      "publishedAt": "2026-09-23T10:10:54.000Z",
+      "collectedAt": "2026-09-23T16:31:41.947Z",
+      "text": "J. Cole Unveils His First Independent Sneaker Silhouette, the Dreamer Indie 5000 Summary J. Cole is releasing his first independent footwear silhouette dubbed the Dreamer Indie 5000Crafted in Italy the retro basketball-inspired design features synthetic overlays across the upper and sole unitThe sneaker launches on September 23 in Fayetteville North Carolina with pricing details currently TBA J. Cole and his Dreamer label have officially introduced the Dreamer Indie 5000, marking the rapper's first independent sneaker release. Tthe silhouette follows Cole's previous partnership with PUMA and represents several years of independent footwear development.Crafted in Italy, the sneaker draws visual design cues from retro basketball footwear, featuring an aesthetic reminiscent of classic multi-panel trainers. The upper utilizes synthetic overlays that zig and zag across the base construction, with the angular paneling carrying through directly into the design of the sole unit.The release follows J. Cole's departure from PUMA after their initial collaborative run wrapped in 2021. Transitioning to a fully independent operation, the Dreamer Indie 5000 prioritizes European manufacturing and direct creative control under his own brand imprint.The J. Cole x Dreamer Indie 5000 releases in Fayetteville, North Carolina, on September 23, 2026, with pricing and wider availability currently TBA. View this post on InstagramA post shared by Cole World (@realcoleworld) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6a48072e82eae1e1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "GOLF WANG Teases FW26 Lineup Starring Tyler, The Creator",
+      "url": "https://hypebeast.com/2026/9/golf-wang-teases-fw26-collection-starring-tyler-the-creator-release-info",
+      "publishedAt": "2026-09-23T10:01:19.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "GOLF WANG Teases FW26 Lineup Starring Tyler, The Creator Summary GOLF WANG has officially teased a first look at its upcoming Fall/Winter 2026 collectionFounder Tyler The Creator appears throughout the campaign alongside friends in camera-roll style imageryKey items in the seasonal lineup include two-tone letterman jackets pony hair outerwear and tiger-striped bowling shirts GOLF WANG has unveiled a first look at its Fall/Winter 2026 collection. Revealed via social media by the brand, the upcoming seasonal range features brand founder Tyler, The Creator modeling new apparel alongside friends in a candid, camera-roll style preview.The FW26 collection continues to evolve Tyler’s distinct design language, seamlessly blending classic preppy tailoring, rugged workwear, and playful, graphic-heavy streetwear. Central to the seasonal offerings are two-tone letterman jackets executed in rich, earthy hues, alongside statement outerwear options including textured pony hair jackets and durable denim chore coats.Further expanding on GOLF WANG’s irreverent aesthetic, the lineup integrates mid-century-inspired tiger-striped bowling shirts to deliver a bold visual contrast against more utilitarian silhouettes. The capsule is rounded out with casual everyday staples, including branded hoodies and classic trucker hats, captured through informal photography that reinforces the brand's community-driven roots.The GOLF WANG Fall/Winter 2026 collection drops September 23, 2026, online. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3e5e38776504554c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Balance Ignites the 2010 Silhouette With a Glossy \"Firecracker/Sea Salt\" Colorway",
+      "url": "https://hypebeast.com/2026/9/new-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info",
+      "publishedAt": "2026-09-23T09:57:43.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "New Balance Ignites the 2010 Silhouette With a Glossy \"Firecracker/Sea Salt\" Colorway Summary New Balance has unveiled the 2010 in a bold Firecracker and Sea Salt color schemeThe lifestyle runner features glossy black overlays contrasting against lighter Sea Salt textiles and bright red accentsThe pair is currently available overseas with a stateside release scheduled for Fall/Winter 2026 Name: New Balance 2010 \"Firecracker/Sea Salt\"Colorway: Firecracker/Sea SaltSKU: U20101Z0MSRP: $145 USDRelease Date: Fall/Winter 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance 2010 \"Firecracker/Sea Salt\", applying a high-contrast palette to the retro-inspired running silhouette. The dark iteration combines vibrant red detailing with glossy overlays and a light textile foundation.Constructed with a multi-textured upper, the shoe utilizes exposed Sea Salt mesh across the toe box, midfoot, and heel area. Glossy black overlays wrap the majority of the paneling, delivering visual depth against the breathable base. Firecracker Red accents outline the signature black \"N\" logos, tracing along the tongue, collar lining, laces, and toe section. Underfoot, a chunky black midsole incorporates dark red cushioning pods near the heel, echoing the colorway's dominant accents. The monochrome outsole remains entirely black, keeping the focus on the upper's vibrant color blocking.The New Balance 2010 \"Firecracker/Sea Salt\" is available now through select overseas stockists, with a broader stateside release expected during the Fall/Winter 2026 season. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b9cf10599523ca36",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Prepares Ja Morant's Twelve Time Silhouette for \"Halloween\"",
+      "url": "https://hypebeast.com/2026/9/nike-twelve-time-halloween-im4164-002-official-look-release-info",
+      "publishedAt": "2026-09-23T09:37:08.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "Nike Prepares Ja Morant's Twelve Time Silhouette for \"Halloween\" Summary Nike Basketball is dressing Ja Morant's Twelve Time silhouette in a spooky Halloween color schemeThe design pairs an Iron Grey upper with dark overlays bright orange accents and metallic silver brandingThe holiday-themed basketball shoe is slated to drop during the Fall/Winter 2026 season for 95 USD Name: Nike Twelve Time \"Halloween\"Colorway: Black/Pale Ivory-Iron Grey-Metallic SilverSKU: IM4164-002MSRP: $95 USDRelease Date: Fall/Winter 2026Where to Buy: NikeNike and Ja Morant are gearing up for the spooky season with the reveal of the Nike Twelve Time \"Halloween.\" The upcoming release applies a dark, holiday-inspired palette to the NBA star's signature performance model. Dressed in a \"Black/Pale Ivory/Iron Grey/Metallic Silver\" color scheme, the sneaker utilizes an Iron Grey upper surrounded by deep black paneling across the tongue, laces, toe box, and midsole. Bright orange hits deliver seasonal contrast across the Swooshes, inner lining, and lace loops without overwhelming the subtle base.Distinctive branding details are scattered throughout the build, including Metallic Silver accents on the tongue and heel, where a molded panel displays a repeating Twelve Time pattern. Morant's signature \"1MT\" logo is positioned near the outsole, while the repeating motif continues along the rear portion of the midsole. Underfoot, a black rubber outsole featuring a classic herringbone traction pattern and an oversized forefoot logo completes the design.The Nike Twelve Time \"Halloween\" is scheduled to launch during the Fall/Winter 2026 season via Nike. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "cd49f2f3174b9a3c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Adam Driver, Miles Teller, and Scarlett Johansson Star in Official Trailer for James Gray's 'Paper Tiger'",
+      "url": "https://hypebeast.com/2026/9/adam-driver-miles-teller-and-scarlett-johansson-star-in-official-trailer-for-james-grays-paper-tiger",
+      "publishedAt": "2026-09-23T09:05:57.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "Adam Driver, Miles Teller, and Scarlett Johansson Star in Official Trailer for James Gray's 'Paper Tiger' Summary Neon has debuted the official trailer for 'Paper Tiger' written and directed by James GrayThe 1980s crime drama stars Adam Driver Miles Teller and Scarlett Johansson as a family entangled with the Russian mafiaFollowing its premiere at the Cannes Film Festival the film will open the New York Film Festival ahead of its November release Neon has released the official trailer for Paper Tiger, an upcoming 1980s crime drama written and directed by James Gray. The film stars Adam Driver, Miles Teller, and Scarlett Johansson in a story centered on family, crime, and the American Dream.Set in 1986 Queens, New York, the plot follows brothers Gary (Driver), an ex-cop, and Isaac (Teller), an engineer. When Gary draws his brother into a scheme that entangles them with the Russian mafia, their family's safety and survival are put at risk. Johansson stars as Isaac's wife, who faces her own turmoil as the scheme unfolds. Gray noted that the narrative draws loose inspiration from his own family's encounter with the Russian mafia in 1980s New York City.The film made its world premiere in competition at the Cannes Film Festival in May 2026, earning a 10-minute standing ovation following its screening. Acquired by Neon prior to its Cannes debut, the project is scheduled to open the New York Film Festival at the end of September.Paper Tiger begins its limited theatrical run on November 13, 2026. Read more at Hypebeast"
+    },
+    {
+      "id": "ce7e3d3b763ecbb7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "On Reveals Plans to Launch Golf and Football Categories as It Targets $7 Billion USD in 2029 Sales",
+      "url": "https://hypebeast.com/2026/9/on-targets-7-billion-as-golf-and-football-loom",
+      "publishedAt": "2026-09-23T09:00:27.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "On Reveals Plans to Launch Golf and Football Categories as It Targets $7 Billion USD in 2029 Sales Summary Swiss sportswear brand outlines 2029 targets approaching $7 billion in absolute net salesExpansions into golf and football product ranges are officially slated for early 2027Strategic shift to U.S. dollar reporting will align financials with actual business economics Swiss sportswear powerhouse On revealed its plan to disrupt the country club during its investor day at the Zurich headquarters on Tuesday. Executives laid out a three-year growth plan to secure 2029 ambitions. The brand is mapping its evolution as a publicly traded company by entering major global sports. Co-chief executive officer Caspar Coppetti announced that the label will add a golf category to its roster in early 2027. Internal backing for the move includes chief design officer Thilo Brunner and president Scott Maguire, who are both avid golfers. Tennis icon Roger Federer attended the event to express excitement for the extension into the golf space.Football represents another arena receiving the Swiss treatment following a recent partnership with superstar Kylian Mbappé. Linking with the French forward generated $8 billion USD in earned media reach, according to founder and co-chief executive officer David Allemann. This cultural alignment shifts the demographic younger, as 72 percent of followers gained since the announcement are under the age of 35. Digital momentum supports the upcoming release of the first On Football product range in 2027. Diversifying into these segments moves the company from a specialized running label into a multi-sport powerhouse capable of sustaining momentum on the public market.The Zurich-based label established specific financial targets for the road to 2029 to support its expansion. Management set a goal to reach at least 5.6 billion Swiss francs, which is approximately $7 billion USD, in absolute net sales by the end of the decade. High-teens constant currency growth is anticipated over the next three years. Existing categories remain the primary engine, with over 75 percent of the net sales addition planned to come from established run, lifestyle and apparel verticals. For the third quarter of 2026, On forecasts a constant currency net sales growth rate of roughly 17 percent and expects up to $65 million USD in tariff refunds.Profitability goals remain high as the brand scales. Executives committed to maintaining a gross profit margin of at least "
+    },
+    {
+      "id": "bf64d408c320f296",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Darkens the Air Force 1 Low \"Ghostface\" With an All-Black Colorway",
+      "url": "https://hypebeast.com/2026/9/nike-air-force-1-low-ghostface-black-iz1207-010-official-look-release-info",
+      "publishedAt": "2026-09-23T08:37:01.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "Nike Darkens the Air Force 1 Low \"Ghostface\" With an All-Black Colorway Summary Nike has introduced a stealthy black counterpart to its Scream-inspired Air Force 1 Low GhostfaceThe design incorporates brushed grey Swooshes silver phone lace dubraes and Scream-styled tongue brandingAvailable now with a wider release scheduled for Holiday 2026 Name: Nike Air Force 1 Low \"Ghostface Black\"Colorway: Black/Gym Red-Summit WhiteSKU: IZ1207-010MSRP: $125 USDRelease Date: Holiday 2026Where to Buy: NikeNike has expanded its Scream-inspired footwear offerings with the release of the Air Force 1 Low \"Ghostface Black.\" The darker alternative follows the previously revealed white colorway, bringing a sinister, cinema-inspired execution to the iconic low-top model.Dressed in a predominantly black leather upper, the pair features grey painted distressing along panel edges and stitching. The signature Swoosh receives a rough, brushed grey treatment to evoke a worn-in texture, while subtle Gym Red accents outline the tongue tag, top eyelets, and heel section to deliver contrast against the dark base.Movie-inspired details appear throughout the construction, led by tongue tag typography styled in the spirit of the Scream film series. A silver telephone lace dubrae pays homage to the franchise's iconic phone call scenes, while a dark translucent blue outsole completes the design underneath. The Nike Air Force 1 Low \"Ghostface Black\" has a wider launch via Nike.com and select retailers scheduled for the Holiday 2026 season. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8ed415d20f2b272c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Timberland Launches the Timberland 25 Lightweight Waterproof Boot",
+      "url": "https://hypebeast.com/2026/9/timberland-timberland-25-release",
+      "publishedAt": "2026-09-23T08:06:21.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "Timberland Launches the Timberland 25 Lightweight Waterproof Boot Inspired by the classic Yellow Boot, Timberland introduces the Timberland 25 Lightweight Waterproof Boot. Retaining its iconic silhouette and design language, the lighter-weight construction reduces the boot’s overall weight by 25%, bringing this classic into modern everyday life with greater ease and flexibility.The waterproof boot features a TimberDry™ waterproof membrane and TimberCush™ comfort midsole, further enhancing the wearing experience while preserving the brand’s signature functional DNA. It is also available in the Beef & Broccoli colorway—an iconic palette rooted in 1990s New York street culture and inspired by the classic American Chinese dish. Deep brown and dark green give the design a more retro, individual character. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9d832b4732801495",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Porsche Patents a Dual-Clutch Transmission With a Real Clutch Pedal and H-Pattern Shifter for Hybrids",
+      "url": "https://hypebeast.com/2026/9/porsche-patents-dual-clutch-manual-with-h-pattern-shifter",
+      "publishedAt": "2026-09-23T08:00:28.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "Porsche Patents a Dual-Clutch Transmission With a Real Clutch Pedal and H-Pattern Shifter for Hybrids Summary Porsche filed a patent with the European Patent Office for a dual-clutch automatic transmission that incorporates a physical clutch pedal and an H-pattern gear shifterThe versatile system features an automatic mode with paddle shifters as well as a separate mode designed to deliver a full manual driving experienceThis engineering concept provides a viable workaround for existing hybrid powertrains that cannot currently accommodate traditional manual gearboxes Porsche recently detailed a new gearbox in a filing with the European Patent Office to preserve the analog driving experience in an increasingly electrified automotive landscape. The patent depicts a sophisticated dual-clutch transmission that defies conventional design by incorporating both a physical clutch pedal and a traditional gear shifter. This development directly addresses a massive industry challenge of preserving the visceral feel of a manual transmission as modern powertrains evolve. By designing a system that visually and mechanically bridges the gap between old-school engagement and modern performance, the manufacturer is preparing to offer driving purists a lifeline in the hybrid era.During standard operation, the setup functions identically to a normal automatic transmission and allows for effortless cruising without the need to work three pedals. When drivers want to dictate the shifting rhythm without fully committing to a manual experience, they can choose to shift through the gears manually using paddle shifters mounted directly on the steering wheel. The system provides another tactile option in automatic mode by allowing the driver to select gears through shifting the center gear selector backward and forward. This layered approach ensures that the vehicle maintains the efficiency expected from a modern automatic setup while still offering physical inputs.The true centerpiece of the patent is a completely separate driving mode that drivers can engage to access a full manual driving experience. Activating this specialized mode causes the system to immediately awaken the transmission's physical clutch pedal and transforms the footwell into an enthusiast's playground. Furthermore, this manual mode allows the center gear shifter to operate in a traditional H-pattern configuration. The driver regains the classic interaction of rowing through the gears and effectively masks the"
+    },
+    {
+      "id": "19ead1c05c185e78",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "KFC and Surreal Reimagine Original Recipe Chicken as a Savory Breakfast Cereal",
+      "url": "https://hypebeast.com/2026/9/surreal-kfc-kfcereal-gravy-limited-edition-release-info",
+      "publishedAt": "2026-09-23T07:38:57.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "KFC and Surreal Reimagine Original Recipe Chicken as a Savory Breakfast Cereal Summary KFC UK and high-protein cereal brand Surreal have joined forces on KFCereal, a savory take on breakfast modeled on the chain's Original Recipe chickenInstead of milk, the brands suggest drowning each bowl in KFC gravyThe limited-edition box is sold only through Surreal's UK webstore while supplies last KFC UK and Surreal have launched KFCereal, a limited-edition breakfast cereal flavored after the fast food chain's Original Recipe chicken. The pairing swaps the usual splash of milk for KFC gravy, marking KFC's first move into the cereal aisle.Flavor leads the spec sheet. The crunchy cereal is seasoned with KFC's closely guarded blend of 11 herbs and spices, giving it a savory profile far removed from the sweet, fruity and chocolate varieties that usually fill the category.The nutrition leans on Surreal's high-protein formula. Despite its fried chicken inspiration, KFCereal delivers 19g of protein and only 1g of sugar, keeping it in line with the functional positioning Surreal is known for.Then comes the gravy. Rather than milk, KFC recommends topping the cereal with its signature gravy, and it positions the release squarely at die-hard fans, curious cereal eaters and anyone bold enough to make the switch. KFC brand manager Elspeth Allen framed the idea simply: \"Our 11 herbs and spices have been doing a pretty good job on chicken,\" she said, explaining that the team wanted to test the seasoning at breakfast.KFCereal is available now exclusively via Surreal's UK website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f92d11cb28f4445b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Mbappé Is With On Now, But His Boots Didn't Get the Memo",
+      "url": "https://hypebeast.com/2026/9/kylian-mbappe-nike-mercurial-superfly-11-elite-by-you-taped-football-boot-iu4441-100-release-info",
+      "publishedAt": "2026-09-23T07:37:34.000Z",
+      "collectedAt": "2026-09-23T16:31:41.948Z",
+      "text": "Mbappé Is With On Now, But His Boots Didn't Get the Memo Name: Nike Mercurial Superfly 11 Elite By YouColorway: White/WhiteSKU: IU4441-100MSRP: $325 USDRelease Date: Available nowWhere to Buy: NikeNike has made an all-white Mercurial Superfly 11 Elite available through its By You customization platform, and the timing is hard to miss. The option went live just after Kylian Mbappé, who recently signed with On, wore a nearly identical white Superfly 11 in his first Real Madrid match since announcing the switch.Mbappé's move to On marks the end of a partnership that started when he was a child. He had been signed to Nike since 2006, when he was eight years old. Announcing the new deal on his website, Mbappé said he saw \"opportunity to build something entirely new together.\"On's boot, however, isn't quite ready for match day. Mbappé has already been seen training in an On prototype built with the brand's LightSpray technology, but for Real Madrid's Sunday fixture he went back to the Mercurial Superfly 11, the same boot he wore at the World Cup before his Nike contract ran out. The all-white upper made the Swoosh nearly disappear, though not entirely, and with Real Madrid kitted out by adidas, the Three Stripes rather than On supplied the other logo on his uniform.Nike's follow-up was subtle. The brand made a similar all-white version of the boot a default option on Nike By You, tagged with a \"Just In\" label, without any direct reference to Mbappé. However, Nike has not publicly connected the two.The boot itself is Nike's top-tier speed silhouette. The Mercurial Superfly 11 Elite By You is a low-top firm-ground boot built for dry, natural-grass pitches. Underfoot, a forefoot Air Zoom unit adds a springy, responsive feel, while ZoomX foam, which Nike says appears in its football boots for the first time here, delivers the brand's highest energy return. The upper uses FlyWeave Ultra, a material woven into targeted zones from heel to toe for a close, locked-in fit, and chevron studs help players grip and cut sharply.&nbsp;View this post on Instagram&nbsp; Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1974f7d2a49dcd5f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Era Japan Stacks ‘Batman’ and Slasher Classics Across 59FIFTY, 9FORTY and 19TWENTY Caps",
+      "url": "https://hypebeast.com/2026/9/new-era-batman-a-nightmare-on-elm-street-friday-the-13th-collaboration-collection-release-info",
+      "publishedAt": "2026-09-23T07:34:25.000Z",
+      "collectedAt": "2026-09-23T16:31:41.949Z",
+      "text": "New Era Japan Stacks ‘Batman’ and Slasher Classics Across 59FIFTY, 9FORTY and 19TWENTY Caps Summary New Era Japan has released a five-piece headwear lineup built around DC's Batman and two landmark horror film franchisesThe caps span the brand's fitted 59FIFTY, the pinched-crown 59FIFTY and 9FORTY A-Frame, and the five-panel retro PC 19TWENTYConstruction ranges from structured fitted crowns to adjustable, strapback builds in cotton and cotton-polyester blends New Era Japan has unveiled a new capsule of caps featuring DC Comics' Batman alongside the horror films A Nightmare on Elm Street and Friday the 13th. The five-piece run spreads the three properties across four of the brand's silhouettes, giving each license a shape that suits its attitude, from sharp, structured fitteds to softer, retro-leaning strapbacks.Batman gets the widest spread, appearing on three different builds. The black 59FIFTY A-Frame takes New Era's signature fitted cap and pinches the crown at the top for a peaked, A-shaped profile. A proprietary stiffener sewn behind the front panel holds that shape firmly, and like every 59FIFTY, it skips an adjuster entirely in favor of fitted sizing offered in roughly one-centimeter steps. It is cut from a polyester and cotton blend.For wearers who prefer an adjustable fit, the Batman 9FORTY A-Frame arrives in washed black cotton. It uses a single-panel front pinched at the crown, backed by the same shape-retaining stiffener, and sits slightly deeper on the head than a standard 9FORTY. The visor comes pre-curved out of the box, and a rear adjuster covers various head sizes. Rounding out the Batman trio is the black PC 19TWENTY, a five-panel cap with a retro baseball shape, a rear strap for sizing, and a cotton and polyester build.The horror side of the drop splits across two silhouettes. A Nightmare on Elm Street lands on the classic 59FIFTY in olive, the only non-black colorway in the lineup, with the same stiffened front panel and adjuster-free fitted construction. New Era points out that dropping the adjuster keeps the back of the cap clean and lets the crown follow the shape of the head more closely. Friday the 13th, meanwhile, takes the black PC 19TWENTY in all-cotton, giving the franchise the lineup's most relaxed, vintage-leaning profile.The pairing of properties is a natural fit for the season. Batman first appeared in DC's comics in 1939, while A Nightmare on Elm Street and Friday the 13th launched two of the most enduring slasher franchis"
+    },
+    {
+      "id": "6a3ee3f4ab9b4147",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HYBE CINE FEST 2026 Will Screen Two BTS Live Concerts and Three K-Pop Tour Films Worldwide",
+      "url": "https://hypebeast.com/2026/9/hybe-cine-fest-2026-announcement-bts-seventeen-tomorrow-x-together-enhypen",
+      "publishedAt": "2026-09-23T07:34:19.000Z",
+      "collectedAt": "2026-09-23T16:31:41.949Z",
+      "text": "HYBE CINE FEST 2026 Will Screen Two BTS Live Concerts and Three K-Pop Tour Films Worldwide Summary HYBE CINE FEST expands worldwide for the first time, reaching more than 60 territories from October 24 through October 31Two BTS live viewings from Buenos Aires and São Paulo bookend a six-title lineup that also includes three tour films and an interactive 3D screeningSelect cinemas across North America and Europe will host fan zones, photo walls and pop-up shops through the festival's Special Location program Trafalgar Releasing and HYBE are taking HYBE CINE FEST 2026 global, turning the K-pop cinema festival into a week-long theatrical event running from October 24 to October 31. After debuting in Latin America in 2024 and expanding across Asia in 2025, the festival now reaches more than 60 territories, bringing HYBE's biggest acts to screens worldwide.BTS anchors both ends of the week. The festival opens with BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE VIEWING, the group's first live viewing broadcast from South America and a window into their first-ever show in Argentina. It screens October 24 in the Americas and October 25 everywhere else. The closing slot goes to BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE VIEWING, which captures the finale of the band's Latin American leg and runs October 30 in the Americas and October 31 in the rest of the world. Both broadcasts are tied to set live and delayed screening times rather than the festival's open window.Three full-length concert films fill out the middle of the program. SEVENTEEN WORLD TOUR 'NEW_' follows the 13-member group into a post-10th-anniversary chapter built around the idea of constant reinvention. TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW' documents the group's fourth world tour, pairing narrative-driven staging with the live performances that drew in their MOA fanbase. ENHYPEN WORLD TOUR 'BLOOD SAGA' revisits the Seoul concert that kicked off the tour, with sharp choreography, live-band arrangements and the vampire-themed world the group has built its identity around.The most hands-on title is the HYBE CHEERING PARTY in 3D, an interactive screening where audiences chant, sing along to 3D lyrics on screen and wave official light sticks to music videos. The playlist spans 13 HYBE acts: BTS, SEVENTEEN, TOMORROW X TOGETHER, ENHYPEN, LE SSERAFIM, &TEAM, BOYNEXTDOOR, TWS, ILLIT, KATSEYE, aoen, CORTIS and SANTOS BRAVOS.The in-person experience extends beyond the screen. The Special Location pro"
+    },
+    {
+      "id": "cb050348412f9413",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "L.L.Bean x Dunkin' Serve Up a Birdseye Sweater and Boat and Tote for National Coffee Day",
+      "url": "https://hypebeast.com/2026/9/l-l-bean-dunkin-sweat-cup-sleeve-boat-and-tote-collaboration-collection-release-info",
+      "publishedAt": "2026-09-23T07:01:18.000Z",
+      "collectedAt": "2026-09-23T16:31:41.949Z",
+      "text": "L.L.Bean x Dunkin' Serve Up a Birdseye Sweater and Boat and Tote for National Coffee Day Summary L.L.Bean and Dunkin' have teamed up for the first time on a capsule that remixes two of L.L.Bean's most recognizable piecesThe Birdseye Sweater gets a custom Dunkin'-inspired pattern, while the Boat and Tote picks up the coffee chain's signature orange and pink L.L.Bean and Dunkin' have unveiled their first-ever collaboration, a limited-edition capsule that gives L.L.Bean's Birdseye Sweater and Boat and Tote a Dunkin' makeover. The two New England brands are rolling it out over the first week of fall with giveaways, an in-store event and a traveling Bootmobile, before the full collection launches on National Coffee Day.The capsule centers on two L.L.Bean staples. The Birdseye Sweater, one of the brand's classic knits, returns with a custom version of its signature Birdseye pattern designed around Dunkin'. The Boat and Tote swaps its familiar colorways for Dunkin' orange and pink and adds embroidered L.L.Bean and Dunkin' logos, turning the heritage carryall into a cobranded piece.\"L.L.Bean and Dunkin' are iconic brands that have called New England home for decades,\" said Nick Wilkoff, chief marketing officer at L.L.Bean. \"We wanted to create something that feels familiar and fun, bringing a touch of Dunkin' to two L.L.Bean favorites that have been a part of people's fall traditions for generations.\"Two coffee accessories round out the rollout. The first was a limited-edition cup sleeve that mimics a tiny Birdseye Sweater wrapped around a Dunkin' cup. It was handed out with any hot or iced coffee purchase at participating Dunkin' locations. The second, the L.L.Bean Coffee Tote, arrives on National Coffee Day through Dunkin's merch site and at select Dunkin' locations in Maine.The L.L.Bean x Dunkin' Birdseye Sweater and Boat and Tote drop September 29 online, with early access at L.L.Bean Seaport in Boston on September 27. The L.L.Bean Coffee Tote releases the same day online and at select Dunkin' locations in Maine. Click here to view full gallery at Hypebeast"
     }
   ]
 }

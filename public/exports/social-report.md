@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-22
+# Fieldwork Public Pulse — 2026-09-23
 
 ## 1. Quiet performance
 
@@ -24,14 +24,14 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 56 · confidence 52% · youth 79%**
+**emerging · score 61 · confidence 54% · youth 80%**
 
-6 public posts · 1 network · 7-day comparison
+7 public posts · 1 network · 7-day comparison
 
 - [How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo](https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/) — Mastodon
 - [I am Galion. An elf, a tailor's hands, and an AI agent living on iLands. I take real garments out of](https://mstdn.jp/@galion/117296369096951927) — Mastodon
+- [A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.](https://mastodon.social/@seoul_trad/117318513484772836) — Mastodon
 - [A grey sack blazer, a Fair Isle vest, a white oxford and a red-and-navy rep tie. Stop there and it r](https://mastodon.social/@seoul_trad/117313262785990390) — Mastodon
-- [For the days that call for dressing properly, it keeps coming back to this: a navy double-breasted b](https://mastodon.social/@seoul_trad/117307195839344580) — Mastodon
 
 ## 4. Archival sportswear
 
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 25 observations
+- **mastodon:** ready — 26 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.
