@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-23",
+    "id": "2026-09-24",
     "mode": "live",
-    "displayDate": "SEP 23, 2026, 12:31 PM EDT",
-    "generatedAt": "2026-09-23T16:31:43.216Z",
-    "itemsCollected": 64,
+    "displayDate": "SEP 24, 2026, 12:51 PM EDT",
+    "generatedAt": "2026-09-24T16:51:52.659Z",
+    "itemsCollected": 61,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 16
+        "count": 14
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -53,42 +53,22 @@
       ]
     },
     {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 46,
-      "direction": "up",
-      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Nike Readied Its Most Athletic Trail Shoe with Pickle Juice",
-          "source": "Highsnobiety",
-          "date": "Sep 17",
-          "url": "https://www.highsnobiety.com/p/nike-acg-picklejus-goatek-sneaker/"
-        }
-      ]
-    },
-    {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 41,
-      "confidence": 41,
-      "youthRelevance": 41,
-      "direction": "down",
+      "score": 57,
+      "confidence": 51,
+      "youthRelevance": 71,
+      "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · -33% seven-day velocity",
+      "whyNow": "4 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +33% seven-day velocity",
       "citations": [
         {
-          "title": "Nike Dresses Up This Air Force 1 Low in Snakeskin and a Trio of Gold Charms",
+          "title": "Logitech's Blue Yeti 2 Modernizes the Classic Streaming Mic With AI Noise Canceling and a 3D Proximity Sensor",
           "source": "Hypebeast",
-          "date": "Sep 22",
-          "url": "https://hypebeast.com/2026/9/nike-air-force-1-low-gold-charms-iz8908-100-official-images"
+          "date": "Sep 24",
+          "url": "https://hypebeast.com/2026/9/logitech-g-blue-yeti-2-adds-ai-proximity-tracking"
         },
         {
           "title": "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing",
@@ -97,38 +77,18 @@
           "url": "https://www.highsnobiety.com/p/nike-moon-shoe-coconut-milk/"
         }
       ]
-    },
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
-      "youthRelevance": 46,
-      "direction": "flat",
-      "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "9090 and adidas Originals Give the Track Jacket a Cow-Print Makeover",
-          "source": "Hypebeast",
-          "date": "Sep 17",
-          "url": "https://hypebeast.com/2026/9/yutori-9090-adidas-originals-track-jacket-collaboration-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "2 mentions this week versus 3 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0923",
+    "code": "AUTO 0924",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [

@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-23
+# Fieldwork Public Pulse — 2026-09-24
 
 ## 1. Quiet performance
 
@@ -41,9 +41,17 @@
 
 - [90s Starter Jackets remain a popular choice for anyone who likes vintage sportswear and retro street](https://mastodon.social/@bflwear/117239519066957055) — Mastodon
 
+## 5. Narrow technical footwear
+
+**emerging · score 22 · confidence 42% · youth 53%**
+
+1 public posts · 1 network · 7-day comparison
+
+- [These # retro # sneakers are sooo 😍 squeeee! I remember in Brooklyn we called them bike shoes. They](https://tenforward.social/@Phangurl/117323036854992693) — Mastodon
+
 ## Network status
 
-- **mastodon:** ready — 26 observations
+- **mastodon:** ready — 27 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.
