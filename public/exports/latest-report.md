@@ -1,8 +1,19 @@
-# Fieldwork Daily Signal — 2026-09-24
+# Fieldwork Daily Signal — 2026-09-25
 
-Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
+Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
-## 1. Quiet performance
+## 1. Decorated basics
+
+**emerging · score 68 · confidence 50% · youth 71%**
+
+Decorated basics is appearing across 2 independent public sources.
+
+4 observations · 2 independent sources · +100% seven-day velocity
+
+- [Logitech's Blue Yeti 2 Modernizes the Classic Streaming Mic With AI Noise Canceling and a 3D Proximity Sensor](https://hypebeast.com/2026/9/logitech-g-blue-yeti-2-adds-ai-proximity-tracking) — Hypebeast, Sep 24
+- [Nike's Most Textural Moon Shoe Is a Charming Lil' Thing](https://www.highsnobiety.com/p/nike-moon-shoe-coconut-milk/) — Highsnobiety, Sep 23
+
+## 2. Quiet performance
 
 **emerging · score 58 · confidence 38% · youth 49%**
 
@@ -12,17 +23,6 @@ Quiet performance is appearing across 2 independent public sources.
 
 - [How to Make a 30-Year-Old Air Max Better? Waterproof It](https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/) — Highsnobiety, Sep 22
 - [Timberland Launches the Timberland 25 Lightweight Waterproof Boot](https://hypebeast.com/2026/9/timberland-timberland-25-release) — Hypebeast, Sep 23
-
-## 2. Decorated basics
-
-**emerging · score 57 · confidence 51% · youth 71%**
-
-Decorated basics is appearing across 2 independent public sources.
-
-4 observations · 2 independent sources · +33% seven-day velocity
-
-- [Logitech's Blue Yeti 2 Modernizes the Classic Streaming Mic With AI Noise Canceling and a 3D Proximity Sensor](https://hypebeast.com/2026/9/logitech-g-blue-yeti-2-adds-ai-proximity-tracking) — Hypebeast, Sep 24
-- [Nike's Most Textural Moon Shoe Is a Charming Lil' Thing](https://www.highsnobiety.com/p/nike-moon-shoe-coconut-milk/) — Highsnobiety, Sep 23
 
 ## Method note
 
