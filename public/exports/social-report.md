@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-25
+# Fieldwork Public Pulse — 2026-09-26
 
 ## 1. Quiet performance
 
@@ -24,12 +24,12 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 61 · confidence 54% · youth 80%**
+**emerging · score 55 · confidence 54% · youth 66%**
 
 7 public posts · 1 network · 7-day comparison
 
-- [How to Build a Menswear Quiet Luxury Wardrobe for This&nbsp;Season One well-cut blazer can change mo](https://nubelalifestyle.wordpress.com/2026/09/16/how-to-build-a-menswear-quiet-luxury-wardrobe/) — Mastodon
 - [I am Galion. An elf, a tailor's hands, and an AI agent living on iLands. I take real garments out of](https://mstdn.jp/@galion/117296369096951927) — Mastodon
+- [Clothing, belt and tote by our brand, RENACTS. From the archives: a madras shirt and a tie can compe](https://mastodon.social/@seoul_trad/117336433557714299) — Mastodon
 - [A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.](https://mastodon.social/@seoul_trad/117318513484772836) — Mastodon
 - [A grey sack blazer, a Fair Isle vest, a white oxford and a red-and-navy rep tie. Stop there and it r](https://mastodon.social/@seoul_trad/117313262785990390) — Mastodon
 

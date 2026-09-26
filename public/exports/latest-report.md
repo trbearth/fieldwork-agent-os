@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-09-25
+# Fieldwork Daily Signal — 2026-09-26
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
