@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-26",
+    "id": "2026-09-27",
     "mode": "live",
-    "displayDate": "SEP 26, 2026, 12:07 PM EDT",
-    "generatedAt": "2026-09-26T16:07:23.386Z",
-    "itemsCollected": 49,
+    "displayDate": "SEP 27, 2026, 12:43 PM EDT",
+    "generatedAt": "2026-09-27T16:43:29.472Z",
+    "itemsCollected": 33,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -56,19 +56,19 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 58,
-      "confidence": 38,
-      "youthRelevance": 49,
+      "score": 64,
+      "confidence": 43,
+      "youthRelevance": 60,
       "direction": "up",
       "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
+      "whyNow": "3 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +100% seven-day velocity",
       "citations": [
         {
-          "title": "How to Make a 30-Year-Old Air Max Better? Waterproof It",
+          "title": "Vans’ Waterproof Skate Boot Is Winter's Strongest Solider",
           "source": "Highsnobiety",
-          "date": "Sep 22",
-          "url": "https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/"
+          "date": "Sep 26",
+          "url": "https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-mte-sneakers/"
         },
         {
           "title": "Timberland Launches the Timberland 25 Lightweight Waterproof Boot",
@@ -88,7 +88,7 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0926",
+    "code": "AUTO 0927",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [

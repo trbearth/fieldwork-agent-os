@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-09-26
+# Fieldwork Daily Signal — 2026-09-27
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -15,13 +15,13 @@ Decorated basics is appearing across 2 independent public sources.
 
 ## 2. Quiet performance
 
-**emerging · score 58 · confidence 38% · youth 49%**
+**emerging · score 64 · confidence 43% · youth 60%**
 
 Quiet performance is appearing across 2 independent public sources.
 
-2 observations · 2 independent sources · +100% seven-day velocity
+3 observations · 2 independent sources · +100% seven-day velocity
 
-- [How to Make a 30-Year-Old Air Max Better? Waterproof It](https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-sneakers/) — Highsnobiety, Sep 22
+- [Vans’ Waterproof Skate Boot Is Winter's Strongest Solider](https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-mte-sneakers/) — Highsnobiety, Sep 26
 - [Timberland Launches the Timberland 25 Lightweight Waterproof Boot](https://hypebeast.com/2026/9/timberland-timberland-25-release) — Hypebeast, Sep 23
 
 ## Method note
