@@ -2341,6 +2341,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-28",
+      "mode": "live",
+      "displayDate": "SEP 28, 2026, 03:28 PM EDT",
+      "generatedAt": "2026-09-28T19:28:46.844Z",
+      "itemsCollected": 59,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 9
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 100,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 69,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -35750,6 +35787,655 @@
       "publishedAt": "2026-09-27T02:00:32.000Z",
       "collectedAt": "2026-09-27T16:43:28.215Z",
       "text": "Vacheron Constantin Introduces a Lighter Shade of Blue to the Overseas Summary Vacheron Constantin celebrates 30 years of Overseas with a 200-piece perpetual calendar.The 41.5mm white gold watch debuts a lighter azure dial, powered by the ultra-thin Calibre 1120 QP/1, which measures 4.05mm and runs until 2100. Vacheron Constantin is marking the 30th anniversary of its Overseas collection with a new Overseas Perpetual Calendar Ultra-Thin, pairing an 18K white gold case with a newly developed azure dial for the first time. Limited to 200 pieces, the anniversary edition builds on a collection first introduced in 1996 as the successor to the Maison’s sport-chic 222, before evolving through subsequent generations in 2004 and 2016. The current Overseas design retains signatures including its Maltese cross-inspired notched bezel and integrated bracelet, while its tool-free interchangeable strap system reinforces the collection’s longstanding emphasis on travel and versatility.Spotlighted at the heart of its dial is a lighter interpretation of Vacheron Constantin’s signature blue. Described as less intense and less saturated than the azure tone first introduced to the collection in 2016, the lacquered dial shifts in appearance according to the light and is paired with a matching blue moon-phase display. White gold hands, markers and calendar indications add contrast without disrupting the monochromatic composition, while blue Super-LumiNova accents aid nighttime legibility. The 41.5mm white gold case measures just 8.1mm thick, and arrives on an integrated white gold bracelet alongside interchangeable white and denim-blue rubber straps, all of which can be changed without tools.Powering the watch is the Maison's self-winding Calibre 1120 QP/1, an ultra-thin 4.05mm movement comprising 276 components and offering approximately 40 hours of power reserve. Its perpetual calendar tracks the date, day, month and leap-year cycle alongside moon phases, automatically accounting for differing month lengths and leap years without requiring correction until 2100. Visible through the sapphire caseback, the Geneva Seal-certified movement features Côtes de Genève, bevelling, perlage and satin-finishing, complemented by a 22K gold rotor engraved with the Overseas compass rose.Priced at $132,000 USD, the new Overseas Perpetual Calendar Ultra-Thin Azure Dial is limited to 200 examples. For more information regarding its availability, head over to Vacheron Constantin's official websit"
+    },
+    {
+      "id": "d70db4871808506a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rihanna Kicks Off Paris Fashion Week With a Statement Look",
+      "url": "https://www.vogue.com/article/rihanna-paris-fashion-week-skirt-suit",
+      "publishedAt": "2026-09-28T18:58:46.000Z",
+      "collectedAt": "2026-09-28T19:28:42.605Z",
+      "text": "Rihanna Kicks Off Paris Fashion Week With a Statement Look This is not your standard skirt suit: Rihanna touched down in the City of Light in a fashion week-ready look."
+    },
+    {
+      "id": "83ee9e4c9196fd22",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Juan Vidal Spain Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/spain-spring-2027/juan-vidal",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.606Z",
+      "text": "Juan Vidal Spain Spring 2027 "
+    },
+    {
+      "id": "a2e48c6acfcfdd84",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Eudon Choi Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/eudon-choi",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Eudon Choi Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "6ccea722fc93a9c2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Armarium Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/armarium",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Armarium Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "1671de87742cc4a9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Matières Fécales Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/matieres-fecales",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Matières Fécales Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ab48a26372ee36f3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Maccapani Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maccapani",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Maccapani Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "e88483626c80a09c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rosalía Is Ready for ‘Black Swan’ Fall",
+      "url": "https://www.vogue.com/article/rosalia-black-swan-2026-09-28",
+      "publishedAt": "2026-09-28T17:14:20.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Rosalía Is Ready for ‘Black Swan’ Fall Cue up Swan Lake Act III because Rosalía is going full Odile."
+    },
+    {
+      "id": "e845bbd48c83b411",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "8 Crepey Skin Treatments That Dermatologists Approve Of",
+      "url": "https://www.vogue.com/article/crepey-skin-treatments",
+      "publishedAt": "2026-09-28T16:40:27.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "8 Crepey Skin Treatments That Dermatologists Approve Of Everything you need to know about what causes crepey skin, plus the best at-home crepey skin treatments to consider."
+    },
+    {
+      "id": "668f56abc8fb7fe6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hodakova Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hodakova",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Hodakova Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "55fa7d79a65805e2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Bride Wore an Antique Wax Flower Crown for Her Backyard Wedding in the Hudson Valley",
+      "url": "https://www.vogue.com/slideshow/aemilia-madden-and-dylan-reitz-cruz-wedding",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "The Bride Wore an Antique Wax Flower Crown for Her Backyard Wedding in the Hudson Valley Writer Aemilia Madden also wore vintage Christian Dior and Prada over her bucolic wedding weekend to artist Dylan Reitz, which took place at the groom’s family in Upstate New York under an old pear tree."
+    },
+    {
+      "id": "7f356ecf9dd7f85c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why Does Rejection Hurt So Much? A Scientist Who Studies Misery Breaks It Down",
+      "url": "https://www.vogue.com/article/the-opposite-of-happiness-excerpt",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Why Does Rejection Hurt So Much? A Scientist Who Studies Misery Breaks It Down In an excerpt from “The Opposite of Happiness: How Bad Feelings Make and Break Us,” Carnegie Mellon professor George Loewenstein turns his attention to one of the most devastating, and enduring, forms of misery: rejection."
+    },
+    {
+      "id": "e3d716425ba6d96f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Objects of Affection: Tour Dior Heritage With Jonathan Anderson",
+      "url": "https://www.vogue.com/article/objects-of-affection-jonathan-anderson",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Objects of Affection: Tour Dior Heritage With Jonathan Anderson The creative director selects 10 archival objects of affection—from the bar suit to a John Galliano for Dior parka—with Vogue."
+    },
+    {
+      "id": "a86135bf2fe3df06",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Podcast: How Mikey Madison Prepared for Her Role in ‘The Social Reckoning’",
+      "url": "https://www.vogue.com/article/on-the-podcast-how-mikey-madison-prepared-for-her-role-in-the-social-reckoning",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "On the Podcast: How Mikey Madison Prepared for Her Role in ‘The Social Reckoning’ In this Monday’s special episode of “The Run-Through,” October cover star Mikey Madison joins Chloe at her hotel room in Milan to discuss playing Facebook whistleblower Frances Haugen in Aaron Sorkin’s “The Social Reckoning,” out October 9."
+    },
+    {
+      "id": "362647a3fa7d876c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Maxhosa Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maxhosa",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Maxhosa Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ac4dc55443e29d1b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Fall 2026 Fashion Trends to Know and Shop Now",
+      "url": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
+      "publishedAt": "2026-09-28T15:21:12.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "The Fall 2026 Fashion Trends to Know and Shop Now The top six trends of the fall 2026 season—which range from modern suiting codes to 1920s Art Deco evening wear—are designed for work and play. Shop them now."
+    },
+    {
+      "id": "b1615226d1d9d523",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "CFDA Names Hildy Kuryk Interim CEO",
+      "url": "https://www.vogue.com/article/cfda-names-hildy-kuryk-interim-ceo",
+      "publishedAt": "2026-09-28T15:18:23.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "CFDA Names Hildy Kuryk Interim CEO The appointment comes after Steven Kolb resigned from the organization."
+    },
+    {
+      "id": "c3986012c39a3ea3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kendall Jenner Is Beigemaxxing in Paris",
+      "url": "https://www.vogue.com/article/kendall-jenner-beige-outfit-paris-fashion-week-2026-09-28",
+      "publishedAt": "2026-09-28T15:04:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Kendall Jenner Is Beigemaxxing in Paris What monochromatic outfits lack in color, they make up for in fit, and Kendall Jenner’s all-beige look was tailored to perfection."
+    },
+    {
+      "id": "2c2ac50cf165ed11",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ernesto Naranjo Spain Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/spain-spring-2027/ernesto-naranjo",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Ernesto Naranjo Spain Spring 2027 "
+    },
+    {
+      "id": "784ff6437d1aec0a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Luar Says Summer Isn’t Over Yet and Launches Swimwear",
+      "url": "https://www.vogue.com/article/luar-launches-swimwear-the-standard",
+      "publishedAt": "2026-09-28T14:30:36.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Luar Says Summer Isn’t Over Yet and Launches Swimwear A new collaboration with The Standard expands Raul Lopez’s New York-based label into hot new territory."
+    },
+    {
+      "id": "55607681c43dae79",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Julie Kegels Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/julie-kegels",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Julie Kegels Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "e660f7a7f76870ad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Model Bride Wore Danielle Frankel With Cowboy Boots for Her Rural Idaho Wedding",
+      "url": "https://www.vogue.com/slideshow/kendall-visser-and-cully-smoller-wedding",
+      "publishedAt": "2026-09-28T13:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "This Model Bride Wore Danielle Frankel With Cowboy Boots for Her Rural Idaho Wedding Model Kendall Visser married branding consultant Cully Smoller at her family’s holiday home in Idaho—and traded her Manolos for cowboy boots at the very last minute."
+    },
+    {
+      "id": "258da0e25edf4b91",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Evade House Spain Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/spain-spring-2027/evade-house",
+      "publishedAt": "2026-09-28T19:26:54.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Evade House Spain Spring 2027 "
+    },
+    {
+      "id": "d2de3f7e260b9458",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "S Is For Show: Anrealage Marks Its 25th With a Collectible Alphabet Collection",
+      "url": "https://www.vogue.com/article/s-is-for-show-anrealage-marks-its-25th-with-a-collectible-alphabet-collection",
+      "publishedAt": "2026-09-28T10:32:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "S Is For Show: Anrealage Marks Its 25th With a Collectible Alphabet Collection Anrealage's Kunihiko Morinaga has partnered with Sarah Andelman of Just An Idea on a retrospective presentation and gift shop."
+    },
+    {
+      "id": "b3eefbfe20517513",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Joseph Altuzarra’s Old Navy Collection Is as Romantic and Feminine as You’d Imagine",
+      "url": "https://www.vogue.com/article/old-navy-altuzarra-collaboration-2026",
+      "publishedAt": "2026-09-28T10:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "Joseph Altuzarra’s Old Navy Collection Is as Romantic and Feminine as You’d Imagine Florals, plaid, and Fair Isle–the designer shares with Vogue the inspiration behind his fall capsule. Shop the collection now, exclusively on Vogue for 24 hours."
+    },
+    {
+      "id": "c80dfead792b5a61",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 10 Best Airbnbs in Kyoto for a Fall Getaway",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-kyoto",
+      "publishedAt": "2026-09-28T10:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.607Z",
+      "text": "The 10 Best Airbnbs in Kyoto for a Fall Getaway The best Airbnbs in Kyoto feature tranquil water features, elevated Japanese design, and central locations—here, 12 spots currently on our wishlist."
+    },
+    {
+      "id": "bdc7b2074c5b899f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 18 Best Airbnbs in Rome for an Italian Escapade",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-rome",
+      "publishedAt": "2026-09-28T10:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.608Z",
+      "text": "The 18 Best Airbnbs in Rome for an Italian Escapade From the trendy neighborhood of Monti to the quintessential charm of Trastevere, here’s where to stay in the best Airbnbs in Rome."
+    },
+    {
+      "id": "5807b8f9edaed70d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "MTV VMAs 2026 Fashion: Taylor Swift, Tyla, Charli XCX & More Arrive on the Red Carpet",
+      "url": "https://www.vogue.com/slideshow/2026-mtv-vmas-red-carpet-fashion",
+      "publishedAt": "2026-09-28T10:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.608Z",
+      "text": "MTV VMAs 2026 Fashion: Taylor Swift, Tyla, Charli XCX & More Arrive on the Red Carpet See what your favorite musicians and performers wore on the red carpet at the 2026 MTV VMAs."
+    },
+    {
+      "id": "1c764066172a95fa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rooted in Reality: Key Takeaways From Milan Fashion Week Spring/Summer 2027",
+      "url": "https://www.vogue.com/article/rooted-in-reality-3-key-takeaways-for-milan-fashion-week-spring-summer-2027",
+      "publishedAt": "2026-09-28T05:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.608Z",
+      "text": "Rooted in Reality: Key Takeaways From Milan Fashion Week Spring/Summer 2027 Milan Fashion Week provided a clever debut, some exciting new talent, and a clearer path for the city’s biggest brands this season."
+    },
+    {
+      "id": "81f9f54b2ffe2915",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Paris Fashion Week Cheat Sheet: Spring/Summer 2027",
+      "url": "https://www.vogue.com/article/paris-fashion-week-cheat-sheet-spring-summer-2027",
+      "publishedAt": "2026-09-28T05:00:00.000Z",
+      "collectedAt": "2026-09-28T19:28:42.608Z",
+      "text": "Paris Fashion Week Cheat Sheet: Spring/Summer 2027 With two designer debuts, pivotal third shows and a packed events calendar, there’s plenty to watch out for this season."
+    },
+    {
+      "id": "8d5d43ddd7f129d3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "When to Take Vitamin D This Fall, According to the Experts",
+      "url": "https://www.vogue.com/article/when-to-take-vitamin-d-this-fall-according-to-the-experts",
+      "publishedAt": "2026-09-28T02:16:14.000Z",
+      "collectedAt": "2026-09-28T19:28:42.608Z",
+      "text": "When to Take Vitamin D This Fall, According to the Experts An estimated 35% of the United States has below optimal levels of vitamin D. The experts weigh in on when to start supplementing—and why."
+    },
+    {
+      "id": "5ac3f901606cf538",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Sweetest Air Max Dress Shoe Went Blueberry on the ‘Fit",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-dolce-old-royal/",
+      "publishedAt": "2026-09-28T18:28:53.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "Nike’s Sweetest Air Max Dress Shoe Went Blueberry on the ‘Fit Nike's reborn Air Max Dolce shoe lands in \"Old Royal\" for its latest release. Basically, the sweet dress sneaker went blueberry mode on 'em."
+    },
+    {
+      "id": "85f3e5619326062e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Classic Air Force 1 Gets a Charming Upgrade",
+      "url": "https://www.highsnobiety.com/p/nikes-air-force-1-white-metallic-gold-charms/",
+      "publishedAt": "2026-09-28T18:08:23.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "Nike's Classic Air Force 1 Gets a Charming Upgrade Nike's \"Metallic Gold Charms\" Air Force 1 sneaker comes with its very own charm bracelet."
+    },
+    {
+      "id": "b856d6b6ec7cef1f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Noughties Ball Shoe Is the Forbidden Fruit",
+      "url": "https://www.highsnobiety.com/p/nike-zoom-hyperflight-green-apple/",
+      "publishedAt": "2026-09-28T19:23:08.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "This Noughties Ball Shoe Is the Forbidden Fruit Nike doubles down on early-2000s energy with an unmissable vibrant palette, reviving the silhouette with the Nike Zoom Hyperflight Green Apple."
+    },
+    {
+      "id": "17655260b2a72d9c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Made a Psychic Samba, and It’s Got Some Serious Aura",
+      "url": "https://www.highsnobiety.com/p/adidas-pokemon-samba/",
+      "publishedAt": "2026-09-28T11:56:01.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "adidas Made a Psychic Samba, and It’s Got Some Serious Aura The adidas Pokémon Samba OG takes inspiration from Mewtwo, pairing a reflective lilac finish with subtle Pokémon details across the classic terrace."
+    },
+    {
+      "id": "4d5084471ae23776",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Transforming Shoe Could Change Footwear Forever (EXCLUSIVE)",
+      "url": "https://www.highsnobiety.com/p/daniel-bailey-terracotta-interview/",
+      "publishedAt": "2026-09-28T14:14:45.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "This Transforming Shoe Could Change Footwear Forever (EXCLUSIVE) Terracotta's debut product was born of Mr. Daniel Bailey's longstanding Vibram collaboration, three transforming shoes built atop modular sole units."
+    },
+    {
+      "id": "8cdeca85b324b760",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance Just Made White-Sole Runners Look a Little Silly",
+      "url": "https://www.highsnobiety.com/p/new-balance-1080v15-pykrete/",
+      "publishedAt": "2026-09-28T09:20:12.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "New Balance Just Made White-Sole Runners Look a Little Silly New Balance’s 1080v15 arrives in a rich cherry colorway, giving the chunky running shoe a monochromatic look while retaining its performance credentials."
+    },
+    {
+      "id": "46dee4b2c58ca2d7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Sleekest Original Sneaker Has Gone Into Night Mode",
+      "url": "https://www.highsnobiety.com/p/nike-moon-shoe-black/",
+      "publishedAt": "2026-09-28T08:13:46.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "Nike’s Sleekest Original Sneaker Has Gone Into Night Mode Nike’s Moon Shoe OG gets a darker makeover in a Black/Sail colorway, bringing the sleek original runner a stealthier look."
+    },
+    {
+      "id": "2c6cac6e3b0375ab",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance Built a Handsome Hiking Dad Sneaker for the Streets",
+      "url": "https://www.highsnobiety.com/p/new-balance-tl900-sneakers/",
+      "publishedAt": "2026-09-28T08:28:42.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "New Balance Built a Handsome Hiking Dad Sneaker for the Streets New Balance debuts the TL900, a genuinely cool hiking-style sneaker with street swag. Here's everything on the \"Sport Green\" release."
+    },
+    {
+      "id": "06882d4a8191aa96",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Next-Up Mary Jane Is a Triple Threat",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-ballet-sneakers/",
+      "publishedAt": "2026-09-28T08:23:30.000Z",
+      "collectedAt": "2026-09-28T19:28:44.067Z",
+      "text": "adidas' Next-Up Mary Jane Is a Triple Threat adidas' Samba Ballet is the brand's newest Mary Jane sneaker hybrid featuring three straps. It's a literal triple threat."
+    },
+    {
+      "id": "d0c115e3c7d5109f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JJJJound x New Balance 990v3 Revealed in Tan Suede",
+      "url": "https://hypebeast.com/2026/9/jjjjound-new-balance-990v3-release-date-fw26-info",
+      "publishedAt": "2026-09-28T17:59:35.000Z",
+      "collectedAt": "2026-09-28T19:28:45.576Z",
+      "text": "JJJJound x New Balance 990v3 Revealed in Tan Suede SummaryThe FW26 JJJJound x New Balance 990v3 features a monolithic tan suede upper with contrasting black accents, dropping the previous mesh base.The USA-made shoe includes discreet branding, though an official release date and retail price have not yet been announced.For FW26, JJJJound and New Balance are delivering yet another variant of the New Balance 990v3, a silhouette the collaborators have reimagined time and time again since the very start of their partnership. The 990v3 is not only the first JJJJ x NB silhouette, debuting in 2018, but also the subject of four more releases since then. Now the JJJJound x New Balance 990v3 returns in a familiar palette, echoing the hues of their debut shoe with a streamlined executionComposed of full tan suede uppers, the design gets contrast from a black N logo on the lateral and an all-black sole. Across the tongue, “New Balance USA” calls out its USA-made provenance, having originated at the shoemaker’s New England production facilities. JJJJound’s signature branding appears only on the black insoles, aligning with the Montreal label's discreet approach to brand identity. Notably, the shoe borrows some details from the 2018 JJJJ x NB 990v3, including the tan suede upper details and the black N logo. However, for 2026, JJJJound forgoes the tonal detailing and mesh backdrop for a monolithic look, interrupted only by the few striking black details.As of the time of writing, JJJJound has not announced the official release date or retail price for its latest rendition of the New Balance 990v3. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f3eefa4b9dae08e8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Bottega Veneta SS27 Is About Wearing Less & Feeling More",
+      "url": "https://hypebeast.com/2026/9/bottega-veneta-ss27-is-about-wearing-less-feeling-more",
+      "publishedAt": "2026-09-28T17:04:41.000Z",
+      "collectedAt": "2026-09-28T19:28:45.576Z",
+      "text": "Bottega Veneta SS27 Is About Wearing Less & Feeling More SummaryLouise Trotter’s Bottega Veneta SS27 collection embraces relaxed tailoring, trading heavy furs for breathable layers, deconstructed coats, and translucent fabrics.Monochromatic everyday looks are elevated by delicate lace collars, scarf-fusions, and floral fringes, capturing a quiet, optimistic shift toward summer.On September 26th, Bottega Veneta presented its Spring/Summer 2027 collection at Milan Fashion Week, showcasing a more relaxed attitude in craft-forward details, intentional imperfection, and freedom — both physically and aesthetically. With her latest collection, Creative Director Louise Trotter distills the essence of “Summer beginning to bloom” through the lens of Bottega Veneta’s subtle but meticulous craftsmanship.Against the stiffer shoulders and busier looks of Trotter’s Spring/Summer 2026, the latest collection allows “definition” around gender and “tailoring” to “loosen,” in the words of the show notes. Relating her approach to the gentler seasons experienced in Milan, Trotter delivers “light changes” to the wardrobe for warmer months: leather outerwear remains, as do wool trousers and sharply cut blazers. However, gone are the ultra-plush fiberglass furs of Spring/Summer 2026, and the hairy overcoats from Fall/Winter 2026. This season features lighter layers, less strict silhouettes, and endearing details like florals, crochet, and translucent fabrics.One model wore a black trench coat with deconstructed sleeves and shoulders that freed the arms, while the collar of a black peacoat mutated into a light shoulder wrap on one side. There are also quite simple, everyday looks, with a poetic twist: a lived-in tan leather pant paired with a plain white long-sleeve top crowned by a lace collar, and white trousers were worn with a lustrous pearl-colored button-up that fused into a scarf hung around the neck. In the brand’s discreet style, most looks linger around monochromatic and black-and-white palettes, but a handful of numbers stood out in playful colors: a violet blazer with pink satin pants and a purple intrecciatto cap, floral skirts and dresses dominated by cascading fringe florals. Elsewhere, roomy leather dresses and coats were dyed in red burgundy. The closing remarks of the show notes read, “There is optimism in lightness; in allowing the body, the clothes and perhaps oneself to move more freely. Summer as a proposition: to wear less, but feel more. To leave something o"
+    },
+    {
+      "id": "8635b33abbec55da",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Willy Chavarria and adidas Originals Rework the Megaride for Fall 2026",
+      "url": "https://hypebeast.com/2026/9/willy-chavarria-adidas-originals-fall-winter-2026-fw26-collaboration-collection-mega-willy-low-willy-mega-mid-release-info",
+      "publishedAt": "2026-09-28T14:00:38.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "Willy Chavarria and adidas Originals Rework the Megaride for Fall 2026 Name: Willy Chavarria x adidas Originals Mega Willy Low, Willy Chavarria x adidas Originals Willy Mega MidColorway: Black and Agave, BlackSKU: TBCMSRP: $230 USD, $280 USDRelease Date: October 3Where to Buy: adidas, CONFIRMED appadidas Originals and Willy Chavarria have built their Fall 2026 collection around the Megaride franchise, pairing the Mega Willy Low in Black and Agave with a Black Willy Mega Mid. The October capsule draws on '90s sportswear and scales up archival adidas shapes, continuing the designer's ongoing work with scale, identity and his own heritage.The footwear comes in two heights. The low-top Mega Willy Low arrives in two colorways, a Black pair and an Agave option, while the Willy Mega Mid raises the collar to a mid-cut and comes in Black only. Together the three pairs give the partnership's Megaride lineup both a sleek everyday profile and a higher-cut option.The apparel follows the same logic of scale. Silhouettes run relaxed and deliberately oversized, drawing on vintage athletic cuts and built for stacking in layers. The Chavarria Track Jacket and Track Pant form the anchor set, joined by the Chavarria Dazzle Short and Dazzle LS Jersey. Red three stripes provide the key accent across the offering, a color shift on adidas' most recognizable detail.Chavarria's personal codes carry the graphic side of the range. The Dark Rose Tee features the rose motif that recurs throughout his work. The Chavarria Chicano Sweatshirt uses red, white and green accents taken from the Mexican flag, a direct tribute to the designer's Mexican-American roots.Across both footwear and apparel, familiar adidas heritage shapes are reworked through Chavarria's sense of proportion. The sporting references stay recognizable, but they now sit inside a fashion-led silhouette that belongs as much to the street as to the track. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4bc5c129c8966ca9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tigris Li Taps Hankook Tire to Find the Quiet Moments in Her Creative Process",
+      "url": "https://hypebeast.com/2026/9/hankook-tire-tigris-day-in-the-life",
+      "publishedAt": "2026-09-28T13:18:12.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "Tigris Li Taps Hankook Tire to Find the Quiet Moments in Her Creative Process Artist and technologist Tigris Li is pushing the boundaries of creativity. Through her new AI-powered fragrance experience, Index, she envisions sensory impulses with electronic hardware to encourage play. Though the output hinges on interaction and conversation, the practice behind making the installations is a quiet one, requiring her to pay close attention to engineering. In a new installment of Day in the Life, Li lets Hypebeast in on this creative process, which takes place across London. Going from her new studio to several stores and workshops around the city, the feature follows her in the driver’s seat of the electric-powered BMW iX3, equipped with Hankook’s revolutionary iON Evo tires, which make the journey smooth and help her maintain an element of peace between stops. “My creative process isn’t in just one location,” the technologist shares from the confines of her new studio space where she begins her day. “It can start wherever I am, whether that’s on a drive, on a walk, or at home. It’s a constant thing.” As routine dictates, she flicks through her handy red sketchbooks, reviews the daily tasks, and sets off in the SUV ready to pick up the final components for her installation. After weaving through traffic, Li selects the materials she needs from her go-to workshop and heads to the next destination to pick up the new laser-cut pieces making up the furniture element. “Days like today can be chaotic, but as soon as I get in the car, the noise of the city fades away; it really lets me tune in,” she mentions on the journey. The technologist particularly admires the addition of the iON Evo tires to her journey, sharing that the noise reduction “lets you put your thoughts together while still being with the movement of the city.”Once the components are collected, it's back to the studio to assemble the installation with Index co-founder Isabella Smith. “We’re excited to bring this to the public with our launch, she says. Just like Hankook’s tires have been specially designed with the user experience in mind, Li shares a similar sentiment in their own creation, adding, “To have everyone come in and enter this world that we are creating for them is the reason we design.”Discover the full Day in the Life installment with Tigris Li below. View this post on InstagramA post shared by HYPEBEAST (@hypebeast) You can now explore the Hankook iON Evo range on the brand’s website."
+    },
+    {
+      "id": "7b59121b90743301",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Louis Vuitton’s Monterey Timepiece Returns in Glossy Black and Heritage Green",
+      "url": "https://hypebeast.com/2026/9/louis-vuitton-monterey-ceramic-watch-w0cr11-w0cr21-release-info",
+      "publishedAt": "2026-09-28T13:00:12.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "Louis Vuitton’s Monterey Timepiece Returns in Glossy Black and Heritage Green Summary Louis Vuitton expands the Monterey with new black and green ceramic models.Both retain the 37mm pebble-shaped case and 12 o’clock crown.An in-house automatic movement replaces the original 1988 quartz caliber. Louis Vuitton is bringing the Monterey into its permanent collection with two new ceramic interpretations that revisit the House’s earliest experiments in wristwatch design. The Monterey traces back to the LV I and LV II, created in 1988 with Italian architect and designer Gae Aulenti as Louis Vuitton’s first wristwatches. Defined by their pebble-shaped cases and unconventional crown placement at 12 o’clock, the originals have attracted renewed collector interest in recent years, appearing in Nicolas Ghesquière’s FW25 and SS26 presentations as watches, pendants and belt accessories.Following the 2025 revival of the Monterey in a 188-piece yellow-gold edition, Louis Vuitton now translates the design into glossy black and green ceramic, bringing both versions into the collection on a non-limited basis. Both models retain the original’s compact 37mm proportions and recognizable Clous de Paris steel crown at 12 o’clock, while introducing a more contemporary material treatment. The green edition takes a near-monochromatic approach, matching its polished ceramic case with a matte green lacquer dial, white railway track and vivid yellow lacquered hour and minute hands — a color choice that nods to the yellow stitching associated with Louis Vuitton leather goods.The black version creates a sharper contrast between its glossy black ceramic case and matte white lacquer dial, punctuated by red hands and railway markings and a fine blue seconds hand; its black grained calfskin strap continues the red detailing through contrast stitching. Louis Vuitton produces the ceramic cases from zirconium oxide and pigments before machining, firing them above 1,000°C, manually grinding and finally hand-polishing them to achieve the Monterey’s smooth, reflective pebble-like form.The most substantial departure from the 1988 LV II sits inside the case. In place of the original quartz movement, both Monterey Ceramic models use Louis Vuitton’s in-house LFT MA01.02 automatic calibre, a 174-component movement offering a 45-hour power reserve and running at 28,800 vibrations per hour. Its finishing remains hidden beneath the closed steel caseback, but includes circular graining, sandblasted bridges"
+    },
+    {
+      "id": "015252e2b9f97572",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Check Out Official Images of the Bad Bunny x adidas Gazelle Indoor \"Solar Gold\"",
+      "url": "https://hypebeast.com/2026/9/bad-bunny-adidas-gazelle-indoor-solar-gold-ki2592-official-images-release-info",
+      "publishedAt": "2026-09-28T11:22:16.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "Check Out Official Images of the Bad Bunny x adidas Gazelle Indoor \"Solar Gold\" Name: Bad Bunny x adidas Gazelle Indoor “Solar Gold”Colorway: Solar Gold/Core BlackSKU: KI2592MSRP: $140 USDRelease Date: October 17Where to Buy: adidasOfficial images of the Bad Bunny x adidas Gazelle Indoor \"Solar Gold\" offer a full look at the next pair in the artist’s run with the terrace silhouette, which is set for October 2026.The design is built on strong contrast. Golden yellow covers the upper from toe to heel, and black Three Stripes on the side panels provide most of the contrast, giving the pair its most recognizable feature.The palette is a clear change for the collaboration. Earlier Bad Bunny Gazelle Indoor releases favored faded and earth-toned colorways, while \"Solar Gold\" uses brighter, more saturated color and sharper contrast.The two-tone scheme has also sparked talk about what it might reference. Because yellow and black recall a New York City taxi, some have linked the pair to Bad Bunny's \"NUEVAYoL\" era, though neither adidas nor Bad Bunny has confirmed the connection. The outlet also notes that earlier pairs in the partnership carried nicknames tied to places in Puerto Rico. For now, \"Solar Gold\" is the pair's only name, and an official campaign could add another. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "90c2fc137d871ad2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Burton Raids Zeb Powell's Wardrobe for \"Zeb's Closet,\" a Baggy Outerwear Collection",
+      "url": "https://hypebeast.com/2026/9/zeb-powell-burton-collaboration-collection-zebs-closet-release-info",
+      "publishedAt": "2026-09-28T11:11:28.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "Burton Raids Zeb Powell's Wardrobe for \"Zeb's Closet,\" a Baggy Outerwear Collection Summary Burton's first globally available outerwear and apparel collection with Zeb Powell pairs waterproof shells and utility details with his signature oversized fitsThe lineup spans heavyweight hoodies, jerseys, rugby shirts, shorts, reversible bucket hats and a reversible insulated vest designed for layeringA traveling installation called Zeb's Mobile Closet debuts in New York City before visiting key snowboarding destinations around the world Burton has launched Zeb's Closet, an outerwear and apparel collection built in partnership with team rider Zeb Powell. Burton bills it as the first globally available collection it has created with the snowboarder. The range is designed around Powell's personal style rather than performance specs alone, combining technical outerwear with the loose, oversized pieces he wears both on the mountain and off it.The design brief was simple: build what Powell would actually wear. In practice, that means waterproof outerwear, utility-driven detailing and premium construction, all cut into the roomy, baggy silhouettes closely tied to his look. Every piece is meant to allow unrestricted movement, so the fit supports the loose, freestyle way he rides.The rest of the range pushes further into streetwear. Heavyweight hoodies, jerseys, rugby shirts, tees, shorts and pants sit alongside reversible bucket hats and technical shells. All of it is intended to be stacked in layers and worn long after the last lap of the day. The standout piece is a reversible insulated vest, which gives riders a functional mid-layer with enough personality to wear on its own.\"It's called Zeb's Closet because it's actually what I would wear - on the mountain and off the mountain,\" Powell said in a statement. That on-and-off-hill crossover fits the larger picture Burton sees in the collection. The brand views Powell as the face of a new generation of snowboarding shaped by creativity, self-expression and the communities changing what the sport looks like. \"Zeb has inspired an entirely new generation to see snowboarding differently,\" said Zach Nigro, Burton's Vice President of Brand & Sports Marketing.That community focus extends to the rollout through Zeb's Mobile Closet, a custom-built traveling installation modeled on Powell's own closet. The installation debuts in New York City during launch week before heading to snowboarding hubs around the world. At each stop, rid"
+    },
+    {
+      "id": "76ce26d30aa07069",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Air Max 95 Big Bubble \"Cow Print\" Swaps Printed Graphics for Real Calf Hair",
+      "url": "https://hypebeast.com/2026/9/nike-air-max-95-big-bubble-cow-print-ir5113-001-official-images",
+      "publishedAt": "2026-09-28T11:10:47.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "The Nike Air Max 95 Big Bubble \"Cow Print\" Swaps Printed Graphics for Real Calf Hair Name: Nike Air Max 95 Big Bubble “Cow Print”Colorway: Phantom/Metallic Gold-Cacao Wow-Gum Medium BrownSKU: IR5113-001MSRP: $200 USDRelease Date: Holiday 2026Nike is taking the Air Max 95 Big Bubble in an animal-inspired direction with \"Cow Print,\" a women's release covered in real brown and white calf hair. Nike builds the cowhide pattern from actual hair rather than printing it on, so the pair gets its look from texture instead of graphics.The calf hair covers the Air Max 95's layered side panels, which makes the shoe's signature layering the main showcase for the pattern. Underneath, a cream base keeps the rest of the palette muted so the brown and white patches stand out. Leather and mesh fill in the remaining sections of the upper, balancing the calf hair with more familiar materials.The smaller details work in the same tones. Brown webbing is threaded through the eyelets, tying the lacing area to the brown in the calf hair. A reptile-style texture runs along the side, adding a second animal reference. At the heel, a small Metallic Gold Swoosh adds a single bright accent to an otherwise earthy color scheme.Below the upper, the pair uses the Big Bubble setup seen on recent Air Max 95 releases. Visible Air cushioning runs through the midsole, and a brown rubber outsole ties the bottom of the shoe back to the tones on the upper. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5218454a42a5dd83",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "GREG LABORATORY fall winter 2026 FW26 Season 7 Collection Release Info",
+      "url": "https://hypebeast.com/2026/9/greg-laboratory-fall-winter-2026-fw26-season-7-collection-release-info",
+      "publishedAt": "2026-09-28T11:10:44.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "GREG LABORATORY fall winter 2026 FW26 Season 7 Collection Release Info Summary GREG LABORATORY's Fall/Winter 2026 collection, \"Time Loosens Reality,\" explores how the passing of time shapes the people who wear its clothesReturning staples come back in heavier fabrics, including a water-repellent cotton-nylon pant and suiting in cotton-silk blends and poly wool twillsNew pieces include a double-face fleece full-zip sweater, an updated Ventile technical jacket and a high-pile fleece vest GREG LABORATORY has released its Season 7 collection, \"Time Loosens Reality,\" for Fall/Winter 2026. The theme is time itself, including both its rewards and its toll, and how it shapes the brand's recurring cast of \"Protagonists.\" In practice, that idea shows up in clothing designed to age well: everyday staples built to work across seasons, climates and settings.Fabric is central to the collection. GREG LABORATORY mixes natural and synthetic fibers throughout the range, aiming for pieces that perform, stay practical and hold up over years of wear. The approach fits how the label works overall: every garment is designed, tested and made in New York City using performance-focused Japanese materials.Several returning staples now come in heavier fabrics. The brand's signature pant comes back in a heavyweight cotton-nylon with added water repellency, making it more suited to bad weather. The returning shirt and suiting move into weightier cotton-silk blends and textured poly wool twills, giving the tailoring more structure for colder months.The newer pieces build on earlier designs. The full-zip sweater updates a past model in a double-face fleece that is both heavier and softer to the touch. The technical jacket from Spring/Summer 2026 also returns in a more refined version, now made in mid-weight Ventile with a DWR finish, with hidden chest and hand pockets, and with pleating across the back that gives it a rounder shape.The most notable addition is the new High Pile Fleece Vest. It is lined in the same fabric as the shell and cropped to sit right at the waist. It has two hand pockets plus the circular chest pockets that have become a GREG LABORATORY signature.GREG LABORATORY's Season 7 \"Time Loosens Reality\" collection is available now exclusively online. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e85b29550e1be89a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Focus Features Unleashes Haunting Second Trailer for Robert Eggers’ ‘WERWULF’",
+      "url": "https://hypebeast.com/2026/9/focus-features-werwulf-robert-eggers-aaron-taylor-johnson-lily-rose-depp-willem-dafoe-official-trailer-release-info",
+      "publishedAt": "2026-09-28T11:06:22.000Z",
+      "collectedAt": "2026-09-28T19:28:45.577Z",
+      "text": "Focus Features Unleashes Haunting Second Trailer for Robert Eggers’ ‘WERWULF’ Summary Robert Eggers’ WERWULF gets a new official trailer.Aaron Taylor-Johnson, Lily-Rose Depp and Willem Dafoe lead the medieval horror film. WERWULF opens exclusively in theaters on December 25, 2026. Focus Features has unveiled the latest official trailer for Robert Eggers’ WERWULF, offering a more unsettling look at the filmmaker’s stripped-back approach to werewolf folklore. Set in 13th-century England, the footage places Aaron Taylor-Johnson’s unnamed Man at the center of a brutal transformation, moving through mud-soaked landscapes, religious dread and mounting suspicion as his condition begins to consume him. The trailer builds around physical deterioration and the fear spreading through the surrounding community, while Lily-Rose Depp appears as Woman and Willem Dafoe as Old Hunter.WERWULF follows Eggers’ 2024 Nosferatu and reunites the director with Taylor-Johnson, Depp and Dafoe, while also bringing back The Northman collaborator Sjón as co-writer. Eggers has positioned the film as an attempt to return lycanthropy to its older folkloric roots, moving away from familiar Hollywood conventions such as silver bullets and other modern werewolf mythology in favor of the superstitions and anxieties of medieval Europe. The latest trailer arrives alongside a wider promotional campaign built around the lunar cycle, including an alternate reality game timed to full moons leading up to the film’s release. WERWULF is set to open exclusively in theaters on December 25, 2026. Read more at Hypebeast"
+    },
+    {
+      "id": "cd201bf8dd146634",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tan Suan: Reshaping Time Beneath Light and Shadow",
+      "url": "https://hypebeast.com/2026/9/hypebeast-china-tan-suan-digital-cover-story",
+      "publishedAt": "2026-09-28T11:00:51.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "Tan Suan: Reshaping Time Beneath Light and Shadow For Hypebeast China's latest digital cover, we have no interest in retelling the overnight-success myth of a fashion influencer. Instead, through Tan Suan, we want to reflect how an entire generation of young women creators grows and defines itself as time moves forward. Her path from individual creator to a broader cultural presence also offers a window into how China's new generation of creative talent is being seen by the world, and how it is starting to shape global fashion and luxury culture.In an era that treats \"effortlessness\" as gospel, ease is the aesthetic face she presents to the world. Her deep reverence for the craft and her constant self-scrutiny are the homework she keeps for herself. The outside world tends to reduce top-tier access, flawless polish and an idealized life into data points and labels. On the other side of the light is her clear-headed reflection. Social media may capture her present, but it cannot simply define what kind of woman she is. Her humility and focus, her habit of \"keeping herself low,\" is not timidity. It is a creator's deepest instinct: to avoid the floating froth of a restless visual tide and build her own aesthetic order and artistic perspective.This is not only about Tan Suan. It captures a moment in which women creators are moving from \"being looked at\" to \"expressing themselves.\" They are no longer content to be pretty faces generating noise and numbers in front of the camera. Over time, they are turning the camera into an extension of self-expression and artistic exploration. In fast-cycling pop culture, she delivers liveliness and cool with precision in front of the lens. Behind it, she quietly refines the aesthetic logic behind her content, her deeper understanding of style, and the ultimate question of \"who am I.\"Tan Suan's trajectory also offers an entry point into how Chinese creative culture is changing. In the past, young Chinese creators were largely watched and defined within the context of global fashion and pop culture. Today, more and more of China's new creative talent is entering conversations around global fashion and luxury on the strength of their own taste, visual language and cultural experience, and becoming part of what shapes trends and sets context. Tan Suan is a powerful case study for this narrative. As China's cultural influence keeps reaching outward, how do young creators carry their own perspective onto the world stage, and redef"
+    },
+    {
+      "id": "a017d6d2049a3a11",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Saucony Goes Full “Space Cowboy” With a Five-Shoe Collection",
+      "url": "https://hypebeast.com/2026/9/saucony-space-cowboy-collection-saucony-progrid-triumph-4-s101200-1002-progrid-v2-s101247-1003-586i-s101246-1001-endorphin-elite-3-s100981-1018-endorphin-azura-s101348-1004-official",
+      "publishedAt": "2026-09-28T10:40:00.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "Saucony Goes Full “Space Cowboy” With a Five-Shoe Collection Name: Saucony “Space Cowboy” CollectionMSRP: TBCRelease Date: October 2Where to Buy: SauconySaucony is merging futuristic runner aesthetics with Americana in its expansive new \"Space Cowboy\" Collection. Translating classic Western motifs across five silhouettes that span archival runners, lifestyle footwear and modern performance models, this release spotlights the Progrid Triumph 4, Progrid V2, 586i, Endorphin Elite 3 and Endorphin Azura silhouettes.The ProGrid Triumph 4 “Space Cowboy” delivers the collection’s most overtly futuristic interpretation, layering burnt-orange mesh and leather with high-shine chrome overlays and Saucony branding. Brown-and-white cow-print hair covers portions of the toe and heel, while black accents and speckled rope-style laces add further contrast to the heavily layered design. The ProGrid V2 takes a warmer approach, pairing white mesh with cognac-toned leather panels embellished with decorative Western-style stitching. Chrome sections around the toe and heel supply a metallic counterpoint, while tufts of cow-print hair around the collar reinforce the ranch-inspired theme.The 586i “Space Cowboy” shifts away from the animal-print treatment in favor of details borrowed more directly from traditional Western boots. Its predominantly black leather upper is traced with highly visible white contrast stitching, including embroidered motifs around the toe and side panels, while braided black-and-white laces heighten the graphic effect. A wide fringed tongue panel secured by metallic studs becomes the defining feature, introducing a tassel-like finish reminiscent of Western leatherwork. A translucent brown gum sole softens the otherwise monochromatic palette, giving the lower-profile silhouette a warmer, vintage character compared to the more metallic ProGrid models.The Elite 3 dresses its technical black mesh upper with brown suede-like accents around the tongue and collar, while a cow-print band wraps above its exaggerated, mirror-like silver midsole, creating the collection’s strongest collision of Western texture and space-age shine. The Endorphin Azura reverses that balance with a largely white engineered-mesh upper, black and chrome detailing and warm brown accents, while cow-print graphics wrap portions of its thick sculpted midsole. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "84968df1bfbb26a5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "AFTERSHOCK's $14,200 USD Cherry Bloom Gaming PC Has 70 Hand-Painted Titanium Petals That Bloom With Heat",
+      "url": "https://hypebeast.com/2026/9/aftershock-unveils-the-cherry-bloom-kinetic-gaming-pc",
+      "publishedAt": "2026-09-28T10:35:55.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "AFTERSHOCK's $14,200 USD Cherry Bloom Gaming PC Has 70 Hand-Painted Titanium Petals That Bloom With Heat Summary AFTERSHOCK released the Cherry Bloom, a $14,200 gaming rig built around a kinetic cherry blossom sculptureThe interior features 70 hand-formed titanium petals that physically curl open as the system heats upThe hardware is powered by a Ryzen 7 9800X3D processor, a Zotac RTX 5080 GPU and 64GB of memory AFTERSHOCK has officially launched the Cherry Bloom. This $14,200 USD rig features a heat-reactive cherry blossom tree planted inside the chassis and is billed as the world's first blooming gaming PC. The entire build sits securely inside an APNX V2 chassis wrapped in glass across a full 270 degrees.Seventy hand-formed and hand-painted blossoms make up the system's kinetic center. A titanium alloy specifically engineered to react to heat comprises these blossoms. The mechanical movement relies entirely on the metal responding to temperature without using motors, software firmware or RGB lighting. A demonstration shows the Cherry Bloom sitting fully closed at a resting temperature of 18 degrees Celsius. As internal temperatures rise, the metal petals physically curl open before folding shut once the machine cools.A Ryzen 7 9800X3D processor paired with a Zotac RTX 5080 graphics card powers the rig. The system pushes output using 64 gigabytes of DDR5-6000 memory and a 2TB PCIe Gen4 SSD. This build includes a 1300W Platinum power supply to support the components. While the titanium tree provides the visible mechanical display, a custom open-loop liquid cooling system handles the internal thermal load.The Cherry Bloom hit the market priced at roughly $14,200 USD, converted from an asking price of $19,995 AUD. Customers can order the machine now with next-business-day dispatch, though the price does not include shipping. This strategy reflects a luxury approach where the engineering and hand-finishing of reactive metal petals account for much of the cost. By turning exhaust heat into a visible display, the system transforms thermal management into kinetic art. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "dfbf3def3070dbdd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The World's First ‘Minecraft’ Roller Coaster Launches Riders Out of the Nether",
+      "url": "https://hypebeast.com/2026/9/minecraft-world-rollercoaster-hotel-chessington-world-of-adventures-reveal-announcement",
+      "publishedAt": "2026-09-28T10:35:52.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "The World's First ‘Minecraft’ Roller Coaster Launches Riders Out of the Nether Summary Escape the Nether puts riders in minecarts alongside Steve and Alex, fighting through hostile mobs and plenty of lava before launching back to the OverworldThe Minecraft Hotel features Nether Portal-inspired lifts, mine-tunnel corridors and bedrooms styled with the game's blocks, items, mobs and texturesBoth attractions anchor Minecraft World, a new land opening at Chessington World of Adventures Resort in 2027 Minecraft is getting its first roller coaster, Escape the Nether, as the headline ride of Minecraft World, a new land coming to Chessington World of Adventures Resort in southwest London in 2027. Alongside it is the Minecraft Hotel, the first official hotel built around the game. The land is being developed by Mojang Studios and Merlin Entertainments.Escape the Nether starts, like the game, in a minecart. Riders board and join Steve and Alex, Minecraft's default playable characters, on a run through the Nether, the game's fiery underworld dimension. Along the way they face hostile mobs head-on before a launch sends them back to the Overworld. The Nether setting also means the ride's scenery features lava throughout.The hotel is themed from the moment guests arrive. Check-in is designed to look like the Overworld, with blocky trees and animals setting the scene. The lifts are styled after Nether Portals, and the hallways are built to look like mine tunnels, so getting to a room feels like exploring the game.The bedrooms, which the hotel calls \"respawn points,\" bring the game's visual style into real life. Rooms are designed with Minecraft's blocks, items, mobs, textures and colors, aiming to appeal to longtime players and newcomers alike.Food and drink follow the same approach, each tied to a specific part of the game. The restaurant is underwater-themed, inspired by Minecraft's ocean biomes. The bar is modeled on the Woodland Mansion, and its drinks are styled as the game's colorful potions. Beyond the ride and hotel, the wider land will include areas based on the Overworld's lush caves, mineshafts and plains, along with mob meet-and-greets, play areas and themed shops.Minecraft World, Escape the Nether and the Minecraft Hotel are set to open at Chessington World of Adventures Resort in 2027, with an exact date yet to be announced. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "43bd3c62ed865e20",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SUGARHILL and Converse’s ALL STAR LGCY HI Is Built To Age Over Time",
+      "url": "https://hypebeast.com/2026/9/sugarhill-converse-all-star-lgcy-hi-collaboration-natural-31319080220-release-info",
+      "publishedAt": "2026-09-28T10:09:19.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "SUGARHILL and Converse’s ALL STAR LGCY HI Is Built To Age Over Time Name: SUGARHILL x Converse ALL STAR LGCY HIColorway: NaturalSKU: 31319080220MSRP: ¥19,800 JPY (approx. $125 USD)Release Date: October 2Where to Buy: Converse JapanJapanese menswear label SUGARHILL has teamed up with Converse for a textured, vintage-inspired take on the ALL STAR LGCY HI. Arriving in a subtle \"Natural\" colorway, the collaborative high-top reimagines the premium legacy silhouette with an emphasis on aging and distinct material evolution. The upper is constructed from SUGARHILL's original cotton twill, woven with special E*Denim thread that allows faint glimpses of indigo blue to peek through the textured fabric. This unique textile approach is specifically designed to change expression over time, allowing the sneaker to develop natural color variations and a deeply personalized, lived-in character with everyday wear.The aged character continues through details borrowed from vintage sneakers, including high-shine metal eyelets and a semi-translucent gum rubber outsole, whose warm amber tone sits against the cream-colored upper for a distinctly archival finish. Thick natural laces keep the initial presentation restrained, while a mint-grey spare set introduces a cooler alternative.&nbsp;&nbsp;&nbsp;View this post on Instagram&nbsp;A post shared by SUGARHILL (@sugarhill_tokyo) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "404386c3d4454d62",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘GROTESQQQUE’ Sets Its First US Screening at Japan Society",
+      "url": "https://hypebeast.com/2026/9/cloverworks-omnibus-anime-film-grotesqqque-us-theatrical-release-info",
+      "publishedAt": "2026-09-28T09:48:06.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "‘GROTESQQQUE’ Sets Its First US Screening at Japan Society Summary CloverWorks’ omnibus anime film GROTESQQQUE premieres in the U.S. on October 8.Directed by Atsushi Nishigori, the anthology features three visually distinct short stories.Distributed by Aniplex and JOEN, the movie opens in Japan on November 6. GROTESQQQUE, the original omnibus anime film from director Atsushi Nishigori and CloverWorks, is heading to the U.S. with a special premiere screening at Japan Society in New York City on October 8. Presented in collaboration with CloverWorks and Aniplex of America, the event will include an in-person introduction from Nishigori, giving American audiences an early opportunity to see the film ahead of its Japanese theatrical opening on November 6, 2026.The screening follows GROTESQQQUE’s world premiere at Montreal’s Fantasia International Film Festival on July 24, where Nishigori also appeared in person. Promotional imagery accompanying the latest announcement has been shared through the film’s official X account, while its principal key visual was first unveiled through Aniplex and the project’s official channels on July 5 alongside the main trailer and Japanese release date. A wider U.S. theatrical rollout has not yet been announced. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9942600619054d88",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NITRO MICROPHONE UNDERGROUND Drops New Track \"Eclipse,\" Produced by MACKA-CHIN",
+      "url": "https://hypebeast.com/2026/9/nitro-microphone-underground-eclipse-release-info",
+      "publishedAt": "2026-09-28T09:46:05.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "NITRO MICROPHONE UNDERGROUND Drops New Track \"Eclipse,\" Produced by MACKA-CHIN Legendary dream team NITRO MICROPHONE UNDERGROUND—a driving force in the Japanese hip-hop scene—has finally dropped their highly anticipated new track, \"Eclipse.\" An official music video was released alongside the single.Production comes courtesy of crew mastermind MACKA-CHIN, who continues to carve out his own lane as a producer and DJ. The MCs trade verses with effortless fluidity over a solid, eerie, one-loop track infused with heavy dub techniques. For the mix, the group tapped master engineer D.O.I., a longtime pillar of the Nitro sound.The visuals are equally striking. Creative direction for the cover art and music video was spearheaded by Nitro MC GORE-TEX, the creative force behind the apparel brand raidback®︎fabric. Co-directed with filmmaker Hirotaka Shimizu, the video delivers a smoky, atmospheric aesthetic, blending ominously flickering lights in the pitch black with the commanding presence of each member.To mark the release, MACKA-CHIN shared the following message on Instagram:\"It’s been a minute, but I made a track for NITRO! The instrumental’s theme is purely dope. Heavy dub on an insane one-loop. Honestly, it’s just the sound we're vibing with right now (my aging eyes are blinding me to whatever the rest of the world is doing). By the way, the MV was directed by Tora (GORE-TEX) alongside Nitro's 37th assassin, Shimizu. I’d be beyond thrilled if there are fans out there who’ve been waiting for a track dripping with this kind of underground flavor. What do you guys think?\"— MACKA-CHIN\"Eclipse\" is top-tier underground hip-hop, seamlessly fusing the unique aesthetic the group has cultivated since the ’90s with the raw dopeness its members embody today. It’s a concentrated hit of the rugged, unfiltered Nitro attitude that fans have been craving—an absolute must-experience both sonically and visually.NITRO MICROPHONE UNDERGROUND \"Eclipse\"Label: NITRICHRelease Date: Wednesday, September 23, 2026Format: Digital ReleaseStreaming LinkAdditionally, the raidback®︎fabric x NMU LA TORA JACKSON THIRTEENHEARTS. \"D'EVILSD’RIPS\" HOODIE worn by the members in the \"Eclipse\" music video is currently available exclusively via their official online store. Offered in both white and black, the hoodie retails for ¥19,800 (tax included). Be sure to check it out alongside the new track and visual. View this post on InstagramA post shared by 🄼🄰🄲🄺🄰-🄲🄷🄸🄽 (@opec_hit) Click here to view"
+    },
+    {
+      "id": "1a14190c9b478ea3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike’s Moon Shoe OG Leather SP Returns in Three Vintage-Inspired Colorways",
+      "url": "https://hypebeast.com/2026/9/nike-moon-shoe-og-leather-sp-black-yellow-ochre-gum-light-brown-iu3162-001-flax-pale-ivory-gum-med-brown-malachite-iu3162-200-university-red-black-gum-light-brown-iu3162-600-release-info",
+      "publishedAt": "2026-09-28T09:45:31.000Z",
+      "collectedAt": "2026-09-28T19:28:45.578Z",
+      "text": "Nike’s Moon Shoe OG Leather SP Returns in Three Vintage-Inspired Colorways Name: Nike Moon Shoe OG Leather SPMSRP: ￥18,700 JPY (approx. $119 USD)Release Date: October 1Where to Buy: NikeNike revisits one of its earliest running silhouettes with the Moon Shoe OG Leather SP, replacing the model’s traditionally lightweight nylon construction with a full leather upper for a denser, more structured Fall 2026 treatment. The release expands the previously previewed leather pack to three colorways: \"Black,\" \"Flax\" and \"University Red.\"The \"Black\" variant takes the most graphic approach, pairing smooth black leather with \"Yellow Ochre\" swooshes and heel branding before finishing the shoe with a light gum outsole. \"Flax\" leans into warmer vintage tones, dressing the upper in golden-brown leather with \"Pale Ivory\" swooshes and subtle \"Malachite\" detailing, while \"University Red\" covers the low-slung silhouette in saturated red leather, sharply contrasted by oversized black swooshes. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4e1acc239f55f62b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Stephen Curry Signs a $116 Million USD Extension With the Golden State Warriors to Stay Through 2029",
+      "url": "https://hypebeast.com/2026/9/stephen-curry-and-warriors-agree-to-116m-extension",
+      "publishedAt": "2026-09-28T09:00:47.000Z",
+      "collectedAt": "2026-09-28T19:28:45.579Z",
+      "text": "Stephen Curry Signs a $116 Million USD Extension With the Golden State Warriors to Stay Through 2029 Summary Stephen Curry agrees to a two-year, $116 million contract extension with the Golden State WarriorsThe historic agreement pushes Curry to approximately $650 million in guaranteed career earningsCurry accepts a discount of over $20 million to provide the franchise with vital salary cap flexibility Stephen Curry is securing his future while continuing his run in the Bay Area. This 38-year-old superstar agreed to a massive contract extension with the Golden State Warriors, a move the franchise formally announced. Valued at $116 million USD over two years, according to ESPN, the agreement ensures the defining player of this era remains exactly where he started. He enters his 18th NBA season, all of which have been played exclusively with the Warriors. The contract features a built-in player option for the 2028-29 NBA season.The scale of this extension rewrites the league's financial record books. This agreement pushes his trajectory higher and takes Stephen Curry to approximately $650 million USD in guaranteed career earnings, the highest total in NBA history. He stands as the highest-paid player in the league right now with a $62.6 million USD salary locked in for the 2026-27 season. Reports from ESPN indicate his cap figure will come in at $55.7 million USD for the 2027-28 season.Despite setting earnings records, the iconic guard took a deliberate pay cut to keep his squad competitive. Stephen Curry was eligible to pull in close to $137 million USD over the two-year span if he sought the maximum amount. Instead, he willingly absorbed a discount of more than $20 million USD below his maximum eligible salary. Accepting this reduction provides the Golden State Warriors with immediate salary cap flexibility. This financial sacrifice changes the team's outlook and prioritizes the ability to construct a championship-contending roster around their cornerstone rather than maxing out his personal payout.That level of organizational commitment reinforces his status within the building. Following the official announcement, Warriors general manager Mike Dunleavy highlighted the magnitude of the guard's impact. Dunleavy stated he does not think there has ever been a better face to a franchise in professional sports history than Curry. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f5baf212e0c73220",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Avengers: Endgame Encore’ Reclaims the Box Office With an $86 Million USD Global Weekend",
+      "url": "https://hypebeast.com/2026/9/avengers-endgame-encore-first-weekend-86-million-usd-usd-global-box-office",
+      "publishedAt": "2026-09-28T09:00:16.000Z",
+      "collectedAt": "2026-09-28T19:28:45.579Z",
+      "text": "‘Avengers: Endgame Encore’ Reclaims the Box Office With an $86 Million USD Global Weekend Summary 'Avengers: Endgame Encore,' Disney and Marvel's re-release of the 2019 blockbuster with added footage, topped the domestic box office over several new releasesThe film earned $26 million USD from 3,060 North American theaters and $60 million USD from international marketsThe result arrives ahead of 'Avengers: Doomsday,' which opens in December Avengers: Endgame Encore has returned to No. 1 at the domestic box office, finishing ahead of several new releases in its return to theaters. Disney and Marvel’s re-release of the 2019 blockbuster, which adds extra footage to the original cut, brought in $86 million USD worldwide over the weekend.In North America, the film earned $26 million USD from 3,060 theaters, which works out to an average of roughly $8,500 USD per location. That's a strong result for a film that has been available to stream at home for years. International audiences drove most of the total. Overseas markets added $60 million USD, more than double the domestic haul, bringing the global figure to $86 million USD.Those numbers are well beyond what re-releases usually earn. \"Re-releases rarely earn more than $10 million USD,\" said David A. Gross, who publishes the box office newsletter FranchiseRe. Gross also pointed to the run's value as marketing, noting that it helps build early buzz for what Marvel has coming next.The next release is Avengers: Doomsday, which opens in December and brings back nearly the full Avengers roster for another fight to save the universe. With Endgame Encore posting numbers usually reserved for new releases, the re-release is an early sign of how much demand exists for Doomsday. Click here to view full gallery at Hypebeast"
     }
   ]
 }

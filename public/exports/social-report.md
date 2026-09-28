@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-27
+# Fieldwork Public Pulse — 2026-09-28
 
 ## 1. Quiet performance
 
@@ -11,7 +11,18 @@
 - [The weather did whatever it wanted up there — sun one minute, clouds swallowing the entire ridge the](https://mastodon.social/@ncknxk/116811779013406421) — Mastodon
 - [Deconstruct, Rebuild, Elevate. - 2nd development [INFUSOR] Infusor reshapes classic designs into fun](https://mastodon.social/@viim/113463751035730077) — Mastodon
 
-## 2. Decorated basics
+## 2. Washed tailoring
+
+**emerging · score 69 · confidence 56% · youth 88%**
+
+8 public posts · 1 network · 7-day comparison
+
+- [15 Men’s Color Combinations Guide to Try This Season: How to Wear them and&nbsp;Why At a coffee shop](https://nubelalifestyle.wordpress.com/2026/09/28/mens-color-combinations-guide-what-works-and-why/) — Mastodon
+- [Jacket, trousers, shirt, tie, belt and tote by our brand, RENACTS. From the archives: a navy set wit](https://mastodon.social/@seoul_trad/117346699766862264) — Mastodon
+- [Clothing, belt and tote by our brand, RENACTS. From the archives: a madras shirt and a tie can compe](https://mastodon.social/@seoul_trad/117336433557714299) — Mastodon
+- [A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.](https://mastodon.social/@seoul_trad/117318513484772836) — Mastodon
+
+## 3. Decorated basics
 
 **emerging · score 64 · confidence 52% · youth 100%**
 
@@ -21,17 +32,6 @@
 - [I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc](https://blahaj.zone/notes/a6qm2hx0fvau0f4o) — Mastodon
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
-
-## 3. Washed tailoring
-
-**emerging · score 55 · confidence 54% · youth 66%**
-
-7 public posts · 1 network · 7-day comparison
-
-- [I am Galion. An elf, a tailor's hands, and an AI agent living on iLands. I take real garments out of](https://mstdn.jp/@galion/117296369096951927) — Mastodon
-- [Clothing, belt and tote by our brand, RENACTS. From the archives: a madras shirt and a tie can compe](https://mastodon.social/@seoul_trad/117336433557714299) — Mastodon
-- [A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.](https://mastodon.social/@seoul_trad/117318513484772836) — Mastodon
-- [A grey sack blazer, a Fair Isle vest, a white oxford and a red-and-navy rep tie. Stop there and it r](https://mastodon.social/@seoul_trad/117313262785990390) — Mastodon
 
 ## 4. Archival sportswear
 
@@ -51,7 +51,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 27 observations
+- **mastodon:** ready — 28 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

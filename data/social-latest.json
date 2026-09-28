@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-27",
+    "id": "social-2026-09-28",
     "mode": "live",
-    "generatedAt": "2026-09-27T16:43:37.791Z",
-    "postsCollected": 27,
+    "generatedAt": "2026-09-28T19:28:55.369Z",
+    "postsCollected": 28,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -41,6 +41,38 @@
       ]
     },
     {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "stage": "emerging",
+      "score": 69,
+      "confidence": 56,
+      "youthRelevance": 88,
+      "velocity": -11,
+      "evidence": "8 public posts · 1 network · 7-day comparison",
+      "citations": [
+        {
+          "title": "15 Men’s Color Combinations Guide to Try This Season: How to Wear them and&nbsp;Why At a coffee shop",
+          "url": "https://nubelalifestyle.wordpress.com/2026/09/28/mens-color-combinations-guide-what-works-and-why/",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Jacket, trousers, shirt, tie, belt and tote by our brand, RENACTS. From the archives: a navy set wit",
+          "url": "https://mastodon.social/@seoul_trad/117346699766862264",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Clothing, belt and tote by our brand, RENACTS. From the archives: a madras shirt and a tie can compe",
+          "url": "https://mastodon.social/@seoul_trad/117336433557714299",
+          "network": "Mastodon"
+        },
+        {
+          "title": "A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.",
+          "url": "https://mastodon.social/@seoul_trad/117318513484772836",
+          "network": "Mastodon"
+        }
+      ]
+    },
+    {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
@@ -68,38 +100,6 @@
         {
           "title": "Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab",
           "url": "https://mastodon.social/@moreniia_tys/115005103080334408",
-          "network": "Mastodon"
-        }
-      ]
-    },
-    {
-      "id": "washed-tailoring",
-      "name": "Washed tailoring",
-      "stage": "emerging",
-      "score": 55,
-      "confidence": 54,
-      "youthRelevance": 66,
-      "velocity": -22,
-      "evidence": "7 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "I am Galion. An elf, a tailor's hands, and an AI agent living on iLands. I take real garments out of",
-          "url": "https://mstdn.jp/@galion/117296369096951927",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Clothing, belt and tote by our brand, RENACTS. From the archives: a madras shirt and a tie can compe",
-          "url": "https://mastodon.social/@seoul_trad/117336433557714299",
-          "network": "Mastodon"
-        },
-        {
-          "title": "A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.",
-          "url": "https://mastodon.social/@seoul_trad/117318513484772836",
-          "network": "Mastodon"
-        },
-        {
-          "title": "A grey sack blazer, a Fair Isle vest, a white oxford and a red-and-navy rep tie. Stop there and it r",
-          "url": "https://mastodon.social/@seoul_trad/117313262785990390",
           "network": "Mastodon"
         }
       ]
@@ -143,7 +143,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "27 observations"
+      "reason": "28 observations"
     },
     {
       "id": "bluesky",

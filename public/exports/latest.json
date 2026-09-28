@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-09-27",
+    "id": "2026-09-28",
     "mode": "live",
-    "displayDate": "SEP 27, 2026, 12:43 PM EDT",
-    "generatedAt": "2026-09-27T16:43:29.472Z",
-    "itemsCollected": 33,
+    "displayDate": "SEP 28, 2026, 03:28 PM EDT",
+    "generatedAt": "2026-09-28T19:28:46.844Z",
+    "itemsCollected": 59,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 8
+        "count": 9
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 68,
-      "confidence": 50,
-      "youthRelevance": 71,
+      "score": 100,
+      "confidence": 54,
+      "youthRelevance": 82,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
+      "whyNow": "5 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "5 observations · 2 independent sources · +400% seven-day velocity",
       "citations": [
         {
           "title": "Logitech's Blue Yeti 2 Modernizes the Classic Streaming Mic With AI Noise Canceling and a 3D Proximity Sensor",
@@ -45,10 +45,10 @@
           "url": "https://hypebeast.com/2026/9/logitech-g-blue-yeti-2-adds-ai-proximity-tracking"
         },
         {
-          "title": "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing",
+          "title": "Nike's Classic Air Force 1 Gets a Charming Upgrade",
           "source": "Highsnobiety",
-          "date": "Sep 23",
-          "url": "https://www.highsnobiety.com/p/nike-moon-shoe-coconut-milk/"
+          "date": "Sep 28",
+          "url": "https://www.highsnobiety.com/p/nikes-air-force-1-white-metallic-gold-charms/"
         }
       ]
     },
@@ -56,13 +56,13 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 64,
-      "confidence": 43,
-      "youthRelevance": 60,
+      "score": 69,
+      "confidence": 48,
+      "youthRelevance": 87,
       "direction": "up",
       "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +100% seven-day velocity",
+      "whyNow": "4 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
       "citations": [
         {
           "title": "Vans’ Waterproof Skate Boot Is Winter's Strongest Solider",
@@ -71,10 +71,10 @@
           "url": "https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-mte-sneakers/"
         },
         {
-          "title": "Timberland Launches the Timberland 25 Lightweight Waterproof Boot",
+          "title": "Burton Raids Zeb Powell's Wardrobe for \"Zeb's Closet,\" a Baggy Outerwear Collection",
           "source": "Hypebeast",
-          "date": "Sep 23",
-          "url": "https://hypebeast.com/2026/9/timberland-timberland-25-release"
+          "date": "Sep 28",
+          "url": "https://hypebeast.com/2026/9/zeb-powell-burton-collaboration-collection-zebs-closet-release-info"
         }
       ]
     }
@@ -88,12 +88,12 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0927",
+    "code": "AUTO 0928",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
       "Logitech's Blue Yeti 2 Modernizes the Classic Streaming Mic With AI Noise Canceling and a 3D Proximity Sensor",
-      "Nike's Most Textural Moon Shoe Is a Charming Lil' Thing"
+      "Nike's Classic Air Force 1 Gets a Charming Upgrade"
     ]
   }
 }
