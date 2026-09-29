@@ -1,28 +1,28 @@
-# Fieldwork Daily Signal — 2026-09-28
+# Fieldwork Daily Signal — 2026-09-29
 
-Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
+Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
-## 1. Decorated basics
+## 1. Quiet performance
 
-**emerging · score 100 · confidence 54% · youth 82%**
-
-Decorated basics is appearing across 2 independent public sources.
-
-5 observations · 2 independent sources · +400% seven-day velocity
-
-- [Logitech's Blue Yeti 2 Modernizes the Classic Streaming Mic With AI Noise Canceling and a 3D Proximity Sensor](https://hypebeast.com/2026/9/logitech-g-blue-yeti-2-adds-ai-proximity-tracking) — Hypebeast, Sep 24
-- [Nike's Classic Air Force 1 Gets a Charming Upgrade](https://www.highsnobiety.com/p/nikes-air-force-1-white-metallic-gold-charms/) — Highsnobiety, Sep 28
-
-## 2. Quiet performance
-
-**emerging · score 69 · confidence 48% · youth 87%**
+**emerging · score 100 · confidence 54% · youth 98%**
 
 Quiet performance is appearing across 2 independent public sources.
 
-4 observations · 2 independent sources · +100% seven-day velocity
+5 observations · 2 independent sources · +400% seven-day velocity
 
-- [Vans’ Waterproof Skate Boot Is Winter's Strongest Solider](https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-mte-sneakers/) — Highsnobiety, Sep 26
-- [Burton Raids Zeb Powell's Wardrobe for "Zeb's Closet," a Baggy Outerwear Collection](https://hypebeast.com/2026/9/zeb-powell-burton-collaboration-collection-zebs-closet-release-info) — Hypebeast, Sep 28
+- [HUF and TAION Reunite for a Packable FW26 Down Capsule](https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info) — Hypebeast, Sep 29
+- [Vans’ Waterproof Trail Sneaker Goes Green for the Better](https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-green/) — Highsnobiety, Sep 29
+
+## 2. Decorated basics
+
+**emerging · score 96 · confidence 60% · youth 93%**
+
+Decorated basics is appearing across 2 independent public sources.
+
+6 observations · 2 independent sources · +200% seven-day velocity
+
+- [9 Top Designers on Their Pre-Show Rituals and Lucky Charms](https://www.highsnobiety.com/p/paul-smith-bode-valentino-designer-superstitions/) — Highsnobiety, Sep 29
+- [Alfa Romeo's One-Off 33 Stradale Perla Nera Is an All-Black Carbon Fiber Statement From Bottegafuoriserie](https://hypebeast.com/2026/9/alfa-romeo-unveils-bespoke-perla-nera-33-stradale) — Hypebeast, Sep 29
 
 ## Method note
 
