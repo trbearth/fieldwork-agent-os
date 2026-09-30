@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-29
+# Fieldwork Public Pulse — 2026-09-30
 
 ## 1. Quiet performance
 
@@ -13,14 +13,14 @@
 
 ## 2. Washed tailoring
 
-**emerging · score 69 · confidence 56% · youth 88%**
+**emerging · score 72 · confidence 60% · youth 90%**
 
-8 public posts · 1 network · 7-day comparison
+10 public posts · 1 network · 7-day comparison
 
+- [Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi](https://mastodon.social/@seoul_trad/117357978067150530) — Mastodon
+- [Small styling thing I always end up explaining: the difference between a tuxedo and a suit is basica](https://mastodon.social/@suspenders/117357326044284348) — Mastodon
 - [15 Men’s Color Combinations Guide to Try This Season: How to Wear them and&nbsp;Why At a coffee shop](https://nubelalifestyle.wordpress.com/2026/09/28/mens-color-combinations-guide-what-works-and-why/) — Mastodon
 - [Jacket, trousers, shirt, tie, belt and tote by our brand, RENACTS. From the archives: a navy set wit](https://mastodon.social/@seoul_trad/117346699766862264) — Mastodon
-- [Clothing, belt and tote by our brand, RENACTS. From the archives: a madras shirt and a tie can compe](https://mastodon.social/@seoul_trad/117336433557714299) — Mastodon
-- [A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.](https://mastodon.social/@seoul_trad/117318513484772836) — Mastodon
 
 ## 3. Decorated basics
 
@@ -41,17 +41,9 @@
 
 - [90s Starter Jackets remain a popular choice for anyone who likes vintage sportswear and retro street](https://mastodon.social/@bflwear/117239519066957055) — Mastodon
 
-## 5. Narrow technical footwear
-
-**emerging · score 22 · confidence 42% · youth 53%**
-
-1 public posts · 1 network · 7-day comparison
-
-- [These # retro # sneakers are sooo 😍 squeeee! I remember in Brooklyn we called them bike shoes. They](https://tenforward.social/@Phangurl/117323036854992693) — Mastodon
-
 ## Network status
 
-- **mastodon:** ready — 28 observations
+- **mastodon:** ready — 29 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

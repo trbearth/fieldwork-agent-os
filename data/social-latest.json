@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-29",
+    "id": "social-2026-09-30",
     "mode": "live",
-    "generatedAt": "2026-09-29T17:55:15.598Z",
-    "postsCollected": 28,
+    "generatedAt": "2026-09-30T17:51:02.247Z",
+    "postsCollected": 29,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,12 +44,22 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 69,
-      "confidence": 56,
-      "youthRelevance": 88,
-      "velocity": -33,
-      "evidence": "8 public posts · 1 network · 7-day comparison",
+      "score": 72,
+      "confidence": 60,
+      "youthRelevance": 90,
+      "velocity": -17,
+      "evidence": "10 public posts · 1 network · 7-day comparison",
       "citations": [
+        {
+          "title": "Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi",
+          "url": "https://mastodon.social/@seoul_trad/117357978067150530",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Small styling thing I always end up explaining: the difference between a tuxedo and a suit is basica",
+          "url": "https://mastodon.social/@suspenders/117357326044284348",
+          "network": "Mastodon"
+        },
         {
           "title": "15 Men’s Color Combinations Guide to Try This Season: How to Wear them and&nbsp;Why At a coffee shop",
           "url": "https://nubelalifestyle.wordpress.com/2026/09/28/mens-color-combinations-guide-what-works-and-why/",
@@ -58,16 +68,6 @@
         {
           "title": "Jacket, trousers, shirt, tie, belt and tote by our brand, RENACTS. From the archives: a navy set wit",
           "url": "https://mastodon.social/@seoul_trad/117346699766862264",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Clothing, belt and tote by our brand, RENACTS. From the archives: a madras shirt and a tie can compe",
-          "url": "https://mastodon.social/@seoul_trad/117336433557714299",
-          "network": "Mastodon"
-        },
-        {
-          "title": "A glen check tweed jacket, a cable-knit cricket sweater, a blue oxford and a green-and-navy rep tie.",
-          "url": "https://mastodon.social/@seoul_trad/117318513484772836",
           "network": "Mastodon"
         }
       ]
@@ -120,30 +120,13 @@
           "network": "Mastodon"
         }
       ]
-    },
-    {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 22,
-      "confidence": 42,
-      "youthRelevance": 53,
-      "velocity": -75,
-      "evidence": "1 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "These # retro # sneakers are sooo 😍 squeeee! I remember in Brooklyn we called them bike shoes. They",
-          "url": "https://tenforward.social/@Phangurl/117323036854992693",
-          "network": "Mastodon"
-        }
-      ]
     }
   ],
   "networkStatus": [
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "28 observations"
+      "reason": "29 observations"
     },
     {
       "id": "bluesky",

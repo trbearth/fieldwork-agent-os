@@ -1,8 +1,8 @@
-# Fieldwork Synthesis Scout — 2026-09-29
+# Fieldwork Synthesis Scout — 2026-09-30
 
 ## Cross-source candidates
 
-1. **Quiet performance** — publication 100; public conversation 72.
-2. **Decorated basics** — publication 96; public conversation 64.
+1. **Decorated basics** — publication 96; public conversation 64.
+2. **Quiet performance** — publication 68; public conversation 72.
 
 Human curation required: select one thesis, define the customer and price ceiling, then research actual products and availability.

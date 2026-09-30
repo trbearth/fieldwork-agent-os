@@ -2415,6 +2415,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-09-30",
+      "mode": "live",
+      "displayDate": "SEP 30, 2026, 01:50 PM EDT",
+      "generatedAt": "2026-09-30T17:50:53.402Z",
+      "itemsCollected": 46,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 11
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 96,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 68,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -37188,6 +37225,512 @@
       "publishedAt": "2026-09-29T08:00:05.000Z",
       "collectedAt": "2026-09-29T17:55:05.160Z",
       "text": "LISA Doesn't Have to Choose Wherever LISA travels, whether it's a stadium on another continent, a fashion week front row, or a hotel suite she'll leave by morning, one thing always comes with her. It isn't a jewel or a lucky charm. It's a pair of slippers. \"I bring them everywhere with me whenever I travel and they are so cozy and make me feel more at home,\" she says.It's a concise explanation, and an unexpectedly tender detail from someone who spends most of her working life being looked at. The LISA most of the world knows is the one onstage: exact, electric, one of the most recognized performers in pop. But the person carrying slippers from city to city points to another LISA — the one who looks for home wherever she lands. That tension between the star and the homebody is what drives her newest project as creative director: Meta Glasses by LISA. The collection comes in two frames, each representing the two sides to her. The Adventurer, with Blush lenses, is for the LISA who takes her time. The Capri, a sharp cat-eye, is for the LISA who walks onstage.She's never pretended there's only one of her. When she stepped out on her own with her dynamic debut solo album, she gave the world five different personas. Each one was a different character, and each was her. The symbol she chose for that idea was a five-pointed star, and it came up in the very first design meetings for the glasses. Now it sits on the temple tips and the case.\"I don’t think you have to pick just one version of yourself, so the star became my way of saying all of them can exist at once.\"\"The star was from my first solo album, Alter Ego. The five points represent five different characters of this album,\" LISA shares. \"I don't think you have to pick just one version of yourself, so the star became my way of saying all of them can exist at once. Putting it on the temple tips felt right because it's small and personal. You don't see it from far away, but you know it's there.\"Like the hidden emblem on the glasses, the things LISA holds closest are the ones you only catch up close: the star, the slippers, and Leo, Luca, Lily, Louis, Lego, and Love, more commonly known as the cats affectionally referred to as the Lfamily. That instinct for the small and personal carries over to how she actually uses the glasses: off stage, and for the hours in between. Her perfect day off with a pair on is built around the simple pleasures. \"I leave the house to get matcha, walk around and listen to music and c"
+    },
+    {
+      "id": "bfc05f1984fad5ae",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Tried HigherDose’s Red Light Hat for Hair Growth—Here’s What Happened",
+      "url": "https://www.vogue.com/article/higherdose-red-light-therapy-hat-review",
+      "publishedAt": "2026-09-30T17:34:45.000Z",
+      "collectedAt": "2026-09-30T17:50:49.240Z",
+      "text": "I Tried HigherDose’s Red Light Hat for Hair Growth—Here’s What Happened One Vogue writer reviews the HigherDose’s red light therapy hat after experiencing stress hair loss. Read about her four-month trial with the device."
+    },
+    {
+      "id": "9b02f8078c40660a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ashish Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ashish",
+      "publishedAt": "2026-09-30T17:46:33.000Z",
+      "collectedAt": "2026-09-30T17:50:49.241Z",
+      "text": "Ashish Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "2ed977264f1e3981",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Acne Studios Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/acne-studios",
+      "publishedAt": "2026-09-30T17:46:33.000Z",
+      "collectedAt": "2026-09-30T17:50:49.241Z",
+      "text": "Acne Studios Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ca90fdbf9757ea32",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Black Is Never Boring—Just Ask Pernille Teisbaek",
+      "url": "https://www.vogue.com/article/black-is-never-boring-just-ask-pernille-teisbaek",
+      "publishedAt": "2026-09-30T17:07:24.000Z",
+      "collectedAt": "2026-09-30T17:50:49.241Z",
+      "text": "Black Is Never Boring—Just Ask Pernille Teisbaek Pernille Teisbaek joins Christine Centenera, Laura Harrier, and Charlotte Gainsbourg to share their rules for wearing all black."
+    },
+    {
+      "id": "23631c2bfa634a22",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Cornerstone of Kate Middleton’s Fall Wardrobe Is the Perfect Wool Coat",
+      "url": "https://www.vogue.com/article/kate-middleton-fall-wardrobe-wool-coat",
+      "publishedAt": "2026-09-30T16:29:33.000Z",
+      "collectedAt": "2026-09-30T17:50:49.241Z",
+      "text": "The Cornerstone of Kate Middleton’s Fall Wardrobe Is the Perfect Wool Coat Kate Middleton swapped her usual Edeline Lee tailoring for a more relaxed approach today, wearing a gray Jigsaw coat for a trip to Sussex."
+    },
+    {
+      "id": "5fb1db246e5fda59",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vaquera Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/vaquera",
+      "publishedAt": "2026-09-30T17:46:33.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Vaquera Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "c2d42a838a44c41d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Toheeb Jimoh Is (Hopefully) Getting Pancakes After the Dior Show",
+      "url": "https://www.vogue.com/slideshow/toheeb-jimoh-dior-spring-2027-diary",
+      "publishedAt": "2026-09-30T16:21:37.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Toheeb Jimoh Is (Hopefully) Getting Pancakes After the Dior Show Actor Toheeb Jimoh found time between filming the BBC show ‘Open Water’ and promoting forthcoming films ‘Clarissa’ and ‘Prima Facie’ to head to the Dior show in Paris."
+    },
+    {
+      "id": "de4f1218737b253d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At the Verity Premiere, Anne Hathaway Reflected on a Five-Film Year—and Her Surprise Baby Joy",
+      "url": "https://www.vogue.com/slideshow/verity-premiere-new-york-anne-hathaway-dakota-johnson-josh-hartnett",
+      "publishedAt": "2026-09-30T16:02:44.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "At the Verity Premiere, Anne Hathaway Reflected on a Five-Film Year—and Her Surprise Baby Joy \"My favorite moment of the year was taking a pregnancy test and finding out it was positive,\" Anne Hathaway told Vogue on the red carpet. \"It was a complete shock! I found out right before everything kicked off.”"
+    },
+    {
+      "id": "bf01d6df00fda58f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Exclusive: Sophia Bush and Ashlyn Harris Are Married! The Romantic Story Behind Their Special Day",
+      "url": "https://www.vogue.com/article/sophia-bush-and-ashlyn-harris-wedding-excerpt",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Exclusive: Sophia Bush and Ashlyn Harris Are Married! The Romantic Story Behind Their Special Day Bush and Harris tied the knot in a private ceremony in an upstate New York backyard—and the pared-down wedding turned out to fit the happy couple perfectly."
+    },
+    {
+      "id": "cd81a26aca98c70e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Stella McCartney Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/stella-mccartney",
+      "publishedAt": "2026-09-30T17:46:33.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Stella McCartney Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "b1887c24a94c7b9a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Olivia Colman Makes a Very Chic Case for Going Silver",
+      "url": "https://www.vogue.com/article/olivia-colman-gray-hair-zurich-film-festival",
+      "publishedAt": "2026-09-30T15:03:36.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Olivia Colman Makes a Very Chic Case for Going Silver Appearing at the ‘Wicker’ premiere at Zurich Film Festival, Olivia Colman swapped her brunette crop for silvery lengths."
+    },
+    {
+      "id": "3cfe9fb38e85ebe1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Honey Dijon’s Saint Laurent Show Look Was an Ode to 1970s New York",
+      "url": "https://www.vogue.com/slideshow/honey-dijon-paris-fashion-week-saint-laurent",
+      "publishedAt": "2026-09-30T14:51:58.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Honey Dijon’s Saint Laurent Show Look Was an Ode to 1970s New York The DJ and all-around fashion muse got a little kinky with her Paris Fashion Week style. “It reminded me of going to The Anvil in the late ’70s—but doing it super chic.”"
+    },
+    {
+      "id": "592a54730d81569b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Balmain Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/balmain",
+      "publishedAt": "2026-09-30T17:46:33.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Balmain Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "9c0690dd2f7ac7aa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I’m Getting Married on My 40th Birthday—Here’s Why",
+      "url": "https://www.vogue.com/article/getting-married-on-my-40th-birthday-essay",
+      "publishedAt": "2026-09-30T14:27:24.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "I’m Getting Married on My 40th Birthday—Here’s Why “Perhaps in my wedding photos I won’t be quite as cherub-faced as what we graft onto brides: There will be 40 years visible in my face, because there will be 40 years behind it,” writes Taylor Harris. “But I don’t find that sad, because I know what happened during those years.”"
+    },
+    {
+      "id": "abc8247c218413a0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dries Van Noten Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dries-van-noten",
+      "publishedAt": "2026-09-30T17:46:33.000Z",
+      "collectedAt": "2026-09-30T17:50:49.242Z",
+      "text": "Dries Van Noten Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "599bb471ade38dd3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hailey Bieber Wore the 1997 Dress That Carolyn Bessette-Kennedy Made Famous",
+      "url": "https://www.vogue.com/article/hailey-bieber-carolyn-bessette-kennedy-rehearsal-dinner-dress-narciso-rodriguez",
+      "publishedAt": "2026-09-30T12:30:00.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "Hailey Bieber Wore the 1997 Dress That Carolyn Bessette-Kennedy Made Famous Rhode founder and vintage fashion fan Hailey Bieber outdid herself in a “one and the same” look CBK wore for her own wedding rehearsal dinner."
+    },
+    {
+      "id": "f2a69e48623a4f3e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Roger Lynch is Stepping Down as Condé Nast’s CEO",
+      "url": "https://www.vogue.com/article/roger-lynch-is-stepping-down-as-conde-nasts-ceo",
+      "publishedAt": "2026-09-30T12:13:54.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "Roger Lynch is Stepping Down as Condé Nast’s CEO After seven and a half years as CEO, Lynch has stepped down from his post. Soon, he will join Mattel as its new CEO."
+    },
+    {
+      "id": "d60e7059165a27d8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“Watch This Space”: First Reactions to Drew Henry’s Courrèges",
+      "url": "https://www.vogue.com/article/watch-this-space-first-reactions-to-drew-henrys-courreges",
+      "publishedAt": "2026-09-30T12:00:01.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "“Watch This Space”: First Reactions to Drew Henry’s Courrèges Industry insiders give their first impressions of Drew Henry’s Courrèges, following his Wednesday debut."
+    },
+    {
+      "id": "81fa97a2e807ce42",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Closet Case: Meet Jeremyn Lee, the Shoe Designer Building His Own Freaky Footwear Archive",
+      "url": "https://www.vogue.com/article/closet-case-jeremyn-lee",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "Closet Case: Meet Jeremyn Lee, the Shoe Designer Building His Own Freaky Footwear Archive For this month’s installment of Closet Case, Jeremyn takes Vogue to his Brooklyn apartment for a behind-the-scenes look at his piles of Prada and his seemingly endless assortment of designer shoes."
+    },
+    {
+      "id": "1b7d150342b3174e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At Lévy Gorvy Dayan, Wangari Mathenge Puts Together the Pieces of a Self",
+      "url": "https://www.vogue.com/article/wangari-mathenge-re-membering-levy-gorvy-dayan",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "At Lévy Gorvy Dayan, Wangari Mathenge Puts Together the Pieces of a Self Mathenge has made her Lévy Gorvy Dayan debut with “Wangari Mathenge: Re-membering,” which features five new paintings and the artist’s first sculptures, made collaboratively with her mother and her mother’s friends in Nairobi."
+    },
+    {
+      "id": "98201f15bee74213",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lawrence Puts Her Best Bangs Forward at Paris Fashion Week",
+      "url": "https://www.vogue.com/article/jennifer-lawrence-puts-her-best-bangs-forward-at-paris-fashion-week",
+      "publishedAt": "2026-09-30T10:24:40.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "Jennifer Lawrence Puts Her Best Bangs Forward at Paris Fashion Week From Birkin and butterfly bangs, to a brow-revealing fringe, Jennifer Lawrence took her wispy new set to the front row of Dior."
+    },
+    {
+      "id": "5cded301db0c5355",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dakota Johnson Says Goodbye to the Blurred Lip",
+      "url": "https://www.vogue.com/article/dakota-johnson-says-goodbye-to-the-blurred-lip",
+      "publishedAt": "2026-09-30T10:00:13.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "Dakota Johnson Says Goodbye to the Blurred Lip Appearing at the Verity premiere in New York, Dakota Johnson sported a fall beauty reset that felt both sumptuous and precise."
+    },
+    {
+      "id": "4ff0618495b2fb72",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "24 White-Tie Wedding Guest Dresses for the Most Formal Occasions",
+      "url": "https://www.vogue.com/article/white-tie-wedding-guest-dresses",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "24 White-Tie Wedding Guest Dresses for the Most Formal Occasions Finding the right white-tie wedding guest dress for an ultra-formal ceremony comes with its own requirements; here, a bridal stylist breaks down the dress code."
+    },
+    {
+      "id": "5156cd00f703b9c0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 22 Best Airbnbs in Mexico City to Book for Your Next Getaway",
+      "url": "https://www.vogue.com/article/best-airbnbs-mexico-city",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "The 22 Best Airbnbs in Mexico City to Book for Your Next Getaway From historic Roma to trendy La Condesa, these are the best Airbnbs in Mexico City worth bookmarking."
+    },
+    {
+      "id": "e6a537e773d077f4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "For Their Third Collaboration, Levi’s and Sacai Push the Proportions of Denim",
+      "url": "https://www.vogue.com/article/levis-sacai-collaboration-2026",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "For Their Third Collaboration, Levi’s and Sacai Push the Proportions of Denim Exaggerated cuts and unexpected detailing turn denim classics into something new and compelling."
+    },
+    {
+      "id": "679a577a96eede89",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Brooklyn and Nicola Peltz Beckham Bring Their Best Basics to Paris Fashion Week",
+      "url": "https://www.vogue.com/article/brooklyn-nicola-peltz-beckham-bring-their-best-basics-to-paris-fashion-week",
+      "publishedAt": "2026-09-30T09:46:19.000Z",
+      "collectedAt": "2026-09-30T17:50:49.243Z",
+      "text": "Brooklyn and Nicola Peltz Beckham Bring Their Best Basics to Paris Fashion Week After a recent return to the spotlight in dramatic red carpet looks, Brooklyn and Nicola Peltz Beckham begin PFW decidedly low-key."
+    },
+    {
+      "id": "7ea4720a88c46064",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Cav Empt",
+      "url": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-cav-empt",
+      "publishedAt": "2026-09-30T17:00:04.000Z",
+      "collectedAt": "2026-09-30T17:50:52.131Z",
+      "text": "New Arrivals From HBX: Cav Empt Brand Information: Founded in Tokyo in 2011 by Sk8thing, Toby Feltwell, and Hishiyama Yutaka, Cav Empt (C.E.) blends Japanese streetwear with influences from science fiction, skateboarding, and underground music. Named after the Latin phrase “caveat emptor,” meaning “buyer beware,” the label is known for bold graphics, relaxed silhouettes, and experimental designs that explore technology and contemporary culture.Price Range: $75.00 USD - $475.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1b63696e6df43178",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "What Went Down at the PGA Tour and Hypegolf’s Presidents Cup Watch Party in Chicago",
+      "url": "https://hypebeast.com/2026/9/hypegolf-presidents-cup-party-chicago-what-went-down",
+      "publishedAt": "2026-09-30T15:55:32.000Z",
+      "collectedAt": "2026-09-30T17:50:52.132Z",
+      "text": "What Went Down at the PGA Tour and Hypegolf’s Presidents Cup Watch Party in Chicago The Presidents Cup is a team competition, but it is also one of the few moments in golf where the game’s international reach becomes especially visible. This year, as the U.S. Team faced the International Team with players from Canada, Latin America, South Korea, Japan, Australia and New Zealand, Chicago served as the backdrop for a tournament built around different countries, playing styles and relationships to the sport.That sense of exchange extended beyond Medinah Country Club. Roughly an hour from the course, Hypegolf hosted a Presidents Cup watch party at Five Iron Golf, bringing guests together in the middle of the city as the competition unfolded. The event offered a more social way into the week, reflecting how plenty of people now encounter golf through simulators, style, conversation and a shared interest in the game.The room brought together people with very different connections to golf. Roger Steele, Drew Westphal and Ashley Mayo were among the guests, joining a crowd that spanned industry figures, creatives and newer voices in the sport. It made for a setting where people could keep an eye on the action from Medinah while putting their own spin on the experience upstairs at Five Iron.Guests moved between the venue’s simulators, a photo booth and a merchandise display, while a Hypegolf-curated food and drink program kept the evening moving. Light bites were served alongside a cocktail menu featuring a margarita, an Old Fashioned and a non-alcoholic option. The format was intentionally loose allowing people to hit balls, catch up with friends or settle in to follow the matches.The details also created a connection back to the tournament site. Floral arrangements from Derrick Rose’s Rose’s Flower Shop were placed throughout the event, echoing the first-tee presentation at Medinah. The collaboration brought an unmistakably Chicago element to both settings, tying the week’s golf programming to one of the city’s most recognizable sporting figures.Style had its own place in the room, too. B. Draddy and Zero Restriction, the official outfitters of both U.S. Team and the International Team, displayed the uniforms worn during the competition. Seeing the pieces up close gave guests a different perspective on a category that is often experienced only through tournament broadcasts or product photography. B. Draddy founder Billy Draddy was also on hand to meet attendees an"
+    },
+    {
+      "id": "c7ee29d50a9e81e8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Every Nike Caitlin 1 Colorway Teased So Far",
+      "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far",
+      "publishedAt": "2026-09-30T14:00:06.000Z",
+      "collectedAt": "2026-09-30T17:50:52.132Z",
+      "text": "Every Nike Caitlin 1 Colorway Teased So Far Summary ike and Caitlin Clark have unveiled an expansive roster of colorways for the inaugural Nike Caitlin 1 signature basketball sneakerTeased iterations range from the flagship Racer Blue launch pair to thematic drops including the newly revealed Halloween editionThe signature model officially debuts globally on October 1, 2026 accompanied by an 18-piece performance and lifestyle apparel collection Nike and WNBA star Caitlin Clark have generated massive momentum ahead of the official debut of the Nike Caitlin 1. Ahead of the signature line's global launch coming soon at the beginning of October, a wide range of thematic colorways, on-court player exclusives, and seasonal teases have been officially documented on Hypebeast.Built around an innovative Opticast molded upper and specialized Zoom Turbo forefoot cushioning, the Nike Caitlin 1 serves as the canvas for Clark's personal story, fandom, and style inspirations. Every colorway teased across the rollout includes:Nike Caitlin 1 \"Caitlin Blue\": The flagship rollout colorway introducing the silhouette's signature \"Caitlin Blue\" accents and Opticast upper.Nike Caitlin 1 \"Jet-Black\": Co-signed and debuted on social media alongside global music icon Travis Scott.Nike Caitlin 1 \"Warning Code\": A bright team-friendly yellow iteration showcased during pregame warmups.Nike Caitlin 1 \"Snow White\": A clean, monochromatic white-out colorway across the molded upper.Nike Caitlin 1 \"Purple\": A soft lavender on-court iteration debuted by Clark during Indiana Fever games.Nike Caitlin 1 \"Hot Punch\": Dressed in a vibrant all-over pink palette contrasted by royal blue \"CC\" tongue logos.Nike Caitlin 1 \"Electric Green\": Showcases Kobe Bryant-inspired green tones complemented by gold signature branding.Nike Caitlin 1 \"Friendship Bracelet\": A Taylor Swift-inspired design outfitted with an iridescent upper, custom lace charms, and personalized heel graphics.Nike Caitlin 1 \"3x Black\": Features a stealthy all-black construction accented by metallic silver Swoosh underlays and signature \"Caitlin Blue\" touches.Nike Caitlin 1 \"Chiefs\": Pays homage to Clark's Kansas City football fandom with a bold red upper, gold detailing, and metallic tongue branding.Nike Caitlin 1 \"Halloween\": Features a dark black upper paired with glowing Ghost Green accents, a glow-in-the-dark outsole, and luminous \"CC\" Swoosh branding. The Nike Caitlin 1 signature collection launches globally on October 1, 2026, vi"
+    },
+    {
+      "id": "e709086feb248174",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "8 Drops You Don't Want to Miss This Week",
+      "url": "https://hypebeast.com/2026/9/best-drops-september-week-5-skims-palace-skateboards-thisisneverthat",
+      "publishedAt": "2026-09-30T12:30:57.000Z",
+      "collectedAt": "2026-09-30T17:50:52.132Z",
+      "text": "8 Drops You Don't Want to Miss This Week With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with SKIMS joining forces with Parisian designer Ludovic de Saint Sernin for a sensual, gender-fluid capsule featuring sheer fabrics and crystal embellishments, while Palace Skateboards gears up for the cold with its heavy-duty Winter 2026 collection of GORE-TEX parkas and irreverent knitwear. South Korea’s thisisneverthat teams up with VERDY’s Wasted Youth for a rebellious, vintage-washed streetwear collaboration, as BEAMS and Polo Ralph Lauren reunite to elevate classic 1990s prep and Ivy League style with the exclusive \"B-WING\" collection. GREG LABORATORY explores conceptual menswear and distorted memory in its avant-garde Season 7 lineup, and Burton taps pro rider Zeb Powell for a retro, hip-hop-inspired snowboarding capsule dubbed \"Zeb's Closet.\" Closing out the week, Japanese fashion icon Poggy elevates '47's classic baseball caps using premium sashiko and indigo textiles, while HUF partners with inner-down specialist TAION for a technical, weather-ready layering capsule.Check out this week’s 8 drops you don’t want to miss below.Palace Skateboards Winter 2026 Collection Following a preview of its highly anticipated lookbook, Palace Skateboards has officially unveiled its expansive Winter 2026 collection, delivering a robust lineup built for the coldest months. The seasonal wardrobe is heavily anchored by technical outerwear, featuring updated GORE-TEX parkas, heavily insulated puffer jackets, and weather-resistant matching track sets. True to the London skate imprint's irreverent DNA, the heavy-duty winter gear is balanced by a wide array of graphic-heavy knitwear, velour zip-ups, and eclectic accessories ranging from branded snowboards to novelty home goods. Palace’s Winter 2026 collection will begin its weekly rollout on October 2 in the UK, EU, and US, followed by an October 3 release in Japan, Korea, China, and Australia.SKIMS x Ludovic de Saint Sernin collectionKim Kardashian’s solutions-oriented brand SKIMS has joined forces with Parisian designer Ludovic de Saint Sernin for a striking collaborative capsule that merges intimate comfort with sensual, gender-fluid design. The collection reimagines SKIMS' signature shapewear and loungewear silhouettes through Saint Sernin's provocative lens, highlighting sheer fabrics, strategic cutouts, and the designer's trademark crystal embellishm"
+    },
+    {
+      "id": "84426ea5b284c9c6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "InScope Is a New Art Fair That Should Be on Your Radar",
+      "url": "https://hypebeast.com/2026/9/inscope-art-fair-miami-beach-2026-debut-announcement",
+      "publishedAt": "2026-09-30T10:00:44.000Z",
+      "collectedAt": "2026-09-30T17:50:52.132Z",
+      "text": "InScope Is a New Art Fair That Should Be on Your Radar Summary InScope, formerly Scope Art Show, will open its inaugural edition from December 1 through December 6 during the upcoming Miami Art WeekThe fair is designed to make collecting personal, allowing for deeper connections between artists, galleries, and collectorsProgramming includes talks, performances, tours, wellness events, and large-scale feature projects from Alake Shilling, Aurora Mititelu, Blue Floor Project, Ceren Arslan, Jason Hackenwerth, Nurse, Rabi Towing, and Swoon InScope is the new fair joining Miami this December, and, designed for discovery, it’s looking to shake things up during the city’s upcoming Art Week.The inaugural edition will hit the sands on Ocean Drive at 8th Street between December 1 and 6, planting its indoor and outdoor art installations, gallery pavilions, and social spaces across 220,000 square feet. Built around curiosity and connection, the event introduces a new format designed to bring artists, galleries, and collectors together in encounters that feel personal. “Art gives those conversations a starting point,” said InScope’s CEO and Co-founder Matt Middleton. “Our ambition is for people to leave with the relationships they came for and the inspiration they didn’t expect.”While the full gallery list is coming soon, its day-to-night programming so far offers a promising mix of talks, performances, tours, and wellness events. And its Feature Projects roster is already looking stacked. The first wave of announced projects includes Alake Shilling (Tlaloc Studios), Aurora Mititelu, Blue Floor Project (Fuze and Baha Mar), Ceren Arslan, Jason Hackenwerth (CAMP Gallery), Nurse (Walshy Fire), Rabi Towing, and Swoon.And while this marks the debut edition, the minds behind it aren’t the new kids on the block. Headed by Middleton, Alexis Hubshman, Hayley River Smith, and the former SCOPE Art Show team, InScope leans on 25 years of championing artists and galleries to reconsider and create space for diverse perspectives and experiences. The art of collecting arrives with a sense of excitement and belonging, whether you're a first-time buyer or a seasoned pro.“There isn’t only one way to experience art,” Smith, InScope’s director and recent State of Art featuree, explained. “We want to give people reasons to spend time, ask questions, and find something that stays with them.”InScope will hold its inaugural edition from December 1 through 6 in Miami Beach. For those heading to"
+    },
+    {
+      "id": "bdfbcd71bac25582",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Maison Margiela’s Tokyo-Exclusive REPLICA Fragrance Smells Like an Unsent Letter",
+      "url": "https://hypebeast.com/2026/9/maison-margiela-replica-letter-never-sent-tokyo-city-exclusive-fragrance-release-info",
+      "publishedAt": "2026-09-30T09:45:33.000Z",
+      "collectedAt": "2026-09-30T17:50:52.132Z",
+      "text": "Maison Margiela’s Tokyo-Exclusive REPLICA Fragrance Smells Like an Unsent Letter Summary Maison Margiela’s “Letter Never Sent” captures the intimacy of an unsent message through a Tokyo 1995-inspired scent.Sumi ink, red cedarwood and white musk evoke ink, paper and lingering emotion.The Tokyo-exclusive fragrance launches October 1. Maison Margiela turns an unfinished thought into an olfactory memory with REPLICA “Letter Never Sent,” the house’s first fragrance created exclusively for Tokyo and the first Eau de Parfum within its REPLICA Memory Collection.Set in “Tokyo, 1995,” the woody-musky composition looks back to a moment when communication was beginning to shift from the physical to the digital: handwritten letters and faxed pages giving way to emails, while words once committed to paper could increasingly disappear as easily as a deleted draft. Against the glow and restless movement of the city, “Letter Never Sent” imagines something quieter — an unposted letter kept close, preserving feelings that were written down but never delivered.That scent unfolds through a deliberately restrained trio of notes. A sumi ink accord opens with a dry, mineral transparency and faint metallic sharpness, recalling the moment fresh ink meets white paper while mirroring the cool polish of Tokyo’s urban landscape. As that initial edge settles, red cedarwood introduces warmth, grain and depth, shifting the scene from neon-lit streets toward the intimacy of a desk late at night. White musk finally softens the composition into something clean and close to the skin, evoking the smooth sensation of fine paper between the fingers. The fragrance treats the unsent letter as something suspended between past and present — its ink still legible, its emotions unfinished, and its memory lingering quietly long after the city outside has moved on.The bottle retains REPLICA’s recognizable, utilitarian presentation, with its archival-style label identifying the memory as “Tokyo, 1995,” almost like a date and place recorded on a piece of correspondence. The understated treatment allows the ink-and-paper narrative to remain central, while the wider launch extends that tactile language through a GINZA SIX concept store inspired by old postal spaces, alongside details including a takuhon-inspired furoshiki and sumi-paper pouch offered as part of the launch experience.The Maison Margiela REPLICA “Letter Never Sent” arrives October 1, 2026 in a 100ml format for ¥31,900 JPY (approx. $203 USD). "
+    },
+    {
+      "id": "befd5040940e42a0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Salomon for Ray BEAMS XT-WHISPER Goes Sweet in “CHERRY CAKE PARTY”",
+      "url": "https://hypebeast.com/2026/9/salomon-for-ray-beams-xt-whisper-cherry-cake-party-ice-pink-release-info",
+      "publishedAt": "2026-09-30T09:42:53.000Z",
+      "collectedAt": "2026-09-30T17:50:52.132Z",
+      "text": "Salomon for Ray BEAMS XT-WHISPER Goes Sweet in “CHERRY CAKE PARTY” Name: Salomon for Ray BEAMS XT-WHISPER “CHERRY CAKE PARTY”Colorway: Ice PinkSKU: TBCMSRP: ¥23,100 JPY (approx. $147 USD)Release Date: October 2Where to Buy: BEAMS, Salomon JPSalomon and Ray BEAMS introduce their first fully customized footwear project with the XT-WHISPER “CHERRY CAKE PARTY,” transforming the trail-derived silhouette through a dessert-inspired palette exclusive to the collaboration. Offered in a single Ice Pink colorway, the sneaker starts with a soft light-pink mesh base before layering flowing synthetic panels in vivid cherry pink and deeper red tones across the upper. Black sections around the heel and collar provide a sharper counterpoint to the sweeter shades, while the sole unit is finished in a subdued matte black, grounding the otherwise playful combination. The contrast between translucent-looking mesh, glossy structural overlays and muted tooling gives the shoe a dimensional finish that shifts between technical trail styling and the candy-like colors behind its “Cherry Cake Party” theme.The silhouette retains the performance-informed construction inherited from Salomon’s trail-running archive. SensiFit™ wraps the foot for a secure fit, while the Agile Chassis™ System provides stability underfoot and Quicklace™ allows the lacing to be adjusted in a single pull. Its narrow, sculpted lines and layered material construction preserve the model’s streamlined lifestyle profile, with the black technical sole creating a heavier visual foundation beneath the saturated pink upper. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "522213d355e077d9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "First 'Game of Thrones' Movie 'Aegon’s Conquest' Sets Summer 2029 Release Date",
+      "url": "https://hypebeast.com/2026/9/hbo-game-of-thrones-aegons-conquest-summer-2029-release-date",
+      "publishedAt": "2026-09-30T09:22:24.000Z",
+      "collectedAt": "2026-09-30T17:50:52.132Z",
+      "text": "First 'Game of Thrones' Movie 'Aegon’s Conquest' Sets Summer 2029 Release Date Summary HBO has scheduled its upcoming 'Game of Thrones' feature film 'Aegon's Conquest' for a June 6 2029 theatrical releaseThe movie will be directed by Owen Harris with a screenplay written by Beau WillimonThe narrative centers on Aegon I Targaryen and his historical conquest of Westeros centuries before the original series HBO has officially slated Game of Thrones: Aegon’s Conquest for a theatrical release on June 6, 2029. The project marks the franchise's first feature film set within the fictional universe of Westeros.Directed by Owen Harris (A Knight of the Seven Kingdoms) from a screenplay written by Beau Willimon (Andor, House of Cards), the film focuses on Aegon I, the founder of the Targaryen dynasty. The story chronicles his military conquest across Westeros centuries prior to the events of the original Game of Thrones series. Casting for the lead role of Aegon I has not yet been announced.The cinematic expansion arrives alongside HBO's growing television slate in the Westeros universe. In addition to the feature film, House of the Dragon is moving forward with a fourth season, while A Knight of the Seven Kingdoms has been renewed for Season 2.Game of Thrones: Aegon’s Conquest premieres in theaters on June 6, 2029. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "67ad4f0319685801",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Erling Haaland's New Nike Phantom 6 Low Elite Only Shows Its True Colors When It Gets Wet",
+      "url": "https://hypebeast.com/2026/9/nike-phantom-6-low-elite-erling-haaland-hq2332-401-release-info",
+      "publishedAt": "2026-09-30T09:19:49.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "Erling Haaland's New Nike Phantom 6 Low Elite Only Shows Its True Colors When It Gets Wet Name: Nike Phantom 6 Low Elite \"Erling Haaland\"Colorway: Baltic Blue/Glacier Blue/Blue EclipseSKU: HQ2332-401MSRP: $280 USDRelease Date: October 1Where to Buy: NikeNike is giving Erling Haaland a cleat that changes with the weather. The Phantom 6 Low Elite \"Erling Haaland\" arrives in Baltic Blue/Glacier Blue/Blue Eclipse. It pairs a water-activated color-changing upper with the performance package of Nike's precision-focused silhouette, and the whole concept is built around water as a metaphor for how the striker plays.The headline feature only appears once the grass is wet. The upper is printed with white ink that disappears on contact with water, revealing the full graphic hidden underneath. Nike ties the effect to Haaland himself, casting the reveal as a picture of a player who turns into something defenders can't contain. Dry, the cleat reads as a clean study in icy blues. Wet, it shows everything.That dual nature follows Nike's broader framing of Haaland as water: constantly shifting, capable of stillness one moment and a surge the next. The cold-toned palette of Baltic, Glacier, and Eclipse blues keeps the theme consistent before a single drop hits the upper.Underneath the concept, the construction is built for touch. Nike's Gripknit forms the upper, a tacky textured material designed to hold the ball whether conditions are wet or dry. It's a fitting pairing for a cleat that literally responds to rain, since the surface that changes appearance also keeps its grip when the weather turns.Traction and fit round out the spec sheet. A Cyclone 360 circular stud pattern sits in the forefoot to help players plant and pivot quickly. The shoe's frame is shaped for a more anatomical fit, particularly through the toe box, molding to the foot and bringing the wearer closer to the ball on strikes. Nike positions the Phantom 6 as an upgrade over the Phantom GX 2, with refined Gripknit touch zones, the more natural toe-box fit, and an improved Cyclone 360 plate. A cushioned sockliner finishes the interior, and this firm-ground version is intended for dry, natural-grass fields. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e935948c01bc3e3a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Moon Shoe OG Blooms With Florals Atop the Original Waffle Sole",
+      "url": "https://hypebeast.com/2026/9/nike-moon-shoe-floral-coconut-milk-iz6169-122-official-images-japan-release-info",
+      "publishedAt": "2026-09-30T09:19:35.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "The Nike Moon Shoe OG Blooms With Florals Atop the Original Waffle Sole Name: Nike Moon Shoe “Floral/Coconut Milk”Colorway: Coconut Milk/Mosswood Brown/Fennel/Light KhakiSKU: IZ6169-122MSRP: ¥15,730 JPY (approx. $100 USD)Release Date: October 1 (Japan), TBC (Global)Where to Buy: Nike JapanThe Nike Moon Shoe OG is returning with its heritage construction intact. Nike presents the shoe as a modern version of the running shoe Bill Bowerman built before the company even carried the Nike name, famously using his wife's waffle iron. This edition reproduces that original design in a Coconut Milk/Mosswood Brown/Fennel/Light Khaki colorway.The outsole is where the story starts. A rubber Waffle outsole anchors the shoe, and its gridded tread is the direct descendant of the pattern Bowerman first pressed out in the kitchen. The rubber gives durable traction, while the waffle pattern itself doubles as the shoe's clearest link to Nike's origins.The upper keeps things period-correct. It's built mainly from nylon, the lightweight material that defined running shoes of the era, and finished with a leather Swoosh along the side. The mix of textile and leather gives the upper a layered, textured look that separates it from the smooth, engineered surfaces of modern runners.The details stay simple inside, too. A foam sockliner handles step-in comfort, and the overall shape leans into the slim, low-slung stance of a '70s runner. The color blocking suits that vintage direction. Coconut Milk, Mosswood Brown, Fennel, and Light Khaki make up a muted, earthy palette that reads more like a lifestyle staple than a performance shoe, putting a piece of Nike's earliest history into an everyday rotation. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "008f668028a0e99a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple Announces the iPhone Duo Pre-Order Date as Its First Foldable Smartphone Launches October 23",
+      "url": "https://hypebeast.com/2026/9/apple-announces-iphone-duo-pre-order-timeline",
+      "publishedAt": "2026-09-30T09:19:27.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "Apple Announces the iPhone Duo Pre-Order Date as Its First Foldable Smartphone Launches October 23 Summary Apple announced the official 'Get ready' pre-order timeline for the highly anticipated iPhone Duo, starting October 12, 2026The brand's first foldable smartphone features a 7.6-inch inner display, a 5.4-inch outer display and the new A20 Pro chipOfficial pre-orders launch October 16, with full retail availability on October 23 and pricing starting at $1,999.00 Apple officially announced the rollout timeline for the iPhone Duo, laying the groundwork for its first entry into the foldable smartphone market. Starting on Monday, October 12, 2026, customers can initiate the brand’s signature 'Get ready' configuration process. Applying this recurring launch strategy to its very first foldable device allows Apple to proactively streamline the checkout experience, ensuring that prospective buyers can minimize technical issues and secure their devices during a high-demand pre-order window.This advance setup window gives buyers a crucial head start to pre-select their exact configuration options well before the official drop. Accessed directly through the Apple Store app and Apple's online store, the 'Get ready' process lets users lock in their preferred storage amount, wireless carrier, payment method and colorway, with the foldable device launching in sharp Night Sky and Star White options. Available wireless carrier options for the initial rollout include AT&T, T-Mobile and Verizon. Once the setup is completed, customers will be positioned for a rapid checkout when official pre-orders for the iPhone Duo go live on Friday, October 16, at 8:00 a.m. Eastern Time (5:00 a.m. Pacific Time). The foldable phone will then be officially available for purchase on October 23, 2026.As Apple's first foldable smartphone, the hardware introduces an entirely new physical footprint for the tech giant. When closed, the device operates using a compact 5.4-inch outer display. Opening the physical architecture reveals a sprawling 7.6-inch inner display that utilizes a special nano-texture finish specifically designed to minimize glare. To ensure flawless visual continuity for the user as they transition between the two modes, both the inner and outer displays share the exact same aspect ratio.Under the hood, the entire experience is powered by Apple's new A20 Pro chip. The device's foundational hardware design relies on a highly engineered precision hinge and a dual-battery archit"
+    },
+    {
+      "id": "6138aac091c8e321",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "LEGO Unveils Icons 'Dragon Ball: Shenron & Goku' Building Set",
+      "url": "https://hypebeast.com/2026/9/lego-dragon-ball-shenron-goku-set-release-info",
+      "publishedAt": "2026-09-30T09:15:40.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "LEGO Unveils Icons 'Dragon Ball: Shenron & Goku' Building Set Summary LEGO has officially announced the Icons Dragon Ball Shenron & Goku building set tailored for adult fans of the franchiseThe 1,764-piece set features a poseable Eternal Dragon Shenron coiling above the seven Dragon Balls alongside a detachable Kid Goku minifigure on the KintounThe centerpiece model stands over 12.5 inches tall and offers interactive assembly via the LEGO Builder application LEGO has officially introduced the LEGO Icons Dragon Ball: Shenron & Goku set, an intricate display model crafted for adult builders. Designed as an homage to the iconic anime franchise, the detailed model captures the show's signature elements in physical brick form.Constructed from 1,764 pieces, the set features the Eternal Dragon Shenron rising in a dramatic coiled pose from atop all seven Dragon Balls. The dragon statue is sculpted with textured scales and includes articulated head and claw joints, allowing for custom display arrangements.The build is accompanied by a detachable Kid Goku minifigure riding his Kintoun (Flying Nimbus) cloud, which can be repositioned or displayed separately from the main structure. Once fully assembled, the model measures over 12.5 inches (32 cm) high, 9.5 inches (24 cm) long, and 10 inches (26 cm) wide, supported by 3D digital instructions available on the LEGO Builder app.The Dragon Ball: Shenron & Goku set arrives at LEGO on November 4, 2026. View this post on InstagramA post shared by LEGO (@lego) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e5cff9bebbb441a8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ASICS Debuts the GEL-TRANSCEND FJ in two Earthy Hues",
+      "url": "https://hypebeast.com/2026/9/asics-gel-transcend-fj-1203b050-300-ash-green-graphite-grey-1203b050-200-black-coffee-graphite-grey-release-info",
+      "publishedAt": "2026-09-30T09:14:11.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "ASICS Debuts the GEL-TRANSCEND FJ in two Earthy Hues Name: ASICS GEL-TRANSCEND FJColorway: Ash Green/Graphite Grey, Black Coffee/Graphite GreySKU: 1203B050.300, 1203B050.200MSRP: $150 USDRelease Date: Available NowWhere to Buy: ASICSASICS introduces the GEL-TRANSCEND FJ, a new silhouette that draws from the brand’s archive of 1990s hiking and walking footwear. The upper combines references from the TRANSCEND, GEL-ODYSSEY and GEL-RADIUS series, bringing together rugged leather paneling, perforated detailing, contrast stitching and dimensional ASICS Stripes within a substantial low-top profile.Two colorways lead the debut: “Ash Green/Graphite Grey” covers much of the upper in a pale, muted sage with a softly brushed finish, offset by dark grey mesh around the tongue and collar, patterned rope laces and a black midsole. “Black Coffee/Graphite Grey” takes a richer approach, using deep chocolate-brown leather throughout the upper with black textile accents and cream-speckled laces, giving the shoe a more earthy, utilitarian appearance.Underfoot, the GEL-TRANSCEND FJ borrows its tooling from the GEL-FujiTrabuco 7, introducing a sharply articulated, jagged sole that gives the otherwise retro upper a more aggressive trail-derived foundation. The Ash Green edition extends its palette into dark green outsole sections beneath the black midsole, while the Black Coffee pair keeps the lower half predominantly charcoal and black for a heavier, tonal finish. FLYTEFOAM cushioning keeps the platform lightweight underfoot, while ASICSGRIP rubber adds traction across varied surfaces, reinforcing the model’s mix of archival outdoor references and everyday functionality. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "241e2205c9a1bede",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "First Look at the Nike Caitlin 1 \"Halloween\" Reveals Glow-in-the-Dark Details",
+      "url": "https://hypebeast.com/2026/9/nike-caitlin-1-halloween-ja4290-001-first-look-release-info",
+      "publishedAt": "2026-09-30T09:05:37.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "First Look at the Nike Caitlin 1 \"Halloween\" Reveals Glow-in-the-Dark Details Summary Nike has revealed the first holiday-themed iteration of Caitlin Clark's debut signature model, the Nike Caitlin 1The Halloween-themed sneaker features a black base complemented by glow-in-the-dark outsoles and brandingThe pair is scheduled for a retail launch in October Name: Nike Caitlin 1 \"Halloween\"Colorway: Black/Ghost Green-Mint Foam-Racer BlueSKU: JA4290-001MSRP: $150 USDRelease Date: October 23, 2026Where to Buy: NikeNike has unveiled an early look at the Nike Caitlin 1 \"Halloween\", marking the first holiday-centric release for Caitlin Clark's debut signature silhouette. The colorway made its debut in a Nike social media clip showcasing the pair's luminous design accents.The model arrives dressed primarily in a sleek black palette, incorporating an official color scheme listed as Black, Ghost Green, Mint Foam, and Racer Blue. Maintaining a straightforward seasonal execution, the design features a glow-in-the-dark treatment applied across the outsole as well as the layered Swooshes that construct Clark's signature \"CC\" logo on the side panels.The understated construction keeps the primary focus on performance while introducing a dark, glowing aesthetic for the fall season. The release stands as one of the earliest themed iterations introduced to Clark's expanding signature footwear line.The Nike Caitlin 1 \"Halloween\" drops on October 23, 2026. @nike *Just @Caitlin Clark ♬ original sound - Nike Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c4f953d14fe515cc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'One Piece' Anime Enters Hiatus, Confirms Return in 2027 Following Major Cliffhanger",
+      "url": "https://hypebeast.com/2026/9/toei-animation-one-piece-anime-hiatus-return-2027-confirmed",
+      "publishedAt": "2026-09-30T08:51:29.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "'One Piece' Anime Enters Hiatus, Confirms Return in 2027 Following Major Cliffhanger Summary Toei Animation has officially concluded the 2026 broadcast of the 'One Piece' anime following Episode 1180Episode 1181 will not air until 2027 adhering to the series' new 26-episode annual limit designed to improve pacingThe franchise maintains a packed 2027 lineup including Wit Studio's remake on Netflix and 'One Piece Film: God Valley' Toei Animation has officially paused the One Piece anime series for the remainder of 2026, confirming that Episode 1181 will not broadcast until 2027. The hiatus follows the September 27 airing of Episode 1180 on Fuji TV, which concluded on a major cliffhanger within the ongoing Elbaph arc.The broadcast pause forms part of a revamped scheduling strategy established by Toei Animation and producer Ryuta Koike. Under the structure, the long-running series is capped at 26 episodes annually to eliminate filler recap episodes and align the anime's pacing closer to Eiichiro Oda's original manga chapters. In the interim, Fuji TV will fill the Sunday night timeslot with Dragon Ball Super: Beerus starting October 11.Despite the main TV series hiatus, 2027 is shaping up to be a massive year for the broader franchise. The upcoming slate includes the debut of Wit Studio's THE ONE PIECE remake dropping seven episodes on Netflix in February, the theatrical premiere of One Piece Film: God Valley in Japan next summer, and season 3 of Netflix's live-action adaptation featuring Xolo Maridueña as Portgas D. Ace.One Piece Episode 1181 will return to broadcast in 2027, with additional air date details to be announced by Toei Animation.年内最後のTVアニメ『ONE PIECE』ご視聴ありがとうございました🏴‍☠️⠀次回は2027年放送！詳しい放送時期は続報をお待ちください。⠀#ONEPIECE #今週のアニワン pic.twitter.com/G5zYir5wl1— ONE PIECE スタッフ【公式】/ Official (@Eiichiro_Staff) September 27, 2026 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a1df8f6e3e6a4699",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Devin Booker Reveals First Look at Futura x Nike Book 2 at Phoenix Suns Media Day",
+      "url": "https://hypebeast.com/2026/9/devin-booker-futura-nike-book-2-first-look-phoenix-suns-media-day",
+      "publishedAt": "2026-09-30T08:44:46.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "Devin Booker Reveals First Look at Futura x Nike Book 2 at Phoenix Suns Media Day Summary Devin Booker debuted a Futura x Nike Book 2 collaboration during the Phoenix Suns 2026 Media DayThe pair features custom abstract atom-like graphics and handwritten tongue branding by artist FuturaOfficial release information and retail pricing for the collaborative model have not been announced Nike and Devin Booker have offered a first look at the Futura x Nike Book 2, spotted during the Phoenix Suns' 2026 Media Day. Booker debuted the unreleased footwear alongside his new No. 15 jersey for the upcoming NBA seasonThe pair covers the upper in a vibrant mix of colors and abstract atom-like graphics designed by legendary New York graffiti artist Futura. According to source reports, the artwork was created specifically for Booker, stemming from a personal friendship built between the two over the years. Additional detailing includes \"BOOK\" written across the tongue in Futura's signature handwriting.Because release information remains unconfirmed, it is currently unclear whether the Futura x Nike Book 2 is slated for a public retail launch or will remain a player-exclusive iteration for the upcoming NBA season. View this post on InstagramA post shared by Book (@dbook) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "41696be59c99751d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Street Fighter’ Revisits Ken and Ryu’s Brotherhood in New Featurette Trailer",
+      "url": "https://hypebeast.com/2026/9/street-fighter-live-action-film-ken-vs-ryu-featurette-trailer-info",
+      "publishedAt": "2026-09-30T08:39:55.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "‘Street Fighter’ Revisits Ken and Ryu’s Brotherhood in New Featurette Trailer Summary Street Fighter ’s latest featurette centers on Ken and Ryu’s fractured friendship and rivalry.Andrew Koji and Noah Centineo discuss the characters’ shared history and unresolved tension.The film hits U.S. theaters October 16, 2026. Paramount Pictures has released a new “Ken vs. Ryu” featurette for the upcoming live-action Street Fighter film, putting the franchise’s defining friendship and rivalry at the center of its latest preview.The video opens by referencing the characters’ video game roots before cutting between new fight footage and behind-the-scenes interviews with Andrew Koji, who plays Ryu, Noah Centineo as Ken Masters and director Kitao Sakurai. Koji and Centineo describe the pair as effectively brothers whose once-close relationship fractured after an unspecified event sent them down separate paths, while Sakurai frames their unresolved bond as one of the film’s central dramatic questions.Alongside shots of the two fighters sparring and facing off, the featurette also offers a brief glimpse of Gouken, the martial arts master traditionally associated with training both Ryu and Ken, further grounding the adaptation in established Street Fighter lore.The new featurette builds on earlier trailers that have emphasized the movie’s recognizable special moves, costumes and tournament structure, while sharpening the emotional focus around Ryu and Ken’s relationship. Street Fighter is scheduled to arrive in U.S. theaters on October 16, 2026. Read more at Hypebeast"
+    },
+    {
+      "id": "4946892156048230",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Did HOKA Just Drop a Trail-Bound Bus Stop Outside Shibuya PARCO?!",
+      "url": "https://hypebeast.com/2026/9/hoka-speedgoat-limited-time-pop-up-shibuya-release-info",
+      "publishedAt": "2026-09-30T08:30:12.000Z",
+      "collectedAt": "2026-09-30T17:50:52.133Z",
+      "text": "Did HOKA Just Drop a Trail-Bound Bus Stop Outside Shibuya PARCO?! Did HOKA just drop a \"trail-bound\" bus stop right in front of Shibuya PARCO? The brand is hosting \"Meet the Speedgoat,\" a limited-time pop-up space exploring the roots of its beloved Speedgoat trail running shoes, open from Wednesday, September 30, to Sunday, October 4.Suddenly appearing in the middle of the city is a lone bus stop where ultra-runner Karl Meltzer sits. Known by his nickname \"Speedgoat\" for his ability to navigate rugged, technical trails with the effortless agility of a mountain goat, Meltzer takes center stage as the pop-up dives into the history behind the shoe franchise that debuted in his honor in 2015.The venue also showcases the Speedgoat 7, the latest iteration of HOKA's signature trail running line. Set against the backdrop of the bus stop featuring Meltzer holding the newest colorway, visitors can pick up a complimentary booklet detailing the shoe's design specs and featuring an exclusive interview with Meltzer about the birth of the Speedgoat.On the final day, Sunday, October 4, a special HOKA bus will actually pull up to this stop. It will pick up lottery winners for a day trip out of the city to test the Speedgoat 7 on real trails. (Please note that additional entries for this event are no longer being accepted.)The latest Speedgoat 7 is a trail running shoe engineered with enhanced traction and cushioning. By pairing a high-energy-return, super-critical EVA midsole with a Vibram® Megagrip outsole featuring traction lugs, it delivers the ultimate balance of grip and responsiveness. The shoe is priced at 23,100 yen (tax included).The collection offers a robust variety of colorways for both men and women. The men's lineup includes Black/Outer Orbit, Black/Stellar Grey, Outer Orbit/Virtual Blue, Varsity Navy/Barley Flour, Black/HOKA Citrus, Antique Olive/Black, Alabaster/Morning Dew, and Black/White. The women's selection features Barley/Barley Flour, Blueberry/Cosmic Grey, Black/Electric Aqua, and Black/White.Additionally, the lineup introduces the waterproof Speedgoat 7 GTX. Equipped with a GORE-TEX Invisible Fit membrane and 100% recycled Cordura®, this rugged version also boasts toggle lacing, 360-degree reflective elements for low-light visibility, and an anti-odor sockliner. It is priced at 26,400 yen (tax included).Meet the SpeedgoatDates: Wednesday, September 30 – Sunday, October 4Location: Outside Shibuya PARCO Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "135307164d9456b8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SOUTH2 WEST8 and Foxfire Return With Performance-Driven Winter Layers",
+      "url": "https://hypebeast.com/2026/9/south2-west8-foxfire-capsule-collaboration-release-info",
+      "publishedAt": "2026-09-30T08:27:53.000Z",
+      "collectedAt": "2026-09-30T17:50:52.134Z",
+      "text": "SOUTH2 WEST8 and Foxfire Return With Performance-Driven Winter Layers Summary SOUTH2 WEST8 and Foxfire reunite for a second collaborative capsule.Octa and merino-wool constructions emphasize warmth, breathability and layering.Seven cold-weather pieces span insulated outerwear, base layers and trekking pants, launching October 2. SOUTH2 WEST8 and Foxfire are extending their shared fishing roots this fall season with their second collaborative capsule. The seven-piece collection shifts its attention toward cold-weather functionality, combining both brands’ outdoor expertise with silhouettes designed to move comfortably between the field and the city.Key to the range is Foxfire’s functional fabric technology: the V-Neck Cardigan and Trainer Jacket employ Octa Helix Knit, a blend of Octa fiber and polyester engineered to produce a textured, mohair-like appearance, while the GRID WOOL series uses merino wool knitted into dimensional blocks with a gridded reverse structure. Layering anchors the remainder of the capsule, led by the Mid Layer Insulation Jacket and Insulation Parka, both lined throughout with Octa for added cold-weather performance.A Base Layer Half-Zip Shirt and matching Base Layer Pant further build out the wardrobe, while SOUTH2 WEST8’s distinct design language comes through on the Trekking Pant, completing a lineup that balances technical utility with a sportier, urban-facing sensibility.The SOUTH2 WEST8 x Foxfire FW26 capsule launches October 2 through NEPENTHES stores and its online shop.&nbsp;&nbsp;View this post on Instagram&nbsp;&nbsp; Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "21227ebbe242419c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Michael Jordan 1998 NBA Finals Game 3 Jersey Sells for Record $12.26 Million USD",
+      "url": "https://hypebeast.com/2026/9/michael-jordan-1998-nba-finals-chicago-bulls-game-3-jersey-pharrell-joopiter-auction-record-12-million-usd-sale-announcement",
+      "publishedAt": "2026-09-30T08:25:03.000Z",
+      "collectedAt": "2026-09-30T17:50:52.134Z",
+      "text": "Michael Jordan 1998 NBA Finals Game 3 Jersey Sells for Record $12.26 Million USD Summary Michael Jordan's game-worn jersey from Game 3 of the 1998 NBA Finals has sold for a record 12.26 million USD on JOOPITERThe white Chicago Bulls jersey represents the most expensive game-worn NBA jersey ever sold at auctionThe piece features the iconic 1998 NBA Finals Championship patch and stands as the only publicly known white 1998 Finals jersey in existence JOOPITER has officially confirmed a record-breaking auction sale, closing on Michael Jordan's game-worn Chicago Bulls jersey from Game 3 of the 1998 NBA Finals for $12,260,000 USD. The historic result sets a new global benchmark for sports memorabilia as the most expensive game-worn NBA jersey ever sold at auction.Worn during Jordan's final championship campaign with the Chicago Bulls—immortalized as \"The Last Dance\"—the item stands as the only publicly known white 1998 NBA Finals jersey to ever surface on the open market. The physical piece features the iconic 1998 NBA Finals Championship patch stitched onto the chest, widely celebrated by sports collectors as the most significant Finals patch in modern basketball history.Bidding closed at 8:00 p.m. EDT on Tuesday, September 29, 2026, marking a monumental shift in the sports collectibles sector. Following the landmark jersey sale, JOOPITER's curated sports auction block continues with Jordan’s personal 1997 Ferrari 550 Maranello, which he drove during his final years in Chicago, scheduled to close on September 30.The 1998 NBA Finals Game 3 jersey was auctioned exclusively via JOOPITER, closing on September 29, 2026. Click here to view full gallery at Hypebeast"
     }
   ]
 }
