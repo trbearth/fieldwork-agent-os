@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-09-30",
+    "id": "social-2026-10-01",
     "mode": "live",
-    "generatedAt": "2026-09-30T17:51:02.247Z",
-    "postsCollected": 29,
+    "generatedAt": "2026-10-01T18:16:37.021Z",
+    "postsCollected": 27,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,11 +44,11 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 72,
-      "confidence": 60,
-      "youthRelevance": 90,
-      "velocity": -17,
-      "evidence": "10 public posts · 1 network · 7-day comparison",
+      "score": 66,
+      "confidence": 56,
+      "youthRelevance": 81,
+      "velocity": -33,
+      "evidence": "8 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi",
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "29 observations"
+      "reason": "27 observations"
     },
     {
       "id": "bluesky",

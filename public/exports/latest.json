@@ -1,57 +1,31 @@
 {
   "run": {
-    "id": "2026-09-30",
+    "id": "2026-10-01",
     "mode": "live",
-    "displayDate": "SEP 30, 2026, 01:50 PM EDT",
-    "generatedAt": "2026-09-30T17:50:53.402Z",
-    "itemsCollected": 46,
+    "displayDate": "OCT 01, 2026, 02:16 PM EDT",
+    "generatedAt": "2026-10-01T18:16:28.866Z",
+    "itemsCollected": 62,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 16
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 96,
-      "confidence": 60,
-      "youthRelevance": 100,
-      "direction": "up",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "6 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "6 observations · 2 independent sources · +200% seven-day velocity",
-      "citations": [
-        {
-          "title": "Every Nike Caitlin 1 Colorway Teased So Far",
-          "source": "Hypebeast",
-          "date": "Sep 30",
-          "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far"
-        },
-        {
-          "title": "9 Top Designers on Their Pre-Show Rituals and Lucky Charms",
-          "source": "Highsnobiety",
-          "date": "Sep 29",
-          "url": "https://www.highsnobiety.com/p/paul-smith-bode-valentino-designer-superstitions/"
-        }
-      ]
-    },
     {
       "id": "quiet-performance",
       "name": "Quiet performance",
@@ -77,23 +51,69 @@
           "url": "https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info"
         }
       ]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 52,
+      "confidence": 52,
+      "youthRelevance": 95,
+      "direction": "flat",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "4 mentions this week versus 4 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +0% seven-day velocity",
+      "citations": [
+        {
+          "title": "9 Top Designers on Their Pre-Show Rituals and Lucky Charms",
+          "source": "Highsnobiety",
+          "date": "Sep 29",
+          "url": "https://www.highsnobiety.com/p/paul-smith-bode-valentino-designer-superstitions/"
+        },
+        {
+          "title": "Every Nike Caitlin 1 Colorway Teased So Far",
+          "source": "Hypebeast",
+          "date": "Sep 30",
+          "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far"
+        }
+      ]
+    },
+    {
+      "id": "narrow-technical-footwear",
+      "name": "Narrow technical footwear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 46,
+      "direction": "up",
+      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Salomon Takes Its Chunky Trail Shoe up Space Mountain",
+          "source": "Highsnobiety",
+          "date": "Oct 1",
+          "url": "https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/"
+        }
+      ]
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Decorated basics",
+    "reason": "4 mentions this week versus 4 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Quiet performance moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 0930",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 1001",
+    "name": "Quiet performance",
+    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "Every Nike Caitlin 1 Colorway Teased So Far",
-      "9 Top Designers on Their Pre-Show Rituals and Lucky Charms"
+      "Vans’ Waterproof Trail Sneaker Goes Green for the Better",
+      "HUF and TAION Reunite for a Packable FW26 Down Capsule"
     ]
   }
 }

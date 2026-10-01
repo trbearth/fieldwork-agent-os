@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-09-30
+# Fieldwork Public Pulse — 2026-10-01
 
 ## 1. Quiet performance
 
@@ -13,9 +13,9 @@
 
 ## 2. Washed tailoring
 
-**emerging · score 72 · confidence 60% · youth 90%**
+**emerging · score 66 · confidence 56% · youth 81%**
 
-10 public posts · 1 network · 7-day comparison
+8 public posts · 1 network · 7-day comparison
 
 - [Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi](https://mastodon.social/@seoul_trad/117357978067150530) — Mastodon
 - [Small styling thing I always end up explaining: the difference between a tuxedo and a suit is basica](https://mastodon.social/@suspenders/117357326044284348) — Mastodon
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 29 observations
+- **mastodon:** ready — 27 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.
