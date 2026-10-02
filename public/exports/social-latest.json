@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-01",
+    "id": "social-2026-10-02",
     "mode": "live",
-    "generatedAt": "2026-10-01T18:16:37.021Z",
-    "postsCollected": 27,
+    "generatedAt": "2026-10-02T17:42:13.402Z",
+    "postsCollected": 28,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,12 +44,17 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 66,
-      "confidence": 56,
-      "youthRelevance": 81,
-      "velocity": -33,
-      "evidence": "8 public posts · 1 network · 7-day comparison",
+      "score": 72,
+      "confidence": 58,
+      "youthRelevance": 89,
+      "velocity": -18,
+      "evidence": "9 public posts · 1 network · 7-day comparison",
       "citations": [
+        {
+          "title": "Khaki washed jacket and two-tuck trousers, worn as a setup with an OCBD. The green goes in three pla",
+          "url": "https://mastodon.social/@seoul_trad/117368627826491756",
+          "network": "Mastodon"
+        },
         {
           "title": "Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi",
           "url": "https://mastodon.social/@seoul_trad/117357978067150530",
@@ -63,11 +68,6 @@
         {
           "title": "15 Men’s Color Combinations Guide to Try This Season: How to Wear them and&nbsp;Why At a coffee shop",
           "url": "https://nubelalifestyle.wordpress.com/2026/09/28/mens-color-combinations-guide-what-works-and-why/",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Jacket, trousers, shirt, tie, belt and tote by our brand, RENACTS. From the archives: a navy set wit",
-          "url": "https://mastodon.social/@seoul_trad/117346699766862264",
           "network": "Mastodon"
         }
       ]
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "27 observations"
+      "reason": "28 observations"
     },
     {
       "id": "bluesky",

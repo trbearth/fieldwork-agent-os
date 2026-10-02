@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-01
+# Fieldwork Public Pulse — 2026-10-02
 
 ## 1. Quiet performance
 
@@ -13,14 +13,14 @@
 
 ## 2. Washed tailoring
 
-**emerging · score 66 · confidence 56% · youth 81%**
+**emerging · score 72 · confidence 58% · youth 89%**
 
-8 public posts · 1 network · 7-day comparison
+9 public posts · 1 network · 7-day comparison
 
+- [Khaki washed jacket and two-tuck trousers, worn as a setup with an OCBD. The green goes in three pla](https://mastodon.social/@seoul_trad/117368627826491756) — Mastodon
 - [Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi](https://mastodon.social/@seoul_trad/117357978067150530) — Mastodon
 - [Small styling thing I always end up explaining: the difference between a tuxedo and a suit is basica](https://mastodon.social/@suspenders/117357326044284348) — Mastodon
 - [15 Men’s Color Combinations Guide to Try This Season: How to Wear them and&nbsp;Why At a coffee shop](https://nubelalifestyle.wordpress.com/2026/09/28/mens-color-combinations-guide-what-works-and-why/) — Mastodon
-- [Jacket, trousers, shirt, tie, belt and tote by our brand, RENACTS. From the archives: a navy set wit](https://mastodon.social/@seoul_trad/117346699766862264) — Mastodon
 
 ## 3. Decorated basics
 
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 27 observations
+- **mastodon:** ready — 28 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

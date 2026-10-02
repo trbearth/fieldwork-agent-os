@@ -1,4 +1,4 @@
-# Fieldwork Synthesis Scout — 2026-10-01
+# Fieldwork Synthesis Scout — 2026-10-02
 
 ## Cross-source candidates
 
