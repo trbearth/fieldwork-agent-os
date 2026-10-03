@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-02
+# Fieldwork Public Pulse — 2026-10-03
 
 ## 1. Quiet performance
 
@@ -17,10 +17,10 @@
 
 9 public posts · 1 network · 7-day comparison
 
+- [Navy washed sports jacket over a white OCBD: neat on top, easy below with Uniqlo barrel jeans and br](https://mastodon.social/@seoul_trad/117373941516991339) — Mastodon
 - [Khaki washed jacket and two-tuck trousers, worn as a setup with an OCBD. The green goes in three pla](https://mastodon.social/@seoul_trad/117368627826491756) — Mastodon
 - [Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi](https://mastodon.social/@seoul_trad/117357978067150530) — Mastodon
 - [Small styling thing I always end up explaining: the difference between a tuxedo and a suit is basica](https://mastodon.social/@suspenders/117357326044284348) — Mastodon
-- [15 Men’s Color Combinations Guide to Try This Season: How to Wear them and&nbsp;Why At a coffee shop](https://nubelalifestyle.wordpress.com/2026/09/28/mens-color-combinations-guide-what-works-and-why/) — Mastodon
 
 ## 3. Decorated basics
 

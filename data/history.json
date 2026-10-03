@@ -2536,6 +2536,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-03",
+      "mode": "live",
+      "displayDate": "OCT 03, 2026, 12:00 PM EDT",
+      "generatedAt": "2026-10-03T16:00:35.040Z",
+      "itemsCollected": 54,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 19
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 68,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 52,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -39080,6 +39122,600 @@
       "publishedAt": "2026-10-02T06:30:44.000Z",
       "collectedAt": "2026-10-02T17:42:02.992Z",
       "text": "Paramount Releases New 'Ebenezer' Trailer From Director Ti West Summary Paramount Pictures has released the second trailer for Ti West's upcoming film 'Ebenezer'Johnny Depp stars as Scrooge in a dark horror-infused take on Charles Dickens' 'A Christmas Carol'The feature marks Depp's first Hollywood studio film in eight years and hits theaters on November 13 Paramount Pictures and director Ti West have released a new official trailer for Ebenezer, a dark reimagining of Charles Dickens’ A Christmas Carol. The film stars Johnny Depp as Ebenezer Scrooge, marking the actor's first major Hollywood studio release in eight years.Guided by the logline \"The name you know, the story you don't,\" the new trailer highlights Ti West's signature horror aesthetic—best known from his X trilogy—by leaning into the darker elements of the classic holiday tale. The footage captures Depp's Scrooge facing terrifying spectral apparitions alongside a harrowing sequence depicting him buried alive.The film features a notable ensemble cast alongside Depp, including Ian McKellen, Daisy Ridley, Rupert Grint, Andrea Riseborough, Sam Claflin, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, and Tramell Tillman. Marking Depp's return to studio cinema since 2018's Fantastic Beasts: The Crimes of Grindelwald, the actor will follow up the release with Lionsgate's Day Drinker in March 2027.Ebenezer releases in theaters on November 13, 2026. Read more at Hypebeast"
+    },
+    {
+      "id": "d7820f478287464f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Elie Saab Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/elie-saab",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.885Z",
+      "text": "Elie Saab Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "e5a01428d7730776",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "After a Decade-Plus of Chasing Trends, I Finally Found My Uniform on Savile Row",
+      "url": "https://www.vogue.com/article/savile-row-suit-woman-uniform-10-03-2026",
+      "publishedAt": "2026-10-03T15:13:10.000Z",
+      "collectedAt": "2026-10-03T16:00:30.885Z",
+      "text": "After a Decade-Plus of Chasing Trends, I Finally Found My Uniform on Savile Row My goal: a single garment to get me through formal occasions during the festive season, rather than multiple evening dresses which take up precious New York City closet real estate."
+    },
+    {
+      "id": "c4457c35c87de1cd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "032c Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/032c",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "032c Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "2cebc579e91b839e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hermès Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hermes",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Hermès Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "98bbd1c34acd1893",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Andreas Kronthaler for Vivienne Westwood Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/andreas-kronthaler-for-vivienne-westwood",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Andreas Kronthaler for Vivienne Westwood Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "4e29c382125ce30b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Katseye’s Lara and Megan Bring Bestie Style to Their First-Ever Paris Fashion Week Show",
+      "url": "https://www.vogue.com/slideshow/katseye-lara-raj-megan-skiendiel-loewe-diary-2026-10-03",
+      "publishedAt": "2026-10-03T12:31:28.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Katseye’s Lara and Megan Bring Bestie Style to Their First-Ever Paris Fashion Week Show Loewe’s spring 2027 show was a big day for one very special duo. Yes, designers Jack McCullough and Lazaro Hernandez, but also Katseye’s Lara Raj and Megan Skiendiel."
+    },
+    {
+      "id": "0ae987cc8d9b4264",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Could “Dry Conditioning” Give You Healthier, Shinier Hair?",
+      "url": "https://www.vogue.com/article/dry-conditioning-healthier-shinier-hair",
+      "publishedAt": "2026-10-03T12:00:00.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Could “Dry Conditioning” Give You Healthier, Shinier Hair? Hairstylist Xavier Velasquez is a fan of the trend—which can help maintain color on dyed hair and cause less frizz!—but says it’s not for everybody."
+    },
+    {
+      "id": "9724fd36d89e7822",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Noir Kei Ninomiya Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/noir-kei-ninomiya",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Noir Kei Ninomiya Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "a80a8030a536e3d9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Queen Letizia of Spain’s Engagement Ring Is Perfect for the Non-Traditional Bride",
+      "url": "https://www.vogue.com/article/queen-letizia-of-spain-engagement-ring",
+      "publishedAt": "2026-10-03T11:38:24.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Queen Letizia of Spain’s Engagement Ring Is Perfect for the Non-Traditional Bride Queen Letizia of Spain’s engagement ring goes against tradition thanks to its channel-set design. Here’s everything to know about the royal’s rarely seen ring."
+    },
+    {
+      "id": "8906845cf2268eee",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hailey Bieber Finally Gets the ‘French Show With the Good Lighting’ Treatment",
+      "url": "https://www.vogue.com/article/hailey-bieber-quotidien-appearance",
+      "publishedAt": "2026-10-03T11:28:56.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Hailey Bieber Finally Gets the ‘French Show With the Good Lighting’ Treatment Hailey Bieber put Quotidien’s famously flattering lighting to the ultimate test—with a first look at what might be Rhode’s next big beauty launch."
+    },
+    {
+      "id": "a4b862f1c46c18af",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Selena Gomez Gives the Merlot Manicure an Edgy Upgrade for Fall",
+      "url": "https://www.vogue.com/article/selena-gomez-merlot-manicure-fall",
+      "publishedAt": "2026-10-03T11:02:43.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Selena Gomez Gives the Merlot Manicure an Edgy Upgrade for Fall Fall’s trending nail shade gets a punky edge care of Selena Gomez and her longtime nail artist Tom Bachik."
+    },
+    {
+      "id": "e90409c7e66a4c25",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-3",
+      "publishedAt": "2026-10-03T10:22:46.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From Daisy Edgar-Jones’s cool ’90s inspired lip to Paloma Elsesser’s terracotta eye—this week, the best of the beauty world played with all sides of the color wheel."
+    },
+    {
+      "id": "b7bf57c42a117eae",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 26 Best Throw Blankets for Every Style",
+      "url": "https://www.vogue.com/article/best-throw-blanket",
+      "publishedAt": "2026-10-03T10:00:00.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "The 26 Best Throw Blankets for Every Style Alpaca, wool, cashmere, cotton—the best throw blankets can change a room. Shop our favorites from West Elm, Jenni Kayne, Tekla, and more."
+    },
+    {
+      "id": "f5f26ecc5c06c9fa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Junya Watanabe Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/junya-watanabe",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "Junya Watanabe Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "9218f67b51637b02",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "23 Thoughts I Had About Season 13, Episode 6 of ‘American Horror Story’",
+      "url": "https://www.vogue.com/article/23-thoughts-i-had-about-season-13-episode-6-of-american-horror-story",
+      "publishedAt": "2026-10-03T00:20:49.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "23 Thoughts I Had About Season 13, Episode 6 of ‘American Horror Story’ Ugh, I love witchcraft."
+    },
+    {
+      "id": "660455733df08ba7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "26 Thoughts I Had About Season 13, Episode 5 of ‘American Horror Story’",
+      "url": "https://www.vogue.com/article/26-thoughts-i-had-about-season-13-episode-5-of-american-horror-story",
+      "publishedAt": "2026-10-02T23:45:00.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "26 Thoughts I Had About Season 13, Episode 5 of ‘American Horror Story’ We love a cursed surprise tramp stamp, don’t we, folks?"
+    },
+    {
+      "id": "586177852c60132f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "37 Thoughts I Had About Season 13, Episode 4 of 'American Horror Story'",
+      "url": "https://www.vogue.com/article/37-thoughts-i-had-about-season-13-episode-4-of-american-horror-story",
+      "publishedAt": "2026-10-02T23:30:00.000Z",
+      "collectedAt": "2026-10-03T16:00:30.886Z",
+      "text": "37 Thoughts I Had About Season 13, Episode 4 of 'American Horror Story' Not the Constance/Cordelia mother-off!"
+    },
+    {
+      "id": "67b6467cb68e80db",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Marin Ireland Went Deep With Her Play ‘Pre-Existing Condition’",
+      "url": "https://www.vogue.com/article/marin-ireland-pre-existing-condition-play-interview",
+      "publishedAt": "2026-10-02T22:32:11.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Marin Ireland Went Deep With Her Play ‘Pre-Existing Condition’ Now in its second New York run, “Pre-Existing Condition” is set to play at the Greenwich House Theater through January 8."
+    },
+    {
+      "id": "7073233ad2cfa325",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Polo Ralph Lauren Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/polo-ralph-lauren",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Polo Ralph Lauren Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "c8d0a1c4079faa98",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Podcast: Julian Klausner on Designing His Best Dries Van Noten Collection Yet",
+      "url": "https://www.vogue.com/article/on-the-podcast-julian-klausner-on-designing-his-best-dries-van-noten-collection-yet",
+      "publishedAt": "2026-10-02T21:30:00.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "On the Podcast: Julian Klausner on Designing His Best Dries Van Noten Collection Yet About 48 hours ago in Paris, Julian Klausner presented his spring 2027 Dries Van Noten ready-to-wear collection. For this Friday’s episode of “The Run-Through,” Nicole meets Klausner in the Vogue France offices to discuss the inspiration behind the show, his journey to Dries, and his industry peers."
+    },
+    {
+      "id": "406042e89c069d88",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Caroline Hu Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/caroline-hu",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Caroline Hu Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "4417f927f6eb7b79",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 Paris Fashion Week Outfits to Recreate Now",
+      "url": "https://www.vogue.com/article/fashion-week-trends",
+      "publishedAt": "2026-10-02T20:58:28.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "10 Paris Fashion Week Outfits to Recreate Now From cool everyday looks to statement ensembles, recreate the season’s top fashion week outfits, inspired by the street style scene at Paris Fashion Week."
+    },
+    {
+      "id": "9c4cbf33d5f44cb0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Off the Runway, Into Sneakers: The Model Off-Duty Shoe Seen Across Fashion Month",
+      "url": "https://www.vogue.com/article/sneaker-outfits-model-off-duty",
+      "publishedAt": "2026-10-02T19:41:59.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Off the Runway, Into Sneakers: The Model Off-Duty Shoe Seen Across Fashion Month Off the runway, sneakers take the lead. Take a cue from how models off-duty style the classic shoe."
+    },
+    {
+      "id": "e8c5770a642c7a2e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Léa Seydoux on ‘The Unknown,’ Beauty, Fame, and Acting",
+      "url": "https://www.vogue.com/article/lea-seydoux-the-unknown-premiere-interview",
+      "publishedAt": "2026-10-02T19:23:58.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Léa Seydoux on ‘The Unknown,’ Beauty, Fame, and Acting Léa Seydoux talks Arthur Harari’s “The Unknown,” her approach to acting, and why she’s drawn to films about identity, mystery, and the unknowable."
+    },
+    {
+      "id": "0bcc25aadb08a7f4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Gifts Under $100: Vogue-Worthy Presents for Any Occasion",
+      "url": "https://www.vogue.com/article/best-gifts-under-100",
+      "publishedAt": "2026-10-02T19:19:12.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Gifts Under $100: Vogue-Worthy Presents for Any Occasion These are the best gifts under $100 to give loved ones this season. Shop gift ideas from fashion to luxury beauty products to home decor, all under $100."
+    },
+    {
+      "id": "a3860a2cc3f68ccc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This DIY Boardwalk Style Is Getting the High-Fashion Treatment on the Spring 2027 Runways",
+      "url": "https://www.vogue.com/article/airbrushing-spring-2027-runways",
+      "publishedAt": "2026-10-02T19:05:53.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "This DIY Boardwalk Style Is Getting the High-Fashion Treatment on the Spring 2027 Runways Fashion loves an unexpected subversion. On the spring 2027 runways, airbrushing—usually reserved for chintzy tourist T-shirts—is the crafty technique of the season."
+    },
+    {
+      "id": "a3b7d5b8cdf4028c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jerome Robbins’s Opus Jazz Gets a Miami Makeover",
+      "url": "https://www.vogue.com/article/miami-city-ballet-opuz-jazz-gapstudio",
+      "publishedAt": "2026-10-02T19:00:00.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Jerome Robbins’s Opus Jazz Gets a Miami Makeover For Gonzalo Garcia’s first fully programmed season at Miami City Ballet, the 1958 classic is getting a new look courtesy of GapStudio’s Zac Posen—complete with denim, sneakers, and plenty of New York swagger."
+    },
+    {
+      "id": "dfcd1032dbc69e79",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Victoria Beckham Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/victoria-beckham",
+      "publishedAt": "2026-10-03T16:00:22.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Victoria Beckham Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "43b11834c2acca66",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Discover the Best Dresses for Every October Occasion",
+      "url": "https://www.vogue.com/article/dresses",
+      "publishedAt": "2026-10-02T18:28:01.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "Discover the Best Dresses for Every October Occasion Explore the best dresses of the month, from slip dresses to practical everyday knit styles. Shop a wide selection of handpicked Vogue dresses."
+    },
+    {
+      "id": "ada6eb3d925d62be",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "20+ Best Gifts for Men Who Have Everything, From Tech to Fashion",
+      "url": "https://www.vogue.com/article/gifts-for-men",
+      "publishedAt": "2026-10-02T18:26:55.000Z",
+      "collectedAt": "2026-10-03T16:00:30.887Z",
+      "text": "20+ Best Gifts for Men Who Have Everything, From Tech to Fashion Take the stress out of holiday shopping with the best gifts for men. Shop timeless gifts to find the perfect gift for the homebodies and chefs in your life."
+    },
+    {
+      "id": "96712cbf0778e134",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Bold Retro Runner Looks Like a Forgotten Favorite",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-metro/",
+      "publishedAt": "2026-10-03T13:19:01.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Nike’s Bold Retro Runner Looks Like a Forgotten Favorite Nike’s Air Max Metro brings early-2000s runner energy to a layered black silhouette, finished with pops of blue and green for a playful retro look."
+    },
+    {
+      "id": "0aecb03ed7de9ff6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Tiny Blue Sneaker Has a Big Orange Kick",
+      "url": "https://www.highsnobiety.com/p/adidas-tokyo-royal-blue-orange/",
+      "publishedAt": "2026-10-03T12:16:00.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "adidas' Tiny Blue Sneaker Has a Big Orange Kick A small sneaker with a generous squeeze of orange. Seems like a fair serving."
+    },
+    {
+      "id": "179691b26c6051b4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "HUGO and Zalando Have Got Paris’ Laundry Covered",
+      "url": "https://www.highsnobiety.com/p/hugo-party-dry-cleaner-paris/",
+      "publishedAt": "2026-10-03T09:59:07.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "HUGO and Zalando Have Got Paris’ Laundry Covered HUGO and Zalando set up shop in Paris, providing complimentary dry cleaning to busy fashionistas and hosting a garment pick-up party."
+    },
+    {
+      "id": "7280b827bc5afbda",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Y2K Never Looked As Good As In This Triple Black",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-2000-triple-black/",
+      "publishedAt": "2026-10-03T01:40:00.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Nike's Y2K Never Looked As Good As In This Triple Black Bringing an ultra-stealthy aesthetic to the archival runner, the Swoosh revives the silhouette with the Nike Air Max 2000 Triple Black."
+    },
+    {
+      "id": "2e658fad53ad5ef3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Velvet Dunk Is Part of the Furniture",
+      "url": "https://www.highsnobiety.com/p/nike-dunk-low-golden-hops-brocade/",
+      "publishedAt": "2026-10-03T00:23:01.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "This Velvet Dunk Is Part of the Furniture Shifting away from traditional leather panels, the Swoosh delivers a seasonal statement with the Nike Dunk Low Golden Hops Brocade."
+    },
+    {
+      "id": "105fbbc77c84ba05",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "When Did Veja's Shoes Get so Good?",
+      "url": "https://www.highsnobiety.com/p/veja-best-sneakers/",
+      "publishedAt": "2026-10-02T21:11:00.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "When Did Veja's Shoes Get so Good? Veja, the famous maker of eco-friendly but rather snoozey sneakers, is turning out some seriously suave shoes these days — out of nowhere!"
+    },
+    {
+      "id": "3e9077325755022a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Converse’s Square-Toe Sneaker Is Surprisingly Hiking-Coded",
+      "url": "https://www.highsnobiety.com/p/converse-all-star-square-toe-dr-le-ox/",
+      "publishedAt": "2026-10-02T21:23:39.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Converse’s Square-Toe Sneaker Is Surprisingly Hiking-Coded Converse Japan debuts the All Star Square-Toe DR LE OX, a hiking-style sneaker with formal-shoe flair."
+    },
+    {
+      "id": "16daf440b1e56a0e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Maxey’s Debut New Balance Basketball Sneaker Has Places to Be",
+      "url": "https://www.highsnobiety.com/p/new-balance-maxey-v1/",
+      "publishedAt": "2026-10-02T21:02:00.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Maxey’s Debut New Balance Basketball Sneaker Has Places to Be Tyrese Maxey’s debut New Balance Maxey V1 brings a sleek, speed-focused basketball sneaker to the court."
+    },
+    {
+      "id": "cdda176a5314e484",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s All-Leather Air Max Makes the Blues Look Good",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-90-dark-smoke-grey-university-blue/",
+      "publishedAt": "2026-10-02T21:19:06.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Nike’s All-Leather Air Max Makes the Blues Look Good Nike's leather Air Max 90 \"Dark Smoke Grey/University Blue\" appears with blue gradients, resulting in a dreamy & luxe version of the model."
+    },
+    {
+      "id": "4de394bd630e0192",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "An Everyday Jordan Dad Shoe Becomes an Ultra-Cool PSG Sneaker",
+      "url": "https://www.highsnobiety.com/p/paris-saint-germain-jordan-ultra/",
+      "publishedAt": "2026-10-02T21:20:49.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "An Everyday Jordan Dad Shoe Becomes an Ultra-Cool PSG Sneaker Paris Saint-Germain reveals its Jordan Ultra sneaker collaboration, featuring a nice faded design & stylish textures."
+    },
+    {
+      "id": "ec8f40a414ea89a1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Artist Uniform: Anthony Vaccarello Dresses Like the Crew, Not the Star",
+      "url": "https://www.highsnobiety.com/p/artist-uniform-anthony-vaccarello-fashions-foremost-director/",
+      "publishedAt": "2026-10-02T21:00:45.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Artist Uniform: Anthony Vaccarello Dresses Like the Crew, Not the Star Saint Laurent designer Anthony Vaccarello may dress to fade into the background, but he's quietly become one of fashion's most cinematically-minded talents."
+    },
+    {
+      "id": "e109e06ca036dd34",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Is adidas' Most Elegant Japan Sneaker",
+      "url": "https://www.highsnobiety.com/p/whitaker-group-adidas-japan-square-toe/",
+      "publishedAt": "2026-10-02T21:17:55.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "This Is adidas' Most Elegant Japan Sneaker The Whitaker Group returns with a new adidas release: an insanely elegant square-toe Japan sneaker for Atlanta Fashion Week."
+    },
+    {
+      "id": "7419895a863287fa",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Lazy Skate-y Sneaker Is a Real Trip",
+      "url": "https://www.highsnobiety.com/p/nike-blazy-tie-dye/",
+      "publishedAt": "2026-10-02T21:24:44.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Nike's Lazy Skate-y Sneaker Is a Real Trip Nike's Blazy sneaker is back (& leaning back) in a new vibrant tie-dye look. It's easily the trippiest version of the lazy Blazer yet."
+    },
+    {
+      "id": "c9f8d2e4d3a2aece",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Up Close With Pierpaolo's Best (and Maybe Last) Balenciaga Collection",
+      "url": "https://www.highsnobiety.com/p/balenciaga-ss27-details/",
+      "publishedAt": "2026-10-02T23:20:15.000Z",
+      "collectedAt": "2026-10-03T16:00:32.264Z",
+      "text": "Up Close With Pierpaolo's Best (and Maybe Last) Balenciaga Collection If Pierpaolo Piccioli is leaving Balenciaga, he's going out on a high note. His Spring/Summer 2027 collection is his best yet, full of good crossover clothes."
+    },
+    {
+      "id": "192f0ef5c9419fa8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Peacock Taps Eddie Murphy for Upcoming Drama Series 'The Chairman'",
+      "url": "https://hypebeast.com/2026/10/peacock-taps-eddie-murphy-upcoming-drama-series-the-chairman-news",
+      "publishedAt": "2026-10-03T10:00:21.000Z",
+      "collectedAt": "2026-10-03T16:00:33.766Z",
+      "text": "Peacock Taps Eddie Murphy for Upcoming Drama Series 'The Chairman' Summary Eddie Murphy is attached to star in a new drama series in development at Peacock titled 'The Chairman'The project is created by 'Mad Men' showrunner Matthew Weiner and produced by Universal Television alongside 101 StudiosIf officially greenlit the show will mark Murphy's first-ever live-action scripted television role Peacock is currently developing an original drama series titled The Chairman, set to star comedy legend Eddie Murphy. The project is created by Mad Men showrunner Matthew Weiner, marking Murphy's first live-action scripted television role if officially ordered to series.While specific storyline details remain under wraps, the series is being produced by Universal Television alongside David Glasser’s 101 Studios. The Chairman also serves as the first project to originate from former Paramount executive Chris McCarthy's consulting deal with NBCUniversal. Both Murphy and Weiner are attached as executive producers.The venture pairs two influential creative figures. Murphy’s career spans four decades of landmark work across stand-up, Saturday Night Live, and blockbuster feature films like Beverly Hills Cop and Coming to America. Meanwhile, Weiner is best known as the creator and showrunner of AMC's acclaimed drama Mad Men, as well as a writer and executive producer on HBO's The Sopranos.Development on The Chairman remains underway, with further announcements regarding production timelines expected as the project progresses. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "90d1d845279b0a38",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Bradley Cooper Cast as Duke in Paramount's 'G.I. Joe' Reboot Directed by Danny McBride",
+      "url": "https://hypebeast.com/2026/10/bradley-cooper-cast-duke-paramount-g-i-joe-reboot-director-danny-mcbride-news",
+      "publishedAt": "2026-10-03T08:00:42.000Z",
+      "collectedAt": "2026-10-03T16:00:33.766Z",
+      "text": "Bradley Cooper Cast as Duke in Paramount's 'G.I. Joe' Reboot Directed by Danny McBride Summary Bradley Cooper will star as field commander Duke in a new live-action 'G.I. Joe' reboot from Paramount PicturesThe film is directed by Danny McBride, who co-wrote the script alongside Jeff Fradley and John CarcieriParamount has officially uncoupled the 'G.I. Joe' franchise from its previously teased Transformers crossover Paramount Pictures has officially cast Bradley Cooper as field commander Duke in its upcoming G.I. Joe film reboot. The project is set to be directed by Danny McBride, who also co-wrote the screenplay alongside Jeff Fradley and John Carcieri to deliver a fresh take on the iconic Hasbro toy line.While specific plot details and additional casting remain under wraps, the upcoming feature marks McBride’s first major action tentpole as a director following his work on HBO series such as The Righteous Gemstones and Vice Principals. Paramount confirmed that this new standalone iteration has been officially \"uncoupled\" from the Transformers universe, setting aside the crossover concept previously teased at the end of 2023's Transformers: Rise of the Beasts.Produced by Lorenzo di Bonaventura, Mark Vahradian, and Zev Foreman for Hasbro Entertainment, the project adds to a major slate of IP revivals at Paramount. Cooper, a 12-time Oscar nominee, takes on the iconic leadership role while currently in production on an Ocean's 11 prequel that he is directing and starring in alongside Margot Robbie and Monica Barbaro.Release date and production details for Paramount's G.I. Joe reboot are expected to be announced in the coming months. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2af5738f164ee0b0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Toughens Up the Vomero 5 for Winter With a Cordura \"Camo Green\" Build",
+      "url": "https://hypebeast.com/2026/10/nike-zoom-vomero-5-cordura-camo-green-iq0380-300-official-images",
+      "publishedAt": "2026-10-03T06:00:04.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "Nike Toughens Up the Vomero 5 for Winter With a Cordura \"Camo Green\" Build Name: Nike Zoom Vomero 5 Cordura “Camo Green”Colorway: TBCSKU: IQ0380-300MSRP: $170 USDRelease Date: Holiday 2026The Nike Zoom Vomero 5 Cordura \"Camo Green\" is gearing up for Holiday 2026, marking what looks to be the silhouette's first outing in Cordura. The update brings a more rugged material to the runner's well-known panel layout, giving fans a tougher cold-weather option without changing the shape that made the shoe a street favorite.Cordura is the headline upgrade. The textile is a high-tenacity nylon prized for abrasion resistance and long used in military gear, packs and workwear, and here it is mapped onto essentially the same layout the Vomero 5 uses in its warm-weather versions. The result is added insulation and resilience for wet, cold days, while the overlays, sculpted midsole and overall proportions stay recognizably Vomero.The colorway keeps things grounded. \"Camo Green\" and \"Neutral Olive\" cover much of the upper in earthy, outdoorsy tones, with Anthracite and Black also listed in the full colorway name. Against that muted base, orange flashes at the eyelets and on the embroidered branding provide the pair's main pop of color, giving the dark palette a sharp, utilitarian edge.The Cordura version also fills a gap in the Vomero 5's winter options. At the end of 2024, Nike introduced the Vomero 5 Roam, a spin-off that went all in on weatherproofing with nylon base layers, rubber foxing that wraps around the shoe and beefed-up traction. That approach reshaped the look of the model considerably. This new build lands between the two, adding protection through material choice alone while leaving the silhouette's design language untouched.It's a logical move for a shoe that has become one of the defining faces of Nike's mesh runner wave. Originally a late-2000s performance running model, the Vomero 5 was revived as a lifestyle staple and grew into one of the Swoosh's most recognizable silhouettes. A Cordura upper gives that everyday popularity a way to carry through the colder months, rather than leaving the shoe on the shelf until spring. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1b05ad144377b70a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Raymond Weil Expands Its Anniversary Story With the Limited-Edition Millesime Jubilee Watch",
+      "url": "https://hypebeast.com/2026/10/raymond-weil-millesime-jubilee-limited-edition-7776-stc-65501-release-info",
+      "publishedAt": "2026-10-03T04:00:04.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "Raymond Weil Expands Its Anniversary Story With the Limited-Edition Millesime Jubilee Watch Summary Raymond Weil marks its 50th anniversary with the millesime Jubilee chronograph.The 39mm steel watch features a light-blue bi-compax dial and RW5030 movement.Limited to 500 pieces, it is priced at $4,275 USD. Raymond Weil is continuing its 50th-anniversary celebrations with the new Millesime Jubilee, a limited-edition automatic chronograph that follows the ultra-exclusive The Fifty unveiled at Watches & Wonders earlier this year. Founded in Geneva in 1976, the independent, family-owned watchmaker has been revisiting its history throughout 2026 via its travelling Legacy Tour, and Jubilee translates the anniversary story into a more widely available proposition. Where The Fifty was restricted to 50 examples powered by restored, hand-decorated Valjoux 23-6 movements dating from 1976, Jubilee is limited to 500 pieces, carrying forward its predecessor’s neo-vintage design language within the contemporary millesime collection.The watch is housed in a 39mm stainless steel case measuring 12.9mm thick, with a sapphire glassbox crystal accentuating the layered construction of its light-blue dial. Two midnight-blue, azurage-finished subdials establish the bi-compax chronograph layout, complemented by a silver-toned chapter ring, textured central section and an applied “EST 1976” cartouche referencing the Maison’s founding year. Black hour markers and obelisk-shaped hour and minute hands feature green-glowing Super-LumiNova, while a midnight-blue calfskin strap completes the restrained color palette. Inside is the self-winding RW5030 chronograph calibre, delivering a 62-hour power reserve and visible through a sapphire caseback; the watch is also water-resistant to 50 meters.The millesime Jubilee was officially unveiled in Sydney, the seventh stop of Raymond Weil’s 2026 Legacy Tour, which will subsequently travel to Singapore and Paris as the brand’s anniversary program approaches its conclusion. The timepiece is limited to 500 individually numbered examples and carries an official retail price of $4,275 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9efbb322f6a7154b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The adidas Originals GAZELLE OG Arrives in a Sleek \"Charcoal Gray\" Suede",
+      "url": "https://hypebeast.com/2026/10/adidas-originals-for-green-label-relaxing-gazelle-og-charcoal-gray-lc2631-release-info",
+      "publishedAt": "2026-10-03T02:00:39.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "The adidas Originals GAZELLE OG Arrives in a Sleek \"Charcoal Gray\" Suede Name: adidas Originals for green label relaxing GAZELLE OG “Charcoal Gray”Colorway: Charcoal GraySKU: LC2631MSRP: ¥15,400 JPY (approx. $98 USD)Release Date: October 9Where to Buy: UNITED ARROWSadidas Originals and UNITED ARROWS’ green label relaxing revisit the GAZELLE OG with an exclusive “Charcoal Gray” treatment that gives the archival silhouette a softer, earthier character.Offered as a single colorway, the sneaker covers its upper in deep charcoal-grey suede carrying a subtle olive undertone, allowing the shade to shift between cool grey and muted green depending on the light. Brown nuances further warm the palette, while the suede’s softly brushed surface adds depth to the otherwise restrained finish. Underfoot, a classic brown gum-rubber sole reinforces the vintage character of the Gazelle, creating a natural tonal transition from the dark upper rather than a stark contrast. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "444fd781e29ba512",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ISSEY MIYAKE SS27 Is a Breath of Fresh Air",
+      "url": "https://hypebeast.com/2026/10/issey-miyake-ss27-paris-fashion-week-show-runway",
+      "publishedAt": "2026-10-02T20:36:54.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "ISSEY MIYAKE SS27 Is a Breath of Fresh Air Summary Issey Miyake's Spring/Summer 2027 collection, \"Figure of Ma,\" interprets the Japanese idea of meaningful negative space as the air between fabric and body.Ballooning trench coats, plaster-inspired tops, mesh knit capris, signature pleated pieces and a Camper footwear collaboration all shift shape with the wearer, moving with the body rather than confining it. Built around “Ma”, the Japanese aesthetic concept of meaningful negative space between elements, Issey Miyake’s Spring/Summer 2027 collection interprets “Ma” as the air and space between fabric and the body. Satoshi Kondo, the Japanese house’s head designer and art director since 2019, debuted the latest collection, “Figure of Ma”, with an all-black set at the Judo Institute during Paris Fashion Week. The show opened in silence, with a single dancer draped in beige pleats, then a troupe introduced a giant cloud-like billowing fabric that unveiled a collection of sculptural yet featherlight tops, voluminous ultra-light outerwear that catches the wind, and vibrant signature pleats.The collection introduced rounded silhouettes, airy volumes, and surfaces that morphed with the wearer’s every movement. Each piece captured air and shifted shape with the wearer's movement — ballooning trench coats in purple and black, torso-molded plaster gauze-inspired sleeveless tops, textured mesh knit capris, a puffed-shoulder plisse skirt, and patterned pleated outerwear. Also revealed were buttery leather bags, floppy pleated headwear, and a footwear collaboration with Camper. Issey Miyake's “Figure of Ma” collection moves with the body rather than confining it. Sleeves and hems moved as the models did, billowing and deflating like breathing, taking a new form as fabric met the body, turning tailored silhouettes into dynamic expressions of “Ma”. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "198e467c2a08a685",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Saint Laurent Presents a Golden SS27 & NikeSKIMS Opens Shanghai Pop-up in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/10/saint-laurent-presents-a-golden-ss27-nikeskims-opens-shanghai-pop-up-in-this-weeks-top-fashion-news",
+      "publishedAt": "2026-10-02T20:30:12.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "Saint Laurent Presents a Golden SS27 & NikeSKIMS Opens Shanghai Pop-up in This Week's Top Fashion News SummaryGlobal retail footprints are expanding with NikeSKIMS and Ann Demeulemeester opening new physical destinations.High-profile collaborations dominated this week, including Zara x John Galliano, Zendaya x On, and Kader Sylla's adidas signature shoe.Saint Laurent's golden SS27 runway show fueled rumors of Anthony Vaccarello’s potential departure.Anthony Vaccarello Drapes Saint Laurent in Gold for SS27Anthony Vaccarello presented Saint Laurent’s Women’s Spring/Summer 2027 collection in Paris, taking over the Trocadéro beneath the Eiffel Tower. The runway show centered entirely on gold — a shade favored by Yves Saint Laurent — to reinterpret the house's archival codes. Vaccarello reimagined foundational archetypes like sahariennes, trench coats, and sharp tailoring through a monochromatic, metallic lens, utilizing materials from organza to gold-leaf-coated latex. The gilded theme extended to filigree accessories and snake-shaped heels before closing with dramatic black velvet tailoring. An intimate final moment, where Vaccarello handed a key to a young boy in the audience, sparked widespread industry speculation that the grand presentation signaled his official exit from the luxury house.NikeSKIMS Debuts First Physical Destination in China With Shanghai Pop-UpNike and SKIMS officially unveiled their joint venture's first physical destination in China. SKIMS Co-Founder Kim Kardashian hosted an early preview of the Shanghai HKRI Taikoo Hui Pop-Up ahead of its late-September opening. The retail space showcases the complete NikeSKIMS Fall Edit 01 collection, spanning apparel, footwear, and accessories. Designed to mirror the joint brand’s aesthetic, the layout integrates custom displays and dedicated lounge areas for try-ons. The Shanghai location also provides localized consumer services, including on-site tailoring. During the preview, Kardashian highlighted the Chinese market's importance for the label's next chapter and detailed her excitement over selecting the Rift as her debut sneaker silhouette. The pop-up remains open through February 2027.Zara and John Galliano Launch Debut \"Re{form}\" Vol. 1 CollectionZara and couturier John Galliano have officially launched their inaugural collaboration. Titled \"Re{form}\" Vol. 1, the genderless collection treats mass-market archival Zara garments as raw prototypes, dismantling and reconstructing them using high-fa"
+    },
+    {
+      "id": "4a7207d669782aff",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Salman Toor Paints the Highs and Lows of Queer Nightlife at London’s Courtauld Gallery",
+      "url": "https://hypebeast.com/2026/10/salman-toor-someone-like-you-courtauld-gallery-exhibition-uk",
+      "publishedAt": "2026-10-02T19:04:24.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "Salman Toor Paints the Highs and Lows of Queer Nightlife at London’s Courtauld Gallery Summary New York-based Pakistani-American artist unveils his first European solo at Courtauld Gallery in London, open until January 10, 2027The exhibition comprises 19 paintings focused on human connection and belonging, seen through his queer, brown protagonists Making his European debut, Pakistani-American painter Salman Toor lands in London for Someone Like You, his new solo exhibition at the Courtauld Gallery. Featuring 19 of his most iconic works, the presentation gives Britain a deservedly momentous introduction to Toor, who the New York Times dubbed “one of the most fascinating painters of his generation.”For the past decade, the New York-based artist has been redrawing narratives around immigration, desire, and power, placing queer brown men at the center of their own stories. Though the characters are fictional, Toor roots them in his own memories, imbuing them with a diaristic intimacy.But the works are more than odes to queer joy. They “inhabit the tension between intimacy and exposure, belonging and estrangement,” he said. “What it means to find a community, but also the daily costs associated with visibility”. Just as quickly as we succumb to the buzz of Toor’s sumptuously painted club scenes, so lively you can almost hear it, we retreat, with his protagonists, into quieter vignettes of alienation and estrangement. Toor manages a mastery of both the thrills of a night out and its aftermath, awake in the loneliest hours of the night.Zeroing in on human connection through hazy figures, distinctly their own while bleeding into one another. More than they are glamorous, they’re real, caught between the desire to belong while still trying to understand how to feel at home.&nbsp;View this post on Instagram&nbsp;A post shared by Courtauld (@courtauld)Someone Like You is now on view in London until January 10, 2027.Courtauld GallerySomerset House, Strand,London, WC2R 0RN Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "dc094bfeb59eae47",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "LOEWE Distills a Sporty Spanish Summer for SS27",
+      "url": "https://hypebeast.com/2026/10/loewe-ss27-spring-summer-2027-paris-fashion-week-runway-show-info",
+      "publishedAt": "2026-10-02T18:14:49.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "LOEWE Distills a Sporty Spanish Summer for SS27 SummaryLOEWE’s SS27 collection delivers wearable, sport-forward apparel emphasizing slick materials, subtle logos, and a bold summer color palette.Standouts include jackets with metallic collars, scuba-style moccasins, and trousers with logos on the flies.At a purpose-built set at Château de Vincennes, Jack McCollough and Lazaro Hernandez presented their third LOEWE collection on October 2. Against the stark white backdrop, the clean yet energetic SS27 collection unfurled, refining their colorful, sport-forward vision of the Spanish label. Across the board, LOEWE introduced a highly wearable lineup characterized by slick materials, a bold summer color palette, and subtle yet interesting logo placements. Rather than ornamentation, the textiles and colors are what made these looks stand out. Minty green, yellow, blue, and red-orange dominated the overall color spectrum of the collection, while summer stripes and florals brought occasional texture. On several looks, where one would expect a leather or corduroy collar, there’s instead a metallic collar with exuberant gradients of orange and blue, matching wrap-style sunglasses styled throughout the show. Other outerwear styles continued to the sport-oriented aesthetic of the previous collections, as seen in a number of shell jackets, utility coats, and anoraks. Notably, small LOEWE tags were sewn onto the flies of pants, offered in turquoise, gray, red, and olive. Discreet LOEWE logos also appeared on the toe box of new scuba-style moccasins, offered in a selection of colors like tan, black, pink, and yellow. The aquatic theme continues in a range of branded leather caps resembling swimming caps.Joining the logo trousers were some more unconventional pant styles featuring blooming flies, flaring out above the waist. The trousers were a bridge to the more revealing looks in womenswear: an ultra-mini leather dress, sheer spaghetti-strap dresses rolled up to the chest, and sheer tank dresses, made in layers of blue, yellow, and red-orange. The show closed with some of the most ornamental pieces, including boucle mini dresses and hotpants with frayed floral embroidery. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ce55925974e50818",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Streetsnaps: How Gia Seo Turns the Everyday Target Bag Into Her Main Character Accessory",
+      "url": "https://hypebeast.com/2026/10/gia-seo-target-bag-streetsnaps",
+      "publishedAt": "2026-10-02T17:57:06.000Z",
+      "collectedAt": "2026-10-03T16:00:33.767Z",
+      "text": "Streetsnaps: How Gia Seo Turns the Everyday Target Bag Into Her Main Character Accessory In the landscape of modern styling, few creatives command color, texture, and unexpected proportion quite like Gia Seo. As a creative director, wardrobe stylist, and resident maximalist in New York City, Seo has built a reputation for turning outfit assembly into an art form. Known for her expressive, narrative-first aesthetic, she treats personal style as a continuous conversation between high-end design and everyday utility.Stepping onto the streets of Manhattan, Seo effortlessly integrates Target’s iconic bullseye reusable bag into two distinct, everyday looks. In her first outfit, she leans into classic city tailoring with a twist, pairing a KBB by KAHLANA belted trench coat with a pleated, mixed-pattern plaid midi skirt and sharp black leather boots. Rather than treating the vibrant red-and-white bag as an afterthought, she wears it slung over her shoulder as a graphic anchor that breaks up traditional autumnal tones.For her second look, Seo pivots to a more relaxed, downtown energy. She styles the KBB by KAHLANA low-rise jeans alongside an embroidered cream button-up detailed with black rosettes, accessorizing with studded platform clogs, slim sunglasses, and a green pepper keychain hooked to her belt loop. Here, the red bag acts as a bold pop of color against neutral denim, proving how easily a hyper-functional bag can double as a deliberate statement piece when layered into a well-curated fit.For Seo, a bag’s true value lies in how seamlessly it moves through the chaos of a full city day. Whether she’s carrying fabric swatches between studio visits, grabbing morning coffee, or hauling afternoon market pickups, the canvas bag shifts from pure utility to style component without missing a beat. It’s an approach to dressing that mirrors her broader design philosophy: high-impact style doesn't require overthinking, but just takes the right piece caught in the act of living. Click here to view full gallery at Hypebeast"
     }
   ]
 }
