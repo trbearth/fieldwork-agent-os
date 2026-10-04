@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-10-03",
+    "id": "2026-10-04",
     "mode": "live",
-    "displayDate": "OCT 03, 2026, 12:00 PM EDT",
-    "generatedAt": "2026-10-03T16:00:35.040Z",
-    "itemsCollected": 54,
+    "displayDate": "OCT 04, 2026, 12:41 PM EDT",
+    "generatedAt": "2026-10-04T16:41:40.273Z",
+    "itemsCollected": 47,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 19
+        "count": 11
       },
       {
         "source": "Hypebeast",
@@ -24,34 +24,8 @@
       }
     ]
   },
-  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 68,
-      "confidence": 50,
-      "youthRelevance": 95,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Vans’ Waterproof Trail Sneaker Goes Green for the Better",
-          "source": "Highsnobiety",
-          "date": "Sep 29",
-          "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-green/"
-        },
-        {
-          "title": "HUF and TAION Reunite for a Packable FW26 Down Capsule",
-          "source": "Hypebeast",
-          "date": "Sep 29",
-          "url": "https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info"
-        }
-      ]
-    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
@@ -75,6 +49,32 @@
           "source": "Hypebeast",
           "date": "Sep 30",
           "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far"
+        }
+      ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 46,
+      "confidence": 46,
+      "youthRelevance": 84,
+      "direction": "flat",
+      "thesis": "Quiet performance is appearing across 2 independent public sources.",
+      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +0% seven-day velocity",
+      "citations": [
+        {
+          "title": "HUF and TAION Reunite for a Packable FW26 Down Capsule",
+          "source": "Hypebeast",
+          "date": "Sep 29",
+          "url": "https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info"
+        },
+        {
+          "title": "Vans’ Waterproof Trail Sneaker Goes Green for the Better",
+          "source": "Highsnobiety",
+          "date": "Sep 29",
+          "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-green/"
         }
       ]
     },
@@ -104,16 +104,16 @@
     "reason": "4 mentions this week versus 4 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Quiet performance moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1003",
-    "name": "Quiet performance",
-    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
+    "code": "AUTO 1004",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Vans’ Waterproof Trail Sneaker Goes Green for the Better",
-      "HUF and TAION Reunite for a Packable FW26 Down Capsule"
+      "9 Top Designers on Their Pre-Show Rituals and Lucky Charms",
+      "Every Nike Caitlin 1 Colorway Teased So Far"
     ]
   }
 }

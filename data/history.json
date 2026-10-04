@@ -2578,6 +2578,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-04",
+      "mode": "live",
+      "displayDate": "OCT 04, 2026, 12:41 PM EDT",
+      "generatedAt": "2026-10-04T16:41:40.273Z",
+      "itemsCollected": 47,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 11
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 52,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 46,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -39716,6 +39758,523 @@
       "publishedAt": "2026-10-02T17:57:06.000Z",
       "collectedAt": "2026-10-03T16:00:33.767Z",
       "text": "Streetsnaps: How Gia Seo Turns the Everyday Target Bag Into Her Main Character Accessory In the landscape of modern styling, few creatives command color, texture, and unexpected proportion quite like Gia Seo. As a creative director, wardrobe stylist, and resident maximalist in New York City, Seo has built a reputation for turning outfit assembly into an art form. Known for her expressive, narrative-first aesthetic, she treats personal style as a continuous conversation between high-end design and everyday utility.Stepping onto the streets of Manhattan, Seo effortlessly integrates Target’s iconic bullseye reusable bag into two distinct, everyday looks. In her first outfit, she leans into classic city tailoring with a twist, pairing a KBB by KAHLANA belted trench coat with a pleated, mixed-pattern plaid midi skirt and sharp black leather boots. Rather than treating the vibrant red-and-white bag as an afterthought, she wears it slung over her shoulder as a graphic anchor that breaks up traditional autumnal tones.For her second look, Seo pivots to a more relaxed, downtown energy. She styles the KBB by KAHLANA low-rise jeans alongside an embroidered cream button-up detailed with black rosettes, accessorizing with studded platform clogs, slim sunglasses, and a green pepper keychain hooked to her belt loop. Here, the red bag acts as a bold pop of color against neutral denim, proving how easily a hyper-functional bag can double as a deliberate statement piece when layered into a well-curated fit.For Seo, a bag’s true value lies in how seamlessly it moves through the chaos of a full city day. Whether she’s carrying fabric swatches between studio visits, grabbing morning coffee, or hauling afternoon market pickups, the canvas bag shifts from pure utility to style component without missing a beat. It’s an approach to dressing that mirrors her broader design philosophy: high-impact style doesn't require overthinking, but just takes the right piece caught in the act of living. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2dcebc0fc7080847",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“Chloé Forever!” Chemena Kamali was the Toast of the Town During a Post-Show Dinner at Lapérouse",
+      "url": "https://www.vogue.com/slideshow/chloe-spring-2027-post-show-dinner-laperouse",
+      "publishedAt": "2026-10-04T16:27:35.000Z",
+      "collectedAt": "2026-10-04T16:41:35.807Z",
+      "text": "“Chloé Forever!” Chemena Kamali was the Toast of the Town During a Post-Show Dinner at Lapérouse Chloé and creative director Chemena Kamali bookended the first day of October with a morning display of optimistic spring fashion and an evening of after-dark revelry with Claire Danes, Cynthia Erivo, Apple Martin, Natasha Lyonne, Maude Apatow, and more."
+    },
+    {
+      "id": "59eab030a7198c35",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Johanna Ortiz Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/johanna-ortiz",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Johanna Ortiz Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "81e2dc731397abe7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Undercover Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/undercover",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Undercover Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "b52027954642b3c2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Gigi Hadid Channels Classic French Girl Style in Paris",
+      "url": "https://www.vogue.com/article/gigi-hadid-french-girl-style-paris-fashion-week",
+      "publishedAt": "2026-10-04T15:46:45.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Gigi Hadid Channels Classic French Girl Style in Paris Fresh off walking the Miu Miu runway, the model emerged looking like a true Parisian—oui, oui, Gigi!"
+    },
+    {
+      "id": "ea3c8c83b7b2e9e7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Had Big Fashion Month Energy",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-jennifer-lawrence-lauryn-hill-dakota-johnson",
+      "publishedAt": "2026-10-04T15:42:14.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "The Best Dressed Stars of the Week Had Big Fashion Month Energy Experimental silhouettes, over-the-top finishes—Hollywood stars were not afraid to have fun with fashion this week."
+    },
+    {
+      "id": "962f60610fd0873b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mossi Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mossi",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Mossi Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "b7e4240132be03e4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Valentino Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/valentino",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Valentino Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "9f0cec0936505771",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Olivia Colman Is Now a Miu Miu Runway Model",
+      "url": "https://www.vogue.com/article/olivia-colman-miu-miu-spring-2027-paris-fashion-week-model",
+      "publishedAt": "2026-10-04T13:43:23.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Olivia Colman Is Now a Miu Miu Runway Model The Oscar winner popped up on the runway in Paris as part of a line-up that also included her “Pride & Prejudice” co-star, Emma Corrin."
+    },
+    {
+      "id": "113d81ed3412331a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Reformation X Alexa Chung Is Coming: Here’s Everything You Need To Know",
+      "url": "https://www.vogue.com/article/alexa-chung-and-reformation-collaboration-2026",
+      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Reformation X Alexa Chung Is Coming: Here’s Everything You Need To Know Alexa Chung’s first Reformation collaboration has arrived—and Vogue readers can shop the 30-piece collection a full day before anyone else."
+    },
+    {
+      "id": "b9d6dcc4293c0c06",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Akris Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/akris",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Akris Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "bc3464ab148c97aa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Miu Miu Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/miu-miu",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.808Z",
+      "text": "Miu Miu Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "d97506e98a07f764",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On ‘SNL,’ Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy",
+      "url": "https://www.vogue.com/article/taylor-swift-and-dakota-johnson-saturday-night-live",
+      "publishedAt": "2026-10-04T11:35:14.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "On ‘SNL,’ Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy Taylor Swift joined her “Patient Zero” costar during her “Saturday Night Live” monologue, with the friends trading their co-ords for two very different takes on the statement mini."
+    },
+    {
+      "id": "d0ed0daa3876a194",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Archives: Rebel with a Shrine",
+      "url": "https://www.vogue.com/article/from-the-archives-rebel-with-a-shrine",
+      "publishedAt": "2026-10-04T11:00:00.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "From the Archives: Rebel with a Shrine In a culture that worships youth, James Dean remains one of our most potent icons—a young man for whom youth itself was a torture."
+    },
+    {
+      "id": "4358c42169378164",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Lily Brant Followed in Her Mom’s Alaïa Footsteps—After Practicing in Heels on a Treadmill",
+      "url": "https://www.vogue.com/slideshow/lily-brant-alaia-paris-fashion-week-diary",
+      "publishedAt": "2026-10-04T10:46:31.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Lily Brant Followed in Her Mom’s Alaïa Footsteps—After Practicing in Heels on a Treadmill For her Paris Fashion Week runway debut, 20-year-old Lily Brant took a little advice from Stephanie Seymour and revisited her lifelong connection to Alaïa."
+    },
+    {
+      "id": "d249aa6516e638cd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Niccolò Pasqualetti Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/niccolo-pasqualetti",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Niccolò Pasqualetti Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "827122ad22c23e19",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Lacoste Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lacoste",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Lacoste Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ca8822df82a1b03c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Alaïa Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/azzedine-alaia",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Alaïa Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "b11836c7da1beedf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Guests Raised a Martini to Maestro Gustavo Dudamel’s Arrival at the New York Philharmonic",
+      "url": "https://www.vogue.com/slideshow/gustavo-dudamels-new-york-philharmonic-gala-dinner-september-2026",
+      "publishedAt": "2026-10-03T20:34:23.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Guests Raised a Martini to Maestro Gustavo Dudamel’s Arrival at the New York Philharmonic The changing of the guard at the New York Philharmonic, the oldest of America’s “Big Five” orchestras, is always a momentous occasion for the city, all the more so when the incoming music director is among the most celebrated conductors of his generation. On Wednesday night, Venezuela-born Gustavo Dudamel took the podium at David Geffen Hall for La PanAmericana, a program of works celebrating his home continent."
+    },
+    {
+      "id": "9838b38bbca90516",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At the New York City Ballet Fall Fashion Gala, Stevie Nicks and Sarah Jessica Parker Brought Down the House",
+      "url": "https://www.vogue.com/slideshow/nyc-ballet-fall-fashion-gala-2026",
+      "publishedAt": "2026-10-03T19:23:28.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "At the New York City Ballet Fall Fashion Gala, Stevie Nicks and Sarah Jessica Parker Brought Down the House In the 14 years since Sarah Jessica Parker established the New York City Ballet’s Fall Fashion Gala, the benefit has raised more than $40 million, drawing the biggest names across the arts, fashion, and entertainment together in support of the world-renowned dance company. After nearly a decade and a half presiding over the ballet’s most glamorous night, Parker told Vogue, she finds it all the more thrilling."
+    },
+    {
+      "id": "42662c5da4de083a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At the Victoria Beckham Spring ’27 Show, a New Product Is Revealed",
+      "url": "https://www.vogue.com/article/at-the-victoria-beckham-spring-27-show-a-new-product-is-revealed",
+      "publishedAt": "2026-10-03T19:11:00.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "At the Victoria Beckham Spring ’27 Show, a New Product Is Revealed Coming in (red) hot: a new lipstick from Victoria Beckham."
+    },
+    {
+      "id": "e8d5d1570222a432",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "For Her Fashion Week Debut, Heidi Klum’s Daughter Lou Takes a Style Cue From Mom",
+      "url": "https://www.vogue.com/article/heidi-klum-daughter-lou-vivienne-westwood-paris-fashion-week",
+      "publishedAt": "2026-10-03T19:08:10.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "For Her Fashion Week Debut, Heidi Klum’s Daughter Lou Takes a Style Cue From Mom Heidi Klum and daughter Lou put their own spins on the peplum for a mother-daughter moment at Vivienne Westwood."
+    },
+    {
+      "id": "8a8696be2ce913b2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“A Bunch of Designers” Bows in Paris",
+      "url": "https://www.vogue.com/article/a-bunch-of-designers-bows-in-paris",
+      "publishedAt": "2026-10-03T18:14:58.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "“A Bunch of Designers” Bows in Paris Richemont unveils a pop-up in the Marais for six emerging talents."
+    },
+    {
+      "id": "e826f24d36844828",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Marine Serre Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marine-serre",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Marine Serre Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ec6373651a9804fd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ann Demeulemeester Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ann-demeulemeester",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Ann Demeulemeester Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "29f42e316e21d0db",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Americans in Paris: Inside the Annual CFDA/Vogue Fashion Fund Celebration of Homegrown Talent",
+      "url": "https://www.vogue.com/slideshow/americans-in-paris-cfda-vogue-fashion-fund-celebration-2026",
+      "publishedAt": "2026-10-03T17:16:37.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Americans in Paris: Inside the Annual CFDA/Vogue Fashion Fund Celebration of Homegrown Talent Vogue’s head of editorial content Chloe Malle, model Paloma Elsesser, and newly appointed Chair of Friends of the CFDA Allison Sarofim hosted a cocktail reception to inaugurate the latest edition of Americans in Paris, welcoming guests to the showroom’s new home in a grand 19th-century building on Rue de Rivoli, just steps from the Vogue Café."
+    },
+    {
+      "id": "0226510a5eaa170a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Celine Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/celine",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Celine Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "c995dacef746c3f3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Comme des Garçons Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2026-10-04T16:36:54.000Z",
+      "collectedAt": "2026-10-04T16:41:35.809Z",
+      "text": "Comme des Garçons Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "b16f0e19d06ceeb7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Rare New Balance Runner Becomes Miu Miu's Newest Muse (EXCLUSIVE)",
+      "url": "https://www.highsnobiety.com/p/miu-miu-new-balance-rc150-collab/",
+      "publishedAt": "2026-10-04T16:02:47.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "A Rare New Balance Runner Becomes Miu Miu's Newest Muse (EXCLUSIVE) Miu Miu debuts its latest New Balance RC150 sneaker collaboration for Spring/Summer 2027. Here's your first look at the brand-new shoe."
+    },
+    {
+      "id": "b2226483983ec5d2",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Stealthy Racing Shoe Has the Long-Ass Run Covered",
+      "url": "https://www.highsnobiety.com/p/nike-zoom-rival-waffle-7/",
+      "publishedAt": "2026-10-04T13:19:00.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "Nike’s Stealthy Racing Shoe Has the Long-Ass Run Covered Nike’s Zoom Rival Waffle 7 is a lightweight road and cross-country racing shoe made for long runs, with a grippy waffle outsole and streamlined profile."
+    },
+    {
+      "id": "7d69b26333f7fb76",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Wafer-Thin Gazelle Is Fresh From the Biscuit Tin",
+      "url": "https://www.highsnobiety.com/p/adidas-gazelle-lo-pro-khaki/",
+      "publishedAt": "2026-10-04T12:16:00.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "adidas' Wafer-Thin Gazelle Is Fresh From the Biscuit Tin This adidas Gazelle Lo Pro asks for a cup of tea. The flattened classic has the pleasing palette of a biscuit: sandy suede, off-white stripes."
+    },
+    {
+      "id": "617e9f70cfb0e00d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Red Hot Lifestyle Runner Is Not Here to Blend In",
+      "url": "https://www.highsnobiety.com/p/new-balance-1890-red/",
+      "publishedAt": "2026-10-04T01:19:00.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "New Balance’s Red Hot Lifestyle Runner Is Not Here to Blend In New Balance’s 1890P makes a statement in vibrant red, with playful pops of pink across the layered runner for a bold, standout finish."
+    },
+    {
+      "id": "49fbe59ad9dfade1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "London's Favorite Radio Station Deserves a Victory Lap",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-victory-lap-pine-green/",
+      "publishedAt": "2026-10-03T23:21:00.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "London's Favorite Radio Station Deserves a Victory Lap Celebrating its rise to the global stage, Nike has partnered with the station for the Victory Lap Radio x Nike Air Force 1 Low Pine Green."
+    },
+    {
+      "id": "4462f5833295ab3e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Latest Skate Loafer Is Further Proof They Make a Great Pair",
+      "url": "https://www.highsnobiety.com/p/vans-skate-loafer-black/",
+      "publishedAt": "2026-10-03T21:02:02.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "Vans’ Latest Skate Loafer Is Further Proof They Make a Great Pair Vans’ Horsebit Skate Loafer arrives in Black, pairing a suede upper and polished horsebit detail with the brand’s skate-ready rubber waffle sole."
+    },
+    {
+      "id": "a0e1204c1a1dc48f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Made a Dressy Ripple-Soled Sneaker on Its Own",
+      "url": "https://www.highsnobiety.com/p/adidas-superstar-ii-ripple/",
+      "publishedAt": "2026-10-03T20:23:30.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "adidas Made a Dressy Ripple-Soled Sneaker on Its Own adidas releases a Superstar II Ripple sneaker with sawtooth soles. But this one's CLOT-free."
+    },
+    {
+      "id": "d6d091dbb4256146",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Killer Cordura Air Maxes Are Built to Last",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-plus-cordura-black/",
+      "publishedAt": "2026-10-03T20:21:57.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "Nike’s Killer Cordura Air Maxes Are Built to Last Nike's Air Max Cordura sneaker returns for fall in a new all-black colorway. Here's everything on the quiet yet tough model."
+    },
+    {
+      "id": "b00028732f0ff9bc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Sculpted Air Maxes Belong on the Trails",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-95-i-95-sneakers/",
+      "publishedAt": "2026-10-03T20:20:10.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "Nike’s Sculpted Air Maxes Belong on the Trails Nike brings back the ruggedized Air Max 95 \"I-95\" sneakers in new colorways like \"Medium Olive\" & \"Wheat.\" It's even more outdoorsy the second time around."
+    },
+    {
+      "id": "9f9ae25bfe952a1e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Suave Suede Skate Shoe Is Ready for Fall Sessions",
+      "url": "https://www.highsnobiety.com/p/nike-sb-blazer-mid-black-spruce/",
+      "publishedAt": "2026-10-03T20:18:10.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "Nike’s Suave Suede Skate Shoe Is Ready for Fall Sessions Nike SB's Zoom Blazer Mid skate shoe gets the perfect fall makeover, landing in a \"Black Spruce\" colorway & creamy suede."
+    },
+    {
+      "id": "84730807fb806f6d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Up Close With Courrèges' Incredible Shoes & Insane Hats",
+      "url": "https://www.highsnobiety.com/p/courreges-ss27-details/",
+      "publishedAt": "2026-10-04T13:45:05.000Z",
+      "collectedAt": "2026-10-04T16:41:37.308Z",
+      "text": "Up Close With Courrèges' Incredible Shoes & Insane Hats Here's an up-close & personal look at the details from Drew Henry's debut Courrèges SS27 collection. Funky hats included."
+    },
+    {
+      "id": "581ea98992955511",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Cult Tokyo Label everyone Is Finally Coming to Hong Kong With a Temporary Brick-and-Mortar at BELOWGROUND",
+      "url": "https://hypebeast.com/2026/10/everyone-belowground-temporary-store-announcement-opening-info",
+      "publishedAt": "2026-10-04T11:00:27.000Z",
+      "collectedAt": "2026-10-04T16:41:39.010Z",
+      "text": "Cult Tokyo Label everyone Is Finally Coming to Hong Kong With a Temporary Brick-and-Mortar at BELOWGROUND Summary Tokyo label everyone is making its first appearance in Hong Kong with a five-day pop-upTwo tees made only for the city, the ESS Tee and Vincent Logo LS Tee, headline the lineupPieces from A.PRESSE for everyone, adidas Originals, SUICOKE, Erik Schedin and Tomo Nariai fill out the racks Tokyo label everyone is bringing its ESS Tee and Vincent Logo LS Tee to Hong Kong as part of its first pop-up in the city, and neither T-shirt will be sold anywhere else. Founded by Ryo Miyoshi, the brand has made its name on low-key staples where fabric and finish do the talking, and this visit gives local fans their first chance to shop it in person.The two exclusive T-shirts anchor the edit, and the rest of the space is a tight selection of everyone's everyday wardrobe. One standout is the label's easy slacks in Loro Piana fabric, a relaxed trouser in an upgraded material that sums up Miyoshi's approach well.Collaborations make up the next layer. Pieces from A.PRESSE for everyone will be on hand, a fitting addition since the pop-up sits a short walk from the A.Presse Dedicated Space by Gallery HBX in the same building. The label is also bringing its collaborative work with adidas Originals, SUICOKE, Erik Schedin and Tomo Nariai.The timing follows a busy year for the brand. everyone opened a flagship in Maebashi, Miyoshi's hometown, and an atelier in Seijo inside a building designed by Tadao Ando. Its second adidas Originals project put the label's own spin on the Adizero Adios OG runner, and everyone OOAK presented by Casa BRUTUS linked the brand with Min Hee-jin's ooak records.Not everything in the room is for sale. Miyoshi's taste for postmodern design shapes the space, with Ettore Sottsass's Carlton shelving unit, a piece Miyoshi counts among his most treasured, displayed next to Shiro Kuramata's Progetti Compiuti drawers for Cappellini.\"I’m very happy to bring everyone to Hong Kong for the first time. For me, everyone is about more than just clothes. It’s also about sharing the things we love and creating experiences together. I’m looking forward to meeting everyone in Hong Kong and sharing what we do in Tokyo,\" Miyoshi said in a statement.The everyone brick-and-mortar is open daily from October 9 to October 13 at BELOWGROUND Hong kong.everyone Temporary StoreShop B57-B58, BELOWGROUNDB1/F, Landmark Atrium15 Queen's Road Central, Hong KongOpening Hours: 10:3"
+    },
+    {
+      "id": "faf05ff019a0f474",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th",
+      "url": "https://hypebeast.com/2026/10/lacoste-beams-50th-anniversary-plaid-hooded-jacket-pants-collaboration-collection-release-info",
+      "publishedAt": "2026-10-04T10:00:07.000Z",
+      "collectedAt": "2026-10-04T16:41:39.010Z",
+      "text": "BEAMS x Lacoste Turned the Iconic Crocodile Into a \"BEAMS\" Logo for the Label's 50th Summary BEAMS has teamed up with Lacoste on a matching Plaid Hooded Jacket and Plaid Pants as part of its 50th anniversary collaborationsBoth pieces use patterns made from scratch for the project, rather than reworked versions of existing Lacoste stylesA plaid built around Lacoste's sportswear look runs across both pieces, finished with a crocodile graphic spelling out \"BEAMS\" BEAMS and Lacoste have released a Plaid Hooded Jacket and Plaid Pants, a two-piece setup made to celebrate the Japanese retailer's 50th anniversary. Instead of putting a BEAMS label on an existing Lacoste design, the pair built both garments from the pattern up. They share a fabric and a print, so they can be worn as a full set or split up.The print is the main draw. The check is original to the collab, built around the clean, athletic look Lacoste is known for, and it runs across both the jacket and the pants. The other signature detail is a custom graphic that keeps the outline of Lacoste's crocodile emblem and works the \"BEAMS\" name into it.The jacket is a hooded blouson with a roomy, boxy cut, and the pants follow the same easygoing shape. Worn together, they read as a relaxed, sporty set made for weekends rather than anything tailored. The beige version leans warm and vintage, while the navy is the more understated of the two.The setup sits inside a larger BEAMS x Lacoste capsule that also includes a striped shirt, a long-sleeve polo in heavy piqué and a thermal T-shirt with a logo, all made for the anniversary.The BEAMS x Lacoste Plaid Hooded Jacket and Plaid Pants are available now via the BEAMS online store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3c9a8ba50a9d5e8f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Drake Is Reportedly in the Running to Headline Coachella 2027",
+      "url": "https://hypebeast.com/2026/10/drake-coachella-2027-headliner-rumors-reports",
+      "publishedAt": "2026-10-04T09:00:18.000Z",
+      "collectedAt": "2026-10-04T16:41:39.010Z",
+      "text": "Drake Is Reportedly in the Running to Headline Coachella 2027 Summary Drake is reportedly under consideration as a headliner for Coachella 2027, according to music industry outlet 'HitsDailyDouble''A booking would mark his first time at the top of the bill since he closed out both Sundays of the 2015 editionThe rumored slot would sit alongside a world tour he has already confirmed for 2027 Drake could be lining up a return to Coachella as one of the festival's 2027 headliners, according to a new report. On October 2, HitsDailyDouble said in its HitsList column, a regular roundup of music industry news and gossip, that the rapper is among the names being weighed for the top of next year's bill. Nothing has been confirmed, but the timing lines up neatly with one of the busiest stretches of his career.The report places Drake in early talks rather than in a finalized booking, so the details remain thin. If the slot comes together, it would mean two headlining performances across the festival's back-to-back weekends in Indio, California, adding to a 2027 calendar that already includes a world tour.The rumor comes on the back of a strong 2026. Drake released three albums this year — ICEMAN, MAID OF HONOUR and HABIBTI, and the first of them did most of the chart damage. ICEMAN opened at No. 1 on the Billboard 200 and held the top spot on the Billboard Canadian Albums chart for five weeks. He followed the album run in September with FOMO, an hour-long short film packed with unreleased songs, and four of those tracks reached streaming services on October 2 through the HABIBTI (FOMO) deluxe edition.His history at the festival gives the rumor extra weight. Drake last headlined Coachella in 2015, closing both Sunday nights roughly two months after the release of If You're Reading This It's Too Late. That set covered his whole catalog to that point, and it is still remembered for a surprise appearance from Madonna and the onstage kiss that followed. He returned in 2017, this time as a guest during Future's set, where the pair ran through a few songs including their collaboration \"Jumpman.\"His recent festival work hints at what a 2027 set could look like. When he headlined Wireless Festival in London in 2025, Drake gave each of his three nights its own focus: one for his R&B catalog, one for straight hip-hop and one for his Caribbean-inspired records. His three 2026 albums were split along similar genre lines, which gives him plenty of material if he wants to build two "
+    },
+    {
+      "id": "f2bd7099a553d5e6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "iGarden's K70 AI Pool Cleaner Takes Pool Duty Off Your Summer To-Do List",
+      "url": "https://hypebeast.com/2026/10/igarden-k70-ai-pool-cleaner-australia-release-info",
+      "publishedAt": "2026-10-04T08:00:36.000Z",
+      "collectedAt": "2026-10-04T16:41:39.011Z",
+      "text": "iGarden's K70 AI Pool Cleaner Takes Pool Duty Off Your Summer To-Do List Summary Fairland Group's outdoor tech arm iGarden has brought its K70 AI Pool Cleaner to Australia just as backyard swim season ramps upAn AI-Inverter system tunes power output to pool conditions, letting the unit run for up to 16 days before it needs rechargingTurbo 200% suction, 22,000 LPH of water flow and a two-stage filter pull in everything from fallen leaves to fine dust iGarden has launched the K70 AI Pool Cleaner in Australia, a robotic cleaner built to take the weekly grind out of pool upkeep. The release comes from Fairland Group's outdoor technology division and lands as the country heads into its warmer months, when backyard pools shift from seasonal fixture to the center of family life and weekend gatherings.The K70 runs on AI-Inverter technology, which reads the state of the pool and dials its power up or down to match. That adaptive approach is what allows the cleaner to keep working for up to 16 days on one charge, so owners can leave it in the water for stretches of the season instead of pulling it out to plug in every few sessions.Coverage is just as thorough. Intelligent navigation guides the unit across the different surfaces of a residential pool, so it reaches the steps, climbs the walls, sweeps the floor and works along the waterline, where grime tends to build up first. The goal is a full-pool clean in one pass rather than a floor-only sweep that leaves the edges to a net and brush.Suction comes from iGarden's Turbo 200% technology paired with water flow rated at up to 22,000 LPH, enough to handle large debris like leaves alongside much finer particles. Everything it picks up passes through a two-stage filter. A 180 μm outer layer catches the bigger material while a 50 μm inner layer traps the fine stuff, and a 4-litre collection basket means fewer stops to empty it mid-clean.Controls stay simple. Instead of routing every setting through a companion app, the K70 places a touchscreen directly on the body of the device, putting its functions within reach at the poolside. For Australian households that treat the backyard as an extension of the living room, the pitch is clear: let the machine handle the scrubbing and spend the summer in the water instead.The iGarden K70 AI Pool Cleaner is available now in Australia via the iGarden Official Store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fe92a58b7c0995bd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Dickies x WACKO MARIA FW26 Unleash a Leopard Active Jacket on Your Workwear Rotation",
+      "url": "https://hypebeast.com/2026/10/dickies-wacko-maria-fall-winter-2026-fw26-collaboration-collection-release-info",
+      "publishedAt": "2026-10-04T07:00:32.000Z",
+      "collectedAt": "2026-10-04T16:41:39.011Z",
+      "text": "Dickies x WACKO MARIA FW26 Unleash a Leopard Active Jacket on Your Workwear Rotation Summary WACKO MARIA and Dickies have lined up a three-piece capsule anchored by a leopard version of the Active Jacket in BeigeThe jacket also arrives in solid Black and Charcoal, with every version cut from 100% cottonPleated Trousers in a polyester and cotton blend complete the lineup across Black, Brown, Charcoal and Ivory WACKO MARIA and Dickies have released a new three-piece capsule led by the Leopard Active Jacket. The drop pairs two takes on the jacket with a set of Pleated Trousers, keeping the focus tight on a top-and-bottom workwear pairing.The Leopard Active Jacket is the statement piece of the set. It comes in a single Beige colorway, letting the animal motif do the talking against a neutral base, and is built entirely from cotton.For those who prefer their outerwear without the print, the standard Active Jacket keeps the same all-cotton makeup and trades the leopard for solid Black or Charcoal. The result is two distinct registers of the same garment: one loud, one built for everyday rotation.The Pleated Trousers shift the fabric story. Instead of pure cotton, they use a 65% polyester and 35% cotton blend, a mix that leans toward durability and easier care in a pant designed for daily wear. The pleated cut gives the trousers a dressier line than a standard work pant, and they have the widest palette in the capsule, available in Black, Brown, Charcoal and Ivory.Taken together, the colorways are designed to cross over. Both Black and Charcoal appear on the solid jacket and the trousers, making it easy to run the pieces as a matching set, while the Beige leopard jacket sits naturally over the Brown or Ivory trousers.The Dickies x WACKO MARIA capsule is available now via the WACKO MARIA online store, with worldwide shipping available. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "122c2edadc9956b8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "KEEN Turns Its Two-Cord UNEEK Into a Luxury Leather Mule",
+      "url": "https://hypebeast.com/2026/10/keen-uneek-mule-wk-black-1033311-release-info",
+      "publishedAt": "2026-10-04T06:00:13.000Z",
+      "collectedAt": "2026-10-04T16:41:39.011Z",
+      "text": "KEEN Turns Its Two-Cord UNEEK Into a Luxury Leather Mule Name: KEEN UNEEK Mule WKColorway: BlackSKU: 1033311MSRP: $195 USDRelease Date: October 2Where to Buy: KeenKEEN is taking its most recognizable design in a more refined direction with the All Gender UNEEK Mule WK. The shoe converts the brand's iconic two-cord sneaker into an ultra-premium mule, handcrafted in ethically sourced leather and finished in black.The core idea is a change in form. The UNEEK's defining two-cord construction carries over, but the closed sneaker becomes a mule, with the back opened up for an easy slip-on fit. Keeping the cords while removing the heel means the silhouette stays instantly recognizable even as it moves into a more relaxed shape.The material shift is just as significant. Instead of the technical build associated with the original model, the mule is handcrafted from ethically sourced leather. That choice, together with the handwork, is what moves the UNEEK from a trail-adjacent oddity into the premium category KEEN is targeting here. The all-black finish keeps the focus on the leather and the cordwork rather than on color.The move also fits the UNEEK's history. The silhouette first arrived in 2014, and its open, cord-built design has always stood apart from the hiking boots and water sandals that make up most of KEEN's catalog. That outlier status helped it win fans beyond the outdoors crowd. A leather mule leans into that identity, presenting the UNEEK as a design object first and outdoor gear second. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ae300132e0659c1b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "White Mountaineering x Umbro's Fourth Capsule Is Cut From H2OFF Taffeta and Archive Lines",
+      "url": "https://hypebeast.com/2026/10/white-mountaineering-umbro-4th-collaboration-collection-release-info",
+      "publishedAt": "2026-10-04T04:30:46.000Z",
+      "collectedAt": "2026-10-04T16:41:39.011Z",
+      "text": "White Mountaineering x Umbro's Fourth Capsule Is Cut From H2OFF Taffeta and Archive Lines Summary White Mountaineering and UMBRO have released their fourth collaboration, a three-piece capsule rooted in UMBRO's archiveThe hooded jacket and easy pants share H2OFF polyester taffeta construction and fluid paneling across four matching colorwaysA crewneck pullover rounds out the drop with front co-branding, UV protection, and a cool-to-the-touch finish White Mountaineering and Umbro have returned with their fourth collaboration, a focused three-piece capsule led by a hooded jacket and easy pants made from H2OFF polyester taffeta. Both pieces start from Umbro archive designs, and White Mountaineering's rework shows most clearly in the fabric and the paneling.H2OFF is the technical backbone of the capsule. The high-performance polyester taffeta forms both the hooded jacket and the easy pants, giving the two archive-derived silhouettes a shared material base. The source doesn't list the fabric's specific performance claims, so its exact function is best confirmed with the brand.The design work lives in the paneling. Rather than reproducing Umbro’s archive pieces as they were, the collaboration breaks up their surfaces with fluid, flowing panel lines, trading the rigid blocking typical of sportswear for something more organic. The jacket and pants come in the same four colorways (black, khaki, green, and gray), so the matching fabric and palette let them be worn as a coordinated set or split apart.The crewneck pullover handles the function-first side of the drop. It carries both brands' logos across the front and adds UV protection alongside a cool-to-the-touch finish, which makes it a lighter layer suited to warmer days in transitional weather. Its palette narrows to black, khaki, and charcoal, with charcoal standing in for the green and gray offered on the jacket and pants.The White Mountaineering x Umbro capsule is available now through White Mountaineering stores, select stockists, and the White Mountaineering online store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5209b163c62fac00",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Milly Alcock Is the 'Supergirl' That Makes Sense",
+      "url": "https://hypebeast.com/2026/10/milly-alcock-is-the-supergirl-that-makes-sense",
+      "publishedAt": "2026-10-04T03:30:37.000Z",
+      "collectedAt": "2026-10-04T16:41:39.011Z",
+      "text": "Milly Alcock Is the 'Supergirl' That Makes Sense Superhero films have been trying to figure out Supergirl for decades. The 1984 Helen Slater version arrived at the tail end of the Christopher Reeve era and felt inherited rather than earned. The character has cycled through TV iterations and animated appearances since, each one orbiting Superman's mythology without ever establishing a gravitational pull of its own. The problem was never Kara Zor-El. The problem was that nobody had quite worked out who she actually was, underneath the cape.Craig Gillespie's 2026 film, based on Tom King and Bilquis Evely's acclaimed comic run, at least understands the question. This version of Kara is not the wide-eyed, optimistic cousin of Kal-El that popular culture has defaulted to for years. She is something considerably more complicated: a woman who watched Krypton die, who spent years in survival mode before landing on a planet that already had a Superman and therefore didn't quite know what to do with her, and who has been carrying the weight of that displacement ever since. When James Gunn described her as \"much more hardcore\" than previous versions, that wasn't marketing language. It was a genuine reorientation of the character.Milly Alcock carries all of that without making it feel like a burden the film is dragging behind it. Her Kara is guarded and occasionally reckless and capable of a warmth she doesn't entirely know how to express, and Alcock moves between those registers with a naturalness that the writing doesn't always support but her performance does regardless. She emerged from House of the Dragon with a reputation for playing young women navigating impossible circumstances with more composure than anyone around them deserves, and she brings exactly that quality here. The suit fits. More importantly, the character fits.The film's aesthetic leans hard into the source material's cosmic brutalism, all alien landscapes and red sun light and a grungier visual grammar that has more in common with the Furiosa end of the spectrum than anything the MCU has produced. It is not always elegant, and the cinematography makes some choices that prioritize mood over clarity in ways that don't always pay off. But the ambition behind the aesthetic is coherent, which is more than can be said for most superhero films operating at this scale.The relationship between Kara and Ruthye, the young girl whose revenge mission drives the film's plot, gives Alcock something to work agai"
+    },
+    {
+      "id": "a93cf97e164e7e5f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "PUMA GOLF x Saturdays NYC Spot the Clyde Golf in Leopard for Round Two",
+      "url": "https://hypebeast.com/2026/10/puma-golf-saturdays-nyc-collaboration-collection-japan-release-info",
+      "publishedAt": "2026-10-04T02:30:28.000Z",
+      "collectedAt": "2026-10-04T16:41:39.011Z",
+      "text": "PUMA GOLF x Saturdays NYC Spot the Clyde Golf in Leopard for Round Two Summary PUMA GOLF and Saturdays NYC have reunited for a second capsule built around a leopard-print edition of the PUMA Clyde GolfFive apparel pieces use the print at different volumes, from an all-over sweater to trousers that reveal it only at the pocketsThe lineup pairs the footwear with a reversible vest, a long-sleeve polo, and a cap for a full on-course kit PUMA GOLF and Saturdays NYC have returned for a second collaboration, anchored by a leopard-print take on the PUMA Clyde Golf. The capsule runs six pieces, one pair of shoes and five apparel items, and treats the animal print as its connecting thread rather than a one-off accent.The footwear is the centerpiece. The Clyde Golf is PUMA's course-ready reworking of the Clyde, one of the brand's defining silhouettes, and this edition brings leopard print onto the shoe. It turns a familiar profile into something that reads louder on the green, while the golf-specific update keeps the shoe grounded in its purpose.The apparel is where the print gets tuned up and down. A long-sleeve sweater is the boldest piece, rendered in leopard, while a reversible vest gives the wearer two looks from one layer. The source doesn't specify which side carries the print, so the vest's exact configuration is worth checking against product imagery.Elsewhere, the capsule shows more restraint. The two-tuck pants keep the pattern hidden until the pockets open, where a flash of leopard shows through, a quieter detail that rewards a closer look. A long-sleeve polo carries a logo at the chest, and a cap completes the lineup, giving the collection a head-to-toe option for players who want the print on the whole kit.The PUMA GOLF x Saturdays NYC capsule releases October 2 in Japan. It will be available through Saturdays NYC stores and the Saturdays NYC online store, the PUMA Store Harajuku, Osaka, and Fukuoka, the PUMA online store. and the PUMA app. Click here to view full gallery at Hypebeast"
     }
   ]
 }
