@@ -2620,6 +2620,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-05",
+      "mode": "live",
+      "displayDate": "OCT 05, 2026, 04:27 PM EDT",
+      "generatedAt": "2026-10-05T20:27:14.245Z",
+      "itemsCollected": 47,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 11
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 45,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 40,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -40275,6 +40317,523 @@
       "publishedAt": "2026-10-04T02:30:28.000Z",
       "collectedAt": "2026-10-04T16:41:39.011Z",
       "text": "PUMA GOLF x Saturdays NYC Spot the Clyde Golf in Leopard for Round Two Summary PUMA GOLF and Saturdays NYC have reunited for a second capsule built around a leopard-print edition of the PUMA Clyde GolfFive apparel pieces use the print at different volumes, from an all-over sweater to trousers that reveal it only at the pocketsThe lineup pairs the footwear with a reversible vest, a long-sleeve polo, and a cap for a full on-course kit PUMA GOLF and Saturdays NYC have returned for a second collaboration, anchored by a leopard-print take on the PUMA Clyde Golf. The capsule runs six pieces, one pair of shoes and five apparel items, and treats the animal print as its connecting thread rather than a one-off accent.The footwear is the centerpiece. The Clyde Golf is PUMA's course-ready reworking of the Clyde, one of the brand's defining silhouettes, and this edition brings leopard print onto the shoe. It turns a familiar profile into something that reads louder on the green, while the golf-specific update keeps the shoe grounded in its purpose.The apparel is where the print gets tuned up and down. A long-sleeve sweater is the boldest piece, rendered in leopard, while a reversible vest gives the wearer two looks from one layer. The source doesn't specify which side carries the print, so the vest's exact configuration is worth checking against product imagery.Elsewhere, the capsule shows more restraint. The two-tuck pants keep the pattern hidden until the pockets open, where a flash of leopard shows through, a quieter detail that rewards a closer look. A long-sleeve polo carries a logo at the chest, and a cap completes the lineup, giving the collection a head-to-toe option for players who want the print on the whole kit.The PUMA GOLF x Saturdays NYC capsule releases October 2 in Japan. It will be available through Saturdays NYC stores and the Saturdays NYC online store, the PUMA Store Harajuku, Osaka, and Fukuoka, the PUMA online store. and the PUMA app. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4c297c78aa5e53f0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "11 Winter Wedding Floral Ideas for Cold-Weather Ceremonies, From Vogue Weddings",
+      "url": "https://www.vogue.com/article/winter-wedding-bouquets",
+      "publishedAt": "2026-10-05T20:09:40.000Z",
+      "collectedAt": "2026-10-05T20:27:10.089Z",
+      "text": "11 Winter Wedding Floral Ideas for Cold-Weather Ceremonies, From Vogue Weddings Celebrate the cold with bright and beautiful winter wedding florals and bouquets for any ceremony."
+    },
+    {
+      "id": "a3e81406907bd36c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Was Dakota Johnson’s Birthday Dinner ‘Practical Magic’ Themed?",
+      "url": "https://www.vogue.com/article/dakota-johnson-jennifer-lawrence-birthday-dinner-10-05-2026",
+      "publishedAt": "2026-10-05T18:30:27.000Z",
+      "collectedAt": "2026-10-05T20:27:10.089Z",
+      "text": "Was Dakota Johnson’s Birthday Dinner ‘Practical Magic’ Themed? Johnson and friend Jennifer Lawrence were spotted at Via Carota last night—wearing wonderfully witchy looks."
+    },
+    {
+      "id": "257b345de132a248",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Chanel Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chanel",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.090Z",
+      "text": "Chanel Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "4e4e95a8110d5e07",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Anna October Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anna-october",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.090Z",
+      "text": "Anna October Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "5748f58bbf8fe2e8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Frankie Shop Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/the-frankie-shop",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.090Z",
+      "text": "The Frankie Shop Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "f666e0a54e63eb48",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘As Long as I Don’t Look Like a Conservative Person’: Cyndi Lauper Talks Personal Style as Her Iconic Wardrobe Hits the Auction Block",
+      "url": "https://www.vogue.com/article/cyndi-lauper-bonhams-auction-interview-10-05-2026",
+      "publishedAt": "2026-10-05T17:44:55.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "‘As Long as I Don’t Look Like a Conservative Person’: Cyndi Lauper Talks Personal Style as Her Iconic Wardrobe Hits the Auction Block The iconic musician is putting some of her most beloved clothing items up for auction—we catch up to hear her talk about all things style related."
+    },
+    {
+      "id": "03e0ccf40731dfb4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Co Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/co",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Co Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "c85252c4d49ca31b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside ‘Off Campus’ Star Mika Abdalla’s First Paris Fashion Week",
+      "url": "https://www.vogue.com/slideshow/mika-abdalla-off-campus-paris-fashion-week-valentino-10-05-2026",
+      "publishedAt": "2026-10-05T17:13:31.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Inside ‘Off Campus’ Star Mika Abdalla’s First Paris Fashion Week “A lot has been changing for me these past few weeks,” says the rising star."
+    },
+    {
+      "id": "80d54517c63b8540",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Want to Look “Snatched?” Katseye’s Yoonchae Shares Her Secrets",
+      "url": "https://www.vogue.com/article/beauty-secrets-yoonchae",
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Want to Look “Snatched?” Katseye’s Yoonchae Shares Her Secrets While sharing her Beauty Secrets with Vogue, the Seoul native reveals that not only does she wear eyeliner now—both pencil and liquid, in fact—but she knows exactly how to make her face look more sculpted, less sweet."
+    },
+    {
+      "id": "bcbd42e7a3e4ec0f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Emma Stone Gives the ’90s Jean a Chic Upgrade",
+      "url": "https://www.vogue.com/article/emma-stone-90s-jean-paris-style",
+      "publishedAt": "2026-10-05T15:48:17.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Emma Stone Gives the ’90s Jean a Chic Upgrade The star has touched down in Paris for fashion week—wearing a perfectly polished going-out look."
+    },
+    {
+      "id": "979e59711b80e57b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zuhair Murad Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/zuhair-murad",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Zuhair Murad Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "6140f2d6773b34f3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kiko Kostadinov Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/kiko-kostadinov",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Kiko Kostadinov Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "ea70d843d36de07a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "11 Best Wrinkle Creams of 2026: Dermatologist-Recommended Products",
+      "url": "https://www.vogue.com/article/best-wrinkle-cream",
+      "publishedAt": "2026-10-05T14:19:13.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "11 Best Wrinkle Creams of 2026: Dermatologist-Recommended Products Find the best wrinkle cream for your antiaging concerns that dermatologists and aestheticians actually use. Shop brands like SkinCeuticals, RoC, and L’Oréal Paris."
+    },
+    {
+      "id": "b701e78d77aa741d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zimmermann Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/zimmermann",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Zimmermann Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "dff6d2ea805e8421",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Enfants Riches Déprimés Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/enfants-riches-deprimes",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Enfants Riches Déprimés Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "9aebb612a6fd894c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Take a Teaspoon of Coconut Oil Every Morning—Here’s What Happened",
+      "url": "https://www.vogue.com/article/coconut-oil-daily-benefits",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "I Take a Teaspoon of Coconut Oil Every Morning—Here’s What Happened Fans of coconut oil say taking a teaspoon on an empty stomach has profound effects on energy. Here's what experts have to say."
+    },
+    {
+      "id": "f4709eb2b9eb774e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Gabriela Hearst Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gabriela-hearst",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Gabriela Hearst Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "8b1ad627e5717922",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Abra Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/abra",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "Abra Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "a6140e2fca453df8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "28 Best Beach Wedding Dresses for a Walk Down a Sandy Aisle",
+      "url": "https://www.vogue.com/slideshow/best-beach-wedding-dresses",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "collectedAt": "2026-10-05T20:27:10.091Z",
+      "text": "28 Best Beach Wedding Dresses for a Walk Down a Sandy Aisle Read on to discover tips for finding the best beach wedding dress—plus, shop 28 of our favorite designs here."
+    },
+    {
+      "id": "bd65eed525266bd6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Margaret Howell Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/margaret-howell",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "Margaret Howell Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "41e8d07b0ca43a68",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sacai Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sacai",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "Sacai Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "7f6c2aa3581d71fe",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Frasers Group CEO Michael Murray on Matches, His Plans for Harvey Nichols and His Intentions for Hugo Boss",
+      "url": "https://www.vogue.com/article/frasers-group-ceo-michael-murray-on-matches-his-plans-for-harvey-nichols-and-his-intentions-for-hugo-boss",
+      "publishedAt": "2026-10-05T04:50:00.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "Frasers Group CEO Michael Murray on Matches, His Plans for Harvey Nichols and His Intentions for Hugo Boss Frasers Group is hosting its first-ever event in Paris during Fashion Week. As the group continues to elevate its positioning with luxury retail and brand acquisitions, Murray sat down with Vogue Business to elucidate his strategy."
+    },
+    {
+      "id": "67d889ca8cd6199d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "India’s Gaurav Gupta Is Betting on a Permanent Paris Address",
+      "url": "https://www.vogue.com/article/indias-gaurav-gupta-is-betting-on-a-permanent-paris-address",
+      "publishedAt": "2026-10-05T04:30:00.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "India’s Gaurav Gupta Is Betting on a Permanent Paris Address The designer opened his by-appointment couture atelier on October 2, putting his own revenue behind a permanent Paris outpost as global demand grows."
+    },
+    {
+      "id": "81af875c8098a077",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Does Beauty Need to Reinvest in Innovation?",
+      "url": "https://www.vogue.com/article/does-beauty-need-to-reinvest-in-innovation",
+      "publishedAt": "2026-10-05T04:30:00.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "Does Beauty Need to Reinvest in Innovation? The simultaneous launch of near-identical eye patch products from Fenty Beauty, Huda Beauty, and Glow Recipe prompted an existential crisis for the industry."
+    },
+    {
+      "id": "fffaea275c78787c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Moncler-Core: Remo Ruffini Takes His Brand Back to the Mountains With Re/Icons",
+      "url": "https://www.vogue.com/article/moncler-core-remo-ruffini-takes-his-brand-back-to-the-mountains-with-re-icons",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "Moncler-Core: Remo Ruffini Takes His Brand Back to the Mountains With Re/Icons A first look at Moncler's Re/Icons."
+    },
+    {
+      "id": "c1458fc6f5a01394",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A.W.A.K.E. Mode Spring 2027 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/a-w-a-k-e",
+      "publishedAt": "2026-10-05T20:26:35.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "A.W.A.K.E. Mode Spring 2027 Ready-to-Wear "
+    },
+    {
+      "id": "5e115bc9f361fdab",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Plot Twist! All the Books Guests Brought to the Valentino Show",
+      "url": "https://www.vogue.com/article/valentino-spring-2027-show-guests-books",
+      "publishedAt": "2026-10-04T21:48:25.000Z",
+      "collectedAt": "2026-10-05T20:27:10.092Z",
+      "text": "Plot Twist! All the Books Guests Brought to the Valentino Show Alessandro Michele asked attendees to his spring 2027 show—titled Antibiblioteca: Catalogue of the Unread—to bring a book that would be donated to a local library."
+    },
+    {
+      "id": "57b557d23e64b601",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "How We Transformed an Empty Brooklyn Warehouse into NYFW’s Loudest Block Party",
+      "url": "https://hypebeast.com/2026/10/behind-the-scenes-toyota-c-hr-nyfw-party",
+      "publishedAt": "2026-10-05T19:54:58.000Z",
+      "collectedAt": "2026-10-05T20:27:12.970Z",
+      "text": "How We Transformed an Empty Brooklyn Warehouse into NYFW’s Loudest Block Party Before a single guest stepped into Brooklyn’s 99 Scott for the NYFW September Cover celebration, the Hypebeast production crew was already on-site at 8:00 AM converting an industrial warehouse into a multi-layered brand experience. The mandate was to build a physical bridge between editorial storytelling and real-world community within a strict 12-hour build window. Rather than relying on traditional stage props, the production strategy placed two all-electric Toyota all-electric C-HRs at the structural center of the layout. Crew members rolled the vehicles directly onto the floor, using them as functional anchors to balance raw concrete architecture with futuristic lighting setups.To make the vehicle integration feel native to New York’s street-culture heritage, the team avoided static display platforms and leaned into practical functionality. Production utilized the vehicle's onboard 1,500-watt cargo AC outlet to power the entire photobooth ring-light setup straight from the cargo space, eliminating unsightly extension cords across the floor. Nearby, the second all-electric C-HR was rigged with a back-seat projection system designed for real-time \"car confessionals\". At the center of the venue, crew members erected a newsstand-inspired merch booth equipped with vintage street-vendor racks and newspaper dispensers to distribute exclusive Public School \"No Tricks in '26\" tees.By the time doors opened, the venue transitioned seamlessly from a chaotic production zone into an electric block party. Guests immediately engaged with the functional activations, using branded keychains to unlock in-car lockboxes filled with road-trip gear while Blu DeTiger set the audio backdrop from the booth. The night peaked when WHATMORE delivered a high-octane 20-minute set, proving that the intensive 12-hour build successfully translated Hypebeast's digital covers into a living, physical moment for New York Fashion Week. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "e990c6b2c4087efe",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Between You and Me’ Introduces RM, the Curator",
+      "url": "https://hypebeast.com/2026/10/rm-sfmoma-between-you-and-me-bts-exhibition-san-francisco",
+      "publishedAt": "2026-10-05T19:25:36.000Z",
+      "collectedAt": "2026-10-05T20:27:12.970Z",
+      "text": "‘Between You and Me’ Introduces RM, the Curator Summary BTS' RM makes his debut at SFMOMA in a new exhibition, titled 'Between You and Me'The exhibition, running until February 7, 2027, gathers nearly 200 works, including 145 from RM's collectionThe curation focuses on notable figures within Korean modern and contemporary art with lesser-known presences overseas, hoping to bring new appreciation to the selection of paintings, photographs, drawings, sculptures, and more on view RM is stepping off the stage and into the museum for what might be his most personal show yet. For years, BTS helped make Korean music a global phenomenon. And now, with his curatorial debut at SFMOMA, its leader hopes to do the same for his country’s fine artists.Between You and Me marks the first museum presentation of the rapper’s collection. Co-curated by RM, born Kim Namjoon, alongside SFMOMA’s América Castillo and Hyoeun Kim over the last two years, the showcase entails 145 works from his own collection paired with 45 from the museum’s holdings, hoping to give Korean modernism its flowers overseas.The show is split up into eight sections: Blue Water, Friendscape, Home, Photo Buddha, People, Passion, Umber, and ‘I don’t know, but I like it.’ Within them you’ll find paintings, sculptures, ceramics, photography, and calligraphy, many of which are making their stateside debut — everything from a centuries-old vase to an early Pikachu animation cell.Throughout his career, RM has been outspoken about his particular appreciation for post-war art in Korea and the resilience of artists who persisted with their craft through the colonial period, rapid redevelopment, and political turmoil. Some of the artists from his own collection include Kim Whan-ki, Chang Ucchin, Kim Yun Shin, Kwon Jinkyu, Kwon Okyon, Park Rehyun, To Sangbong, and more.&nbsp;&nbsp;View this post on Instagram&nbsp;A post shared by RM (@rkive)Among the highlights is RM’s over-dozen trove of paintings by Yun Hyong-keun, the Dansaekhwa pioneer. One of them is mounted beside the prized “No. 14” (1980) by Mark Rothko. “Yun is often introduced as ‘the Korean Rothko’ — a convenient shorthand for an unfamiliar name,” RM wrote in the wall text. “But I didn’t want to leave Yun in anyone’s shadow. So I hung the two side by side.” Yun also inspired the opening track for RM’s debut solo album, Indigo Blue, thought to be the first K-pop song dedicated to a Korean painter.Interspersed throughout the exhibition are pieces by Donald Ju"
+    },
+    {
+      "id": "632f2284a38bd2a7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ampparito Brings the Streets of Madrid Indoors",
+      "url": "https://hypebeast.com/2026/10/ampparito-brings-the-streets-of-madrid-indoors",
+      "publishedAt": "2026-10-05T18:47:47.000Z",
+      "collectedAt": "2026-10-05T20:27:12.971Z",
+      "text": "Ampparito Brings the Streets of Madrid Indoors Words by Gabriella KoppelmanFrom the street, the art space of SOLO CSV is easy to miss. You either know what you're looking for, or you notice the front door on Cuesta de San Vicente and get curious enough to peek in. Inside, the space opens up: natural light and room after room unfolding like a labyrinth.The center occupies a former printing factory, part of SOLO, the art project founded by Spanish entrepreneurs Ana Gervás and David Cantolla. It feels like a film set: each room unfolds with a different scene. The placement of every artwork, book, and plant feels considered in the space. Alongside exhibitions and site-specific installations, SOLO CSV is home to Bowman Hal, its gallery, which runs an annual program of national and international artists.Bowman Hal was the first project to open at SOLO CSV, in July 2025, and the center has been revealing itself and the space ever since. Ampparito's show opens the gallery's second season, running through November 21, 2026. For the opening, the team paired it with an artist talk that drew a crowd of 400, and people of all ages. \"We want SOLO CSV to be a place that people enjoy discovering, somewhere they can return to and always encounter something different,\" says Oscar Hormigos, director of SOLO. A show that makes every visitor part of the work fits right in.After an espresso at the food truck by the entrance, we went inside and met Ampparito, the Madrid-born artist. This is his first solo show at Bowman Hal, a \"conceptual trompe l'œil.\" Walk in and the walls are blank. This is intentional. Ampparito’s work has a clear meaning, so his approach to not using the walls in the space was a statement within itself. Instead, his motivation in creating work is to have people stop and think about what the work is saying. The work is everywhere else: 475 granite slabs depicting injured pigeons line the skirting board, photographs of headless equestrian statues hang from the ceiling, and replicas of Madrid weathervanes turn as you walk past. Blow on them or wave your arms and they move with the breeze you make. The viewer experiences the weathervanes turning as they would naturally by the wind. As he puts it, \"the work is not the object itself, but what happens in the space.\"Over lunch in the greenhouse-like structure made of glass within the space, Ampparito speaks with me about how the show came together in around six weeks.The show is titled 'uːː ɡʊɾːuː uːː ɡʊɾːuː,' a ph"
+    },
+    {
+      "id": "6abfabf691f1b2e3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jeff Koons Auctions $100 Milllion USD of His Personal Collection",
+      "url": "https://hypebeast.com/2026/10/jeff-koons-personal-art-collection-auction-christies-2026-heroes-lovers",
+      "publishedAt": "2026-10-05T15:03:05.000Z",
+      "collectedAt": "2026-10-05T20:27:12.971Z",
+      "text": "Jeff Koons Auctions $100 Milllion USD of His Personal Collection Summary Artist Jeff Koons is the consignor behind Christie's \"Heroes & Lovers\" collection, according to the New York TimesThe lots span nine paintings, including Picasso's, Manet, and Cornelis van Haarlem, with an estimate of over $100 million USDThe deal is said to be reinvested into Koons' art practice following his 2019 auction peak Christie’s upcoming “Heroes & Lovers” lots hail from a “distinguished private collector.” The New York Times met with two auction experts who have cleared the fog on the mystery figure, identifying him as none other than artist Jeff Koons.The collection is expected to reel in more than $100 million USD with its nine paintings spanning the Renaissance to the 20th century. Works by Pablo Picasso, Édouard Manet, Tilman Riemenschneider, and Cornelis van Haarlem are on deck. Christie’s has declined to officially name the consignor.The trove does have a distinctly Koonsian feel, with each lot linking back to references within the artist’s own work: Manet’s 1878–79 “Femme au tub” is echoed in “Woman in Tub” (1988); Cornelis van Haarlem’s 16th-century Herculean bull wrestling recalls Koons’s “Antiquity (Farnese Bull)” from 2009–12; while Picasso’s 1969 grayscale painting, “Le Baiser,” evokes the exploration of “male carnal desire” prevalent across Koons’ oeuvre.“Le Baiser” is slated to be the star of the sale, estimated at around $40 million USD. Koons acquired the painting at Sotheby’s in 2008 for $17.4 million.The sale arrives as Koons’ own auction market has cooled from its 2019 peak, when his stainless-steel Rabbit sold at Christie’s for $91.1 million. ARTDAI estimates his auction performance has fallen nearly 60 percent over the past decade. A person close to the Christie’s deal said Koons is selling to reinvest in his own art practice.“Heroes & Lovers” from the collection of Jeff Koons will go up as part of Christie’s marquee 20th Century Evening Sale on November 17. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "dcc36720f53e73ae",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: and wander",
+      "url": "https://hypebeast.com/2026/10/new-arrivals-from-hbx-and-wander-2",
+      "publishedAt": "2026-10-05T14:27:05.000Z",
+      "collectedAt": "2026-10-05T20:27:12.971Z",
+      "text": "New Arrivals From HBX: and wander Brand Information: and wander is a Tokyo-based outdoor and sportswear brand founded by designers Keita Ikeuchi and Mihoko More in 2011. Unified by a collective love for nature, the duo designs contemporary clothing that brings people closer to the great outdoors. Boasting a wide array of apparel and accessories for the most adventurous of explorers, and wander incorporates performance-based pieces into your everyday wardrobe, taking functionality and comfort to a whole new level.Price Range: $15.00 USD - $465.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fbea5ecef864ca5f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Theaster Gates Buys America’s Last Luxury Porcelain Maker",
+      "url": "https://hypebeast.com/2026/10/theaster-gates-buys-pickard-china",
+      "publishedAt": "2026-10-05T13:15:49.000Z",
+      "collectedAt": "2026-10-05T20:27:12.971Z",
+      "text": "Theaster Gates Buys America’s Last Luxury Porcelain Maker Summary Gates acquired Pickard China, the last remaining U.S. maker of high-end porcelain.He plans to guide the company’s creative future while expanding his own ceramics practice into porcelain. Chicago-based artist Theaster Gates has acquired Pickard China, the last remaining high-end porcelain manufacturer in the U.S.Founded in 1893 and based in Antioch, Illinois, Pickard has spent more than a century producing porcelain for clients ranging from the White House and U.S. embassies to hotels, private clubs and major retailers. In recent decades, however, the company has faced slower production and an aging factory in need of major upgrades.Gates first connected with Pickard while searching for an American manufacturer for a homewares project with Prada. Andy Pickard Morgan, the fourth-generation family member who has led the company since 2006, later approached Gates about taking over the business as he prepared for retirement and no one in the family planned to continue running it.The acquisition feels like a natural extension of Gates’ wider practice. Ceramics have been central to his work for years, drawing from both Japanese and African American traditions while also bringing attention to overlooked figures in ceramic history. Outside the studio, Gates has become known for restoring buildings and giving new life to cultural spaces and archives across Chicago’s South Side.Speaking to NPR about Pickard’s future, Gates said the idea of the company “bringing artisanal manufacturing back to the fore” was especially exciting.Gates will lead Pickard’s creative direction while putting together a management team to oversee its daily operations. Pickard Morgan will remain involved in an executive role. The artist also sees the factory as a chance to expand his own work with ceramics into porcelain, bringing his artistic practice directly into the future of the historic American manufacturer. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "bfc7d46b87e7d709",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Le Labo’s Concrete Home Diffuser Turns Scent Into Light",
+      "url": "https://hypebeast.com/2026/10/le-labo-concrete-home-diffuser-release-info",
+      "publishedAt": "2026-10-05T13:00:41.000Z",
+      "collectedAt": "2026-10-05T20:27:12.971Z",
+      "text": "Le Labo’s Concrete Home Diffuser Turns Scent Into Light Summary Le Labo reworks its home diffuser in hand-cast concrete, replacing earlier wooden housings.A nebulizer disperses SANTAL 26 while an Edison bulb responds to scent intensity.The limited edition launches October 5 ahead of a wider December rollout. Le Labo is giving its home fragrance ritual a more architectural edge with the Concrete Home Diffuser, a limited-edition reinterpretation of its previously wood-bodied diffusers. This special edition embraces a raw, industrial edge with a base made entirely of concrete. Cast, polished, and sealed by hand in the U.S., the material inherently features natural color variations and air voids that ensure no two pieces are exactly alike. Over time, the heavy concrete is designed to develop a unique patina, transforming the utilitarian home fragrance device into a distinctive, personalized heirloom.Beyond its sculptural appearance, the Concrete Home Diffuser utilizes proprietary technology to deliver an immersive sensory experience that merges both scent and light. Inside, an advanced nebulizer mechanism breaks down Le Labo's signature fragrance oils into an ultra-fine mist. This process meticulously preserves the full olfactive integrity of the scent without the need for heating or diluting the oil. Complementing the nebulizer is a vintage-inspired Edison bulb that intelligently syncs with the intensity of the scent diffusion, dimming and brightening in tandem with the fragrance output.The complete set includes the concrete diffuser base, SANTAL 26 Diffuser Oil, diffuser bulb, light bulb and a waxed canvas tote bag, with replacement fragrance oil and light bulbs also offered separately. The combination of concrete, glass and warm filament light places the diffuser somewhere between fragrance device, lighting object and collectible home accessory, extending Le Labo’s pared-back visual language beyond scent alone. The Concrete Home Diffuser launches in select markets on today, before receiving a wider global rollout starting December 1, 2026. For more information, visit Le Labo’s official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9bc547f9012bb9d9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Moncler Re/Icons 2026 Reworks Four Archive Icons, From a 1954 K2 Parka to the '80s Tibb",
+      "url": "https://hypebeast.com/2026/10/moncler-re-icons-2026-collection-info",
+      "publishedAt": "2026-10-05T13:00:06.000Z",
+      "collectedAt": "2026-10-05T20:27:12.971Z",
+      "text": "Moncler Re/Icons 2026 Reworks Four Archive Icons, From a 1954 K2 Parka to the '80s Tibb Summary Moncler Re/Icons 2026 rebuilds the Karakorum, Verone, Himalaya and Tibb in lighter, refined materials and tonal colorEvery jacket shares new archive-inspired details, including an interior label of Vittorio Sella's 1909 photograph of K2The season adds windbreakers, tees, pants, skirts and climbing goggle-inspired sunglasses, plus a book and a feature film tie-in Moncler Re/Icons returns for 2026 with four archive styles reworked for today: the Karakorum, Verone, Himalaya and Tibb. The pieces range from 1950s expedition gear to 1980s cult favorites. Built around the FW season theme \"Pioneers in Moncler with Extraordinary Dreams,\" the collection pairs the brand's mountaineering roots with modern construction. It also pushes Re/Icons into full ready-to-wear looks for the first time.A set of shared details connects the four jackets. Each uses a camaïeu technique, layering several shades from the same color family for a rich, tonal finish. Inside, a label reproduces Vittorio Sella's photograph of K2, taken in June 1909. On the outside, metal logos fixed to the pockets borrow from the souvenir pins once collected in alpine towns.The Karakorum carries the deepest history. Moncler made it in 1954 for Achille Compagnoni and Lino Lacedelli, the members of the Italian expedition who completed the first ascent of K2, the second-highest mountain on Earth. The original was raw cotton filled with down. The 2026 version switches to a glossy 10-denier micro ripstop, cut in a rounded, enveloping shape that stays light. It keeps its practical features: a double snap-button front, a removable hood, a drawstring coulisse and internal shoulder straps that let it be carried like a backpack. A large chest pocket carries the updated Re/Icons logo. Men's colorways are black, red and petrol blue; women's are black and purple.The Verone moves from the mountains to the city. It arrived in the 1980s and became a signature piece for Milan's Paninari, a youth scene that gathered around the city's cafés and treated the puffer as essential everyday wear. The new version uses lightweight matte micro cotton in a relaxed fit, with a pullout hood and a zip closure behind a buttoned storm placket. Women's colorways are pastel pink, lilac and black, while men's are navy, gray and black.The Himalaya is the most recent of the four. The short down jacket debuted in 2009 and later evolved into the Moncler"
+    },
+    {
+      "id": "53286c19e60c1e65",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Everything Dropping at Palace This Week",
+      "url": "https://hypebeast.com/2026/10/palace-skateboards-winter-2026-drop-1-collection-release-info",
+      "publishedAt": "2026-10-05T11:30:03.000Z",
+      "collectedAt": "2026-10-05T20:27:12.971Z",
+      "text": "Everything Dropping at Palace This Week Summary Palace Skateboards opens its Winter 2026 season with a first drop led by a Polartec 200 Hooded JacketThe fleece arrives in Black, Fuzzy Pink and Ray Blue, mixing a staple neutral with two brighter takesSkull Crest graphics run across a Harrington Jacket and hooded sweatshirts in a spread of colorways Palace Skateboards has kicked off its Winter 2026 season with its first drop, headlined by the Polartec 200 Hooded Jacket. The release balances a technical fleece layer with graphic-led staples, as the Skull Crest motif carries across a Harrington Jacket and a run of hooded sweatshirts.The Polartec 200 Hooded Jacket is the drop's performance piece. Polartec 200 is a midweight fleece from the US textile specialist, known for trapping warmth while staying breathable and light enough to layer, making it a practical pick for the colder months ahead. Palace offers the jacket in three colorways: a core Black, a bright Fuzzy Pink and a cooler Ray Blue.The Skull Crest Harrington Jacket takes a classic outerwear shape and puts Palace's season graphic front and center. The Harrington's short, clean cut has long been a fixture of British subculture style, and here it comes in two understated options, Black and Navy, letting the Skull Crest artwork do the talking.The same Skull Crest graphic extends to the Hood, which spans the widest color range in the drop. One run pairs Black and Navy with a softer Chill Pink, while another covers Black, Racey Green and White. Together, the colorways give the graphic hood room to sit alongside either the muted Harrington or the brighter fleece options.Palace Skateboards Winter 2026 Drop 1 launches October 9 at 11 a.m. BST in the UK, Europe and US, followed by October 10 at 11 a.m. local time in Japan, China, Korea and Australia. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "422c8a8be6aed402",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ma Yansong Reads the Salomon XT-RIDGE Like a Building",
+      "url": "https://hypebeast.com/2026/10/ma-yansong-salomon-xt-ridge-interview",
+      "publishedAt": "2026-10-05T09:24:50.000Z",
+      "collectedAt": "2026-10-05T20:27:12.972Z",
+      "text": "Ma Yansong Reads the Salomon XT-RIDGE Like a Building Why would a sneaker catch an architect's eye?As a new silhouette branching off the XT family, the XT-RIDGE carries Salomon's mountain DNA while taking a sharp turn in design. It sets aside the exposed SensiFit™ cage that has long defined the XT line's visual language, drawing instead on the layered light and shadow of modern architecture. Using semi-translucent TPU, it reworks the idea of a ridgeline with a more restrained hand, translating performance know-how from the mountains into the context of the urban climb.\"Seeing comes before words,\" wrote British art critic John Berger in Ways of Seeing, arguing that the way we look at anything is shaped by our own experience, culture and knowledge.Outdoor culture is increasingly bleeding into city life, and the performance vocabulary of materials, structure and function has found its way into architecture, design and fashion. With the XT-RIDGE, this act of seeing becomes especially interesting. Once the signature exposed framework is pulled back and stripped away, the interplay of visible and hidden structure, along with a clean, restrained geometric profile, gives the shoe an order that recalls a modern building facade. Complex support systems are tucked beneath the surface, while solid and void, open and closed, create layers across different materials. The result gives technical structures built for mountain sport a more contemporary aesthetic expression.The same shoe means different things to different people. An everyday consumer might first notice its colorway, style and brand. An athlete pays attention to support, grip and performance. For an architect who works with space and structure, a shoe invites another way of seeing: how materials organize a surface, how structure establishes order, and how the moving body fits within that micro-scale system.Because the XT-RIDGE takes its cues from architectural structure and layered light, Salomon partnered with internationally renowned architect Ma Yansong for an architect's reading of the shoe. Following his gaze, from mountain experience to structural relationships and architectural aesthetics, we look closer at a shoe that is understated on the outside and considered within.How a Shoe Becomes Architecture at Its Smallest ScaleTo understand how an architect sees a shoe, you first have to move your eye from its overall silhouette to its internal structure.Ma noted in our conversation that while a shoe is fa"
+    },
+    {
+      "id": "2c6d6646a69d07cb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "grounds’ SS27 “An Invitation” Turns Footwear Into Otherworldly Objects",
+      "url": "https://hypebeast.com/2026/10/grounds-mikio-sakabe-spring-summer-2027-runway-collection-paris-fashion-week",
+      "publishedAt": "2026-10-05T08:25:28.000Z",
+      "collectedAt": "2026-10-05T20:27:12.972Z",
+      "text": "grounds’ SS27 “An Invitation” Turns Footwear Into Otherworldly Objects Summary grounds SS27 explores the unknown through its “An Invitation” theme.POTTER and LONPIE exaggerate heels through hollow, sculptural mega-soles.MOOPIE, LOOPIE, SKYSCRAPER and BAT styles expand the collection’s surreal footwear language. What if an invitation arrived from a realm beyond our knowledge, asking what we would wear to meet the unknown? Presented at the Église Américaine de Paris, Mikio Sakabe’s Spring/Summer 2027 collection for grounds, titled \"An Invitation,\" confronts an over-informed world with radical surrealism. Rejecting the mundane patterns of daily life, the Japanese footwear label transforms shoes into speculative artifacts — objects bridging ancient ritual objects, futuristic robotics, and alien architecture. The atmospheric backdrop of the American Church in Paris sharpened this otherworldly tension, presenting footwear as a sacred armor for an unwritten future.At the center of that world is POTTER, a new line that pushes the conventional high heel into far more sculptural territory. Inspired by the enduring visual language of Japanese dogū figures, the silhouette sharpens the toe while dramatically expanding the volume beneath the foot. Its one-piece hollow sole curves around open cavities at the front and rear, creating a smooth, glass-like appearance that makes the shoe seem almost blown rather than molded. Standing around 10 cm high, POTTER moves between refinement and distortion across several variations, including Little Star, All In One, Slash, Trotte and Rino. Each interprets the same bulbous foundation differently: from pointed, almost court-shoe uppers to strapped constructions, sporty lace-ups and extended sock-like forms.The collection becomes more extreme with LONPIE, an amplified evolution of the LOOPIE structure first introduced for SS26. Enlarged into a mega-sole heel and fused with the silhouette of traditional Japanese koppori footwear, the design sits somewhere between gothic platform dressing and the armored feet of a robot anime character. Its scale is intentionally excessive — approximately 14 cm at the front and 20 cm at the rear — yet the sole is completely hollow, turning what appears massively heavy into a construction built around empty space. Elsewhere, grounds expands several of its established lines, moving between LOOPIE Mary Janes and ankle-cuff sandals, MOOPIE sneakers and boots, SKYSCRAPER models, JEWELRY silhouettes, JOG VISI"
+    },
+    {
+      "id": "6abccae3df93df51",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Miu Miu and New Balance Rework the RC150 With Toe-Tied Laces",
+      "url": "https://hypebeast.com/2026/10/miu-miu-new-balance-rc150-spring-summer-2027-paris-fashion-week-runway-collaboration-closer-look",
+      "publishedAt": "2026-10-05T08:14:38.000Z",
+      "collectedAt": "2026-10-05T20:27:12.972Z",
+      "text": "Miu Miu and New Balance Rework the RC150 With Toe-Tied Laces Name: Miu Miu x New Balance RC150SKU: TBCRelease Date: February 2027Entering its fifth year of collaborative partnership, Miu Miu and New Balance have reunited to debut a fresh reinterpretation of the RC150 racing sneaker, which recently previewed on the French fashion house's Spring/Summer 2027 runway in Paris.Originally launched by New Balance in the late 1990s, the RC150 was conceived as a high-performance road-racing shoe celebrated for its groundbreaking, ultra-lightweight 150-gram construction. Today, vintage iterations of the model are exceptionally rare and hard to find. In the hands of Miu Miu, the heritage runner has been playfully subverted and decontextualized, transforming the familiar athletic silhouette into an unexpected, high-fashion statement piece with an effortless attitude.The collaborative New Balance x Miu Miu RC150 is heavily deconstructed, featuring a malleable technical mesh upper that is disrupted by prominent contrast zigzag embroidery across its entirety. Ensuring agility and everyday comfort, the extremely lightweight upper is paired with a flexible UltraLight sole. Adding a touch of the collaboration's signature irreverence, the sneakers are finished with interchangeable laces that are loosely knotted at the toe through external loops, encouraging individual personalization.Drawing direct inspiration from the original shoe's late-1990s origins, the collection's color palette offers both soft, muted tones and bold, vibrant iterations — including a striking, highly visible blue and bright yellow makeup showcased during the runway presentation. The exclusive footwear capsule is slated to arrive at selected Miu Miu boutiques and online in February 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "618a988e9f66dbe8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Michael Jordan's Championship Ferrari 550 Maranello Fetches $2.7 Million USD",
+      "url": "https://hypebeast.com/2026/10/michael-jordans-1997-ferrari-550-maranello-sells-for-2-7-million",
+      "publishedAt": "2026-10-05T08:00:44.000Z",
+      "collectedAt": "2026-10-05T20:27:12.972Z",
+      "text": "Michael Jordan's Championship Ferrari 550 Maranello Fetches $2.7 Million USD Summary Michael Jordan's 1997 Ferrari 550 Maranello sold for a record-breaking $2.7 million at a Joopiter auctionThe massive final price points to a generational shift in the collector market for cultural memorabiliaThe legendary sports car was recovered after a decade-long search that traced an incomplete VIN from an internet forum The modern collector market just witnessed a monumental transaction as Michael Jordan's 1997 Ferrari 550 Maranello officially sold for a record $2.7 million USD on September 30. Hosted by the auction establishment Joopiter, which was founded by Pharrell Williams, the high-profile sale effortlessly eclipsed its initial estimated block of $700,000 USD to $1,300,000 USD. This final price represents roughly ten times the current market value of typical 550 Maranellos, which normally trade hands between $200,000 USD and $300,000 USD. Today, a generational shift in the high-end market drives collectors to pay unprecedented premiums for memorabilia connected to iconic cultural figures. The sale demonstrates how provenance and celebrity association now rival mechanical rarity in determining the value of vintage supercars.The basketball icon originally obtained the front-engined Ferrari new in late May of 1997. Procured through Foreign Cars Italia in North Carolina, the grand tourer arrived dripping in classic Italian aesthetic cues. This vehicle is painted in Rosso Barchetta and features a tan leather interior alongside striking chrome Speedline wheels. Bearing the specific chassis number 108712, the highly coveted vehicle stands as a rare piece of automotive history, serving as just one of the 3,083 550 Maranellos ever built by the marque.During his storied ownership period, Jordan drove the car for around 6,400 miles, actively utilizing the machine for commutes to Chicago Bulls games and team practices. While Jordan owned the vehicle, it proudly wore an Illinois vanity plate that read \"MJ 5\". His sports car was heavily tied to his legendary championship run. Mere hours after winning his fifth NBA Championship on June 13, 1997, Jordan famously left the United Center sitting behind the wheel of the Ferrari. Its physical presence left a lasting cultural mark, as sneaker designer Tinker Hatfield directly referenced the car's shape when designing the Air Jordan XIV shoe.Jordan eventually sold the Ferrari in late 2002 via Lake Forest Sportscars in the Chicago area"
+    },
+    {
+      "id": "12f46cad7ffa0211",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Wonderwall® Designs a Forest Retreat for NOT A HOTEL KITAKARUIZAWA",
+      "url": "https://hypebeast.com/2026/10/not-a-hotel-kitakaruizawa-wonderwall-masu-room-interior-design",
+      "publishedAt": "2026-10-05T07:55:37.000Z",
+      "collectedAt": "2026-10-05T20:27:12.972Z",
+      "text": "Wonderwall® Designs a Forest Retreat for NOT A HOTEL KITAKARUIZAWA Summary Wonderwall®︎-designed villa MASU opens at NOT A HOTEL KITAKARUIZAWA.Based on a 4x4-meter grid, the design reimagines traditional Sukiya architecture.Interiors seamlessly blend custom designs, modern art, and iconic mid-century furniture. NOT A HOTEL KITAKARUIZAWA has unveiled MASU, a new forest retreat designed by Masamichi Katayama-led Wonderwall®, where the restraint of Japanese architecture meets the clarity of mid-century modernism.Built around the concept “Suki ni sumu\" (As you like it), the project takes inspiration from architect Kenzo Tange’s 1953 residence in Seijo, reinterpreting its dialogue between traditional Japanese spatial thinking and modernist structure for contemporary living. At its core is a modular system of eight 4 x 4-meter “masu” on the upper floor, framed by a steel structure and a continuous 360-degree deck that dissolves the boundary between the home and North Karuizawa’s surrounding woodland. Below, a pilotis opens the dining area toward an outdoor living space and fire pit, while a light cantilevered staircase cuts through the double-height atrium, allowing daylight and air to move freely between levels.Inside, Wonderwall® approaches the residence less as a uniform interior than as a carefully assembled conversation between East and West, vintage and contemporary. Warm timber ceilings, expanses of glass and restrained architectural surfaces are offset by richly tactile elements, including custom furnishings designed specifically for MASU and a selection of mid-century classics.Isamu Noguchi’s sculptural Akari lighting illuminates the atrium, while pieces including George Nakashima’s CN108 Bench, Eero Saarinen’s Womb Chair and stools by Jean Touret appear throughout. Mika Tajima’s Negative Entropy, which translates sound data into jacquard-woven imagery, adds another layer to the living area, while deep carpeting and low-slung seating give the otherwise disciplined geometry a softer, almost sunken lounge-like character. The result is deliberately composed without feeling overly pristine, balancing the precision of the architecture with the comfort and individuality associated with the Japanese notion of suki.That relationship with the landscape becomes most pronounced in MASU’s more private spaces. Floor-to-ceiling windows make the bedrooms feel suspended among the trees, while one entire 4 x 4-meter module is devoted to a bathroom equipped with a natura"
+    },
+    {
+      "id": "bca7857ebb10a496",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lacoste Unveils Spring/Summer 2027 Collection at Paris Fashion Week",
+      "url": "https://hypebeast.com/2026/10/lacoste-2027-ss-runway",
+      "publishedAt": "2026-10-05T07:27:30.000Z",
+      "collectedAt": "2026-10-05T20:27:12.973Z",
+      "text": "Lacoste Unveils Spring/Summer 2027 Collection at Paris Fashion Week The Lacoste Spring/Summer 2027 runway show unfolded at the iconic Court Philippe-Chatrier. The set design paid homage to the raw beauty of earthy materials, their rich textures and tones, and the industrial machinery used to produce the famous clay courts. Inspired by this signature red clay, the entire show space was awash in rolling earth. The guest seating also nodded to the clay factories, while the runway itself—set across this demanding terrain—echoed the collection’s relentless exploration of speed.For the Spring/Summer 2027 collection, Lacoste Creative Director Pelagia Kolotouros introduces a new creative vision: tennis apparel is no longer bound by traditional uniforms, but serves as a canvas for individual expression. This ethos defines the season's core theme—Dress Code: Beyond White.Kolotouros envisions the court as a space in constant flux. Footwork overlaps, lines blur; clay dusts the hems of skirts, and sweat becomes a badge of honor. Traces once deemed imperfections are now celebrated as testaments to achievement, forming the foundation of this season’s design language. Spotless white uniforms make way for garments that bear the vibrant marks of intense athletic exertion. The clothes move with the body rather than restricting it: tailoring skims the silhouette without compromising movement. In the focused moment before a serve, every detail matters—from the drape of the fabric and the painted lines of the court to the steady rhythm of a breath.This season shatters the rigid constraints and hierarchies of traditional preppy style. Cottons are garment-dyed and enzyme-washed to soften stiff structures and release a fluid, effortless energy. Tropical wools are deconstructed for a relaxed, supple feel, while washed silks retain their raw, natural texture, stripping away any formal stuffiness. Fine jersey knits feature delicate perforations to enhance breathability and freedom of movement, and technical fabrics are finished with rolled hems to cultivate an effortlessly relaxed attitude.On the runway, deep teal coats and softly tailored suits were styled in relaxed, belted silhouettes, accented with lanyards and neon yellow charms. Oversized piqué polo shirts were layered over technical long-sleeve knits and paired with semi-pleated skirts. Bright cobalt nylon tracksuits and vibrant orange zip-up vests channeled the dynamic energy of a pre-match warm-up. White jackets and wide-leg"
+    },
+    {
+      "id": "d40b09dbeb67f5a4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Armin Strom Takes the Tribute³ Timepiece Fully Into Rose Gold",
+      "url": "https://hypebeast.com/2026/10/armin-strom-tribute-au750-ref-rg26-tri-au-watch-release-info",
+      "publishedAt": "2026-10-05T07:25:55.000Z",
+      "collectedAt": "2026-10-05T20:27:12.973Z",
+      "text": "Armin Strom Takes the Tribute³ Timepiece Fully Into Rose Gold Summary Armin Strom’s Tribute³ Au750 extends 18k rose gold deep into the movement architecture.Three guilloché patterns define its dial, subdial and three-quarter bridge.Limited to eight pieces, it offers a 100-hour power reserve. Armin Strom has unveiled the Tribute³ Au750, a striking new addition it its Tribute collection that integrates 18k rose gold from the outside in. For the first time, the precious metal is not restricted to the 38mm case but extends deep into the caliber itself, with all three movement bridges crafted from solid gold. This includes the barrel and balance, which adopt the brand's characteristic finger-style construction alongside a prominent three-quarter bridge.The timepiece elevates traditional métiers d’art by showcasing three distinct guilloché patterns that lend different expressions to the gold. The off-center dial features a radiating soleil pattern, the subdial displays a grain d’orge texture, and the visible three-quarter bridge is decorated with a clou de Paris motif. Making their debut on this model are grey PVD-coated stainless steel Breguet-style hands, which perfectly contrast the array of hand-finished surfaces, including hand-polished bevels, circular graining, and frosted finishes.Powering the Tribute³ Au750 is the manual-winding manufacture Calibre AMW21, designed and developed entirely in-house to embody mechanical clarity and efficiency. A space-saving motor barrel design enables the compact movement to deliver an impressive 100-hour power reserve. The watch is paired with a grey nubuck leather strap featuring grey stitching and an 18K rose gold pin buckle. Strictly limited to just eight pieces worldwide, this exclusive release carries an official retail price of 69,000 CHF (approx. $83,113 USD). For more information, head over to Armin Strom's official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ee815ac615cb94ba",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Aston Martin Delays First EV Launch to 2033",
+      "url": "https://hypebeast.com/2026/10/aston-martin-delays-first-ev-launch-to-2033",
+      "publishedAt": "2026-10-05T07:00:51.000Z",
+      "collectedAt": "2026-10-05T20:27:12.973Z",
+      "text": "Aston Martin Delays First EV Launch to 2033 Summary Aston Martin has pushed the launch of its first fully electric model to a three-year window beginning in 2033CEO Adrian Hallmark cited rapidly evolving emissions legislation and a lack of consumer demand for high-end EVsThe automaker will prioritize its combustion lineup, keeping its V-8 and V-12 engines compliant through at least 2035 Aston Martin is hitting the brakes on its electric era. The British automaker pushed back the launch of its first fully electric model to 2033 at the earliest, abandoning a previous target of 2030. Speaking to the media at an event in London, CEO Adrian Hallmark confirmed the revised timeline. Hallmark narrowed the brand’s prospective EV launch to a three-year window between 2033 and 2035. He made it clear to the press that the debut is not 2031. This move follows a series of delays for the project, which was originally scheduled for 2025 before being pushed to 2027, 2030 and effectively the middle of the next decade.Shifting market realities drove the pivot away from immediate electrification. Hallmark attributed the delay to changing legislation because regulatory mandates evolve faster than manufacturers can manage. The automaker also cited low customer demand for high-end electric vehicles as a primary factor. Battery-electric vehicles are only needed to satisfy legislative compliance in certain markets just before 2035. This timeline removes the urgency to rush a battery-powered flagship to the showroom.These delays reflect a broader industry trend in which the world’s most elite automakers grapple with softening EV demand and shifting emissions regulations. By relying on legacy combustion powertrains through 2035, the brand buys time for a smoother technological transition. Delivering visceral combustion engines remains the priority as the company serves the preferences of its core customer base.Aston Martin will prioritize internal-combustion vehicles to anchor its cultural cachet in the near term. A comprehensive road map keeps signature V-8 and V-12 engines compliant and available through at least 2035. While Hallmark remains open to adding traditional hybrid models to bridge the gap, he opposes utilizing plug-in hybrids. The CEO considers the massive weight of plug-in systems a dealbreaker for the performance-focused marque.The automaker will not start from scratch when the timeline eventually demands a fully electric release. Aston Martin plans to rely on its 202"
+    },
+    {
+      "id": "70116c11b3214aa0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Avengers: Endgame’ Just Snatched the Highest-Grossing Movie Title Back From ‘Avatar’",
+      "url": "https://hypebeast.com/2026/10/marvel-studios-avengers-endgame-reclaims-record-highest-grossing-film-overtakes-avatar",
+      "publishedAt": "2026-10-05T06:56:37.000Z",
+      "collectedAt": "2026-10-05T20:27:12.973Z",
+      "text": "‘Avengers: Endgame’ Just Snatched the Highest-Grossing Movie Title Back From ‘Avatar’ Summary 'Avengers: Endgame' is back at No. 1 on the all-time worldwide box office chart with $2.925 billion USD, edging out Avatar's $2.923 billion USDDisney's theatrical re-release added more than $126 million USD to the 2019 film's totalThe comeback works as a lead-in to 'Avengers: Doomsday,' the next all-hands Marvel event, arriving in December Avengers: Endgame has once again become the highest-grossing film ever made, overtaking Avatar after Disney brought the 2019 superhero finale back to theaters. Its worldwide total now stands at $2.925 billion USD, just ahead of the $2.923 billion USD James Cameron's 2009 sci-fi epic has earned across its original run and five re-releases.The margin is very thin. Only about $2 million USD separates the two films, less than 0.1% of either total. The re-release did more than enough work: it earned over $126 million USD worldwide, roughly 60 times the final gap between them. Avatar, by comparison, built its total over five separate trips back to theaters.The record has changed hands several times. Avatar held the top spot for a full decade before Endgame passed it during its original 2019 theatrical run. Avatar reclaimed the crown in 2021 with another theatrical reissue, a run centered on China, and its sequel Avatar: The Way of Water followed in December 2022. Five years after losing it, Endgame is back in first.Whichever film holds the record, Disney benefits. Avatar came from 20th Century Fox, which Disney absorbed in its 2019 merger. With that catalog, the studio now controls seven of the 10 biggest films of all time. Beyond the two leaders, that list includes Avatar: The Way of Water at $2.33 billion USD, Titanic at $2.26 billion USD and Avengers: Infinity War at $2.05 billion USD.Endgame's staying power is tied to what it represented. The film closed out a 21-movie, 10-year storyline and gathered nearly the entire Marvel roster on screen. That cast included Robert Downey Jr.'s Iron Man, Chris Evans' Captain America and Scarlett Johansson's Black Widow, alongside Tom Holland's Spider-Man, Chadwick Boseman's Black Panther and Anthony Mackie's Falcon.That ensemble model is now returning. Disney and Marvel reissued Endgame to build anticipation for Avengers: Doomsday, which brings almost every hero back together for the first time since 2019. Anthony and Joe Russo, the directors behind Endgame, are back for the franchise's 39th fi"
+    },
+    {
+      "id": "639d953864092a06",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Dunk Low “Jade Stone/Old Royal” Mixes Muted Greens With Vivid Blue",
+      "url": "https://hypebeast.com/2026/10/nike-dunk-low-jade-stone-light-khaki-gum-light-brown-old-royal-im4414-301-official-images",
+      "publishedAt": "2026-10-05T06:40:50.000Z",
+      "collectedAt": "2026-10-05T20:27:12.973Z",
+      "text": "Nike Dunk Low “Jade Stone/Old Royal” Mixes Muted Greens With Vivid Blue Name: Nike Dunk Low “Jade Stone/Old Royal”Colorway: Jade Stone/Light Khaki-Gum Light Brown-Old RoyalSKU: IM4414-301MSRP: $120 USDRelease Date: 2026Nike gives the Dunk Low an unexpectedly earthy jolt this upcoming season with the new “Jade Stone/Old Royal” colorway. \"Jade Stone\" establishes the muted green foundation across the perforated toe box, tongue and rear sections, while Light Khaki softens the look through the side panels, collar and neutral laces. The strongest contrast comes from Old Royal, a saturated cobalt-blue suede that wraps the toe, climbs the eyestays and returns across the Swooshes and heel tabs. Its softly brushed finish gives the blue sections added depth against the smoother surrounding materials, turning an otherwise classic Dunk construction into a more texturally varied proposition.The color story continues underfoot, where a warm Gum Light Brown midsole introduces an unusual earthy break between the upper and a bright Old Royal rubber outsole. Light Khaki “NIKE” embroidery appears across the blue suede heel tabs, with coordinating branding repeated on the tongue labels and insoles to tie the contrasting shades together. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a0d884521dc36d5b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Miu Miu SS27 Finds Beauty in the “Here and Now”",
+      "url": "https://hypebeast.com/2026/10/miu-miu-miuccia-prada-spring-summer-2027-paris-fashion-week-runway-collection",
+      "publishedAt": "2026-10-05T06:40:43.000Z",
+      "collectedAt": "2026-10-05T20:27:12.973Z",
+      "text": "Miu Miu SS27 Finds Beauty in the “Here and Now” Summary Miu Miu SS27 reframes everyday dressing through contrasts of polish, wear and deconstruction.Crossed lacing, aged suede and crushed fabrics reshape familiar silhouettes.Wrangler Upcycled denim and the New Balance RC150 anchor the season’s collaborations. For Spring/Summer 2027, Miu Miu made the familiar feel unexpectedly unsettled. Presented at Paris Fashion Week under the title “Here and Now,” Miuccia Prada’s latest collection took the building blocks of an everyday wardrobe - sportswear, knitwear, leather, denim and vintage pieces - and pushed them into sharper, more refined territory. Tailored suits, chemisier dresses and embroidered eveningwear appeared alongside these casual staples, not as separate ideas but as part of the same visual language. That friction between polish and practicality became the collection’s defining mood, with clothes constantly shifting between elegant, worn-in, athletic and deliberately unfinished.Much of that tension came through in the way fabrics and familiar silhouettes were treated. Wax-laminated suede was designed to crack and crease with age, giving its surface a weathered quality, while crossed lacing replaced conventional closures across denim, pleated skirts, cocktail dresses and footwear. Elsewhere, satin and gauze were crushed with metal to create permanent folds and texture, and embroidered details typically associated with eveningwear were transplanted onto sportier shapes. Performance jersey was cut into abbreviated tops for layering, silk bows were stripped back to standalone decorative gestures, and geometric prints nodded to earlier Miu Miu collections while adding another layer of visual nostalgia. Rather than presenting a pristine vision of luxury, the clothes often looked handled, altered or caught somewhere in transition.Denim played a particularly important role through a new Wrangler x Miu Miu Upcycled collaboration. Vintage examples of late-20th-century jeans were sourced and reconstructed with the collection’s recurring crossed-lace detailing, extending Miu Miu’s ongoing interest in circular design while making the project feel fully embedded within the runway rather than separate from it. The season also marked the fifth year of Miu Miu’s partnership with New Balance, this time turning to the RC150 racing sneaker. The lightweight model was dismantled and rebuilt in technical mesh, finished with external lace loops and contrast cords loosely kno"
     }
   ]
 }

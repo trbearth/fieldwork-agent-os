@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "2026-10-04",
+    "id": "2026-10-05",
     "mode": "live",
-    "displayDate": "OCT 04, 2026, 12:41 PM EDT",
-    "generatedAt": "2026-10-04T16:41:40.273Z",
+    "displayDate": "OCT 05, 2026, 04:27 PM EDT",
+    "generatedAt": "2026-10-05T20:27:14.245Z",
     "itemsCollected": 47,
     "sourcesRead": 3,
     "sourceResults": [
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 52,
-      "confidence": 52,
-      "youthRelevance": 95,
-      "direction": "flat",
+      "score": 45,
+      "confidence": 48,
+      "youthRelevance": 84,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 4 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +0% seven-day velocity",
+      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
       "citations": [
         {
           "title": "9 Top Designers on Their Pre-Show Rituals and Lucky Charms",
@@ -49,32 +49,6 @@
           "source": "Hypebeast",
           "date": "Sep 30",
           "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far"
-        }
-      ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 46,
-      "confidence": 46,
-      "youthRelevance": 84,
-      "direction": "flat",
-      "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "HUF and TAION Reunite for a Packable FW26 Down Capsule",
-          "source": "Hypebeast",
-          "date": "Sep 29",
-          "url": "https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info"
-        },
-        {
-          "title": "Vans’ Waterproof Trail Sneaker Goes Green for the Better",
-          "source": "Highsnobiety",
-          "date": "Sep 29",
-          "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-green/"
         }
       ]
     },
@@ -97,18 +71,44 @@
           "url": "https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/"
         }
       ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 40,
+      "confidence": 42,
+      "youthRelevance": 57,
+      "direction": "down",
+      "thesis": "Quiet performance is appearing across 2 independent public sources.",
+      "whyNow": "2 mentions this week versus 4 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · -50% seven-day velocity",
+      "citations": [
+        {
+          "title": "Vans’ Waterproof Trail Sneaker Goes Green for the Better",
+          "source": "Highsnobiety",
+          "date": "Sep 29",
+          "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-green/"
+        },
+        {
+          "title": "HUF and TAION Reunite for a Packable FW26 Down Capsule",
+          "source": "Hypebeast",
+          "date": "Sep 29",
+          "url": "https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info"
+        }
+      ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "4 mentions this week versus 4 in the prior seven-day window."
+    "reason": "3 mentions this week versus 5 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1004",
+    "code": "AUTO 1005",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
