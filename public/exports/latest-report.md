@@ -1,19 +1,8 @@
-# Fieldwork Daily Signal — 2026-10-05
+# Fieldwork Daily Signal — 2026-10-06
 
-Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
+Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
-## 1. Decorated basics
-
-**emerging · score 45 · confidence 48% · youth 84%**
-
-Decorated basics is appearing across 2 independent public sources.
-
-3 observations · 2 independent sources · -40% seven-day velocity
-
-- [9 Top Designers on Their Pre-Show Rituals and Lucky Charms](https://www.highsnobiety.com/p/paul-smith-bode-valentino-designer-superstitions/) — Highsnobiety, Sep 29
-- [Every Nike Caitlin 1 Colorway Teased So Far](https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far) — Hypebeast, Sep 30
-
-## 2. Narrow technical footwear
+## 1. Narrow technical footwear
 
 **emerging · score 43 · confidence 19% · youth 46%**
 
@@ -23,16 +12,15 @@ Narrow technical footwear is appearing across 1 independent public source.
 
 - [Salomon Takes Its Chunky Trail Shoe up Space Mountain](https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/) — Highsnobiety, Oct 1
 
-## 3. Quiet performance
+## 2. Decorated basics
 
-**emerging · score 40 · confidence 42% · youth 57%**
+**emerging · score 25 · confidence 25% · youth 70%**
 
-Quiet performance is appearing across 2 independent public sources.
+Decorated basics is appearing across 1 independent public source.
 
-2 observations · 2 independent sources · -50% seven-day velocity
+1 observation · 1 independent source · -83% seven-day velocity
 
-- [Vans’ Waterproof Trail Sneaker Goes Green for the Better](https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-green/) — Highsnobiety, Sep 29
-- [HUF and TAION Reunite for a Packable FW26 Down Capsule](https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info) — Hypebeast, Sep 29
+- [Every Nike Caitlin 1 Colorway Teased So Far](https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far) — Hypebeast, Sep 30
 
 ## Method note
 

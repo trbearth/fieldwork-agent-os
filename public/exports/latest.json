@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-05",
+    "id": "2026-10-06",
     "mode": "live",
-    "displayDate": "OCT 05, 2026, 04:27 PM EDT",
-    "generatedAt": "2026-10-05T20:27:14.245Z",
-    "itemsCollected": 47,
+    "displayDate": "OCT 06, 2026, 02:09 PM EDT",
+    "generatedAt": "2026-10-06T18:09:27.098Z",
+    "itemsCollected": 46,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -24,34 +24,8 @@
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 45,
-      "confidence": 48,
-      "youthRelevance": 84,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 5 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · -40% seven-day velocity",
-      "citations": [
-        {
-          "title": "9 Top Designers on Their Pre-Show Rituals and Lucky Charms",
-          "source": "Highsnobiety",
-          "date": "Sep 29",
-          "url": "https://www.highsnobiety.com/p/paul-smith-bode-valentino-designer-superstitions/"
-        },
-        {
-          "title": "Every Nike Caitlin 1 Colorway Teased So Far",
-          "source": "Hypebeast",
-          "date": "Sep 30",
-          "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far"
-        }
-      ]
-    },
     {
       "id": "narrow-technical-footwear",
       "name": "Narrow technical footwear",
@@ -73,47 +47,40 @@
       ]
     },
     {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
+      "id": "decorated-basics",
+      "name": "Decorated basics",
       "stage": "emerging",
-      "score": 40,
-      "confidence": 42,
-      "youthRelevance": 57,
+      "score": 25,
+      "confidence": 25,
+      "youthRelevance": 70,
       "direction": "down",
-      "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 4 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · -50% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 6 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -83% seven-day velocity",
       "citations": [
         {
-          "title": "Vans’ Waterproof Trail Sneaker Goes Green for the Better",
-          "source": "Highsnobiety",
-          "date": "Sep 29",
-          "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-green/"
-        },
-        {
-          "title": "HUF and TAION Reunite for a Packable FW26 Down Capsule",
+          "title": "Every Nike Caitlin 1 Colorway Teased So Far",
           "source": "Hypebeast",
-          "date": "Sep 29",
-          "url": "https://hypebeast.com/2026/9/huf-taion-fall-winter-2026-capsule-collaboration-release-info"
+          "date": "Sep 30",
+          "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "3 mentions this week versus 5 in the prior seven-day window."
+    "reason": "1 mention this week versus 6 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Narrow technical footwear moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1005",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 1006",
+    "name": "Narrow technical footwear",
+    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [
-      "9 Top Designers on Their Pre-Show Rituals and Lucky Charms",
-      "Every Nike Caitlin 1 Colorway Teased So Far"
+      "Salomon Takes Its Chunky Trail Shoe up Space Mountain"
     ]
   }
 }
