@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-10-06",
+    "id": "2026-10-07",
     "mode": "live",
-    "displayDate": "OCT 06, 2026, 02:09 PM EDT",
-    "generatedAt": "2026-10-06T18:09:27.098Z",
-    "itemsCollected": 46,
+    "displayDate": "OCT 07, 2026, 02:42 PM EDT",
+    "generatedAt": "2026-10-07T18:42:53.559Z",
+    "itemsCollected": 63,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 15
       },
       {
         "source": "Hypebeast",
@@ -45,38 +45,18 @@
           "url": "https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/"
         }
       ]
-    },
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 25,
-      "confidence": 25,
-      "youthRelevance": 70,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 6 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -83% seven-day velocity",
-      "citations": [
-        {
-          "title": "Every Nike Caitlin 1 Colorway Teased So Far",
-          "source": "Hypebeast",
-          "date": "Sep 30",
-          "url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "1 mention this week versus 6 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
     "title": "Narrow technical footwear moves outward",
     "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1006",
+    "code": "AUTO 1007",
     "name": "Narrow technical footwear",
     "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [
