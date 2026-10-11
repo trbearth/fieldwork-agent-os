@@ -1,16 +1,16 @@
-# Fieldwork Daily Signal — 2026-10-07
+# Fieldwork Daily Signal — 2026-10-11
 
-Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
+Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
-## 1. Narrow technical footwear
+## 1. Quiet performance
 
-**emerging · score 43 · confidence 19% · youth 46%**
+**emerging · score 26 · confidence 22% · youth 46%**
 
-Narrow technical footwear is appearing across 1 independent public source.
+Quiet performance is appearing across 1 independent public source.
 
-1 observation · 1 independent source · +100% seven-day velocity
+1 observation · 1 independent source · -67% seven-day velocity
 
-- [Salomon Takes Its Chunky Trail Shoe up Space Mountain](https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/) — Highsnobiety, Oct 1
+- [New Balance Waterproofed Its Cool Skate “Dunks”](https://www.highsnobiety.com/p/new-balance-numeric-480-gore-tex/) — Highsnobiety, Oct 10
 
 ## Method note
 

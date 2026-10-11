@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-07",
+    "id": "2026-10-11",
     "mode": "live",
-    "displayDate": "OCT 07, 2026, 02:42 PM EDT",
-    "generatedAt": "2026-10-07T18:42:53.559Z",
-    "itemsCollected": 63,
+    "displayDate": "OCT 11, 2026, 01:33 PM EDT",
+    "generatedAt": "2026-10-11T17:33:50.139Z",
+    "itemsCollected": 59,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 15
+        "count": 10
       },
       {
         "source": "Hypebeast",
@@ -24,43 +24,43 @@
       }
     ]
   },
-  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
     {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
+      "id": "quiet-performance",
+      "name": "Quiet performance",
       "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
+      "score": 26,
+      "confidence": 22,
       "youthRelevance": 46,
-      "direction": "up",
-      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "direction": "down",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
       "citations": [
         {
-          "title": "Salomon Takes Its Chunky Trail Shoe up Space Mountain",
+          "title": "New Balance Waterproofed Its Cool Skate “Dunks”",
           "source": "Highsnobiety",
-          "date": "Oct 1",
-          "url": "https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/"
+          "date": "Oct 10",
+          "url": "https://www.highsnobiety.com/p/new-balance-numeric-480-gore-tex/"
         }
       ]
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Quiet performance",
+    "reason": "1 mention this week versus 3 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Narrow technical footwear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Quiet performance moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1007",
-    "name": "Narrow technical footwear",
-    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
+    "code": "AUTO 1011",
+    "name": "Quiet performance",
+    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "Salomon Takes Its Chunky Trail Shoe up Space Mountain"
+      "New Balance Waterproofed Its Cool Skate “Dunks”"
     ]
   }
 }

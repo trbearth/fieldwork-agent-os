@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-07
+# Fieldwork Public Pulse — 2026-10-11
 
 ## 1. Quiet performance
 
@@ -11,7 +11,18 @@
 - [The weather did whatever it wanted up there — sun one minute, clouds swallowing the entire ridge the](https://mastodon.social/@ncknxk/116811779013406421) — Mastodon
 - [Deconstruct, Rebuild, Elevate. - 2nd development [INFUSOR] Infusor reshapes classic designs into fun](https://mastodon.social/@viim/113463751035730077) — Mastodon
 
-## 2. Decorated basics
+## 2. Washed tailoring
+
+**emerging · score 68 · confidence 58% · youth 75%**
+
+9 public posts · 1 network · 7-day comparison
+
+- [Grey herringbone tailoring layered with a patterned Fair Isle knit and a green padded vest. A blue O](https://mastodon.social/@seoul_trad/117408383753276199) — Mastodon
+- [A navy double-breasted blazer over a white OCBD and Fair Isle vest. A red-and-navy tie, grey wool tr](https://mastodon.social/@seoul_trad/117403636287085194) — Mastodon
+- [A khaki sports jacket paired with dark blue jeans, a madras button-down and a black knit tie. A tote](https://mastodon.social/@seoul_trad/117387085115357126) — Mastodon
+- [Navy washed sports jacket over a white OCBD: neat on top, easy below with Uniqlo barrel jeans and br](https://mastodon.social/@seoul_trad/117373941516991339) — Mastodon
+
+## 3. Decorated basics
 
 **emerging · score 64 · confidence 52% · youth 100%**
 
@@ -21,17 +32,6 @@
 - [I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc](https://blahaj.zone/notes/a6qm2hx0fvau0f4o) — Mastodon
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
-
-## 3. Washed tailoring
-
-**emerging · score 60 · confidence 56% · youth 67%**
-
-8 public posts · 1 network · 7-day comparison
-
-- [A khaki sports jacket paired with dark blue jeans, a madras button-down and a black knit tie. A tote](https://mastodon.social/@seoul_trad/117387085115357126) — Mastodon
-- [Navy washed sports jacket over a white OCBD: neat on top, easy below with Uniqlo barrel jeans and br](https://mastodon.social/@seoul_trad/117373941516991339) — Mastodon
-- [Khaki washed jacket and two-tuck trousers, worn as a setup with an OCBD. The green goes in three pla](https://mastodon.social/@seoul_trad/117368627826491756) — Mastodon
-- [Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi](https://mastodon.social/@seoul_trad/117357978067150530) — Mastodon
 
 ## 4. Archival sportswear
 
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 27 observations
+- **mastodon:** ready — 28 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

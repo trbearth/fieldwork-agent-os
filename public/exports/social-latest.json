@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-07",
+    "id": "social-2026-10-11",
     "mode": "live",
-    "generatedAt": "2026-10-07T18:43:02.146Z",
-    "postsCollected": 27,
+    "generatedAt": "2026-10-11T17:33:59.963Z",
+    "postsCollected": 28,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -41,6 +41,38 @@
       ]
     },
     {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "stage": "emerging",
+      "score": 68,
+      "confidence": 58,
+      "youthRelevance": 75,
+      "velocity": -10,
+      "evidence": "9 public posts · 1 network · 7-day comparison",
+      "citations": [
+        {
+          "title": "Grey herringbone tailoring layered with a patterned Fair Isle knit and a green padded vest. A blue O",
+          "url": "https://mastodon.social/@seoul_trad/117408383753276199",
+          "network": "Mastodon"
+        },
+        {
+          "title": "A navy double-breasted blazer over a white OCBD and Fair Isle vest. A red-and-navy tie, grey wool tr",
+          "url": "https://mastodon.social/@seoul_trad/117403636287085194",
+          "network": "Mastodon"
+        },
+        {
+          "title": "A khaki sports jacket paired with dark blue jeans, a madras button-down and a black knit tie. A tote",
+          "url": "https://mastodon.social/@seoul_trad/117387085115357126",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Navy washed sports jacket over a white OCBD: neat on top, easy below with Uniqlo barrel jeans and br",
+          "url": "https://mastodon.social/@seoul_trad/117373941516991339",
+          "network": "Mastodon"
+        }
+      ]
+    },
+    {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
@@ -73,38 +105,6 @@
       ]
     },
     {
-      "id": "washed-tailoring",
-      "name": "Washed tailoring",
-      "stage": "emerging",
-      "score": 60,
-      "confidence": 56,
-      "youthRelevance": 67,
-      "velocity": -20,
-      "evidence": "8 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "A khaki sports jacket paired with dark blue jeans, a madras button-down and a black knit tie. A tote",
-          "url": "https://mastodon.social/@seoul_trad/117387085115357126",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Navy washed sports jacket over a white OCBD: neat on top, easy below with Uniqlo barrel jeans and br",
-          "url": "https://mastodon.social/@seoul_trad/117373941516991339",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Khaki washed jacket and two-tuck trousers, worn as a setup with an OCBD. The green goes in three pla",
-          "url": "https://mastodon.social/@seoul_trad/117368627826491756",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Clothing from our own label, RENACTS. An older outfit: navy blazer, white button-down, two-pleat chi",
-          "url": "https://mastodon.social/@seoul_trad/117357978067150530",
-          "network": "Mastodon"
-        }
-      ]
-    },
-    {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "27 observations"
+      "reason": "28 observations"
     },
     {
       "id": "bluesky",
