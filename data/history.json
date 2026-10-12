@@ -2763,6 +2763,38 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-12",
+      "mode": "live",
+      "displayDate": "OCT 12, 2026, 05:07 PM EDT",
+      "generatedAt": "2026-10-12T21:07:19.448Z",
+      "itemsCollected": 53,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 11
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 32,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -42783,6 +42815,589 @@
       "publishedAt": "2026-10-09T15:07:41.000Z",
       "collectedAt": "2026-10-11T17:33:48.881Z",
       "text": "KidSuper Is Bringing DC's Most Notorious Villains Into Its Universe Colm Dillane's world of KidSuper has never been about playing it safe. So, naturally, it makes sense that the Brooklyn-based designer would find some common ground with DC Comics' most notorious Super-Villains for his latest collaboration.Joining forces with DC and Warner Bros. Discovery Global Consumer Products, KidSuper is bringing eight of DC's most iconic Super-Villains into its colorful, hand-drawn universe for a new collection spanning apparel, home goods, and collectibles.The lineup includes The Joker, Catwoman, Poison Ivy, The Penguin, The Riddler, Mr. Freeze, Clayface, and Bane, each receiving their own take on KidSuper's signature Face Hoodie alongside collectibles inspired by their personalities. Included in the range is a Poison Ivy planter, Clayface bookends, a Riddler puzzle, and even a Penguin umbrella. The collection also features a heat-reactive Mr. Freeze puffer jacket and Catwoman trench coat.\"I always wanted KidSuper to become a real superhero character. And by working with DC and WBDGCP we are getting closer than ever,\" Dillane shares. \"It was really special to go through the archives and see the early sketches of some of the most iconic IPs ever created and to think they started off as doodles.\"To celebrate the release, KidSuper is bringing the collection to life through a \"Rogues Gallery\" activation in Brooklyn, featuring original artwork, objects, and installations. Open to the public from October 20–23, the collection will be available exclusively on-site before dropping online at KidSuper.com on October 23 at 12 p.m. Prices range from $15 USD to $850 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "56c32ac380c5f489",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The New Front Row: Who’s Who at New York, London, Milan, and Paris Fashion Week",
+      "url": "https://www.vogue.com/article/the-new-front-row",
+      "publishedAt": "2026-10-12T20:52:18.000Z",
+      "collectedAt": "2026-10-12T21:07:15.454Z",
+      "text": "The New Front Row: Who’s Who at New York, London, Milan, and Paris Fashion Week Vogue photographed 35 shows across fashion month to find out who’s sitting front row, from celebrities to influencers—and where they’re seated."
+    },
+    {
+      "id": "e8e1ceff3cfdee80",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Time to Take Magnesium This Fall, According to Experts",
+      "url": "https://www.vogue.com/article/the-best-time-to-take-magnesium-this-fall-according-to-the-experts",
+      "publishedAt": "2026-10-12T20:30:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.454Z",
+      "text": "The Best Time to Take Magnesium This Fall, According to Experts Approximately 45% to 50% of people in the US are magnesium deficient. Vogue explores when—and why—to consider supplementing."
+    },
+    {
+      "id": "8e0fb6004670ae5d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vive Le Ballet! Matthieu Blazy’s Chanel Lights Up the Stage at the Opéra Garnier",
+      "url": "https://www.vogue.com/slideshow/opening-night-ballet-gala-paris-opera-garnier",
+      "publishedAt": "2026-10-12T20:20:59.000Z",
+      "collectedAt": "2026-10-12T21:07:15.454Z",
+      "text": "Vive Le Ballet! Matthieu Blazy’s Chanel Lights Up the Stage at the Opéra Garnier On Saturday night, le Tout-Paris gathered at the Opéra Garnier for the opening gala of the ballet season. The evening started by honoring tradition with a défilé set to Berlioz’s Marche des Troyens."
+    },
+    {
+      "id": "c4c76c4ab96890b3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Street Style Photos From the Spring 2027 Shows in Shanghai",
+      "url": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-shanghai",
+      "publishedAt": "2026-10-12T20:01:25.000Z",
+      "collectedAt": "2026-10-12T21:07:15.455Z",
+      "text": "The Best Street Style Photos From the Spring 2027 Shows in Shanghai Yumeng Zheng photographs the best dressed guests at the spring 2027 shows in Shanghai."
+    },
+    {
+      "id": "bbf71bfb7f66de10",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "LVMH’s Fashion Sales Fall 5% in Q3",
+      "url": "https://www.vogue.com/article/lvmhs-fashion-sales-fall-5-in-q3",
+      "publishedAt": "2026-10-12T19:53:27.000Z",
+      "collectedAt": "2026-10-12T21:07:15.455Z",
+      "text": "LVMH’s Fashion Sales Fall 5% in Q3 The luxury conglomerate’s overall sales, meanwhile, were up 1% in the quarter."
+    },
+    {
+      "id": "703077bfc39c77bc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Daisy Edgar-Jones Hops on the Graphic Tee Trend With a Vintage Deep Cut",
+      "url": "https://www.vogue.com/article/daisy-edgar-jones-graphic-tee-trend-vintage-chloe-2026-10-12",
+      "publishedAt": "2026-10-12T19:07:50.000Z",
+      "collectedAt": "2026-10-12T21:07:15.455Z",
+      "text": "Daisy Edgar-Jones Hops on the Graphic Tee Trend With a Vintage Deep Cut Daisy Edgar-Jones isn’t joining the throngs of celebrities in a “Spoiled Boys” tee or bootleg Knicks merch. Instead, she turned to Stella McCartney’s Chloé."
+    },
+    {
+      "id": "bff14f4d0e8ba5a6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Conor Kennedy and Giulia Be’s Three-Day Wedding Celebration in Rio de Janeiro",
+      "url": "https://www.vogue.com/slideshow/conor-kennedy-and-giulia-be-wedding",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.455Z",
+      "text": "Inside Conor Kennedy and Giulia Be’s Three-Day Wedding Celebration in Rio de Janeiro The bride, Giulia Be, wore Calvin Klein and Harris Reed to marry Conor Kennedy in a multi-day celebration around her Brazilian hometown."
+    },
+    {
+      "id": "fe6ebc4c603c6840",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kim Kardashian Brings the Va-Va-Vroom to F1 WAG Style",
+      "url": "https://www.vogue.com/article/kim-kardashian-singapore-wag-style-2026-10-12",
+      "publishedAt": "2026-10-12T15:53:36.000Z",
+      "collectedAt": "2026-10-12T21:07:15.455Z",
+      "text": "Kim Kardashian Brings the Va-Va-Vroom to F1 WAG Style Be it a body-conscious Cavalli cheongsam or a sheer Alaïa dress, Kim Kardashian will always find a way to bring her personal brand of sex appeal to her WAG style."
+    },
+    {
+      "id": "1a8bde00b7cd947b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Tried the Skin-Tightening XERF Treatment",
+      "url": "https://www.vogue.com/article/i-tried-xerf",
+      "publishedAt": "2026-10-12T15:30:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.455Z",
+      "text": "I Tried the Skin-Tightening XERF Treatment The latest K-beauty skin treatment to arrive in the US is XERF. Here is what it’s like."
+    },
+    {
+      "id": "74a1b7dccd222442",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Pronounce Pre-Fall 2027",
+      "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/pronounce",
+      "publishedAt": "2026-10-12T21:02:35.000Z",
+      "collectedAt": "2026-10-12T21:07:15.455Z",
+      "text": "Pronounce Pre-Fall 2027 "
+    },
+    {
+      "id": "b71efa152058a2b9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Staffonly Shanghai Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/staffonly",
+      "publishedAt": "2026-10-12T21:02:35.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "Staffonly Shanghai Spring 2027 "
+    },
+    {
+      "id": "4c81173444158165",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Yirantian Shanghai Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/yirantian",
+      "publishedAt": "2026-10-12T21:02:35.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "Yirantian Shanghai Spring 2027 "
+    },
+    {
+      "id": "9c76445ef3afdcaa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 18 Best Hair Trends for a Fall 2026 Refresh",
+      "url": "https://www.vogue.com/article/fall-2026-hair-trends",
+      "publishedAt": "2026-10-12T13:30:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "The 18 Best Hair Trends for a Fall 2026 Refresh From fringe bangs to the classic bob—hairstylists to celebrities weigh in on the fall 2026 hair trends."
+    },
+    {
+      "id": "f9640792d828879c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Tariffs Are Testing Indie Retail",
+      "url": "https://www.vogue.com/article/how-tariffs-are-testing-indie-retail",
+      "publishedAt": "2026-10-12T12:30:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "How Tariffs Are Testing Indie Retail Data suggests independent retailers can adapt to tariff shifts faster than larger chains, but duties, shipping terms, supplier trust and thin margins limit that agility."
+    },
+    {
+      "id": "258586f3d9dbf3b8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Exclusive First Look: When Marc Quinn Made Kate Moss Into a Monument",
+      "url": "https://www.vogue.com/article/kate-by-marc-quinn-book-preview",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "Exclusive First Look: When Marc Quinn Made Kate Moss Into a Monument “‘Siren’ is what collective belief looks like when it hardens into gold,” Raven Smith writes in the introduction to “Kate by Marc” from Idea Books."
+    },
+    {
+      "id": "3e5bdad860aa5e25",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Shoe and Skirt Combination Sweeping the Street-Style Scene This Month",
+      "url": "https://www.vogue.com/article/pencil-skirt-and-pointed-shoe-outfits",
+      "publishedAt": "2026-10-12T10:30:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "The Shoe and Skirt Combination Sweeping the Street-Style Scene This Month There was one outfit combination that swept the street style scene this fashion month; pencil skirts and pointed pumps. Here are 7 outfits to try."
+    },
+    {
+      "id": "3ba4eaefb6b17a27",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 16 Best Airbnbs in New England Include Cozy Cabins & Coastal Retreats",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-new-england",
+      "publishedAt": "2026-10-12T10:00:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "The 16 Best Airbnbs in New England Include Cozy Cabins & Coastal Retreats Planning a trip to the Northeast this season? Stay in one of the best Airbnbs in New England—our list of favorites covers every state (and style)."
+    },
+    {
+      "id": "7f5288e314d1ea9b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue’s Fall Travel Capsule Wardrobe Essentials",
+      "url": "https://www.vogue.com/article/travel-capsule-wardrobe",
+      "publishedAt": "2026-10-12T10:00:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "Vogue’s Fall Travel Capsule Wardrobe Essentials From walking shoes to lightweight layers, here's everything you need for your fall travel capsule wardrobe."
+    },
+    {
+      "id": "44fed3486fcecdcf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why is Kim Jones Launching His Eponymous Brand in Hong Kong?",
+      "url": "https://www.vogue.com/article/why-is-kim-jones-launching-his-eponymous-brand-in-hong-kong",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "Why is Kim Jones Launching His Eponymous Brand in Hong Kong? After an illustrious career designing for Louis Vuitton, Dior, and Fendi, Kim Jones is launching his eponymous brand via a standalone store at Hong Kong’s anticipated harborfront development, Central Yards."
+    },
+    {
+      "id": "3ee3a9c3688564a1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Luxury’s Third-Quarter Earnings Cheat Sheet",
+      "url": "https://www.vogue.com/article/luxury-s-third-quarter-earnings-cheat-sheet",
+      "publishedAt": "2026-10-12T04:30:00.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "Luxury’s Third-Quarter Earnings Cheat Sheet Will Q3 mark a low point for luxury in China? Will the slowdown in the US come to an end in the holiday period? Analysts weigh in with their predictions."
+    },
+    {
+      "id": "99ffdfa590969f1b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Halloween Nails, According to Celebrity Nail Artists",
+      "url": "https://www.vogue.com/article/best-halloween-nails-2026",
+      "publishedAt": "2026-10-11T23:37:30.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "The Best Halloween Nails, According to Celebrity Nail Artists Spooky designs, cat-eye finishes, and stiletto shapes, oh my! Vogue finds the best Halloween nail designs to inspire your next set."
+    },
+    {
+      "id": "7c4b478e372fe9f0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Ultimate Guide on How to Find Your Undertone",
+      "url": "https://www.vogue.com/article/how-to-determine-skin-undertone",
+      "publishedAt": "2026-10-11T21:13:54.000Z",
+      "collectedAt": "2026-10-12T21:07:15.456Z",
+      "text": "The Ultimate Guide on How to Find Your Undertone The hardest part of shade matching any makeup product is figuring out how to determine your skin undertone. Here, the experts break down how to find your undertone and how to use that info to find the right beauty products."
+    },
+    {
+      "id": "4b9d471bd64d41b7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "thisisneverthat Loves When Clothes Are Just Clothes",
+      "url": "https://www.highsnobiety.com/p/thisisneverthat-campaign/",
+      "publishedAt": "2026-10-12T18:09:00.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "thisisneverthat Loves When Clothes Are Just Clothes thisisneverthat's FW26 campaign is even more personable without any people, because sometimes the best stuff can stand on its own."
+    },
+    {
+      "id": "b9333d5795eceaa5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Tabi Surf Boot Finally Gets on Board",
+      "url": "https://www.highsnobiety.com/p/vans-surf-bootie-3-mm/",
+      "publishedAt": "2026-10-12T16:12:06.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "Vans’ Tabi Surf Boot Finally Gets on Board Vans' tabi-style Surf Bootie 3 MM is a typical Vans shredder made for the water."
+    },
+    {
+      "id": "e0c5e5c19202d8b1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "FYI, Merino Wool Looks Pretty Good Outside Its Usual Habitat",
+      "url": "https://www.highsnobiety.com/p/icebreaker-merino-wool-best-picks/",
+      "publishedAt": "2026-10-12T14:55:36.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "FYI, Merino Wool Looks Pretty Good Outside Its Usual Habitat icebreaker’s merino wool collection brings comfort and performance from city streets to wide-open landscapes, wherever the day takes you."
+    },
+    {
+      "id": "ac76ade0d652cc7b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Ginori 1735 Serves Up Good Fortune",
+      "url": "https://www.highsnobiety.com/p/ginori-1735-serves-up-good-fortune/",
+      "publishedAt": "2026-10-12T13:45:08.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "Ginori 1735 Serves Up Good Fortune Ginori 1735 has designed a whole collection that turns well-wishing into an art."
+    },
+    {
+      "id": "b0ddfb3a691e3f42",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Luxe Runner Comes Out of Its (Tortoise) Shell",
+      "url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-sneaker-tortoise-shell/",
+      "publishedAt": "2026-10-12T08:49:16.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "Nike’s Luxe Runner Comes Out of Its (Tortoise) Shell With Nike's \"Tortoise Shell\" Zoom Vomero 5 sneaker, the Swoosh is the star of the show."
+    },
+    {
+      "id": "3e4be364906d162b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance Came in a Typically Grown-Up Halloween Costume",
+      "url": "https://www.highsnobiety.com/p/new-balance-2010-halloween/",
+      "publishedAt": "2026-10-12T09:32:47.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "New Balance Came in a Typically Grown-Up Halloween Costume Diverging from its usual reserved aesthetic for a rare thematic drop, the Boston brand unleashes the New Balance 2010 Halloween."
+    },
+    {
+      "id": "2e19aa2c42bb6a3a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
+      "url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/",
+      "publishedAt": "2026-10-12T09:40:11.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "UGG’s Waterproof Slippers Can Handle Winter's Worst UGG releases the Tasman Guard GTX shoe, a waterproof winterized slip-on with Vibram soles & mudguards."
+    },
+    {
+      "id": "dad090d4064db71a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Textured Chocolate Jordan Has Us Feeling Peckish",
+      "url": "https://www.highsnobiety.com/p/nike-jordan-skyline-low-le/",
+      "publishedAt": "2026-10-12T08:47:15.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "Nike’s Textured Chocolate Jordan Has Us Feeling Peckish Nike’s Air Jordan Skyline Low LE gets a rich, chocolate-inspired makeover, pairing creamy neutrals with textured brown details for an easy fall-ready sneaker."
+    },
+    {
+      "id": "f72dd6e405324096",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Junya Watanabe’s New Balance Basketball Shoe Is So Fresh (Foam), So Clean",
+      "url": "https://www.highsnobiety.com/p/junya-watanabe-new-balance-p400/",
+      "publishedAt": "2026-10-12T09:30:53.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "Junya Watanabe’s New Balance Basketball Shoe Is So Fresh (Foam), So Clean Junya Watanabe MAN releases its dressy FW26 New Balance P400 basketball sneaker in all-black & all-white colorways."
+    },
+    {
+      "id": "bccd8c2d0d378712",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Elegant Wild-West Jordan Sneaker Is the New Sheriff in Town",
+      "url": "https://www.highsnobiety.com/p/jordan-4-bin-23-sneakers/",
+      "publishedAt": "2026-10-12T08:45:23.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "This Elegant Wild-West Jordan Sneaker Is the New Sheriff in Town The Air Jordan 4 \"Bin 23\" is a Western-themed take on the signature sneaker, complete with never-before-seen luxurious details."
+    },
+    {
+      "id": "d32ea6424ef55970",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jordan's Ice-Cold Hoops Shoe Is a New Kind of 'Space Jam' Sneaker",
+      "url": "https://www.highsnobiety.com/p/jordan-41-space-jam/",
+      "publishedAt": "2026-10-12T08:43:48.000Z",
+      "collectedAt": "2026-10-12T21:07:16.800Z",
+      "text": "Jordan's Ice-Cold Hoops Shoe Is a New Kind of 'Space Jam' Sneaker The Air Jordan 41 has officially joined the \"Space Jam\" universe, landing in the 30th anniversary collection in an icy \"Light Base Grey\" colorway."
+    },
+    {
+      "id": "4cd9e5296c6929a3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "CMF’s First Speakers Are Built Around Color, Modularity and Portability",
+      "url": "https://hypebeast.com/2026/10/cmf-by-nothing-portable-speaker-series-s-m-release-info",
+      "publishedAt": "2026-10-12T13:00:46.000Z",
+      "collectedAt": "2026-10-12T21:07:18.190Z",
+      "text": "CMF’s First Speakers Are Built Around Color, Modularity and Portability Summary CMF debuts its first portable speakers with the Speaker S and Speaker M.Both models feature modular designs, swappable panels, Stereo Mode and Auracast-powered Party Mode.Prices start at $59 USD, with sales beginning today. CMF by Nothing is expanding into portable audio for the first time with the Speaker S and Speaker M, a two-model lineup that carries the brand’s geometric, modular design language into a new category.The pair establishes the foundation of its audio range with two scales of the same visual idea: Speaker S is a compact, upright model designed to slip into a bag or clip onto a strap or carabiner, while Speaker M enlarges the format into a more substantial desktop or room speaker with an integrated handle. Both are offered in White, Dark Grey, Orange and Turquoise, with CMF’s characteristically playful use of color amplified by swappable front panels and control knobs. Standardized 3D-printable component designs also let users create their own replacements or visual variations, extending the customization approach seen across CMF’s broader product philosophy.The two speakers are differentiated less by styling than by scale and output. Speaker S uses a single 45 mm full-range driver with dual passive radiators for a lighter, more portable setup, while Speaker M steps up to a dual-driver architecture with a dedicated woofer and tweeter for greater separation, deeper bass and a fuller room-filling sound. Both incorporate Adaptive Tuning, which continuously adjusts playback and EQ at the hardware level, alongside Ultra Bass, Wide Soundstage and four selectable EQ presets through the Nothing X app. For multi-speaker setups, two matching units can be paired into true left-and-right Stereo Mode, while Auracast-powered Party Mode can synchronize playback across multiple compatible speakers, including supported models from other brands.Despite the more expressive styling, CMF has kept the interaction deliberately straightforward. A tactile knob handles playback, track navigation, volume and Ultra Bass, while dedicated controls cover power, Bluetooth pairing and Auracast. Connectivity includes Bluetooth 6.0, NFC tap-to-pair, Google Fast Pair, Microsoft Swift Pair and USB-C audio, while both models carry an IP68 rating and offer up to 18 hours of playback at 50% volume with Ultra Bass enabled. The CMF Speaker S is priced at $59 USD, while the larger Speaker M retails for $"
+    },
+    {
+      "id": "8ea9b6810b22d1b2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Everything Dropping at Palace This Week",
+      "url": "https://hypebeast.com/2026/10/palace-skateboards-winter-2026-drop-2-release-info",
+      "publishedAt": "2026-10-12T11:30:07.000Z",
+      "collectedAt": "2026-10-12T21:07:18.190Z",
+      "text": "Everything Dropping at Palace This Week Summary Palace Skateboards continues its Winter 2026 season with a drop led by a Caravaggio ShirtOuterwear and layering pieces include the Pertex Squared Jacket and the Thermal Bonded Hoodie across multiple colorwaysThe release rolls out on October 16 in the UK, Europe and the US before reaching Asia-Pacific the following day Palace Skateboards has unveiled the latest drop from its Winter 2026 collection, headlined by the Caravaggio Shirt and backed by a lineup of cold-weather layers. The release balances an art-referencing statement piece with practical outerwear, knitwear and denim built for the season.The Caravaggio Shirt that features \"Saint Jerome Writing\" leads the callouts, listed alongside the P90 Baggy Jean, a jacket and a plate. The name nods to the Italian Baroque painter known for his dramatic use of light and shadow, continuing Palace’s habit of pulling high-culture references into its streetwear offering.On the technical side, the Pertex Squared Jacket arrives in Army Green, Black and Navy. Pertex is a performance fabric brand recognized for lightweight, weather-resistant materials, positioning the jacket as one of the drop’s more function-focused pieces. The Thermal Bonded Hoodie offers the widest color range in the release, available in Black, Grey Marl, Racey Green and Woodprint. Knitwear comes via the Hairy Tiger Knit, offered in Blue, Grey and Orange.The Palace Skateboards Winter 2026 drop launches Friday, October 16, at 11:00 a.m. BST in the UK, Europe and the US, followed by Saturday, October 17, at 11:00 a.m. local time in Japan, China, Korea and Australia. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6dabc13163e48c78",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Naruto TCG Sets June 2027 Worldwide Launch",
+      "url": "https://hypebeast.com/2026/10/naruto-card-game-tcg-studio-pierrot-animated-trailer-release-info",
+      "publishedAt": "2026-10-12T10:35:12.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Naruto TCG Sets June 2027 Worldwide Launch Summary The Naruto Card Game is set for a simultaneous worldwide launch in June 2027.Launch products include three pre-constructed Starter Decks and the first Booster Pack, Enter: Naruto Uzumaki!A global campaign in spring 2027 will distribute one million Demo Decks to introduce the game. Bandai Card Games has confirmed that the Naruto Card Game will launch simultaneously worldwide in June 2027, revealing the release window during New York Comic Con alongside a new teaser featuring original artwork by Studio Pierrot, the animation studio behind the Naruto anime.The teaser received its public premiere during the NYCC presentation, building on the trading card game’s initial world debut at Gen Con 2026 and placing the franchise’s familiar ninja imagery at the center of its latest promotional push. At launch, players will be able to choose between three pre-constructed Starter Decks led by Naruto Uzumaki, Sasuke Uchiha and Gaara, each built around its own Leader, lineup of ninjas and strategic play style. The first Booster Pack, titled Enter: Naruto Uzumaki!, will arrive alongside them with additional characters, techniques and cards drawn from both Naruto and Naruto Shippuden, with newly created card illustrations also unveiled during the presentation.Bandai is also planning an extensive lead-up to the global release, beginning with Premier Demo Events at participating TCG stores from February 2027, followed by a spring campaign distributing one million Demo Decks worldwide to introduce players to the game’s mechanics and “ninja-style mind games.” The events will additionally offer advance access to an Official Playmat featuring Naruto versus Sasuke and the Premium Card Collection Vol.00 – CHAKRA Set, with select products also appearing at Bandai Card Games Fest events in Orlando and London. Further details on the Naruto TCG are scheduled to be revealed at Jump Festa 2027 in December. Read more at Hypebeast"
+    },
+    {
+      "id": "b571b09fad06cb0e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Supreme and Martine Rose Team up for Fall 2026 Collaborative Collection",
+      "url": "https://hypebeast.com/2026/10/supreme-martine-rose-fall-2026-collaboration-collection-release-info",
+      "publishedAt": "2026-10-12T10:30:10.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Supreme and Martine Rose Team up for Fall 2026 Collaborative Collection Summary Supreme has collaborated with London-based designer Martine Rose on a comprehensive collection for Fall 2026The apparel and accessories range includes a Jeff Hamilton Shearling Coat, Patchwork Leather items, and a custom JBL speakerThe release features an exclusive Nike Dunk Low made specifically for Supreme and Martine Rose Supreme has officially unveiled its Fall 2026 collaborative collection with designer Martine Rose. The expansive apparel, footwear, and hardware capsule marks a major partnership between the New York streetwear staple and the London fashion label.The Fall 2026 range centers on heavy outerwear and statement tailoring, anchored by a Jeff Hamilton Shearling Coat alongside a Patchwork Labels Leather Jacket and matching 5-Pocket Leather Jean. Additional outerwear and track options include a Lined Cordura® Hooded Jacket, a Suede Zip Up Cardigan, a Metallic Stripe L/S Shirt, and co-branded Track Jackets with matching Track Pants.Rounding out the apparel selection are athletic tops and graphic layers, including a Hockey Jersey, a Rugby shirt, a Zip Up Hooded Sweatshirt, and two T-shirts titled the Now Tee and Champion Tee. Headwear and hardware showcase a Patchwork Labels Box Logo New Era®, Jacquard and Base Layer Beanies, a Shearling Mini Duffle Bag, and a custom Supreme/Martine Rose JBL Partybox Encore Essential 2 speaker. The collection is completed by a co-branded Nike Dunk Low silhouette engineered exclusively for the release.The Supreme x Nike Fall 2026 collection releases on October 15, via the official Supreme webstore and flagship locations, with an Asia release following shortly after on October 17. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4dcb826604369fb3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "TAG Heuer Marks 10 Years of Oracle Red Bull Racing With a Team-Themed Solargraph",
+      "url": "https://hypebeast.com/2026/10/tag-heuer-formula-1-solargraph-oracle-red-bull-racing-38mm-wby111f-ba0042-release-info",
+      "publishedAt": "2026-10-12T10:15:26.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "TAG Heuer Marks 10 Years of Oracle Red Bull Racing With a Team-Themed Solargraph Summary TAG Heuer marks 10 years with Oracle Red Bull Racing via a 38mm edition.The $2,250 USD steel watch features a blue, red, and yellow dial.A solar-powered TH50-00 movement runs 10 months per charge TAG Heuer is celebrating 10 years of partnership with Oracle Red Bull Racing with a new Formula 1 Solargraph special edition, translating the team’s familiar racing colors into the brand’s compact, motorsport-rooted sports watch. The relationship dates back to 2016 and has since produced a succession of collaborative timepieces tied to Red Bull Racing’s rise through the modern Formula 1 era.For the anniversary release, TAG Heuer turns to the 38mm Formula 1 Solargraph, itself rooted in the brightly colored Formula 1 watches that introduced a younger audience to Swiss watchmaking during the 1980s. The new edition combines that retro-informed silhouette with contemporary solar-powered technology, positioning the watch as both a celebration of the partnership’s first decade and a more youthful expression of TAG Heuer’s racing identity.Oracle Red Bull Racing’s palette dominates the design, led by a blue sunray-brushed dial surrounded by a vivid red minute track and matched with a blue TH-Polylight bidirectional bezel. A yellow lacquered central seconds hand and matching outline around the 3 o’clock date window introduce another flash of team color, while black lacquered hour and minute hands and applied indexes are filled with white Super-LumiNova that glows green in low light. The 38mm sandblasted stainless-steel case brings a matte, technical finish to the brighter dial treatment and is paired with a three-row steel bracelet fitted with a folding clasp and adjustment extension.On the other side, the solid steel caseback combines the Oracle Red Bull Racing logo with a checkered-flag motif, reinforcing the motorsport connection without adding further branding to the already vibrant dial. The watch is powered by the Caliber TH50-00 Solargraph movement, which uses natural and artificial light to recharge its battery. Exposing the dial to direct sunlight for one minute provides enough power for a full day of operation, and a full charge of 40 hours yields up to ten months of continuous running time in total darkness. Packaged in a custom box reflecting the team's visual identity, the TAG Heuer Formula 1 Solargraph x Oracle Red Bull Racing is available through the brand's website and b"
+    },
+    {
+      "id": "cf18b1c9e62e9e8f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Trettitre’s Retro Audio System Puts Three Generations of Music on One Wall",
+      "url": "https://hypebeast.com/2026/10/trettitre-ttt-series-retro-wall-mounted-ambient-audio-system-kickstarter-campaign-info",
+      "publishedAt": "2026-10-12T10:01:03.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Trettitre’s Retro Audio System Puts Three Generations of Music on One Wall Summary Trettitre’s Retro system combines vinyl, CD and cassette players on a magnetic wall rack.Each player blends nostalgic physical controls with modern Bluetooth connectivity.The $529 USD system follows a Kickstarter campaign backed by over 5,300 supporters. Trettitre is bringing physical music formats back into view with its new Retro Wall-Mounted Ambient Audio System, a modular setup that turns vinyl, CDs and cassettes into part of the room rather than equipment to be hidden away.Built around the idea that each generation formed a different relationship with recorded music, the system brings together the TTT-LP3 vinyl player, TTT-DP3 CD player and TTT-CP3 cassette player alongside a dedicated smartphone slot for streaming. All three players attach magnetically to the TTT-W wall rack, creating a clean, gallery-like composition that spans several decades of listening culture.Each component interprets its respective format through a different retro-futurist lens while sharing a common mix of geometric forms, plastic and metal construction. The LP3 can be mounted vertically or horizontally, pairing an Audio-Technica cartridge with a self-balancing tonearm that automatically manages tracking pressure, while a diffused rear light panel allows the player to double as ambient illumination. Its wireless charging connection with the rack also keeps visible cabling to a minimum.The circular DP3, meanwhile, takes inspiration from the UFO imagery associated with 1990s and early-2000s pop culture, using a transparent magnetic cover to keep the spinning disc visible alongside raised tactile controls and a compact OLED screen. The CP3 takes a more utilitarian route, retaining the chunky mechanical buttons associated with traditional cassette players while adding Bluetooth connectivity. All three units are battery-powered and can be removed from the rack for use elsewhere in the room, extending the system beyond its wall-mounted presentation.The project also reflects a broader shift in Trettitre’s design language from simply referencing vintage audio equipment to rethinking how those formats can function within contemporary interiors. Wireless connectivity sits alongside deliberately analog interactions - lowering a stylus, inserting a disc or physically pressing a cassette key - allowing the system to retain the rituals associated with each medium without recreating vintage hardware wholesale"
+    },
+    {
+      "id": "f921051807092a8d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Blade Runner 2099' Trailer Returns to a Reborn Los Angeles With Michelle Yeoh and Hunter Schafer",
+      "url": "https://hypebeast.com/2026/10/prime-video-blade-runner-2099-michelle-yeoh-hunter-schafer-official-trailer-release-info",
+      "publishedAt": "2026-10-12T09:52:48.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "'Blade Runner 2099' Trailer Returns to a Reborn Los Angeles With Michelle Yeoh and Hunter Schafer Summary Prime Video has premiered the official trailer for its sci-fi sequel series 'Blade Runner 2099' at New York Comic ConMichelle Yeoh and Hunter Schafer star as an unlikely duo navigating a reborn Los Angeles 50 years after 'Blade Runner 2049'All eight episodes of the Ridley Scott-produced limited series land on the platform on November 25 Prime Video has officially unveiled the first trailer for Blade Runner 2099 at New York Comic Con. The eight-episode limited series acts as a direct continuation set 50 years after the events of Denis Villeneuve's 2017 feature Blade Runner 2049.Created and showrun by Silka Luisa, the narrative takes place in a reborn Los Angeles. The story centers on fugitive Cora, played by Hunter Schafer, who adopts a final identity as a Blade Runner and is forced into a partnership with Olwen, a near-death Replicant portrayed by Michelle Yeoh. Together, the duo must hunt down a runaway harboring a secret that threatens to collapse the entire city.Rooted in Philip K. Dick's 1968 novel Do Androids Dream of Electric Sheep?, the series is executive produced by original franchise director Ridley Scott alongside Alcon Entertainment. Jonathan van Tulleken serves as an executive producer and directed the first two episodes of the season.All eight episodes of Blade Runner 2099 premiere November 25, 2026, exclusively on Prime Video. Watch the trailer above. Read more at Hypebeast"
+    },
+    {
+      "id": "e5d76e7241ac752c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Crocs Gives ‘Chainsaw Man’ Four Wildly Different Classic Clogs",
+      "url": "https://hypebeast.com/2026/10/chainsaw-man-crocs-classic-clog-collection-chainsaw-man-213925-90h-power-213926-90h-pochita-213928-90h-characters-213927-90h-release-info",
+      "publishedAt": "2026-10-12T09:52:25.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Crocs Gives ‘Chainsaw Man’ Four Wildly Different Classic Clogs Name: ‘Chainsaw Man’ x Crocs Classic Clog CollectionMSRP: $70 - $80 USDRelease Date: October 27Where to Buy: CrocsCrocs is bringing the chaotic visual world of Chainsaw Man to the Classic Clog with a four-style collection centered on Denji/Chainsaw Man, Power, Pochita and the wider cast.The main Chainsaw Man pair takes the most aggressive approach, dressing the clog in vivid red with black and yellow graphic striping, jagged black blade-like elements running along the upper and tooth-like detailing around the forefoot. Black tooling and a dark heel strap ground the saturated finish, while Chainsaw Man and Pochita Jibbitz charms add another character-driven layer. Power’s edition shifts into a dusty blue upper contrasted by cream tooling splashed with blood-red graphics and a red outsole. Translucent red chain detailing crosses the vamp, while the fuzzy white heel strap is finished with Power’s signature horns, giving the design a deliberately theatrical mix of texture and color.The Pochita Classic Lined Clog is the most sculptural of the set, recreating the character through a bright orange body with graphic eyes, a chainsaw blade rising from the toe and a pull-cord-inspired tail wrapping around the sole. Orange fuzzy lining continues the character’s warm palette into the interior, while black and metallic-looking details sharpen the chainsaw motif.In contrast, the Characters Classic Clog uses a predominantly black foundation as a canvas for imagery of Denji, Pochita, Power, Makima and Aki, with scattered red splatter effects and darker graphic details wrapping around the sole. Five character-themed Jibbitz charms further layer the printed design, giving it more of an all-over manga/anime collage effect than the character-specific pairs. All four styles retain the familiar Crocs formula of lightweight construction, ventilation ports and pivoting heel straps, though the Pochita version swaps to the Classic Lined Clog for a softer, insulated build. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c3844c3475d1d63a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JJJJound Reimagines the New Balance 990v3 With an All-Suede Construction",
+      "url": "https://hypebeast.com/2026/10/jjjjound-new-balance-990v3-tan-suede-official-release-date-revealed",
+      "publishedAt": "2026-10-12T09:20:25.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "JJJJound Reimagines the New Balance 990v3 With an All-Suede Construction Summary JJJJound and New Balance have unveiled an all-suede iteration of the MADE in USA 990v3 silhouetteThe collaborative sneaker completely removes traditional mesh underlays for a full monochromatic suede upperThe pair features contrasting black outsoles trims and branding and is scheduled to release on October 22 JJJJound and New Balance have officially presented the collaborative New Balance MADE in USA 990v3 in suede, revealing the official release date. The upcoming collaboration reimagines the iconic running silhouette through a singular material expression, replacing its standard mesh construction with a premium, all-suede finish.Designed to explore how the heritage running silhouette feels when constructed entirely in suede, the project eliminates traditional mesh underlays to give the sneaker a more elevated character. By substituting the usual mesh base for a full monochromatic suede upper, the release introduces a new material language to the partnership's ongoing MADE in USA lineup.The monochromatic upper is offset by contrasting black outsoles, trims, and signature branding details, delivering a sharper, more understated profile. Operating at the intersection of luxury materials and athletic heritage, the shoe balances the familiar proportions of a Made in USA performance runner with an elevated design approach.The JJJJound x New Balance MADE in USA 990v3 in suede releases on October 22, 2026, via JJJJound. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "453a4faa8c480645",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Sasuke Uchiha Inspires Absolutely Ridiculous' Latest ‘Naruto’ RARE Edition Baseball Glove",
+      "url": "https://hypebeast.com/2026/10/naruto-absolutely-ridiculous-sasuke-baseball-glove-collaboration-release-info",
+      "publishedAt": "2026-10-12T09:19:18.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Sasuke Uchiha Inspires Absolutely Ridiculous' Latest ‘Naruto’ RARE Edition Baseball Glove Summary Naruto and Absolutely Ridiculous collaborate on a Sasuke Uchiha-inspired baseball glove.Limited to 125 examples, the RARE Edition glove retails for $499 USD.The collection also features a matching softball glove and Akatsuki-themed protective gear. The world of Naruto is stepping onto the baseball diamond as sports equipment label Absolutely Ridiculous (ARiA) introduces an officially licensed collaboration inspired by Sasuke Uchiha.Part of the brand's RARE Edition series, the collectible baseball glove transforms the iconic shinobi's identity into a piece of functional sporting equipment, bridging Japanese anime culture with the craftsmanship of professional-grade baseball gear. Rather than treating the glove as conventional merchandise, the release reflects ARiA's approach to wearable sports art, where distinctive designs are intended for both competitive play and display. The Sasuke-inspired glove is limited to just 125 examples, positioning it as an exclusive release for collectors and fans of Masashi Kishimoto's celebrated manga and anime franchise.Limited to 125 units, the Sasuke RARE Edition softball glove, priced at $499 USD, alongside a selection of Akatsuki Clouds protective equipment, is avaiable via Absolutely Ridiculous' website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b6159c5e90a14f33",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Rudo Gloves Up for GEEKS RULE’s New 'Gachiakuta' Collaboration",
+      "url": "https://hypebeast.com/2026/10/geeks-rule-gachiakuta-collaboration-collection-release-info",
+      "publishedAt": "2026-10-12T09:12:56.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Rudo Gloves Up for GEEKS RULE’s New 'Gachiakuta' Collaboration Summary GEEKS RULE has created two 'Gachiakuta' T-shirts, a Manga Version and an Anime Version, each tied to a different side of the seriesBoth are made with the Japanese label’s signature silkscreen process for a worn-in, vintage-style finishThe tees debut at KODANSHA HOUSE 2026 in New York ahead of a lottery release in Japan GEEKS RULE has teamed up with Gachiakuta on a pair of silkscreen-printed T-shirts celebrating the manga series and its TV anime adaptation. The collection splits into a Manga Version built around creator Kei Urana’s original artwork and an Anime Version featuring a fresh visual of protagonist Rudo, giving fans a choice between the page and the screen.The Manga Version centers on a dense, high-impact illustration by Urana showing the series’ bandaged hands. Within the Gachiakuta world, the wrapped hands carry real weight, standing for the connections, powers and bonds that drive the story, which makes them an apt single image for the graphic. The design is printed on both White and Black bodies.The Anime Version shifts focus to the adaptation. Its graphic is an official visual of Rudo, newly illustrated by the anime’s character designer Satoshi Ishino to mark the series’ jump to TV, showing the hero locked in mid-motion as he pulls his treasured gloves tight. Above him sits a street-art logo created by the manga’s own graffiti artist, a nod to the graffiti culture woven through the series. This version comes only in Black.Both shirts run through GEEKS RULE’s silkscreen printing process, which the label uses to give its graphic tees the texture and character of a well-worn vintage shirt rather than a flat, fresh-off-the-press print.The GEEKS RULE x Gachiakuta T-shirts pre-release worldwide on October 15 at KODANSHA HOUSE 2026 in New York, Kodansha’s brand-experience pop-up running October 9 through October 18 in Hudson Yards. Admission is free, though some areas require a reservation or lottery entry. A lottery release will follow in Japan via the GEEKS RULE online store at a later date.GEEKS RULE x Gachiakuta Pop-Up508 W 37th StreetNew York City Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ad8291790cfe0c07",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nicolas Cage Refuses AI Waiver on 'Spider-Noir' and Vows to Cut Ties With Amazon",
+      "url": "https://hypebeast.com/2026/10/nicolas-cage-refuses-ai-waiver-spider-noir-vows-cut-ties-with-amazon-revealed",
+      "publishedAt": "2026-10-12T09:03:41.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Nicolas Cage Refuses AI Waiver on 'Spider-Noir' and Vows to Cut Ties With Amazon Summary Nicolas Cage revealed at New York Comic-Con that he refused to sign an AI waiver for Prime Video's Spider-NoirThe actor criticized Amazon's investments in artificial intelligence and stated he will likely avoid working with the studio againCage championed handcrafted filmmaking with Gen Z directors while confirming plans for 'True Detective' Season 5 Nicolas Cage has taken a public stand against artificial intelligence, confirming he refused to sign an AI waiver for Prime Video's Spider-Noir. Speaking at a New York Comic-Con panel, the actor revealed that his refusal to grant digital likeness rights means he will likely not work with Amazon again due to the company being \"very AI-friendly.\"Addressing the entertainment industry's growing reliance on generative technology, Cage directly cited Amazon's massive financial backing of artificial intelligence as the catalyst for his decision. “How do you survive AI?” Cage stated. “Amazon is a very AI-friendly company to the tune of 50 billion dollars invested in OpenAI. I am not an AI-friendly actor….I’m not a member of their club. I didn’t sign the waiver to let them use AI on Spider-Noir. I’m probably not going to be working with that studio again, but that’s okay.”Rather than embracing automated studio workflows, Cage emphasized his intention to collaborate with emerging Gen Z creators who produce films by hand. Between upcoming feature roles like Perish, the actor also confirmed plans to stay active in television, teasing that he is set to star in Season 5 of HBO's True Detective. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9098a287881e4191",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Seiko’s Latest Marinemaster Draws From Okinawa’s Mangrove Forests",
+      "url": "https://hypebeast.com/2026/10/seiko-prospex-marinemaster-1968-heritage-save-the-ocean-hbf003-release-info",
+      "publishedAt": "2026-10-12T08:52:00.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Seiko’s Latest Marinemaster Draws From Okinawa’s Mangrove Forests Seiko is revisiting one of the most important chapters in its dive-watch history with the new Prospex Marinemaster 1968 Heritage Save the Ocean Limited Edition, a 900-piece release inspired by Okinawa’s mangrove forests. The model draws directly from Seiko’s landmark 1968 Diver’s watch - the world’s first hi-beat diver - preserving the broad case silhouette and professional-tool character while introducing a more expressive color palette. Its deep green dial is paired with rose gold-colored accents, creating a warmer, more refined contrast that references the dense coastal ecosystems where land and sea meet.Functionally, the watch remains firmly rooted in Seiko’s professional diving lineage. The case retains the original model’s streamlined profile and signature 4 o’clock crown, alongside a unidirectional rotating bezel, LumiBrite detailing and 300 meters of water resistance in accordance with ISO diving standards. Inside sits Seiko’s Calibre 8L45, delivering accuracy of +10/-5 seconds per day and a 72-hour power reserve, while the bracelet is fitted with a three-fold clasp, push-button release and slide adjuster for practical use over a wetsuit or on the wrist.The Prospex Marinemaster 1968 Heritage Save the Ocean Limited Edition is restricted to 900 pieces worldwide, positioning it as one of the more exclusive contemporary Marinemaster releases. Official pricing is set at £3,300 GBP (approx. $4,370 USD), it's currently available to order through the Seiko Boutique website, with deliveries scheduled to begin in November 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "546f9cfc3a2eda79",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Air Max Goadome Low Goes Bold in “Yellow Croc”",
+      "url": "https://hypebeast.com/2026/10/nike-air-max-goadome-low-yellow-croc-vivid-sulfur-black-iv4517-700-release-info",
+      "publishedAt": "2026-10-12T08:51:43.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "The Nike Air Max Goadome Low Goes Bold in “Yellow Croc” Name: Nike Air Max Goadome Low “Yellow Croc”Colorway: Vivid Sulfur/BlackSKU: IV4517-700MSRP: $175 USDRelease Date: October 15Where to Buy: NikeNike continues to reshape the rugged Air Max Goadome for lifestyle wear with a new low-top “Yellow Croc” edition, officially dressed in a \"Vivid Sulfur/Black\" color palette. The upper is almost entirely wrapped in vivid yellow leather embossed with a pronounced crocodile pattern, giving the traditionally utilitarian silhouette a much more polished, statement-driven character.A glossy finish emphasizes the raised scales across the toe box, side panels and heel, while smoother perforated leather around the collar adds a subtle change in texture. Tonal stitching and laces keep the upper visually cohesive, leaving a small black Swoosh near the lateral heel and the dark interior lining to provide the strongest contrast against the saturated yellow.Underfoot, the design shifts abruptly into black through the substantial Air Max midsole, visible cushioning and rubber outsole, grounding the bright upper while preserving the Goadome’s heavy-duty proportions. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b987051f5c47f26b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Michelin-Starred Andō and Wana Yook Unite for a Two-City “Fire & Water” Collaboration",
+      "url": "https://hypebeast.com/2026/10/ando-wana-yook-collaboration-menu-event-michelin-star-chef-agustin-ferrando-balbi-chalee-kader-hong-kong-bangkok-thailand-info-2",
+      "publishedAt": "2026-10-12T08:42:35.000Z",
+      "collectedAt": "2026-10-12T21:07:18.191Z",
+      "text": "Michelin-Starred Andō and Wana Yook Unite for a Two-City “Fire & Water” Collaboration Summary Michelin-starred Andō and Bangkok’s Wana Yook partnered for a \"Fire & Water\" collaboration.Following a sold-out Hong Kong leg, the exchange moves to Bangkok on October 15, 2026.The menu pairs Thai heat with Andō’s signature ocean-inspired seafood dishes. Following its two-night Hong Kong run last week, Andō x Wana Yook is preparing to take the second chapter of its two-city collaboration to Bangkok on October 15, 2026. The exchange brings together Andō founder and Executive Chef Agustin Ferrando Balbi and Wana Yook’s Thai-Indian chef and co-owner Chalee Kader, pairing two Michelin-starred restaurants whose cooking is closely tied to personal history and place.Framed around “Fire & Water,” the concept assigns fire to Kader’s bold use of heat, spice and aromatics in Thai cooking, while Balbi responds through water — seafood, citrus, chilled preparations and oceanic flavors informed by Andō’s Japanese-leaning precision. Rather than forcing the two approaches into a single style, the collaboration is conceived as a dialogue between them. After debuting at Andō in Hong Kong, the exchange concludes at Wana Yook in Bangkok on October 15, with prices starting at ฿5,900 THB (approx. $176 USD) per guest.The Hong Kong event offered a preview of that conversation, opening with Wana Yook’s Kao Soi, layering herbs and crisp textures around a beef curry, before Andō answered with a tart of kinmedai, lemon gel, uni and baby basil. Kader’s Kung Chae Naam Pla paired amaebi with turmeric, lime, chilli, pomelo and bitter gourd, while Balbi countered its heat with cured buri, citric panna cotta and ginger-lime granita.Later courses moved between Wana Yook’s warming Tom Jiw of Scallops and Andō’s crisp-scaled Coral Grouper with Seaweed, Crêpe and Maitake, before the two approaches converged around rice: coconut rice accompanied Wana Yook’s Melayu-influenced Curry Tumis and Hormok Morel, the latter stuffing morels with fish mousse and red curry paste. Desserts continued the exchange with Andō’s Air Chocolate, Coconut and Dulce de Leche, followed by Wana Yook’s taro-filled Bua Loy and Andō’s fig and ricotta tart.The collaboration also reflects the distinct identities the two restaurants have developed independently. Wana Yook, set inside a century-old Bangkok house, builds its contemporary Thai tasting menus around regional recipes and khao gaeng, the everyday tradition of eating rice wi"
+    },
+    {
+      "id": "03256ee7b56f8fd3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kim Jones Announces Eponymous Label With FW27 Debut Collection",
+      "url": "https://hypebeast.com/2026/10/kim-jones-announces-eponymous-label-with-fw27-debut-collection-hong-kong-store-opening-news",
+      "publishedAt": "2026-10-12T08:35:40.000Z",
+      "collectedAt": "2026-10-12T21:07:18.192Z",
+      "text": "Kim Jones Announces Eponymous Label With FW27 Debut Collection Summary Kim Jones OBE has officially announced his self-titled label KIM JONES debuting with a Fall/Winter 2027 collectionThe apparel lineup will be predominantly manufactured in Japan alongside Italian-made leather goods at a considered price pointRetail distribution begins online in mid-2027 followed by the brand's first flagship store opening at Central Yards in Hong Kong in October 2027 Kim Jones has officially announced the launch of his brand KIM JONES, marking the return to his own eponymous label with a debut Fall/Winter 2027 Collection. Building on over two decades leading global luxury fashion houses—including artistic director tenures at Louis Vuitton, Dior Men, and Fendi—the standalone label introduces a new independent chapter for the British designer.Designed with versatility at its core, the collection offers a broad wardrobe unrestricted by traditional menswear or womenswear categories. The apparel range is predominantly manufactured in Japan to uphold precision craftsmanship, while the leather goods line is produced in Italy. Positioned at a considered price point, the label combines street culture fluency, heritage utility, and high-fashion tailoring.“After many years working with incredible houses and collaborators, it feels like the right moment to do something under my own name again,” stated Kim Jones OBE. “This brings together the things I’ve always been interested in — fashion, art and design — and gives me the space to work with people I admire and explore new ideas.”The physical launch strategy centers heavily on the Asian market following its global digital debut. The brand's physical retail rollout will be anchored by its first brick-and-mortar storefront at Central Yards in Hong Kong, followed by additional store openings across Asia and partnerships with selected global stockists.The KIM JONES Fall/Winter 2027 collection launches mid-2027 exclusively via kimjones.com, followed by the flagship store opening at Central Yards in Hong Kong in October 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "733ae77a0cd51029",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'The Social Reckoning' Flops With Dismal $5.5 Million Box Office Debut",
+      "url": "https://hypebeast.com/2026/10/sony-pictures-the-social-reckoning-flops-5-million-box-office-debut",
+      "publishedAt": "2026-10-12T08:25:56.000Z",
+      "collectedAt": "2026-10-12T21:07:18.192Z",
+      "text": "'The Social Reckoning' Flops With Dismal $5.5 Million Box Office Debut Summary Aaron Sorkin’s Facebook drama 'The Social Reckoning' opened in fifth place with a disappointing $5.5 million USD debutBlumhouse horror feature 'Other Mommy' led the North American box office with a $27.5 million USD premiere'The Social Reckoning' fell short of projections and the box office legacy of 2010’s The Social Network Sony Pictures and director Aaron Sorkin’s The Social Reckoning opened to a disappointing $5.5 million USD at the North American box office, crumbling into fifth place during its opening weekend. The R-rated Facebook drama fell short of its $7 million to $8 million USD projections.Written and directed by Sorkin, The Social Reckoning serves as a companion piece to 2010’s The Social Network. Starring Mikey Madison as a Facebook engineer leaking internal documents to a reporter played by Jeremy Allen White, the $30 million USD production struggled to incentivize theatergoers, earning a mixed 54% Rotten Tomatoes score and a \"B-\" CinemaScore. In comparison, the original 2010 David Fincher film opened to $22 million USD before grossing $224 million USD globally.Meanwhile, Universal and Blumhouse’s horror feature Other Mommy, starring Jessica Chastain, claimed the weekend's top spot with a $27.5 million USD domestic debut and $45.19 million USD worldwide total against an $18 million USD budget. Other box office holdovers included Tom Cruise’s $160 million USD satire Digger, which plummeted 60% in its second weekend to $3.2 million USD, alongside Amazon MGM’s Verity and Sony’s Resident Evil reboot.The Social Reckoning and Other Mommy are currently playing in theaters nationwide. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "12b69fb786f09b3b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Arkadia-Life’s $30,000 USD Porsche 911-Inspired Sofa Is Basically a Sports Car With a Fridge",
+      "url": "https://hypebeast.com/2026/10/arkadia-life-p01-classic-porsche-sofa-release-info",
+      "publishedAt": "2026-10-12T08:09:38.000Z",
+      "collectedAt": "2026-10-12T21:07:18.192Z",
+      "text": "Arkadia-Life’s $30,000 USD Porsche 911-Inspired Sofa Is Basically a Sports Car With a Fridge Summary Arkadia-Life’s P01 Classic Sofa takes its design cues from 1960s GT sports cars, right down to bug-eye headlights and chrome bumpersA lift-up rear lid and opening fenders reveal seven storage compartments, including a refrigerator and wine storageA UK-made SENSONUM audio system, ambient lighting and knock-sensing controls are built into the bodywork Arkadia-Life’s P01 Classic Sofa is a single-seat lounger built to look like a vintage sports car, and it’s packed with more hidden features than most living rooms. The design brand, which keeps a showroom in Shanghai and credits Italian master artisans for its work, draws on what it calls “legendary iconic automobiles” under its “The One and Always” philosophy, turning a classic coupe silhouette into a collectible piece of furniture.The car references run deep. Round bug-eye headlights and amber indicators sit up front, slim chrome bumpers wrap the body, and twin exhaust tips peek out beneath an engraved rear plaque. Arkadia-Life only ever cites 1960s GT sports cars as its inspiration, but the long-hood proportions read unmistakably like an early Porsche 911. The paint list adds to the case: GT Silver and Jet Green come standard, while Miami Blue, Crayon and Speed Yellow cost extra.The seat itself is upholstered in channel-quilted cowhide, pleated like a vintage bucket seat and offered in eight leather colors. Despite the “sofa” name, it holds just one person.Storage is where the P01 earns its keep. The rear lid lifts on small prop rods, much like an old engine cover, to reveal seven compartments. Inside are a refrigerator measuring 8.7 x 13.4 x 5.5 inches, wine storage, adjustable cup holders and a wireless charging pad. Both rear fenders also swing open into drawers sized for watches and model cars, a detail that makes the target buyer pretty clear.Sound runs through a UK-made SENSONUM system that pairs a professional amplifier and subwoofer with 13 speakers for surround-style playback. It streams over Bluetooth, and a dedicated app lets owners tune the sound to taste. Rather than buttons, the P01 is controlled through five knock-sensing panels built into the bodywork, a setup Arkadia-Life bills as an industry first. Multicolor ambient lighting glows from beneath the side sills and can shift to suit the room’s mood, and the system is rated at 500W.Arkadia-Life says the chair brings together hundreds of precisi"
+    },
+    {
+      "id": "02c7b2e6bada7943",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Pokémon and Santa Cruz Announce 30th Anniversary Blind-Bag Skateboard Collection",
+      "url": "https://hypebeast.com/2026/10/pokemon-santa-cruz-30th-anniversary-blind-bag-skateboard-collection-release-info",
+      "publishedAt": "2026-10-12T08:08:01.000Z",
+      "collectedAt": "2026-10-12T21:07:18.192Z",
+      "text": "Pokémon and Santa Cruz Announce 30th Anniversary Blind-Bag Skateboard Collection Summary Pokémon and Santa Cruz have unveiled a blind-bag skateboard deck collection to celebrate Pokémon's 30th anniversaryThe release features 30 distinct deck designs inspired by iconic Pokémon Trading Card Game art and energy typesEach blind bag includes a limited-edition Player's Guide booklet showcasing 30 deck designs and 3 rare variations Pokémon and Santa Cruz have officially announced a 30th Anniversary Blind-Bag Skateboard Collection. Arriving in celebration of three decades of the iconic franchise, the collaboration introduces a series of random mystery decks inspired by classic Pokémon Trading Card Game (TCG) history.The blind-bag collection centers on 30 distinct skateboard deck designs, each incorporating original artwork from memorable Pokémon TCG cards spanning the past 30 years. Reimagined through Santa Cruz's skate heritage, the custom deck graphics emphasize core gameplay elements such as elemental energy types and character themes. Beyond the main deck lineup, the capsule also includes accompanying apparel and custom grip tape.Each randomly packaged skateboard deck arrives sealed alongside a limited-edition Pokémon Player's Guide booklet. The collectible guide details all 30 standard deck designs in the series while highlighting three rare chase variations hidden within the blind bags.The Pokémon x Santa Cruz 30th Anniversary Skateboard Collection drops on October 17, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "144bed207a1d232f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Google Japan’s New Gboard Conveyor Belt Keyboard Is a Wild One-Handed Typing Concept",
+      "url": "https://hypebeast.com/2026/10/google-japan-unveils-the-gboard-conveyor-belt-keyboard",
+      "publishedAt": "2026-10-12T07:45:46.000Z",
+      "collectedAt": "2026-10-12T21:07:18.192Z",
+      "text": "Google Japan’s New Gboard Conveyor Belt Keyboard Is a Wild One-Handed Typing Concept Summary Google Japan unveiled a conceptual conveyor belt keyboard mimicking a factory production lineThe joke prototype promotes the Gboard Android app and claims to reduce typing fatigueBlueprints, firmware and circuit diagrams are available as an open-source GitHub project Google Japan unveiled an unorthodox hardware concept, introducing the Gboard conveyor belt keyboard. Designed to operate like a localized factory production line right on a desk, the device reimagines traditional typing mechanics. Aesthetically, the sprawling peripheral resembles a hybrid between a standard office keyboard and a miniature fitness treadmill. According to an automated translation of the official Japanese press release, the rotating mechanism of the conveyor belt continuously loops so that the physical keys flow directly into the user's resting hand.A project blog post detailing the launch claims that this conveyor belt keyboard is designed for one-handed use. Rather than forcing the typist to stretch across a static board, Google claims that the design cuts down on typing fatigue. By relying on the motorized belt, the hardware allows users to wait for the correct keys to arrive directly under their fingertips rather than manually moving their hands to hunt them down.The stunt operates as an elaborate promotional joke intended to draw viral attention to Google's Gboard keyboard app for Android. Its release continues an annual Google Japan tradition of creating highly unusual, heavily engineered keyboard prototypes to hype the software.Unsurprisingly, the conveyor belt keyboard is not available for purchase as a mass-market commercial product. However, for those looking to manifest the joke in the physical world, Google made the blueprints for the keyboard available as a DIY project hosted on GitHub. The open-source GitHub repository containing all project files is named mozc-devices. To ensure that anyone can construct the peripheral, the GitHub release includes all circuit diagrams required to build the DIY keyboard from scratch. Furthermore, the repository provides the proprietary firmware source code required to run and operate the device. To keep everything accessible to the public, all DIY keyboard files and software are distributed on GitHub under an Apache-2.0 license. Click here to view full gallery at Hypebeast"
     }
   ]
 }

@@ -1,16 +1,16 @@
-# Fieldwork Daily Signal — 2026-10-11
+# Fieldwork Daily Signal — 2026-10-12
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Quiet performance
 
-**emerging · score 26 · confidence 22% · youth 46%**
+**emerging · score 32 · confidence 26% · youth 49%**
 
 Quiet performance is appearing across 1 independent public source.
 
-1 observation · 1 independent source · -67% seven-day velocity
+2 observations · 1 independent source · +0% seven-day velocity
 
-- [New Balance Waterproofed Its Cool Skate “Dunks”](https://www.highsnobiety.com/p/new-balance-numeric-480-gore-tex/) — Highsnobiety, Oct 10
+- [UGG’s Waterproof Slippers Can Handle Winter's Worst](https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/) — Highsnobiety, Oct 12
 
 ## Method note
 

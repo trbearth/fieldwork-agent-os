@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-10-11",
+    "id": "2026-10-12",
     "mode": "live",
-    "displayDate": "OCT 11, 2026, 01:33 PM EDT",
-    "generatedAt": "2026-10-11T17:33:50.139Z",
-    "itemsCollected": 59,
+    "displayDate": "OCT 12, 2026, 05:07 PM EDT",
+    "generatedAt": "2026-10-12T21:07:19.448Z",
+    "itemsCollected": 53,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 10
+        "count": 11
       },
       {
         "source": "Hypebeast",
@@ -30,37 +30,37 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 26,
-      "confidence": 22,
-      "youthRelevance": 46,
-      "direction": "down",
+      "score": 32,
+      "confidence": 26,
+      "youthRelevance": 49,
+      "direction": "flat",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
+      "whyNow": "2 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
-          "title": "New Balance Waterproofed Its Cool Skate “Dunks”",
+          "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
           "source": "Highsnobiety",
-          "date": "Oct 10",
-          "url": "https://www.highsnobiety.com/p/new-balance-numeric-480-gore-tex/"
+          "date": "Oct 12",
+          "url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Quiet performance",
-    "reason": "1 mention this week versus 3 in the prior seven-day window."
+    "reason": "2 mentions this week versus 2 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1011",
+    "code": "AUTO 1012",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "New Balance Waterproofed Its Cool Skate “Dunks”"
+      "UGG’s Waterproof Slippers Can Handle Winter's Worst"
     ]
   }
 }
