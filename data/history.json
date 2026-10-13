@@ -2795,6 +2795,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-13",
+      "mode": "live",
+      "displayDate": "OCT 13, 2026, 03:06 PM EDT",
+      "generatedAt": "2026-10-13T19:06:11.850Z",
+      "itemsCollected": 49,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 29
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 9
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 49,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -43398,6 +43435,545 @@
       "publishedAt": "2026-10-12T07:45:46.000Z",
       "collectedAt": "2026-10-12T21:07:18.192Z",
       "text": "Google Japan’s New Gboard Conveyor Belt Keyboard Is a Wild One-Handed Typing Concept Summary Google Japan unveiled a conceptual conveyor belt keyboard mimicking a factory production lineThe joke prototype promotes the Gboard Android app and claims to reduce typing fatigueBlueprints, firmware and circuit diagrams are available as an open-source GitHub project Google Japan unveiled an unorthodox hardware concept, introducing the Gboard conveyor belt keyboard. Designed to operate like a localized factory production line right on a desk, the device reimagines traditional typing mechanics. Aesthetically, the sprawling peripheral resembles a hybrid between a standard office keyboard and a miniature fitness treadmill. According to an automated translation of the official Japanese press release, the rotating mechanism of the conveyor belt continuously loops so that the physical keys flow directly into the user's resting hand.A project blog post detailing the launch claims that this conveyor belt keyboard is designed for one-handed use. Rather than forcing the typist to stretch across a static board, Google claims that the design cuts down on typing fatigue. By relying on the motorized belt, the hardware allows users to wait for the correct keys to arrive directly under their fingertips rather than manually moving their hands to hunt them down.The stunt operates as an elaborate promotional joke intended to draw viral attention to Google's Gboard keyboard app for Android. Its release continues an annual Google Japan tradition of creating highly unusual, heavily engineered keyboard prototypes to hype the software.Unsurprisingly, the conveyor belt keyboard is not available for purchase as a mass-market commercial product. However, for those looking to manifest the joke in the physical world, Google made the blueprints for the keyboard available as a DIY project hosted on GitHub. The open-source GitHub repository containing all project files is named mozc-devices. To ensure that anyone can construct the peripheral, the GitHub release includes all circuit diagrams required to build the DIY keyboard from scratch. Furthermore, the repository provides the proprietary firmware source code required to run and operate the device. To keep everything accessible to the public, all DIY keyboard files and software are distributed on GitHub under an Apache-2.0 license. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6c32559222e3de5e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Keri Russell’s Fall Tailoring Is a Who’s Who of It Brands",
+      "url": "https://www.vogue.com/article/keri-russell-fall-tailoring-it-brands-2026-10-13",
+      "publishedAt": "2026-10-13T18:50:08.000Z",
+      "collectedAt": "2026-10-13T19:06:07.395Z",
+      "text": "Keri Russell’s Fall Tailoring Is a Who’s Who of It Brands While Keri Russell isn’t the ambassador she plays on television, these impeccably tailored looks definitely mean business."
+    },
+    {
+      "id": "dc4d708180d9af78",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Need Fall Fashion Inspo? These Six Stars Are Nailing Cozy-Chic",
+      "url": "https://www.vogue.com/article/fall-fashion-celebrities-outfit-inspiration-11-12-2026",
+      "publishedAt": "2026-10-13T18:43:24.000Z",
+      "collectedAt": "2026-10-13T19:06:07.396Z",
+      "text": "Need Fall Fashion Inspo? These Six Stars Are Nailing Cozy-Chic From Jennifer Lawrence to Zendaya, allow these stylish A-listers to inspire your next fall outfit."
+    },
+    {
+      "id": "91d7113bb200fc99",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Everything We Know So Far About Greta Gerwig’s ‘Narnia: The Magician’s Nephew’",
+      "url": "https://www.vogue.com/article/everything-we-know-so-far-about-greta-gerwig-narnia",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.396Z",
+      "text": "Everything We Know So Far About Greta Gerwig’s ‘Narnia: The Magician’s Nephew’ The film is set to be released in theaters on February 12, 2027, and on Netflix April 2, 2027. (Early screenings in IMAX will begin on February 10.)"
+    },
+    {
+      "id": "143653654c31bc45",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How French Ballet Dancer Hugo Marchand Kicked Off His Dance Season",
+      "url": "https://www.vogue.com/article/hugo-charmand-paris-ballet-dancer-diary-10-13-2026",
+      "publishedAt": "2026-10-13T16:08:15.000Z",
+      "collectedAt": "2026-10-13T19:06:07.396Z",
+      "text": "How French Ballet Dancer Hugo Marchand Kicked Off His Dance Season The principle dancer chose a leather Hermès jumpsuit for the 2026 Paris Opera Ballet Gala. “I felt absolutely at ease wearing it. I like that it is a bit disruptive,” he says."
+    },
+    {
+      "id": "8baf0c9518fdcb4e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Oude Waag Shanghai Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/oude-waag",
+      "publishedAt": "2026-10-13T19:03:54.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "Oude Waag Shanghai Spring 2027 "
+    },
+    {
+      "id": "ab82f86b2314fff0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Getting Booked: Here’s What 5 Models Read Backstage During the Spring 2027 Season",
+      "url": "https://www.vogue.com/article/getting-booked-what-models-read-backstage-spring-2027",
+      "publishedAt": "2026-10-13T14:00:12.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "Getting Booked: Here’s What 5 Models Read Backstage During the Spring 2027 Season Five models let us in on what they read backstage, from a Sally Rooney heartbreaker to a nearly 90-year-old play, and stories that remind these globetrotters of homes on other continents."
+    },
+    {
+      "id": "78b70d6da6d2c5d1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Celine Belt to Prada Purple, These Were the Street Style Trends of the Spring 2027 Ready-to-Wear Shows",
+      "url": "https://www.vogue.com/article/from-the-celine-belt-to-prada-purple-these-were-the-street-style-trends-of-the-spring-2027-ready-to-wear-shows",
+      "publishedAt": "2026-10-13T13:24:40.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "From the Celine Belt to Prada Purple, These Were the Street Style Trends of the Spring 2027 Ready-to-Wear Shows Colorblocking, cummerbunds, and Celine were just some of the street style trends of the spring 2027 season."
+    },
+    {
+      "id": "b14c21d0496c0b33",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Bad Bunny’s Stylists Designed Travel Bags—Modeled by Benito Himself",
+      "url": "https://www.vogue.com/article/bad-bunny-stylists-moynat-travel-bags-10-13-2026",
+      "publishedAt": "2026-10-13T12:35:53.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "Bad Bunny’s Stylists Designed Travel Bags—Modeled by Benito Himself The jet-setter bags, made in collaboration with Moynat, take inspiration from Storm Pablo and Marvin Douglas Linares’s world travels."
+    },
+    {
+      "id": "3e64e7fa158e0456",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Calling All Boho Babes—These 6 Haircuts Are Trending This Fall",
+      "url": "https://www.vogue.com/article/boho-haircuts-fall-2026",
+      "publishedAt": "2026-10-13T11:30:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "Calling All Boho Babes—These 6 Haircuts Are Trending This Fall Experts weigh in on how to find the perfect boho hairstyle for you."
+    },
+    {
+      "id": "c5cf1a94d828a841",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "22 Thoughts I Had About Season 13, Episode 8 of ‘American Horror Story’",
+      "url": "https://www.vogue.com/article/22-thoughts-i-had-about-season-13-episode-8-of-american-horror-story",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "22 Thoughts I Had About Season 13, Episode 8 of ‘American Horror Story’ Okay, Alex Consani is serving a look that I hope doesn’t get any entrails on it."
+    },
+    {
+      "id": "2f672cee04867d0d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "14 Best Airbnbs in Costa Rica, From Cabins in Monteverde to Nosara’s Beachfront Properties",
+      "url": "https://www.vogue.com/article/best-airbnbs-costa-rica",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "14 Best Airbnbs in Costa Rica, From Cabins in Monteverde to Nosara’s Beachfront Properties Whether you want to be at the foot of the Arenal Volcano or immersed Monteverde’s cloud forest, these are the best Airbnbs in Costa Rica to book your stay."
+    },
+    {
+      "id": "99412800054f47b2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rosalind Eleazar on the Making of ‘Misty Green’",
+      "url": "https://www.vogue.com/article/rosalind-eleazar-misty-green-interview",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "Rosalind Eleazar on the Making of ‘Misty Green’ In the library of A24’s glassy offices in New York, Vogue chatted with Eleazar about fashion, working with Chris Rock, and the loathsome but inevitable process of auditioning over Zoom."
+    },
+    {
+      "id": "4da2bd73d2edbebb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "On the Podcast: Bowen Yang Wants Cher to Come See ‘Oh, Mary!’",
+      "url": "https://www.vogue.com/article/on-the-podcast-bowen-yang-wants-cher-to-come-see-oh-mary",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "On the Podcast: Bowen Yang Wants Cher to Come See ‘Oh, Mary!’ Vogue has been a fan of Cole Escola’s “Oh, Mary!” since before the play opened on Broadway. Now, 10 Marys in, Bowen Yang has stepped into the lead role of Mary Todd Lincoln. He stopped by the studio to chat about it for this Tuesday’s episode of “The Run-Through.”"
+    },
+    {
+      "id": "42c38eb4e4fa042d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Op-Ed: AI Accountability Is the New Brand Equity",
+      "url": "https://www.vogue.com/article/op-ed-ai-accountability-is-the-new-brand-equity",
+      "publishedAt": "2026-10-13T09:53:07.000Z",
+      "collectedAt": "2026-10-13T19:06:07.397Z",
+      "text": "Op-Ed: AI Accountability Is the New Brand Equity From doomsday warnings to mounting social backlash, AI is becoming more divisive at the same time it’s becoming a bigger brand investment."
+    },
+    {
+      "id": "5085b291ed896478",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Is AI Face the New Instagram Face?",
+      "url": "https://www.vogue.com/article/is-ai-face-the-new-instagram-face",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.398Z",
+      "text": "Is AI Face the New Instagram Face? Just as fashion is using AI to mock up creative concepts, patients are using it to mock up their faces before cosmetic surgery. But when the brief is your own appearance, the gap between AI-generated vision and reality comes with much higher stakes."
+    },
+    {
+      "id": "a21586402c5709e5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Who Won Fashion Month SS27 on Social Media?",
+      "url": "https://www.vogue.com/article/who-won-fashion-month-ss27-on-social-media",
+      "publishedAt": "2026-10-13T04:30:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.398Z",
+      "text": "Who Won Fashion Month SS27 on Social Media? With less spectacle and fewer surprise celebrity cameos, this season’s front rows took a more traditional turn."
+    },
+    {
+      "id": "31b2ac5397631140",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?",
+      "url": "https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next",
+      "publishedAt": "2026-10-13T04:30:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.398Z",
+      "text": "Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next? With a revamped business, 16 years in, Veronica Beard’s founders aspire to build an American legacy brand with global recognition."
+    },
+    {
+      "id": "985ff3973cb5c9ce",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Am So Over Comics Who Simply Don’t Like Women",
+      "url": "https://www.vogue.com/article/i-am-so-over-comics-who-simply-dont-like-women-shane-gillis-snl-2026-10-12",
+      "publishedAt": "2026-10-12T21:24:33.000Z",
+      "collectedAt": "2026-10-13T19:06:07.398Z",
+      "text": "I Am So Over Comics Who Simply Don’t Like Women “I haven’t been to the gym in so long, I didn’t know women just dress like whores now,” said Shane Gillis in his opening monologue on “Saturday Night Live” over the weekend."
+    },
+    {
+      "id": "de268ed8fbddd8f9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Incense Perfumes For A Distinctive Autumnal Scent Trail",
+      "url": "https://www.vogue.com/article/best-incense-perfume",
+      "publishedAt": "2026-10-12T21:24:27.000Z",
+      "collectedAt": "2026-10-13T19:06:07.398Z",
+      "text": "The Best Incense Perfumes For A Distinctive Autumnal Scent Trail Depending on the composition, the best incense perfumes can be deep and powerful or light and almost velvety. Here, the best fragrances to shop by Arquiste, Matière Première, and more."
+    },
+    {
+      "id": "f817d8a9f80ae652",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At the Bourse de Commerce, Barbara Kruger Isn’t Mincing Words",
+      "url": "https://www.vogue.com/article/barbara-kruger-the-history-of-tears-remember-me-bourse",
+      "publishedAt": "2026-10-12T21:00:00.000Z",
+      "collectedAt": "2026-10-13T19:06:07.398Z",
+      "text": "At the Bourse de Commerce, Barbara Kruger Isn’t Mincing Words “Remember Me,” a exhibition of photographic works from the Pinault collection, is on view at the Bourse de Commerce in Paris until January 18, 2027."
+    },
+    {
+      "id": "bf80997db3fa549b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Croc ACG Boots Are a Different Breed",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-goadome-croc-vivid-sulfur/",
+      "publishedAt": "2026-10-13T18:57:55.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "Nike’s Croc ACG Boots Are a Different Breed Nike introduces a yellow croc skin version of its Air Max Goadome Low boots. Here's everything on the limited release."
+    },
+    {
+      "id": "540fe0122091e733",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "You Can Now Buy Yohji Yamamoto from The Row",
+      "url": "https://www.highsnobiety.com/p/the-row-galerie-yohji/",
+      "publishedAt": "2026-10-13T18:03:03.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "You Can Now Buy Yohji Yamamoto from The Row Is The Row's behind-the-scenes PR team reading the comments section? One new item in their “Galerie” suggests as much."
+    },
+    {
+      "id": "69737fb2ea18c03b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return",
+      "url": "https://www.highsnobiety.com/p/nikes-air-jordan-1-retro-high-og-royal-sneaker/",
+      "publishedAt": "2026-10-13T16:12:00.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return Nike's ultra-classic Royal Air Jordan 1 sneaker doesn't need on-court bravado to score."
+    },
+    {
+      "id": "9f3d2ac2518d4e24",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "One Good Hiking Sneaker That Dresses Up Better Than I Do",
+      "url": "https://www.highsnobiety.com/p/one-good-hiking-sneaker-diemme-vibram/",
+      "publishedAt": "2026-10-13T16:11:28.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "One Good Hiking Sneaker That Dresses Up Better Than I Do One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a swanky suede sneaker."
+    },
+    {
+      "id": "317438a030ee06a6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Disney and Golden Goose Want You to Make It Your Own",
+      "url": "https://www.highsnobiety.com/p/disney-and-golden-goose-want-you-to-make-it-your-own/",
+      "publishedAt": "2026-10-13T15:59:55.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "Disney and Golden Goose Want You to Make It Your Own Disney and Golden Goose have joined forces on a new capsule that brings Mickey & Friends into the Italian brand’s deliberately lived-in universe."
+    },
+    {
+      "id": "38603ab64a856f72",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Reebok and deadHYPE Put Berlin’s Creative Community in the Driver’s Seat",
+      "url": "https://www.highsnobiety.com/p/reebok-and-deadhype/",
+      "publishedAt": "2026-10-13T14:03:30.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "Reebok and deadHYPE Put Berlin’s Creative Community in the Driver’s Seat Reebok and deadHYPE brought Reebok Full Circle to Berlin and gave the tools to create to their community."
+    },
+    {
+      "id": "37808808ef47dd3a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Need a Suit? Ask Carter Young",
+      "url": "https://www.highsnobiety.com/p/carter-young-designer-interview/",
+      "publishedAt": "2026-10-13T13:56:14.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "Need a Suit? Ask Carter Young The London-based brand, started by two Americans, has become the most talked-about thing in menswear."
+    },
+    {
+      "id": "161f3e20366fcf30",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance Winterized Its Classic Mary Jane Sneaker",
+      "url": "https://www.highsnobiety.com/p/new-balance-mary-jane-winter-breeze/",
+      "publishedAt": "2026-10-13T08:02:41.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "New Balance Winterized Its Classic Mary Jane Sneaker New Balance just made a hybrid furry Mary Jane sneaker blend fit for the winter months."
+    },
+    {
+      "id": "548e928e8a1bb7a0",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Winterized Air Jordan Classic Has Mutated for Cold Weather",
+      "url": "https://www.highsnobiety.com/p/air-jordan-1-element-low-at/",
+      "publishedAt": "2026-10-13T07:58:08.000Z",
+      "collectedAt": "2026-10-13T19:06:09.074Z",
+      "text": "This Winterized Air Jordan Classic Has Mutated for Cold Weather Re-engineering Peter Moore's timeless low-top profile with weather-resistant armor, Jordan Brand introduces the Air Jordan 1 Element Low A/T."
+    },
+    {
+      "id": "7d79bec45f6e6882",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Even Realities’ Dystopian Sculptures Are Keeping a Watchful Eye on You",
+      "url": "https://hypebeast.com/2026/10/even-realities-human-surveillance-sculptures-info",
+      "publishedAt": "2026-10-13T18:04:46.000Z",
+      "collectedAt": "2026-10-13T19:06:10.581Z",
+      "text": "Even Realities’ Dystopian Sculptures Are Keeping a Watchful Eye on You Technology company Even Realities has launched new sculptures around central London as part of its latest installation, “The Watchers.” Revealing the chilling reality of camera glasses, the installation takes shape with CCTV-mounted heads featuring camera lenses. Despite being in the tech space, Even Realities has crafted digital glasses without cameras to fit naturally into human life without interfering with others in public. Its work has long been supported by ongoing data and medical professionals, so when new research from Focaldata came to light, stating that 81% of British people would support a ban on camera glasses, it delved deeper into the rising threats of the popular product.In an open letter calling for tighter control of smart glasses, Founder and CEO Will Wang shared, “Smart glasses don’t need cameras now. While there are benefits in how they enable devices to collate visual context, the privacy trade-offs, for both the user and those around them, mean cameras should never have progressed past the blueprint without proper guardrails.”Enhancing public awareness of camera glasses, \"The Watchers\" installation has been fitted on Berwick Street in London’s busy Soho area. Designed in collaboration with creative production studio The Robin Collective and special effects artist Will Harvey, each sculpture is made with 3D scanning, printing and live silicone castings for a hyper-realistic yet noticeably shocking appearance.To continue highlighting the dangers of intrusive filming, the company releases a short film showcasing the sculptures in everyday locations like pubs and gyms. The video illustrates how camera glasses leave no public space untouched, advocating for long-term regulatory measures.You can now watch the film in the gallery above. To find out more about the project, read the open letter online now. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "433b88ebae762c0b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JW Anderson Brings Loafer Details to Classic UGG Silhouettes",
+      "url": "https://hypebeast.com/2026/10/jw-anderson-ugg-collaboration-collection-release-info",
+      "publishedAt": "2026-10-13T16:05:53.000Z",
+      "collectedAt": "2026-10-13T19:06:10.581Z",
+      "text": "JW Anderson Brings Loafer Details to Classic UGG Silhouettes SummaryJW Anderson and UGG’s first collaboration updates the Classic Boot and Tasman with sophisticated penny loafer details.Launching October 15, the suede and fur-lined footwear features an autumnal color palette of Chestnut, Khaki, and Orange.In a first-time collaboration, JW Anderson and UGG have partnered for a collection that reimagines classic UGG silhouettes with sophisticated updates from designer Jonathan Anderson. Continuing Anderson’s tradition of bringing loafer-inspired details to different products, UGG’s Classic Boot and Tasman have been reimagined with distinct characteristics inspired by penny loafers.In a statement, Jonathan Anderson shared more insights on his approach: “UGGs are instantly recognisable, and I was interested in seeing something so familiar through the lens of JW Anderson.” “We’ve explored the loafer extensively at JW ANDERSON, not only as footwear but also through its details applied to bags and ready-to-wear. I wanted to see how that language could translate into UGG,” he added.While maintaining their iconic shape and comfy feel, the casual models are imbued with renewed elegance through penny keepers placed over the toe box and visible box stitching. Boasting full suede uppers and a furry white lining, the Classic Boot features a JW Anderson tag on the back heel, while the Tasman slides showcase the logo on the lateral collar. The release comes in an Autumnal palette of Chestnut, Khaki and Orange, hand selected by Anderson.While sneaker loafers have been in the menswear zeitgeist for the last couple of years, bringing sports-inspired performance details to the dress shoe style, JW Anderson takes the trend in a different direction. After bringing penny keeper details to his Loafer handbags, Anderson extends the concept to a collaboration that cleverly softens its loafer-inspiration rather than upping its technical appeal.The JW Anderson x UGG Classic Boots and Tasmans are set to drop on October 15 in stores and at JWANDERSON.COM. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3b189faa61c82969",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Oakley",
+      "url": "https://hypebeast.com/2026/10/new-arrivals-from-hbx-oakley-3",
+      "publishedAt": "2026-10-13T15:57:38.000Z",
+      "collectedAt": "2026-10-13T19:06:10.581Z",
+      "text": "New Arrivals From HBX: Oakley Brand Information: James Jannard founded Oakley in 1975 out of his garage with an initial investment of $300. It's based in Lake Forest, California, and a subsidiary of Italian company Luxottica based in Milan. The brand designs, develops, and manufactures sports performance equipment and lifestyle pieces, including sunglasses, sports visors, ski/snowboard goggles, watches, apparel, backpacks, shoes, optical frames, and other accessories. Most items are designed in-house at their head office, but some countries hold exclusive designs relevant to their market. Oakley currently has more than 600 patents for eyewear, materials, and performance gear.Price Range: $40.00 USD - $385.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ea6f13bbc96861ee",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Le Labo Expands Its Classic Candle Line With PAPYRUS 20",
+      "url": "https://hypebeast.com/2026/10/le-labo-expands-its-classic-candle-line-with-papyrus-20",
+      "publishedAt": "2026-10-13T14:00:22.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Le Labo Expands Its Classic Candle Line With PAPYRUS 20 Summary Le Labo unveils PAPYRUS 20, a Classic Candle honoring the ancient art of recording stories.Earthy cypriol and deep musk ground ephemeral ylang-ylang and warm labdanum.Hand-poured in a clear glass jar with Le Labo's iconic typewriter label. Le Labo turns the act of remembering into scent with PAPYRUS 20, the newest addition to its Classic Candle collection. Inspired by ancient civilizations pressing papyrus reeds into sheets capable of carrying stories across centuries, the fragrance explores a more elusive kind of preservation: memories that return through scent without warning.At its core is cypriol, a material historically associated with papyrus, bringing an earthy, dry and slightly root-like depth that feels almost like aged paper, soil and weathered wood. Against it, ylang-ylang introduces a fleeting floral softness, while warm labdanum lends an ambered, resinous glow and a musk accord settles into the background.The composition moves between something archival and something intangible — the imagined smell of an old manuscript warmed by sunlight, its pages carrying traces of earth and resin before the fragrance slowly dissolves back into the room. Le Labo describes PAPYRUS 20 as an ode to both what endures and what cannot be held, treating fragrance itself as an “archivist of the ephemeral.”Its presentation remains deliberately stripped back, allowing that tension between permanence and impermanence to continue visually. Priced at $92 USD, the 245-gram candle is hand-crafted in the U.S. using a high concentration of fragrance oils, a custom wax blend and natural-fiber wicks, housed in Le Labo’s familiar clear glass vessel with an apothecary-style personalized label. The accompanying kraft box repeats the same utilitarian typography and workshop-minded simplicity, giving the object the feeling of something catalogued, dated and stored away — almost like an archival specimen waiting to be rediscovered. For more details, head over to Le Labo’s online and offline stores. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0f57b61a8009d098",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Prada Gives the America’s Cup Sneaker an Autumnal Update",
+      "url": "https://hypebeast.com/2026/10/prada-gives-the-americas-cup-sneaker-an-autumnal-update",
+      "publishedAt": "2026-10-13T13:05:09.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Prada Gives the America’s Cup Sneaker an Autumnal Update Name: Prada America's Cup sneakerColorway: Teak/Blue, Cacao/BordeauxSKU: TBCMSRP: TBCRelease Date: October 13Where to Buy: PradaPrada revisits one of its most recognizable footwear silhouettes with a new release of the America’s Cup sneaker, introducing two colorways: “Teak/Blue” and “Cacao/Bordeaux.”Originally conceived in 1997 for the Luna Rossa sailing team, the model retains the streamlined, aerodynamic profile and technical sensibility that have defined it for nearly three decades. Staying true to the beloved original silhouette, the updated America's Cup sneaker maintains its distinctive, multi-layered construction. The upper showcases a dynamic interplay of textures, combining smooth, glossy patent leather overlays with highly breathable, technical textile mesh panels.While the aesthetic heritage and signature Linea Rossa heel branding remain completely intact, the footwear receives a significant modern upgrade underfoot with the introduction of an innovative, ultra-lightweight rubber sole. This technical enhancement ensures the shoe delivers superior modern comfort and everyday wearability without sacrificing the rugged, utilitarian charm that made the 1997 original a global streetwear staple.\"Teak/Blue\" pairs warm brown tones with cooler blue accents, while \"Cacao/Bordeaux\" shifts into a richer combination of deep chocolate brown and wine-red hues. Both treatments emphasize the sneaker’s distinctive interplay of textile and leather, using changes in material and tone to accentuate the curved paneling and elongated lines of the upper rather than dramatically altering the familiar shape. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6e6d8b4ccd8d656e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker",
+      "url": "https://hypebeast.com/2026/10/pokemon-apple-beats-pill-collaboration-release-info",
+      "publishedAt": "2026-10-13T13:00:42.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker Summary Beats and The Pokémon Company International have teamed up on a special-edition Pill speaker dressed in Pikachu’s electric yellow and a grayscale take on MimikyuA set of bespoke charms, interactive packaging and a color-matched lanyard round out the collectible designUnder the costume sits the standard Pill hardware, including USB-C lossless audio, up to 24 hours of playback and IP67 dust and water resistance Beats has joined forces with The Pokémon Company International on the special-edition Pokémon x Beats Pill, a portable Bluetooth speaker built around two fan-favorite Pokémon. Pikachu and Mimikyu share the spotlight across the speaker’s grill and body, pairing a high-voltage color story with a moodier monochrome counterpart.Both Pokémon appear on the speaker grill, with the front and back of the Pill split between two visual identities. Pikachu supplies the bright, unmistakable yellow, while Mimikyu is rendered in shades of gray, setting up a contrast between bold energy and quiet mystery. The duo is a fitting match, since Mimikyu is known in the games for disguising itself under a homemade Pikachu costume.The accessories mark a first for the line. This is the debut of charms on a Beats Pill, and the special edition includes a bespoke set featuring a Poké Ball, the Beats “b” logo and lightning bolts that nod to Pikachu’s signature move set. The packaging gets its own interactive design treatment as well, giving collectors a reason to hold onto the box.On the audio side, the Pill runs a custom acoustic system tuned for deep bass and sound big enough to fill a room. Plugging in via USB-C unlocks high-resolution lossless playback, and owners of two Pills can link them wirelessly in either Amplify Mode for more volume or Stereo Mode for left and right separation.The speaker is built to travel, with up to 24 hours of battery life and an IP67 rating against dust and water that makes it safe for the gym, the beach or a backyard. A removable lanyard matched to the colorway and a soft-grip silicone back make it easy to carry, and the included USB-C cable lets the Pill double as a power bank for a compatible phone.For Beats, the project is less about novelty and more about meeting an already devoted audience where it lives. “Pokémon Trainers are some of the most passionate in the world, and we saw an opportunity to channel that energy into something fun, unexpected, and created es"
+    },
+    {
+      "id": "9c9636cef44421ab",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Wrangler and ROA Reimagine Denim Workwear for FW26",
+      "url": "https://hypebeast.com/2026/10/wrangler-roa-second-collection-fall-winter-2026-collaboration-release-info",
+      "publishedAt": "2026-10-13T13:00:17.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Wrangler and ROA Reimagine Denim Workwear for FW26 Summary Wrangler and ROA reunite for their second collaboration, blending American denim heritage with Italian technical design.The FW26 capsule features denim cargos, hooded jackets and caps in two washes.Inspired by a Swedish lumberjack's training routines, the collection launches today. Wrangler and ROA are returning for a second collaboration for Fall/Winter 2026, continuing their exploration of the intersection between American denim heritage and Italian technical design. Building on their debut collection, the latest release revisits Wrangler's workwear roots through ROA's outdoor-oriented perspective, presenting a concise lineup designed around utility, durability and everyday versatility.The three-piece capsule comprises the Wrangler x ROA Denim Cargo, Denim Hooded Jacket and Denim 6 Panel Cap, each offered in two washes: Owl Dark and Owl Light. Together, the pieces establish a cohesive denim wardrobe that draws on traditional workwear while reflecting ROA's functional design sensibilities, with the contrasting washes offering different interpretations of the same utilitarian aesthetic.The collection's accompanying narrative takes inspiration from Edvin, a 26-year-old forestry teacher from Orsa, a small town in northern Sweden, as he prepares for a professional lumberjack championship. Rather than focusing on the competition itself, the story turns its attention to the discipline and routines that precede it, from training in the woods and maintaining equipment to sharpening axes, traveling and recovering between sessions.Through this perspective, the collaboration places the everyday realities of physical work and preparation at the center of its visual identity, reinforcing the relationship between purposeful clothing and the environments in which it is worn. The second Wrangler x ROA collection launches on October 13, 2026, and will be available online through ROA's official website and Wrangler.com. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a158994ad2fb445c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Breitling Gives Aston Martin Valhalla Owners Their Own Bespoke Super Chronomat",
+      "url": "https://hypebeast.com/2026/10/breitling-super-chronomat-b19-44-perpetual-calendar-automatic-38-aston-martin-valhalla-release-info",
+      "publishedAt": "2026-10-13T12:00:16.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Breitling Gives Aston Martin Valhalla Owners Their Own Bespoke Super Chronomat Summary Breitling opens a bespoke Super Chronomat program exclusively for Aston Martin Valhalla owners.Buyers can customize two Super Chronomat models with car-inspired colors and personal engravings.Options include a B19 perpetual calendar chronograph and 38mm diamond-set automatic. Breitling and Aston Martin have deepened their partnership with a highly exclusive bespoke program designed solely for owners of the Aston Martin Valhalla supercar. Reflecting the engineering and aerodynamic mastery of the limited-production, 1,079 PS hybrid Valhalla, Breitling has opened the design process of its distinctive Super Chronomat collection to these select clients. Through a dedicated configurator, owners can commission a timepiece that mirrors their individual vehicle specification and personal taste, merging the high-performance worlds of British automotive design and Swiss watchmaking.The bespoke program offers two distinct models for customization, the first being the Super Chronomat B19 44 Perpetual Calendar Chronograph. Housed in a 44mm titanium case on Breitling’s signature Rouleaux bracelet, this model boasts a complex automatic perpetual calendar chronograph movement that requires no major manual adjustments until the year 2100. It features a carbon-fiber dial, a 96-hour power reserve, and a display caseback that showcases a personalized rotor. Valhalla owners can further customize the timepiece by selecting from a range of exclusive colors for the rehaut, seconds hand, and counter hands.The second option is the Super Chronomat Automatic 38, which balances performance materials with a refined 38mm stainless-steel case and a diamond-set bezel. This three-hand automatic model also incorporates a textured carbon-fiber dial and offers customizable colors for the rehaut and hands, as well as a personalized caseback engraving. Both bespoke timepieces provide an unparalleled ownership experience, which is further enhanced by a complimentary five-year membership to the upcoming Breitling Social Club in New York, set to open in late 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5a5155b96dddd1c7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The 2027 Jeep Wrangler Switchback Debuts With Custom Look",
+      "url": "https://hypebeast.com/2026/10/2027-jeep-wrangler-switchback-debuts-with-custom-look",
+      "publishedAt": "2026-10-13T10:11:17.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "The 2027 Jeep Wrangler Switchback Debuts With Custom Look Summary Jeep drops the 2027 Wrangler Switchback, closing out its monthly \"Twelve 4 Twelve\" special edition campaignThe factory-built custom aesthetic features swapped doors and hoods in Gloss Black and Sting-Gray colorwaysOrders open in November with prices starting at $66,695 USD for the two-door Rubicon X-based configuration Jeep officially pulled the cover off the 2027 Jeep Wrangler Switchback, serving as the twelfth and final model in its yearlong special edition rollout. Closing out the brand's ambitious \"Twelve 4 Twelve\" campaign, which dropped one unique Wrangler iteration every month for an entire year, the Wrangler Switchback arrives with a heavy nod to custom off-road culture. The factory-produced contrasting colorway emulates a raw, aggressive look seen on owner-modified Wranglers. By leaning into an aesthetic where mismatched body panels are historically added to achieve a custom multicolored look or replace pieces damaged during off-roading, Jeep transforms a garage-repair necessity into a factory-backed statement piece.To achieve these contrasting color schemes on the factory floor, Jeep altered its standard manufacturing rhythm. The brand sequenced Gloss Black and Sting-Gray Wranglers to run sequentially down the assembly line. Line workers manually swapped the doors of consecutively sequenced vehicles during the production cycle. Factory workers later switched the hoods during the final upfitting process. This manufacturing sequence results in two distinct mismatched exterior configurations. One configuration features gray bodywork, contrasting black doors and a matching black hood. The second option flips that color scheme, producing Wranglers with black bodywork, contrasting gray doors and a gray hood.Beyond the panel swaps, the Wrangler Switchback features vibrant Gecko accents across its exterior. Bright hits of color appear on the front grille, exterior wheel rings, bold hood graphic and rear swing-gate decal. That attention to detail extends into the cabin, where the interior features premium nappa leather with contrasting Sea Salt accents. Custom Lime stitching runs throughout the interior alongside Switchback-exclusive graphics.Structurally, the Wrangler Switchback is based on the high-end Wrangler Rubicon X trim, ensuring the rugged visual aesthetic is backed by heavy-duty trail capability. Enthusiasts can order the limited special edition in classic two-door or expanded fou"
+    },
+    {
+      "id": "7a0be766d154ee9f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "MAAP and Mental Athletic Merge Technical Cycling Gear With Off-Bike Lifestyle Staples",
+      "url": "https://hypebeast.com/2026/10/maap-mental-athletic-collaboration-collection-lookbook-release-info",
+      "publishedAt": "2026-10-13T10:00:29.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "MAAP and Mental Athletic Merge Technical Cycling Gear With Off-Bike Lifestyle Staples Summary MAAP and Mental Athletic have announced a limited-edition collection bridging technical cycling apparel and off-bike garmentsThe technical lineup features the Pro Air Jersey 3.0 Team Bib Evo Cargo bibs and a new Lightweight Vest alongside casual hoodies and accessoriesThe capsule showcases vibrant electric green corrosive yellow and synthetic magenta tones releasing globally on October 15 Performance cycling apparel brand MAAP and independent sports culture platform Mental Athletic have officially announced a limited-edition capsule collection. Spanning technical cycling gear and off-bike lifestyle apparel, the project merges two distinct perspectives to explore performance, creativity, and contemporary bike culture.Shot on location across New York City, the accompanying campaign contrasts high-function apparel against the city’s unpredictable urban environment. Reinterpreting modern athletic identity, the collection features high-contrast shades of electric green, corrosive yellow, and synthetic magenta designed to stand out against visual background noise. The collaboration pushes back against seamless, algorithmic aesthetics, giving athletic performance a broader definition centered on attitude, physical commitment, and visual experimentation.The lineup reflects this duality across on-bike and off-bike offerings. On the bike, the technical capsule centers on the Pro Air Jersey 3.0 in both short and long-sleeve options, the Team Bib Evo Cargo bibs, a Mesh Short Sleeve Tee, and a brand-new Lightweight Vest. Off the bike, the lifestyle range includes a curated selection of hoodies, tees, caps, socks, and everyday accessories.The MAAP x Mental Athletic collection releases on October 15, 2026, via maap.cc, Mental Athletic, and MAAP LaB retail stores worldwide. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4345be399c7defeb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple Captures Record 22% Q3 Smartphone Market Share",
+      "url": "https://hypebeast.com/2026/10/apple-captures-record-22-q3-smartphone-market-share",
+      "publishedAt": "2026-10-13T09:57:25.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Apple Captures Record 22% Q3 Smartphone Market Share Summary Apple captured a record 22% of the global smartphone market in the third quarter of 2026Worldwide smartphone shipments plummeted 20% year-over-year to hit a 14-year lowAn ongoing memory crisis and rising device prices forced brands to prioritize profit over sheer volume Apple just carved out its largest third-quarter slice of the global smartphone market in history, defying a brutal industry-wide slump. According to a newly released report from Counterpoint Research, worldwide smartphone shipments plummeted 20% year-over-year during the third quarter of 2026. The severe double-digit drop pushed global shipments down to their absolute lowest third-quarter level in 14 years. While the report attributed the market decline to memory constraints and rising prices, it notably did not specify what that 20% decline translated to in absolute shipment numbers.Despite the broader market slump, Apple managed to elevate its global smartphone shipment share past the 20% threshold for the very first time in any third quarter. The tech heavyweight ultimately shipped 22% of all smartphones during Q3 2026, marking a significant jump from the 18% share it held in Q3 2025. This record-setting share came even as the brand navigated its own volume declines, largely driven by the absence of a base iPhone 18 model. Without that entry-level flagship, Apple experienced a smaller launch-month channel fill compared to what the full iPhone 17 lineup achieved a year earlier. To offset that higher shipment decline, the company leaned heavily on sustained market momentum from the older iPhone 17 series. Top-tier iPhone 18 Pro models logged a stronger launch than their direct predecessors, generating particularly heavy traction across China and India.Apple's historic surge rapidly closed the gap on Samsung, though the South Korean brand managed to maintain its first-place position in the global smartphone market with a 23% share. Other top five vendors took a noticeable hit during the quarter. Xiaomi secured third place with a 10% market share, followed closely by OPPO capturing a 9% shipment share. vivo rounded out the top five leaderboard by claiming an 8% share of shipments. Crucially, Xiaomi, OPPO and vivo all watched their shipment shares decline compared to their standing in Q3 2025.Faced with crippling component constraints and rising costs, OEMs increasingly shifted their strategies to prioritize profitability over sheer"
+    },
+    {
+      "id": "3a0c1c5ffb3f603d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "James Fuentes Gallery Revisits Teruko Yokoi’s Transpacific Abstraction",
+      "url": "https://hypebeast.com/2026/10/james-fuentes-gallery-revisits-teruko-yokois-transpacific-abstraction",
+      "publishedAt": "2026-10-13T09:46:57.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "James Fuentes Gallery Revisits Teruko Yokoi’s Transpacific Abstraction Summary Teruko Yokoi’s A Pacific Line marks her first Los Angeles solo show in over four decades.The exhibition traces her evolution from figuration to abstraction.Works span 1954–2005, bridging Japanese aesthetics and postwar Western modernism. Teruko Yokoi’s decades-spanning practice returns to Los Angeles with A Pacific Line, a new exhibition at James Fuentes Gallery tracing the Japanese-Swiss painter’s singular path through postwar abstraction. Marking her first solo presentation in the city in more than four decades, the show carries particular resonance on the West Coast: Yokoi first arrived in the United States by ship in 1954, shortly after the end of the U.S. occupation of Japan, before enrolling at the California School of Fine Arts in San Francisco. That self-directed move became the starting point for a career shaped by continual relocation across Japan, the United States, France and Switzerland, while resisting easy placement within any single school or movement. Bringing together works made between 1954 and 2005, A Pacific Line presents Yokoi’s practice as an ongoing conversation between traditional Japanese aesthetics and postwar Western modernism.Yokoi’s early years in the U.S. marked a decisive shift from figuration toward the highly personal abstraction that would come to define her work. \"Pose\" from 1954 still retains the contours of a seated human figure, but its body already begins to dissolve into blocks of orange, gray and brown, anticipating her increasingly rhythmic treatment of form and color.After moving to New York in 1955, she studied with Hans Hofmann, attended the Art Students League and moved within circles that included Joan Mitchell, Kenzo Okada and Mark Rothko, while living for a period at the Chelsea Hotel with painter Sam Francis. Yet her work remained distinct from the dominant language of Abstract Expressionism. Paintings such as 1960’s \"Shizen–Natur,\" with its deep green field, saturated blue forms and streaks of red and white, reveal a vocabulary grounded as much in Japanese calligraphy, haiku and observations of nature as in gestural abstraction. Yokoi herself described her paintings as “poems written in colors,” a sentiment rooted in childhood walks through the Kiso River landscape and early lessons in calligraphy and poetry from her father.The exhibition also follows Yokoi’s material evolution after settling permanently in Bern in 1962, where "
+    },
+    {
+      "id": "6df15acbfb1c2c22",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jaylen Brown's 7UICE Announces Special-Edition BAPE STA Collaboration",
+      "url": "https://hypebeast.com/2026/10/jaylen-brown-7uice-special-edition-bape-sta-collaboration-release-info",
+      "publishedAt": "2026-10-13T09:45:23.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Jaylen Brown's 7UICE Announces Special-Edition BAPE STA Collaboration Summary 7UICE and BAPE have officially partnered to release a special-edition BAPE STA collaborationThe sneaker merges BAPE's streetwear heritage with Jaylen Brown's creative vision representing individuality and creativityThe release will be available in strictly limited quantities with no planned restocks once inventory sells out 7UICE and BAPE have officially joined forces to introduce a special-edition BAPE STA. Uniting the worlds of basketball, culture, and contemporary streetwear, the collaborative footwear release marks an official union between the Japanese streetwear staple and the athlete-led lifestyle label.The collaboration serves as a bold fusion of BAPE’s long-standing streetwear heritage and Jaylen Brown’s creative direction for 7UICE. Centered around core themes of individuality, creativity, and the power of pushing personal boundaries, the limited-edition sneaker underscores the evolving dialogue between professional basketball and modern streetwear culture.Reflecting the exclusive nature of the drop, the collaborative silhouette will be produced in strictly limited quantities. Both imprints confirmed that the digital release will operate under an explicit no-restock policy, ensuring that once pairs sell out from the webstore, no additional units will be released.The 7UICE x BAPE STA releases exclusively online on October 18 via 7UICE. View this post on InstagramA post shared by 7uice (@7uice) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ed23de988b2c23e2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kojima Productions and CASETiFY Unveil High-Concept Tech Capsule",
+      "url": "https://hypebeast.com/2026/10/kojima-productions-casetify-collaboration-release-info",
+      "publishedAt": "2026-10-13T09:26:36.000Z",
+      "collectedAt": "2026-10-13T19:06:10.582Z",
+      "text": "Kojima Productions and CASETiFY Unveil High-Concept Tech Capsule Summary Kojima Productions and CASETiFY celebrate their 10th and 15th anniversaries with a collaboration.The collection features Yoji Shinkawa-designed phone cases, Death Stranding accessories and collectible cards.Launching globally on October 15, the range includes sculptural cases, character-inspired accessories and luggage. Hideo Kojima's distinctive creative universe is making its way onto everyday tech accessories as Kojima Productions teams up with CASETiFY for a limited-edition collection celebrating two major milestones: the Japanese game studio's 10th anniversary and CASETiFY's 15th anniversary.Developed in collaboration with Kojima and longtime art director Yoji Shinkawa at Kojima Productions' Tokyo headquarters, the range translates the studio's cinematic visual identity and the dystopian world of Death Stranding* *into a series of functional accessories. Moving beyond conventional graphic prints, the collection explores sculptural construction, tactile finishes and industrial-inspired detailing.Leading the lineup is the Yoji Shinkawa Original Design – 3D Crafted Aluminum Case, which transforms the artist's signature illustrations into a dimensional design. Other highlights include the Yoji Shinkawa Art Edition – From Sapiens to Ludens (Gold Camera Ring) Case and Ludens Emblem – Carbon Fiber Case, alongside designs referencing Death Stranding 2, the studio's anniversary, its recognizable logos and damage sensor tape motifs.The collaboration also introduces an assortment of accessories inspired by characters and objects from the Death Stranding *universe. Standouts include a Qpid Wristlet modeled after the necklace worn by protagonist Sam Porter Bridges, plush keychains depicting Dollman and the Ludens Duck, and metallic grip stands featuring the Ludens Golden Disk and Kojima Productions emblems. The release also incorporates a collectible element, with purchases accompanied by a blind-packed card featuring official studio artwork, randomly selected from several designs. Buyers of the 3D Crafted Aluminum Case will additionally receive two exclusive card designs unavailable through the wider collection.The Kojima Productions x CASETiFY collection launches globally on October 15, 2026, through CASETiFY's official website, Co-Lab app and participating CASETiFY STUDiO locations. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6b9c8e40984ec646",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Football Stars Become Marines in Official Trailer for Netflix's 'The Mosquito Bowl'",
+      "url": "https://hypebeast.com/2026/10/netflix-the-mosquito-bowl-nicholas-galitzine-bill-skarsgard-wwii-epic-peter-berg-official-trailer-release-info",
+      "publishedAt": "2026-10-13T09:17:56.000Z",
+      "collectedAt": "2026-10-13T19:06:10.583Z",
+      "text": "Football Stars Become Marines in Official Trailer for Netflix's 'The Mosquito Bowl' Summary Netflix has released the first trailer for director Peter Berg’s WWII feature film 'The Mosquito Bowl'Based on Buzz Bissinger’s book the narrative follows four star college athletes who enlist in the Marines following Pearl HarborThe movie opens in select theaters on October 30, 2026 ahead of its Netflix streaming debut on November 25, 2026 Netflix has officially debuted the first trailer for director Peter Berg's World War II drama, The Mosquito Bowl. The feature adapts Pulitzer Prize winner Buzz Bissinger’s bestselling book The Mosquito Bowl: A Game of Life and Death in World War II.The film stars Nicholas Galitzine as John McLaughry, Bill Skarsgård as Bob Bauman, Ray Nicholson as Tony Butkovich, and Tom Francis as Dave Schreiner. Depicting four prominent college football athletes who trade their stadium jerseys for United States Marine Corps uniforms following the attack on Pearl Harbor, the story follows their transition from collegiate sports to military combat in the Pacific theater.Berg, who also appears on screen as General Simon Buckner, constructed practical battle environments to capture the visceral realities of war. Although named after a historic football matchup between military all-stars on Guadalcanal, the production emphasizes the broader combat experience over sports action, framing the narrative as a war story centered on athletes confronting extreme circumstances.The Mosquito Bowl opens in select theaters on October 30, 2026, before arriving on Netflix on November 25, 2026. Read more at Hypebeast"
+    },
+    {
+      "id": "ef052ef30f0c4450",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jordan Brand Warms up the Season With the Air Jordan 12 \"Fireside\"",
+      "url": "https://hypebeast.com/2026/10/air-jordan-12-fireside-ct8013-105-release-info",
+      "publishedAt": "2026-10-13T08:28:10.000Z",
+      "collectedAt": "2026-10-13T19:06:10.583Z",
+      "text": "Jordan Brand Warms up the Season With the Air Jordan 12 \"Fireside\" Summary Jordan Brand has revealed official imagery for the upcoming Air Jordan 12 FiresideOriginally rumored under the Eggnog moniker the release features a cream upper paired with dark brown mudguardsThe silhouette launches on October 24 2026 in full family sizing with adult pairs priced at $215 USD Name: Air Jordan 12 \"Fireside\"Colorway: Light Orewood Brown/Cacao Wow-Team RedSKU: CT8013-105MSRP: $215 USDRelease Date: October 24, 2026Where to Buy: NikeJordan Brand has officially unveiled the Air Jordan 12 \"Fireside\". Following a private preview in New York, the upcoming holiday release offers a cream and brown execution across the classic retro silhouette.Initially rumored under the \"Eggnog\" moniker, the finalized design utilizes a lighter upper contrasted by darker structural panels. Cream leather dominates the majority of the upper, while a rich dark brown wraps around the mudguard and lower sections. Fine details include metallic brown hardware eyelets, a white rear heel pull tab, a contrasting midfoot shank plate, and matching brown accents throughout the outsole and branding.While the earth-toned palette draws comparisons to the 2024 SoleFly x Air Jordan 12 collaboration, the distinct placement of the lighter upper and darker mudguard distinguishes this pair as a standalone entry in Jordan Brand's late 2026 lineup.The Air Jordan 12 \"Fireside\" releases on October 24, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ea7aafbcdc4134c7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Rarest Thing at Regal’s ‘Avengers: Doomsday’ Screenings Might Be This Doctor Doom ‘Magic: The Gathering’ Card",
+      "url": "https://hypebeast.com/2026/10/the-rarest-thing-at-regals-avengers-doomsday-screenings-might-be-this-doctor-doom-magic-the-gathering-card",
+      "publishedAt": "2026-10-13T08:20:46.000Z",
+      "collectedAt": "2026-10-13T19:06:10.583Z",
+      "text": "The Rarest Thing at Regal’s ‘Avengers: Doomsday’ Screenings Might Be This Doctor Doom ‘Magic: The Gathering’ Card Summary Moviegoers catching Avengers: Doomsday during its opening weekend can score a promo-only version of Magic: The Gathering’s Doctor Doom, King of Latveria cardThe alternate-art piece, illustrated by Jorge Molina, depicts Doom in his signature green hood and metal mask with three masked Latverian Witches at his backSupplies are limited and the total print count has not been disclosed, making the card an early collector’s target tied to Marvel’s biggest villain Magic: The Gathering is marking the arrival of Avengers: Doomsday with an exclusive alternate-art version of its Doctor Doom, King of Latveria card, handed out to eligible fans during the film’s opening weekend. The promo pairs a fresh illustration of Marvel’s iron-masked tyrant with the same in-game abilities as the standard printing, turning a trip to the theater into a collectible drop.Artist Jorge Molina handles the new illustration, portraying Doom in full regalia with his green hood drawn and his metal faceplate locked in place. Behind him stand three Latverian Witches, their faces hidden behind masks of their own, framing the image as a portrait of a ruler and his court rather than a straightforward action shot.Beneath the art, the card plays exactly like the original. Doctor Doom, King of Latveria first appeared in the Doom Prevails Commander deck within Magic’s Marvel Super Heroes collection, where he causes opponents to lose life when land cards are discarded and powers up other Villain creatures on the battlefield. That makes the promo a cosmetic upgrade for existing Doom players and a standalone chase piece for collectors who care more about the artwork than the deck.Regal revealed the giveaway during New York Comic Con, tying it specifically to its Infinity Vision premium format. To qualify, fans need to be members of the theater chain’s loyalty program and attend an Infinity Vision showing of Avengers: Doomsday between December 17 and December 20. A standard screening in any other format won’t count.Regal has not shared how many cards are being distributed, and the giveaway runs only while supplies last, so even eligible members aren’t guaranteed a copy. Fans set on securing one will likely want to book an earlier showtime in the window.The timing lines up with Doom’s turn as the central threat of the next Avengers chapter, with Robert Downey Jr. returning to the MCU to"
+    },
+    {
+      "id": "174c93abe75e0dfa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "STANITEMS Turns 3D Modeling Into an Instrument With Form Synthesizer",
+      "url": "https://hypebeast.com/2026/10/stanitems-form-synthesizer-release-info",
+      "publishedAt": "2026-10-13T08:13:45.000Z",
+      "collectedAt": "2026-10-13T19:06:10.583Z",
+      "text": "STANITEMS Turns 3D Modeling Into an Instrument With Form Synthesizer Summary STANITEMS introduced the Form Synthesizer, a physical instrument for digital 3D modeling.Utilizing knobs and faders, it replaces complex CAD commands with real-time tactile gestures.Currently generating vases, the prototype aims to expand into furniture and architectural design. STANITEMS is rethinking the conventions of digital 3D modeling with the Form Synthesizer, a design project that replaces the familiar mouse-and-keyboard workflow with the immediacy of a physical instrument.Conceived around the idea of “playing with form” in the same way a musician manipulates sound, the device translates hands-on gestures into changes to a digital object, turning modeling into a more tactile and fluid creative process. Instead of navigating layers of software menus, users interact through tangible, analog-style controls, shifting the focus from clicking commands toward continuous physical experimentation. The result sits somewhere between a design tool and an instrument, challenging the computer interfaces that have defined digital creation for decades.That musical analogy also shapes the Form Synthesizer’s aesthetic and interaction philosophy. Physical knobs, faders and other direct controls give the device the character of hardware studio equipment, with each adjustment intended to manipulate digital geometry in real time. Compared with earlier iterations of the project, which explored different tangible interfaces including a linear fader, the current version develops those experiments into a more cohesive, dedicated system supported by custom electronics and software.Its first application is deliberately focused: the present prototype generates vase forms, allowing variations to emerge through physical input rather than conventional CAD commands. This narrow starting point functions as a proof of concept for a much broader ambition, with STANITEMS envisioning the same interface eventually shaping furniture, objects, sculptures, jewelry and architectural elements.For now, Form Synthesizer remains a developing design and research project rather than a commercially released product. For more information, head over to STANITEMS' official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "216efe06c1372e5f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jane Levy and Jessica Rothe Face off Against a Masked Killer in Blumhouse's 'River' Slasher Horror",
+      "url": "https://hypebeast.com/2026/10/universal-pictures-blumhouse-horror-river-slasher-official-trailer-release-info",
+      "publishedAt": "2026-10-13T08:00:14.000Z",
+      "collectedAt": "2026-10-13T19:06:10.583Z",
+      "text": "Jane Levy and Jessica Rothe Face off Against a Masked Killer in Blumhouse's 'River' Slasher Horror Summary Universal Pictures and Blumhouse Atomic Monster have released the first trailer for the upcoming slasher film 'River'Directed by Joshua Giuliano the horror feature stars Jane Levy Jessica Rothe and Max Mattern as siblings hunted by a masked strangerThe film premiered at TIFF's Midnight Madness program and hits theaters on January 15 2027 Universal Pictures and Blumhouse Atomic Monster have officially released the first trailer for writer-director Joshua Giuliano's upcoming slasher feature, River. The horror film made its premiere during the Midnight Madness program at the Toronto International Film Festival before being acquired for a global theatrical rollout.The narrative follows three estranged siblings—played by Jane Levy (Don't Breathe, Evil Dead), Jessica Rothe (Happy Death Day), and Max Mattern—who return to their rural hometown following the death of their father. Setting out on a remote river to scatter his ashes, their boat breaks down without cell service, leaving them stranded and mercilessly hunted by a disturbing masked figure portrayed by Dane DiLiegro (Prey).Marking Giuliano's feature directorial debut, River is produced by Steven Schneider (Insidious, Split) via Spooky Pictures alongside Nick Antosca and Alex Hedlund via Eat The Cat. Executive producers include Jason Blum, Jeffrey Tinnell, Robert Tinnell, Matt Brodlie, Jonathan Kier, and Ben Ross, with Universal Pictures, Blumhouse Atomic Monster, and Independent Film Company presenting the Shudder Original production in association with Upgrade.River releases exclusively in theaters on January 15, 2027. Read more at Hypebeast"
+    },
+    {
+      "id": "7254492db23133fb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ASICS Utility Collection GEL-VENTX GTX, GEL-NYC 2.0 GTX & GEL-KAYANO 20",
+      "url": "https://hypebeast.com/2026/10/asics-utility-collection-gel-ventx-gtx-gel-nyc-2-0-gtx-gel-kayano-20-release-info",
+      "publishedAt": "2026-10-13T07:43:44.000Z",
+      "collectedAt": "2026-10-13T19:06:10.583Z",
+      "text": "ASICS Utility Collection GEL-VENTX GTX, GEL-NYC 2.0 GTX & GEL-KAYANO 20 Name: ASICS Utility CollectionMSRP: £125 - £170 GBP (approx. $165 - $225USD)Release Date: Available NowWhere to Buy: ASICSASICS leans into all-weather utility with a three-model Utility Collection, comprising the GEL-KAYANO 20 in “Black/Gunmetal,” GEL-VENTX GTX in a “Carrier Grey/Black” and GEL-NYC 2.0 GTX in “Graphite Grey/Black.” Though each silhouette draws from a different corner of the ASICS archive, the range is unified by dark technical palettes, layered construction and performance-informed detailing.The GEL-VENTX GTX carries the strongest trail influence, building on the GEL-VENTURE lineage with a Carrier Grey/Black finish that layers charcoal mesh and synthetic overlays with lighter grey ASICS Stripes. A GORE-TEX membrane adds weather protection, while rearfoot GEL cushioning and a trail-specific traction pattern reinforce its outdoor-minded character.The GEL-NYC 2.0 GTX “Graphite Grey/Black” takes a more streamlined, city-focused approach, combining references to early-2000s ASICS running design with updated cushioning and support. Its upper mixes graphite grey, black and gunmetal-like tones across densely layered mesh and synthetic panels, creating a monochromatic finish that emphasizes the shoe’s technical construction. A GORE-TEX membrane is joined by a TRUSSTIC support unit, GEL inserts and FF BLAST PLUS cushioning, giving the silhouette a softer, more contemporary ride while maintaining the visual complexity associated with the GEL-NYC family.Rounding out the trio, the GEL-KAYANO 20 “Black/Gunmetal” revisits the 2013 runner with the darkest and most metallic treatment of the collection. Black mesh forms the base beneath a crisscrossing FLUIDFIT TPU cage finished in gunmetal tones, lending the upper a subtle sheen that shifts across its structural overlays. Reflective laces introduce another light-catching element, while dual GEL inserts and a GUIDANCE TRUSSTIC support system retain the model’s stability-focused performance roots. Click here to view full gallery at Hypebeast"
     }
   ]
 }
