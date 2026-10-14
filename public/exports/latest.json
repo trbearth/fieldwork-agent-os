@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-10-13",
+    "id": "2026-10-14",
     "mode": "live",
-    "displayDate": "OCT 13, 2026, 03:06 PM EDT",
-    "generatedAt": "2026-10-13T19:06:11.850Z",
-    "itemsCollected": 49,
+    "displayDate": "OCT 14, 2026, 12:53 PM EDT",
+    "generatedAt": "2026-10-14T16:53:39.784Z",
+    "itemsCollected": 57,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 9
+        "count": 16
       },
       {
         "source": "Hypebeast",
@@ -24,8 +24,34 @@
       }
     ]
   },
-  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 57,
+      "confidence": 38,
+      "youthRelevance": 49,
+      "direction": "up",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker",
+          "source": "Hypebeast",
+          "date": "Oct 13",
+          "url": "https://hypebeast.com/2026/10/pokemon-apple-beats-pill-collaboration-release-info"
+        },
+        {
+          "title": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
+          "source": "Vogue",
+          "date": "Oct 14",
+          "url": "https://www.vogue.com/article/best-airbnbs-in-lisbon"
+        }
+      ]
+    },
     {
       "id": "quiet-performance",
       "name": "Quiet performance",
@@ -45,42 +71,23 @@
           "url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/"
         }
       ]
-    },
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
-      "youthRelevance": 46,
-      "direction": "flat",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker",
-          "source": "Hypebeast",
-          "date": "Oct 13",
-          "url": "https://hypebeast.com/2026/10/pokemon-apple-beats-pill-collaboration-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "1 mention this week versus 1 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
-    "title": "Quiet performance moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1013",
-    "name": "Quiet performance",
-    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
+    "code": "AUTO 1014",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "UGG’s Waterproof Slippers Can Handle Winter's Worst"
+      "Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker",
+      "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments"
     ]
   }
 }

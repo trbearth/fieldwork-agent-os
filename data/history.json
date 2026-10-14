@@ -2832,6 +2832,43 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-14",
+      "mode": "live",
+      "displayDate": "OCT 14, 2026, 12:53 PM EDT",
+      "generatedAt": "2026-10-14T16:53:39.784Z",
+      "itemsCollected": 57,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 16
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 49,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -43974,6 +44011,633 @@
       "publishedAt": "2026-10-13T07:43:44.000Z",
       "collectedAt": "2026-10-13T19:06:10.583Z",
       "text": "ASICS Utility Collection GEL-VENTX GTX, GEL-NYC 2.0 GTX & GEL-KAYANO 20 Name: ASICS Utility CollectionMSRP: £125 - £170 GBP (approx. $165 - $225USD)Release Date: Available NowWhere to Buy: ASICSASICS leans into all-weather utility with a three-model Utility Collection, comprising the GEL-KAYANO 20 in “Black/Gunmetal,” GEL-VENTX GTX in a “Carrier Grey/Black” and GEL-NYC 2.0 GTX in “Graphite Grey/Black.” Though each silhouette draws from a different corner of the ASICS archive, the range is unified by dark technical palettes, layered construction and performance-informed detailing.The GEL-VENTX GTX carries the strongest trail influence, building on the GEL-VENTURE lineage with a Carrier Grey/Black finish that layers charcoal mesh and synthetic overlays with lighter grey ASICS Stripes. A GORE-TEX membrane adds weather protection, while rearfoot GEL cushioning and a trail-specific traction pattern reinforce its outdoor-minded character.The GEL-NYC 2.0 GTX “Graphite Grey/Black” takes a more streamlined, city-focused approach, combining references to early-2000s ASICS running design with updated cushioning and support. Its upper mixes graphite grey, black and gunmetal-like tones across densely layered mesh and synthetic panels, creating a monochromatic finish that emphasizes the shoe’s technical construction. A GORE-TEX membrane is joined by a TRUSSTIC support unit, GEL inserts and FF BLAST PLUS cushioning, giving the silhouette a softer, more contemporary ride while maintaining the visual complexity associated with the GEL-NYC family.Rounding out the trio, the GEL-KAYANO 20 “Black/Gunmetal” revisits the 2013 runner with the darkest and most metallic treatment of the collection. Black mesh forms the base beneath a crisscrossing FLUIDFIT TPU cage finished in gunmetal tones, lending the upper a subtle sheen that shifts across its structural overlays. Reflective laces introduce another light-catching element, while dual GEL inserts and a GUIDANCE TRUSSTIC support system retain the model’s stability-focused performance roots. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d8a98427ad566dad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "9 Best Neck Firming Creams That Actually Smooth Fine Lines and Improve Crepey Texture",
+      "url": "https://www.vogue.com/article/best-neck-firming-creams",
+      "publishedAt": "2026-10-14T16:19:07.000Z",
+      "collectedAt": "2026-10-14T16:53:35.390Z",
+      "text": "9 Best Neck Firming Creams That Actually Smooth Fine Lines and Improve Crepey Texture As important as any face moisturizer, the best neck cream is essential in a skin-care routine. Shop derm-approved picks from SkinCeuticals, Tatcha, and more."
+    },
+    {
+      "id": "547113ed90f970ac",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Watch Aespa Play a Rousing Round of Never Have I Ever",
+      "url": "https://www.vogue.com/article/never-have-i-ever-aespa",
+      "publishedAt": "2026-10-14T16:00:17.000Z",
+      "collectedAt": "2026-10-14T16:53:35.391Z",
+      "text": "Watch Aespa Play a Rousing Round of Never Have I Ever Do the members of Aespa ever mute the group chat? For answers to that—and a host of other deeply searching questions—watch the full video."
+    },
+    {
+      "id": "41818fae1daf9509",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Style a Leather Jacket for Fall",
+      "url": "https://www.vogue.com/article/how-to-style-a-leather-jacket",
+      "publishedAt": "2026-10-14T15:59:03.000Z",
+      "collectedAt": "2026-10-14T16:53:35.391Z",
+      "text": "How to Style a Leather Jacket for Fall From oversized motos to fitted zip-ups, the current forecast is for prime leather weather."
+    },
+    {
+      "id": "86569765549bdcb9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Xu Zhi Shanghai Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/xu-zhi",
+      "publishedAt": "2026-10-14T16:49:32.000Z",
+      "collectedAt": "2026-10-14T16:53:35.392Z",
+      "text": "Xu Zhi Shanghai Spring 2027 "
+    },
+    {
+      "id": "4cbd5b4a15486dfe",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Shao Shanghai Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/shao",
+      "publishedAt": "2026-10-14T16:49:32.000Z",
+      "collectedAt": "2026-10-14T16:53:35.392Z",
+      "text": "Shao Shanghai Spring 2027 "
+    },
+    {
+      "id": "f009b9227de3100c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Doom and Disillusionment, Meet Fontaines D.C.’s ‘Dopamine Chamber’",
+      "url": "https://www.vogue.com/article/fontaines-dc-dopamine-chamber-album-interview-2026",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.392Z",
+      "text": "Doom and Disillusionment, Meet Fontaines D.C.’s ‘Dopamine Chamber’ Vogue sits down with Grian Chatten and Carlos O’Connell of the Grammy-nominated Fontaines D.C. to discuss their forthcoming fifth album, “Dopamine Chamber.”"
+    },
+    {
+      "id": "ac89371f35bc3edc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Unexpected Joy of a Second Marathon",
+      "url": "https://www.vogue.com/article/berlin-marathon-diary",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.392Z",
+      "text": "The Unexpected Joy of a Second Marathon On going the distance without carrying the weight."
+    },
+    {
+      "id": "c44d963f5b3ca72b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-lisbon",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.392Z",
+      "text": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments With quaint balconies overlooking the sea and skyline, the best Airbnbs in Lisbon capture the magic of the city—book one before your next trip."
+    },
+    {
+      "id": "6815742258f200d8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "44 Wedding Shoes That Are Perfect for Your Walk Down the Aisle",
+      "url": "https://www.vogue.com/article/best-wedding-shoes",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.392Z",
+      "text": "44 Wedding Shoes That Are Perfect for Your Walk Down the Aisle Shop the best wedding shoes to say “I do” in, from high-heeled sandals to classic bridal pumps, slingbacks, elegant mules, and flats."
+    },
+    {
+      "id": "29605f0807f41583",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rachel Gurjar’s New Cookbook, ‘East to East,’ Celebrates Flavors Near and Far",
+      "url": "https://www.vogue.com/article/rachel-gurjar-east-to-east-2026-10-14",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Rachel Gurjar’s New Cookbook, ‘East to East,’ Celebrates Flavors Near and Far “East to East: Recipes and Stories from Mumbai to New York” is out now from Chronicle Books."
+    },
+    {
+      "id": "c3b6d5ff47d83804",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Top Trends of the Spring 2027 Ready-to-Wear Season Span Skirts, Bra Tops, and Misfit Glamour",
+      "url": "https://www.vogue.com/article/the-top-trends-of-the-spring-2027-ready-to-wear-season",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Top Trends of the Spring 2027 Ready-to-Wear Season Span Skirts, Bra Tops, and Misfit Glamour At the spring 2027 shows, designers responded to the chaos of the current moment with mixed prints and wonky fits."
+    },
+    {
+      "id": "b3b70b0df840a4f8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "It’s Not a Whitehead, It’s Milia—Here's How to Treat It",
+      "url": "https://www.vogue.com/article/how-to-treat-milia",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "It’s Not a Whitehead, It’s Milia—Here's How to Treat It Milia isn’t harmful—but some people still want to get rid of it. Here’s what dermatologists suggest to prevent (and treat) the stubborn white bumps. No popping allowed!"
+    },
+    {
+      "id": "b2aec2b0bc6f3518",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ao Yes Shanghai Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/ao-yes",
+      "publishedAt": "2026-10-14T16:49:32.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Ao Yes Shanghai Spring 2027 "
+    },
+    {
+      "id": "1df481ae1e507263",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Vogue Business SS27 Global Buyer Report",
+      "url": "https://www.vogue.com/article/cinched-waists-and-freaky-shoes-the-vogue-business-ss27-global-buyer-report",
+      "publishedAt": "2026-10-14T04:30:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "The Vogue Business SS27 Global Buyer Report Buyers share their top trends, collections and takeaways from the Spring/Summer 2027 season."
+    },
+    {
+      "id": "c3d5adcd8731c6aa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Frieze London 2026 Cheat Sheet",
+      "url": "https://www.vogue.com/article/frieze-london-2026-cheat-sheet",
+      "publishedAt": "2026-10-14T04:30:00.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Frieze London 2026 Cheat Sheet Despite market uncertainty, this year’s edition of the UK’s most prominent art fair is buoyed by an optimistic mood, bringing with it a series of brand activations, major openings and a raft of new names to know."
+    },
+    {
+      "id": "1f8617ba1b3a46f8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue’s Guide to Frieze London 2026",
+      "url": "https://www.vogue.com/article/vogue-guide-to-frieze-london-2026",
+      "publishedAt": "2026-10-14T02:45:26.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Vogue’s Guide to Frieze London 2026 Here’s everything worth seeing—and everywhere worth hanging out once you’ve done the rounds."
+    },
+    {
+      "id": "6150472e3874eff5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Where Will the Titular Girls of HBO’s ‘Girls’ Find Themselves 10 Years Later? Some Guesses",
+      "url": "https://www.vogue.com/article/where-will-the-titular-girls-of-hbos-girls-find-themselves-10-years-later-2026-10-13",
+      "publishedAt": "2026-10-13T22:29:48.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Where Will the Titular Girls of HBO’s ‘Girls’ Find Themselves 10 Years Later? Some Guesses I can’t believe the wildly-to-mildly annoying young women who made me and my Brooklyn-dwelling friends feel a little too seen in 2018 are coming back for more."
+    },
+    {
+      "id": "b5c6ba52a9745165",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Simu Liu and Allison Hsu’s Wedding at a 17th-Century Chateau in Provence",
+      "url": "https://www.vogue.com/slideshow/simu-liu-and-allison-hsu-wedding",
+      "publishedAt": "2026-10-13T21:05:43.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Inside Simu Liu and Allison Hsu’s Wedding at a 17th-Century Chateau in Provence Actor Simu Liu married music executive Allison Hsu in the South of France with a candlelit welcome party inside a former limestone quarry, a rain-dappled ceremony, and a surprise DJ set from ‘Shang-Chi’ star Benedict Wong. See all the exclusive photos here."
+    },
+    {
+      "id": "2177e2f7c2f7e524",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Return of Relaxer: Why Are Some Black Women Rethinking Their Natural Hair?",
+      "url": "https://www.vogue.com/article/the-return-of-relaxer",
+      "publishedAt": "2026-10-13T20:45:28.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "The Return of Relaxer: Why Are Some Black Women Rethinking Their Natural Hair? Ata-owaji Victor explores why, amid mounting lawsuits and potential health concerns, some Black women are choosing to relax their hair again."
+    },
+    {
+      "id": "f3c985d4922ce23a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "7 Best Noncomedogenic Sunscreen Formulas That Won’t Break You Out",
+      "url": "https://www.vogue.com/article/non-comedogenic-sunscreen",
+      "publishedAt": "2026-10-13T20:22:39.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "7 Best Noncomedogenic Sunscreen Formulas That Won’t Break You Out You don’t have to skip SPF to avoid a breakout. We’ve rounded up the best noncomedogenic sunscreen formulas for pimple-free daily sun protection."
+    },
+    {
+      "id": "6338ea02f249af38",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ayo Edebiri’s Latest Look Is Business in the Front, Party In the Back",
+      "url": "https://www.vogue.com/article/ayo-edebiri-chanel-couture-tailfeathers-2026-10-13",
+      "publishedAt": "2026-10-13T20:18:40.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Ayo Edebiri’s Latest Look Is Business in the Front, Party In the Back While the look appeared more subdued from the front, Ayo Edebiri turned around to reveal a true fashion mullet."
+    },
+    {
+      "id": "8519e9268caf1875",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why Kering Brought Its Generation Award to India for the First Time",
+      "url": "https://www.vogue.com/article/why-kering-brought-its-generation-award-to-india-for-the-first-time",
+      "publishedAt": "2026-10-13T20:15:37.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Why Kering Brought Its Generation Award to India for the First Time Launched in collaboration with Reliance Brands Limited, the first India edition recognizes three startups developing circular solutions, from textile waste to alternative footwear materials."
+    },
+    {
+      "id": "14346240154b9ef8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Carey Mulligan Gets First Dibs on the Collection of the Season",
+      "url": "https://www.vogue.com/article/carey-mulligan-celine-spring-2027-wildwood-bfi-london",
+      "publishedAt": "2026-10-13T19:26:01.000Z",
+      "collectedAt": "2026-10-14T16:53:35.393Z",
+      "text": "Carey Mulligan Gets First Dibs on the Collection of the Season Who better than Carey Mulligan to bring Celine’s casually divine vision to the red carpet?"
+    },
+    {
+      "id": "df64ba4353969bfb",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Giraffe Superfly LX Isn’t as Docile as It Looks",
+      "url": "https://www.highsnobiety.com/p/nike-superfly-lx-sneaker-giraffe/",
+      "publishedAt": "2026-10-14T16:12:00.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Nike’s Giraffe Superfly LX Isn’t as Docile as It Looks Nike's track-inspired Superfly LX sneaker has found quite the muse in the humble giraffe."
+    },
+    {
+      "id": "909b69a8f5663eea",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Model’s Own: Emily Segal’s First Style Icons Were New York’s Best-Dressed Women",
+      "url": "https://www.highsnobiety.com/p/models-own-emily-segal-childhood-was-full-of-glamorous-new-york-women/",
+      "publishedAt": "2026-10-14T16:11:59.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Model’s Own: Emily Segal’s First Style Icons Were New York’s Best-Dressed Women The brand strategist and Readme co-founder shared her favorite European sunscreen, her vintage gems, and the best spot on the UES for ballet flats."
+    },
+    {
+      "id": "55323fe08ef09442",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "From Vans to New Balance, the Seven Best Sneakers to Cop This Week",
+      "url": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-3/",
+      "publishedAt": "2026-10-14T14:30:35.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "From Vans to New Balance, the Seven Best Sneakers to Cop This Week From a Highsnobiety x Saucony collab to a bubblegum-pink Vans, find here the seven best sneakers of the week."
+    },
+    {
+      "id": "f2d0205260cd623f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Fall Fashion Is Starting to Look Rather Scott-ish",
+      "url": "https://www.highsnobiety.com/p/scottish-fashion-brands-trend/",
+      "publishedAt": "2026-10-14T15:44:08.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Fall Fashion Is Starting to Look Rather Scott-ish In October 13's newsletter, Shopping Editor Max Migowski gets deep in the (t)weeds of Scott-ish fashion."
+    },
+    {
+      "id": "1e819db69c37a9e6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Air Max Loafer Is Bigger than the Snoafer Phenomenon",
+      "url": "https://www.highsnobiety.com/p/nikes-air-max-phenomena-loafer-brown/",
+      "publishedAt": "2026-10-14T15:48:03.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Nike’s Air Max Loafer Is Bigger than the Snoafer Phenomenon Nike's luxe brown leather Air Max Phenomena sneaker-loafer hybrid shoe means big business."
+    },
+    {
+      "id": "5c2eba9739d0ce6e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Every Second Counts For Padel Powerhouse Agustín Tapia",
+      "url": "https://www.highsnobiety.com/p/agustin-tapia-makes-every-second-count/",
+      "publishedAt": "2026-10-14T09:52:42.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Every Second Counts For Padel Powerhouse Agustín Tapia We caught up with one of the most exciting names in the sport’s history at Audemars Piguet's first Pro-Am Padel Tournamenthttps on Île de Bendor."
+    },
+    {
+      "id": "797b8603f56cd96f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Spacey Dad Shoe Is a Different Beast Entirely",
+      "url": "https://www.highsnobiety.com/p/new-blance-983/",
+      "publishedAt": "2026-10-14T11:01:46.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "New Balance’s Spacey Dad Shoe Is a Different Beast Entirely New Balance’s 983 brings a space-age twist to the chunky dad shoe, pairing a sculptural silhouette with oversized overlays, and a distinctly futuristic feel."
+    },
+    {
+      "id": "c3d66dc266b22613",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Callum Turner’s Sweater and Jeans Have a Very Expensive Secret",
+      "url": "https://www.highsnobiety.com/p/louis-vuitton-trunk-callum-turner/",
+      "publishedAt": "2026-10-14T05:00:03.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Callum Turner’s Sweater and Jeans Have a Very Expensive Secret Mr. Dua Lipa is the face of Louis Vuitton’s Spring Summer 2027 Trunk Collection campaign."
+    },
+    {
+      "id": "2d871e08a2a8d72b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Young Dad Shoe Wears a Secretly Nice GORE-TEX Rain Coat",
+      "url": "https://www.highsnobiety.com/p/new-balance-2010-gore-tex-sneakers/",
+      "publishedAt": "2026-10-14T11:00:43.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "New Balance’s Young Dad Shoe Wears a Secretly Nice GORE-TEX Rain Coat New Balance's 2010 dad shoe gets a GORE-TEX makeover, resulting in three waterproof spins including an earthy \"Light Mushroom\" colorway."
+    },
+    {
+      "id": "f46a33cc290e8324",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Enter Converse's Feral AF Chuck Taylor Slip-on",
+      "url": "https://www.highsnobiety.com/p/converse-all-star-pointed-toe-volume-fur-slip-ox/",
+      "publishedAt": "2026-10-13T22:10:00.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Enter Converse's Feral AF Chuck Taylor Slip-on Converse Japan's next move? Dropping the All-Star Pointed Toe Volume Fur Slip OX, a laceless sneaker featuring sharp toe boxes & hairy uppers."
+    },
+    {
+      "id": "0af3823e9d52ac3c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Weekend of Joie de Vivre at Veuve Clicquot’s Club Solaire",
+      "url": "https://www.highsnobiety.com/p/club-solaire-veuve-clicquot-venice-beach/",
+      "publishedAt": "2026-10-13T20:57:45.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "A Weekend of Joie de Vivre at Veuve Clicquot’s Club Solaire Veuve Clicquot transformed Venice Beach into Club Solaire, a sun-soaked weekend of connection, champagne, and mostly importantly, joy."
+    },
+    {
+      "id": "1fbc41723e1ea931",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Grunge Officewear Brand’s Best Product is Literally “Merch”",
+      "url": "https://www.highsnobiety.com/p/mfpen-merch-tee/",
+      "publishedAt": "2026-10-14T10:51:06.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "This Grunge Officewear Brand’s Best Product is Literally “Merch” The Danish brand built on deadstock fabrics and office-core silhouettes for those who listen to metal bands is secretly a great source for washed-out tees."
+    },
+    {
+      "id": "82d6b49e280698f4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Nike “UGGs” Are Right on Time",
+      "url": "https://www.highsnobiety.com/p/nike-24-7-boots/",
+      "publishedAt": "2026-10-14T10:57:14.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "The Nike “UGGs” Are Right on Time Nike debuts its 24.7 boot, a plush suede recovery shoe with UGG-level flavor. Here's everything on the cozy model."
+    },
+    {
+      "id": "73b05b1513f2055a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jordan’s Faded Dad Shoe Is From Another Planet",
+      "url": "https://www.highsnobiety.com/p/jordan-trunner-os-space-jam-planet/",
+      "publishedAt": "2026-10-14T10:56:11.000Z",
+      "collectedAt": "2026-10-14T16:53:37.137Z",
+      "text": "Jordan’s Faded Dad Shoe Is From Another Planet The Jordan Trunner O/S sneaker joins the 2026 \"Space Jam\" anniversary collection, dressed in a nice \"Terra Blush\" colorway."
+    },
+    {
+      "id": "185ae244a23f9e4d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Les Benjamins & Apple Go \"From Earth to Sky\" in Turkey Runway Show",
+      "url": "https://hypebeast.com/2026/10/les-benjamins-apple-runway-show-turkey-from-earth-to-sky",
+      "publishedAt": "2026-10-14T16:24:26.000Z",
+      "collectedAt": "2026-10-14T16:53:38.509Z",
+      "text": "Les Benjamins & Apple Go \"From Earth to Sky\" in Turkey Runway Show SummaryLes Benjamins partnered with Apple for its 15th-anniversary \"From Earth to Sky\" collection in Cappadocia, blending East and West.The runway show, featuring custom hot-air balloons, was designed on iPad Pro and filmed on iPhone 18 Pro Max.On Wednesday, Les Bejamins teamed up with Apple to bring its new collection to life, showcasing the “From Earth to Sky” spectacle in Cappadocia, Turkey. Shot on the iPhone 18 Pro Max by French filmmaker Neels Castillon, Bünyamin Aydın’s latest show celebrated 15 years of his Istanbul-based lifestyle brand.Inspired by his Anatolian heritage, Aydın began developing the collection in early 2026 with the iPad Pro (with Apple Pencil Pro) and iPhone 17 Pro Max, capturing photos and 4K video for inspiration, assembling moodboards on Freeform and prototyping the custom-built hot-air balloons on Procreate. On working with the Apple Pencil and iPad, the designer explained, “Working with regular pen and paper feels very natural, but the hover feature on Apple Pencil Pro lets me preview every stroke before I even make it, so I can see any mistakes beforehand.”The collection itself represents Aydın’s multicultural heritage, having been born in Germany. With what he calls a “German discipline and Turkish heart,” the duality runs through the collection. “The canvas is the West; the paint is the East,” Aydın shared about the collection, which combines contemporary silhouettes with Turkish fabrics, along with Silk Road influences. Even the massive hot air balloons drew from the flora of the Anatolian landscape, depicting green Echinops, pink trumpets, and yellow tulips. “I see my role as that of a translator and a bridge between East and West,” Aydın added. “I hope this project makes Turkish people proud.”To capture the runway show, Castillon utilized the iPhone 18 Pro Max’s variable aperture to achieve smooth transitions while filming in varied sunlight, leaning on the A20 Pro chip to sustain continuous 4K recording without overheating. By mounting the phones to custom drones, he leveraged the Ultra Wide lens to frame the gigantic balloons during high-speed passes. Additionally, shooting in 4K120 fps and ProRes RAW provided added flexibility for cinematic slow-motion and complex color grading.See the exclusive imagery above captured by Abdullah M. Alshayji (@shaijieee). Les Benjamins' “From Earth to Sky\" show will be released on Apple beginning on October 16. Click "
+    },
+    {
+      "id": "d0479d7de77738dd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "MING and Massena LAB Rework Their Honey Collaboration Five Years Later",
+      "url": "https://hypebeast.com/2026/10/ming-massena-lab-57-09-secret-honey-collaboration-release-info",
+      "publishedAt": "2026-10-14T13:00:23.000Z",
+      "collectedAt": "2026-10-14T16:53:38.509Z",
+      "text": "MING and Massena LAB Rework Their Honey Collaboration Five Years Later Summary MING and Massena LAB reunite for the 57.09 Secret Honey.Three rotating sapphire discs create a constantly shifting “dynamic guilloché” display.Limited to 125 pieces, it pairs tri-tone titanium lugs with a 50-hour automatic movement. MING and Massena LAB” are revisiting one of their earliest collaborations with the new 57.09 Secret Honey, a far more elaborate sequel to 2021’s 17.09 Honey and 17.09 Black.Five years after the original 200-piece collaboration introduced a vintage-inspired honeycomb motif, the two independent names — now fellow members of the Alternative Horological Alliance — have combined both earlier palettes into a single watch. Rather than reproducing the honeycomb literally, the 57.09 transforms the idea into what MING calls “dynamic guilloché,” using three rotating sapphire discs above a dark brown lacquered base dial to create a constantly changing interference pattern. The warm honey tone appears only as the discs move and overlap, giving the “Secret Honey” name a literal role in the design.Each sapphire disc rotates at a different rate - once every 24 hours, 12 hours and 60 minutes - with individual aperture patterns and luminous treatments in orange-emitting Super-LumiNova and MING Polar White. The 12-hour and 60-minute discs also carry the honey-colored hour and minute indications, while the indices and MING and Massena LAB logos are engraved into the box-style sapphire crystal above, creating a second luminous layer after dark.Surrounding the display is a 40mm Grade 5 titanium case using MING’s fifth-generation architecture, distinguished here by triple-stepped, tri-tone lugs assembled from nine individual components. Natural titanium forms the outer step, yellow-gold-referencing TiN coats the middle section and rose-gold-toned TiSiN finishes the innermost layer, visually extending the dial’s shifting black-and-honey palette into the case itself.Powering the watch is the automatic Sellita for MING 330.M2, running at 4 Hz and offering approximately 50 hours of power reserve, with its skeletonized anthracite-coated bridges visible through the sapphire caseback. The case measures 10.17mm thick, offers 100 meters of water resistance and is supplied with both a vachetta-colored goat-leather strap by Jean Rousseau Paris and a black FKM rubber strap, each using MING’s flying-blade tuck buckle with micro-adjustment.Limited to 125 pieces, the MING × Massena LAB 5"
+    },
+    {
+      "id": "7bb8508543b09766",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Seeing Red in Milan: Inside The 50 Best Bars 2026",
+      "url": "https://hypebeast.com/2026/10/seeing-red-in-milan-inside-the-50-best-bars-2026",
+      "publishedAt": "2026-10-14T13:00:11.000Z",
+      "collectedAt": "2026-10-14T16:53:38.509Z",
+      "text": "Seeing Red in Milan: Inside The 50 Best Bars 2026 In the world of mixology, the clearest sign that you’ve made it is a red ceremonial scarf, handed to every team that lands on The 50 Best Bars list. On October 7, that scarf made its last appearance of the year in Milan, where the global edition of The 50 Best Bars 2026 brought the international cocktail community to the city for the first time.The ceremony took over the Palazzo del Ghiaccio, a Liberty-style landmark that opened in 1923 as Europe’s largest indoor ice rink and now hosts runway shows and gala nights. For one evening, the city that gave the world aperitivo culture became the center of it. Bartenders, bar owners and brands from 26 cities arrived via the red carpet for a drinks reception before the night’s main event.Milan marked the final stop on a long road for Cointreau, which spent 2026 as the official sponsor of the iconic red scarf ceremony across all four of The 50 Best Bars 2026 ceremonies. That run took the scarf from North America to Asia and, for the very first time, to Europe. It was the brand’s second year as Official Orange Liqueur Partner, and it came with a promise of bigger, bolder moments at every stop under the “Shake It Up” banner. For a brand that has spent more than a century and a half inside some of the world’s most enduring cocktails, from the Margarita to the Sidecar and the Cosmopolitan, the tagline doubled as a statement of intent.Cointreau Spicy, the brand’s chili-infused spin on its signature orange liqueur, carried that promise into the glass all season, with appearances in Vancouver and Amsterdam, where it starred in a Spicy Watermelon Margarita at the inaugural The 50 Best Bars Europe edition. In Milan, the Cointreau booth closed out the year with cocktails featuring both Cointreau L’Unique and Cointreau Spicy, including two standout serves created by the team at Lyaness: the Cointreau Bubbles, a vibrant celebration of orange in all its complexity, and the Spiced Carrot Margarita, a bold twist on the classic cocktail combining citrus, warming spice and savory notes. It was fitting that the Margarita took center stage. When Cointreau asked some of the world’s leading bartenders about the drinks defining the industry, the Margarita emerged as the clear favorite, named as both their cocktail of choice and the drink they’d most likely order to mark a special occasion. Orange liqueur is one of the three pillars of the classic, alongside tequila and lime, and Cointreau"
+    },
+    {
+      "id": "d38e897aca5b3cfd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "8 Drops You Don't Want to Miss This Week",
+      "url": "https://hypebeast.com/2026/10/best-drops-october-week-2-supreme-martine-rose-palace-skateboards-stussy-denim-tears",
+      "publishedAt": "2026-10-14T12:30:15.000Z",
+      "collectedAt": "2026-10-14T16:53:38.509Z",
+      "text": "8 Drops You Don't Want to Miss This Week With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with Supreme delivering its expansive Fall 2026 collaboration with London designer Martine Rose, featuring heavy outerwear and an exclusive Nike Dunk Low. Keeping the momentum going, Palace Skateboards continues its Winter 2026 season with the art-inspired Caravaggio Shirt and function-focused cold-weather layers, while Stüssy and Denim Tears reunite to merge West Coast heritage with narrative-driven design in a statement-heavy FW26 outerwear capsule. For the active crowd, MAAP and Mental Athletic bridge technical cycling performance with vibrant, high-contrast off-bike streetwear staples. In the realm of elevated menswear, Kith and Giorgio Armani blend European tailoring with contemporary streetwear in their desert-inspired \"Dreams of the Dune\" collection. Techwear fans will appreciate ARC’TERYX and BEAMS celebrating 25 years of collaboration with a gold-accented, two-piece capsule featuring the Konseal 15 Backpack. Finally, the week rounds out with Buffer tapping into 1980s nostalgia via a compact, hand-drawn apparel capsule paying tribute to Steven Spielberg’s classic film E.T., and Wrangler and ROA reimagining American denim workwear through a functional Italian outdoor-utility lens.Check out this week’s 8 drops you don’t want to miss below.Martine Rose x Supreme Fall 2026 CollabSupreme and London-based designer Martine Rose have unveiled their expansive Fall 2026 collaborative collection, blending New York streetwear with bold British tailoring. The highly anticipated capsule focuses on heavy outerwear, highlighted by a Jeff Hamilton Shearling Coat, patchwork leather pieces, and co-branded tracksuits. The apparel lineup also includes athletic jerseys, graphic tees, and suede zip-ups. Completing the range are standout accessories like a custom JBL Partybox speaker, a shearling mini duffle, New Era hats, and an exclusive co-branded Nike Dunk Low. The collection launches globally on October 15 via Supreme’s webstore and flagships, with an Asia release on October 17.Palace Winter 2026 Drop 3Palace Skateboards is back with its third Winter 2026 drop, blending high-art references with seasonal utility. The release is headlined by the standout Caravaggio Shirt—featuring the artist's \"Saint Jerome Writing\"—alongside the new P90 Baggy Jean. For cold-weather layering, the capsule delivers the funct"
+    },
+    {
+      "id": "c01821e637b83e69",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BEAMS Stitches Three Leathers Into One Broken-In Blouson",
+      "url": "https://hypebeast.com/2026/10/beams-stitches-three-leathers-into-one-broken-in-blouson",
+      "publishedAt": "2026-10-14T11:04:42.000Z",
+      "collectedAt": "2026-10-14T16:53:38.509Z",
+      "text": "BEAMS Stitches Three Leathers Into One Broken-In Blouson Summary BEAMS’ new Leather Blouson combines sheep nappa, sheep nubuck and goat suede in a paneled constructionWashing, tumbling and hand-applied distressing give each jacket a worn-for-years look straight off the rackThe design draws on vintage sports jackets, reworked with a wide body and shortened length BEAMS has introduced the Leather Blouson as part of its Fall/Winter 2026 collection, a jacket built from three contrasting leathers and finished to look like a long-owned favorite. Offered in Soft Black and Taupe, the piece pairs a vintage sports jacket template with a contemporary wide, cropped silhouette.The jacket’s character starts with its materials, as BEAMS splices together three distinct hides across the body. Smooth sheep nappa and velvety sheep nubuck sit alongside goat suede, with the varying textures set against one another through bold paneling rather than blended into a single surface.Each jacket then goes through a multi-step aging process designed to replicate years of wear. Washing and tumbling break down the leather and draw out a faded tone, after which every piece is individually worked by hand to add the scuffs and highlights that typically form at stress points over time. Because the distressing is done one jacket at a time, the placement and intensity of the wear vary from piece to piece, along with the natural creases and color shifts inherent to the leather itself.Structurally, the blouson takes its cues from vintage sports jackets, updated with practical touches for daily use. Hand-warmer pockets sit at the front, each concealing a zippered security pocket inside, while ribbed trims finish the shape and a polyester lining keeps the interior smooth.BEAMS cuts the jacket in what it calls a Wide Short Fit, pairing a roomy chest with a deliberately shortened length. The boxy proportions give the piece a classic yet updated outline that works well over hoodies and heavier knits for layered looks.The BEAMS Leather Blouson is available now in Soft Black and Taupe via the BEAMS online store and at BEAMS locations in Japan. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a7a1f1cb3c447fd2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple’s HomePod mini 2 Just Joined Your Home Theater",
+      "url": "https://hypebeast.com/2026/10/apples-homepod-mini-2-just-joined-your-home-theater",
+      "publishedAt": "2026-10-14T11:04:38.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "Apple’s HomePod mini 2 Just Joined Your Home Theater Summary Apple’s HomePod mini 2 pairs the S10 chip with computational audio that tunes playback to each track in real timeA new Sound Glow feature turns the speaker’s top into a reactive light canvas synced to bass, treble and album artThe speaker arrives in pink, green, blue, white and midnight, with Siri AI landing in a future software update Apple has unveiled HomePod mini 2, the second generation of its pocket-sized smart speaker, rebuilt around the S10 chip and a fresh five-color lineup. The update brings Sound Glow, a reactive lighting layer across the top surface, along with support for four-speaker surround sound, Mac speaker duty and the overhauled Siri AI assistant, which is set to arrive through a later software update.At the core of the speaker is the Apple S10 chip, which drives a computational audio system that reads music as it plays and adjusts dynamic range, loudness and acoustic output on the fly. The result is 360-degree sound from the same compact footprint, scalable from a single unit to a stereo pair or a full multiroom configuration.Sound Glow is the most visible addition, transforming the speaker’s top into a lit surface that pulses and shifts in real time with the low and high frequencies of a track. Colors are pulled from the album artwork in Now Playing, so each song generates its own palette, while ambient soundscapes such as rain trigger custom animations designed for winding down. Controlling Sound Glow by voice requires an Apple Intelligence-enabled iPhone.Those lighting effects play off the new finishes, offered in pink, green, blue, white and midnight and designed to coordinate with Apple’s Mac colorways. HomePod mini 2 can now act as the audio output for any Mac with Wi-Fi 6E or later, either solo or as a stereo pair, covering movies, games and video calls. “HomePod mini 2 brings together Siri AI, gorgeous new colors, and incredible audio,” said Kaiann Drance, Apple’s vice president of Worldwide Home Product Marketing, in a press release.Home theater setups get a meaningful bump as well, since HomePod mini 2 can now form a four-speaker surround system with the 4th-generation Apple TV 4K. The speakers work out where each unit sits in the room and calibrate timing and levels automatically, with HomePod (2nd generation) also compatible provided the front and rear pairs match.Siri AI, built on an entirely new architecture using the latest Apple Foundation Models, will reach t"
+    },
+    {
+      "id": "6c5b32b47860b521",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The MM6 Maison Margiela FW26 Campaign Is a Study in Motion and Normality",
+      "url": "https://hypebeast.com/2026/10/mm6-maison-margiela-fall-winter-2026-collection-campaign-release-info",
+      "publishedAt": "2026-10-14T10:38:10.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "The MM6 Maison Margiela FW26 Campaign Is a Study in Motion and Normality Summary MM6 Maison Margiela unveils its FW26 campaign, photographed by Philippine Chaumont and Agathe Zaerpour.The collection reimagines everyday staples through unconventional proportions, exposed linings and unexpected styling.Highlights include tailored separates, sportswear, Bauletto bags and colorful concealing sunglasses. MM6 Maison Margiela has unveiled its Fall/Winter 2026 campaign, offering a fresh perspective on the collection's exploration of everyday dressing and exaggerated normality. Shot by Philippine Chaumont and Agathe Zaerpour, the new visuals revisit the themes established during the label's FW26 presentation at Milano Centrale, where the train station's constant movement of arrivals and departures served as a backdrop for a cast of familiar yet distinctly individual characters.Translating this concept into campaign form, the visuals place MM6's signature design philosophy of reduction, straightforwardness and reinterpreted wardrobe archetypes at the forefront. The collection challenges conventional ideas of ordinary clothing, finding unexpected character in familiar garments and proportions while maintaining the label's deliberately understated, offbeat sensibility.The FW26 wardrobe draws on recognizable staples, including checked shirts, denim jackets, tailored blazers, full skirts, tracksuit tops, ski sweaters and zip-up fleeces, reworked through subtle structural interventions and unconventional styling. Ribbed jersey back panels streamline the silhouettes of shirts, trench coats and jackets, while exposed linings, adjustable snap-fastened hems and reduced proportions introduce an element of experimentation. Styling further disrupts expectations, pairing sportswear with voluminous skirts and culottes, blazers with long johns, and oversized knitwear with tights.Accessories reinforce the collection's playful approach to the familiar, from Bauletto bags and brightly tinted versions of MM6's signature concealing sunglasses to earrings left attached to their retail display cards and rings missing their stones. The MM6 Maison Margiela FW26 collection is now available through the brand's official website and selected boutiques worldwide. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f1a212b4747f3d37",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Spinnaker and seconde/seconde/’s New “50 Phantoms” Collaboration Reveals Its Ghosts Under UV Light",
+      "url": "https://hypebeast.com/2026/10/spinnaker-seconde-seconde-collaboration-50-phantoms-fleuss-40-automatic-2026-edition-sp-5195-11a-crazy-sp-5195-11b-quiet-release-info",
+      "publishedAt": "2026-10-14T10:15:17.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "Spinnaker and seconde/seconde/’s New “50 Phantoms” Collaboration Reveals Its Ghosts Under UV Light Summary Spinnaker and seconde/seconde/ return with a fourth “50 Phantoms” collaboration.“CRAZY” reveals its ghosts openly, while “QUIET” hides them until exposed to UV light.Both editions are releasing on October 16, priced at $600 USD. Spinnaker and French watch designer seconde/seconde/ are bringing back their cult “50 Phantoms” concept for a fourth annual collaboration, this time built around the Fleuss 40 Automatic. The 2026 edition turns the series into a literal game of hide-and-seek, placing 50 ghost figures throughout each watch and leaving their discovery to the wearer.Two personalities split the release: the openly playful “CRAZY” (SP-5195-11A) and the more restrained “QUIET” (SP-5195-11B). Both use a 40mm stainless-steel Fleuss case with a 47mm lug-to-lug measurement, screw-down crown and box-style sapphire crystal, while a polished white ceramic unidirectional bezel receives a custom wavy edge designed to recall the hem of a ghost’s robe.The difference lies largely in how each model handles its phantom population. \"CRAZY\" puts the concept front and center through a multi-layer white dial populated by printed and embossed ghosts in blue, white, green and yellow, distributed between the dial base and crystal and treated with luminous material for an especially animated appearance after dark. \"QUIET\" initially appears far more conventional, pairing a matte-white dial with applied silver indexes while hiding its ghost graphics until they are exposed to UV light. Swiss Super-LumiNova also appears across the hands, applied markers and bezel on both references.Power comes from a Miyota 9039 automatic movement, visible through the exhibition caseback, while 10 ATM of water resistance keeps the diver-inspired Fleuss platform intact. Each watch is supplied with a stainless-steel bracelet, orange nylon strap and white silicone strap - with the \"CRAZY\" version even cutting phantom silhouettes into its silicone strap -alongside a UV torch to uncover the concealed details.The presentation continues the joke beyond the wrist, with both watches arriving beneath a purpose-built glass ghost display dome surrounding a sculpted EVA-foam phantom, accompanied by a ghost-shaped cleaning cloth. The \"CRAZY\" edition is limited to 1,500 individually numbered pieces, while the subtler \"QUIET\" is capped at 850, with both priced at $600 USD.The Spinnaker x seconde/seconde/ Fle"
+    },
+    {
+      "id": "1e8ec8bfe55851f1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "8 Must-See Art Shows and Installations During Frieze London 2026",
+      "url": "https://hypebeast.com/2026/10/frieze-london-2026-shows",
+      "publishedAt": "2026-10-14T10:11:49.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "8 Must-See Art Shows and Installations During Frieze London 2026 Summary Frieze London 2026 brings a packed lineup of exhibitions, installations and performances across the city from October 14–18.Highlights include major presentations by Justin Caguiat, Tarek Atoui, Salman Toor and Issy Wood.Beyond traditional galleries, Slawn, JW Anderson and CART Department x Kozo blur the boundaries between contemporary art, fashion, design and public space. As Frieze London and Frieze Masters return to Regent's Park from October 14 to 18, the city's art scene is spilling well beyond the fairgrounds. Across London, major institutions, independent galleries and unconventional spaces are presenting a packed lineup of exhibitions, performances and installations.This year's highlights span everything from experimental sound and contemporary painting to large-scale interventions and collaborations at the intersection of art, fashion and design. Whether you're navigating the city between fair visits or looking to skip the tents altogether, here are standout presentations worth checking out during Frieze Week.Justin Caguiat, ‘Change Ringing’ at Serpentine SouthOctober 8, 2026 – January 10, 2027Justin Caguiat makes his UK institutional debut with ‘Change Ringing,’ an ambitious exhibition spanning painting, sculpture, printmaking, sound and film. Taking over Serpentine South, the presentation explores the relationship between art, architecture and the passage of time. Among the highlights are paintings made with heat-sensitive pigments that shift in color and appearance depending on their environment, alongside bronze bells cast in the forms of flowers and seeds. The result is an evolving exhibition that challenges the idea of an artwork as something fixed.Tarek Atoui, ‘Hold’ at Tate ModernOctober 13, 2026 – April 11, 2027Lebanese artist and composer Tarek Atoui transforms Tate Modern's iconic Turbine Hall into an expansive sonic environment for the latest Hyundai Commission. Titled ‘Hold,’ the installation brings together custom-built instruments, sculptural objects, electronics and percussion to create an evolving orchestra of sound and movement. Visitors are invited to experience the work through both listening and physical sensation, while a program of live performances will continually reshape the space. It's a monumental exploration of how music, architecture and human interaction can exist as one.CART Department x Kozo, ‘A World Within’ at The Peninsula LondonOctober 15–"
+    },
+    {
+      "id": "57bd281bd6afac48",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Hermès’ New H08 Watches Play With Cool-Toned Ceramic",
+      "url": "https://hypebeast.com/2026/10/hermes-h08-blue-white-editions-manufacture-h1837-movement-release-info",
+      "publishedAt": "2026-10-14T10:00:16.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "Hermès’ New H08 Watches Play With Cool-Toned Ceramic Summary Hermès expands the H08 with Bleu de Malte and Blanc Chantilly editions.Both 39mm models pair ceramic bezels with aluminum-coated glass-fibre composite cases.The H1837 automatic movement provides a 50-hour power reserve. Hermès is adding two fresh colorways to its contemporary sports-watch family with new H08 editions in Bleu de Malte and Blanc Chantilly.First introduced in 2021, the H08 has become one of the Maison’s most distinctive modern watch designs, defined by a cushion-shaped case that sits somewhere between a circle and a square, oversized graphic numerals and an emphasis on contrasting technical materials. The latest pair retains that familiar 39mm architecture, but shifts the character through cooler, lighter tones: both use a braided glass-fibre composite case coated with aluminum, framed by satin-brushed ceramic bezels with mirror-polished chamfers and finished with color-matched rubber straps.The Bleu de Malte version takes the sportier approach, pairing its blue ceramic bezel and rubber strap with a rhodium-plated, crystal-sandblasted dial. Applied ruthenium-plated Arabic numerals are filled with blue Super-LumiNova, while blue PVD-coated hands and a choice of orange or blue minute-track accents sharpen the contrast.Its Blanc Chantilly counterpart is considerably more tonal, using a white ceramic bezel, white lacquered dial and matching rubber strap to create an almost monochromatic treatment. Grey minute markings, ruthenium-plated numerals and black-gold hands add definition without disrupting the pared-back palette. Both retain the H08’s subtly offset date window at 4:30 and are water-resistant to 10 bar, keeping their cleaner aesthetic grounded in everyday practicality.Inside both watches is the automatic Hermès Manufacture H1837 caliber, a 193-component movement running at 4 Hz and delivering a 50-hour power reserve. Its finishing includes circular graining, snailing, satin-brushed bridges and an oscillating weight decorated with Hermès’ repeating “H” motif. For more information, head over to Hermès' official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4437ec125ce5b4f1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tyler, The Creator Gives the Converse Pro Leather Four New Personalities",
+      "url": "https://hypebeast.com/2026/10/converse-tyler-the-creator-golf-le-fleur-pro-leather-molten-lava-bison-white-black-colorways-release-info",
+      "publishedAt": "2026-10-14T09:51:39.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "Tyler, The Creator Gives the Converse Pro Leather Four New Personalities Name: Converse x Golf Le Fleur* Pro LeatherMSRP: $105 USDRelease Date: Available NowWhere to Buy: ConverseConverse and Tyler, The Creator are expanding their collaborative 1908 program with a bold update to the iconic Pro Leather silhouette. Dropping in four distinct new colorways - “Molten Lava,” “Bison,” “White,” and “Black” - the release showcases the sheer versatility of the reimagined 1976 basketball classic.The “Black” and “White” iterations anchor the collection with a clean, foundational aesthetic built from premium full-grain leather. For a more textured, striking look, the “Bison” colorway offers a warm, earthy brown suede paired with soft yellow accents, while the \"Molten Lava\" execution turns up the volume in a vibrant red suede complete with contrasting laces. Each expression highlights Tyler's unique instinct for color and material storytelling, proving how much aesthetic range can live inside a single sneaker.Drawing inspiration from the bootleg shops that historically reshaped footwear silhouettes by hand, this updated Pro Leather features significantly exaggerated proportions. The shoe boasts a wider toe box, oversized eyelet rows, and chunky laces that give it a confident, heavy-set stance. Archival cues like the perforated detailing, classic heel panel, and the iconic Star Chevron logo maintain the shoe's rich heritage, while a new embossed star stretching across the toe cap adds a fresh structural dimension. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "bfab9756760cb486",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jeremy Renner Confirms Hawkeye Will Not Appear in 'Avengers: Doomsday'",
+      "url": "https://hypebeast.com/2026/10/marvel-jeremy-renner-confirms-hawkeye-will-not-appear-avengers-doomsday",
+      "publishedAt": "2026-10-14T09:48:44.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "Jeremy Renner Confirms Hawkeye Will Not Appear in 'Avengers: Doomsday' Summary Jeremy Renner confirmed he will not reprise his role as Hawkeye in Marvel Studios’ 'Avengers: Doomsday'The actor joked that the Avengers are destined to lose because the production team never reached out to bring him backThe absence follows Renner’s extensive physical recovery from a near-fatal 2023 snowplow accident Marvel Studios will move forward without one of its original roster members, as Jeremy Renner confirmed he will not appear as Hawkeye in Avengers: Doomsday. The veteran actor confirmed his absence from the upcoming ensemble blockbuster during a recent interview.Renner did not hesitate to shut down rumors about Clint Barton joining the fight against the franchise's newest threats. \"No, no, no, no. Not in that one,\" Renner stated when directly asked about participating in the production. \"Doomsday I’m not in, so the Avengers will probably lose, just so you know... they didn't call me, so it's their fault. They’re going to lose.\"The clarification arrives despite Renner having previously stated in 2025 that he was eager to return to the Marvel Cinematic Universe—whether in a potential second season of Hawkeye or future feature projects—noting he had recovered \"more than 150%\" following his traumatic 2023 Sno-Cat snowplow accident. While he will sit out the ensemble entry, the actor expressed excitement surrounding the theatrical re-release of 2019's Avengers: Endgame.Avengers: Doomsday is scheduled to hit theaters on December 18.even hawkeye knows the avengers lose when he's not in the movie😭 #AvengersDoomsday https://t.co/i81g9ewvti&mdash; em | doomsday era (@drdoomarchive) October 11, 2026 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b52315a22ec8265a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Attack on Titan: The Musical’ Heads to Singapore for World Tour Kickoff",
+      "url": "https://hypebeast.com/2026/10/attack-on-titan-musical-world-tour-singapore-april-2027-info",
+      "publishedAt": "2026-10-14T09:32:59.000Z",
+      "collectedAt": "2026-10-14T16:53:38.510Z",
+      "text": "‘Attack on Titan: The Musical’ Heads to Singapore for World Tour Kickoff Summary Attack on Titan: The Musical begins its first world tour in Singapore in April 2027.The production runs at Marina Bay Sands from April 15 to May 2.Additional international tour cities will be announced later. Attack on Titan: The Musical has officially announced plans for an expansive world tour, which will kick off next spring in Singapore. Scheduled to run from April 15 to May 2, 2027, the highly anticipated stage adaptation of Hajime Isayama’s legendary manga will be hosted at the Sands Theatre within Marina Bay Sands. This initial engagement marks the original Japanese production's first-ever performance in Asia outside of its home country, following previous, highly successful, and completely sold-out runs in major cities like Osaka, Tokyo and New York.Presented entirely in Japanese with accompanying English subtitles, the production utilizes a specialized theatrical genre known as \"2.5-dimensional theater,\" which seamlessly blends intricate costumes, complex choreography, high-tech stage effects, and detailed visual design to bring two-dimensional anime and manga properties to vivid life on a three-dimensional stage.Focusing heavily on the early chapters of Isayama's dystopian narrative, the musical adaptation is directed by Gō Ueki and features a book written by Masafumi Hata. The music, distinct from the iconic anime soundtrack, boasts original songs crafted specifically for the production under the guidance of music director and hip-hop artist KEN THE 390, alongside lyricist Kaori Miura. However, fans of the anime will be treated to at least one familiar auditory staple, as the beloved first-season opening theme, \"Guren no Yumiya,\" is slated to be featured.The Singapore engagement is presented by Base Entertainment Asia, with general ticket sales having recently opened, signaling the start of a massive global rollout as the stage show prepares to announce further international tour dates in the near future. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f0dfa0efcc862786",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Acne Studios and Hussein Chalayan Reimagine Archival Designs in New Collaboration",
+      "url": "https://hypebeast.com/2026/10/acne-studios-and-hussein-chalayan-reimagine-archival-designs-in-new-collaboration",
+      "publishedAt": "2026-10-14T09:32:56.000Z",
+      "collectedAt": "2026-10-14T16:53:38.511Z",
+      "text": "Acne Studios and Hussein Chalayan Reimagine Archival Designs in New Collaboration Summary Acne Studios collaborates with Hussein Chalayan on a 12-piece capsule inspired by his early 2000s collections.Highlights include patchworked denim, asymmetrical silhouettes and a reworked Camero handbag.An accompanying V&A campaign and limited-edition book celebrate Chalayan's creative legacy. Acne Studios has joined forces with British-Cypriot designer Hussein Chalayan for a 12-piece capsule that revisits some of his most influential designs from the early 2000s. Renowned for his conceptual approach to fashion, Chalayan helped redefine the boundaries of garment construction throughout the 1990s and beyond, treating clothing as a medium for exploring transformation, displacement, technology and the passage of time.Drawing inspiration from his SS01 \"Ventriloquy\", SS02 \"Medea\" and SS03 \"Manifest Destiny\" collections, the collaboration reinterprets his experimental design language through Acne Studios' signature materials of denim, jersey and leather. The partnership also reflects a creative dialogue between Chalayan and Acne Studios co-founder and creative director Jonny Johansson, whose shared interest in unconventional construction and material experimentation forms the foundation of the collection.Among the collection's highlights are patchworked denim jeans in Acne Studios' signature 1996 and 2009 fits, alongside a new twisted silhouette featuring a trompe l'oeil python print. A patchworked denim shirt, asymmetrical denim vest and dress reference the layered constructions of Chalayan's \"Manifest Destiny\" collection, with similar techniques extending into jersey T-shirts and vests. Accessories include a reworked Camero handbag crafted from patchworked leather in denim-inspired hues, while a graphic slogan T-shirt commemorates the collaboration.The accompanying campaign was photographed at London's V&A East Storehouse, where the new pieces appear alongside archival Chalayan designs, including his 2011 Tulle Dress and the Haiku Dress from the Sakoko SS11 collection. Coinciding with the release is Reference: Hussein Chalayan, a limited-edition book of 1,000 copies, editorially directed by Charlene Prempeh and featuring archival imagery, illustrations and essays examining the designer's creative legacy.The Acne Studios x Hussein Chalayan collection will be available online and at select Acne Studios boutiques worldwide, including locations in Beijing, Shanghai, Tokyo, Pa"
+    },
+    {
+      "id": "b0ce0616f3bf2872",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Giorgio Armani and Kith Unveil Third Collaboration, Dreams of the Dune",
+      "url": "https://hypebeast.com/2026/10/giorgio-armani-kith-3rd-dreams-of-the-dune-release-info",
+      "publishedAt": "2026-10-14T09:20:24.000Z",
+      "collectedAt": "2026-10-14T16:53:38.511Z",
+      "text": "Giorgio Armani and Kith Unveil Third Collaboration, Dreams of the Dune Giorgio Armani and Kith have announced their third menswear collaboration, Dreams of the Dune.Drawing inspiration from desert landscapes and hues, the collection debuted on October 9 (local time) during a runway show held in the Agafay Desert in Marrakech, Morocco.The collection fuses Giorgio Armani's long-cultivated tailoring aesthetics with Kith's modern approach to menswear. Building on their past two collaborations, the brands reinterpret structure, proportion, and materiality to offer a complete wardrobe spanning ready-to-wear, accessories, and footwear.The inspiration stems from the tranquility of the desert and the colors woven by the sun-drenched earth. A color palette transitioning from black and deep blue to dark brown, reddish earth tones, sand, greige, gray, and icy white is reflected across the materials, layering, and silhouettes.The lineup is anchored by belted shearling jackets, two-tone lamb leather utility jackets, and lambskin suede blousons. Signature Giorgio Armani details—such as unconstructed tailoring, soft shoulder lines, and relaxed silhouettes—are newly interpreted through Kith's lens. Alongside trousers and cargo pants, the offering includes reversible sweater blousons, short-sleeve sweaters, cashmere sets, graphic t-shirts, and embroidered sweatshirts.Materials include leather, suede, silk, cotton, viscose, virgin wool, cashmere, and pure hemp. The fluid landscape of the desert is captured through prints inspired by wind-sculpted dunes. A cohesive aesthetic runs throughout the entire collection, extending to accessories like scarves, gloves, and hats, as well as leather goods, travel items, and eyewear.Furthermore, the launch features special collaborations with ASICS, Diemme, and '47. The shared aesthetic of Giorgio Armani and Kith is expressed through the craftsmanship and design legacy of each partnering brand.The triple collaboration with ASICS introduces the GEL-MAI 0.1 in two colorways: \"Quarry\" and \"Safari.\" Combining pigskin suede, nubuck, and long-hair suede, the sneakers feature the logos of each brand on the sides, heels, and tongues. The Diemme partnership offers five footwear styles crafted with suede, leather, and shearling linings. The capsule collection with '47 rolls out nine cap styles utilizing wool, cashmere, lambskin leather, and duck canvas.\"Giorgio Armani x Kith Dreams of the Dune\" will be available starting Friday, October 16 at Kith "
+    },
+    {
+      "id": "23924b59e4ae24e0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Druski Reportedly Set to Become First Digital Creator to Host 'Saturday Night Live'",
+      "url": "https://hypebeast.com/2026/10/druski-become-first-digital-creator-host-saturday-night-live-snl-reports",
+      "publishedAt": "2026-10-14T09:14:57.000Z",
+      "collectedAt": "2026-10-14T16:53:38.511Z",
+      "text": "Druski Reportedly Set to Become First Digital Creator to Host 'Saturday Night Live' Summary Sketch comedian Druski is reportedly set to become the first digital creator to host 'Saturday Night Live'The milestone episode is slated to air on November 7 marking a major crossover between social media comedy and late-night televisionWhile the NBC institution has historically mined internet talent for cast members this marks the first time an online creator will take on headlining host duties NBC’s long-running sketch comedy institution Saturday Night Live is reportedly set to tap digital comedian Druski as a guest host. According to Puck News, the upcoming booking marks the first time in the show's history that a pure-play digital creator will headline the program.Druski, whose real name is Drew Desbordes, has built a massive following across TikTok and Instagram through viral character-driven sketches. While executive producer Lorne Michaels and the show have scouted internet platforms for featured cast members as far back as Andy Samberg and The Lonely Island in 2005, the hosting slot has remained reserved for traditional stars. Even recent hosts with dominant online fanbases, such as Nate Bargatze and Shane Gillis, established themselves on the live stand-up touring circuit before securing the gig.The impending appearance represents a watershed moment for internet creators crossing over into legacy broadcast media. While a representative for Saturday Night Live declined to comment on the yet-to-be-announced scheduling, the high-profile slot could pave the way for more digital performers making the leap to Studio 8H. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c0442581bd8d2ecd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple’s New Apple TV 4K Turns the Living Room Into Siri AI’s Home Base",
+      "url": "https://hypebeast.com/2026/10/new-apple-tv-4k-2026-announcement-release-info",
+      "publishedAt": "2026-10-14T08:58:53.000Z",
+      "collectedAt": "2026-10-14T16:53:38.511Z",
+      "text": "Apple’s New Apple TV 4K Turns the Living Room Into Siri AI’s Home Base Summary Apple’s 4th-generation Apple TV 4K debuts Siri AI as a full-screen, conversational guide to everything on the big screenThree built-in far-field microphones and an A19 chip with a dedicated AV1 decoder make it the most capable box in the lineupThe streamer arrives as the anchor of a wider Apple Home rollout that also includes HomeView, HomePod mini 2 and the Apple Home Collection Apple has introduced the 4th-generation Apple TV 4K, a reworked streaming box built around Siri AI, the overhauled assistant powered by the next wave of Apple Intelligence. Beyond the software leap, the new unit adds three far-field microphones for voice control without the remote, a significantly faster A19 chip and support for a four-speaker HomePod surround setup that calibrates itself to the room.Siri AI lives on Apple TV 4K as a full-screen interface rather than a small pop-up, letting viewers search by mood, award wins or genre and browse results as poster art pulled straight from the Apple TV app. Mid-episode questions about filming locations or age suitability surface in a discreet overlay that keeps the show running, and owners with an Apple Intelligence-enabled iPhone can lean on personal context for requests like queuing up a series a friend suggested. Siri AI launches as a beta in tvOS 27.2, works on Apple TV 4K units from the 2nd generation onward, and is initially limited to English in the U.S., Australia, Canada, India, New Zealand, Singapore, South Africa and the UK.Hands-free operation comes courtesy of a trio of far-field microphones paired with echo cancellation that separates a speaker’s voice from whatever is playing, so “Siri” commands register even at full volume. Mic data runs through Secure Exclaves on the A19, isolated runtimes walled off from tvOS, apps and Apple itself, while Siri requests are handled either on-device or through Private Cloud Compute, where nothing is stored or exposed. Far-field voice support currently covers nine primary languages, including English, Mandarin Chinese, French and German.Under the hood, the A19 chip posts gains of as much as 50 percent in CPU speed and up to double the GPU output of the outgoing model, translating into snappier menus and smoother animation. A new dedicated AV1 decoder also lets the box stream high-quality video more efficiently on less bandwidth. The Siri Remote keeps its existing silhouette but gains Find My support with Pre"
+    },
+    {
+      "id": "6c96258cb25355b2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Christopher Meloni and William H. Macy Tackle Gridiron Turmoil in Hulu's 'The Land'",
+      "url": "https://hypebeast.com/2026/10/christopher-meloni-william-h-macy-hulu-the-land-official-trailer-release-info",
+      "publishedAt": "2026-10-14T08:45:48.000Z",
+      "collectedAt": "2026-10-14T16:53:38.511Z",
+      "text": "Christopher Meloni and William H. Macy Tackle Gridiron Turmoil in Hulu's 'The Land' Summary Hulu has debuted the first trailer for 'The Land' a scripted drama centered on the Cleveland BrownsCreated by Dan Fogelman the series stars Christopher Meloni as an embattled head coach alongside William H. Macy as team owner Hal DurkinProduced in partnership with the NFL the show premieres February 15 the day after Super Bowl LXI Hulu has released the first official trailer for The Land, an upcoming scripted drama centered on the Cleveland Browns and produced in direct partnership with the NFL. The series comes from creator Dan Fogelman (This Is Us, Paradise) and explores the volatile dynamics surrounding the franchise on and off the field.Christopher Meloni stars as Danny Roarke, Cleveland's head coach tasked with revitalizing the struggling organization. With his career on the line, Roarke's fortunes hinge on his son, Connor Roarke, a rookie quarterback out of Ohio State whose fictional draft moment was filmed live during the 2026 NFL draft in Pittsburgh. In the front office, team owner Hal Durkin (William H. Macy) faces his own corporate succession battle as he decides which of his two daughters will take over the franchise. Describing the storyline, Macy characterized the writing as \"Shakespearean,\" noting that the series balances the sport with profound personal stakes.The ensemble cast features Mandy Moore, Chace Crawford, Sam Corlett, Tanner Zagarino, Chloe Bennet, Bridget Moynahan, and Omar Epps. With the NFL serving as an official co-producer, the production integrates authentic league branding and behind-the-scenes access to capture professional football culture.The Land premieres on Hulu on February 15, airing the day after Super Bowl LXI. Read more at Hypebeast"
+    },
+    {
+      "id": "39ac19157f2fddf8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Fox Revives 'Baywatch' With Stephen Amell Leading the Lifeguard Crew",
+      "url": "https://hypebeast.com/2026/10/fox-baywatch-reboot-series-stephen-amell-brooks-nader-noah-beck-shay-mitchell-megan-thee-stallion-official-trailer-release-info",
+      "publishedAt": "2026-10-14T08:41:53.000Z",
+      "collectedAt": "2026-10-14T16:53:38.511Z",
+      "text": "Fox Revives 'Baywatch' With Stephen Amell Leading the Lifeguard Crew Summary Fox has debuted the official first trailer for its upcoming 12-episode reboot of the iconic series 'Baywatch'Stephen Amell stars as Captain Hobie Buchannon alongside Jessica Belkin and featured guest Megan Thee StallionThe television series was filmed in Los Angeles and is scheduled to premiere on Fox in January Fox has officially released the first trailer for its upcoming television reboot, Baywatch. Directed in part by McG and spearheaded by showrunner Matt Nix, the 12-episode production revives the iconic beachside drama for the network's 2026–2027 broadcast season.The three-minute preview opens with series lead Stephen Amell orchestrating a high-stakes ocean rescue following a mid-air collision between an airplane and a parasail. Amell stars as an adult Hobie Buchannon, stepping into the footsteps of his father, Mitch, as an active Baywatch Captain. The storyline centers on Hobie’s life being disrupted by the sudden arrival of his long-lost daughter, Charlie (Jessica Belkin), who arrives determined to join the lifeguard ranks and preserve the family legacy.Co-produced by Fox Entertainment and Fremantle, the Los Angeles-filmed drama rounds out its ensemble with Shay Mitchell, Brooks Nader, Hassie Harrison, Livvy Dunne, Noah Beck, David Chokachi, and Thaddeus LaGrone, alongside recurring appearances from Ashley Moore and Luke Eisner. The trailer also confirms a high-profile cameo appearance from hip-hop superstar Megan Thee Stallion.The Baywatch reboot is scheduled to premiere on Fox in January 2027. Read more at Hypebeast"
+    },
+    {
+      "id": "8af12862198fc337",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Dodge Charger SRT Hellcat Is Reportedly Coming Back in 2028 With a Supercharged V8",
+      "url": "https://hypebeast.com/2026/10/dodge-charger-srt-hellcat-to-return-in-2028-model-year",
+      "publishedAt": "2026-10-14T08:26:12.000Z",
+      "collectedAt": "2026-10-14T16:53:38.511Z",
+      "text": "The Dodge Charger SRT Hellcat Is Reportedly Coming Back in 2028 With a Supercharged V8 Summary Internal Stellantis documents reveal plans to resurrect the supercharged Hemi V-8 for the 2028 Dodge Charger SRT HellcatThe returning muscle car will feature a rear-wheel-drive configuration and an automatic-only transmissionDodge plans to produce approximately 12,000 units annually across both two-door and four-door variants The era of the American V-8 is not dead yet. According to internal Stellantis documents cited in recent reports by Automotive News and Mopar Insiders, the legendary Dodge Charger SRT Hellcat is slated to make a massive comeback for the 2028 model year. While Dodge recently pivoted its next-generation muscle car lineup toward a progressive future by focusing on standard all-wheel drive, inline-six engines and battery-powered powertrains, this latest leak confirms a return to traditional, high-octane roots. The documents indicate that Dodge plans to bring back the revered supercharged Hemi V-8 engine, dropping it into the Charger chassis to serve traditional muscle car enthusiasts who previously purchased the high-horsepower iterations in massive volumes. A Dodge spokesperson declined to comment on the emerging reports, holding to the standard line that the company does not comment on future product plans.When the 2028 model arrives, it will pack the familiar heat that defined a decade of modern street culture. The returning vehicle features a massive 6.2-liter supercharged Hemi V-8 engine. To handle that immense power output, Dodge plans to pair the engine exclusively with a ZF 8HP95 automatic transmission. According to reports, the new Hellcat is automatic-only, skipping the manual transmission option once offered on the previous Challenger Hellcat. More importantly for purists, the 2028 Dodge Charger SRT Hellcat sends power exclusively to the rear wheels. This dedicated rear-wheel-drive configuration marks a major departure from all other current Charger models, which currently come standard with an all-wheel-drive system. Dodge reportedly uses the internal code \"HEV\" to refer to the new Hellcat model in its internal paperwork.To provide maximum versatility for drivers, Dodge will offer the supercharged V-8 engine on both the sleek two-door and practical four-door Charger models. For those wondering if this signals a complete reversal of the brand's current trajectory, internal documents confirm that the rest of the 2028 Dodge Charger lineu"
     }
   ]
 }
