@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-15",
+    "id": "social-2026-10-16",
     "mode": "live",
-    "generatedAt": "2026-10-15T16:40:52.414Z",
-    "postsCollected": 25,
+    "generatedAt": "2026-10-16T16:23:29.793Z",
+    "postsCollected": 24,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -76,11 +76,11 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 50,
-      "confidence": 52,
-      "youthRelevance": 65,
-      "velocity": -25,
-      "evidence": "6 public posts · 1 network · 7-day comparison",
+      "score": 45,
+      "confidence": 50,
+      "youthRelevance": 64,
+      "velocity": -37,
+      "evidence": "5 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od",
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "25 observations"
+      "reason": "24 observations"
     },
     {
       "id": "bluesky",

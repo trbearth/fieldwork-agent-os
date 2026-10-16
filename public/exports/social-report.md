@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-15
+# Fieldwork Public Pulse — 2026-10-16
 
 ## 1. Quiet performance
 
@@ -24,9 +24,9 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 50 · confidence 52% · youth 65%**
+**emerging · score 45 · confidence 50% · youth 64%**
 
-6 public posts · 1 network · 7-day comparison
+5 public posts · 1 network · 7-day comparison
 
 - [Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od](https://tardigram.com/m/Medicina/t/90689) — Mastodon
 - [A navy double-breasted blazer over a grey sweatshirt, white OCBD and green-and-navy tie. Navy pleate](https://mastodon.social/@seoul_trad/117431000765816812) — Mastodon
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 25 observations
+- **mastodon:** ready — 24 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.
