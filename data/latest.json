@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-16",
+    "id": "2026-10-17",
     "mode": "live",
-    "displayDate": "OCT 16, 2026, 12:23 PM EDT",
-    "generatedAt": "2026-10-16T16:23:20.021Z",
-    "itemsCollected": 55,
+    "displayDate": "OCT 17, 2026, 11:17 AM EDT",
+    "generatedAt": "2026-10-17T15:17:37.658Z",
+    "itemsCollected": 38,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 13
       },
       {
         "source": "Hypebeast",
@@ -71,6 +71,26 @@
           "url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/"
         }
       ]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 38,
+      "direction": "up",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Nico Hulkenberg and Gabriel Bortoleto Star in ic! berlin’s Inaugural Motorsport Campaign",
+          "source": "Hypebeast",
+          "date": "Oct 17",
+          "url": "https://hypebeast.com/2026/10/nico-hulkenberg-gabriel-bortoleto-star-ic-berlin-motorsport-campaign"
+        }
+      ]
     }
   ],
   "cooling": {
@@ -82,7 +102,7 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1016",
+    "code": "AUTO 1017",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [

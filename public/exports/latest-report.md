@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-10-16
+# Fieldwork Daily Signal — 2026-10-17
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -22,6 +22,16 @@ Quiet performance is appearing across 1 independent public source.
 2 observations · 1 independent source · +100% seven-day velocity
 
 - [UGG’s Waterproof Slippers Can Handle Winter's Worst](https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/) — Highsnobiety, Oct 12
+
+## 3. Archival sportswear
+
+**emerging · score 43 · confidence 19% · youth 38%**
+
+Archival sportswear is appearing across 1 independent public source.
+
+1 observation · 1 independent source · +100% seven-day velocity
+
+- [Nico Hulkenberg and Gabriel Bortoleto Star in ic! berlin’s Inaugural Motorsport Campaign](https://hypebeast.com/2026/10/nico-hulkenberg-gabriel-bortoleto-star-ic-berlin-motorsport-campaign) — Hypebeast, Oct 17
 
 ## Method note
 
