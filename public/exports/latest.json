@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-17",
+    "id": "2026-10-18",
     "mode": "live",
-    "displayDate": "OCT 17, 2026, 11:17 AM EDT",
-    "generatedAt": "2026-10-17T15:17:37.658Z",
-    "itemsCollected": 38,
+    "displayDate": "OCT 18, 2026, 11:39 AM EDT",
+    "generatedAt": "2026-10-18T15:39:28.497Z",
+    "itemsCollected": 21,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 13
+        "count": 6
       },
       {
         "source": "Hypebeast",
@@ -53,26 +53,6 @@
       ]
     },
     {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 49,
-      "confidence": 24,
-      "youthRelevance": 49,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
-          "source": "Highsnobiety",
-          "date": "Oct 12",
-          "url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/"
-        }
-      ]
-    },
-    {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
@@ -91,18 +71,38 @@
           "url": "https://hypebeast.com/2026/10/nico-hulkenberg-gabriel-bortoleto-star-ic-berlin-motorsport-campaign"
         }
       ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 27,
+      "confidence": 20,
+      "youthRelevance": 38,
+      "direction": "flat",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "citations": [
+        {
+          "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
+          "source": "Highsnobiety",
+          "date": "Oct 12",
+          "url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/"
+        }
+      ]
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Quiet performance",
+    "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1017",
+    "code": "AUTO 1018",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [

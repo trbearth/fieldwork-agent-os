@@ -2985,6 +2985,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-18",
+      "mode": "live",
+      "displayDate": "OCT 18, 2026, 11:39 AM EDT",
+      "generatedAt": "2026-10-18T15:39:28.497Z",
+      "itemsCollected": 21,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 6
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 27,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -46426,6 +46468,237 @@
       "publishedAt": "2026-10-16T18:00:21.000Z",
       "collectedAt": "2026-10-17T15:17:36.405Z",
       "text": "Pro Photographer Megan Collante's Latest Shoot Exemplifies Unbreakable Tradition Toyota has tapped NYC-native photographer Megan Collante to present \"A City in Frame: Some Things Never Change,\" featuring the bZ, part of Toyota’s New All-Electric Family.Since middle school, Kenny and Alex have had a ritual: after school, Alex would be waiting outside by the buses and the two would go get ice cream – no plan, no discussion needed. It's stuck around ever since, even as everything else about their lives changed.Kenny has finally put his brushes down after a 12-hour day in the studio, paint still under his fingernails. His art has only gotten bigger, messier, more demanding as his career has taken off – bigger canvases, later nights, more of himself poured into every piece. But no matter how complicated the day gets, the drive to their spot never does. Alex just puts the bZ in gear and goes, its electrifying performance makes the trip through Manhattan traffic feel effortless and exhilarating, like no time has passed since they were 12 years old. With the touch of a finger, the same playlist they’ve been curating since middle school plays on repeat, turning the bZ into a sanctuary of comfort. And when their one scoop turns into a long night of unwinding through the driving roads near Storm King Mountain, there’s no worry about getting home: miles of charge means a night of memory making.Their tradition bends, but it never breaks. In the end, some things never change.Check out Megan Collante's \"A City in Frame: Some Things Never Change,\" and learn moreabout the all-electric bZ here.Disclaimer: All vehicles displayed are not in motion. Vehicle loaned to talents. Cargo and load capacity limited by weight and distribution. Always properly secure cargo and cargo area. Read more at Hypebeast"
+    },
+    {
+      "id": "56cb69f82ce36501",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Next Generation of Collagen Is Here—Does It Work?",
+      "url": "https://www.vogue.com/article/collagen-tripeptides",
+      "publishedAt": "2026-10-18T14:00:00.000Z",
+      "collectedAt": "2026-10-18T15:39:24.489Z",
+      "text": "The Next Generation of Collagen Is Here—Does It Work? Collagen supplements can help with healthier joints and smoother skin—but does the latest version live up to the hype?"
+    },
+    {
+      "id": "b30cb8996978f0ed",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Exclusive: Inside the Academy Museum Gala, Where Hollywood Let Its Hair Down",
+      "url": "https://www.vogue.com/slideshow/academy-museum-gala-2026",
+      "publishedAt": "2026-10-18T10:47:54.000Z",
+      "collectedAt": "2026-10-18T15:39:24.490Z",
+      "text": "Exclusive: Inside the Academy Museum Gala, Where Hollywood Let Its Hair Down Hollywood turned out in full force on Saturday for its favorite Q4 night out: the sixth annual Academy Museum of Motion Pictures gala, an evening that doubled as a celebration of the museum’s anniversary and raised more than $14 million for its exhibitions, education initiatives, and public programs."
+    },
+    {
+      "id": "d2062b88b39b1a13",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tommy’s Take on Why More Is More When it Comes to Accessorizing",
+      "url": "https://www.vogue.com/article/tommy-tons-take",
+      "publishedAt": "2026-10-18T10:00:00.000Z",
+      "collectedAt": "2026-10-18T15:39:24.490Z",
+      "text": "Tommy’s Take on Why More Is More When it Comes to Accessorizing In monthly installments surrounding a fashion theme, street style photographer Tommy Ton gives us an unfiltered close-up of the outfits that caught his eye and why."
+    },
+    {
+      "id": "4b57b17260f63c38",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 12 Best Airbnbs in Scotland for a Folkloric Fall Getaway",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-scotland",
+      "publishedAt": "2026-10-18T10:00:00.000Z",
+      "collectedAt": "2026-10-18T15:39:24.490Z",
+      "text": "The 12 Best Airbnbs in Scotland for a Folkloric Fall Getaway Stay in one of the best Airbnbs in Scotland, from cozy Edinburgh flats to cliffside homes."
+    },
+    {
+      "id": "e77c398a086a0df3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars From the 2026 Academy Museum Gala",
+      "url": "https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026",
+      "publishedAt": "2026-10-18T03:40:13.000Z",
+      "collectedAt": "2026-10-18T15:39:24.490Z",
+      "text": "The Best Dressed Stars From the 2026 Academy Museum Gala The best dressed stars of the night were those who leaned into classic Hollywood glamour—with a twist."
+    },
+    {
+      "id": "6795e93ce8dd228d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Exclusive: The Story Behind Hailey Bieber’s Jet-Black Mani at the 2026 Academy Museum Gala",
+      "url": "https://www.vogue.com/article/hailey-bieber-academy-gala-nail-look-exclusive-bts",
+      "publishedAt": "2026-10-18T02:59:25.000Z",
+      "collectedAt": "2026-10-18T15:39:24.490Z",
+      "text": "Exclusive: The Story Behind Hailey Bieber’s Jet-Black Mani at the 2026 Academy Museum Gala Hailey Bieber attended the sixth Academy Museum Gala with a new nail look: the jet-black mani. Here, Vogue speaks to Bieber’s go-to nail artist Zola Ganzorigt for the exclusive BTS details."
+    },
+    {
+      "id": "014cc2eb2a344c8f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Taylor Swift Is Belle of the Ball in Dior—and a Curly Lob—at the 2026 Academy Museum Gala",
+      "url": "https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026",
+      "publishedAt": "2026-10-18T02:34:22.000Z",
+      "collectedAt": "2026-10-18T15:39:24.490Z",
+      "text": "Taylor Swift Is Belle of the Ball in Dior—and a Curly Lob—at the 2026 Academy Museum Gala The singer, who is the special performer at this year’s Academy Gala, chose a custom Dior gown by Jonathan Anderson for the red carpet."
+    },
+    {
+      "id": "b137cd010eda5b93",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Story Behind Emma Chamberlain’s Classic Hollywood Look for the 2026 Academy Museum Gala",
+      "url": "https://www.vogue.com/slideshow/emma-chamberlain-academy-museum-gala-2026-10-17",
+      "publishedAt": "2026-10-18T02:04:02.000Z",
+      "collectedAt": "2026-10-18T15:39:24.490Z",
+      "text": "The Story Behind Emma Chamberlain’s Classic Hollywood Look for the 2026 Academy Museum Gala “The after-party is at the Chateau. It just feels like, ‘This is LA, baby! This is Hollywood.’ And we’re going to do it exactly like that,” Chamberlain told Vogue ahead of Saturday’s gala event."
+    },
+    {
+      "id": "fe3d7df97d42488a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Here’s How Daisy Edgar-Jones’s Stylist Brought Elinor Dashwood to 2026 for ‘Sense and Sensibility’",
+      "url": "https://www.vogue.com/slideshow/daisy-edgar-jones-sense-and-sensibility-press-tour-dani-michelle-interview",
+      "publishedAt": "2026-10-16T14:48:06.000Z",
+      "collectedAt": "2026-10-18T15:39:24.491Z",
+      "text": "Here’s How Daisy Edgar-Jones’s Stylist Brought Elinor Dashwood to 2026 for ‘Sense and Sensibility’ Stylist Dani Michelle procured fresh-off-the-runway Prada and antique Bucheron jewelry alike, for Daisy Edgar-Jones’s sprawling press tour."
+    },
+    {
+      "id": "53f6a98fb3e2eda8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Wheat Air Force 1 Sneaker Channels 2016 Nostalgia",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-sneaker-wheat/",
+      "publishedAt": "2026-10-18T07:19:00.000Z",
+      "collectedAt": "2026-10-18T15:39:25.806Z",
+      "text": "Nike’s Wheat Air Force 1 Sneaker Channels 2016 Nostalgia Nike's fresh-baked Wheat Air Force 1 Sneaker is back from the year 2016 & it hasn't missed a beat."
+    },
+    {
+      "id": "bb1c64e4f76da6cc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "For New Balance’s Sandy Skate Shoe, Less Is Really More",
+      "url": "https://www.highsnobiety.com/p/new-balance-numeric-440v2-high-quicksand/",
+      "publishedAt": "2026-10-17T20:36:48.000Z",
+      "collectedAt": "2026-10-18T15:39:25.806Z",
+      "text": "For New Balance’s Sandy Skate Shoe, Less Is Really More New Balance Numeric's 440v2 High sneaker lands in a simple \"Quicksand\" colorway, proving less is really more."
+    },
+    {
+      "id": "791da1c09713df61",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "In Leather, Crocs' Wallabee-Coded Sneaker Is More Dapper Than Ever",
+      "url": "https://www.highsnobiety.com/p/crocs-gallery-leather-shoe/",
+      "publishedAt": "2026-10-17T20:50:40.000Z",
+      "collectedAt": "2026-10-18T15:39:25.806Z",
+      "text": "In Leather, Crocs' Wallabee-Coded Sneaker Is More Dapper Than Ever Crocs releases a leather version of its Wallabee-style Gallery Shoe, resulting in an even more dapper version of the dressy hybrid model"
+    },
+    {
+      "id": "1c36905a09e478d9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike Built an All-Weather Recovery Sneaker for Hikers",
+      "url": "https://www.highsnobiety.com/p/nike-rejuven8-wntr-sneakers/",
+      "publishedAt": "2026-10-17T20:48:13.000Z",
+      "collectedAt": "2026-10-18T15:39:25.806Z",
+      "text": "Nike Built an All-Weather Recovery Sneaker for Hikers Nike debuts the Rejuven8 WNTR sneaker, a hiking-style recovery model with outdoorsy charm, protection from the elements, & stylish details."
+    },
+    {
+      "id": "286054bd2efb7bcd",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
+      "url": "https://www.highsnobiety.com/p/nike-sb-air-force-1-cool-grey-court-green/",
+      "publishedAt": "2026-10-17T20:46:31.000Z",
+      "collectedAt": "2026-10-18T15:39:25.806Z",
+      "text": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2) Nike SB's dropping a second unbranded version of the Nocturnal Air Force 1 skate shoe collab. And it's just as good as the original."
+    },
+    {
+      "id": "d8a4e0f6a541ba01",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Most Swaggy ACG Mules Are Straight from Doernbecher",
+      "url": "https://www.highsnobiety.com/p/nike-doernbecher-acg-rufus-2026/",
+      "publishedAt": "2026-10-17T20:44:37.000Z",
+      "collectedAt": "2026-10-18T15:39:25.806Z",
+      "text": "Nike's Most Swaggy ACG Mules Are Straight from Doernbecher Nike reveals its Doernbecher Freestyle 22 collection for 2026, which includes a pink camo ACG Rufus mule with loads of cool details."
+    },
+    {
+      "id": "02fb8eee5209254e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Bartosz Sztybor Warns Fans Not To Get Too Attached to ‘Cyberpunk: Edgerunners 2'",
+      "url": "https://hypebeast.com/2026/10/cyberpunk-edgerunners-2-cd-projekt-red-bartosz-sztybor-showrunner-interview",
+      "publishedAt": "2026-10-18T15:00:35.000Z",
+      "collectedAt": "2026-10-18T15:39:27.223Z",
+      "text": "Bartosz Sztybor Warns Fans Not To Get Too Attached to ‘Cyberpunk: Edgerunners 2' Night City has always been the real antagonist of the Cyberpunk universe — a sprawling, neon-drenched meat grinder where people don't so much survive as try to go down in flames on their own terms. That bleak philosophy gave the original Cyberpunk: Edgerunners much of its emotional punch, turning a standalone anime into a gateway to the wider Cyberpunk universe while helping to revitalize interest in the game franchise.But part of what made the anime resonate so deeply with audiences was precisely that David and Lucy's story had reached a definitive conclusion. In today's entertainment landscape, where successful franchises are rarely allowed to end on their own terms, that sense of finality was arguably one of Edgerunners' greatest strengths. Naturally, when Cyberpunk: Edgerunners 2 was announced, it raised a rather obvious question: what exactly was left to continue?As it turns out, showrunner Bartosz Sztybor had already been developing ideas for future Edgerunners stories while writing the original series. Conversations with Studio TRIGGER about the franchise's future were also underway before its 2022 premiere. The distinction, however, was never about revisiting David and Lucy's story, but rather exploring the countless other lives unfolding across Night City.Scheduled to premiere on Netflix on October 20, the new ten-episode series introduces an entirely different ensemble, with Kai Ikarashi taking over directorial duties from Hiroyuki Imaishi. But beyond its new characters and creative direction, Edgerunners 2 also raises bigger questions about how CD Projekt Red intends to develop the wider Cyberpunk universe.Just days ahead of the premiere, Hypebeast jumped on a Zoom call with Sztybor to unpack the sequel's secret origins, Studio TRIGGER's changing of the guard, and why viewers should never get too attached to anyone in Night City.When the first Edgerunners aired, CD Projekt Red made it quite clear that it was intended as a standalone story. When did that shift into the decision to tell more stories in Night City?Bartosz Sztybor: It was actually before that. I already had ideas for more Edgerunners stories while writing the first season. I don't want to say that the initial claim was unfortunate, because it was completely true: we never wanted to continue David’s story or Lucy’s story. We wanted to tell the audience that this chapter is done — David is dead, and we ar"
+    },
+    {
+      "id": "d1fa1eefbc41d3f6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Vacheron Constantin’s First Concours d’Élégance Spotlights 34 Historic Watches",
+      "url": "https://hypebeast.com/2026/10/phillips-in-association-with-bacs-russo-vacheron-constantin-concours-delegance-horlogere-info",
+      "publishedAt": "2026-10-18T09:06:44.000Z",
+      "collectedAt": "2026-10-18T15:39:27.223Z",
+      "text": "Vacheron Constantin’s First Concours d’Élégance Spotlights 34 Historic Watches Summary Phillips and Vacheron Constantin announced 34 finalists for the inaugural Concours d’Elégance Horlogère.A 14-member jury evaluated over 550 vintage timepieces spanning 1755 to 1999.Winners will be revealed in Geneva on November 10 following a public exhibition. Organized as an initiative by Phillips in Association with Bacs & Russo, Vacheron Constantin has officially announced the finalists for its inaugural Concours d’Elégance Horlogère. Billed as the first-ever \"Concours d'Élégance\" dedicated exclusively to haute horlogerie, this landmark event pays tribute to the international community of watch collectors and the Swiss manufacturer's 271-year heritage.The competition invites enthusiasts from around the globe to showcase their historically significant Vacheron Constantin timepieces, celebrating the pure, timeless beauty and enduring legacy of watches that have been cherished and passed down through generations. More than 550 owner-submitted timepieces were entered following the competition’s announcement earlier this year, spanning pocket watches and wristwatches made by Vacheron Constantin between 1755 and 1999. After authentication and evaluation by the Maison’s master watchmakers and Heritage experts, 95 pieces advanced to jury review before being narrowed to 34 finalists.The competition is divided across seven categories - Chronographs, Métiers d’Art, Chronomètre Royal, Astronomical Complications, Multiple Complications, Design and Chiming Mechanisms - creating a cross-section of more than two centuries of Vacheron Constantin watchmaking. Among the finalists are exceptionally rare and, in some cases, unique pieces: a steel Reference 4072 chronograph from 1940; a 1957 rectangular platinum full-calendar and moon-phase watch produced as a single piece; a one-off 1940 “Don Pancho” minute repeater with retrograde full date; and ornate cloisonné enamel watches depicting maps of the Americas and Europe. The selection also stretches into later neo-vintage territory, including skeletonized perpetual calendars, world timers and highly unusual references whose historical importance has, in some cases, only become clearer through the competition itself.Judging is being overseen by a panel of international watchmakers, historians, collectors, journalists and industry figures, co-chaired by Aurel Bacs and Christian Selmoni, with members including Felix Baumgartner, Benjamin Cly"
+    },
+    {
+      "id": "9ffde5678fb4093f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SEGA’s ‘Stranger Than Heaven’ Act 1 Trailer Introduces Snoop Dogg’s Orpheus",
+      "url": "https://hypebeast.com/2026/10/sega-stranger-than-heaven-act-1-kokura-story-trailer-info",
+      "publishedAt": "2026-10-18T08:27:44.000Z",
+      "collectedAt": "2026-10-18T15:39:27.223Z",
+      "text": "SEGA’s ‘Stranger Than Heaven’ Act 1 Trailer Introduces Snoop Dogg’s Orpheus Summary Stranger Than Heaven ’s Act 1 trailer follows Makoto Daito’s arrival in 1915 Kokura.Snoop Dogg’s Orpheus plays a major role in shaping Makoto’s early path.The game launches January 15, 2027. SEGA and Ryu Ga Gotoku Studio (RGG) have released the “Act 1: Kokura Story Trailer” for Stranger Than Heaven, offering a closer look at the opening chapter of Makoto Daito’s 50-year journey.Set in 1915, the footage follows the Japanese-American teenager as he flees persecution in the U.S. and secretly boards the vessel of globe-trotting merchant Orpheus, portrayed by Snoop Dogg, hoping to reach his late mother’s homeland. Orpheus features heavily throughout the trailer, discovering Makoto aboard his ship before gradually recognizing his musical talent and exposing him to the harder realities of the world awaiting him.The voyage also brings Makoto together with fellow stowaway Yu Shinjo, who later becomes one of his closest friends, before the pair arrive in Kokura, Fukuoka and encounter an environment every bit as unforgiving as the one they escaped. Set against jazz and rap-inflected sequences, the trailer introduces several figures who will shape Makoto’s early life while charting the circumstances that begin pushing him toward a career as a showman.The Kokura trailer is the first in a planned series of story previews following Makoto across Stranger Than Heaven’s five eras and cities, spanning 1915 to 1965. RGG Studio’s latest action-adventure moves from Kokura to Kure in 1929, Minami in 1943, Atami in 1951 and eventually Kamurocho in 1965, using each period to trace the protagonist’s changing identity against a reimagined half-century of Japanese history.First introduced as Project Century before receiving its official title, the game combines the studio’s character-driven storytelling and close-quarters combat with show-business elements, with Orpheus’ early influence appearing to establish music and performance as an important part of Makoto’s development. Stranger Than Heaven is scheduled to launch on January 15, 2027 for PlayStation 5, Xbox Series X|S and PC, with the title also available through Xbox Game Pass. Read more at Hypebeast"
+    },
+    {
+      "id": "6e9bd78bc75bc16f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Bleach: Thousand-Year Blood War – The Calamity’ Drops Its Final Trailer",
+      "url": "https://hypebeast.com/2026/10/bleach-thousand-year-blood-war-the-calamity-last-teaser-trailer-final-two-episodes-release-info",
+      "publishedAt": "2026-10-18T06:18:37.000Z",
+      "collectedAt": "2026-10-18T15:39:27.223Z",
+      "text": "‘Bleach: Thousand-Year Blood War – The Calamity’ Drops Its Final Trailer Summary Bleach: Thousand-Year Blood War - The Calamity releases its final promotional trailer.The preview centers on Ichigo’s climactic confrontation with Yhwach.The final two episodes arrive October 19 and October 26, 2026. Bleach: Thousand-Year Blood War - The Calamity has released its final promotional trailer ahead of the anime’s last two episodes, bringing Ichigo Kurosaki’s confrontation with Yhwach into its closing stretch.Titled “THE LAST PV,” the video opens by condensing the major battles and turning points that have carried the Thousand-Year Blood War arc toward its climax, before shifting into new footage from the finale. Ichigo and Yhwach remain at the center of the preview as the Quincy King’s plan threatens all three worlds, while Uryu Ishida, the remaining Soul Reapers and their unlikely allies are shown converging on the final conflict. The trailer leans heavily into the scale of the endgame, moving between fractured landscapes, rapid combat sequences and the mounting destruction surrounding Yhwach’s attempt to reshape reality.The Calamity serves as the fourth and final cour of the Thousand-Year Blood War adaptation, which began in 2022 and brought Tite Kubo’s concluding manga arc to animation more than a decade after the original Bleach television series ended. Produced by PIERROT FILMS, the final installment premiered in July 2026 under chief series director Tomohisa Taguchi and series director Hikaru Murata, with Kubo continuing to supervise the adaptation. Episodes 49 and 50 were previously delayed to allow additional production time as the series approached its climax; the penultimate episode will now stream on October 19, followed by the series finale on October 26. In the U.S., both subtitled episodes will arrive on Hulu, while Disney+ will carry the conclusion internationally. Read more at Hypebeast"
+    },
+    {
+      "id": "75731c9d2de10184",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "CJ Hendry’s “Juju Mega” Takes the Cult Collectible Online for the First Time",
+      "url": "https://hypebeast.com/2026/10/cj-hendry-juju-mega-first-ever-online-drop-hong-kong-pop-up-info",
+      "publishedAt": "2026-10-18T05:15:13.000Z",
+      "collectedAt": "2026-10-18T15:39:27.223Z",
+      "text": "CJ Hendry’s “Juju Mega” Takes the Cult Collectible Online for the First Time Summary CJ Hendry expands her Juju universe with Juju Mega in 10 colorways.A Hong Kong pop-up previews the release from October 28–31, 2026.The first global online drop launches November 1 in blind-box format. CJ Hendry is scaling up her cult-favorite Juju universe with Juju Mega, the artist’s first-ever online release for the collectible series. The new drop expands on Hendry’s ongoing exploration of the space between fine art, design and consumer culture, reimagining her rabbit-like character in 10 distinct colorways.Each plush retains the familiar Juju language of soft, fluid contours, exaggerated drooping ears and a leather flower covering one eye, turning the character into something that sits somewhere between art object and everyday companion. Before the global release, Juju Mega will make its physical debut through a four-day pop-up in Hong Kong, marking Hendry’s sixth major project in the city.The installation follows her previous Juju appearances with Phillips and the immersive jujuworld presentation at Pacific Place, this time transforming a Central location into a lilac faux-fur environment designed around a sense of comfort and childhood nostalgia. Visitors will be able to select their preferred colorway directly for HK$620 each, while the online edition will switch to a blind-box format. As with earlier Juju releases, availability is intentionally finite: once a variation sells out, it will not be restocked.The online drop launches November 1 at 7 p.m. EST via CJ Hendry Studio, priced at $79 USD per blind box, with worldwide shipping available for a flat $20 USD including customs and duties. Each collectible comes in a dustbag, with the broader presentation also incorporating a metal tin, fold-out “map” poster featuring all 10 variations and stickers. The Hong Kong Juju Mega pop-up runs from October 28 - 31 at 2–8 Wellington Street in Central. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "33c265c7baca610a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "MAS Transforms Karimoku’s Tokyo Gallery Into an Imaginary Japanese Inn",
+      "url": "https://hypebeast.com/2026/10/mas-karimoku-oyado-mas-commons-tokyo-info",
+      "publishedAt": "2026-10-18T04:00:42.000Z",
+      "collectedAt": "2026-10-18T15:39:27.223Z",
+      "text": "MAS Transforms Karimoku’s Tokyo Gallery Into an Imaginary Japanese Inn Summary MAS transforms Karimoku Commons Tokyo into an imagined Japanese inn for “Oyado MAS.”The exhibition explores the brand’s “New Japanese Comfort” through furniture, craft and hospitality.Collaborators include NEW LIGHT POTTERY, Nao Tesuki Washi, SEKISAKA, sheep and sinso. Karimoku is bringing MAS’ idea of “New Japanese Comfort” into a more immersive setting with “Oyado MAS,” a special exhibition transforming the first-floor gallery of Karimoku Commons Tokyo into an imagined Japanese inn.Founded in 2018 under Design Director Wataru Kumano, MAS has developed its furniture through an ongoing dialogue with Japan’s forests, with a particular focus on softwoods and the possibilities they offer for contemporary living. Rather than presenting the collection as isolated objects, Oyado MAS places the pieces within a holistic environment inspired by the rhythms and hospitality of an oyado, allowing furniture, light, craft and everyday objects to collectively define a new vision of domestic comfort.The installation expands on MAS’ functional, understated design language, where the warmth and familiarity of timber are balanced by clean proportions and forms intended to feel relevant beyond a single stylistic moment. Here, that approach is contextualized alongside work from NEW LIGHT POTTERY, Nao Tesuki Washi, SEKISAKA, sheep and sinso, collaborators that also joined MAS during this year’s 3daysofdesign. Bringing these different makers under one roof introduces layers of lighting, handmade paper, objects and textiles around the furniture, creating a lived-in atmosphere closer to an actual guesthouse than a conventional showroom. The result emphasizes material texture and quiet utility over spectacle, presenting Japanese craftsmanship as something integrated naturally into daily routines.In that sense, Oyado MAS builds on the brand’s previous presentations by shifting the focus from individual furniture pieces toward the relationships between objects, people and space. The imaginary inn format offers visitors an opportunity to experience how MAS’ collection functions within a broader interior ecosystem, reinforcing its pursuit of universally approachable design while grounding it in distinctly Japanese materials and sensibilities. “Oyado MAS” is on view at Karimoku Commons Tokyo until October 20, 2026, presenting the brand’s evolving interpretation of comfort through furniture, craft and contempo"
     }
   ]
 }

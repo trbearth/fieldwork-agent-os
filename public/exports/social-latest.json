@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-17",
+    "id": "social-2026-10-18",
     "mode": "live",
-    "generatedAt": "2026-10-17T15:17:46.901Z",
-    "postsCollected": 24,
+    "generatedAt": "2026-10-18T15:39:37.154Z",
+    "postsCollected": 23,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,17 +44,12 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 64,
-      "confidence": 52,
+      "score": 59,
+      "confidence": 50,
       "youthRelevance": 100,
-      "velocity": -45,
-      "evidence": "6 public posts · 1 network · 7-day comparison",
+      "velocity": -55,
+      "evidence": "5 public posts · 1 network · 7-day comparison",
       "citations": [
-        {
-          "title": "made new patches!! SWASTICARS logo patch, fash-smashing noise synth (I'm so happy to finally dedicat",
-          "url": "https://blahaj.zone/notes/a5v2auwii5sz01oy",
-          "network": "Mastodon"
-        },
         {
           "title": "I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc",
           "url": "https://blahaj.zone/notes/a6qm2hx0fvau0f4o",
@@ -68,6 +63,11 @@
         {
           "title": "Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab",
           "url": "https://mastodon.social/@moreniia_tys/115005103080334408",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Ready to make senior year unforgettable? From bold lettering and painted florals to rhinestones and ",
+          "url": "https://mastodon.social/@latestfits/117296676441966574",
           "network": "Mastodon"
         }
       ]
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "24 observations"
+      "reason": "23 observations"
     },
     {
       "id": "bluesky",
