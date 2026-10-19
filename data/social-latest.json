@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-18",
+    "id": "social-2026-10-19",
     "mode": "live",
-    "generatedAt": "2026-10-18T15:39:37.154Z",
-    "postsCollected": 23,
+    "generatedAt": "2026-10-19T18:34:37.849Z",
+    "postsCollected": 24,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -47,7 +47,7 @@
       "score": 59,
       "confidence": 50,
       "youthRelevance": 100,
-      "velocity": -55,
+      "velocity": -50,
       "evidence": "5 public posts · 1 network · 7-day comparison",
       "citations": [
         {
@@ -76,15 +76,20 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 45,
-      "confidence": 50,
-      "youthRelevance": 64,
-      "velocity": -37,
-      "evidence": "5 public posts · 1 network · 7-day comparison",
+      "score": 50,
+      "confidence": 52,
+      "youthRelevance": 65,
+      "velocity": -25,
+      "evidence": "6 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od",
           "url": "https://tardigram.com/m/Medicina/t/90689",
+          "network": "Mastodon"
+        },
+        {
+          "title": "A charcoal Balmacaan over a grey herringbone suit. A Fair Isle vest and red-and-navy striped tie bre",
+          "url": "https://mastodon.social/@seoul_trad/117465789897483367",
           "network": "Mastodon"
         },
         {
@@ -95,11 +100,6 @@
         {
           "title": "A navy gold-button blazer, white OCBD and ivory cricket knit with Black Watch trousers. A green-and-",
           "url": "https://mastodon.social/@seoul_trad/117425430019669836",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Grey herringbone tailoring layered with a patterned Fair Isle knit and a green padded vest. A blue O",
-          "url": "https://mastodon.social/@seoul_trad/117408383753276199",
           "network": "Mastodon"
         }
       ]
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "23 observations"
+      "reason": "24 observations"
     },
     {
       "id": "bluesky",

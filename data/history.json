@@ -3027,6 +3027,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-19",
+      "mode": "live",
+      "displayDate": "OCT 19, 2026, 02:34 PM EDT",
+      "generatedAt": "2026-10-19T18:34:29.257Z",
+      "itemsCollected": 50,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 9
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 68,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -46699,6 +46741,556 @@
       "publishedAt": "2026-10-18T04:00:42.000Z",
       "collectedAt": "2026-10-18T15:39:27.223Z",
       "text": "MAS Transforms Karimoku’s Tokyo Gallery Into an Imaginary Japanese Inn Summary MAS transforms Karimoku Commons Tokyo into an imagined Japanese inn for “Oyado MAS.”The exhibition explores the brand’s “New Japanese Comfort” through furniture, craft and hospitality.Collaborators include NEW LIGHT POTTERY, Nao Tesuki Washi, SEKISAKA, sheep and sinso. Karimoku is bringing MAS’ idea of “New Japanese Comfort” into a more immersive setting with “Oyado MAS,” a special exhibition transforming the first-floor gallery of Karimoku Commons Tokyo into an imagined Japanese inn.Founded in 2018 under Design Director Wataru Kumano, MAS has developed its furniture through an ongoing dialogue with Japan’s forests, with a particular focus on softwoods and the possibilities they offer for contemporary living. Rather than presenting the collection as isolated objects, Oyado MAS places the pieces within a holistic environment inspired by the rhythms and hospitality of an oyado, allowing furniture, light, craft and everyday objects to collectively define a new vision of domestic comfort.The installation expands on MAS’ functional, understated design language, where the warmth and familiarity of timber are balanced by clean proportions and forms intended to feel relevant beyond a single stylistic moment. Here, that approach is contextualized alongside work from NEW LIGHT POTTERY, Nao Tesuki Washi, SEKISAKA, sheep and sinso, collaborators that also joined MAS during this year’s 3daysofdesign. Bringing these different makers under one roof introduces layers of lighting, handmade paper, objects and textiles around the furniture, creating a lived-in atmosphere closer to an actual guesthouse than a conventional showroom. The result emphasizes material texture and quiet utility over spectacle, presenting Japanese craftsmanship as something integrated naturally into daily routines.In that sense, Oyado MAS builds on the brand’s previous presentations by shifting the focus from individual furniture pieces toward the relationships between objects, people and space. The imaginary inn format offers visitors an opportunity to experience how MAS’ collection functions within a broader interior ecosystem, reinforcing its pursuit of universally approachable design while grounding it in distinctly Japanese materials and sensibilities. “Oyado MAS” is on view at Karimoku Commons Tokyo until October 20, 2026, presenting the brand’s evolving interpretation of comfort through furniture, craft and contempo"
+    },
+    {
+      "id": "9522312af534fa8c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "6 Fall Boot Trends to Try This Season, From Buckled Styles to Slim Knee-Highs",
+      "url": "https://www.vogue.com/article/fall-2026-boot-trends",
+      "publishedAt": "2026-10-19T18:05:37.000Z",
+      "collectedAt": "2026-10-19T18:34:25.070Z",
+      "text": "6 Fall Boot Trends to Try This Season, From Buckled Styles to Slim Knee-Highs The silver lining of summer ending? All the fall 2026 boot trends. From stompy buckled styles to slim knee-highs, these are the shapes to know—and try."
+    },
+    {
+      "id": "a50eb9544fc2c08a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I’ve Finally Found the Fall Shoes That Look Best With Jeans",
+      "url": "https://www.vogue.com/article/fall-shoes-that-look-best-with-jeans",
+      "publishedAt": "2026-10-19T15:25:13.000Z",
+      "collectedAt": "2026-10-19T18:34:25.071Z",
+      "text": "I’ve Finally Found the Fall Shoes That Look Best With Jeans Whether you’re staying comfy in your barrel jeans or shimmying into a skinny style this fall, the brown ballerina flat is your denim’s best friend."
+    },
+    {
+      "id": "b9377f132b67a218",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Victoria’s Secret? Cashmere Manicures for All",
+      "url": "https://www.vogue.com/article/victorias-secret-cashmere-manicures-2026-10-19",
+      "publishedAt": "2026-10-19T14:45:52.000Z",
+      "collectedAt": "2026-10-19T18:34:25.071Z",
+      "text": "Victoria’s Secret? Cashmere Manicures for All The Angels all walked the glitter runway with fall's prettiest manicure."
+    },
+    {
+      "id": "5b2d73600216696d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Bella Hadid’s Victoria’s Secret After-Party Look Channels Britney Spears",
+      "url": "https://www.vogue.com/article/bella-hadid-victorias-secret-after-party-look-10-19-2026",
+      "publishedAt": "2026-10-19T14:35:56.000Z",
+      "collectedAt": "2026-10-19T18:34:25.071Z",
+      "text": "Bella Hadid’s Victoria’s Secret After-Party Look Channels Britney Spears Fresh off walking the VS runway, the supermodel hit up Chateau Marmont in a lacey party look."
+    },
+    {
+      "id": "924c1c4866aab106",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“It’s A Mindset”: Rosie Huntington-Whiteley On Returning To Victoria’s Secret 16 Years Later",
+      "url": "https://www.vogue.com/article/rosie-huntington-whiteley-victorias-secret-return-10-19-2026",
+      "publishedAt": "2026-10-19T14:29:41.000Z",
+      "collectedAt": "2026-10-19T18:34:25.071Z",
+      "text": "“It’s A Mindset”: Rosie Huntington-Whiteley On Returning To Victoria’s Secret 16 Years Later “It’s really about consistency because I’m a gym girl,” says Rosie Huntington-Whiteley of preparing for her Victoria’s Secret runway comeback 16 years after she hung up her wings."
+    },
+    {
+      "id": "4fdf9fc6484122c8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Antiaging Skin-Care Routine, According to Top Dermatologists and Aestheticians",
+      "url": "https://www.vogue.com/article/anti-aging-skin-care-routine-ingredients",
+      "publishedAt": "2026-10-19T14:19:20.000Z",
+      "collectedAt": "2026-10-19T18:34:25.071Z",
+      "text": "The Best Antiaging Skin-Care Routine, According to Top Dermatologists and Aestheticians What is the best antiaging skin-care routine? Six skin experts reveal the essential skin-care steps to keep skin hydrated, firm, and bouncy."
+    },
+    {
+      "id": "26bb1db464461865",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Visiting With Alex Katz, the 99-Year-Old Artist Who Doesn’t Stop",
+      "url": "https://www.vogue.com/article/alex-katz-tenth-decade",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "collectedAt": "2026-10-19T18:34:25.071Z",
+      "text": "Visiting With Alex Katz, the 99-Year-Old Artist Who Doesn’t Stop Alex Katz doesn’t live the way so many other famous artists do. Dodie Kazanjian pays a visit."
+    },
+    {
+      "id": "0308b1f99ccadce4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Here’s How 14 Vogue Editors Dress for Black-Tie Weddings",
+      "url": "https://www.vogue.com/article/vogue-editor-black-tie-wedding-guest-dresses",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "collectedAt": "2026-10-19T18:34:25.071Z",
+      "text": "Here’s How 14 Vogue Editors Dress for Black-Tie Weddings See what black-tie wedding guest outfits Vogue editors are wearing for the more formal nuptials on their calendars."
+    },
+    {
+      "id": "435401263dc41fdb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sheer Looks to Lingerie: Are GLP-1s Changing the Way We Dress?",
+      "url": "https://www.vogue.com/article/sheer-looks-to-lingerie-are-glp-1s-changing-the-way-we-dress",
+      "publishedAt": "2026-10-19T04:50:00.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "Sheer Looks to Lingerie: Are GLP-1s Changing the Way We Dress? With sheer fabrics, lingerie, and skin-revealing cutouts and lace, SS27’s biggest trends put the body front and center. As GLP-1 and weight loss medications dominate global conversations, is it mere coincidence or a signal of a broader shift?"
+    },
+    {
+      "id": "fed128d5a93b6f87",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“We Are Facing a Pandemic of People Shrinking”: 3 Designers on the State of Size Inclusivity",
+      "url": "https://www.vogue.com/article/we-are-facing-a-pandemic-of-people-shrinking-3-designers-on-the-state-of-size-inclusivity",
+      "publishedAt": "2026-10-19T04:50:00.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "“We Are Facing a Pandemic of People Shrinking”: 3 Designers on the State of Size Inclusivity As the rest of the industry regresses when it comes to size inclusivity, some designers are holding firm. But at what cost?"
+    },
+    {
+      "id": "bda96e29e24ff4a1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Vogue Business Spring/Summer 2027 Size Inclusivity Report",
+      "url": "https://www.vogue.com/article/the-vogue-business-spring-summer-2027-size-inclusivity-report",
+      "publishedAt": "2026-10-19T04:30:00.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "The Vogue Business Spring/Summer 2027 Size Inclusivity Report Amid accelerating access to GLP-1s, conservative undercurrents and a few glimmers of hope, curve representation on the runway remains low at just 2.5%."
+    },
+    {
+      "id": "16ea4dfe5e5fe0c8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "An Exclusive Behind-the-Scenes Look at the 2026 Victoria’s Secret Fashion Show",
+      "url": "https://www.vogue.com/slideshow/victorias-secret-fashion-show-backstage-photos-2026",
+      "publishedAt": "2026-10-19T03:52:17.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "An Exclusive Behind-the-Scenes Look at the 2026 Victoria’s Secret Fashion Show Corey Tenold photographs the best behind-the-scenes moments at the 2026 Victoria's Secret Fashion Show."
+    },
+    {
+      "id": "bde19b36949791a6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kylie Jenner Debuts on the Victoria’s Secret Runway in its $50 Million Fantasy Bra",
+      "url": "https://www.vogue.com/article/kylie-jenner-fantasy-bra-2026-victorias-secret-10-18-2026",
+      "publishedAt": "2026-10-19T00:28:01.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "Kylie Jenner Debuts on the Victoria’s Secret Runway in its $50 Million Fantasy Bra The reality TV star and entrepreneur stepped onto the Victoria's Secret catwalk wearing the most expensive Fantasy Bra to date."
+    },
+    {
+      "id": "df0aaf1c40137547",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Trinity Rodman Went From the Soccer Field to the Runway at the 2026 Victoria’s Secret Fashion Show",
+      "url": "https://www.vogue.com/article/trinity-rodman-victorias-secret-fashion-show-2026-10-18",
+      "publishedAt": "2026-10-19T00:14:50.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "Trinity Rodman Went From the Soccer Field to the Runway at the 2026 Victoria’s Secret Fashion Show The Washington Spirit forward traded the pitch for the catwalk at Sunday’s show."
+    },
+    {
+      "id": "fa8918f357d7e488",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "All the Stars at the 2026 Victoria’s Secret Fashion Show: Nicole Kidman, Law Roach & More",
+      "url": "https://www.vogue.com/slideshow/victorias-secret-fashion-show-red-carpet-10-18-2026",
+      "publishedAt": "2026-10-19T00:11:09.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "All the Stars at the 2026 Victoria’s Secret Fashion Show: Nicole Kidman, Law Roach & More See which celebrities hit the red carpet tonight at the 2026 Victoria’s Secret Fashion Show."
+    },
+    {
+      "id": "476ba00028da4cd8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Retail Executives Speak Out After Store Looting in Paris",
+      "url": "https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris",
+      "publishedAt": "2026-10-18T21:49:52.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "Retail Executives Speak Out After Store Looting in Paris Protesters in Paris targeted luxury stores, including Burberry, Celine, and Lacoste, on Saturday."
+    },
+    {
+      "id": "6fea63e041b5bd20",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Most Evocative Period Dramas of the 21st Century",
+      "url": "https://www.vogue.com/article/best-period-dramas-to-rewatch-now",
+      "publishedAt": "2026-10-18T21:00:00.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "The Most Evocative Period Dramas of the 21st Century The best period dramas whisk viewers to times and places that feel a world away from modern life. Here are our favorites, from “Gosford Park” to “The Crown.”"
+    },
+    {
+      "id": "5e73eac7c3e6f23d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Stars Kept the Night Going at Giorgio Armani’s Academy Gala After-Party at Chateau Marmont",
+      "url": "https://www.vogue.com/slideshow/armani-academy-museum-gala-after-party-chateau-marmont",
+      "publishedAt": "2026-10-18T20:06:07.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "Stars Kept the Night Going at Giorgio Armani’s Academy Gala After-Party at Chateau Marmont Right at the 10:30 p.m. kickoff, a flurry of camera flashes turned the sidewalk into a makeshift red carpet as paparazzi lined the street, eager to capture the industry’s brightest stars making their entrances."
+    },
+    {
+      "id": "7487604b54333dd2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kendall Jenner Finally Got Her Polka-Dot Moment at the 2026 Academy Museum Gala",
+      "url": "https://www.vogue.com/slideshow/kendall-jenner-valentino-polkadots-2026-academy-museum-gala-10-18-2026",
+      "publishedAt": "2026-10-18T20:04:21.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "Kendall Jenner Finally Got Her Polka-Dot Moment at the 2026 Academy Museum Gala “I’ve always wanted a red carpet polka-dot moment,\" says Jenner of her custom Valentino gown. “It might be one of my favorites I’ve worn on a carpet.”"
+    },
+    {
+      "id": "a278261804ffa5c1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Da’Vine Joy Randolph Wanted to “Give Drama—and Body” at the 2026 Academy Museum Gala",
+      "url": "https://www.vogue.com/slideshow/davine-joy-randolph-2026-academy-gala-louis-vuitton-10-18-2026",
+      "publishedAt": "2026-10-18T16:25:09.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "Da’Vine Joy Randolph Wanted to “Give Drama—and Body” at the 2026 Academy Museum Gala The Oscar-winning actor chose custom Louis Vuitton for the red carpet. “It gives drama, elegance—and body,” she says. See how the star got ready for the big night."
+    },
+    {
+      "id": "83ce064e6845650b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "40 Cult Horror Movies to Watch This Halloween",
+      "url": "https://www.vogue.com/slideshow/47-cult-horror-movies-to-watch-this-halloween",
+      "publishedAt": "2026-10-18T16:00:00.000Z",
+      "collectedAt": "2026-10-19T18:34:25.072Z",
+      "text": "40 Cult Horror Movies to Watch This Halloween From “Longlegts” to “Carrie,” “Heathers,” and “Rosemary’s Baby.”"
+    },
+    {
+      "id": "14b3ac646bdf95bf",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Nailed-Down Air Force 1 Is a Real Hellraiser",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-nightmare/",
+      "publishedAt": "2026-10-19T18:23:53.000Z",
+      "collectedAt": "2026-10-19T18:34:26.560Z",
+      "text": "Nike’s Nailed-Down Air Force 1 Is a Real Hellraiser Nike's Air Force 1 '01 \"Nightmare\" sneaker is a Halloween-themed sneaker featuring nailed-down uppers inspired by Hellraiser's Pinhead."
+    },
+    {
+      "id": "afd483665d190c72",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Breakup Only Made Boy Harsher Stronger",
+      "url": "https://www.highsnobiety.com/p/boy-harsher-get-mean-interview/",
+      "publishedAt": "2026-10-19T15:53:18.000Z",
+      "collectedAt": "2026-10-19T18:34:26.560Z",
+      "text": "A Breakup Only Made Boy Harsher Stronger With Get Mean, their first studio album in seven years, the fashion world’s favorite darkwave duo explores a new dimension of their sound — and themselves."
+    },
+    {
+      "id": "bf21f3b52c632f6a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Somewhere in Provence, Google Pixel is Rethinking Creativity",
+      "url": "https://www.highsnobiety.com/p/google-pixel-residency/",
+      "publishedAt": "2026-10-19T16:05:03.000Z",
+      "collectedAt": "2026-10-19T18:34:26.561Z",
+      "text": "Somewhere in Provence, Google Pixel is Rethinking Creativity For this year’s Pixel Residency, creators from around the world stepped away from everyday life for three action-packed days at Château de Fonscolombe in Provence."
+    },
+    {
+      "id": "80971185314035a3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Sole Food: Saucony's Secret to Making Cool Shoes? Find Cool People",
+      "url": "https://www.highsnobiety.com/p/saucony-collabs-2026/",
+      "publishedAt": "2026-10-19T14:42:38.000Z",
+      "collectedAt": "2026-10-19T18:34:26.561Z",
+      "text": "Sole Food: Saucony's Secret to Making Cool Shoes? Find Cool People Saucony's making genuinely cool sneakers right now. Why? Because it's working with cool names like Westside Gunn & Highsnobiety."
+    },
+    {
+      "id": "65cc82bb9d0a0c54",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Balenciaga’s Collapsible Moccasin Sets the Pace",
+      "url": "https://www.highsnobiety.com/p/balenciaga-pace-sneaker-black/",
+      "publishedAt": "2026-10-19T10:58:01.000Z",
+      "collectedAt": "2026-10-19T18:34:26.561Z",
+      "text": "Balenciaga’s Collapsible Moccasin Sets the Pace Balenciaga's collapsible Pace sneaker is part moccasin, part mule and all new-age Balenciaga."
+    },
+    {
+      "id": "ea37c421e7e460be",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Yes, Stone Island Just Made Six of the Same Jacket",
+      "url": "https://www.highsnobiety.com/p/stone-island-no-seasons-interview/",
+      "publishedAt": "2026-10-19T09:37:57.000Z",
+      "collectedAt": "2026-10-19T18:34:26.561Z",
+      "text": "Yes, Stone Island Just Made Six of the Same Jacket Stone Island's revived NO SEASONS collection is its technical clothing wizards at their most powerful, concocting a sextet of identical (but not) outerwear."
+    },
+    {
+      "id": "190c35df2c51b3a7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Toni Garrn Resets in Berlin",
+      "url": "https://www.highsnobiety.com/p/toni-garrn-resets-in-berlin/",
+      "publishedAt": "2026-10-18T20:06:59.000Z",
+      "collectedAt": "2026-10-19T18:34:26.561Z",
+      "text": "Toni Garrn Resets in Berlin While hanging out in Berlin for the opening of Alo's new flagship store, the German supermodel tipped us off to some of her favorite spots in the capital that help her recharge."
+    },
+    {
+      "id": "a227cea176d5ebd5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Cool Military Shoe Joins Wales Bonner's Wildly Luxe Army",
+      "url": "https://www.highsnobiety.com/p/wales-bonner-adidas-bw-army/",
+      "publishedAt": "2026-10-19T10:09:44.000Z",
+      "collectedAt": "2026-10-19T18:34:26.561Z",
+      "text": "adidas' Cool Military Shoe Joins Wales Bonner's Wildly Luxe Army Wales Bonner reveals its wild albeit luxe FW26 adidas collaboration featuring the BW Army for the first time."
+    },
+    {
+      "id": "09aba624cd8fc882",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean",
+      "url": "https://www.highsnobiety.com/p/new-balance-992-medusa-green/",
+      "publishedAt": "2026-10-19T10:17:44.000Z",
+      "collectedAt": "2026-10-19T18:34:26.561Z",
+      "text": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean New Balance's 992 \"Medusa Green\" brings a mythological colorway to the brand's Made in USA dad shoe model. Here's everything on the release."
+    },
+    {
+      "id": "5c0986f488ecfb74",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Anna Uddenberg Explores Corporate Control in 'White Noise'",
+      "url": "https://hypebeast.com/2026/10/anna-uddenberg-white-noise-telegraph-gallery",
+      "publishedAt": "2026-10-19T17:41:38.000Z",
+      "collectedAt": "2026-10-19T18:34:27.983Z",
+      "text": "Anna Uddenberg Explores Corporate Control in 'White Noise' Summary Anna Uddenberg transforms Telegraph Gallery into a sterile office environment for her first solo exhibition in the Czech Republic.Sculptural figures merge with Herman Miller chairs and desks, exploring how corporate spaces influence the body and everyday behavior.Curated by Samuel Staples, White Noise opens October 22 and runs through February 4, 2027. For Anna Uddenberg's latest exhibition, White Noise, the Berlin-based artist is turning Telegraph Gallery in Olomouc, Czech Republic, into a corporate environment where furniture and the human body become increasingly difficult to separate.Opening October 22, the exhibition marks Uddenberg's first solo presentation in the Czech Republic. Known for her unsettling sculptures that explore body culture, consumerism and the influence of technology, the Swedish-born artist takes aim at the everyday objects and spaces that quietly dictate how we move, sit and behave.Most of what we've seen come out of Uddenberg's studio practice, sculptural figures appear to grow through desks and chairs, becoming extensions of the very objects designed to support them. And what initially resembles a functional office gradually reveals something more uncomfortable, where ergonomics gives way to control and the body becomes another piece of corporate furniture. Uddenberg has spent much of her career examining the relationship between people and the objects they use, often drawing from fashion, technology, wellness culture and public interiors. Her sculptures push these familiar references into strange territory, questioning whether the things designed to make our lives easier might also be shaping our behavior in ways we barely notice.White Noise opens October 22, 2026, and runs through February 4, 2027, at Telegraph Gallery in Olomouc, Czech Republic.Telegraph GalleryJungmannova 3, 779 00Olomouc 9-HodolanyCzechia Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "27e5cafd0e5d5ad8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘Virgil Abloh’s ‘The Codes’ Retrospective Is Coming to NYC",
+      "url": "https://hypebeast.com/2026/10/virgil-abloh-the-codes-nike-exhibition-nyc-info",
+      "publishedAt": "2026-10-19T16:38:50.000Z",
+      "collectedAt": "2026-10-19T18:34:27.983Z",
+      "text": "‘Virgil Abloh’s ‘The Codes’ Retrospective Is Coming to NYC Summary The Virgil Abloh Archive™ and Nike will present a New York iteration of 'Virgil Abloh: The Codes,' a retrospective exhibition exploring the late designer's influence across fashion, culture, art, and designThe presentation features everything from finished products, prototypes, archival materials, sketches, to a recreation of Abloh's Paris office The showcase will run from December 10, 2026 through January 18, 2027, with tickets going on sale October 23, 2026 for $25 The Virgil Abloh Archive™ and Nike are bringing back Virgil Abloh: The Codes, the global exhibition dedicated to the life, work, and legacy of the visionary designer.Opening on December 10, 2026, at The Shed in New York City and curated by Chloe Sultan and Mahfuz Sultan, the showcase features nearly 1,000 pieces that illuminate Abloh’s work, creative process, and cultural influence across fashion, art, architecture, graphic design, and music.Grounded in his open-source philosophy, better known as his “Codes,” the forthcoming presentation builds on the methodologies explored in earlier iterations in Paris and Miami, with a greater focus on making “Abloh’s creative thinking tangible,” per a Nike statement.Expect finished works, prototypes, sketches, archival material, and more gems telling of his experimental approach to form and collaborations. Also on view will be a recreation of his Paris office and an interactive media lab loaded with raw design files for a closer look at his processes.Previous editions have debuted previously unreleased footwear, from the Off-White™ x Nike Terra Forma in Miami to the V.A.A. x Nike Zoom M9 Cryoshot in Paris. While anything’s yet to be confirmed, another V.A.A. sneaker could be on the table.“As we mark the fifth anniversary of Virgil’s passing, this exhibition is an opportunity to honor his tireless spirit and how he changed the way people think about creativity, collaboration and what is possible,” says Shannon Abloh, the founder of Abloh's Archive™ and Foundation.“Virgil believed in opening doors and making knowledge accessible, and The Codes brings that spirit forward by sharing his process, his ideas and the extraordinary breadth of his work with new generations. His legacy lives on through the people he inspired and the opportunities we continue to create in his name.”A month-long schedule of performances, workshops, and conversations will accompany the exhibition, with details still to c"
+    },
+    {
+      "id": "2491e537812e4774",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "McLaren Racing and PUMA Take Notes From James Hunt’s Rebellious Wardrobe for New Collection",
+      "url": "https://hypebeast.com/2026/10/mclaren-racing-puma-james-hunt-collection-release-info",
+      "publishedAt": "2026-10-19T16:03:37.000Z",
+      "collectedAt": "2026-10-19T18:34:27.983Z",
+      "text": "McLaren Racing and PUMA Take Notes From James Hunt’s Rebellious Wardrobe for New Collection For their latest collaboration, McLaren Racing and PUMA revisit racing’s golden era to craft a new collection honoring James Hunt. One of the most pioneering drivers at the time, Hunt’s legacy extends beyond the track with a rebellious personal style that still stands out today. The James Hunt collection was previewed last month at McLaren’s Designed to Race: Front Row runway show ahead of London Fashion Week. With racing drivers, music artists, and industry experts in attendance, the event highlighted the icon’s effortless dress sense through relaxed racing jackets, throw-over mid-layers, and graphic T-shirts. It showed that racing-inspired fashion isn’t confined to one look but spans more pared-back and playful aesthetics.Now, McLaren Racing and PUMA share a closer look at the garments. Combining cues from the film Rush and the nostalgic red-and-white scheme on Hunt’s car, the black racing jacket features striking piping and the driver’s signature on the collar. These elements are replicated on the grey hoodie, adopting a boxy cut and embroidered red logos. Elsewhere, T-shirts play on Hunt’s expressive approach to customizing his clothes with doodles and text. One piece stamps a “1976” graphic at the center in homage to his World Drivers' Championship-winning year, while another features a heart-shaped motif similar to the badge the driver often wore. Throughout the campaign, the garments are styled with caps and a muted pair of PUMA Speedcat sneakers, in keeping with Hunt's laissez-faire style. Discover the full collection in the lookbook via the gallery above. The McLaren Racing x PUMA James Hunt Collection is now available on McLaren’s online store and selected PUMA stores. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2654bd602d6b6f45",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Performance Apparel Maker Rhone Brought Pure Playground Chaos to New York Corporate Life",
+      "url": "https://hypebeast.com/2026/10/rhone-adult-recess-nyc-with-joakim-noah",
+      "publishedAt": "2026-10-19T16:00:55.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "Performance Apparel Maker Rhone Brought Pure Playground Chaos to New York Corporate Life New York City’s bustling Hudson Yards took an energetic break from the daily hustle when performance apparel brand Rhone transformed the Public Square & Gardens into a massive outdoor playground. Timed right ahead of the NBA season tip-off, the Adult Recess event brought New Yorkers together near the iconic Vessel for a full day of pick-up basketball and classic games. The initiative was part of Rhone's 12 Pursuits, a year-long framework for building a stronger, steadier version of yourself, with October highlighting the pure joy of play—challenging the relentless grind of corporate life by reminding busy adults that progress is about how you live, not just how much you work.The court was alive with non-stop action from morning to evening. Participants jumped into open pick-up games or tried their hand at lower-stakes, nostalgic classics like HORSE and Around the World. Beyond the hoops, attendees customized complimentary Rhone hats with their favorite NBA team, while a live DJ kept the energy high with music, giveaways, and unexpected prizes.The main event hit high gear when two-time NBA All-Star Joakim Noah dropped by to sign autographs, pose for photos, and run the court alongside everyday New Yorkers. Rhone’s leadership team—including Co-Founder Ben Checketts and former NBA executive Dave Checketts—also joined the fun, alongside a crowd of influencers and Rhone Reserve members.The single-day takeover also highlighted Rhone's growing role as an Official Lifestyle Apparel Partner of the NBA, following the launch of their expanded licensed apparel line—which includes women’s gear for the first time.Adult Recess gave New Yorkers a rare, refreshing excuse to trade their meeting calendars for court time. By translating their brand philosophy into an engaging real-world experience, Rhone’s message was importantly about moving, connecting, and playing. Before heading back to their desks, participants walked away with customized gear, fresh memories, and a QR code to keep the spirit of play going all year long. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "bee3c36487a034fa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Saint Laurent Spotlights Martin Parr's Playful Self-Portraits in Paris",
+      "url": "https://hypebeast.com/2026/10/saint-laurent-autoportrait-martin-parr-paris",
+      "publishedAt": "2026-10-19T15:54:12.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "Saint Laurent Spotlights Martin Parr's Playful Self-Portraits in Paris Summary Saint Laurent Montaigne presents 'Autoportrait,' a selection of Martin Parr's self-portraits curated by Anthony Vaccarello.Taken between 1996 and 2015, the images capture Parr's playful take on tourism, identity and the quirks of everyday life.The exhibition pays tribute to the late British photographer and runs through January 13, 2027, in Paris. Saint Laurent is paying tribute to the late British photographer Martin Parr with Autoportrait, a new exhibition at its Montaigne location in Paris. Curated by creative director Anthony Vaccarello, the presentation brings together a selection of self-portraits taken between 1996 and 2015, offering a look at the photographer's signature humor from the other side of the lens.Best known for his colorful, often absurd observations of everyday life, Parr spent decades photographing everything from crowded beaches and tourist attractions to the peculiar habits of modern consumer culture. For Autoportrait, however, he became the subject himself, handing the camera over to professional photographers, local amateurs and photo booths during his travels around the world.The resulting images are anything but conventional. With kitschy backdrops, elaborate disguises and occasionally heavy-handed retouching, Parr poked fun at the familiar rituals of vacation photography. Works featured in the exhibition include portraits taken in Singapore in 2007 and London in 2008, each reflecting his fascination with how people choose to present themselves.The exhibition also builds on Parr's longstanding relationship with Saint Laurent, which previously tapped the photographer for its 2025 campaign, An Ordinary Day, under Vaccarello's creative direction.Parr, who passed away in December 2025 at the age of 73, remains one of the most recognizable figures in documentary photography. A longtime Magnum Photos member and former president of the agency, he leaves behind a body of work that made the ordinary feel strange, funny and, at times, surprisingly revealing.Autoportrait is on view at Saint Laurent Montaigne in Paris from October 15, 2026, through January 13, 2027.Saint Laurent Montaigne37 Av. Montaigne75008 ParisFrance Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0b6b21fb0bd0b5e5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "MODMNT Reworks Military Classics Into Modular Down Jackets",
+      "url": "https://hypebeast.com/2026/10/modmnt-fall-winter-2026-collection",
+      "publishedAt": "2026-10-19T15:48:29.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "MODMNT Reworks Military Classics Into Modular Down Jackets MODMNT, a brand developed by NANGA CO., LTD., one of Japan’s leading down manufacturers, has released the second delivery of its 2026 Fall/Winter collection. The lineup features four styles of down wear reinterpreting functional garments rooted in hunting, military, and other distinct eras and purposes, alongside additional fall/winter pieces.MODMNT takes its name from “Modulement,” a coined term combining “Module,” “Mode,” “Equipment,” and “Element.” This season’s theme, “Beautifully Unpredictable,” translates the free-form processes of layering, removing, adding, and rearranging into the designs, offering wear that transforms with how it’s styled.A standout piece in this delivery is the Field Down Jacket, a contemporary reconstruction of the classic hunting jacket. It features details such as a three-dimensional pocket that integrates a flap pocket with a hand warmer, along with leather patches at the shoulders. Beyond a detachable hood, the jacket incorporates a convertible structure that allows the hem’s skirt component to be extended, enabling the silhouette to change depending on how it’s worn. The outer shell uses a waterproof, breathable fabric with 11,000mm of water resistance and 8,500g/m²/24hr of breathability, filled with 180g of 760 fill-power Spanish duck down. It’s priced at ¥110,000 (tax included).The collection also includes the Super Mackinaw (¥99,000), based on the classic Mackinaw jacket and combining the waterproof, breathable fabric Aurora-Tex® with the flame-resistant material Hinok; the Aviator Jacket (¥93,500), based on a bomber jacket design and featuring multiple pockets; and the C-1 Vest (¥60,500), inspired by military radio vests.Combining elements from functional garments with distinct origins, MODMNT’s down wear allows wearers to transform their own style. The second delivery of the 2026 Fall/Winter collection is available now, having launched on Friday, October 16. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f245193ea3395d17",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Supreme and Timberland Reunite for Fall 2026 Collection",
+      "url": "https://hypebeast.com/2026/10/supreme-timberland-fall-2026-collaboration-release-info",
+      "publishedAt": "2026-10-19T13:00:40.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "Supreme and Timberland Reunite for Fall 2026 Collection Summary Supreme has collaborated with Timberland on an expansive apparel and accessories collection for Fall 2026The lineup features technical outerwear such as a waterproof Ventile Utility Jacket alongside Polartec fleece layers and double knee denimThe collaborative capsule releases on October 22 followed by an Asia launch on October 24 Supreme has officially partnered with Timberland to release a collaborative apparel and accessories collection for Fall 2026.Leading the cold-weather outerwear selection is a premium Suede Puffer Jacket alongside the technical Ventile Utility Jacket, which is constructed from waterproof Ventile cotton and lined with Polartec 200 fleece. Offering further insulation for the dropping temperatures, the outerwear range also incorporates a standalone Polartec Jacket.The apparel assortment extends into everyday sportswear and durable utility silhouettes, including a long-sleeve Football Top, a Thermal Lined Zip Up Hooded Sweatshirt, Double Knee Denim Utility Pants, and casual Sweatpants. Rounding out the seasonal drop, the duo has prepared cold-weather headwear staples consisting of a Polartec Balaclava and a knit Beanie.The Timberland x Supreme Fall 2026 collection releases on October 22, via the official Supreme webstore and flagship locations, with an Asia release following shortly after on October 24. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f0f7f791068e6c3c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kith Taps Into Canadian West Coast Roots for Vancouver Store Opening Capsule",
+      "url": "https://hypebeast.com/2026/10/kith-vancouver-store-opening-grizzlies-avirex-capsule-collection-release-info",
+      "publishedAt": "2026-10-19T11:56:16.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "Kith Taps Into Canadian West Coast Roots for Vancouver Store Opening Capsule Summary Kith is celebrating its latest retail expansion with an exclusive collection celebrating Canadian West Coast rootsThe capsule is anchored by a collaborative leather jacket with Avirex and the vintage Vancouver Grizzlies alongside outdoor-ready layers and utility silhouettesThe collection releases as part of the brand’s Monday Program on October 19 at 11 AM ET online and in-store Kith has officially unveiled the Kith Vancouver Commemorative Collection, drawing directly on Canadian West Coast roots to mark the opening of its newest retail outpost.Anchoring the commemorative lineup is the standout Kith & AVIREX for the Vancouver Grizzlies Jacket, crafted in premium leather and highlighting the franchise's vintage logo and signature color palette. The capsule extends into functional cold-weather outerwear and technical staples, including the rugged Kith Vancouver Dejan Utility Jacket and the Kith Vancouver Wyona Sweater designed for mountaineers and nature-lovers alike. Everyday layering silhouettes also make an appearance via the Kith Vancouver Nelson Quarter Zip and the Kith Vancouver Nelson Rugby, giving a nod to the Canadian West Coast's natural scenery.Rounding out the apparel selection, the range features graphic essentials such as the Kith Vancouver Geometric Long Sleeve Tee, alongside the Kith for the Vancouver Grizzlies Vintage Jones II Tee offered in both black and white executions. Accessories and headwear finalize the celebratory release with the co-branded Kith & ‘47 for the Vancouver Grizzlies SL Hitch Snapback Cap, a classic cap, and a custom Kith Vancouver Opening Keychain.The Kith Vancouver Commemorative Collection drops on October 19 at 11 a.m. ET as part of the brand’s Monday Program, launching online and in-store at Kith. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5e70b61f6db084aa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Everything Dropping at Palace This Week",
+      "url": "https://hypebeast.com/2026/10/palace-skateboards-winter-2026-drop-4-release-info",
+      "publishedAt": "2026-10-19T11:30:20.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "Everything Dropping at Palace This Week Summary Palace’s latest Winter 2026 drop centers on the Dascar range, cut in a spread of Realtree camo patternsThe Dascar Jacket, Hockey Jersey and Shirt each take on a different mix of Realtree Cherry, Shadows, Blue and Edge BlueOn Ya Bike jerseys and hoodies balance the camo with solid colorways in blue, navy, black and brown Palace Skateboards has detailed its upcoming Winter 2026 drop, led by the Dascar range and its run of Realtree camouflage patterns across outerwear, jerseys and shirting. The lineup is rounded out by the On Ya Bike jersey and hoodie, which bring a set of solid colorways to the week’s offering.The Dascar Jacket anchors the week, offered in three versions that move from the reddish tones of Realtree Cherry to a cool Realtree Blue, with a straightforward black option for those who want the silhouette without the camo. The Dascar Hockey Jersey carries the same theme into sportswear, arriving in Realtree Shadows and Realtree Blue, while the Dascar Shirt narrows things down to a single Realtree Edge Blue colorway. Spread across the three pieces, the range uses four distinct Realtree patterns, giving each item its own character while keeping the capsule visually cohesive.The On Ya Bike pieces take a cleaner approach. The On Ya Bike Jersey comes in blue and navy, and the On Ya Bike Hoodie is available in Chocco Brown, black and blue, offering pattern-free staples that can be layered beneath or alongside the Dascar outerwear.The drop launches Friday, October 23 at 11:00 a.m. BST in the UK, Europe and the US, followed by Japan, China, Korea and Australia on Saturday, October 24 at 11:00 a.m. local time. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "36a99a13e56b0ab2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Patta and Carhartt WIP Bring \"Hartt and Soul\" to Fall 2026 Capsule",
+      "url": "https://hypebeast.com/2026/10/patta-carhartt-wip-hartt-and-soul-fall-2026-collaborative-capsule-collection-lookbook-release-info",
+      "publishedAt": "2026-10-19T10:57:54.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "Patta and Carhartt WIP Bring \"Hartt and Soul\" to Fall 2026 Capsule Summary Patta and Carhartt WIP have reunited for Fall 2026 to deliver an eight-piece capsule titled \"Hartt and Soul\"The collection reinterprets signature utilitarian pieces such as the OG Active Jacket and Double Knee Pant with collegiate graphics and custom rivetsEarly access opens October 19 on the Carhartt WIP App followed by a global rollout on October 23 Carhartt WIP and Amsterdam-based streetwear imprint Patta have reunited to launch the collaborative Fall 2026 \"Hartt and Soul\" capsule collection. Channeling the spirit of their 2014 collaboration, the eight-piece project brings collegiate appliqués and exaggerated rivet detailing to heritage workwear silhouettes.Anchoring the lineup are reimagined staples including the OG Active Jacket and Double Knee Pant, each treated with bold collegiate-inspired lettering and tactile hardware. The utilitarian offering is complemented by a classic work Vest and a cotton hooded sweatshirt, both sporting an oversized collaborative logo lockup across the back.The collection introduces a striking safety orange half-zip knit sweater emblazoned with an elemental work-inspired graphic. Essential layers include graphic T-shirts detailed with a tonal \"Hartt and Soul\" screenprint on the reverse and a woven co-branded Square Label. The same custom label appears alongside silver-tone rivets on Carhartt WIP’s iconic Watch Hat, while a matching hip bag rounds out the utilitarian accessories.The accompanying campaign was captured by Accra-based photographer Nana Yaw Oduro, who framed the collection across open plains and sunlit coastal backdrops exploring themes of identity and self-acceptance.The Patta x Carhartt WIP collection launches early on October 19, 2026, exclusively via the Carhartt WIP App, followed by a global release on October 23, 2026, at Carhartt WIP stores, online and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "28b8601685634154",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Getting Ready for the Night Shift Is Like Clockwork for Naz Hassan",
+      "url": "https://hypebeast.com/2026/10/ugg-fall-2026-naz-hassan-hypebeast-campaign-info",
+      "publishedAt": "2026-10-19T10:14:12.000Z",
+      "collectedAt": "2026-10-19T18:34:27.984Z",
+      "text": "Getting Ready for the Night Shift Is Like Clockwork for Naz Hassan If there’s one process that signals the start of chef Naz Hassan’s night, it’s changing his shoes. Having worked in kitchens across Milan and now London, the simple act of swapping his lace-ups for a pair of work-ready clogs remains constant, helping him get physically and mentally into gear for a busy shift making Italian plates.Exploring what functionality in style means to the chef, Hypebeast heads to his acclaimed neighborhood restaurant, Ornella, for a new two-part UGG campaign. With the debut installment capturing stylist Joel Lyall moving through the night, the latest feature shows how Hassan adapts to the energy behind the counter, as well as the moment he winds down with the brand’s functional Fall 2026 offering. \"During a busy day, we’re like an orchestra, and everyone needs to play their instrument in the best way.\"“Service starts when the first customer comes through the door,” Hassan explains, once he’s slipped into his chef whites and the UGG Otzo Western Clog. “What kicks in is that sense of duty: you have to perform because you’re selling goods that need to be served to the highest level it possibly can.” Today, the chef begins service by making risotto, one of his favorite dishes on the menu. “During a busy day, we’re like an orchestra, and everyone needs to play their instrument in the best way,” he shares. It's not just about the individual performance, though. Hassan mentions how, more importantly, they need to “stay in harmony” so the kitchen can run like clockwork. To keep him in top form, he is drawn to the silhouette’s contoured EVA footbed and lightweight rubber outsole for its support throughout the day. “Having a comfortable pair of shoes is non-negotiable because I’m standing on my feet for 16 hours,” he says. “Shoes are the only part of my uniform that can be personalized, so it's nice when I can bring a bit of myself to my work.”Though Hassan has over a decade of experience perfecting his routine to meet the demands of restaurants, his success comes down to the customers. “What has kept me going when I work at night is seeing the smiles when people enjoy my food,” he reflects on his time as a chef. “The best memories I have are around the table at Christmas, Diwali and birthday parties, so I want them just to enjoy the moment and forget they’re in a restaurant.”\"Having a comfortable pair of shoes is non-negotiable because I’m standing on my feet for 16 hours.\"H"
+    },
+    {
+      "id": "2abb5f0cf29de01e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Waymo Plans First Canadian Robotaxi Expansion in Toronto for 2028",
+      "url": "https://hypebeast.com/2026/10/waymo-plans-first-canadian-robotaxi-expansion-in-toronto-canada-2028-news",
+      "publishedAt": "2026-10-19T09:38:13.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Waymo Plans First Canadian Robotaxi Expansion in Toronto for 2028 Summary Alphabet subsidiary Waymo has announced plans to launch its driverless taxi service in Toronto by 2028Groundwork begins in the coming days with road mapping and software validation under Ontario's autonomous vehicle pilot programLocal partner Element Fleet Management will oversee all on-the-ground fleet maintenance charging and logistical operations Waymo has officially announced plans to launch its driverless robotaxi service in Toronto, marking the autonomous mobility company's first commercial expansion into Canada. The Alphabet subsidiary targets 2028 to transport its first public riders as technical groundwork begins across the city.Initial deployment kicks off in the coming days with high-definition street mapping and software training led by human specialists behind the wheel under Ontario's provincial autonomous pilot framework. Day-to-day operations—spanning vehicle maintenance, depot charging, and rider readiness—will be managed by Toronto-based partner Element Fleet Management, which currently oversees Waymo’s infrastructure in San Diego. \"As a Canadian company, we are proud to be expanding our partnership with Waymo,\" stated Laura Dottori-Attanasio, chief executive of Element Fleet Management. Longtime backers CPP Investments and automotive parts manufacturer Magna also continue to support the company’s capital and vehicle assembly efforts.Waymo reports that its autonomous fleet has driven more than 400 million kilometers to date, yielding 95% fewer serious-injury collisions than human drivers. While the initiative has earned support from accessibility advocates such as CNIB for offering independent transportation, critics note that navigating heavy traffic and severe winter conditions will pose a rigorous test for the system. The Canadian rollout builds on Waymo's broader international roadmap alongside London and Tokyo.Waymo is scheduled to launch its driverless taxi service to riders in Toronto in 2028. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "216fd167d5ec3902",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Quentin Tarantino Confirms Finishing Script for 10th Film but Delays Production to \"Live a Little\"",
+      "url": "https://hypebeast.com/2026/10/quentin-tarantino-confirms-finishing-script-10th-film-delays-production-to-live-a-little-news",
+      "publishedAt": "2026-10-19T08:50:32.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Quentin Tarantino Confirms Finishing Script for 10th Film but Delays Production to \"Live a Little\" Summary Quentin Tarantino has completed writing the script for his tenth and final feature filmThe filmmaker is delaying production to focus on his London stage play 'The Popinjay Cavalier' and spend time with familyThe swashbuckling comedy starring Sacha Baron Cohen opens at the Phoenix Theatre next March and runs through June 13 Quentin Tarantino has completed the script for his 10th feature film, though the director plans to hold off on production until his London stage production finishes its run. The filmmaker shared the update during an appearance on The Graham Norton Show, marking his first visit to the program in over a decade.Tarantino reaffirmed his longstanding plan to retire from filmmaking after ten features, but made it clear that he will not rush into production. \"I've written a script that I really like, but I want to do the play and see who I am; then I'll then go back and spend time with my family and live a little and then see what I want to do,” Tarantino said.His immediate creative focus is centered on The Popinjay Cavalier, which originated as a screenplay before transitioning into a stage production. “It really worked as a play,” Tarantino explained, adding, “I think it will be thrilling.” Billed as a swashbuckling comedy starring Sacha Baron Cohen, the production marks the filmmaker’s West End debut following his 2019 Oscar-winning film Once Upon a Time in Hollywood. “I’m keen with anticipation to give the West End a great night out,” Tarantino noted.The Popinjay Cavalier begins previews in late February before officially opening at London’s Phoenix Theatre next March, running through June 13. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "442e0b6a02d05a5d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets",
+      "url": "https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info",
+      "publishedAt": "2026-10-19T08:10:20.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets Summary Awake NY has collaborated with The North Face on a limited collection of 50 hand-customized Nuptse piecesArtists Omi and Alehsy Lambo individually reworked each jacket into a completely one-of-a-kind silhouetteFollowing an in-store drop at the Awake NY Flagship the remaining allocation launches online on Monday October 19 at 1 PM Awake NY has officially unveiled its limited The North Face Nuptse Customs, presenting a collaborative capsule of bespoke outerwear.The collaboration brings together the New York streetwear label and heritage outdoor outfitter The North Face, tapping creatives Omi and Alehsy Lambo to hand-customize 50 Nuptse pieces. Operating as a strictly limited collection, each jacket in the 50-piece run features custom treatments that make every garment completely one-of-a-kind.Described as an extravagant endeavor by the label, the project was originally curated for an in-person release. Following heavy consumer interest, Awake NY announced that an allocation from the 50-piece collection has been set aside for a wider audience via a digital release, expanding access beyond the local brick-and-mortar storefront.The online release for the Awake NY x The North Face Nuptse Customs drops on Monday, October 19, 2026, at 1 p.m. via Awake NY. View this post on InstagramA post shared by Awake NY (@awakenewyorkclothing) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a0b016b493314bf7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Honors Día de los Muertos With the Kobe 3 Low Protro \"Mamba Eterno\"",
+      "url": "https://hypebeast.com/2026/10/nike-kobe-3-low-protro-mamba-eterno-io6260-800-release-info",
+      "publishedAt": "2026-10-19T07:23:16.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Nike Honors Día de los Muertos With the Kobe 3 Low Protro \"Mamba Eterno\" Summary Nike is preparing to release the Kobe 3 Low Protro in a vibrant Mamba Eterno colorway inspired by Día de los MuertosThe performance silhouette features floral artwork set beneath a translucent molded cage in Safety Orange Picante Red and SundialPairs are scheduled to launch on October 30 2026 via Nike and select retailers for $190 USD Name: Nike Kobe 3 Low Protro \"Mamba Eterno\"Colorway: Safety Orange/Sundial-Picante RedSKU: IO6260-800MSRP: $190 USDRelease Date: October 30, 2026Where to Buy: NikeNike is expanding its signature basketball roster with the upcoming Kobe 3 Low Protro \"Mamba Eterno\". The commemorative edition draws direct inspiration from Día de los Muertos and Kobe Bryant’s deep-rooted connection to the Mexican community in Los Angeles.Departing from the cleaner, monochromatic looks previously seen on the model, the \"Mamba Eterno\"—translating to \"Eternal Mamba\"—aligns with the tradition of remembering and celebrating family members who have passed away. The palette combines Safety Orange, Picante Red, and Sundial across the upper in an organic mix rather than traditional color blocking, supplemented by hits of pink and purple.Underneath the signature translucent cage, intricate floral graphics run across different segments of the silhouette. This graphic placement elevates the underlying artwork into a focal design component, contrasting the shoe's molded construction and nodding to Vanessa Bryant's heritage through personal cultural storytelling.The Nike Kobe 3 Low Protro “Mamba Eterno” drops October 30, 2026, via Nike and select Nike Basketball retailers, priced at $190 USD for men's sizing alongside grade school options. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c875d112dd3acc04",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "adidas Originals Bundles Up Four-Legged Companions for Winter 2026",
+      "url": "https://hypebeast.com/2026/10/adidas-originals-winter-2026-pet-collection-release-info",
+      "publishedAt": "2026-10-19T07:10:15.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "adidas Originals Bundles Up Four-Legged Companions for Winter 2026 Summary adidas Originals has launched its Winter 2026 Pet Collection featuring cold-weather apparel designed for petsThe lineup is led by glossy quilted Pet Padded Vests and striped Pet Knitted Hoodies bearing signature Trefoil brandingAvailable now via adidas US the five-piece capsule ranges in price from $55 to $80 USD adidas Originals has officially released its Winter 2026 Pet Collection, shrinking down signature sportswear staples for an animal-ready cold-weather wardrobe.The five-piece seasonal capsule is spearheaded by the Pet Padded Vest ($55 USD), offered in black, red, and olive color options. Built for warmth, the outerwear silhouette features a glossy quilted body accented by the classic Three Stripes running across the back alongside the signature Trefoil motif.Joining the vests is the Pet Knitted Hoody ($80 USD), which arrives in two distinct colorways. Each sweater incorporates a striped knit construction detailed with adidas Originals branding and a playful integrated hood. Together, the collection translates familiar Three Stripes lifestyle codes into insulated outerwear and comfortable knitwear designed specifically for pets.The adidas Originals Winter 2026 Pet Collection is available now via adidas US. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7ab3534fc3288179",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kylie Jenner Makes Victoria's Secret Runway Debut in $50 Million USD Diamond-Encrusted Jacob & Co. Fantasy Bra",
+      "url": "https://hypebeast.com/2026/10/kylie-jenner-makes-victorias-secret-runway-debut-wearing-50-million-usd-diamond-encrusted-jacob-co-fantasy-bra",
+      "publishedAt": "2026-10-19T06:00:15.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Kylie Jenner Makes Victoria's Secret Runway Debut in $50 Million USD Diamond-Encrusted Jacob & Co. Fantasy Bra Summary Kylie Jenner made her Victoria’s Secret runway debut at the 2026 Victoria’s Secret Fashion Show wearing the iconic Fantasy BraValued at $50 million USD the one-of-a-kind Jacob & Co. creation is the most expensive Fantasy Bra in the brand’s historyCrafted with 4,410 natural diamonds and a 75.54-carat yellow diamond centerpiece the design marks the return of the runway tradition for the first time since 2018 Kylie Jenner made her surprise runway debut at the 2026 Victoria’s Secret Fashion Show wearing the label's revived Fantasy Bra, a $50 million USD high-jewelry creation engineered in collaboration with Jacob & Co. The appearance marked the KHY founder’s first time ever walking a Victoria’s Secret catwalk.Designed by Jacob Arabo, the showpiece drew inspiration from Jacob & Co.’s Rare Touch Jewelry Collection and reimagined the traditional lingerie staple without using any fabric. Handcrafted by 15 artisans over more than 1,000 hours, the structure incorporates 3,218 individually designed components engineered to move with the body like lingerie. At the center sits a 75.54-carat natural Fancy Vivid Yellow diamond, encircled by 4,409 natural diamonds totaling 1,373 carats in an array of cuts, including the jeweler's signature Angel-Cut. Made entirely of precious metals and stones, covered in shimmering crystals, and finished with delicate fringe along the base, the $50 million USD piece stands as the most valuable Fantasy Bra ever produced.Jenner paired the diamond-encrusted top with a low-slung silver thong, an iridescent white miniskirt, clear PVC heels, and large feathery white wings as partner Timothée Chalamet and mother Kris Jenner cheered from the audience. The runway appearance brought the Fantasy Bra back to the stage for the first time since Elsa Hosk wore it in 2018, following historic iterations previously donned by Claudia Schiffer in 1996, Alessandra Ambrosio, and Adriana Lima. View this post on InstagramA post shared by JACOB & CO. (@jacobandco) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "bd836bd5a1c00c06",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Corteiz Gives First Look at Upcoming Nike Shox R419 in \"Metallic Silver\"",
+      "url": "https://hypebeast.com/2026/10/corteiz-nike-shox-r419-collaboration-silver-colorway-first-look-reveal",
+      "publishedAt": "2026-10-19T05:00:06.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Corteiz Gives First Look at Upcoming Nike Shox R419 in \"Metallic Silver\" Summary Corteiz founder Clint 419 took to Instagram to reveal a first look at an upcoming Nike Shox R4 collaborationThe initial preview highlights the retro silhouette rendered in a Metallic Silver finishRumors suggest that accompanying Black and Royal Blue colorways are also on the way Nike and London-based streetwear label Corteiz are preparing their next joint footwear project with the upcoming Corteiz x Nike Shox R4. Shared directly by founder Clint 419 via his personal Instagram account, the preview delivers a first look at the collaborative runner.The revealed imagery centers on a \"Metallic Silver\" execution, detailing the silhouette’s retro-futuristic upper and iconic mechanical cushioning system. Alongside the silver pair previewed by Clint 419, the newly released teaser video suggest that additional iterations in \"Black\" and \"Royal Blue\" are also in the works to complete the upcoming footwear drop.Alongside the footwear, the duo has reportedly prepared an extensive apparel capsule. The range is expected to include track jackets, track pants, an AeroLoft vest, pro base layers, jerseys, and shorts, with most garments designed in color palettes that correspond to the three sneaker editions.The Corteiz x Nike Shox R419 collection is slated to release in Fall 2026. View this post on InstagramA post shared by LUNDUN. (@clint419) View this post on InstagramA post shared by CORTEIZ (@corteiz) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f6a8f0bf41fd2ccd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple's iPhone Duo Reportedly Sells Out Moments After Pre-Orders Open",
+      "url": "https://hypebeast.com/2026/10/apple-iphone-duo-sells-out-moments-after-pre-orders-open-reports",
+      "publishedAt": "2026-10-19T04:13:56.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Apple's iPhone Duo Reportedly Sells Out Moments After Pre-Orders Open Summary Apple’s all-new iPhone Duo entered backorder status minutes after pre-orders went liveDelivery estimates across all configurations quickly slipped to mid and late November due to tight initial supply and high demandIn-store retail availability and initial customer shipments officially begin on October 23 Apple has seen its newly announced iPhone Duo rapidly sell out across digital storefronts, with delivery windows slipping moments after pre-orders opened at 8 a.m. ET. According to Apple Insider, the initial supply of the new hardware was quickly depleted across all configurations.Within minutes of launch, shipping windows for the device slipped back to November 16 and subsequently to November 23. While Apple traditionally maintains secrecy regarding exact launch inventory numbers, the extended dispatch times point to both significant early buyer demand and constrained launch-day volume. Reports highlight that the phone's intricate design has introduced complex manufacturing hurdles, limiting the initial production yield compared to conventional releases.Arriving as the most expensive iPhone model Apple has ever produced, the launch comes against the backdrop of an ongoing global chip shortage that has pushed electronics costs upward across the tech landscape. While customers can still submit backorders through online channels, supply for day-one fulfillment remains tightly restricted.The Apple iPhone Duo officially arrives in retail stores and begins initial customer deliveries on October 23, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1fe50e26ec84e72b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Philadelphia 76ers Convert Tacko Fall to Two-Way Contract",
+      "url": "https://hypebeast.com/2026/10/philadelphia-76ers-convert-tacko-fall-to-two-way-contract",
+      "publishedAt": "2026-10-19T03:24:30.000Z",
+      "collectedAt": "2026-10-19T18:34:27.985Z",
+      "text": "Philadelphia 76ers Convert Tacko Fall to Two-Way Contract Summary The Philadelphia 76ers have officially converted center Tacko Fall to a two-way contract ahead of the regular seasonThe roster move follows key frontcourt injuries including a season-ending Achilles tear for backup center Ariel HukportiFall enters his fourth NBA season after previously competing overseas for the Ningbo Rockets The Philadelphia 76ers have officially signed 7-foot-6 center Tacko Fall to a two-way contract, addressing frontcourt depth following multiple injuries during the preseason. The franchise announced the roster move on Saturday.Fall initially signed an Exhibit 10 deal with Philadelphia last month before earning an elevated roster designation. The frontcourt opening emerged after projected backup center Ariel Hukporti sustained a season-ending right Achilles tear during preseason play. Depth concerns compounded further with center Adem Bona sidelined by a foot ailment and Dominick Barlow missing the entire preseason slate due to persistent back soreness.The transaction marks Fall's return to the NBA for his fourth career campaign and his first appearance since the 2021-22 season with the Cleveland Cavaliers. The 30-year-old big man spent his initial two seasons with the Boston Celtics alongside current Sixers forward Jaylen Brown, before most recently playing in the Chinese Basketball Association with the Ningbo Rockets.Fall joins the 76ers' active rotation as the team works to stabilize its frontcourt rotation heading into the regular season. Click here to view full gallery at Hypebeast"
     }
   ]
 }

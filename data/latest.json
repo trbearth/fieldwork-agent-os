@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-18",
+    "id": "2026-10-19",
     "mode": "live",
-    "displayDate": "OCT 18, 2026, 11:39 AM EDT",
-    "generatedAt": "2026-10-18T15:39:28.497Z",
-    "itemsCollected": 21,
+    "displayDate": "OCT 19, 2026, 02:34 PM EDT",
+    "generatedAt": "2026-10-19T18:34:29.257Z",
+    "itemsCollected": 50,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 6
+        "count": 9
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -30,19 +30,19 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 57,
-      "confidence": 38,
-      "youthRelevance": 49,
+      "score": 68,
+      "confidence": 48,
+      "youthRelevance": 100,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
+      "whyNow": "4 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
       "citations": [
         {
-          "title": "Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker",
+          "title": "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets",
           "source": "Hypebeast",
-          "date": "Oct 13",
-          "url": "https://hypebeast.com/2026/10/pokemon-apple-beats-pill-collaboration-release-info"
+          "date": "Oct 19",
+          "url": "https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info"
         },
         {
           "title": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
@@ -76,37 +76,37 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 27,
-      "confidence": 20,
-      "youthRelevance": 38,
-      "direction": "flat",
+      "score": 26,
+      "confidence": 21,
+      "youthRelevance": 54,
+      "direction": "down",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
       "citations": [
         {
-          "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
-          "source": "Highsnobiety",
-          "date": "Oct 12",
-          "url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/"
+          "title": "Supreme and Timberland Reunite for Fall 2026 Collection",
+          "source": "Hypebeast",
+          "date": "Oct 19",
+          "url": "https://hypebeast.com/2026/10/supreme-timberland-fall-2026-collaboration-release-info"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Quiet performance",
-    "reason": "1 mention this week versus 1 in the prior seven-day window."
+    "reason": "1 mention this week versus 2 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1018",
+    "code": "AUTO 1019",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker",
+      "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets",
       "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments"
     ]
   }

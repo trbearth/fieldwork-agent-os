@@ -1,16 +1,16 @@
-# Fieldwork Daily Signal — 2026-10-18
+# Fieldwork Daily Signal — 2026-10-19
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 57 · confidence 38% · youth 49%**
+**emerging · score 68 · confidence 48% · youth 100%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-2 observations · 2 independent sources · +100% seven-day velocity
+4 observations · 2 independent sources · +100% seven-day velocity
 
-- [Beats Catches Pikachu and Mimikyu for Its First Charm-Loaded Pill Speaker](https://hypebeast.com/2026/10/pokemon-apple-beats-pill-collaboration-release-info) — Hypebeast, Oct 13
+- [Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets](https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info) — Hypebeast, Oct 19
 - [The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments](https://www.vogue.com/article/best-airbnbs-in-lisbon) — Vogue, Oct 14
 
 ## 2. Archival sportswear
@@ -25,13 +25,13 @@ Archival sportswear is appearing across 1 independent public source.
 
 ## 3. Quiet performance
 
-**emerging · score 27 · confidence 20% · youth 38%**
+**emerging · score 26 · confidence 21% · youth 54%**
 
 Quiet performance is appearing across 1 independent public source.
 
-1 observation · 1 independent source · +0% seven-day velocity
+1 observation · 1 independent source · -50% seven-day velocity
 
-- [UGG’s Waterproof Slippers Can Handle Winter's Worst](https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/) — Highsnobiety, Oct 12
+- [Supreme and Timberland Reunite for Fall 2026 Collection](https://hypebeast.com/2026/10/supreme-timberland-fall-2026-collaboration-release-info) — Hypebeast, Oct 19
 
 ## Method note
 
