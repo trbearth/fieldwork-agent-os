@@ -1,17 +1,17 @@
-# Fieldwork Daily Signal — 2026-10-19
+# Fieldwork Daily Signal — 2026-10-20
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 68 · confidence 48% · youth 100%**
+**emerging · score 78 · confidence 44% · youth 92%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-4 observations · 2 independent sources · +100% seven-day velocity
+3 observations · 2 independent sources · +200% seven-day velocity
 
-- [Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets](https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info) — Hypebeast, Oct 19
 - [The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments](https://www.vogue.com/article/best-airbnbs-in-lisbon) — Vogue, Oct 14
+- [Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets](https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info) — Hypebeast, Oct 19
 
 ## 2. Archival sportswear
 

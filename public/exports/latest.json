@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-19",
+    "id": "2026-10-20",
     "mode": "live",
-    "displayDate": "OCT 19, 2026, 02:34 PM EDT",
-    "generatedAt": "2026-10-19T18:34:29.257Z",
-    "itemsCollected": 50,
+    "displayDate": "OCT 20, 2026, 12:37 PM EDT",
+    "generatedAt": "2026-10-20T16:37:33.779Z",
+    "itemsCollected": 58,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 9
+        "count": 11
       },
       {
         "source": "Hypebeast",
@@ -30,25 +30,25 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 68,
-      "confidence": 48,
-      "youthRelevance": 100,
+      "score": 78,
+      "confidence": 44,
+      "youthRelevance": 92,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
+      "whyNow": "3 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +200% seven-day velocity",
       "citations": [
-        {
-          "title": "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets",
-          "source": "Hypebeast",
-          "date": "Oct 19",
-          "url": "https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info"
-        },
         {
           "title": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
           "source": "Vogue",
           "date": "Oct 14",
           "url": "https://www.vogue.com/article/best-airbnbs-in-lisbon"
+        },
+        {
+          "title": "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets",
+          "source": "Hypebeast",
+          "date": "Oct 19",
+          "url": "https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info"
         }
       ]
     },
@@ -102,12 +102,12 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1019",
+    "code": "AUTO 1020",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets",
-      "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments"
+      "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
+      "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets"
     ]
   }
 }
