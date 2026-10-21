@@ -1,17 +1,16 @@
-# Fieldwork Daily Signal — 2026-10-20
+# Fieldwork Daily Signal — 2026-10-21
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 78 · confidence 44% · youth 92%**
+**emerging · score 45 · confidence 31% · youth 100%**
 
-Decorated basics is appearing across 2 independent public sources.
+Decorated basics is appearing across 1 independent public source.
 
-3 observations · 2 independent sources · +200% seven-day velocity
+3 observations · 1 independent source · +50% seven-day velocity
 
-- [The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments](https://www.vogue.com/article/best-airbnbs-in-lisbon) — Vogue, Oct 14
-- [Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets](https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info) — Hypebeast, Oct 19
+- [BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette](https://hypebeast.com/2026/10/bedwin-the-heartbreakers-kipsso-buffalo-jacket-release-info) — Hypebeast, Oct 21
 
 ## 2. Archival sportswear
 
@@ -25,13 +24,13 @@ Archival sportswear is appearing across 1 independent public source.
 
 ## 3. Quiet performance
 
-**emerging · score 26 · confidence 21% · youth 54%**
+**emerging · score 32 · confidence 26% · youth 65%**
 
 Quiet performance is appearing across 1 independent public source.
 
-1 observation · 1 independent source · -50% seven-day velocity
+2 observations · 1 independent source · +0% seven-day velocity
 
-- [Supreme and Timberland Reunite for Fall 2026 Collection](https://hypebeast.com/2026/10/supreme-timberland-fall-2026-collaboration-release-info) — Hypebeast, Oct 19
+- [8 Drops You Don't Want to Miss This Week](https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip) — Hypebeast, Oct 21
 
 ## Method note
 

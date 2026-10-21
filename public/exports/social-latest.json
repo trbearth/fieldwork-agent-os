@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-20",
+    "id": "social-2026-10-21",
     "mode": "live",
-    "generatedAt": "2026-10-20T16:37:42.717Z",
-    "postsCollected": 23,
+    "generatedAt": "2026-10-21T16:56:12.360Z",
+    "postsCollected": 24,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -76,15 +76,20 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 45,
-      "confidence": 50,
-      "youthRelevance": 64,
-      "velocity": -37,
-      "evidence": "5 public posts · 1 network · 7-day comparison",
+      "score": 50,
+      "confidence": 52,
+      "youthRelevance": 65,
+      "velocity": -25,
+      "evidence": "6 public posts · 1 network · 7-day comparison",
       "citations": [
         {
           "title": "Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od",
           "url": "https://tardigram.com/m/Medicina/t/90689",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Navy polo coat over a grey herringbone suit, with a blue-striped button-down, red-and-navy crest tie",
+          "url": "https://mastodon.social/@seoul_trad/117476435981861862",
           "network": "Mastodon"
         },
         {
@@ -95,11 +100,6 @@
         {
           "title": "A navy double-breasted blazer over a grey sweatshirt, white OCBD and green-and-navy tie. Navy pleate",
           "url": "https://mastodon.social/@seoul_trad/117431000765816812",
-          "network": "Mastodon"
-        },
-        {
-          "title": "A navy gold-button blazer, white OCBD and ivory cricket knit with Black Watch trousers. A green-and-",
-          "url": "https://mastodon.social/@seoul_trad/117425430019669836",
           "network": "Mastodon"
         }
       ]
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "23 observations"
+      "reason": "24 observations"
     },
     {
       "id": "bluesky",

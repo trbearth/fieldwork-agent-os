@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-20",
+    "id": "2026-10-21",
     "mode": "live",
-    "displayDate": "OCT 20, 2026, 12:37 PM EDT",
-    "generatedAt": "2026-10-20T16:37:33.779Z",
-    "itemsCollected": 58,
+    "displayDate": "OCT 21, 2026, 12:56 PM EDT",
+    "generatedAt": "2026-10-21T16:56:03.082Z",
+    "itemsCollected": 61,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 13
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
@@ -30,25 +30,19 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 78,
-      "confidence": 44,
-      "youthRelevance": 92,
+      "score": 45,
+      "confidence": 31,
+      "youthRelevance": 100,
       "direction": "up",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +200% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "3 observations · 1 independent source · +50% seven-day velocity",
       "citations": [
         {
-          "title": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
-          "source": "Vogue",
-          "date": "Oct 14",
-          "url": "https://www.vogue.com/article/best-airbnbs-in-lisbon"
-        },
-        {
-          "title": "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets",
+          "title": "BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette",
           "source": "Hypebeast",
-          "date": "Oct 19",
-          "url": "https://hypebeast.com/2026/10/awake-ny-the-north-face-limited-customized-nuptse-jackets-omi-alehsy-lambo-artists-collaboration-release-info"
+          "date": "Oct 21",
+          "url": "https://hypebeast.com/2026/10/bedwin-the-heartbreakers-kipsso-buffalo-jacket-release-info"
         }
       ]
     },
@@ -76,38 +70,37 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 26,
-      "confidence": 21,
-      "youthRelevance": 54,
-      "direction": "down",
+      "score": 32,
+      "confidence": 26,
+      "youthRelevance": 65,
+      "direction": "flat",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "whyNow": "2 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
-          "title": "Supreme and Timberland Reunite for Fall 2026 Collection",
+          "title": "8 Drops You Don't Want to Miss This Week",
           "source": "Hypebeast",
-          "date": "Oct 19",
-          "url": "https://hypebeast.com/2026/10/supreme-timberland-fall-2026-collaboration-release-info"
+          "date": "Oct 21",
+          "url": "https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Quiet performance",
-    "reason": "1 mention this week versus 2 in the prior seven-day window."
+    "reason": "2 mentions this week versus 2 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1020",
+    "code": "AUTO 1021",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
-      "Awake NY and The North Face Unveil 50 Hand-Customized Nuptse Jackets"
+      "BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette"
     ]
   }
 }
