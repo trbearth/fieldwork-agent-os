@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-21
+# Fieldwork Public Pulse — 2026-10-22
 
 ## 1. Quiet performance
 
@@ -18,20 +18,20 @@
 5 public posts · 1 network · 7-day comparison
 
 - [I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc](https://blahaj.zone/notes/a6qm2hx0fvau0f4o) — Mastodon
-- [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
+- [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Ready to make senior year unforgettable? From bold lettering and painted florals to rhinestones and ](https://mastodon.social/@latestfits/117296676441966574) — Mastodon
 
 ## 3. Washed tailoring
 
-**emerging · score 50 · confidence 52% · youth 65%**
+**emerging · score 47 · confidence 52% · youth 58%**
 
 6 public posts · 1 network · 7-day comparison
 
 - [Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od](https://tardigram.com/m/Medicina/t/90689) — Mastodon
+- [Charcoal balmacaan over a blazer and Fair Isle vest. A blue Oxford and red-and-navy tie add colour; ](https://mastodon.social/@seoul_trad/117482124570956212) — Mastodon
 - [Navy polo coat over a grey herringbone suit, with a blue-striped button-down, red-and-navy crest tie](https://mastodon.social/@seoul_trad/117476435981861862) — Mastodon
 - [A charcoal Balmacaan over a grey herringbone suit. A Fair Isle vest and red-and-navy striped tie bre](https://mastodon.social/@seoul_trad/117465789897483367) — Mastodon
-- [A navy double-breasted blazer over a grey sweatshirt, white OCBD and green-and-navy tie. Navy pleate](https://mastodon.social/@seoul_trad/117431000765816812) — Mastodon
 
 ## 4. Archival sportswear
 

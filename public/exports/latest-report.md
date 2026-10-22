@@ -1,26 +1,27 @@
-# Fieldwork Daily Signal — 2026-10-21
+# Fieldwork Daily Signal — 2026-10-22
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 45 · confidence 31% · youth 100%**
+**emerging · score 67 · confidence 50% · youth 100%**
 
-Decorated basics is appearing across 1 independent public source.
+Decorated basics is appearing across 2 independent public sources.
 
-3 observations · 1 independent source · +50% seven-day velocity
+4 observations · 2 independent sources · +100% seven-day velocity
 
 - [BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette](https://hypebeast.com/2026/10/bedwin-the-heartbreakers-kipsso-buffalo-jacket-release-info) — Hypebeast, Oct 21
+- [The 10 Best Airbnbs in Venice for Canalside Charm](https://www.vogue.com/article/best-airbnbs-in-venice) — Vogue, Oct 22
 
 ## 2. Archival sportswear
 
-**emerging · score 43 · confidence 19% · youth 38%**
+**emerging · score 48 · confidence 24% · youth 41%**
 
 Archival sportswear is appearing across 1 independent public source.
 
-1 observation · 1 independent source · +100% seven-day velocity
+2 observations · 1 independent source · +100% seven-day velocity
 
-- [Nico Hulkenberg and Gabriel Bortoleto Star in ic! berlin’s Inaugural Motorsport Campaign](https://hypebeast.com/2026/10/nico-hulkenberg-gabriel-bortoleto-star-ic-berlin-motorsport-campaign) — Hypebeast, Oct 17
+- [Jil Sander and PUMA Expand Their Collaboration Into Apparel for FW26](https://hypebeast.com/2026/10/jil-sander-puma-fall-winter-2026-collaboration-collection-release-info) — Hypebeast, Oct 22
 
 ## 3. Quiet performance
 
