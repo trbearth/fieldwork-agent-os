@@ -3195,6 +3195,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-23",
+      "mode": "live",
+      "displayDate": "OCT 23, 2026, 12:47 PM EDT",
+      "generatedAt": "2026-10-23T16:47:31.970Z",
+      "itemsCollected": 53,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 8
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 67,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 48,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 45,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -49364,6 +49406,589 @@
       "publishedAt": "2026-10-22T09:03:38.000Z",
       "collectedAt": "2026-10-22T16:55:41.909Z",
       "text": "Stray Kids and BAPE Take Over Seoul for New Capsule Summary A BATHING APE has teamed up with Stray Kids to unveil a collaborative Gift With Purchase collection uniting BABY MILO and SKZOOThe multi-stage release features collectible lifestyle goods including luggage tags keycap keychains tote bags and plush dollsStray Kids celebrated the drop with an interactive takeover at BAPE STORE DOSAN sporting Fall/Winter 2026 looks and the BAPE STA A BATHING APE (BAPE®) has officially partnered with global music sensation Stray Kids to introduce the BAPE × Stray Kids Gift With Purchase collection, celebrated with a full-scale physical takeover at BAPE STORE DOSAN in Seoul.The collaboration centers on a co-branded Gift With Purchase lifestyle assortment that bridges the signature worlds of BABY MILO® and SKZOO. The collectible lineup features a branded Luggage Tag, Keycap Keychain, canvas Tote Bag, BABY MILO® Plush Keychain, and a large BABY MILO® Plush Doll, each detailed with co-branded graphics and signature BAPE® motifs.To commemorate the launch, all eight members of Stray Kids gathered at BAPE STORE DOSAN styled in selections from BAPE’s Fall/Winter 2026 mainline collection paired with the BAPE STA™, honoring the sneaker’s 25th anniversary. The retail flagship was completely reimagined for the event, showcasing oversized campaign imagery, themed window graphics, a claw machine photo booth, and a custom CAMO-wrapped Gacha machine. In-store purchases offer shoppers a turn on the machine for exclusive items, including special access passes to the location’s private (B)APARTMENT space featuring autographed memorabilia.Drop 1 of the BAPE® × Stray Kids collection released on October 17, 2026, while Drop 2 arrives on October 30, 2026, available through designated spending tiers at participating BAPE STORE locations worldwide. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ea29a4e64ff0c4cd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Backyard Wedding in Seattle Was Inspired by Ralph Lauren and ’00s Rom-Coms",
+      "url": "https://www.vogue.com/slideshow/sara-walker-and-joe-ratliffe-wedding",
+      "publishedAt": "2026-10-23T16:42:07.000Z",
+      "collectedAt": "2026-10-23T16:47:27.631Z",
+      "text": "This Backyard Wedding in Seattle Was Inspired by Ralph Lauren and ’00s Rom-Coms Stylist Sara Walker married Joe Ratliffe in her parents’ backyard, wearing vintage Vivienne Westwood, bespoke Phillipa Lepley, Emilia Wickstead, and runway Chanel over the course of the weekend."
+    },
+    {
+      "id": "7b34ead20be57ec9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jackson, Wyoming Guide: Where to Stay, Eat, and Shop All Year Round",
+      "url": "https://www.vogue.com/article/an-all-seasons-guide-to-jackson-wyoming",
+      "publishedAt": "2026-10-23T16:36:21.000Z",
+      "collectedAt": "2026-10-23T16:47:27.631Z",
+      "text": "Jackson, Wyoming Guide: Where to Stay, Eat, and Shop All Year Round Where to stay, eat, and play in the gateway to Jackson, Wyoming, the gateway to Yellowstone National Park and home of Jackson Hole Ski resort."
+    },
+    {
+      "id": "357b8e194b2ca563",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "At the Ms. Senior America Pageant, Beauty Is Forever",
+      "url": "https://www.vogue.com/article/ms-senior-america-pageant",
+      "publishedAt": "2026-10-23T16:30:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "At the Ms. Senior America Pageant, Beauty Is Forever Vogue takes a peek behind the Ms. Senior America Pageant red velvet curtain."
+    },
+    {
+      "id": "90f8994e8ead7bbc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "New York’s Best-Dressed Halloween Stoops in New York City Are Spooky, Kooky, Autumnal Delights",
+      "url": "https://www.vogue.com/article/best-halloween-stoops",
+      "publishedAt": "2026-10-23T16:27:25.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "New York’s Best-Dressed Halloween Stoops in New York City Are Spooky, Kooky, Autumnal Delights “It’s about giving back to the community that’s given so much to me,” says one New York stoop decorator."
+    },
+    {
+      "id": "5b40c6846b95af8f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 2026 Hunter’s Moon Is Coming—Here’s What It Means for Every Star Sign",
+      "url": "https://www.vogue.com/article/hunters-moon-2026-full-moon-astrology-every-star-sign",
+      "publishedAt": "2026-10-23T16:06:01.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "The 2026 Hunter’s Moon Is Coming—Here’s What It Means for Every Star Sign This lunation acts as a powerful catalyst to course-correct, adjust perspective, and step onto more solid ground. As the 2026 Hunter’s Moon, the October full moon, arrives, here’s an astrologer’s explanation of the effects."
+    },
+    {
+      "id": "94101505855f801b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Some 35 Years of Friendship Later, Pharrell and Pusha T Are Still Grindin’",
+      "url": "https://www.vogue.com/article/in-conversation-pharrell-pusha-t",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "Some 35 Years of Friendship Later, Pharrell and Pusha T Are Still Grindin’ In a new video interview for Vogue, the longtime friends and collaborators talk music, style, and making coffee together."
+    },
+    {
+      "id": "3de7ce331fca6575",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Even Drake Can’t Resist the Siren Song of a Boho Fall",
+      "url": "https://www.vogue.com/article/even-drake-cant-resist-the-siren-song-of-a-boho-fall",
+      "publishedAt": "2026-10-23T15:35:43.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "Even Drake Can’t Resist the Siren Song of a Boho Fall Move over Kate and Dakota! Drake, out celebrating his 40th birthday, made a compelling case for fall’s most free-spirited trend in a fringed poncho."
+    },
+    {
+      "id": "927a440392af672f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "8 Black-Tie Outfit Ideas for Your Most Glamorous Events",
+      "url": "https://www.vogue.com/article/black-tie-outfits",
+      "publishedAt": "2026-10-23T14:47:24.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "8 Black-Tie Outfit Ideas for Your Most Glamorous Events Your complete guide to mastering the black-tie outfit this fall, from statement fringe and bright tones to elegant draping and minimalist silhouettes."
+    },
+    {
+      "id": "1e6844ad1235bf7d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ariana Grande Is Now Bobiana Grande",
+      "url": "https://www.vogue.com/article/ariana-grande-bob-haircut",
+      "publishedAt": "2026-10-23T10:05:03.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "Ariana Grande Is Now Bobiana Grande The ponytail is taking a hiatus, people: Ariana Grande has unveiled a serious hair chop and color switch-up."
+    },
+    {
+      "id": "9b93b0bc8c3571e5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Reed All About It: Here’s How Alexander Skarsgård Wound Up in Couture Scuba Pants for ‘Wicker’",
+      "url": "https://www.vogue.com/article/alexander-skarsgard-wicker-suit-costume-designer-interview-andras-attila",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "Reed All About It: Here’s How Alexander Skarsgård Wound Up in Couture Scuba Pants for ‘Wicker’ Costume designers András Dániel Tóth and Attila Godena-Juhász were given nine days’ notice to create a bottom half for Alexander Skarsgård’s Wicker Man."
+    },
+    {
+      "id": "599d318a9b1bea0d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Collab",
+      "url": "https://www.vogue.com/article/on-just-browsing-fall-2026",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Collab Vogue’s marketing and production manager Kasey Busiel tries on the brand’s new collection."
+    },
+    {
+      "id": "c89eede3714fb816",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Running Essentials Vogue Editors Swear By, From Shoes to Leggings",
+      "url": "https://www.vogue.com/article/vogue-editors-run-essentials",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "The Running Essentials Vogue Editors Swear By, From Shoes to Leggings Ahead of the New York City Marathon, Vogue editors share their running essentials, from sneakers to the best winter gloves and leggings."
+    },
+    {
+      "id": "c1ebd2fefc359ddb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Just Got Back From London, and These Are the Sneakers That Were Everywhere",
+      "url": "https://www.vogue.com/article/salomon-sneakers-fall-trend",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "I Just Got Back From London, and These Are the Sneakers That Were Everywhere Salomon’s XT-6 are a fall favorite for a reason—cosigned by models off-duty and the street style set. Shop our favorite pairs for fall."
+    },
+    {
+      "id": "0b627e6692df770f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "His Year in Fashion: Artist Jack Jildevik Documented His Wardrobe in 365 Flat-Lay Photos",
+      "url": "https://www.vogue.com/article/his-year-in-fashion-artist-jack-jildevik-documented-his-wardrobe-in-365-flat-lay-photos",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "His Year in Fashion: Artist Jack Jildevik Documented His Wardrobe in 365 Flat-Lay Photos The new book ‘Portrait of Absence’ considers identity and fashion apart from the body."
+    },
+    {
+      "id": "f76374560fe4eeda",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Brands Are Chasing Purity in a Polluted World",
+      "url": "https://www.vogue.com/article/beauty-brands-are-chasing-purity-in-a-polluted-world",
+      "publishedAt": "2026-10-23T09:30:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "Beauty Brands Are Chasing Purity in a Polluted World As pollution anxiety grows across the globe, many brands are betting big on purifying products and devices. But does doomscrolling equate to real product demand?"
+    },
+    {
+      "id": "0b7c0c909c46dff7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Jeon Do-yeon to Tao Okamoto, Four Asian Actresses Giving Must-See Performances This Fall",
+      "url": "https://www.vogue.com/article/korean-and-japanese-actresses-must-see-fall-performances-2026",
+      "publishedAt": "2026-10-23T04:35:52.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "From Jeon Do-yeon to Tao Okamoto, Four Asian Actresses Giving Must-See Performances This Fall Jeon Do-yeon, Tao Okamoto, Hoyeon, and Rinko Kikuchi deliver standout performances in “Possible Love,” “All of a Sudden,” “Hope,” and “Ha-chan, Shake Your Booty!”"
+    },
+    {
+      "id": "eaacaa8bbfec4a34",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Scoop With Osama Chabbi: On Directing His First Fashion Documentary",
+      "url": "https://www.vogue.com/article/the-scoop-with-osama-chabbi-on-directing-his-first-fashion-documentary",
+      "publishedAt": "2026-10-23T04:30:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "The Scoop With Osama Chabbi: On Directing His First Fashion Documentary This week’s guest is Osama Chabbi, one of the few fashion commentators that emerged on Instagram post-pandemic that actually has something to say."
+    },
+    {
+      "id": "943caecf2a8dd831",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "More Planned Riots Put Off Art, Fashion and Sport Events in Paris",
+      "url": "https://www.vogue.com/article/more-planned-riots-put-off-art-fashion-and-sport-events-in-paris",
+      "publishedAt": "2026-10-23T04:30:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.632Z",
+      "text": "More Planned Riots Put Off Art, Fashion and Sport Events in Paris Art Basel Paris will now close on Saturday as independent and luxury brands prepare for more disruption over the weekend."
+    },
+    {
+      "id": "9d32830f08f19a53",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The SS27 Fashion Month Lookback",
+      "url": "https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback",
+      "publishedAt": "2026-10-23T03:30:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "The SS27 Fashion Month Lookback Watch Vogue Business editors unpack the biggest runway moments and brand wins from the Spring/Summer 2027 show season."
+    },
+    {
+      "id": "35de6030075b91c6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Daily Grind: An Exploration of Teeth Grinding and Relief",
+      "url": "https://www.vogue.com/article/teeth-grinding-and-relief",
+      "publishedAt": "2026-10-23T00:18:41.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "The Daily Grind: An Exploration of Teeth Grinding and Relief Is a clenched jaw just a part of life in 2026? Vogue explores."
+    },
+    {
+      "id": "d578de8009d45e0f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "13 of the Biggest Contenders for the 2027 Oscars",
+      "url": "https://www.vogue.com/article/biggest-oscar-contenders-2027",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "13 of the Biggest Contenders for the 2027 Oscars These are the swaggering blockbusters, charming comedies, and low-budget dark horses to add to your watchlist this awards season."
+    },
+    {
+      "id": "442c07cf571aeb14",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Fifi's Wig Shop Brings Halloween Transformations to the Next Level",
+      "url": "https://www.vogue.com/article/new-orleans-fifi-wigs-halloween-shop",
+      "publishedAt": "2026-10-22T20:00:00.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "Fifi's Wig Shop Brings Halloween Transformations to the Next Level Fifi's Wig Shop is a must-stop destinations for elaborate, one-of-a-kind wigs. “In New Orleans, we will always find an excuse to wear a wig.”"
+    },
+    {
+      "id": "d723b4b11fce35c6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rag & Bone Pre-Fall 2027 Menswear",
+      "url": "https://www.vogue.com/fashion-shows/pre-fall-2027-menswear/rag-bone",
+      "publishedAt": "2026-10-23T16:45:26.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "Rag & Bone Pre-Fall 2027 Menswear "
+    },
+    {
+      "id": "0a16723ee3120803",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Bride Wore Handmade Silk Organza Flowers in Her Hair for Her Creative Wedding in Marrakech",
+      "url": "https://www.vogue.com/article/pam-nasr-something-bold-something-new",
+      "publishedAt": "2026-10-22T17:41:47.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "The Bride Wore Handmade Silk Organza Flowers in Her Hair for Her Creative Wedding in Marrakech Film director Pam Nasr tapped her friends to help design all four of her bridal looks, including her ceremony gown by Christopher John Rogers, which she paired with a chrysanthemum headpiece crafted in silk satin organza."
+    },
+    {
+      "id": "34f470a9026450af",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tao Tokyo Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/tao",
+      "publishedAt": "2026-10-23T16:45:26.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "Tao Tokyo Spring 2027 "
+    },
+    {
+      "id": "ebd895f58c07bb36",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "5 Best Shampoos for Hair Loss, Supporting a Healthier Scalp and Fuller-Looking Hair",
+      "url": "https://www.vogue.com/article/shampoo-for-hair-loss",
+      "publishedAt": "2026-10-22T17:39:56.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "5 Best Shampoos for Hair Loss, Supporting a Healthier Scalp and Fuller-Looking Hair Could your shampoo help with hair loss? Experts explain what actually works. These are the best shampoos for hair loss, shedding and thinning hair."
+    },
+    {
+      "id": "76bd0f6fadf00c2e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kering Sales Fall 1% in Q3",
+      "url": "https://www.vogue.com/article/kering-sales-fall-1-in-q3",
+      "publishedAt": "2026-10-22T17:36:43.000Z",
+      "collectedAt": "2026-10-23T16:47:27.633Z",
+      "text": "Kering Sales Fall 1% in Q3 Revenue at Gucci — its largest brand — was down 6%."
+    },
+    {
+      "id": "5750f5fedcc8cadc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Artist Uniform: Hiroshi Fujiwara’s Wardrobe Is His Résumé",
+      "url": "https://www.highsnobiety.com/p/artist-uniform-for-hiroshi-fujiwara-the-uniform-is-everything/",
+      "publishedAt": "2026-10-23T16:00:02.000Z",
+      "collectedAt": "2026-10-23T16:47:29.219Z",
+      "text": "Artist Uniform: Hiroshi Fujiwara’s Wardrobe Is His Résumé An instinctual sense of style running back to kindergarten has turned the \"godfather of streetwear\" into one of Japanese fashion's foremost legends."
+    },
+    {
+      "id": "6c2f59564072ff28",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This 95 Is a Footwear Fortress Built for Skateboarding",
+      "url": "https://www.highsnobiety.com/p/kyle-wilson-nike-sb-air-max-95/",
+      "publishedAt": "2026-10-23T15:53:57.000Z",
+      "collectedAt": "2026-10-23T16:47:29.219Z",
+      "text": "This 95 Is a Footwear Fortress Built for Skateboarding Following the silhouette's skate-tooling overhaul, the Swoosh teams up with London skater Kyle Wilson for the Kyle Wilson x Nike SB Air Max 95."
+    },
+    {
+      "id": "fd0234eb6a131733",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Blauer FW26 is Literally High Performance",
+      "url": "https://www.highsnobiety.com/p/blauer-fw26-campaign/",
+      "publishedAt": "2026-10-23T14:14:50.000Z",
+      "collectedAt": "2026-10-23T16:47:29.219Z",
+      "text": "Blauer FW26 is Literally High Performance The new collection balances functionality, technical innovation, and modern urban style, worthy even of alt-rockstars."
+    },
+    {
+      "id": "fbaa5a13a6402247",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Prada Re-Wool Re-Ups Its Own Knitwear",
+      "url": "https://www.highsnobiety.com/p/prada-re-wool/",
+      "publishedAt": "2026-10-23T14:00:01.000Z",
+      "collectedAt": "2026-10-23T16:47:29.219Z",
+      "text": "Prada Re-Wool Re-Ups Its Own Knitwear The Milanese label’s latest initiative centers on wasted wool. No, seriously. It’s giving “one man’s trash is another man’s treasure,” but Prada."
+    },
+    {
+      "id": "1a74430162fd090c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Seven Best adidas Sneaker Releases This Week",
+      "url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-october-week-4/",
+      "publishedAt": "2026-10-23T10:03:00.000Z",
+      "collectedAt": "2026-10-23T16:47:29.219Z",
+      "text": "The Seven Best adidas Sneaker Releases This Week From the chunkiest jellyfish runner, to an anime-inspired superstar, this week was so full of adidas standouts, we picked... seven of them."
+    },
+    {
+      "id": "d434598ebf8e6fd4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Sleek. Lifted Sneaker is Shox-ingly Luxe",
+      "url": "https://www.highsnobiety.com/p/nike-shox-z-burgundy/",
+      "publishedAt": "2026-10-23T14:12:33.000Z",
+      "collectedAt": "2026-10-23T16:47:29.219Z",
+      "text": "Nike's Sleek. Lifted Sneaker is Shox-ingly Luxe Nike's luxe leather Shox Z sneaker is driving a cylindrical wedge in the lifted shoe conversation."
+    },
+    {
+      "id": "497a7f0a46f34d27",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Burna Boy Brings His Inner Circle Into the Spotlight For Latest On Campaign",
+      "url": "https://hypebeast.com/2026/10/burna-boy-on-no-giant-stands-alone-sneaker-campaign-release-info",
+      "publishedAt": "2026-10-23T16:04:31.000Z",
+      "collectedAt": "2026-10-23T16:47:30.688Z",
+      "text": "Burna Boy Brings His Inner Circle Into the Spotlight For Latest On Campaign As Burna Boy embarks on his European takeover, On has teamed up with the Grammy Award-winning artist for a new footwear collection, reimagining the Swiss sportswear label’s staple silhouettes.To mark the limited-edition drop, Burna Boy brings his inner circle to the forefront of the accompanying campaign, “No Giant Stands Alone.”With imagery shot by London-based photographer Ronan McKenzie and behind-the-scenes doc-style video by Bafic, the visuals get the Afrobeats artist alongside the people who have helped shape his career. Featuring his sister, Ronami and his mother, Bose - both part of his management team - as well as his dancers, vocalist and his band The Outsiders, the campaign serves as an intimate look at life behind the stage.Reworking two of On’s staple silhouettes: the Cloudmonster and THE ROGER Clubhouse, both sneakers arrive in tonal colorways, with the former in a full-red “Sienna/Sienna” and the latter in a clean “White/Mars” white makeover.The Cloudmonster BB and THE ROGER Clubhouse BB are available to shop now exclusively on the On website and Foot Locker. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a7ec28a3905d786d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Justin Bieber Launches First Immersive Audio Experience at SKYLRK Seoul Pop-up",
+      "url": "https://hypebeast.com/2026/10/justin-bieber-immersive-audio-experience-skylrk-seoul-pop-up",
+      "publishedAt": "2026-10-23T14:34:54.000Z",
+      "collectedAt": "2026-10-23T16:47:30.688Z",
+      "text": "Justin Bieber Launches First Immersive Audio Experience at SKYLRK Seoul Pop-up Summary Justin Bieber's apparel and lifestyle brand SKYLRK has officially launched its first physical installation in South KoreaThe Seongsu-dong space features a multi-sensory listening environment personally conceived and produced by Bieber utilizing SKYLRK AUDIO speakersVisitors can preview a forthcoming capsule of ping pong tables and gear created in collaboration with STIGA Table Tennis SKYLRK, the apparel and lifestyle imprint founded by Justin Bieber, has debuted its first South Korean installation, headlined by the SKYLRK Seoul immersive audio experience. Conceived and personally produced by Bieber, the project marks the artist's first venture into experiential spatial audio installations.Centered around a multi-sensory listening environment, the installation bridges sound, architectural space, visual elements, and bespoke SKYLRK AUDIO speakers to transform traditional listening into a shared physical format. The activation serves as an introduction to the expanding SKYLRK AUDIO ecosystem while exploring creative avenues outside conventional music releases.In addition to the sound installation, the physical space previews an upcoming equipment collection designed in partnership with STIGA Table Tennis. The assortment highlights custom ping pong tables and matching gear created by SKYLRK, applying the imprint's design ethos to communal recreation. The Seoul stop marks the fourth physical activation for the imprint, building on prior installations hosted in Tokyo in December 2025, Indio, California in April 2026, and New York City in July 2026.The SKYLRK SEOUL installation runs from October 23 through October 25, 2026, open daily from 10:00 to 22:00 at 36 Seongsuil-ro 6-gil in Seongdong-gu, Seoul. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "128ea2bc433538d3",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kith Officially Opens New Vancouver Flagship",
+      "url": "https://hypebeast.com/2026/10/kith-officially-opens-new-vancouver-flagship",
+      "publishedAt": "2026-10-23T14:27:33.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "Kith Officially Opens New Vancouver Flagship Summary Kith has officially announced the opening of its second Canadian flagship located at Oakridge Park in VancouverDesigned alongside Porto Architecture the retail space blends walnut Belvedere marble and custom terrazzo finishesThe opening is marked by a collaborative Salomon capsule launching early at the Vancouver boutique before a global release Kith has officially expanded its Canadian footprint with the grand opening of Kith Vancouver, marking the brand’s second flagship in the country. Located inside the North Arcade of Oakridge Park on West 41st Avenue, the expansive retail destination brings together the brand's full lifestyle universe alongside a dedicated Kith Treats space.Conceived by Kith CEO, Founder, and Creative Director Ronnie Fieg alongside frequent collaborator Ben Porto of Porto Architecture, the flagship’s design draws heavily from Vancouver’s surrounding coastal environment. The architectural layout balances natural light and organic materials, integrating walnut millwork, Calacatta Vagli marble, and Belvedere stone throughout the interior.The main entrance opens into the men’s apparel department, framed by custom walnut walls, brass accents, and Kith Crest-embossed velvet panels, leading through Belvedere stone thresholds to a dedicated men's footwear salon with polished Venetian plaster. In the women’s section, accessible via a patio entryway, chevron white oak floors meet Rosa Aurora stone tops, Emerald Quartzite accents, and multi-marble shelving displaying footwear, apparel, fine jewelry, and handbags. Kith Kids features cloud-shaped architectural ceiling coves, mint accents, and vibrant display cubbies, while Kith Treats presents an independent entrance accented by Rosa Portugalo counters, Azul Cielo headers, White Carrara stone, and stainless steel fixtures.To commemorate the store opening, Kith has partnered with Salomon to introduce a footwear capsule featuring the all-new XT-4K Mid, the XT-4 OG, and the XT-VYGR 2.The collaborative Kith for Salomon collection drops exclusively at Kith Vancouver on Friday, October 23, followed by a global rollout on Monday, October 26. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5d842ff1e111a5c0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Maison Kitsuné",
+      "url": "https://hypebeast.com/2026/10/new-arrivals-from-hbx-maison-kitsune",
+      "publishedAt": "2026-10-23T14:07:54.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "New Arrivals From HBX: Maison Kitsuné Brand Information: Maison Kitsuné was launched in 2002 by the creative duo Gildas Loaëc and Masaya Kuroki. The French contemporary fashion brand and music label utilizes the distinct styles of West and East by synthesizing two very different cities - Paris and Tokyo, into its designs. Maison Kitsuné combines classic Parisian minimalism with vibrant Japanese graphics in its collections, with the fox graphic acting as a recurring theme. The brand offers a full range of both men's and womenswear, including T-shirts, sweatshirts, sweaters, and more. The range is also supplemented with various collaborations with Oliver Peoples, colette, ADER error and AMBUSH, the brand is also worn by celebrities such as JAY-Z, Usher, and members of Girls’ Generation.Price Range: $85.00 USD - $530.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "176a95a134951c70",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Final Screen Tests for Next James Bond Reportedly Underway at Amazon MGM Studios",
+      "url": "https://hypebeast.com/2026/10/next-james-bond-casting-final-screen-tests-callum-turner-jack-lowden-underway-at-amazon-mgm-studios-reports",
+      "publishedAt": "2026-10-23T12:39:48.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "Final Screen Tests for Next James Bond Reportedly Underway at Amazon MGM Studios Summary Amazon MGM Studios is reportedly beginning final screen tests to cast the next James BondAuditions are being overseen by casting director Nina Gold for director Denis VilleneuveCallum Turner and Jack Lowden have emerged among the names in the mix as an official announcement looms before year's end Amazon MGM Studios is officially entering the final stages of casting for the next James Bond. Final screen tests to determine the new 007 are slated to commence within the coming week, starting as early as Friday.While the complete roster of actors invited to audition remains unconfirmed, industry sources note that British stars Callum Turner and Jack Lowden are actively in the mix. Representatives for Turner, Lowden, and Amazon MGM Studios did not immediately respond to requests for comment. Acclaimed filmmaker Denis Villeneuve is attached to direct the franchise's upcoming chapter, with veteran casting director Nina Gold managing the extensive audition process.Both frontrunners have circulated throughout the franchise's rumor mill in recent months. Lowden gained notable traction after his Slow Horses co-star Gary Oldman publicly hinted that the Scottish actor had reached the studio shortlist. Addressing the ongoing chatter, Lowden’s wife, Saoirse Ronan, downplayed the domestic speculation, noting that it’s “not really a subject that’s coming up in our house.” Turner similarly addressed 007 inquiries while promoting the arthouse film Rosebush Pruning at the Berlin Film Festival earlier this year. “It’s very early for that question,” Turner remarked at the time. “I’m not going to comment on it.”While Amazon MGM Studios has not announced a specific date for the formal reveal, the studio is widely expected to name its next James Bond before the end of the year. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "67e3ad090f21072e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lewis Hamilton Hints at Extended F1 Career Following Africa Grand Prix Decision",
+      "url": "https://hypebeast.com/2026/10/lewis-hamilton-hints-extended-f1-career-following-africa-grand-prix-decision",
+      "publishedAt": "2026-10-23T12:37:39.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "Lewis Hamilton Hints at Extended F1 Career Following Africa Grand Prix Decision Summary Lewis Hamilton has indicated he plans to extend his Formula 1 career until the sport officially returns to AfricaFormula 1 confirmed an African return for the early 2030s with Rwanda set to join the schedule for the first timeHamilton revealed extensive lobbying efforts involving high-level meetings with series stakeholders and heads of state Formula 1 driver Lewis Hamilton has hinted at an extended retirement timeline following the announcement of an upcoming African Grand Prix. The seven-time world champion stated that the sport's impending return to the continent will keep him on the grid longer than previously expected.Formula 1 confirmed last week that the racing series will officially return to Africa in the early 2030s, featuring Rwanda's debut on the calendar. The continent last hosted an F1 race in 1993 at Kyalami in South Africa. With Rwanda slated to join by 2030 at the earliest, Hamilton would be at least 45 years of age and entering his 24th season, yet the British driver expressed clear determination to remain competitive.\"I'm now forced to have to stay longer because we have a race in Africa, that's been my dream to be able to race in Africa,\" Hamilton told media members. \"I have to keep fighting to try and stay fit if I can. If I can still punch out good results over the next year, we'll keep it going.\"Hamilton highlighted his hands-on role in bringing the region back onto the calendar after years of direct campaigning. \"I've been advocating for a race in Africa for many, many, many years,\" Hamilton detailed. \"Countless meetings with the stakeholders, so many meetings with Stefano at his office in London, but also at race weekends. Countless calls. 'What's happening? Where are we going? Who are we meeting with?' Many meetings with different presidents from different countries. Lots of phone calls with different presidents from different countries within Africa.\"Reflecting on the cultural weight of the upcoming event, Hamilton added, \"For me, it's a place that deserves to have a grand prix. It's more about... it's more than just about one country. It's about the continent in itself, and there are so many beautiful countries within it, and the people are so lovely. The culture is so rich, and I think it's important that we get to show that to the world, and we get to do that with our sport.\"Formula 1's return to the African continent in Rwanda is scheduled"
+    },
+    {
+      "id": "28c94b74586422e1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The First Fully Authorized Fleetwood Mac Documentary ‘The Chain’ Is Premiering in 2027",
+      "url": "https://hypebeast.com/2026/10/apple-original-films-fleetwood-mac-the-chain-documentary-announcement-premiere-info",
+      "publishedAt": "2026-10-23T10:02:58.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "The First Fully Authorized Fleetwood Mac Documentary ‘The Chain’ Is Premiering in 2027 Summary Apple Original Films has revealed the title of its Fleetwood Mac documentary, the first ever made with the band’s full authorizationThe film gathers the perspectives of Mick Fleetwood, John McVie, Christine McVie, Lindsey Buckingham and Stevie Nicks across more than five decadesIts premiere lines up with the 50th anniversary of Rumors, the album that gave the documentary its name Apple Original Films has officially titled its Fleetwood Mac documentary Fleetwood Mac: The Chain, marking the first time the band has signed off on a film telling its story from the inside. Directed by Frank Marshall, the project centers the five members of the band’s best-known lineup and is set for a global debut on Apple TV early next year.The documentary is built around the band itself rather than outside commentators. Mick Fleetwood, John McVie, Christine McVie, Lindsey Buckingham and Stevie Nicks, all Grammy winners and Rock & Roll Hall of Fame inductees, look back on the 50-plus years that followed their chance meeting in 1974. Archival material that has never been made public sits alongside exclusive new interviews, carrying the story from their record-breaking studio sessions and tours up to the present day.The title is a deliberate choice. “The Chain” is the only track on Rumors that credits all five members as writers, and the film uses it as a symbol for a bond that held even as the band’s rise to fame strained nearly every relationship within it. Timing reinforces the point, with the premiere landing on the 50th anniversary of the Grammy-winning album’s release.Structurally, the film moves through the band’s peaks and collapses while isolating what each member contributed to a sound that has sold more than 220 million records worldwide. It also digs into the harder question of why five artists kept returning to one another, and kept producing landmark work, despite pressures from the industry and from within the group that repeatedly threatened to end it.Behind the camera, Marshall, a five-time Academy Award nominee and recipient of the Irving G. Thalberg Memorial Award, also produces through The Kennedy/Marshall Company. He’s joined by White Horse Pictures’ Nigel Sinclair (No Direction Home: Bob Dylan), Nicholas Ferrall (Stax: Soulsville U.S.A.) and Jeanne Elfant Festa (Lucy and Desi), along with Kennedy/Marshall’s Aly Parker (The Bee Gees: How Can You Mend a Broken Heart)"
+    },
+    {
+      "id": "3b467d943b2ced77",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Chris Pratt Confirms Star-Lord Will Return to the MCU",
+      "url": "https://hypebeast.com/2026/10/marvel-chris-pratt-confirms-star-lord-will-return-to-mcu",
+      "publishedAt": "2026-10-23T09:09:17.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "Chris Pratt Confirms Star-Lord Will Return to the MCU Summary Chris Pratt has confirmed that Star-Lord will return to the Marvel Cinematic UniverseThe actor revealed on The Playlist’s Bingeworthy podcast that hard action has been taken by Marvel Studios leadershipPratt previously pitched his own creative vision to Kevin Feige to help shape future MCU storytelling Marvel Studios and actor Chris Pratt are officially moving forward with Star-Lord's return to the Marvel Cinematic Universe. Pratt confirmed on The Playlist’s “Bingeworthy” podcast that concrete steps have been initiated to follow up on the character’s future teased at the close of Guardians of the Galaxy Vol. 3.Speaking on the podcast, Pratt addressed his ongoing communication with executive leadership regarding Peter Quill's return, \"I have a great relationship with Kevin [Feige] and Lou [D’Esposito], and there have been both ongoing conversations about how we make good on that promise and also hard action taken to make sure that we make good on that promise,\" said Pratt. He continued, \"So yeah, you’ll see Star-Lord again, which is very exciting, but I’m not at liberty to say when that’s going to be, but he’s not going anywhere.\"The confirmation builds upon statements Pratt made earlier on the Happy Sad Confused podcast, where he admitted to pitching a concept directly to Marvel Studios president Kevin Feige. “I’m happy to do anything they want me to do and will,” Pratt previously explained. “And also, I personally have a really strong vision of what I would want him to do. And I think it’s fucking great.” When asked about bringing that proposal to Feige, Pratt stated, “Yep. And I think that, you know, I’m down to contribute any way I can to them setting up the next 10 years of storytelling, you know? And also, I have a pretty strong idea of how I think I could contribute to that.”Pratt has portrayed Star-Lord across six films to date, including Guardians of the Galaxy, Guardians of the Galaxy Vol. 2, Avengers: Infinity War, Avengers: Endgame, Thor: Love and Thunder, and Guardians of the Galaxy Vol. 3.The next installment in the MCU, Avengers: Doomsday, is scheduled to arrive in theaters on December 18. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "778e6d060f6cf33d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ARC’TERYX’s Postour Boot Hides a Slipper Inside a GORE-TEX Shell",
+      "url": "https://hypebeast.com/2026/10/arcteryx-postour-boot-mens-x000010507-release-info",
+      "publishedAt": "2026-10-23T09:07:29.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "ARC’TERYX’s Postour Boot Hides a Slipper Inside a GORE-TEX Shell Name: ARC’TERYX Postour Boot Men'sColorway: Black/Black, Tatsu/BlackSKU: X000010507MSRP: $300 USDRelease Date: Available nowWhere to Buy: ARC’TERYXARC’TERYX is targeting the downtime between backcountry days with the Postour Boot, a two-part recovery boot built for après touring. An insulated, waterproof overboot handles snow and ice outdoors, while a separate slipper slides out from inside so wearers can head straight indoors without swapping footwear.The overboot is the weatherproof half of the system. ARC’TERYX wraps it in GORE-TEX Invisible Fit, running the waterproof layer all the way up to the top of the collar for extra protection and warmth. That high collar closes with a drawcord that tightens much like a climbing chalk bag, sealing the opening against deep snow and slush. Endure 360 extended rubber coverage circles the entire boot, reinforcing it against scuffs and impacts.Grip comes from a Vibram Arctic Grip outsole engineered for secure footing on icy ground, paired with a lug pattern shaped to bite into snow and other soft terrain. Underfoot cushioning adds a layer of comfort for feet that have spent the day locked into stiff ski boots.Warmth runs through both layers. Coreloft synthetic insulation lines the overboot and the slipper, so the pair stays warm whether it’s worn as a full boot outside or reduced to the inner piece indoors. The slipper itself is fully functional on its own, offering support when nested inside the boot and switching to a TPU grip outsole made for indoor surfaces once it’s pulled out.The men’s Postour comes in two colorways, Black/Black and Tatsu/Black, both built with a textile upper, synthetic insole and rubber outsole, and listed for alpine, touring, freeride and resort use. ARC’TERYX notes the boot is PFAS compliant and requires surface cleaning only. Sizing runs in whole sizes, and the brand recommends sizing up for anyone between sizes or after a roomier fit. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "92f85b605680d099",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "LISA’s ‘PRESS PLAY’ EP Plays Out Like a Six-Track Action Movie",
+      "url": "https://hypebeast.com/2026/10/lisa-press-play-ep-tarantino-music-video-stream",
+      "publishedAt": "2026-10-23T09:06:59.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "LISA’s ‘PRESS PLAY’ EP Plays Out Like a Six-Track Action Movie Summary LISA has released 'PRESS PLAY,' a six-track EP conceived to unfold like a film from start to finishThe track “Tarantino” lands with a music video that sends LISA brawling through a hotel to reach her favorite directorThe drop sets up her VIVA LA LISA residency at Caesars Palace, the first Las Vegas residency by a K-pop artist LISA has officially released PRESS PLAY, a six-track EP built around a cinematic concept that asks listeners to settle in and hit play as if a movie were about to start. The project arrives today alongside a music video for focus track “Tarantino,” capping a run that has already delivered a record-breaking YouTube debut, a historic VMA win and a sold-out Las Vegas booking.The film framing shapes how the EP is sequenced, with six tracks moving like scenes rather than a loose collection of singles. “SaWaDiKa” opens the reel, followed by “V12” and “Cobra,” before “Tarantino” lands as the centerpiece and “Cut U Off” and “Sweat” carry things to the closing credits.“Tarantino” gets the blockbuster treatment on screen. Its video follows LISA on a mission through a hotel to hand-deliver a note to the director himself, throwing punches at anyone standing between her and the delivery. The action-heavy choreography leans straight into the genre the track is named after, making it the clearest visual statement of the EP’s movie concept.The project’s opener already arrived with serious numbers. “SaWaDiKa,” named after the Thai greeting for “hello,” came with a video shot in LISA’s hometown of Bangkok that pulled in more than 70.8 million YouTube views in its first 24 hours. That tally places it among her biggest YouTube debuts and makes it the top YouTube debut of 2026, while the song entered the Billboard Hot 100 at No. 69 for her highest debut on the chart to date. She gave the track its television debut at the MTV VMAs, where she also won Best Pop for “Dream” featuring Kentaro Sakaguchi and became the first solo K-pop artist to take the category.Las Vegas is the next stop on the rollout. LISA’s “VIVA LA LISA” Residency takes over The Colosseum at Caesars Palace for six nights in November, after the first four shows sold out in under 10 minutes and two more dates were added. The run makes her the first K-pop artist to headline a Las Vegas residency.Her story is also playing out on the big screen. Always Lalisa, a feature documentary directed by Sue Kim, is now in cinemas worl"
+    },
+    {
+      "id": "d2479cd75f4c51aa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Denzel Washington and Christopher McQuarrie Set to Team up for Untitled Amazon MGM Thriller",
+      "url": "https://hypebeast.com/2026/10/denzel-washington-christopher-mcquarrie-set-new-untitled-amazon-mgm-thriller-2027-release-announcement",
+      "publishedAt": "2026-10-23T08:50:41.000Z",
+      "collectedAt": "2026-10-23T16:47:30.689Z",
+      "text": "Denzel Washington and Christopher McQuarrie Set to Team up for Untitled Amazon MGM Thriller Summary Denzel Washington is set to headline an untitled original thriller directed by Christopher McQuarrieAmazon MGM and United Artists have slated the feature for an October 1, 2027 theatrical releaseWritten by Scott Barkan and Gregg Zehentner the plot centers on a terminally ill ex-detective confronting his past Amazon MGM Studios and United Artists have officially greenlit an untitled original thriller starring two-time Academy Award winner Denzel Washington and directed by Christopher McQuarrie. The high-profile feature is currently slated to arrive in theaters in the fall of 2027.Penned by screenwriters Scott Barkan and Gregg Zehentner, the project—previously developed under the working title The Frame—focuses on a former police detective who receives an early release from prison following a terminal brain cancer diagnosis. Hoping to spend his remaining time reconnecting with his family, he quickly discovers that his unresolved past refuses to stay buried.The collaboration with McQuarrie marks one of two major Washington-led productions scheduled for the near future. The actor was previously set to debut The Take—originally titled Here Comes the Flood and co-starring Robert Pattinson—before the end of 2026, though that production has since seen its release window pushed into 2027.The untitled Christopher McQuarrie thriller starring Denzel Washington is scheduled for a theatrical rollout on October 1, 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0d7adff46f44e039",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Air Force 1 ‘01 “Philly” Gives LeBron James a Sixers-Coded Welcome",
+      "url": "https://hypebeast.com/2026/10/nike-air-force-1-01-philly-jw9694-100-release-info",
+      "publishedAt": "2026-10-23T08:33:34.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "The Nike Air Force 1 ‘01 “Philly” Gives LeBron James a Sixers-Coded Welcome Name: Nike Air Force 1 ’01 “Philly”Colorway: White/Rush Blue-University RedSKU: JW9694-100MSRP: $140 USDRelease Date: Available nowWhere to Buy: SNKRSNike is greeting LeBron James’ move to Philadelphia with the Air Force 1 ‘01 “Philly,” a city-dedicated pair dressed in Sixers colors and loaded with local references. Rather than a signature-line release, the brand is leaning on its most recognizable low-top to mark the moment, building the shoe around Philadelphia itself.This is the second time in 2026 that Nike has turned the Air Force 1 ‘01 into a snapshot of a city’s basketball mood. Earlier this year, the “NYC” edition arrived as the Knicks pushed through the playoffs, its insoles printed with a pixelated rendering of Madison Square Garden. The “Philly” pair trades arena imagery for team colors and civic shorthand, keeping the tribute rooted in the city rather than a single building.Up top, the White/Rush Blue-University Red colorway is mapped with clear intent. White leather handles the toe, lacing area and heel, while royal blue covers the perforated toe box and side panels. Red leather Swooshes sweep across each side, and a smaller red Swoosh sits just below the laces to carry the accent color toward the center of the shoe.The heel is where the city really announces itself. One shoe is embroidered with “215” and the other with “PHL,” each outlined in blue and cut through by a red Swoosh, while white “Phila” lettering stands in for standard branding on the blue heel tabs. “215” is one of Philadelphia’s area codes, giving the pair a local detail only the city would fully read.Underfoot, a white midsole carries blue “AIR” lettering and sits on a blue rubber outsole. The most pointed detail hides inside: the insoles show a black-and-white brick wall split by cracks, with a red Nike logo smashing through one section. For a shoe built around a star landing in a new city, it’s a fitting image to stand on. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d9028da3ed170545",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Todd Snyder and New Balance Reunite for the T500 \"Cafe Pack\"",
+      "url": "https://hypebeast.com/2026/10/todd-snyder-new-balance-t500-cafe-pack-collaboration-release-info",
+      "publishedAt": "2026-10-23T08:10:30.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "Todd Snyder and New Balance Reunite for the T500 \"Cafe Pack\" Summary New Balance has partnered with Todd Snyder to introduce the exclusive T500 Cafe Pack in Espresso and Milk colorwaysThe updated 1982 court silhouette replaces traditional canvas with a mix of hairy suede and crocodile-stamped leather atop a gum midsoleThe limited-edition collaboration launches October 22 at 10 AM ET exclusively via Todd Snyder channels for $130 USD New Balance and menswear designer Todd Snyder have officially introduced the T500 “Cafe Pack”, delivering an elevated take on the archival 1982 court shoe.Originally engineered in 1982 for tennis performance, the T500 transitioned naturally into everyday street culture, embraced by skaters and style outsiders for its flat, grounded profile. Reimagined through a contemporary leisure lens, this modern release retains its classic court foundation while upgrading its construction with refined, tactile materials.Replacing the silhouette's traditional canvas uppers, the design incorporates a contrasting blend of hairy suede and crocodile-stamped leather for added texture and polish. The low-profile uppers sit atop a distinct gum midsole, introducing an understated nod to 1980s athletic engineering over traditional vulcanized sole units. Offered in two distinct colorways—\"Espresso\" and \"Milk\"—the palette draws direct aesthetic cues from the warmth, textures, and canine visitors of local neighborhood coffee shops.The Todd Snyder x New Balance T500 “Cafe Pack” releases October 22 at 10 AM ET for $130 USD, available exclusively at online and all Todd Snyder retail locations. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6b2eab7abb11a3da",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "First Look at the Supreme x Nike Air Force 1 Low \"Olive Camo\"",
+      "url": "https://hypebeast.com/2026/10/supreme-nike-air-force-1-low-olive-camo-first-look-cu9225-900-release-info",
+      "publishedAt": "2026-10-23T07:40:09.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "First Look at the Supreme x Nike Air Force 1 Low \"Olive Camo\" Summary Rif Los Angeles has revealed a first look at the Supreme x Nike Air Force 1 Low in an Olive Camo colorwayThe sneaker features a traditional olive print across the upper and Swoosh anchored by the red box logo at the heelAll three camouflage iterations alongside staple black and white colorways are expected to land during Fall/Winter 2026 Name: Supreme x Nike Air Force 1 Low \"Olive Camo\"Colorway: Multi-Color/IguanaSKU: CU9225-900MSRP: TBDRelease Date: Fall 2026Where to Buy: SupremeSupreme and Nike are reportedly preparing to release the collaborative Air Force 1 Low \"Olive Camo\", expanding their ongoing low-top partnership with military-inspired patterns. An early look at the pair was shared by Los Angeles consignment shop Rif Los Angeles, as seen above.Early imagery reveals a traditional olive camouflage pattern printed across the upper and matching profile Swooshes. An army green hue covers the inner lining and extends onto the rubber outsole, while Supreme's signature red box logo is stamped at the lateral heel.The \"Olive Camo\" edition marks the second style to emerge from a rumored three-shoe camouflage pack, following the \"Snow Camo\" variant previewed in August. A third version, titled \"Woodland Camo,\" is also expected to round out the collection. In addition, Supreme's foundational white and black leather Air Force 1 Lows are reportedly set to restock alongside the camo trio.All three Supreme x Nike Air Force 1 Low camouflage colorways are expected to release during Fall/Winter 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "570a7319e004f019",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JUUN.J Releases Fall/Winter 2026 Campaign",
+      "url": "https://hypebeast.com/2026/10/juun-j-2026-fw-campaign-release",
+      "publishedAt": "2026-10-23T07:14:35.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "JUUN.J Releases Fall/Winter 2026 Campaign JUUN.J has officially released its Fall/Winter 2026 campaign, starring global ambassador Ahn Hyo Seop. Themed \"NEWSTALGIA,\" this season combines \"New\" and \"Nostalgia,\" reinterpreting classic menswear and streetwear through exaggerated silhouettes, deconstructed tailoring, and the collision of different materials.This campaign continues JUUN.J's signature oversized design language, covering tuxedo suits, leather jackets, tweed garments, and casual items. Among them, a look from the Paris Fashion Week runway pairs a navy blue wool tuxedo jacket with wide-leg trousers, layered with a pinstripe coat, reinterpreting traditional formalwear through a broad-shouldered structure and elongated proportions. Another all-black leather look presents a more street-style visual with heavy materials and relaxed tailoring.In addition, the collection combines boucle wool tweed with microfiber suede, establishing a connection between formal wear and casual style through the layering of knitwear, shirts, and three-dimensional origami-structured denim trousers, paired with the brand's signature chunky-soled ARC sneakers.The JUUN.J Fall/Winter 2026 collection will gradually arrive at the brand's Chengdu Taikoo Li and Beijing Sanlitun Taikoo Li boutiques, as well as its official Tmall flagship store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "31f9222eb140ee75",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Devialet Unveils the Phantom Ultimate 98 dB \"Pulse Blue\" Collector's Edition Speaker",
+      "url": "https://hypebeast.com/2026/10/devialet-phantom-ultimate-98-dbpulse-blue-release",
+      "publishedAt": "2026-10-23T07:14:32.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "Devialet Unveils the Phantom Ultimate 98 dB \"Pulse Blue\" Collector's Edition Speaker Devialet officially unveils the all-new Phantom Ultimate 98 dB \"Pulse Blue\" Collector's Edition speaker. The accompanying campaign stars French Oracle Red Bull Racing driver and global brand ambassador Isack Hadjar, seamlessly merging the thrilling culture of Formula 1 with high-end acoustic design.Inspired by the hyper-focused state right before a race begins, the new release reimagines the Phantom Ultimate's iconic spherical silhouette. The body is rendered in a deep RAL 5011 blue, while the side panels have been upgraded from matte to a mirror-polished finish. Coated in a clear lacquer, they deliver a striking metallic texture that shifts beautifully in the light. To complete the look, the brand is also releasing a matching exclusive Tree stand that echoes this cohesive design language.On the performance front, the Phantom Ultimate 98 dB retains the brand's signature acoustic architecture. It boasts a frequency response range of 18 Hz to 25 kHz, a maximum sound pressure level of 98 dB SPL, and support for high-resolution audio up to 24-bit/192 kHz. The speaker is equipped with ADH New-Gen® analog-digital hybrid amplification, SAM® Speaker Active Matching, and HBI® low-frequency technology, all while supporting both stereo and multi-room configurations.Furthermore, the new release runs on the Devialet DOS 3 system, ensuring seamless compatibility with streaming protocols like AirPlay, Google Cast, Spotify Connect, Tidal Connect, and Roon Ready. Users can also easily adjust the equalizer and switch between different listening modes via the Devialet app.The Devialet Phantom Ultimate 98 dB \"Pulse Blue\" Collector's Edition is now available for pre-order. The speaker is priced at 15,980 RMB, while the matching Tree stand retails for 2,090 RMB, with both available across the brand's boutiques in China, its official website, and official e-commerce channels. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b409a652f4a0a2d1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "A-POC ABLE ISSEY MIYAKE x JAXA Turn Satellite Shots of Antarctic Ice Into “TYPE-XVII” Jeans",
+      "url": "https://hypebeast.com/2026/10/a-poc-able-issey-miyake-jaxa-type-xvii-jeans-release-info",
+      "publishedAt": "2026-10-23T07:12:31.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "A-POC ABLE ISSEY MIYAKE x JAXA Turn Satellite Shots of Antarctic Ice Into “TYPE-XVII” Jeans Summary A-POC ABLE ISSEY MIYAKE has teamed up with the Japan Aerospace Exploration Agency on new jeans under its “TYPE-XVII JAXA project”The design pulls from Antarctic observation images captured by JAXA’s climate change monitoring satellite “SHIKISAI”Wide and straight silhouettes are offered, each made with the label’s in-house single-cloth jacquard technique A-POC ABLE ISSEY MIYAKE is taking its textile engineering into orbit with the “TYPE-XVII JAXA project” jeans, a collaboration with the Japan Aerospace Exploration Agency (JAXA). Instead of printing an image onto finished fabric, the pair translates satellite data of Earth directly into the weave, with Antarctica serving as the design’s focal point.The source material comes from “SHIKISAI,” the JAXA satellite tasked with observing climate change from above. Its images of the southern continent supply the entire visual language here: sweeping fields of white ice interrupted by fissures where dark navy ocean shows through. The result reads less like a graphic and more like a topographic surface you can wear.Construction is where the project earns its spec-sheet credibility. A-POC ABLE ISSEY MIYAKE renders the imagery through its proprietary jacquard, building each pair from one continuous piece of cloth so the Antarctic pattern lives inside the textile rather than sitting on top of it. That approach lets the contrast between ice and sea carry through the garment as part of its structure.Two silhouettes anchor the drop. A wide jean offers a roomier, relaxed leg, while a straight version keeps a cleaner line, and both arrive in a run of four sizes so the satellite-derived pattern can scale across different builds.The A-POC ABLE ISSEY MIYAKE x JAXA “TYPE-XVII JAXA project” jeans drop November 1 via A-POC ABLE ISSEY MIYAKE / AOYAMA, A-POC ABLE ISSEY MIYAKE / KYOTO and ISSEY MIYAKE GINZA / 442. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f12d1e28eb9b18ef",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
+      "url": "https://hypebeast.com/2026/10/thrudark-musto-collection-release-info",
+      "publishedAt": "2026-10-23T07:00:57.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection Summary ThruDark has teamed up with Musto to release “Nautikos,” their latest technical offshore apparel collection.Highlighted styles include GORE-TEX PRO shells, Dyneema reinforcements, modular pockets, protective sailing gear and more. Built for the unforgiving conditions of the open sea, ThruDark and Musto have joined forces on “Nautikos,” a technical apparel collection that brings together two distinct areas of British performance expertise. Marking ThruDark's entry into offshore racing apparel, the collaboration combines the military experience of its founders, former UK Special Forces operators Anthony “Staz” Stazicker and Louis Tinsley, with Musto's six-decade heritage in professional sailing equipment.Founded by Olympic sailor Keith Musto in 1964, the latter has long specialized in protective clothing engineered for demanding maritime environments. The resulting collection, described by Musto as its most durable offshore range to date, prioritizes weather resistance, adaptability and safety over decorative detailing. Its predominantly black and charcoal palette reinforces a utilitarian aesthetic, while the accompanying campaign places the garments aboard high-speed boats and against rugged coastal landscapes, emphasizing their intended use in challenging conditions.Leading the drop are the Nautikos GTX Jacket and matching GTX Trousers, constructed with GORE-TEX PRO for sustained protection against severe offshore weather. The collaboration also introduces Dyneema reinforcement to Musto's technical outerwear for the first time, combining the high-strength fiber with waterproof construction to improve durability in demanding environments. The jacket features a high protective collar, an adjustable hood and an array of oversized utility pockets, while the bib-style trousers incorporate adjustable shoulder straps and multiple storage compartments. A removable pocket system allows storage configurations to be transferred between compatible layers, extending the range's modular functionality. Additional safety features include D3O knee protection and photoluminescent reflectors designed to improve visibility in low-light conditions. For more adaptable layering, the Nautikos Trident GTX Jacket and matching trousers offer streamlined silhouettes suited to changing weather conditions, retaining the collection's emphasis on technical performance.Completing the system are the Nautikos "
+    },
+    {
+      "id": "a357989fa0fd5671",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Doechii Detonates in the Desert for New 'Swamp Sessions' Video \"CATWOMAN\"",
+      "url": "https://hypebeast.com/2026/10/doechii-new-swamp-sessions-video-catwoman-released",
+      "publishedAt": "2026-10-23T06:37:02.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "Doechii Detonates in the Desert for New 'Swamp Sessions' Video \"CATWOMAN\" Summary Florida rapper Doechii has released the latest installment of her Swamp Sessions series titled \"CATWOMAN\"The visual features the artist in dual roles as she wanders the desert before an explosive confrontationThe release builds momentum for the Grammy winner as she teases the creative direction of her upcoming debut album Top Dawg Entertainment artist Doechii has officially released \"CATWOMAN,\" the latest explosive visual installment in her ongoing Swamp Sessions series. The music video arrived on Tuesday, October 20, following the release of last week's thunderous single \"BOMBS.\"In the new video, the Swamp Princess wanders through a desert landscape wearing baggy washed denim jeans, a Tap Out waistband, and a white sports bra before being blown to pieces by a bazooka-wielding, alternate version of herself. Rocking an Afro, black denim, heels, and matching sunglasses, this second persona struts to the scene while delivering hard-hitting bars. Lyrically, the track features an homage to Busta Rhymes with a signature \"woo-hah\" ad-lib and name-drops Sean Connery's James Bond, alongside claims of channeling 2Pac's artistic tenacity.Looking ahead to her debut album, the Grammy-winning rapper recently shared a journal entry outlining her evolving creative vision. \"I spent the last few years relearning Hip-Hop as a student. Studying its language, history & roots. Now I feel inspired to contribute to evolve it,\" she wrote, emphasizing a mission to center Black womanhood within both Hip-Hop and Pop. The single follows her recent collaboration with Lady Gaga on \"Runway\" for The Devil Wears Prada 2 soundtrack, which secured her another Billboard Hot 100 entry.Doechii's \"CATWOMAN\" Swamp Session video is available to watch now on YouTube. Read more at Hypebeast"
+    },
+    {
+      "id": "9cdfe843e4223018",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Dame Dash's Life Rights Officially Auctioned Off for $550,000 USD",
+      "url": "https://hypebeast.com/2026/10/dame-dash-life-rights-officially-auctioned-for-550k-usd-news",
+      "publishedAt": "2026-10-23T04:30:47.000Z",
+      "collectedAt": "2026-10-23T16:47:30.690Z",
+      "text": "Dame Dash's Life Rights Officially Auctioned Off for $550,000 USD Summary A Florida bankruptcy court has confirmed the sale of Dame Dash’s life rights to Everlasting Films LLC for $550,000 USDThe acquisition secures exclusive worldwide rights to his narrative alongside 100 hours of video footage memorabilia and an in-development film projectBackup bidder Doug Peters is positioned to purchase the rights for 500,000 USD if the primary sale fails to close Dame Dash has officially seen his Life Rights auctioned off for $550,000 USD, with all proceeds allocated directly to satisfy his creditors. The conclusion of the auction was formally submitted by bankruptcy trustee Traci K. Stevenson to the overseeing Florida court on Wednesday, October 21.Following the bidding process that concluded on October 1, Everlasting Films, LLC—which originally submitted an initial $37,000 USD “stalking horse” bid—won the auction to secure exclusive worldwide rights to the Roc-A-Fella co-founder's life story. Alongside narrative rights, the sale includes “100 hours of video content, photographs, and memorabilia,” as well as “an unreleased, in-development documentary/film project.” In the event that Everlasting Films does not finalize the deal within the required window, backup bidder Doug Peters is queued to claim the rights for $500,000 USD.The auction stems from a petition filed by Stevenson in August after Dash declared bankruptcy in September 2025, listing $25 million USD in liabilities against $4,350 USD in personal assets. While Dash omitted the asset in his initial filing, Stevenson argued the rights held “evident value in light of the Debtor's public profile and his historical association with Roc-A-Fella Records and [Jay-Z].” Elaborating on the commercial valuation, Stevenson wrote, \"[T]he monetization of an individual's name, image, and likeness has become a well-established and actively regulated commercial market. That market confirms that rights of this character -- a person's name, image, likeness, persona, and life narrative -- are recognized as commercially valuable, transferable property, further supporting the Trustee's business judgment that the Property is a marketable Estate asset appropriate for sale.\"Dash also faces concurrent legal friction from filmmaker Josh Webber, who filed claims alleging Dash has failed to pay $4,408.20 USD in court-ordered sanctions while improperly asserting ownership over royalty streams for the 2018 film Honor Up. Click here to vie"
     }
   ]
 }

@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-10-22
+# Fieldwork Daily Signal — 2026-10-23
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -25,13 +25,13 @@ Archival sportswear is appearing across 1 independent public source.
 
 ## 3. Quiet performance
 
-**emerging · score 32 · confidence 26% · youth 65%**
+**emerging · score 45 · confidence 31% · youth 76%**
 
 Quiet performance is appearing across 1 independent public source.
 
-2 observations · 1 independent source · +0% seven-day velocity
+3 observations · 1 independent source · +50% seven-day velocity
 
-- [8 Drops You Don't Want to Miss This Week](https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip) — Hypebeast, Oct 21
+- [ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection](https://hypebeast.com/2026/10/thrudark-musto-collection-release-info) — Hypebeast, Oct 23
 
 ## Method note
 

@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-22
+# Fieldwork Public Pulse — 2026-10-23
 
 ## 1. Quiet performance
 
@@ -24,14 +24,14 @@
 
 ## 3. Washed tailoring
 
-**emerging · score 47 · confidence 52% · youth 58%**
+**emerging · score 57 · confidence 56% · youth 60%**
 
-6 public posts · 1 network · 7-day comparison
+8 public posts · 1 network · 7-day comparison
 
 - [Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od](https://tardigram.com/m/Medicina/t/90689) — Mastodon
+- [A camel double-breasted coat over an olive-brown blazer and Fair Isle vest. White Oxford, red-and-na](https://mastodon.social/@seoul_trad/117488214097538128) — Mastodon
+- [Wedding invite season means a lot of people quietly panicking over what "semi-formal" means. For any](https://mastodon.social/@suspenders/117485670641676559) — Mastodon
 - [Charcoal balmacaan over a blazer and Fair Isle vest. A blue Oxford and red-and-navy tie add colour; ](https://mastodon.social/@seoul_trad/117482124570956212) — Mastodon
-- [Navy polo coat over a grey herringbone suit, with a blue-striped button-down, red-and-navy crest tie](https://mastodon.social/@seoul_trad/117476435981861862) — Mastodon
-- [A charcoal Balmacaan over a grey herringbone suit. A Fair Isle vest and red-and-navy striped tie bre](https://mastodon.social/@seoul_trad/117465789897483367) — Mastodon
 
 ## 4. Archival sportswear
 
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 24 observations
+- **mastodon:** ready — 26 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

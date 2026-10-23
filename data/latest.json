@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-22",
+    "id": "2026-10-23",
     "mode": "live",
-    "displayDate": "OCT 22, 2026, 12:55 PM EDT",
-    "generatedAt": "2026-10-22T16:55:43.187Z",
-    "itemsCollected": 58,
+    "displayDate": "OCT 23, 2026, 12:47 PM EDT",
+    "generatedAt": "2026-10-23T16:47:31.970Z",
+    "itemsCollected": 53,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 8
       },
       {
         "source": "Hypebeast",
@@ -76,33 +76,33 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 32,
-      "confidence": 26,
-      "youthRelevance": 65,
-      "direction": "flat",
+      "score": 45,
+      "confidence": 31,
+      "youthRelevance": 76,
+      "direction": "up",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +0% seven-day velocity",
+      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "3 observations · 1 independent source · +50% seven-day velocity",
       "citations": [
         {
-          "title": "8 Drops You Don't Want to Miss This Week",
+          "title": "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
           "source": "Hypebeast",
-          "date": "Oct 21",
-          "url": "https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip"
+          "date": "Oct 23",
+          "url": "https://hypebeast.com/2026/10/thrudark-musto-collection-release-info"
         }
       ]
     }
   ],
   "cooling": {
-    "name": "Quiet performance",
-    "reason": "2 mentions this week versus 2 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1022",
+    "code": "AUTO 1023",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
