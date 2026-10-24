@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-23",
+    "id": "2026-10-24",
     "mode": "live",
-    "displayDate": "OCT 23, 2026, 12:47 PM EDT",
-    "generatedAt": "2026-10-23T16:47:31.970Z",
-    "itemsCollected": 53,
+    "displayDate": "OCT 24, 2026, 11:40 AM EDT",
+    "generatedAt": "2026-10-24T15:40:29.157Z",
+    "itemsCollected": 38,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 8
+        "count": 17
       },
       {
         "source": "Hypebeast",
@@ -24,8 +24,34 @@
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 68,
+      "confidence": 50,
+      "youthRelevance": 87,
+      "direction": "up",
+      "thesis": "Quiet performance is appearing across 2 independent public sources.",
+      "whyNow": "4 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
+          "source": "Hypebeast",
+          "date": "Oct 23",
+          "url": "https://hypebeast.com/2026/10/thrudark-musto-collection-release-info"
+        },
+        {
+          "title": "Nike’s Waterproof Air Max Is the Flyest (& Driest) Soldier",
+          "source": "Highsnobiety",
+          "date": "Oct 24",
+          "url": "https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-camo-green/"
+        }
+      ]
+    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
@@ -56,13 +82,13 @@
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
-      "score": 48,
-      "confidence": 24,
-      "youthRelevance": 41,
-      "direction": "up",
+      "score": 26,
+      "confidence": 20,
+      "youthRelevance": 38,
+      "direction": "flat",
       "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
           "title": "Jil Sander and PUMA Expand Their Collaboration Into Apparel for FW26",
@@ -71,43 +97,23 @@
           "url": "https://hypebeast.com/2026/10/jil-sander-puma-fall-winter-2026-collaboration-collection-release-info"
         }
       ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 45,
-      "confidence": 31,
-      "youthRelevance": 76,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "3 observations · 1 independent source · +50% seven-day velocity",
-      "citations": [
-        {
-          "title": "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
-          "source": "Hypebeast",
-          "date": "Oct 23",
-          "url": "https://hypebeast.com/2026/10/thrudark-musto-collection-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "No reliable cooling signal",
-    "reason": "More history is required."
+    "name": "Archival sportswear",
+    "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Quiet performance moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1023",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 1024",
+    "name": "Quiet performance",
+    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette",
-      "The 10 Best Airbnbs in Venice for Canalside Charm"
+      "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
+      "Nike’s Waterproof Air Max Is the Flyest (& Driest) Soldier"
     ]
   }
 }

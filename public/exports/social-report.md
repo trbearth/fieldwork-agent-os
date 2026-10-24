@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-23
+# Fieldwork Public Pulse — 2026-10-24
 
 ## 1. Quiet performance
 
@@ -11,7 +11,18 @@
 - [The weather did whatever it wanted up there — sun one minute, clouds swallowing the entire ridge the](https://mastodon.social/@ncknxk/116811779013406421) — Mastodon
 - [Deconstruct, Rebuild, Elevate. - 2nd development [INFUSOR] Infusor reshapes classic designs into fun](https://mastodon.social/@viim/113463751035730077) — Mastodon
 
-## 2. Decorated basics
+## 2. Washed tailoring
+
+**emerging · score 62 · confidence 58% · youth 61%**
+
+9 public posts · 1 network · 7-day comparison
+
+- [Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od](https://tardigram.com/m/Medicina/t/90689) — Mastodon
+- [A navy blazer with gold buttons, a blue Oxford and beige chinos. A striped tie adds colour; the base](https://mastodon.social/@seoul_trad/117494293021269869) — Mastodon
+- [A camel double-breasted coat over an olive-brown blazer and Fair Isle vest. White Oxford, red-and-na](https://mastodon.social/@seoul_trad/117488214097538128) — Mastodon
+- [Wedding invite season means a lot of people quietly panicking over what "semi-formal" means. For any](https://mastodon.social/@suspenders/117485670641676559) — Mastodon
+
+## 3. Decorated basics
 
 **emerging · score 59 · confidence 50% · youth 100%**
 
@@ -21,17 +32,6 @@
 - [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Ready to make senior year unforgettable? From bold lettering and painted florals to rhinestones and ](https://mastodon.social/@latestfits/117296676441966574) — Mastodon
-
-## 3. Washed tailoring
-
-**emerging · score 57 · confidence 56% · youth 60%**
-
-8 public posts · 1 network · 7-day comparison
-
-- [Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od](https://tardigram.com/m/Medicina/t/90689) — Mastodon
-- [A camel double-breasted coat over an olive-brown blazer and Fair Isle vest. White Oxford, red-and-na](https://mastodon.social/@seoul_trad/117488214097538128) — Mastodon
-- [Wedding invite season means a lot of people quietly panicking over what "semi-formal" means. For any](https://mastodon.social/@suspenders/117485670641676559) — Mastodon
-- [Charcoal balmacaan over a blazer and Fair Isle vest. A blue Oxford and red-and-navy tie add colour; ](https://mastodon.social/@seoul_trad/117482124570956212) — Mastodon
 
 ## 4. Archival sportswear
 
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 26 observations
+- **mastodon:** ready — 27 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

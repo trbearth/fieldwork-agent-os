@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-23",
+    "id": "social-2026-10-24",
     "mode": "live",
-    "generatedAt": "2026-10-23T16:47:41.521Z",
-    "postsCollected": 26,
+    "generatedAt": "2026-10-24T15:40:37.918Z",
+    "postsCollected": 27,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -41,6 +41,38 @@
       ]
     },
     {
+      "id": "washed-tailoring",
+      "name": "Washed tailoring",
+      "stage": "emerging",
+      "score": 62,
+      "confidence": 58,
+      "youthRelevance": 61,
+      "velocity": -10,
+      "evidence": "9 public posts · 1 network · 7-day comparison",
+      "citations": [
+        {
+          "title": "Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od",
+          "url": "https://tardigram.com/m/Medicina/t/90689",
+          "network": "Mastodon"
+        },
+        {
+          "title": "A navy blazer with gold buttons, a blue Oxford and beige chinos. A striped tie adds colour; the base",
+          "url": "https://mastodon.social/@seoul_trad/117494293021269869",
+          "network": "Mastodon"
+        },
+        {
+          "title": "A camel double-breasted coat over an olive-brown blazer and Fair Isle vest. White Oxford, red-and-na",
+          "url": "https://mastodon.social/@seoul_trad/117488214097538128",
+          "network": "Mastodon"
+        },
+        {
+          "title": "Wedding invite season means a lot of people quietly panicking over what \"semi-formal\" means. For any",
+          "url": "https://mastodon.social/@suspenders/117485670641676559",
+          "network": "Mastodon"
+        }
+      ]
+    },
+    {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
@@ -73,38 +105,6 @@
       ]
     },
     {
-      "id": "washed-tailoring",
-      "name": "Washed tailoring",
-      "stage": "emerging",
-      "score": 57,
-      "confidence": 56,
-      "youthRelevance": 60,
-      "velocity": 0,
-      "evidence": "8 public posts · 1 network · 7-day comparison",
-      "citations": [
-        {
-          "title": "Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od",
-          "url": "https://tardigram.com/m/Medicina/t/90689",
-          "network": "Mastodon"
-        },
-        {
-          "title": "A camel double-breasted coat over an olive-brown blazer and Fair Isle vest. White Oxford, red-and-na",
-          "url": "https://mastodon.social/@seoul_trad/117488214097538128",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Wedding invite season means a lot of people quietly panicking over what \"semi-formal\" means. For any",
-          "url": "https://mastodon.social/@suspenders/117485670641676559",
-          "network": "Mastodon"
-        },
-        {
-          "title": "Charcoal balmacaan over a blazer and Fair Isle vest. A blue Oxford and red-and-navy tie add colour; ",
-          "url": "https://mastodon.social/@seoul_trad/117482124570956212",
-          "network": "Mastodon"
-        }
-      ]
-    },
-    {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "26 observations"
+      "reason": "27 observations"
     },
     {
       "id": "bluesky",
