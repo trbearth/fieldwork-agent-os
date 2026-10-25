@@ -3279,6 +3279,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-25",
+      "mode": "live",
+      "displayDate": "OCT 25, 2026, 11:51 AM EDT",
+      "generatedAt": "2026-10-25T15:51:15.068Z",
+      "itemsCollected": 29,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 10
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 100,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 67,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -50449,6 +50491,325 @@
       "publishedAt": "2026-10-23T17:53:30.000Z",
       "collectedAt": "2026-10-24T15:40:27.894Z",
       "text": "Hypeart Visits: Yichen Ji on the Human Side of Technology For Yichen Ji, technology is more than a tool for making art. It's a way to explore how we experience the world, connect with one another and make sense of things that don't always have clear answers.Raised in Shanghai and now based in New York, Ji works across digital media, sculpture, installation and printmaking, often bringing computational processes into conversation with traditional materials. His work moves between the familiar and the futuristic, finding unexpected ways to make abstract ideas feel tangible.In \"Synthetic Genesis,\" visitors can pick up a futuristic payphone and speak with more than 100,000 fictional AI personas, each with their own identity and personality. His \"Lattice\" series takes crystalline structures that could never exist in the physical world and gives them new life through silkscreen printing. Meanwhile, \"Chaos Clock\" turns the simple act of telling time into something unpredictable, reflecting his own experience of living with ADHD.Across these projects, Ji is less concerned with celebrating technology or warning against it than with understanding what happens when it becomes part of our everyday lives.For this edition of our Visits series, we caught up with Ji to talk about growing up between two fast-moving cities, why he finds beauty in the friction between digital and handmade processes, and what he's messing with next.\"The push and pull between the polished and the raw, the digital and the physical, comes a lot from living in both.\"Your practice moves between digital media, sculpture, installation and printmaking. How do you decide what form an idea ultimately takes?Honestly, I let the idea tell me. I usually start with a question or a feeling rather than a medium, and then I ask myself what the viewer actually needs to do to understand it. If the idea is about perception or the passage of time, it probably needs to be physical and interactive, something you have to move around to complete. If it's about images, systems, or the way things are generated, it often wants to stay flatter, like a print. I try not to force an idea into a medium just because it's what I'm comfortable with. The form is just whatever gives the concept the most direct path to the person experiencing it.You grew up in Shanghai and are now based in New York. How have those two cities shaped the way you think about art, technology and the environments around you?I actually love both cities, "
+    },
+    {
+      "id": "5ad8668a2ba95a41",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut",
+      "url": "https://www.vogue.com/article/dakota-johnson-and-machine-gun-kelly-make-their-daytime-debut",
+      "publishedAt": "2026-10-25T15:23:40.000Z",
+      "collectedAt": "2026-10-25T15:51:10.968Z",
+      "text": "Dakota Johnson and Machine Gun Kelly Make Their Daytime Debut In a rare joint sighting in Los Angeles, the rumored couple kept things low-key, with Johnson delivering another masterclass in effortless off-duty dressing."
+    },
+    {
+      "id": "ced03e351fdca636",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From the Archives: America’s Enduring Appetite for Candy",
+      "url": "https://www.vogue.com/article/2009/10/from-the-archives-dream-sweets",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "From the Archives: America’s Enduring Appetite for Candy With Halloween treats on his mind, Jeffrey Steingarten investigates America's enduring appetite for candy."
+    },
+    {
+      "id": "828d9798976bad88",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dua Lipa Knows a Good Book—and a Great Look",
+      "url": "https://www.vogue.com/article/dua-lipa-knows-a-good-book-and-a-great-look-october-25-2026",
+      "publishedAt": "2026-10-25T11:24:11.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "Dua Lipa Knows a Good Book—and a Great Look At London’s Literature Festival, guest curator Dua Lipa made a compelling case for literary chic by way of Chanel and Prada alongside Mustafa and Zadie Smith."
+    },
+    {
+      "id": "a7bc3ce66746ec67",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Drake Celebrates 40 With a Big Rolex, Free Birkins, and the Backstreet Boys",
+      "url": "https://www.vogue.com/article/drake-celebrates-40th-birthday",
+      "publishedAt": "2026-10-25T10:59:22.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "Drake Celebrates 40 With a Big Rolex, Free Birkins, and the Backstreet Boys The rapper rang in a new decade with a sparkling tuxedo and a birthday weekend that spared no expense."
+    },
+    {
+      "id": "d69a1f1d7dea9974",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Is Brutalism? Alex Eagle Explains How to Bring the Aesthetic Home",
+      "url": "https://www.vogue.com/article/eagle-eye-brutalism",
+      "publishedAt": "2026-10-25T10:00:00.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "What Is Brutalism? Alex Eagle Explains How to Bring the Aesthetic Home Designer and creative director Alex Eagle on why brutalism feels so current—and how to bring the style home."
+    },
+    {
+      "id": "73bc5fefdf34529d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Elizabeth Taylor to Kim Kardashian and Kris Jenner: The Starry History of the Scorpio Cape",
+      "url": "https://www.vogue.com/article/elizabeth-taylor-scorpio-cape-kim-kardashian-kris-jenner",
+      "publishedAt": "2026-10-25T08:24:39.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "From Elizabeth Taylor to Kim Kardashian and Kris Jenner: The Starry History of the Scorpio Cape At the “All’s Fair” premiere in Rome, Kris Jenner paid homage to Elizabeth Taylor, Grace Kelly, and Kim Kardashian with a piece of fashion history."
+    },
+    {
+      "id": "3f56466ceb79a651",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "18 of the Best ’90s Movies to Revisit This Fall",
+      "url": "https://www.vogue.com/article/best-90s-movies-to-lose-yourself-in",
+      "publishedAt": "2026-10-25T00:00:00.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "18 of the Best ’90s Movies to Revisit This Fall From Lynchian classics to Sofia Coppola fever dreams, here are the ’90s films worth watching—for the first or 10th time—today."
+    },
+    {
+      "id": "998698d4ac1c6769",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Lauren Santo Domingo Brought a Stylish Crowd to Colombia to Fete the Four Seasons Cartagena",
+      "url": "https://www.vogue.com/slideshow/lauren-santo-domingo-moda-operandi-four-seasons-cartagena",
+      "publishedAt": "2026-10-24T18:45:11.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "Lauren Santo Domingo Brought a Stylish Crowd to Colombia to Fete the Four Seasons Cartagena Colombian culture and fashion took center stage at a weekend-long celebration for the newly opened Four Seasons Cartagena."
+    },
+    {
+      "id": "7ce0f5043c274272",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the Couture Council Luncheon, Where Diane von Furstenberg Was Celebrated as a “Force of Nature”",
+      "url": "https://www.vogue.com/slideshow/couture-council-luncheon-2026-diane-von-furstenberg",
+      "publishedAt": "2026-10-24T16:59:50.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "Inside the Couture Council Luncheon, Where Diane von Furstenberg Was Celebrated as a “Force of Nature” The 2026 Couture Council Award was presented to designer, author, and philanthropist, Diane von Furstenberg at Gotham Hall in New York. Fashion industry veterans, emerging designers, and supporters alike showed up wearing signature DVF prints."
+    },
+    {
+      "id": "d815f85924b58520",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ferragamo Returned to Its Hollywood Roots with a Star-Studded Soirée",
+      "url": "https://www.vogue.com/slideshow/ferragamo-beverly-hills-flagship-celebration-dinner",
+      "publishedAt": "2026-10-24T15:50:00.000Z",
+      "collectedAt": "2026-10-25T15:51:10.969Z",
+      "text": "Ferragamo Returned to Its Hollywood Roots with a Star-Studded Soirée The Ferragamo family and friends of the house celebrated the new West Coast flagship at the Beverly Hills Hotel’s private Polo Lounge."
+    },
+    {
+      "id": "6fa07284be892d6f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Is Decision Fatigue and What Can You Do About It?",
+      "url": "https://www.vogue.com/article/what-is-decision-fatigue",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "collectedAt": "2026-10-25T15:51:10.970Z",
+      "text": "What Is Decision Fatigue and What Can You Do About It? When we are constantly making decisions while also carrying everyone else’s needs, it becomes easy to reach a point where we simply do not want to make another choice. Sometimes, the mind is not confused. It is just tired."
+    },
+    {
+      "id": "3b88f8b9d94c5457",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "CLOT Chopped up adidas’ Superstar",
+      "url": "https://www.highsnobiety.com/p/clot-adidas-superstar-mule/",
+      "publishedAt": "2026-10-25T14:32:01.000Z",
+      "collectedAt": "2026-10-25T15:51:12.416Z",
+      "text": "CLOT Chopped up adidas’ Superstar CLOT took adidas' storied Superstar sneaker & turned it into an elevated slip-on shoe."
+    },
+    {
+      "id": "e82b0da274220eee",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans Sparkly Old Skool 36 Is the Gift That Keeps on Serving",
+      "url": "https://www.highsnobiety.com/p/vans-old-skool-36-sequins/",
+      "publishedAt": "2026-10-25T09:10:00.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "Vans Sparkly Old Skool 36 Is the Gift That Keeps on Serving The Meet The Vans collection features a dazzling sequin Old Skool 36 sneaker. It's the gift that keeps on serving."
+    },
+    {
+      "id": "682d6f7678027001",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Dunk Comes With Built-In Mamba Mentality",
+      "url": "https://www.highsnobiety.com/p/nike-kobe-dunk-low-protro-mamba-eterno/",
+      "publishedAt": "2026-10-25T05:19:01.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "This Dunk Comes With Built-In Mamba Mentality We’ve noticed a distinctive shift towards the Dunk rollout, and the announcement of the Nike Kobe Dunk Low Protro Mamba Eterno only solidifies it."
+    },
+    {
+      "id": "48064a7b7e6bcdb6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s \"Dunk\" Skate Shoes Turned Into Beautiful Unicorns",
+      "url": "https://www.highsnobiety.com/p/focus-new-balance-numeric-480/",
+      "publishedAt": "2026-10-24T22:32:40.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "New Balance’s \"Dunk\" Skate Shoes Turned Into Beautiful Unicorns Focus transforms the New Balance Numeric 480 into a totally Scottish skate shoe featuring unicorn details & other nods to the country."
+    },
+    {
+      "id": "54c170e448257def",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Skate-Engineered Air Forces Are “Instant” Classics",
+      "url": "https://www.highsnobiety.com/p/instant-skateboards-nike-sb-air-force-1/",
+      "publishedAt": "2026-10-24T22:46:53.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "Nike’s Skate-Engineered Air Forces Are “Instant” Classics Instant Skateboards cooks up another Nike SB Air Force 1 \"Black/Royal\" sneaker for the 2026 City Pack. It's just as clean the second time around."
+    },
+    {
+      "id": "305a5d95ecb05efe",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Retro Rerun Inspired the YEEZY 500",
+      "url": "https://www.highsnobiety.com/p/gdlp-adidas-intimidation/",
+      "publishedAt": "2026-10-24T21:23:01.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "This Retro Rerun Inspired the YEEZY 500 São Paulo's Guadalupe Store locks in for one of the most compelling adidas drops in a long time. Say hello to the GDLP x adidas Intimidation."
+    },
+    {
+      "id": "30ac84e08b321274",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vaquera’s Quirky Lil' Converse Heels Are Part Skate Shoe",
+      "url": "https://www.highsnobiety.com/p/vaquera-converse-vx-1-heel/",
+      "publishedAt": "2026-10-24T22:45:03.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "Vaquera’s Quirky Lil' Converse Heels Are Part Skate Shoe Vaquera debuts its FW26 Converse collaboration, a skate-shoe-turned-kitten-heel named the VX-1."
+    },
+    {
+      "id": "f3c2773dc735719d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Hardy Air Force 1 Boot Is Back from Space",
+      "url": "https://www.highsnobiety.com/p/nike-lunar-force-1-boot/",
+      "publishedAt": "2026-10-24T22:41:02.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "Nike’s Hardy Air Force 1 Boot Is Back from Space Nike's Lunar Force 1 duck boots return with its signature winter-ready details & a new \"Iron Grey\" colorway for the rotation."
+    },
+    {
+      "id": "148e44db5936f44e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Melitta Baumeister Took Nike's Weirdest Toe Shoe & Freaked It",
+      "url": "https://www.highsnobiety.com/p/melitta-baumeister-nike-air-rift-rocker/",
+      "publishedAt": "2026-10-24T22:39:24.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "Melitta Baumeister Took Nike's Weirdest Toe Shoe & Freaked It Melitta Baumeister is back with another strangely cool Nike sneaker: an Air Rift Rocker collab featuring chunky clay soles."
+    },
+    {
+      "id": "b3fde84bb952ed4a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Cream Mule Is Fit for Elegant Extra-Terrestrials",
+      "url": "https://www.highsnobiety.com/p/nike-first-sight-shadow-cream/",
+      "publishedAt": "2026-10-24T15:43:00.000Z",
+      "collectedAt": "2026-10-25T15:51:12.417Z",
+      "text": "Nike's Cream Mule Is Fit for Elegant Extra-Terrestrials Nike’s experimental First Sight franchise continues to surprise. Enter, the women's-exclusive Nike First Sight Shadow Cream."
+    },
+    {
+      "id": "9073d37a9302bad9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Marvel’s Real-Gem Infinity Gauntlet Is Up for Grabs — If You Can Get Approved to Bid",
+      "url": "https://hypebeast.com/2026/10/1-of-1-marvel-infinity-gauntlet-replica-auction-juliens-announcement-info",
+      "publishedAt": "2026-10-25T10:00:13.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "Marvel’s Real-Gem Infinity Gauntlet Is Up for Grabs — If You Can Get Approved to Bid Summary The one-of-one Marvel Infinity Gauntlet replica set with real gemstones is heading to auction for the first time this DecemberEach of its six gems stands in for an Infinity Stone, and none of them has been treated or enhancedThe piece will tour Bahrain throughout November before going under the hammer in Abu Dhabi The Marvel Infinity Gauntlet replica created by East Continental Gems is set to be auctioned this December, marking the first time the one-of-one piece has been offered for sale. Built using the same design files behind the gauntlet seen on screen, the commission swaps the film prop’s fictional stones for six real gems, each matched to one of the Infinity Stones.The gems are what separate this gauntlet from every other replica on the market. Most stones sold today have undergone some form of treatment to improve their color or clarity, but all six set into this piece are untouched, a combination Julien’s Auctions suggests may not come together again. The standout is the emerald chosen for the Time Stone, a gem first unearthed more than 100 years ago that East Continental Gems kept in its own collection for over three decades and repeatedly refused to sell before releasing it for this project.The construction is rooted in Marvel’s own blueprints. The studio opened up the layered design files behind the screen-used gauntlet, allowing East Continental Gems to reproduce the prop’s form faithfully while substituting precious stones for the props’ fabricated ones. The New York jeweler, a family business working out of the same office since 1972, handled the task of translating each fictional stone into a real-world counterpart.The project traces back to 2019, when East Continental Gems CEO Adam Mirzoeff noticed a toy Infinity Gauntlet sitting on a senior Marvel executive’s desk and floated the idea, mostly as a joke, of making a real one. The finished piece was later shown publicly at San Diego Comic-Con in 2022.The gauntlet will serve as a headline lot of Julien’s Auctions’ Celebrity & Culture Experience, with the sale itself titled Pop Culture Legends. “Presenting it in Abu Dhabi, as part of Pop Culture Legends auction, gives it a stage worthy of what it is: a true 1-of-1,” Julien’s Auctions CEO Ken Citron said in a statement. Before the sale, the piece will travel to Bahrain for a tour running through November.Getting a paddle for this lot takes more than re"
+    },
+    {
+      "id": "6f370d0482d1134e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Square-Toe Nike Air Force 1 Low “Triple Black” Is Arriving This November",
+      "url": "https://hypebeast.com/2026/10/nike-air-force-1-low-square-toe-triple-black-release-info",
+      "publishedAt": "2026-10-25T09:00:54.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "The Square-Toe Nike Air Force 1 Low “Triple Black” Is Arriving This November Name: Nike Air Force 1 Low Square Toe “Triple Black”Colorway: Black/BlackSKU: JF7766-001MSRP: $130 USDRelease Date: November 6Where to Buy: NikeThe Nike Air Force 1 Low Square Toe “Triple Black” isolates its redesign to a single zone, reshaping the front of the shoe while leaving the familiar blacked-out AF1 Low largely intact. Viewed from behind or in profile at the heel, the pair reads as the same tonal sneaker that has filled closets for decades, and the real story only reveals itself at the forefoot.The toe box is where Nike made its move, pushing the front of the shoe farther forward and swapping the trademark curve for a straight leading edge framed by angular corners. The effect is most dramatic from a top-down view, where the outline shifts from soft and rounded to something closer to a squared silhouette, giving the low-top a longer, more architectural stance.Everything behind that modification sticks to the standard recipe. The upper is cut from black leather in the same monochrome treatment as the regular “Triple Black,” and the remaining panels and proportions follow the classic Air Force 1 Low blueprint, so the new front end carries the entire visual change on its own.That restraint is what makes the release worth a second look. By editing one element instead of overhauling the whole silhouette, Nike shows how much a single shape adjustment can alter a sneaker this familiar, and anyone hoping for a ground-up rethink should know the updates stay confined to the forefoot.The square-toe treatment also extends to a “Triple White” pair launching in tandem, so both of the AF1’s best-known monochrome colorways get the reworked shape. Each keeps its palette strictly tonal, letting the new toe do the talking. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8ae5c45e91158bbc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kojima Productions x F.C.Real Bristol Teases a Collab That Puts Hideo Kojima’s Studio on the Pitch",
+      "url": "https://hypebeast.com/2026/10/kojima-productions-f-c-real-bristol-collaboration-teaser",
+      "publishedAt": "2026-10-25T08:00:34.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "Kojima Productions x F.C.Real Bristol Teases a Collab That Puts Hideo Kojima’s Studio on the Pitch Summary Hideo Kojima’s Japanese game studio KOJIMA PRODUCTIONS has announced a collaboration with F.C.Real BristolF.C.Real Bristol is the imaginary football club brand run by SOPH., making this a crossover between game development and fictional sports fandomNo lineup, imagery or timing has been revealed yet, with more information promised in later updates Kojima Productions has confirmed an upcoming F.C.Real Bristol collaboration, linking the Japanese game studio founded by creator Hideo Kojima with the fictional football label operated by SOPH. The announcement arrives as a teaser, marking the partnership as “coming soon” without laying out what the two sides have made together.At this stage, the reveal is a pairing of names rather than a look at finished pieces. Neither partner has detailed the items involved, so materials, silhouettes, graphics and construction all remain unknown, and the announcement points readers toward future updates for the full breakdown.What is clear is the unusual makeup of the collaboration itself. On one side sits a studio built around a single game creator’s vision, and on the other a football club that exists only as a brand, which means the eventual product will be shaped by two outfits whose identities are rooted in invented worlds.Stay tuned for more info.“F.C.Real Bristol × KOJIMA PRODUCTIONS” coming soon.#SOPH#FCRB#FCREALBRISTOL#KojimaProductions#BeyondTheStrand@KojiPro2015@Kojima_Hideo©KOJIMA PRODUCTIONS Co., Ltd. https://t.co/yYJDkA7ODi— SOPH. (@SOPH_co_ltd) October 23, 2026 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0b30c1c9f37e691f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Weeknd’s New Song “Hong Kong” Is Built on a Faye Wong Cantopop Classic",
+      "url": "https://hypebeast.com/2026/10/the-weeknd-debuts-new-single-hong-kong",
+      "publishedAt": "2026-10-25T07:00:33.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "The Weeknd’s New Song “Hong Kong” Is Built on a Faye Wong Cantopop Classic Summary The Weeknd premiered an unreleased song titled “Hong Kong” on October 24 during the first of his \"After Hours Til Dawn\" shows at Kai Tak StadiumThe track is anchored by a sample of \"季候風\" (“Seasonal Wind”), Faye Wong’s 1993 Cantonese hit, set against his moody R&B productionA visual made exclusively for the Hong Kong dates ran on the stadium’s walls The Weeknd used the opening night of his \"After Hours Til Dawn Tour\" stop in Hong Kong to unveil “Hong Kong,” an unreleased song written with the city in mind. Performed at Kai Tak Stadium on October 24, the track loops in Faye Wong’s 1993 Cantonese single \"季候風\" (“Seasonal Wind”), folding one of Cantopop’s defining voices into the brooding sound that has carried his catalog.The reveal landed in the middle of the set, cued by the song’s title flashing across the venue’s oversized displays as the lighting rig flipped to neon. The choice of sample does most of the storytelling. Reaching for a 1993 Cantonese recording ties the song to a specific chapter of the city’s pop history instead of a generic nod to its skyline, and setting it inside The Weeknd’s late-night production lets two very different eras of nocturnal, melancholic music share a single track.The live debut also came with its own Hong Kong-only music video, projected across the stadium’s screens. Its frames lean on after-dark streetscapes, pulling the singer’s moody visual identity into the language of Hong Kong film.Watch the visual below.&nbsp;View this post on Instagram&nbsp;A post shared by Abel (@theweeknd) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "208c8d0236543bb5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Everything Coming To HBO Max in November 2026",
+      "url": "https://hypebeast.com/2026/10/new-hbo-max-movies-films-tv-shows-november-2026",
+      "publishedAt": "2026-10-25T06:00:47.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "Everything Coming To HBO Max in November 2026 Summary The Gilded Age returns for an eight-episode fourth season, with the Russell family facing the fallout of Bertha’s social ascent City of God: The Fight Rages On picks up its second season as rival factions battle for control after a drug lord’s death New documentaries from Dawn Porter, Ben Proudfoot and Rachel Fleit arrive alongside a deep bench of holiday classics HBO Max opens its November lineup with The Gilded Age Season 4, bringing Julian Fellowes’ Gilded Age New York saga back for eight new episodes. The premiere lands November 1, kicking off a month that also delivers a second season of City of God: The Fight Rages On, four new HBO Original documentaries and A24’s Tony.Season 4 finds the Russells dealing with the price of Bertha’s hard-won place at the top of New York Society. Agnes van Rhijn spots a chance to claw back her own standing, Marian sets off in a new direction, and Peggy tries to earn the approval of the family she’s about to marry into. Carrie Coon, Christine Baranski, Cynthia Nixon, Morgan Spector, Louisa Jacobson, Denée Benton and Audra McDonald lead a sprawling ensemble that also features Bill Camp and Phylicia Rashad. Salli Richardson-Whitfield directs and executive produces, with episodes rolling out weekly on Sundays and a companion season of The Gilded Age Podcast arriving the same day.The drama shifts from ballrooms to the favelas on November 8, when City of God: The Fight Rages On returns for six episodes shot across Rio de Janeiro and São Paulo. With drug lord Curió dead, a violent scramble for the territory takes hold. Councilwoman Berenice (Roberta Rodrigues) squares off against corruption and an expanding militia, lawyer Jerusa (Andréia Horta) pursues the people who tore her family apart, and Leka (Luellem de Castro) rallies the neighborhood through funk music and dance parties. Aly Muritiba directs, while Fernando Meirelles and Andrea Barata Ribeiro produce.Documentaries carry the back half of the month. Dawn Porter’s When a Witness Recants (November 17), executive produced by Ta-Nehisi Coates, revisits the 1983 killing of a 14-year-old at a Baltimore junior high, a case that sent three innocent teenagers to prison for life before witnesses later admitted they had been pressured into lying on the stand. The Hotline (November 18) from Ricki Stern and Jesse Sweet goes inside Never Use Alone, a volunteer-run overdose prevention line that stays on the phone with people using"
+    },
+    {
+      "id": "b4fbecc4d259dd1b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The NEEDLES x Pendleton Collection Puts Six Pieces of Archival Wool to Work",
+      "url": "https://hypebeast.com/2026/10/needles-pendleton-first-collaboration-collection-release-info",
+      "publishedAt": "2026-10-25T04:30:21.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "The NEEDLES x Pendleton Collection Puts Six Pieces of Archival Wool to Work Summary NEEDLES and Pendleton link up for the first time on a six-piece capsule cut from Pendleton’s traditional plaids and wool fabricsA boxy shirt, a jacket with leather elbow patches and a coat in an archival Pendleton pattern lead the outerwear and shirtingPlaid trousers, a mohair sweater in Pendleton’s signature Native-inspired motif and a fully lined Cowichan knit round out the lineup NEEDLES is teaming up with Pendleton for the first time, debuting a six-piece NEEDLES x Pendleton collection that reworks the American mill’s classic plaids and wool cloth. Every garment starts from Pendleton’s fabric vocabulary, then gets recut through NEEDLES’ lens across shirting, tailoring, trousers and knits. The result is a tight capsule where the textiles do the talking and the construction choices tell you how each piece is meant to be worn.The shirt sets the foundation for the collection with a relaxed, boxy silhouette that gives the plaid wool room to drape rather than cling. That easy cut turns a traditional flannel-weight top into something closer to a light overshirt, built for layering through the colder months. The jacket builds on the same fabric language but adds leather patches at the elbows, a reinforcement detail that nods to hard-wearing workwear and protects one of the first areas to wear through on a wool garment.The coat is the statement piece of the drop, cut from a pattern pulled directly from Pendleton’s archive. Pairing that historical print with a full-length outer layer gives the design the most surface area to show off, making it the clearest showcase of the partnership’s archival focus. Plaid trousers complete the tailoring side, carrying the check pattern from top to bottom so the pieces can be worn as a coordinated set or broken up across a look.The knitwear leans into texture and structure. Pendleton’s staple Native-inspired pattern appears on a sweater knit with mohair, which brings a soft, slightly brushed hand and extra warmth to the fiber blend. The Cowichan sweater, a chunky knit style with deep roots in outdoor dressing, gets a full lining throughout, a finishing step that smooths the interior against the skin and adds an extra layer of insulation.The NEEDLES x Pendleton collection is available at Nepenthes stores and the Nepenthes online store. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "10aca347c7663e35",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Nike Air Max 90 “Light Orewood Brown” Is All Patent Shine and See-Through Panels",
+      "url": "https://hypebeast.com/2026/10/nike-air-max-90-light-orewood-brown-ix8056-104-release-info",
+      "publishedAt": "2026-10-25T03:30:31.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "The Nike Air Max 90 “Light Orewood Brown” Is All Patent Shine and See-Through Panels Name: Nike Air Max 90 “Light Orewood Brown”Colorway: Light Orewood Brown/Blue Tint-Sail-Neutral OliveSKU: IX8056-104MSRP: $145 USDRelease Date: November 1Where to Buy: NikeNike is giving the Air Max 90 a material-driven makeover with the “Light Orewood Brown” colorway, pairing translucent overlays with high-gloss patent leather. The palette stays deliberately muted, sticking mostly to Light Orewood Brown and Sail so that texture and transparency become the main event. The result is a quiet take on Tinker Hatfield’s runner that rewards a closer look.The upper is built in layers that play off one another. Textured mesh forms the base across the toe box and collar, while translucent panels sweep along the sidewalls and frame the lacing system, letting the mesh show through from beneath. Down low, the mudguards are finished in glossy beige patent leather, adding shine and contrast without breaking from the tonal color scheme.Nike carries the see-through concept into the branding as well. The tongue labels and heel tabs are rendered in the same clear material, so the logos underneath remain visible through a glassy top layer. Cream laces and a matching lining keep the interior and lacing in step with the exterior, while a tonal midsole houses the silhouette’s signature visible Air unit in the heel.Underfoot, a semi-translucent outsole continues the theme from top to bottom. The standout accessory is a metallic Swoosh hangtag clipped to the laces, engraved with an intricate pattern that is echoed on the printed insoles. That artwork links the pair to a wider set of releases, with forthcoming Air Max 95 and Air Force 1 styles set to carry the same engraved motif alongside their own patent leather and translucent details. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3e648e0ad40afba1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "White Mountaineering x Alpha Industries Splice Three Military Classics Into Two Hybrid Jackets",
+      "url": "https://hypebeast.com/2026/10/white-mountaineering-alpha-industries-collaboration-collection-release-info",
+      "publishedAt": "2026-10-25T02:30:08.000Z",
+      "collectedAt": "2026-10-25T15:51:13.788Z",
+      "text": "White Mountaineering x Alpha Industries Splice Three Military Classics Into Two Hybrid Jackets Summary White Mountaineering and ALPHA INDUSTRIES return for a third collaboration, built around two military-derived outerwear stylesA hybrid coat starts from the N-3B and borrows details from the MA-1 and CWU-45P, while a hybrid flight jacket pairs an MA-1 silhouette with N-3B elementsBoth styles combine water-repellent, high-density shells with a breathable, windproof WINDSTOPPER lining White Mountaineering and Alpha Industries have reunited for their third collaboration, a two-piece outerwear release that blends the American military outfitter’s archive with the Japanese label’s functional design. Rather than reissuing a single classic, each jacket mixes elements from several military flight and cold-weather styles into one hybrid build.The hybrid coat takes the N-3B as its foundation, keeping the longer, cold-weather proportions of the original while adding details drawn from both the MA-1 and the CWU-45P. Combining three distinct references in one garment gives the coat a familiar military feel without tying it to any single archival piece.The hybrid flight jacket works the same idea in reverse. It keeps the shorter, instantly recognizable silhouette of the MA-1 and layers in details from the N-3B, bringing some of the parka’s practicality into a more compact flight-jacket shape.Both styles share the same technical foundation. Each is cut from a densely woven fabric treated with a water-repellent finish to handle wet conditions, while the interior is lined with WINDSTOPPER, a membrane that blocks wind while letting moisture escape. That pairing allows both jackets to protect against the elements without trapping heat and sweat inside.The White Mountaineering x Alpha Industries collaboration drops October 31 via White Mountaineering stores, the White Mountaineering online store and select stockists across Japan. Click here to view full gallery at Hypebeast"
     }
   ]
 }

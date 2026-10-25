@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-24",
+    "id": "2026-10-25",
     "mode": "live",
-    "displayDate": "OCT 24, 2026, 11:40 AM EDT",
-    "generatedAt": "2026-10-24T15:40:29.157Z",
-    "itemsCollected": 38,
+    "displayDate": "OCT 25, 2026, 11:51 AM EDT",
+    "generatedAt": "2026-10-25T15:51:15.068Z",
+    "itemsCollected": 29,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 17
+        "count": 10
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 68,
-      "confidence": 50,
+      "score": 100,
+      "confidence": 49,
       "youthRelevance": 87,
       "direction": "up",
       "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
+      "whyNow": "4 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +300% seven-day velocity",
       "citations": [
         {
           "title": "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
@@ -108,7 +108,7 @@
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1024",
+    "code": "AUTO 1025",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [

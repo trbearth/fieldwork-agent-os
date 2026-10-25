@@ -1,14 +1,14 @@
-# Fieldwork Daily Signal — 2026-10-24
+# Fieldwork Daily Signal — 2026-10-25
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Quiet performance
 
-**emerging · score 68 · confidence 50% · youth 87%**
+**emerging · score 100 · confidence 49% · youth 87%**
 
 Quiet performance is appearing across 2 independent public sources.
 
-4 observations · 2 independent sources · +100% seven-day velocity
+4 observations · 2 independent sources · +300% seven-day velocity
 
 - [ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection](https://hypebeast.com/2026/10/thrudark-musto-collection-release-info) — Hypebeast, Oct 23
 - [Nike’s Waterproof Air Max Is the Flyest (& Driest) Soldier](https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-camo-green/) — Highsnobiety, Oct 24

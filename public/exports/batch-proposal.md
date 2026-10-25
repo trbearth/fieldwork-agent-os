@@ -1,8 +1,8 @@
-# Fieldwork Synthesis Scout — 2026-10-24
+# Fieldwork Synthesis Scout — 2026-10-25
 
 ## Cross-source candidates
 
-1. **Quiet performance** — publication 68; public conversation 72.
+1. **Quiet performance** — publication 100; public conversation 72.
 2. **Decorated basics** — publication 67; public conversation 59.
 3. **Archival sportswear** — publication 26; public conversation 25.
 
