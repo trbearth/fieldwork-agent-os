@@ -3321,6 +3321,48 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-26",
+      "mode": "live",
+      "displayDate": "OCT 26, 2026, 02:31 PM EDT",
+      "generatedAt": "2026-10-26T18:31:39.801Z",
+      "itemsCollected": 45,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 11
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 17
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 100,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 39,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
@@ -3488,149 +3530,6 @@
       "publishedAt": "2026-07-28T19:33:10.000Z",
       "collectedAt": "2026-07-29T14:21:25.207Z",
       "text": "Gucci’s Sales Decline Eases in Q2, Beating Expectations Sales at parent company Kering returned to growth, as the conglomerate continues to execute its turnaround strategy."
-    },
-    {
-      "id": "873c53f19107d1f3",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Biggest Celebrity Engagements of 2026—So Far",
-      "url": "https://www.vogue.com/article/celebrity-engagements-2026",
-      "publishedAt": "2026-07-28T18:11:25.000Z",
-      "collectedAt": "2026-07-29T14:21:25.207Z",
-      "text": "The Biggest Celebrity Engagements of 2026—So Far The latest couple to share their engagement news in 2026? Pop star Madison Beer and her NFL star beau, Justin Herbert."
-    },
-    {
-      "id": "d96dbe7615ef2a56",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Bride Wore 7 Bespoke Looks Designed by Her Sister to Her English Countryside Wedding",
-      "url": "https://www.vogue.com/slideshow/madelyn-wysner-and-tyler-hunt-wedding",
-      "publishedAt": "2026-07-28T17:57:34.000Z",
-      "collectedAt": "2026-07-29T14:21:25.207Z",
-      "text": "The Bride Wore 7 Bespoke Looks Designed by Her Sister to Her English Countryside Wedding Cinq co-founder Madelyn Wysner and Tyler Hunt were married at a bucolic estate in Suffolk, with all of the bride’s outfits created by her designer sister, Macye Wysner."
-    },
-    {
-      "id": "0d936133bf18096b",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "It’s a Tassel Summer: 4 Ways to Style The Hot Accessory of Now",
-      "url": "https://www.vogue.com/tassel-accessory-trend",
-      "publishedAt": "2026-07-28T17:16:15.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "It’s a Tassel Summer: 4 Ways to Style The Hot Accessory of Now From tassel bags to necklaces, the tasselled accessory trend is still going strong for summer 2026. Discover four ways to embrace the opulent moment, now."
-    },
-    {
-      "id": "05900b63796da1af",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "‘Broad Strokes’ Star Cat Cohen’s Oura Ring Scores Have Never Been Higher",
-      "url": "https://www.vogue.com/article/cat-cohen-broad-strokes-interview",
-      "publishedAt": "2026-07-28T17:00:00.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "‘Broad Strokes’ Star Cat Cohen’s Oura Ring Scores Have Never Been Higher The comedian talks to Vogue about her new one-woman show, “Broad Strokes,” playing at the Lucille Lortel Theatre until September 5."
-    },
-    {
-      "id": "36dc3479ff6df547",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "How to Lighten Hair Without Bleach, Straight From the Pros",
-      "url": "https://www.vogue.com/article/how-to-lighten-hair-without-bleach",
-      "publishedAt": "2026-07-28T14:30:00.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "How to Lighten Hair Without Bleach, Straight From the Pros Lightening your hair doesn't mean you need to add extra damage to it. Here, experts break down how to go a few shades lighter without having to use bleach."
-    },
-    {
-      "id": "7fec67ccc64a9c1f",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Zendaya and Tom Holland’s ‘Spider-Man’ Tour Is All About Couple Style",
-      "url": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
-      "publishedAt": "2026-07-28T14:27:08.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "Zendaya and Tom Holland’s ‘Spider-Man’ Tour Is All About Couple Style The film’s press tour marks Zendaya and Tom Holland’s first official outings as husband and wife—and it’s a fashion force."
-    },
-    {
-      "id": "aa4330608221060d",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Gisele Bündchen Is Still the Queen of Rich Mom Energy",
-      "url": "https://www.vogue.com/article/gisele-bundchen-model-mom-airport-style",
-      "publishedAt": "2026-07-28T14:22:34.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "Gisele Bündchen Is Still the Queen of Rich Mom Energy The supermodel's airport style is a masterclass in model-off-duty, mom-on-duty dressing."
-    },
-    {
-      "id": "f576f37d94c1cbcf",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "For Art&Newport’s Summer 2026 Exhibitions, Austin Eddy and Na Kim Are Looking to the Skies",
-      "url": "https://www.vogue.com/article/art-and-newport-austin-eddy-na-kim-exhibitions",
-      "publishedAt": "2026-07-28T14:00:00.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "For Art&Newport’s Summer 2026 Exhibitions, Austin Eddy and Na Kim Are Looking to the Skies “Na Kim: Portraits” is on view at the Newport Tower and the Redwood Library and Athenaeum from July 28 to August 10, 2026. “Austin Eddy: Hope Deferred” is on view at the Norman Bird Sanctuary from August 27, 2026, to June 1, 2027."
-    },
-    {
-      "id": "28c6b9fccfce85b4",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Vogue and the CFDA Celebrated America’s 250th with 130 Reimagined Designer Flags and a Broadway Serenade",
-      "url": "https://www.vogue.com/slideshow/vogue-cfda-united-flags-of-fashion-rockefeller-center",
-      "publishedAt": "2026-07-28T13:35:07.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "Vogue and the CFDA Celebrated America’s 250th with 130 Reimagined Designer Flags and a Broadway Serenade Designers from across the American fashion industry came together at The Rink at Rockefeller Center in New York City to debut “United Flags of Fashion,” a public installation featuring 130 reimagined flags honoring every U.S. state and territory."
-    },
-    {
-      "id": "1d1b439930f3288b",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Special Scents That Make Up My Life",
-      "url": "https://www.vogue.com/article/hailee-steinfeld-personal-essay-fragrance",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "The Special Scents That Make Up My Life Actor, singer, and new mother Hailee Steinfeld is stopping to smell the roses—and reflect on how the most special moments in her life are tied to fragrance—in a personal essay for Vogue. She also shares the scent she hopes her daughter, Harper, will associate with her—Estée Lauder’s new fragrance, Glimmer."
-    },
-    {
-      "id": "6712927eebba7edc",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "A Doctor's Guide To Skin Purging: The Dos & Don’ts",
-      "url": "https://www.vogue.com/article/what-is-skin-purging",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "A Doctor's Guide To Skin Purging: The Dos & Don’ts Four experts share their tips and tricks on how to deal with skin purging breakouts."
-    },
-    {
-      "id": "02f4ef284181f8c7",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and Why He Loves the Movie Version Now",
-      "url": "https://www.vogue.com/article/bret-easton-ellis-less-than-zero-interview",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and Why He Loves the Movie Version Now Ellis spoke to Vogue about the earliest years of his writing career—beginning with the time after “Less Than Zero” was published."
-    },
-    {
-      "id": "4bb9fd25c99bda39",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Dilara Findikoglu Launches a Bridal Capsule That Breaks All the Rules",
-      "url": "https://www.vogue.com/article/dilara-findikoglu-bridal-capsule-collection",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "collectedAt": "2026-07-29T14:21:25.208Z",
-      "text": "Dilara Findikoglu Launches a Bridal Capsule That Breaks All the Rules Designer Dilara Findikoglu reveals an 8-piece bridal capsule collection of sexy, Gothic garments."
     },
     {
       "id": "cfaa2ff812816914",
@@ -3820,17 +3719,6 @@
       "text": "Nike’s Signature Blueberry Basketball Sneaker Is Too Sweet for the Court Kevin Durant's Nike KD19 signature basketball shoe gets another candy-flavored release. This time, the sleek model goes \"Blueberry Blast\" mode."
     },
     {
-      "id": "05967dbbac3754d4",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "It's a Hot (and Weird) Boat Shoe Summer",
-      "url": "https://www.highsnobiety.com/p/timberland-boat-shoe-summer/",
-      "publishedAt": "2026-07-28T17:21:00.000Z",
-      "collectedAt": "2026-07-29T14:21:26.585Z",
-      "text": "It's a Hot (and Weird) Boat Shoe Summer Timberland traded its iconic Yellow Boot for a summer of cool, colorful, and slightly crazy takes on its boat shoe from Jacquemus, nonnative, and other brands."
-    },
-    {
       "id": "02e8de265fa6a232",
       "sourceId": "highsnobiety",
       "sourceName": "Highsnobiety",
@@ -3862,17 +3750,6 @@
       "publishedAt": "2026-07-29T08:22:22.000Z",
       "collectedAt": "2026-07-29T14:21:26.585Z",
       "text": "adidas' Samba Mule Doesn't Need a Heel to Stand On adidas' woven Samba OG Mule is a standard soccer stunner that doubles as a mixy mule."
-    },
-    {
-      "id": "466cc9f0b6701405",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "From Salomon to Nike, The Seven Best Sneakers to Cop this Week",
-      "url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-4/",
-      "publishedAt": "2026-07-28T15:04:58.000Z",
-      "collectedAt": "2026-07-29T14:21:26.585Z",
-      "text": "From Salomon to Nike, The Seven Best Sneakers to Cop this Week This week’s selection sees the release of the brand new Salomon X-ALP Alpine Echoes, the Nike Air Jordan 1 OG 'Love Letter', & a polka-dotted New Balance 530."
     },
     {
       "id": "782b7470e711d251",
@@ -5897,17 +5774,6 @@
       "publishedAt": "2026-07-31T06:43:15.000Z",
       "collectedAt": "2026-08-01T13:38:26.311Z",
       "text": "Electronic Arts Set to Finalize $55 Billion USD Go-Private Acquisition Summary Electronic Arts has confirmed that all regulatory approvals for its $55 billion merger have been securedThe record-breaking buyout is led by Saudi Arabia’s Public Investment Fund, Silver Lake, and Affinity PartnersUpon closing on August 4, EA will delist from Nasdaq while retaining Andrew Wilson as CEO and remaining in Redwood City Electronic Arts is set to officially close its record-breaking $55 billion USD go-private deal after securing all necessary regulatory approvals. The video game publisher expects the transaction to finalize on or about the close of trading on August 4, 2026.The historic buyout is spearheaded by a consortium comprising Saudi Arabia’s Public Investment Fund (PIF), Silver Lake, and Affinity Partners, with stockholders receiving $210 USD per share in cash. Once completed, the publisher behind major franchises such as Battlefield 6, The Sims, and Madden NFL will delist from the NASDAQ and transition into a privately held company.Despite the shift in corporate ownership, EA will remain headquartered in Redwood City, California, with Andrew Wilson continuing his role as CEO to oversee operations across its global studio network.The $55 billion USD merger is expected to officially close on August 4, 2026. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "ac44930116704308",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Le Labo Dedicates “SHIU 25” City Exclusive Scent to Beijing’s Sacred Courtyards",
-      "url": "https://hypebeast.com/2026/8/le-labo-shiu-25-eau-de-parfum-beijing-city-exclusive-collection-release-info",
-      "publishedAt": "2026-07-28T10:36:23.000Z",
-      "collectedAt": "2026-08-01T13:38:26.311Z",
-      "text": "Le Labo Dedicates “SHIU 25” City Exclusive Scent to Beijing’s Sacred Courtyards Summary Le Labo's SHIU 25 anchors powdery iris, olibanum and warm woods around the serene, balancing Shiu note.The scent draws inspiration from Beijing's He Yuan Lab, a restored Siheyuan courtyard blending wabi-sabi aesthetics with ancient heritage.Available exclusively in Beijing year-round, it'll be available globally for a limited time. Le Labo expands its coveted City Exclusive Collection with SHIU 25, an Eau de Parfum dedicated to the city of Beijing. Conceived as an homage to traditional spaces built for quietude and inner return, the fragrance captures the soul of the house's historic Beijing He Yuan Lab — a culturally protected Siheyuan courtyard nestled in House 19 at Wang Fu Central.Global Brand President and Creative Director Deborah Royer describes the creation as \"an invitation to find centered calm, self-reflection, and a moment of pause in a world that rarely grants one\". By weaving the spirit of ancient craftsmanship with modern contemplation, SHIU 25 serves as an olfactory refuge where creation flows effortlessly from stillness.The scent narrative centers on Shiu, the quieter and more serene expression of the Ho tree, long revered for its ability to bring balance and inner peace. In this intentionally compact composition, ethereal notes of powdery iris and sacred olibanum float weightlessly above a grounding foundation of warm, anchoring woods. The experience unfolds like a serene walk through hidden courtyard gardens, where gentle shadows dance across well-worn wooden floors and the creative spirit awakens in sacred silence. Soft, resinous, and deeply comforting, SHIU 25 wraps the wearer in an enveloping atmosphere of centered calm, offering a quiet return to the timeless wisdom of the senses.In true Le Labo fashion, the fragrance is presented in the brand's iconic industrial-apothecary glass bottle, topped with a minimalist metallic cap and finished with a personalized, typewriter-style label detailing the scent name, date, and owner's name. For display, the collection is housed in raw, crate-like wooden packaging that reflects the house's signature wabi-sabi aesthetic, bridging utilitarian design with unpretentious luxury. While SHIU 25 resides exclusively year-round at the Beijing He Yuan Lab, it travels worldwide for Le Labo's annual City Exclusive event. Discovery sizes (1.5ml) and sample sets become available globally on August 1, 2026, followed by full-"
     },
     {
       "id": "d3db4f9eba494332",
@@ -50810,6 +50676,501 @@
       "publishedAt": "2026-10-25T02:30:08.000Z",
       "collectedAt": "2026-10-25T15:51:13.788Z",
       "text": "White Mountaineering x Alpha Industries Splice Three Military Classics Into Two Hybrid Jackets Summary White Mountaineering and ALPHA INDUSTRIES return for a third collaboration, built around two military-derived outerwear stylesA hybrid coat starts from the N-3B and borrows details from the MA-1 and CWU-45P, while a hybrid flight jacket pairs an MA-1 silhouette with N-3B elementsBoth styles combine water-repellent, high-density shells with a breathable, windproof WINDSTOPPER lining White Mountaineering and Alpha Industries have reunited for their third collaboration, a two-piece outerwear release that blends the American military outfitter’s archive with the Japanese label’s functional design. Rather than reissuing a single classic, each jacket mixes elements from several military flight and cold-weather styles into one hybrid build.The hybrid coat takes the N-3B as its foundation, keeping the longer, cold-weather proportions of the original while adding details drawn from both the MA-1 and the CWU-45P. Combining three distinct references in one garment gives the coat a familiar military feel without tying it to any single archival piece.The hybrid flight jacket works the same idea in reverse. It keeps the shorter, instantly recognizable silhouette of the MA-1 and layers in details from the N-3B, bringing some of the parka’s practicality into a more compact flight-jacket shape.Both styles share the same technical foundation. Each is cut from a densely woven fabric treated with a water-repellent finish to handle wet conditions, while the interior is lined with WINDSTOPPER, a membrane that blocks wind while letting moisture escape. That pairing allows both jackets to protect against the elements without trapping heat and sweat inside.The White Mountaineering x Alpha Industries collaboration drops October 31 via White Mountaineering stores, the White Mountaineering online store and select stockists across Japan. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "9b1436b9c1a8129b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the First-Ever PoloFest in Tokyo, a Vintage Marketplace—and Much More—for 10,000 Ralph Lauren Fans",
+      "url": "https://www.vogue.com/article/inside-the-first-ever-polofest-in-tokyo-a-vintage-marketplace-and-much-more-for-10000-ralph-lauren-fans",
+      "publishedAt": "2026-10-26T18:16:28.000Z",
+      "collectedAt": "2026-10-26T18:31:35.754Z",
+      "text": "Inside the First-Ever PoloFest in Tokyo, a Vintage Marketplace—and Much More—for 10,000 Ralph Lauren Fans Ralph Lauren's PoloFest was held in Tokyo, and featured Polo-specializing dealers from around the world with 5,000 vintage Polo pieces for sale."
+    },
+    {
+      "id": "2e93cb5bac92cb01",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "As Peggy Flanagan Runs for Senate, a Look Back At Her Intentional Style",
+      "url": "https://www.vogue.com/article/peggy-flanagan-election-trail-fashion",
+      "publishedAt": "2026-10-26T17:18:28.000Z",
+      "collectedAt": "2026-10-26T18:31:35.755Z",
+      "text": "As Peggy Flanagan Runs for Senate, a Look Back At Her Intentional Style Peggy Flanagan could become the first Indigenous woman elected to the U.S. Senate. On the campaign trail, she has been using her platform to spotlight Native designers."
+    },
+    {
+      "id": "eceb98e515e70cbf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Watch Vogue Cover Star Jenna Ortega Get Real With Her Inner Voice",
+      "url": "https://www.vogue.com/article/jenna-ortega-vs-jenna-ortega-november-cover-video",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.755Z",
+      "text": "Watch Vogue Cover Star Jenna Ortega Get Real With Her Inner Voice We all have that pesky inner voice—the one that pipes up every so often, whether we want it to or not. In a new video, Vogue’s November cover star goes one-on-one with her own. And we mean that quite literally."
+    },
+    {
+      "id": "c0dc88bae5f614d0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Halloween Travel Destinations for Spooky Sojourns",
+      "url": "https://www.vogue.com/article/halloween-travel-destinations",
+      "publishedAt": "2026-10-26T15:42:56.000Z",
+      "collectedAt": "2026-10-26T18:31:35.755Z",
+      "text": "The Best Halloween Travel Destinations for Spooky Sojourns From ghost tours to cemetery strolls, the best Halloween travel destinations take travelers into the spookiest corners across cities like New Orleans, Savannah, and beyond."
+    },
+    {
+      "id": "44c866b99fd1776d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Can Halloween Be Chic? 6 Tastemakers on How to Throw a Kitsch-Free Spooky Season Party",
+      "url": "https://www.vogue.com/article/how-to-celebrate-a-chic-halloween",
+      "publishedAt": "2026-10-26T15:39:14.000Z",
+      "collectedAt": "2026-10-26T18:31:35.755Z",
+      "text": "Can Halloween Be Chic? 6 Tastemakers on How to Throw a Kitsch-Free Spooky Season Party Zoë de Givenchy, Romilly Newman, Rebecca Gardner, and Kelly Wearstler share tips on how to host a chic Halloween event."
+    },
+    {
+      "id": "ce1e4a576c423119",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Many T-Shirts Can Be Made in a Minute?",
+      "url": "https://www.vogue.com/article/how-many-t-shirts-can-be-made-in-a-minute",
+      "publishedAt": "2026-10-26T13:15:08.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "How Many T-Shirts Can Be Made in a Minute? Fashion is racing to automate sewing and shorten supply chain lead times. The sustainability pay-off hinges on how the industry uses the time it gains back."
+    },
+    {
+      "id": "fffc10b98726a032",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Style Bootcut Jeans in 2026",
+      "url": "https://www.vogue.com/article/how-to-style-bootcut-jeans",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "How to Style Bootcut Jeans in 2026 Effortless and leg-elongating, bootcut jeans may be one of the most wearable denim shapes of 2026—consider this your guide on how to style bootcut jeans."
+    },
+    {
+      "id": "cae430c6b94ce931",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 7 Best Airbnbs for Experiencing Buenos Aires in Peak Pleasant Weather",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-buenos-aires",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "The 7 Best Airbnbs for Experiencing Buenos Aires in Peak Pleasant Weather From a 1930s French-style building to a modern loft in Palermo, the best Airbnbs in Buenos Aires situate travelers in the city's best locations."
+    },
+    {
+      "id": "0bd577575b267b58",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Minotaurs, Mutants, and Wicker Husbands: In Monster Romances, Women Lust After Everything But Human Men",
+      "url": "https://www.vogue.com/article/in-monster-romances-women-are-lusting-after-everything-but-men",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "Minotaurs, Mutants, and Wicker Husbands: In Monster Romances, Women Lust After Everything But Human Men From screen to page, the genre uses absurdism and shock value to critique what modern dating is missing."
+    },
+    {
+      "id": "5c0b1a7a2ae0fc93",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Grandexport Is the Berlin Fashion Export You Should Know",
+      "url": "https://www.vogue.com/article/grand-export-is-the-berlin-fashion-export-you-should-know",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "Grandexport Is the Berlin Fashion Export You Should Know Grandexport’s Paulina Munzing and Gent Berbatovci specialize in upcycling, deadstock, and leather."
+    },
+    {
+      "id": "0bf10536b3745607",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Grown-Up Guide to Wearing Loafers and a Skirt",
+      "url": "https://www.vogue.com/article/how-to-style-a-skirt-and-loafers",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "The Grown-Up Guide to Wearing Loafers and a Skirt Taking inspiration from fashion month’s best-dressed, here are five ways to style loafers and a skirt without looking like an extra in ‘St Trinian’s’."
+    },
+    {
+      "id": "7c0eecbe05aac6ea",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "5 Midterm Races We’re Watching Next Week",
+      "url": "https://www.vogue.com/article/5-midterm-races-were-watching-next-week",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "5 Midterm Races We’re Watching Next Week Amy Acton vs. Vivek Ramaswamy, James Talarico vs. Ken Paxton, and Troy Jackson vs. Susan Collins are just some of the midterm races we’re locked in on this fall."
+    },
+    {
+      "id": "6e03098833d79417",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Fashion Is Betting on Spooky Season",
+      "url": "https://www.vogue.com/article/fashion-is-betting-on-spooky-season",
+      "publishedAt": "2026-10-26T05:30:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "Fashion Is Betting on Spooky Season With Halloween spending strong, fashion is tapping into a fresh appetite for spooky looks that last beyond October 31. What’s working?"
+    },
+    {
+      "id": "aa507356b9aaf4c2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Vestiaire Collective Is Keeping Stolen Goods From Being Resold",
+      "url": "https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold",
+      "publishedAt": "2026-10-26T05:30:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "How Vestiaire Collective Is Keeping Stolen Goods From Being Resold Following reports of recently looted goods appearing on resale platforms, the luxury marketplace is stepping up scrutiny of suspicious listings."
+    },
+    {
+      "id": "54bcff9dc6e9b940",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "11 Foods to Increase Your Ferritin Levels",
+      "url": "https://www.vogue.com/article/best-foods-with-ferritin",
+      "publishedAt": "2026-10-25T18:19:41.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "11 Foods to Increase Your Ferritin Levels The best foods to help increase your ferritin levels are foods that are rich in iron. Here, the experts break down everything you need to know."
+    },
+    {
+      "id": "25dbce05a18065e6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Dressed Stars of the Week Chose Skin-Flashing Silhouettes",
+      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-rosalia-jenna-ortega-naomi-ackie",
+      "publishedAt": "2026-10-25T17:22:35.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "The Best Dressed Stars of the Week Chose Skin-Flashing Silhouettes From Rosalía to Jenna Ortega, the best red carpet looks of the week had a sexy slant—thanks to cut-outs and sheer fabrics."
+    },
+    {
+      "id": "57cbe6fa7cdc6c4b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How ‘La Bola Negra’’s Costume and Production Designers Crafted Its Sensuous Universe",
+      "url": "https://www.vogue.com/article/la-bola-negra-costumes-and-production-design",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "collectedAt": "2026-10-26T18:31:35.756Z",
+      "text": "How ‘La Bola Negra’’s Costume and Production Designers Crafted Its Sensuous Universe “La Bola Negra” is Javier Calvo and Javier Ambrossi’s most ambitious work to date. So, too, is it a major achievement for their collaborators Ana Cobos and Roger Bellés."
+    },
+    {
+      "id": "779653518cff38fe",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good",
+      "url": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-insulated-shoes/",
+      "publishedAt": "2026-10-26T18:17:33.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good Vans drops a winterized Half Cab, featuring GORE-TEX waterproofing, warm insulation, & plenty of street swag."
+    },
+    {
+      "id": "bb2af828cdee5308",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "From adidas to New Balance, the Seven Best Sneakers to Cop This Week",
+      "url": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-0/",
+      "publishedAt": "2026-10-26T18:00:17.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "From adidas to New Balance, the Seven Best Sneakers to Cop This Week From fashion's' favorite adidas runner to your grandad's beloved PUMA... Speedcats?! The cream of the sneaker crop awaits... So, whatcha waiting for?"
+    },
+    {
+      "id": "73dc8d374e2246e3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Bruce Wayne-Approved Air Max 95 Leaves Gotham",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-95-batman-black/",
+      "publishedAt": "2026-10-26T17:10:23.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "Nike’s Bruce Wayne-Approved Air Max 95 Leaves Gotham Nike's moody Batman Air Max 95 sneaker is fly in a way Bruce Wayne would approve of."
+    },
+    {
+      "id": "bfe87a81ac41c79e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Best Liner Jackets for When Your Jacket Needs a Jacket",
+      "url": "https://www.highsnobiety.com/p/the-best-liner-jackets-and-vests-guide/",
+      "publishedAt": "2026-10-26T16:12:50.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "The Best Liner Jackets for When Your Jacket Needs a Jacket Meet the best liner jackets and vests for guys, from quilted down to washed cotton, ready to give your outerwear the backup it clearly needs."
+    },
+    {
+      "id": "c0fd09420b390490",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "10 Years In, This Designer Still Refuses to Scale Up: \"I'm Really Stubborn\"",
+      "url": "https://www.highsnobiety.com/p/monad-brand-interview/",
+      "publishedAt": "2026-10-26T17:20:07.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "10 Years In, This Designer Still Refuses to Scale Up: \"I'm Really Stubborn\" Monad makes clothing the hard way. Even a decade on, designer Daniel Olatunji refuses to compromise on his label's extreme handcraft, he says in interview."
+    },
+    {
+      "id": "77db490bd4227a5a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Finally, It’s Time to Lean Into the Whole Countryside Heartthrob Thing",
+      "url": "https://www.highsnobiety.com/p/countryside-core-winter-guide-mr-porter/",
+      "publishedAt": "2026-10-26T11:10:23.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "Finally, It’s Time to Lean Into the Whole Countryside Heartthrob Thing From chunky knits to sturdy boots, these are the menswear essentials for dressing like a gent this winter, whether you own an estate or just like to pretend."
+    },
+    {
+      "id": "5220cd0062dfbc15",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This LED Mask Also Depuffs Your Eye Bags",
+      "url": "https://www.highsnobiety.com/p/shark-beauty-led-cryglow-mask/",
+      "publishedAt": "2026-10-26T14:28:45.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "This LED Mask Also Depuffs Your Eye Bags Everyone knows Berlin likes to party, but how does it recover?"
+    },
+    {
+      "id": "63347ac8ac2bd7b2",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Cream Soda Recovery Shoe Is Ready to Pop",
+      "url": "https://www.highsnobiety.com/p/nike-first-sight-shadow-sneaker-cream/",
+      "publishedAt": "2026-10-26T09:47:02.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "Nike’s Cream Soda Recovery Shoe Is Ready to Pop Nike's cream-coated First Sight Shadow is a lace-free sneaker built for the moments we don't see."
+    },
+    {
+      "id": "d5d963b2316eafae",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Coffee-Flavored Tennis Shoe Is Perfectly Caffeinated",
+      "url": "https://www.highsnobiety.com/p/todd-snyder-new-balance-t500-cafe-pack/",
+      "publishedAt": "2026-10-26T09:40:28.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "New Balance’s Coffee-Flavored Tennis Shoe Is Perfectly Caffeinated Todd Snyder debuts its New Balance T500 \"Cafe Pack,\" featuring coffee-inspired takes on the tennis model."
+    },
+    {
+      "id": "a611a68a810d4771",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Exquisitely Woven Samba Is a Texture Trove",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-auburn-sneakers/",
+      "publishedAt": "2026-10-26T09:26:10.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "adidas’ Exquisitely Woven Samba Is a Texture Trove The adidas Samba sneaker is thriving hard this fall, thanks to solid releases like this woven \"Auburn\" pair."
+    },
+    {
+      "id": "baa8dad97e65dd37",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Saucy Leather Air Max Is Straight from Italy",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-95-lux-one-block-down/",
+      "publishedAt": "2026-10-26T09:07:04.000Z",
+      "collectedAt": "2026-10-26T18:31:37.126Z",
+      "text": "Nike’s Saucy Leather Air Max Is Straight from Italy Nike's Air Max 95 Lux sneaker returns as a One Block Down collaboration for 2026, landing with the signature leather uppers plus some OBD twists."
+    },
+    {
+      "id": "19d55f941167bfc8",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Evolutions of Jerry Hsu",
+      "url": "https://hypebeast.com/2026/10/jerry-hsu-through-the-lens-feature-interview",
+      "publishedAt": "2026-10-26T18:01:40.000Z",
+      "collectedAt": "2026-10-26T18:31:38.522Z",
+      "text": "The Evolutions of Jerry Hsu All of Jerry Hsu’s pictures are self-portraits. Pink and white flowers strewn in a chain-link fence to make a heart. Hellish plumes of smoke in plain daylight. And car wrecks, most memorably an SUV tipped on its side, the soft red glow of its taillights cradling a “4A POEM” plate. He’s rarely, if ever, in-frame, but there in feeling. Just wait for it.The San Jose-born photographer and skateboarder has a near sixth sense when it comes to capturing these sobering ironies of life, many of which land across the pages of How About Never, his latest book with MACK. Shot over the last 15 years, the project maps Hsu’s inner world through the love and loss that comes with a city as complicated as Los Angeles, where he’s lived since 2011, and what it means to make it home.Early photo blogs and titles, like Table for One or The Beautiful Flower Is the World, too, poke at humanity’s chaotic, often funny, underbelly. But this book, the first dedicated to his film practice, is also his most personal project yet. “There’s a level of isolation I felt living there. I think that’s relatable to a lot of people,” he says, reflecting on his experience in LA through its making. Flipping through its pages, where there’s decay, there’s rebirth. If there’s violence, forgiveness isn’t far off. Just as isolation is the feeling of walking an empty block, it’s also alchemized into intimacy, like being let in on a secret.When you think of Hsu, a number of other portraits come to mind. He went pro at 16, and came into photography through artists skate magazines sent to shoot him and his friends. Skateboarding handed him the reins to his environment, and allowed him to take in the world on his own terms, an outlook that, paired with an appetite for risk, would be useful in front of and behind the camera. In 2017, he made a hasty exit from his pro career, dropping his sponsors in search of the art venture that would eventually become his label, Sci-Fi Fantasy. Most of his days are spent running the company, and while he wishes he had more time for his photography, it’s perhaps a subconscious effort, he muses, of protecting another practice from becoming all-consuming.Told through luminous fragments, the book, much like LA, offers a more nuanced portrait of who we know Hsu, the artist, to be, beyond the weight of his skating career. It was love, after all, that brought him to the city, with his marriage, from its beginning to end, being one of its secret narrati"
+    },
+    {
+      "id": "c86132b0b0f45b7c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Magnum Photos Blurs Fact and Fiction in Latest Square Print Sale",
+      "url": "https://hypebeast.com/2026/10/magnum-photos-square-print-sale-october",
+      "publishedAt": "2026-10-26T16:56:05.000Z",
+      "collectedAt": "2026-10-26T18:31:38.522Z",
+      "text": "Magnum Photos Blurs Fact and Fiction in Latest Square Print Sale Summary Magnum Photos' latest Square Print Sale explores the line between reality and imagination, featuring over 70 works by Martin Parr, Bruce Davidson, Susan Meiselas and more.Running from October 26 through November 1, the sale offers signed and estate-stamped prints starting at $110 USD, with a new 9 x 9-inch format available for the first time. Magnum Photos is back with another Square Print Sale, this time looking at the blurry relationship between fact and fiction. Titled \"Fact/Fiction,\" the sale brings together more than 70 photographs that show how the camera can capture reality while also making us question what we're seeing.The lineup includes works by Martin Parr, Chris Killip, Bruce Davidson, Susan Meiselas and Cristina De Middel, among others. Some images capture everyday moments that feel almost staged, while others take a more deliberate approach to storytelling. It's a reminder that even a photograph taken in the moment can leave plenty of room for interpretation.The theme also raises questions about how we look at photography today, especially when images can be so easily manipulated and taken out of context. Rather than offering a clear answer, \"Fact/Fiction\" leaves viewers to decide what's believable and what isn't.Running from October 26 through November 1, the sale features signed or estate-stamped, museum-quality 6 x 6-inch prints starting at $110 USD. For the first time, select photographs will also be offered in a larger 9 x 9-inch format. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7f89fb43ffe03b92",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Maison Margiela and Gentle Monster Unveil Fourth Collaborative Eyewear Collection",
+      "url": "https://hypebeast.com/2026/10/maison-margiela-gentle-monster-fourth-collaborative-eyewear-collection-pop-up-launch-release-info",
+      "publishedAt": "2026-10-26T16:29:03.000Z",
+      "collectedAt": "2026-10-26T18:31:38.522Z",
+      "text": "Maison Margiela and Gentle Monster Unveil Fourth Collaborative Eyewear Collection Summary Maison Margiela and Gentle Monster have introduced their fourth collaborative collection exploring concepts of deconstruction across 43 sunglasses and 25 optical framesThe designs introduce exaggerated proportions second-skin leather wrapping and floating executions of Margiela’s signature four white stitchesThe launch is accompanied by an Alex Prager-directed short film and dedicated pop-up installations opening October 29 across eight global cities Maison Margiela and Gentle Monster have officially unveiled their fourth collaborative eyewear collection, presenting an extensive line of sunglasses and optical frames anchored by the creative philosophy of deconstruction.Elevating and distorting familiar eyewear silhouettes, the collection comprises 43 sunglasses and 25 optical frames that explore modified, crushed, and reconstructed forms. Exaggerated, high-volume frames shield the wearer’s face while expanding peripheral vision, contrasted by narrow, upswept profiles tightly encased in leather to create a seamless \"Second Skin\" effect. Throughout the range, Maison Margiela’s four white stitches accent the temples, with slimmer models introducing a new application where the stitching appears woven to float along the frame's perimeter.The launch is supported by a campaign short film directed by Alex Prager, following a protagonist navigating an shifting urban landscape during a ten-minute countdown. To accompany the rollout, immersive pop-up spaces featuring unfinished, irregular architectural aesthetics will open across eight international cities—including Seoul, Tokyo, Shanghai, Beijing, Bangkok, Kuala Lumpur, Melbourne, and Paris. In Seoul, an exclusive live performance conceived by choreographer Damien Jalet and artist Ian McMahon will celebrate the launch by translating deconstruction into physical movement.The fourth Maison Margiela x Gentle Monster eyewear collection launches on October 29, 2026, alongside pop-up locations worldwide, with full release details hosted on Maison Margiela and Gentle Monster.Pop-up Spaces Opening October 29thHaus Nowhere Seoul, 433, Ttukseom-ro, Seongdong-gu, Seoul, KoreaTokyo Aoyama FS, 5-chōme-3-2 Minamiaoyama, Minato City, Tokyo, Japan 107-0062Haus Nowhere Shanghai, 798-812, Mid-HuaiHai Rd., Huangpu District, Shanghai, ChinaBeijing Taikoo Li FS, L1 UNIT S10-15 & L2 UNIT S10-23 & L3 UNIT 10-32, BUILDING 10, NO. 19 SANLITUN ROAD, CHA"
+    },
+    {
+      "id": "f8aa94c8f7e312cd",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Joshua Renfroe's 'BEAU' Is a Portrait of Black Male Beauty",
+      "url": "https://hypebeast.com/2026/10/joshua-renfroe-photography-book-beau",
+      "publishedAt": "2026-10-26T15:37:58.000Z",
+      "collectedAt": "2026-10-26T18:31:38.522Z",
+      "text": "Joshua Renfroe's 'BEAU' Is a Portrait of Black Male Beauty Summary The 288-page book features portraits of 22 Black men, including 'Moonlight' actor André Holland.Drawing inspiration from Frederick Douglass and Renfroe's Alabama upbringing, BEAU challenges traditional notions of masculinity and celebrates Black identity. Brooklyn-based photographer and multidisciplinary artist Joshua Renfroe has released BEAU: The Black Male Mystique, a 288-page visual exploration of Black boyhood, manhood and beauty.The title, drawn from the French word for \"beautiful\" or \"handsome,\" also references Renfroe's upbringing in Tuskegee, Alabama. During his senior year of high school, he participated in the Orchid Club Beautillion, an African American coming-of-age tradition in which young men, known as Beaux, are formally introduced to their communities. That experience would later inform his approach to the book.Through intimate portraiture, Renfroe challenges the narrow ways Black men are often represented, making room for tenderness, elegance and vulnerability alongside more familiar expressions of masculinity. Rather than defining what Black male beauty should look like, *BEAU* invites its subjects to shape that conversation themselves.The project also looks to the past, particularly Frederick Douglass, who recognized photography's potential to challenge racist stereotypes and reclaim control over Black representation. Douglass, one of the most photographed Americans of the 19th century, used portraiture to assert dignity and humanity at a time when those qualities were routinely denied to Black people.Featuring 22 Black men across generations, including Moonlight actor and fellow Alabama native André Holland, the book connects that history of self-representation to contemporary Black culture. It includes a foreword by Douglass Morris, a descendant of Frederick Douglass and Booker T. Washington, with additional writing by Curtis Taylor Jr. and design by Fred Sands IV.BEAU: The Black Male Mystique was released on October 23, 2026 and is now available online and globally. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "56cc27fad0794032",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Audemars Piguet Officially Launches Its Certified Pre-Owned Platform",
+      "url": "https://hypebeast.com/2026/10/audemars-piguet-watch-keepers-certified-pre-owned-watches-service-info",
+      "publishedAt": "2026-10-26T15:33:47.000Z",
+      "collectedAt": "2026-10-26T18:31:38.522Z",
+      "text": "Audemars Piguet Officially Launches Its Certified Pre-Owned Platform Summary Audemars Piguet officially launches The Watch Keepers, its new Certified Pre-Owned platform.Eligible watches are authenticated, graded and listed directly through AP’s service network.Buyers receive manufacturer certification, a travel pouch and a two-year warranty. Just days after reports pointed to the imminent arrival of Audemars Piguet’s long-anticipated Certified Pre-Owned programme, the Le Brassus manufacture has made it official. Launching under the name The Watch Keepers, the new end-to-end CPO service gives Audemars Piguet direct oversight of authenticated pre-owned watches returning to the market, building on pilot initiatives the brand had previously tested across Japan, Switzerland and the U.S. Rather than relying on third-party dealers, The Watch Keepers operates through a dedicated digital platform backed by AP’s own service infrastructure, positioning the manufacturer itself as the point of contact for authentication, condition assessment and resale. The platform launches first in Europe and Switzerland, with a progressive international rollout planned thereafter.For sellers, the process begins with registration and online verification of a watch’s serial number and proof of ownership, with eligible pieces required to be at least two years removed from their original sell-out date. Approved watches are transported by insured courier to Audemars Piguet Customer Service, where watchmakers authenticate them against the manufacture’s archive registers, assess their condition and prepare detailed listings supported by high-resolution photography and a five-point grading system covering the case, dial and bracelet.Sellers can then choose between a fixed asking price or bidding format, while retaining control over when the listing goes live; importantly, the watch remains their property and is stored within AP facilities until a transaction is completed. The digital experience itself is built around color-themed virtual rooms and “Expert Watch Keepers” - actual AP staff represented as digital avatars - who guide users through buying, selling and editorial content.On the buying side, approximately 100 watches will be presented on the platform at any given time, spanning different collections and eras, with transactional access reserved for registered users. Once purchased, each watch is delivered with a dedicated Watch Keepers travel pouch, a certificate of authenticity and"
+    },
+    {
+      "id": "f12da2c1fb406915",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'BLEACH' Creator Tite Kubo Designed a New Character for a Limited-Edition Hypebeast Capsule",
+      "url": "https://hypebeast.com/2026/10/bleach-creator-tite-kubo-designed-a-new-character-for-a-limited-edition-hypebeast-capsule",
+      "publishedAt": "2026-10-26T14:28:27.000Z",
+      "collectedAt": "2026-10-26T18:31:38.522Z",
+      "text": "'BLEACH' Creator Tite Kubo Designed a New Character for a Limited-Edition Hypebeast Capsule BLEACH creator Tite Kubo is one of our cover stars for Hypebeast Magazine Issue 38: The Juice Issue, and to celebrate, we're releasing an exclusive two-piece collection with the manga legend.Over 15 years and 686 chapters, Kubo turned BLEACH into one of the best-selling manga of all time, with more than 130 million copies sold. Its influence on the generation that followed, including Demon Slayer and Jujutsu Kaisen, makes it a blueprint for the modern fighting genre.The Hypebeast x TITE KUBO Graphic T-Shirt comes in black 100% cotton with a semi-oversized fit and ribbed crewneck. Kubo's original artwork is printed in lavender across the back, with the issue title and his name in English and Japanese printed and embroidered at the chest.The Hypebeast x TITE KUBO Graphic Ball Cap is a black six-panel style with a curved brim, \"TITE KUBO\" and 久保帯人 embroidered on the front, and an adjustable buckle strap finished with a Hypebeast label.Both pieces are made in Korea and produced in limited quantities.Fashion has always been part of Kubo's work. He styled BLEACH's cast by mixing street style with runway references from Maison Margiela and Dior, sometimes basing a character's look on a shirt he'd bought for himself. So it’s only right that his Hypebeast cover comes with a capsule collection to match.The collection drops today exclusively on HBX.Read the full cover story on Kubo here. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "cfafbf5e7481cf7e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Palace Skateboards and Nike's Manor Place FC Collection Brings Back the Early-’00s Football Kit",
+      "url": "https://hypebeast.com/2026/10/palace-skateboards-winter-2026-drop-5-nike-manor-palace-collection-release-info",
+      "publishedAt": "2026-10-26T12:30:39.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "Palace Skateboards and Nike's Manor Place FC Collection Brings Back the Early-’00s Football Kit Summary Palace Skateboards and Nike are marking one year of Manor Place with the Manor Place FC capsule, a football-inspired collection dressed in Black and TealA custom Manor Place crest runs through every piece, with Orange accents and Swoosh placements that echo football kits from the early 2000sThe lineup revisits the duo’s first P90 collection through tracksuits, training gear, jerseys, outerwear, tees, hoodies and accessories Palace Skateboards and Nike have unveiled the Palace Nike Manor Place FC collection, a capsule built to celebrate the first anniversary of Manor Place, the South London space the two brands have run as a home for skaters, footballers and emerging artists. Designed as a tribute to the regulars and key contributors who keep the venue’s projects moving, the range leans fully into football uniform codes while keeping Palace’s skate roots in view.Black and Teal form the base of the entire collection, giving each piece a dark, club-ready foundation. Against that backdrop, every style picks up hits of Orange, and the Nike Swoosh is positioned the way it appeared on football shirts at the turn of the millennium, so the capsule reads as a throwback kit rather than a standard graphic drop.A dedicated Manor Place badge ties the range together, appearing across the lineup much like a club crest would on a full team strip. That shared emblem turns the collection into something closer to a uniform for the space itself, rooting each garment in the venue it was made to celebrate.The silhouettes look back to where the partnership began. Taking cues from Palace and Nike’s debut P90 collection, the capsule returns to tracksuits, training shorts and jerseys, then extends into outerwear, hooded sweatshirts, a broad run of tees and a selection of accessories, covering everything from matchday layers to off-pitch basics.Beyond the product, the brands are bringing the celebration back to the venue. Palace and Nike will host a skate jam at Manor Place on Saturday, October 31, with skaters and spectators alike invited to take part.The Palace Nike Manor Place FC collection drops Friday, October 30, via Palace online and Palace retail locations across the UK, Europe and North America, with Manor Place, DSM London and DSM LA also stocking it. Australia, Japan, Korea, China, Hong Kong and Singapore follow on Saturday, October 31, alongside DSM GINZA. Click here to"
+    },
+    {
+      "id": "f1551ffaa3a26498",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Yoichi Takahashi’s ‘Captain Tsubasa’ Art Exhibition Heads to Milan",
+      "url": "https://hypebeast.com/2026/10/captain-tsubasa-one-world-one-team-art-exhibition-2026-gaaat-ikonica-art-gallery-milan-info",
+      "publishedAt": "2026-10-26T11:48:45.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "Yoichi Takahashi’s ‘Captain Tsubasa’ Art Exhibition Heads to Milan Summary Captain Tsubasa – ONE WORLD ONE TEAM brings Yoichi Takahashi’s original artwork to Milan.The five-day exhibition follows stops across the U.S. and Asia.Limited merchandise and original works accompany the gallery presentation. The global reach of Captain Tsubasa moves from the football pitch into the gallery with Captain Tsubasa – ONE WORLD ONE TEAM Art Exhibition 2026, a touring presentation dedicated to creator Yoichi Takahashi’s original artwork. Following stops in San Francisco, New York, Singapore and Hong Kong, the exhibition arrives in Milan for a five-day run from October 28 through November 1 at iKonica Art Gallery.Framed around the series’ ability to connect fans across borders through a shared love of football, the project translates that same sense of international community into an art setting, bringing Takahashi’s characters and distinctive hand-drawn imagery into closer view. The Milan edition presents original works that are both exhibited and available for purchase, offering a more intimate look at the drawing style behind the globally recognized franchise.The exhibition’s central visual gathers Captain Tsubasa players in national-team colors, reinforcing the “One World One Team” theme through the sport’s universal language rather than focusing on a single club or country. Documentation from earlier tour stops also shows the exhibition operating as more than a static display: previous editions have included football-and-art programming in Tokyo, Takahashi presenting new work, opening events in San Francisco and gallery presentations in New York. In a message accompanying the Milan show, Takahashi expresses his hope that, just as Captain Tsubasa has spread around the world, the exhibition can become a place where new connections are formed.Open daily from 11 a.m. to 6 p.m., the Milan stop also offers several ticket packages combining admission with limited merchandise, including postcard sets, stickers, a T-shirt and cap, with entry beginning at €18 EUR (approx. $20 USD). Each paying visitor can also bring one guest under the age of 18 free of charge when accompanied by an adult. Following Milan, the ONE WORLD ONE TEAM Art Exhibition 2026 continues to Barcelona from December 2 through 6, with a Tokyo edition still to be announced, extending the project’s globe-spanning journey through the end of the year.iKonica Art GalleryVia Nicola Antonio Porpora,16/A, 20131 Milan"
+    },
+    {
+      "id": "8fc0150e4b571c60",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "PUMA Gives the CELL GEO 1 an Earthy “Galactic Dust/Loden” Treatment",
+      "url": "https://hypebeast.com/2026/10/puma-cell-geo-1-galactic-dust-loden-405336-08-release-info",
+      "publishedAt": "2026-10-26T10:58:58.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "PUMA Gives the CELL GEO 1 an Earthy “Galactic Dust/Loden” Treatment Name: PUMA CELL GEO 1 “Galactic Dust/Loden”Colorway: Galactic Dust/LodenSKU: 405336-08MSRP: ¥25,300 JPY (approx. $161 USD)Release Date: November 1Where to Buy: PUMAPUMA continues to push its archival CELL technology into more sculptural territory with the latest CELL GEO 1, arriving in a single “Galactic Dust/Loden” colorway. The chunky runner comes dressed in a muted mix of dusty brown, taupe and mossy olive tones, giving its technical construction a distinctly earthy finish. The upper combines textile with layered leather panels, shifting between smoother surfaces and more tactile textures to emphasize the model’s exaggerated geometry. Darker Loden accents run through the overlays and branding, while tonal laces keep the palette cohesive rather than introducing sharp contrast.Much of the CELL GEO 1’s visual weight sits at the heel, where a pronounced ridged structure gives the sneaker its architectural profile and frames PUMA’s CELL cushioning technology. The bulky rear construction is balanced by a more streamlined forefoot, while a segmented rubber outsole and layered sidewalls reinforce its late-’90s running DNA. Originally developed as one of PUMA’s defining cushioning systems of the era, CELL is reinterpreted here through a more contemporary, fashion-oriented silhouette that places as much emphasis on texture and form as on performance heritage. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "cd93c765c6a8370f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "AURALEE x TEKLA Brings the Outdoors Into the Home for FW26",
+      "url": "https://hypebeast.com/2026/10/auralee-tekla-capsule-collection-collaboration-release-info",
+      "publishedAt": "2026-10-26T10:49:03.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "AURALEE x TEKLA Brings the Outdoors Into the Home for FW26 Summary AURALEE and TEKLA reunite for their second collaboration, exploring Scandinavian winter living.Highlights include wool-cashmere knitwear, checked flannel sleepwear, shearling slippers and home textiles.Launching October 28, the collection blends Japanese craftsmanship with Scandinavian comfort. Finding comfort in the colder months is at the heart of AURALEE and TEKLA's second collaborative capsule, which brings together Japanese textile craftsmanship and Scandinavian sensibilities for Fall/Winter 2026. Following their inaugural partnership back in 2024, the two labels reunite to explore the concept of “wintering,” drawing inspiration from the contrast between the harsh Nordic outdoors and the warmth of domestic spaces.Rooted in the Scandinavian philosophy of friluftsliv, which emphasizes the importance of spending time in nature, the collection reflects a lifestyle that embraces the elements while finding equal pleasure in the comforts of home. AURALEE's expertise in fabric development and understated layering meets TEKLA's refined approach to home textiles, resulting in a coordinated assortment of knitwear, sleepwear, bedding and accessories designed to move seamlessly between indoor relaxation and everyday dressing.The collection's knitwear is crafted from a soft blend of 70% wool and 30% cashmere, offered in earthy Forest Green and Soil Brown colorways that echo the natural landscape. Crewneck cardigans and boatneck sweaters are accompanied by matching arm warmers and neck warmers, encouraging tonal layering through relaxed silhouettes and tactile textures.Sleepwear, a returning category from the brands' first collaboration, receives an update in brushed organic cotton flannel, featuring a purple-and-orange “Dawn Checks” pattern inspired by the sky before sunrise. The print appears across long-sleeve shirts, relaxed pants and boxer shorts, introducing a warmer, more expressive palette to the collection's otherwise subdued aesthetic. Together, the pieces emphasize comfort through considered fabric choices, with AURALEE's signature material development bringing a refined finish to familiar wardrobe essentials.Extending the collaboration into the home, the capsule introduces pale green shearling slippers, striped lambswool blankets and deep brown percale bedding, alongside cotton socks in muted blue and grey tones. The combination of natural fibers, understated patterns and earthy colors cr"
+    },
+    {
+      "id": "0b16396189cdd2ee",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "AFEW x Saucony’s ProGrid Omni 9 “Tara Hawk” Sneaker Takes Cues From a Venomous Wasp",
+      "url": "https://hypebeast.com/2026/10/afew-saucony-progrid-omni-9-tara-hawk-collaboration-s71049-1-release-info",
+      "publishedAt": "2026-10-26T10:31:26.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "AFEW x Saucony’s ProGrid Omni 9 “Tara Hawk” Sneaker Takes Cues From a Venomous Wasp Name: AFEW x Saucony ProGrid Omni 9 \"Tara Hawk\"Colorway: \"Tara Hawk\"SKU: S71049-1MSRP: TBCRelease Date: November 7Where to Buy: AFEWAFEW has once again joined forces with Saucony to deliver a more conceptual take on the ProGrid Omni 9, drawing inspiration from one of nature’s most formidable predators: the tarantula hawk wasp.The collaborative \"Tara Hawk\" sneaker seamlessly blends technical running heritage with an aggressive, nature-inspired design language. Its aesthetic translates the terrifying beauty of the insect into a bold colorway, built around a dark base punctuated by shifting, iridescent surfaces. Translucent blue TPU and synthetic overlays wrap the quarter and heel, producing a glossy, color-changing effect that references the wasp’s metallic body, while gradient mesh underneath moves through flashes of red, orange, yellow, blue and purple. An orange midfoot stabilizer provides a warmer focal point against the cooler sheen, allowing the layered construction of the Y2K runner to become part of the color story.The concept extends beyond color into texture, drawing from both the insect and the tarantulas it hunts. Black pony hair covers portions of the tongue and collar, giving the upper a deliberately coarse, tactile finish that contrasts with the smooth, translucent cage surrounding it. Black leather structures the toe, lace panel and collar, while darker grey and black tooling grounds the otherwise highly reflective upper and retains the ProGrid Omni 9’s chunky early-2000s profile. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "bcebc435025e871d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "First Look at the L’Art de L’Automobile x Salomon XT-QUEST 2",
+      "url": "https://hypebeast.com/2026/10/lart-de-lautomobile-salomon-xt-quest-2-olive-first-look-release-info",
+      "publishedAt": "2026-10-26T10:31:23.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "First Look at the L’Art de L’Automobile x Salomon XT-QUEST 2 Name: L'Art de L'Automobile x Salomon XT-QUEST 2Colorway: “Olive”SKU: TBCMSRP: TBCRelease Date: October 28Where to Buy: L'Art de L'Automobile, Salomon JPL’Art de L’Automobile and Salomon are shifting their long-running fascination with speed toward the people who keep cars moving. First-look photos shared by L’Art de L’Automobile reveals a new collaborative XT-QUEST 2, conceived around the idea of “Mechanic Walking Shoes” and dressed in a single muted olive and black treatment. The upper leans into the model’s hiking heritage with olive nubuck and textured panels, reinforced by an oversized black toe cap that wraps around the forefoot for a tougher, workwear-like finish. Tonal stitching keeps the build understated, while polished silver hardware and multicolored rope laces introduce flashes of metallic shine and color against the otherwise utilitarian palette.The detailing becomes more automotive on closer inspection. A circular car graphic is embossed near the heel, while white L’ART lettering appears across the tongue and Salomon branding sits against the black forefoot guard. Underfoot, the XT-QUEST 2 retains its substantial trail-ready construction, combining a stability-focused bottom unit with a deeply lugged outsole; brown-to-olive marbling along the midsole adds a weathered, almost oil-stained effect that suits the garage-inspired concept. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c1a8c9742244ed54",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Hermès Opens ‘HERMÈSTORIES,’ an Immersive Exhibition and Theater Experience in Hong Kong",
+      "url": "https://hypebeast.com/2026/10/hermestories-stage-play-exhibition-hong-kong-west-kowloon-freespace-info",
+      "publishedAt": "2026-10-26T10:05:14.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "Hermès Opens ‘HERMÈSTORIES,’ an Immersive Exhibition and Theater Experience in Hong Kong Summary Hermès presents HERMÈSTORIES , an immersive exhibition and theatrical experience celebrating its heritage in Hong Kong.Highlights include iconic creations, artisanal craftsmanship and surrealist storytelling.Running until November 8 at Freespace, with free admission upon registration. What stories lie behind some of fashion's most recognizable objects? Hermès is inviting audiences to uncover the history, craftsmanship and creative spirit of the French luxury house through HERMÈSTORIES, an immersive exhibition and theatrical experience at Freespace in Hong Kong's West Kowloon Cultural District. Running from October 24 to November 8, 2026, the limited-time presentation offers an unconventional exploration of the maison's nearly two-century legacy, combining an imaginative exhibition with a surrealist stage production. Founded in 1837 as a Parisian saddlery and harness-making workshop, Hermès has since evolved into a luxury house spanning 16 métiers, encompassing leather goods, silk, ready-to-wear and accessories. Rather than approaching this history through a conventional retrospective, HERMÈSTORIES celebrates the anecdotes, creative encounters and artisanal traditions that have shaped the house and its most recognizable creations.Conceived as a theatrical storeroom, the accompanying exhibition offers visitors an intimate encounter with the objects and craftsmanship that define Hermès' identity. The installation invites audiences to wander among iconic creations, discovering their histories, construction and artistic significance through an imaginative presentation that blurs the boundaries between exhibition and stage design. From the house's leatherworking expertise and its celebrated Kelly and Birkin bags to the vibrant silk scarves rooted in its equestrian heritage, the exhibition highlights the breadth of Hermès' 16 métiers and the creative ingenuity behind its enduring designs. Beyond showcasing these objects, the experience explores the relationship between functionality, material innovation and artistic expression, offering a closer look at how generations of artisans and designers have continued to reinterpret the maison's heritage.Bringing these stories to life through performance, the theatrical component of HERMÈSTORIES is written by Pauline Bayle and directed by Joe Hufton. At its center is Lad, a waiting groom portrayed by a young woman, who embarks"
+    },
+    {
+      "id": "f2813e8379a27e80",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Gives the Shox NZ a “Photon Dust/Metallic Silver” Refresh",
+      "url": "https://hypebeast.com/2026/10/nike-shox-nz-photon-dust-metallic-silver-classic-charcoal-black-iu7506-002-official-images",
+      "publishedAt": "2026-10-26T10:04:38.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "Nike Gives the Shox NZ a “Photon Dust/Metallic Silver” Refresh Name: Nike Shox NZ “Photon Dust/Metallic Silver”Colorway: Photon Dust/Metallic Silver/Classic Charcoal/BlackSKU: IU7506-002MSRP: €130 EUR (approx. $146 USD)Release Date: November 2026Nike continues the return of the Shox NZ with a new “Photon Dust/Metallic Silver” colorway that leans heavily into the silhouette’s early-2000s futurism.A pale \"Photon Dust\" foundation runs through the mesh and textured synthetic-leather sections of the upper, while broad \"Metallic Silver\" overlays sweep from the sidewalls toward the lacing system, catching the light with a smoother, reflective finish. The contrast between pebbled grey panels, breathable mesh and polished silver gives the shoe greater visual depth without relying on brighter accent colors. Black Swooshes, collar detailing and smaller branding elements sharpen the otherwise cool-toned palette, while metallic treatment continues onto the tongue alongside the circular Shox emblem.The build remains faithful to the Shox NZ’s distinctive Y2K-era proportions, pairing a low, streamlined forefoot with the model’s signature four-column Shox cushioning system at the heel. Finished in dark \"Classic Charcoal\", the columns create a heavier visual anchor beneath the bright upper and emphasize the mechanical quality that has long defined Nike’s Shox line. The banded overlays also connect directly into the lace loops to wrap the foot more securely, while a padded collar and rubber waffle outsole add comfort, grip and durability. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "67cad1a89f197e4c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Tissot’s PRX Skeleton Damian Lillard Edition Is Built Around “Dame Time”",
+      "url": "https://hypebeast.com/2026/10/tissot-prx-skeleton-damian-lillard-special-edition-collaboration-release-info",
+      "publishedAt": "2026-10-26T10:04:05.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "Tissot’s PRX Skeleton Damian Lillard Edition Is Built Around “Dame Time” Tissot is taking its ongoing partnership with Damian Lillard into more experimental territory with the PRX Skeleton Damian Lillard Special Edition, a 44mm mechanical interpretation of the integrated-sports-watch line developed closely with the NBA star. Lillard has served as a Tissot ambassador since 2021, and this latest project moves beyond simple signature branding by drawing directly from his upbringing and “Dame Time” philosophy of preparation, discipline and perseverance.The familiar PRX silhouette is rendered in stainless steel with deep lateral engravings, while an openworked dial exposes the movement beneath. Burgundy runs across the dial and straps, contrasted by silver-toned architecture and gold-colored mechanical elements, while a seconds hand shaped around Lillard’s monogram and his signature across the transparent caseback add the most immediate personal references.Beating at its heart is a manual-winding Swiss skeleton movement, shifting the PRX away from the automatic movements more commonly associated with the collection and placing greater emphasis on the mechanics themselves. Lillard’s story continues through the accessories: the burgundy rubber strap carries a geometric “milk-crate” pattern referencing the makeshift basketball hoops of his childhood, while a second burgundy leather strap is designed to develop its own patina over time. Both use a quick-release system, but the most unconventional addition is a dedicated leather conversion set that allows the watch head to be removed from its strap and worn as a pocket watch, extending the collaboration beyond the PRX’s usual wristwatch format.The release also arrives as part of a wider homecoming narrative for Lillard. Tissot previouslt previewed the project during the Portland Trail Blazers’ Fan Fest before officially launching the special-edition timepiece in time for Portland’s season opener against the Phoenix Suns. Priced at $2,075 USD, PRX Skeleton Damian Lillard Special Edition is available now through Tissot. View this post on Instagram Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8d41ddbc3b26b648",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Grand Theft Auto' Beers May Be Coming to Life Ahead of 'GTA 6'",
+      "url": "https://hypebeast.com/2026/10/grand-theft-auto-beers-may-be-coming-to-life-ahead-of-gta-6-irl-merch-reports",
+      "publishedAt": "2026-10-26T09:50:42.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "'Grand Theft Auto' Beers May Be Coming to Life Ahead of 'GTA 6' Summary Three beverage labels tied to Grand Theft Auto 6 have reportedly cleared the US Alcohol and Tobacco Tax and Trade BureauSubmissions by Florida craft outfit Tripping Animals Brewing include in-game beers Pißwasser and Patriot alongside a new Vice City lagerNeither Rockstar Games nor the brewery has officially confirmed the collaborative drop or announced retail availability Rockstar Games and Florida craft outfit Tripping Animals Brewing may be bringing the franchise's fictional brews to physical shelves with real-world iterations of Pißwasser, Patriot, and No Mames Vice City. According to regulatory records first uncovered by iGrandTheftAuto, official label approvals for the beverages have surfaced within the public database of the US Alcohol and Tobacco Tax and Trade Bureau (TTB).Filings submitted by Doral-based brewery Tripping Animals Brewing indicate that three separate label applications tied to the video game series have received regulatory clearance. The registry includes franchise favorites Pißwasser and Patriot alongside No Mames Vice City, a 6% ABV lager. Suggested imagery shows the No Mames Vice City packaging displaying GTA VI branding, a sunset backdrop, and a dog wearing sunglasses paired with a gold Vice City chain. Government logs show Pißwasser gained label approval on September 29, followed by No Mames Vice City on October 9 and Patriot on October 15.While the registered filings suggest a commercial launch could be in development, neither Rockstar Games nor Tripping Animals Brewing has officially announced the collaboration or provided retail details.DISCLAIMER: We discourage irresponsible and/or underage drinking. Drink responsibly and legally. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b122f6af5c8f283a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "teenage engineering’s EP–35 Is a Guitar Amp, Karaoke Rig and Camp Light With Room for Your Drink",
+      "url": "https://hypebeast.com/2026/10/teenage-engineerings-ep-35-is-a-guitar-amp-karaoke-rig-and-camp-light-with-room-for-your-drink",
+      "publishedAt": "2026-10-26T09:48:15.000Z",
+      "collectedAt": "2026-10-26T18:31:38.523Z",
+      "text": "teenage engineering’s EP–35 Is a Guitar Amp, Karaoke Rig and Camp Light With Room for Your Drink Summary teenage engineering’s EP–35 is a battery-powered speaker and amp with line, microphone and guitar inputs plus Bluetooth and USB audioEight guitar fx and eight mic fx run from dedicated dials, ranging from surf-rock twang to a vocal effect called “frog”A storage compartment hides the gain controls, a camp light with a disco mode and enough space for cables, accessories or a drink teenage engineering’s EP–35 is a multi-input speaker and amplifier built to handle a microphone, a guitar, a line-level device, Bluetooth and USB audio all at once. It works as a standalone portable speaker or as a central hub for a full setup, with built-in fx, a hidden storage compartment and the ability to link several units together wirelessly.Every input sits on the top of the unit, each tuned for a different kind of source. A 3.5mm stereo line input feeds straight to the speaker with no processing, which suits other EP series devices, while an XLR microphone input offers up to 54 dB of analog gain and switchable 48V phantom power for condenser mics. The 6.35mm guitar input takes guitars and basses, and a hi mode drops its gain by 6 dB to accommodate active pickups or a pedal chain. Wireless playback runs over Bluetooth 5.3 with LE Audio support.The fx section splits into two banks of eight, each with its own selector and amount dial. Guitar players get clean, twang, blues, od, indie, env, ag and b, covering everything from surf-style tremolo and overdrive to an auto wah and a thickened bass tone. Vocalists can cycle through clean, radio, pop, rock, bass synth, robo choir, frog and megaphone, with the amount dial layering in combinations of reverb, delay, phaser and flanger depending on the setting.Sound comes from a mono 1+1 configuration pairing a 4-inch woofer with a 1-inch tweeter, pushing 35 watts of output with a frequency response of 50 Hz to 20 kHz and a maximum SPL of 94 dB at one meter. A tone knob tilts the EQ toward bass and treble in one direction or boosts the mids in the other. The 20.1Wh lithium-ion battery charges in about two hours via a 45W USB-PD port and delivers around 12 hours of playback at a volume setting of five, and the housing is splash resistant against sweat and accidental spills.Lifting the lid on the storage compartment reveals the gain knobs, the phantom power and hi mode switches, a mute button and the camp light. “It also has a storage co"
     }
   ]
 }

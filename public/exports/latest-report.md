@@ -1,25 +1,25 @@
-# Fieldwork Daily Signal — 2026-10-25
+# Fieldwork Daily Signal — 2026-10-26
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Quiet performance
 
-**emerging · score 100 · confidence 49% · youth 87%**
+**emerging · score 100 · confidence 49% · youth 79%**
 
 Quiet performance is appearing across 2 independent public sources.
 
 4 observations · 2 independent sources · +300% seven-day velocity
 
 - [ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection](https://hypebeast.com/2026/10/thrudark-musto-collection-release-info) — Hypebeast, Oct 23
-- [Nike’s Waterproof Air Max Is the Flyest (& Driest) Soldier](https://www.highsnobiety.com/p/nike-air-max-95-gore-tex-camo-green/) — Highsnobiety, Oct 24
+- [Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good](https://www.highsnobiety.com/p/vans-half-cab-gore-tex-insulated-shoes/) — Highsnobiety, Oct 26
 
 ## 2. Decorated basics
 
-**emerging · score 67 · confidence 50% · youth 100%**
+**emerging · score 39 · confidence 42% · youth 57%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-4 observations · 2 independent sources · +100% seven-day velocity
+2 observations · 2 independent sources · -50% seven-day velocity
 
 - [BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette](https://hypebeast.com/2026/10/bedwin-the-heartbreakers-kipsso-buffalo-jacket-release-info) — Hypebeast, Oct 21
 - [The 10 Best Airbnbs in Venice for Canalside Charm](https://www.vogue.com/article/best-airbnbs-in-venice) — Vogue, Oct 22
