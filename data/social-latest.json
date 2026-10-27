@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-26",
+    "id": "social-2026-10-27",
     "mode": "live",
-    "generatedAt": "2026-10-26T18:31:49.988Z",
-    "postsCollected": 28,
+    "generatedAt": "2026-10-27T17:46:42.648Z",
+    "postsCollected": 27,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,15 +44,15 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 67,
-      "confidence": 60,
-      "youthRelevance": 62,
-      "velocity": 0,
-      "evidence": "10 public posts · 1 network · 7-day comparison",
+      "score": 62,
+      "confidence": 58,
+      "youthRelevance": 61,
+      "velocity": -18,
+      "evidence": "9 public posts · 1 network · 7-day comparison",
       "citations": [
         {
-          "title": "Menswear expert exposes 'body odor' detail about Trump's rally suit Menswear expert exposes 'body od",
-          "url": "https://tardigram.com/m/Medicina/t/90689",
+          "title": "A varsity jacket over a grey herringbone suit. I let the blazer hem show below the shorter jacket, w",
+          "url": "https://mastodon.social/@seoul_trad/117510435827971369",
           "network": "Mastodon"
         },
         {
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "28 observations"
+      "reason": "27 observations"
     },
     {
       "id": "bluesky",

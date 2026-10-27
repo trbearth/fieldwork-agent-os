@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-10-26
+# Fieldwork Daily Signal — 2026-10-27
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -15,11 +15,11 @@ Quiet performance is appearing across 2 independent public sources.
 
 ## 2. Decorated basics
 
-**emerging · score 39 · confidence 42% · youth 57%**
+**emerging · score 40 · confidence 41% · youth 57%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-2 observations · 2 independent sources · -50% seven-day velocity
+2 observations · 2 independent sources · -33% seven-day velocity
 
 - [BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette](https://hypebeast.com/2026/10/bedwin-the-heartbreakers-kipsso-buffalo-jacket-release-info) — Hypebeast, Oct 21
 - [The 10 Best Airbnbs in Venice for Canalside Charm](https://www.vogue.com/article/best-airbnbs-in-venice) — Vogue, Oct 22

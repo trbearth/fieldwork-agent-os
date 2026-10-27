@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-26",
+    "id": "2026-10-27",
     "mode": "live",
-    "displayDate": "OCT 26, 2026, 02:31 PM EDT",
-    "generatedAt": "2026-10-26T18:31:39.801Z",
-    "itemsCollected": 45,
+    "displayDate": "OCT 27, 2026, 01:46 PM EDT",
+    "generatedAt": "2026-10-27T17:46:33.332Z",
+    "itemsCollected": 60,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 16
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 17
+        "count": 20
       }
     ]
   },
@@ -56,13 +56,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 39,
-      "confidence": 42,
+      "score": 40,
+      "confidence": 41,
       "youthRelevance": 57,
       "direction": "down",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 4 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · -50% seven-day velocity",
+      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · -33% seven-day velocity",
       "citations": [
         {
           "title": "BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette",
@@ -101,14 +101,14 @@
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "2 mentions this week versus 4 in the prior seven-day window."
+    "reason": "2 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1026",
+    "code": "AUTO 1027",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
