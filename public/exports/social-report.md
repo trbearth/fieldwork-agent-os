@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-27
+# Fieldwork Public Pulse — 2026-10-28
 
 ## 1. Quiet performance
 
@@ -11,18 +11,7 @@
 - [The weather did whatever it wanted up there — sun one minute, clouds swallowing the entire ridge the](https://mastodon.social/@ncknxk/116811779013406421) — Mastodon
 - [Deconstruct, Rebuild, Elevate. - 2nd development [INFUSOR] Infusor reshapes classic designs into fun](https://mastodon.social/@viim/113463751035730077) — Mastodon
 
-## 2. Washed tailoring
-
-**emerging · score 62 · confidence 58% · youth 61%**
-
-9 public posts · 1 network · 7-day comparison
-
-- [A varsity jacket over a grey herringbone suit. I let the blazer hem show below the shorter jacket, w](https://mastodon.social/@seoul_trad/117510435827971369) — Mastodon
-- [A navy double-breasted blazer, a blue Oxford and grey pleated trousers. A green-striped tie adds col](https://mastodon.social/@seoul_trad/117505130972075612) — Mastodon
-- [A navy blazer with gold buttons, a blue Oxford and beige chinos. A striped tie adds colour; the base](https://mastodon.social/@seoul_trad/117494293021269869) — Mastodon
-- [A camel double-breasted coat over an olive-brown blazer and Fair Isle vest. White Oxford, red-and-na](https://mastodon.social/@seoul_trad/117488214097538128) — Mastodon
-
-## 3. Decorated basics
+## 2. Decorated basics
 
 **emerging · score 59 · confidence 50% · youth 100%**
 
@@ -32,6 +21,17 @@
 - [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Ready to make senior year unforgettable? From bold lettering and painted florals to rhinestones and ](https://mastodon.social/@latestfits/117296676441966574) — Mastodon
+
+## 3. Washed tailoring
+
+**emerging · score 59 · confidence 58% · youth 54%**
+
+9 public posts · 1 network · 7-day comparison
+
+- [Charcoal pinstripes, a white Oxford and a red/navy crest tie. The quiet stripe keeps the suit unders](https://mastodon.social/@seoul_trad/117516269136247312) — Mastodon
+- [A varsity jacket over a grey herringbone suit. I let the blazer hem show below the shorter jacket, w](https://mastodon.social/@seoul_trad/117510435827971369) — Mastodon
+- [A navy double-breasted blazer, a blue Oxford and grey pleated trousers. A green-striped tie adds col](https://mastodon.social/@seoul_trad/117505130972075612) — Mastodon
+- [A navy blazer with gold buttons, a blue Oxford and beige chinos. A striped tie adds colour; the base](https://mastodon.social/@seoul_trad/117494293021269869) — Mastodon
 
 ## 4. Archival sportswear
 

@@ -1,38 +1,37 @@
-# Fieldwork Daily Signal — 2026-10-27
+# Fieldwork Daily Signal — 2026-10-28
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Quiet performance
 
-**emerging · score 100 · confidence 49% · youth 79%**
+**emerging · score 68 · confidence 50% · youth 79%**
 
 Quiet performance is appearing across 2 independent public sources.
 
-4 observations · 2 independent sources · +300% seven-day velocity
+4 observations · 2 independent sources · +100% seven-day velocity
 
-- [ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection](https://hypebeast.com/2026/10/thrudark-musto-collection-release-info) — Hypebeast, Oct 23
+- [The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens](https://hypebeast.com/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info) — Hypebeast, Oct 28
 - [Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good](https://www.highsnobiety.com/p/vans-half-cab-gore-tex-insulated-shoes/) — Highsnobiety, Oct 26
 
-## 2. Decorated basics
+## 2. Archival sportswear
 
-**emerging · score 40 · confidence 41% · youth 57%**
-
-Decorated basics is appearing across 2 independent public sources.
-
-2 observations · 2 independent sources · -33% seven-day velocity
-
-- [BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette](https://hypebeast.com/2026/10/bedwin-the-heartbreakers-kipsso-buffalo-jacket-release-info) — Hypebeast, Oct 21
-- [The 10 Best Airbnbs in Venice for Canalside Charm](https://www.vogue.com/article/best-airbnbs-in-venice) — Vogue, Oct 22
-
-## 3. Archival sportswear
-
-**emerging · score 26 · confidence 20% · youth 38%**
+**emerging · score 48 · confidence 25% · youth 65%**
 
 Archival sportswear is appearing across 1 independent public source.
 
-1 observation · 1 independent source · +0% seven-day velocity
+2 observations · 1 independent source · +100% seven-day velocity
 
-- [Jil Sander and PUMA Expand Their Collaboration Into Apparel for FW26](https://hypebeast.com/2026/10/jil-sander-puma-fall-winter-2026-collaboration-collection-release-info) — Hypebeast, Oct 22
+- [adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring](https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info) — Hypebeast, Oct 28
+
+## 3. Decorated basics
+
+**emerging · score 25 · confidence 22% · youth 38%**
+
+Decorated basics is appearing across 1 independent public source.
+
+1 observation · 1 independent source · -67% seven-day velocity
+
+- [The 10 Best Airbnbs in Venice for Canalside Charm](https://www.vogue.com/article/best-airbnbs-in-venice) — Vogue, Oct 22
 
 ## Method note
 

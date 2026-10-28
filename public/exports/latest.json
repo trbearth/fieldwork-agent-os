@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-27",
+    "id": "2026-10-28",
     "mode": "live",
-    "displayDate": "OCT 27, 2026, 01:46 PM EDT",
-    "generatedAt": "2026-10-27T17:46:33.332Z",
-    "itemsCollected": 60,
+    "displayDate": "OCT 28, 2026, 02:10 PM EDT",
+    "generatedAt": "2026-10-28T18:10:48.711Z",
+    "itemsCollected": 56,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 16
+        "count": 9
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
@@ -30,19 +30,19 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 100,
-      "confidence": 49,
+      "score": 68,
+      "confidence": 50,
       "youthRelevance": 79,
       "direction": "up",
       "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +300% seven-day velocity",
+      "whyNow": "4 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
       "citations": [
         {
-          "title": "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
+          "title": "The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens",
           "source": "Hypebeast",
-          "date": "Oct 23",
-          "url": "https://hypebeast.com/2026/10/thrudark-musto-collection-release-info"
+          "date": "Oct 28",
+          "url": "https://hypebeast.com/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info"
         },
         {
           "title": "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good",
@@ -53,23 +53,37 @@
       ]
     },
     {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 48,
+      "confidence": 25,
+      "youthRelevance": 65,
+      "direction": "up",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring",
+          "source": "Hypebeast",
+          "date": "Oct 28",
+          "url": "https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info"
+        }
+      ]
+    },
+    {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 40,
-      "confidence": 41,
-      "youthRelevance": 57,
+      "score": 25,
+      "confidence": 22,
+      "youthRelevance": 38,
       "direction": "down",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · -33% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
       "citations": [
-        {
-          "title": "BEDWIN & THE HEARTBREAKERS x KIPSSO’s “BUFFALO Jacket” Crops the MA-1 Into a ’60s Silhouette",
-          "source": "Hypebeast",
-          "date": "Oct 21",
-          "url": "https://hypebeast.com/2026/10/bedwin-the-heartbreakers-kipsso-buffalo-jacket-release-info"
-        },
         {
           "title": "The 10 Best Airbnbs in Venice for Canalside Charm",
           "source": "Vogue",
@@ -77,42 +91,22 @@
           "url": "https://www.vogue.com/article/best-airbnbs-in-venice"
         }
       ]
-    },
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
-      "youthRelevance": 38,
-      "direction": "flat",
-      "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "Jil Sander and PUMA Expand Their Collaboration Into Apparel for FW26",
-          "source": "Hypebeast",
-          "date": "Oct 22",
-          "url": "https://hypebeast.com/2026/10/jil-sander-puma-fall-winter-2026-collaboration-collection-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "2 mentions this week versus 3 in the prior seven-day window."
+    "reason": "1 mention this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1027",
+    "code": "AUTO 1028",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "ThruDark and Musto Unite for the Technical “Nautikos” Offshore Collection",
+      "The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens",
       "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good"
     ]
   }
