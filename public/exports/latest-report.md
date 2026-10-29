@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-10-28
+# Fieldwork Daily Signal — 2026-10-29
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -15,23 +15,13 @@ Quiet performance is appearing across 2 independent public sources.
 
 ## 2. Archival sportswear
 
-**emerging · score 48 · confidence 25% · youth 65%**
+**emerging · score 26 · confidence 21% · youth 62%**
 
 Archival sportswear is appearing across 1 independent public source.
 
-2 observations · 1 independent source · +100% seven-day velocity
+1 observation · 1 independent source · -50% seven-day velocity
 
 - [adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring](https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info) — Hypebeast, Oct 28
-
-## 3. Decorated basics
-
-**emerging · score 25 · confidence 22% · youth 38%**
-
-Decorated basics is appearing across 1 independent public source.
-
-1 observation · 1 independent source · -67% seven-day velocity
-
-- [The 10 Best Airbnbs in Venice for Canalside Charm](https://www.vogue.com/article/best-airbnbs-in-venice) — Vogue, Oct 22
 
 ## Method note
 

@@ -3447,658 +3447,46 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-29",
+      "mode": "live",
+      "displayDate": "OCT 29, 2026, 02:17 PM EDT",
+      "generatedAt": "2026-10-29T18:17:01.967Z",
+      "itemsCollected": 55,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 8
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 68,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "8aed73f59693d4f8",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Mary Katrantzou Resort 2027",
-      "url": "https://www.vogue.com/fashion-shows/resort-2027/mary-katrantzou",
-      "publishedAt": "2026-07-31T14:15:28.000Z",
-      "collectedAt": "2026-07-31T14:20:29.424Z",
-      "text": "Mary Katrantzou Resort 2027 "
-    },
-    {
-      "id": "3014fbe44221823c",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The 15 Best Haircuts for Straight Hair, Seen on Celebrities",
-      "url": "https://www.vogue.com/article/best-haircuts-for-straight-hair",
-      "publishedAt": "2026-07-31T13:46:15.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "The 15 Best Haircuts for Straight Hair, Seen on Celebrities The best haircuts for straight hair give shape and volume. From blunt bobs to invisible layers, here are the 15 cuts you should consider for your naturally straight hair."
-    },
-    {
-      "id": "e957ce8ac18e6cd2",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
-      "url": "https://www.vogue.com/article/best-celebrity-outfits",
-      "publishedAt": "2026-07-31T13:43:50.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "Shop Our Favorite Celebrity Looks of the Week | Vogue Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away."
-    },
-    {
-      "id": "0d28ab0ddd2656f3",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Merlot! Burnt Cherry! Oxblood! 10+ Burgundy Bags to Add to Your Handbag Collection",
-      "url": "https://www.vogue.com/article/burgundy-bags",
-      "publishedAt": "2026-07-31T12:41:35.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "Merlot! Burnt Cherry! Oxblood! 10+ Burgundy Bags to Add to Your Handbag Collection From rich merlots to burnt cherry to beetroot and everything in between, Fall 2026's runway made a strong case for this hue."
-    },
-    {
-      "id": "2d8ddb99b8929989",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Best Gladiator Sandals Return! Refresh Your Wardrobe With Our Top 18 Picks",
-      "url": "https://www.vogue.com/slideshow/gladiator-sandals",
-      "publishedAt": "2026-07-31T12:39:11.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "The Best Gladiator Sandals Return! Refresh Your Wardrobe With Our Top 18 Picks The shoe has taken on many forms, from Paco Rabanne’s Space Age chic modettes to the bohemian-centric designs patented by Sienna Miller’s iconic festival style."
-    },
-    {
-      "id": "baec3bca2358711f",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Meghan Markle Is Already Wearing Fall’s Most Stylish (and Practical) Shoe",
-      "url": "https://www.vogue.com/article/meghan-markle-fall-practical-shoe",
-      "publishedAt": "2026-07-31T11:00:00.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "Meghan Markle Is Already Wearing Fall’s Most Stylish (and Practical) Shoe Meghan attended a premiere in California wearing city shorts, a light knit and autumn-ready tasselled loafers. A smart addition to city shorts in July, these particular flats will also work hard for your wardrobe once September ushers in that back-to-school mood."
-    },
-    {
-      "id": "b5ac1390e3a060c5",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
-      "url": "https://www.vogue.com/article/best-zara-finds",
-      "publishedAt": "2026-07-31T10:30:00.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "The Best Zara New Arrivals to Shop for Summer 2026 Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week."
-    },
-    {
-      "id": "0b8368421acf3c46",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The 7 Best Airbnbs in Biarritz for a Sun-Soaked Basque Escape",
-      "url": "https://www.vogue.com/article/airbnbs-in-biarritz",
-      "publishedAt": "2026-07-31T10:00:00.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "The 7 Best Airbnbs in Biarritz for a Sun-Soaked Basque Escape Heading to France's Basque coast? Stay in one of the best Airbnbs in Biarritz, and situate yourself right in with the locals."
-    },
-    {
-      "id": "45d62c2221efff71",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Katie Holmes Triples up on Summer It-Bags",
-      "url": "https://www.vogue.com/article/katie-holmes-triples-up-on-summer-it-bags",
-      "publishedAt": "2026-07-31T09:55:10.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "Katie Holmes Triples up on Summer It-Bags Why settle for one it-bag, when you could be schleppin’ around New York City with three of your best? Katie Holmes has the collection to make that happen."
-    },
-    {
-      "id": "8226d38adca42d40",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "url": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "publishedAt": "2026-07-31T09:30:00.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "The Vogue Business Beauty Trend Tracker Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week."
-    },
-    {
-      "id": "5c76bc4c01a8fe82",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "How Sustainability Standards Changed the Trajectory of Copenhagen Fashion Week",
-      "url": "https://www.vogue.com/article/how-sustainability-standards-changed-the-trajectory-of-copenhagen-fashion-week",
-      "publishedAt": "2026-07-31T05:00:00.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "How Sustainability Standards Changed the Trajectory of Copenhagen Fashion Week When CPHFW introduced its minimum sustainability standards in 2020, it hoped the industry would follow. Progress has been slower than expected, but CEO Cecilie Thorsmark remains optimistic."
-    },
-    {
-      "id": "b7113636648889f8",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Scoop With Alta’s Jenny Wang: On Partnering with Rent the Runway",
-      "url": "https://www.vogue.com/article/the-scoop-with-altas-jenny-wang-on-partnering-with-rent-the-runway",
-      "publishedAt": "2026-07-31T04:30:00.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "The Scoop With Alta’s Jenny Wang: On Partnering with Rent the Runway This week’s guest is Jenny Wang, founder of Alta, which is essentially one of the few apps that seem to be succeeding in bringing that mythical Clueless closet to life."
-    },
-    {
-      "id": "81898f98962c3660",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "23 Thoughts I Had Listening to Ariana Grande’s New Album ‘Petal’",
-      "url": "https://www.vogue.com/article/23-thoughts-i-had-listening-to-ariana-grande-petal",
-      "publishedAt": "2026-07-31T04:01:00.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "23 Thoughts I Had Listening to Ariana Grande’s New Album ‘Petal’ Grande sings, “All of my favorite stories end in some kind of catastrophe.” Honestly, same."
-    },
-    {
-      "id": "93c177e86f1d59e2",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "I’m Trading My Hair Mask for Ouai’s Bond Repair Balm",
-      "url": "https://www.vogue.com/article/ouai-bond-repair-balm-review",
-      "publishedAt": "2026-07-31T01:46:37.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "I’m Trading My Hair Mask for Ouai’s Bond Repair Balm To use the Ouai Bond Repair Balm, apply one pump from mid-lengths to ends, let sit for three minutes, then rinse. This simple process is all it takes to repair heat damage, breakage, and split ends."
-    },
-    {
-      "id": "68706b795b5609e6",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "8 Best Face Sculpting Tools to Lift, Tone, Contour",
-      "url": "https://www.vogue.com/article/face-sculpting-tools",
-      "publishedAt": "2026-07-31T01:22:35.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "8 Best Face Sculpting Tools to Lift, Tone, Contour Do facial sculpting tools really work? Experts say yes, but to set realistic expectations. These devices provide a temporary reduction in facial puffiness and more defined appearance, among other things."
-    },
-    {
-      "id": "bea2ce3497d21a44",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Chanel and Lincoln Center Celebrate the BAAND Together Dance Festival",
-      "url": "https://www.vogue.com/slideshow/baand-together-dance-festival-lincoln-center",
-      "publishedAt": "2026-07-30T21:57:50.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "Chanel and Lincoln Center Celebrate the BAAND Together Dance Festival Now in its sixth year thanks to the longstanding support of Chanel, the festival was ushered in by a celebration filled with cocktails and small bites at Lincoln Center’s own culinary hot ticket, chef Kwame Onwuachi’s Afro-Caribbean restaurant Tatiana."
-    },
-    {
-      "id": "58c447565bbf3c77",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "How to Have a Summer Romance: Ruffles, Lace, Chiffon, and More Pieces to Adore",
-      "url": "https://www.vogue.com/article/romantic-summer-clothes",
-      "publishedAt": "2026-07-30T19:49:11.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "How to Have a Summer Romance: Ruffles, Lace, Chiffon, and More Pieces to Adore Love is in the air, but this summer the real romance is with your wardrobe. Lean into the season with dainty, delicate, and feminine pieces that capture its dreamy spirit."
-    },
-    {
-      "id": "55ce8d37054404e3",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "23 Iconic Photographs of Princess Margaret",
-      "url": "https://www.vogue.com/slideshow/stunning-vintage-photographs-of-princess-margaret",
-      "publishedAt": "2026-07-30T19:39:19.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "23 Iconic Photographs of Princess Margaret The late royal was a muse to Cecil Beaton, Slim Aarons, and her photographer husband, Lord Snowdon."
-    },
-    {
-      "id": "3c03449eeabef10d",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Boho Top Trend is Everywhere This Summer—Here’s How to Wear It",
-      "url": "https://www.vogue.com/article/boho-top-trend",
-      "publishedAt": "2026-07-30T19:31:52.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "The Boho Top Trend is Everywhere This Summer—Here’s How to Wear It The boho top is having a romantic summer moment—shop our favorites."
-    },
-    {
-      "id": "602091591565a9e6",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "A Guide to the Los Angeles of Bret Easton Ellis’s ‘Less Than Zero’",
-      "url": "https://www.vogue.com/article/bret-easton-ellis-less-than-zero-los-angeles-guide-vogue-book-club",
-      "publishedAt": "2026-07-30T19:30:24.000Z",
-      "collectedAt": "2026-07-31T14:20:29.425Z",
-      "text": "A Guide to the Los Angeles of Bret Easton Ellis’s ‘Less Than Zero’ “Less Than Zero” may be a tale of teenagers behaving badly, but it also offers a top-notch map of 1980s Los Angeles, from power lunch spots to all-night diners."
-    },
-    {
-      "id": "ff13ec26afeb8803",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "16Arlington Fall 2026 Ready-to-Wear",
-      "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/16arlington",
-      "publishedAt": "2026-07-31T14:15:28.000Z",
-      "collectedAt": "2026-07-31T14:20:29.426Z",
-      "text": "16Arlington Fall 2026 Ready-to-Wear "
-    },
-    {
-      "id": "e807394b5ee56e4e",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Puig Revenues Climb 4.1% in the Second Quarter",
-      "url": "https://www.vogue.com/article/puig-revenues-climb-41-in-the-second-quarter",
-      "publishedAt": "2026-07-30T19:14:03.000Z",
-      "collectedAt": "2026-07-31T14:20:29.426Z",
-      "text": "Puig Revenues Climb 4.1% in the Second Quarter Fragrance and makeup led growth in the second quarter, as the Spanish group gains market share across regions."
-    },
-    {
-      "id": "90e221f73be57150",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Sport Shorts Are The Off-Duty Upgrade Everyone’s Wearing",
-      "url": "https://www.vogue.com/article/sport-shorts-outfit-ideas",
-      "publishedAt": "2026-07-30T19:08:16.000Z",
-      "collectedAt": "2026-07-31T14:20:29.426Z",
-      "text": "Sport Shorts Are The Off-Duty Upgrade Everyone’s Wearing Zoë Kravitz and Hailey Bieber have given the sport shorts their seal of approval, styled with blazers, boho blouses, or pumps. Consider this your cue to lean into the off-duty staple."
-    },
-    {
-      "id": "c35d5b2901db407d",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Now Public, Reformation Is Worth $886 Million. What’s Next?",
-      "url": "https://www.vogue.com/article/now-public-reformation-is-worth-dollar886-million-whats-next",
-      "publishedAt": "2026-07-30T18:56:54.000Z",
-      "collectedAt": "2026-07-31T14:20:29.426Z",
-      "text": "Now Public, Reformation Is Worth $886 Million. What’s Next? The brand, which is testing Wall Street’s appetite for fashion, raised $211 million in its IPO on Thursday. CEO Hali Borenstein shares what happens from here."
-    },
-    {
-      "id": "4ef92515d488ee3a",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Montirex Goes Behind the Grind",
-      "url": "https://www.highsnobiety.com/p/montirex-for-the-moments/",
-      "publishedAt": "2026-07-31T14:18:05.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Montirex Goes Behind the Grind Montirex unveils its Summer 2026 campaign, For The Moments, starring Ben Whittaker, Shakur Stevenson and more, celebrating the journey behind every win."
-    },
-    {
-      "id": "60acb680ea6d0eda",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "This New Balance Collab Is a Trail Shoe, Dad Shoe & Sci-Fi Prototype All In One",
-      "url": "https://www.highsnobiety.com/p/action-bronson-new-balance-2811/",
-      "publishedAt": "2026-07-31T13:19:00.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "This New Balance Collab Is a Trail Shoe, Dad Shoe & Sci-Fi Prototype All In One The New Balance 2811, created in collab with Action Bronson and BAKLAVA, blends trail shoe toughness, dad shoe proportions, and futuristic design into one."
-    },
-    {
-      "id": "86d3c68c0aef6c87",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "This Fresh Cortado Is Brewed to Perfection in Tokyo",
-      "url": "https://www.highsnobiety.com/p/this-fresh-cortado-is-brewed-to-perfection-in-tokyo/",
-      "publishedAt": "2026-07-31T12:13:00.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "This Fresh Cortado Is Brewed to Perfection in Tokyo New Balance's Tokyo Design Studio returns to refine its viral creation with the release of the New Balance TDS MT2 Cortado/Pumpernickel."
-    },
-    {
-      "id": "3e845bc786743268",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike's Milky White Air Rift Stands Two Toes Down",
-      "url": "https://www.highsnobiety.com/p/nike-air-rift-white/",
-      "publishedAt": "2026-07-31T10:47:00.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Nike's Milky White Air Rift Stands Two Toes Down Nike's crisp white Air Rift tabi-style sneaker is so much more than just another pretty face."
-    },
-    {
-      "id": "4f15f583dca048a3",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Only Japanese Racing Nerds Truly Understand This TAG Heuer",
-      "url": "https://www.highsnobiety.com/p/tag-heuer-team-ikuzawa-2026/",
-      "publishedAt": "2026-07-31T10:00:03.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Only Japanese Racing Nerds Truly Understand This TAG Heuer Unlike most $10,500 watches, Team Ikuzawa's TAG Heuer Carrera Chronograph comes in a red mechanics toolbox. And it makes complete sense."
-    },
-    {
-      "id": "0916b6de3870784b",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Vans' Simple Authentic Sneaker Trades the Skatepark For the Tennis Court",
-      "url": "https://www.highsnobiety.com/p/vans-simple-authentic-sneaker-ditches-the-skatepark-for-the-tennis-court/",
-      "publishedAt": "2026-07-31T08:08:22.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Vans' Simple Authentic Sneaker Trades the Skatepark For the Tennis Court Setinn's Vans Authentic Premium sneaker is the missing link between tennis & skateboarding."
-    },
-    {
-      "id": "af39e286388b4b41",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Thought Bad Bunny Was Done Playing With adidas' Soccer Sneaker? Think Again",
-      "url": "https://www.highsnobiety.com/p/adidas-bad-bunny-f50-ghost-sprint/",
-      "publishedAt": "2026-07-31T08:04:20.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Thought Bad Bunny Was Done Playing With adidas' Soccer Sneaker? Think Again The Bad Bunny x adidas F50 Ghost Sprint returns in a striking \"Solar Slime\" finish, dressing the football-inspired silhouette in one of its boldest looks yet."
-    },
-    {
-      "id": "7b00a43c9ee18b9a",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Messi's Demure adidas Handball Joins the Dark Side",
-      "url": "https://www.highsnobiety.com/p/messi-handball-spezial-sneaker-black/",
-      "publishedAt": "2026-07-31T09:11:29.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Messi's Demure adidas Handball Joins the Dark Side Messi's darkest adidas Handball Spezial sneaker doesn't have to be a soccer shoe to kick it."
-    },
-    {
-      "id": "dd9cc2caa7cb4148",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "This Chocolatey Baller Is Nike's Love Letter to the Golden Years",
-      "url": "https://www.highsnobiety.com/p/nike-aj1-love-letter-sneaker/",
-      "publishedAt": "2026-07-31T07:54:03.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "This Chocolatey Baller Is Nike's Love Letter to the Golden Years The new Nike Air Jordan 1 'Love Letter' are truly the devotion to an icon, these sneakers are built for the love of the game."
-    },
-    {
-      "id": "7e25dfa011924f4e",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "To Bring the Best Out of Matthew Williams & 424, Invite Them to Your Birthday",
-      "url": "https://www.highsnobiety.com/p/youll-have-to-go-to-japan-for-424s-most-perfectly-distressed-denim/",
-      "publishedAt": "2026-07-30T21:33:00.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "To Bring the Best Out of Matthew Williams & 424, Invite Them to Your Birthday Japanese luxury streetwear retailer Nubian convinced Matthew M. Williams and 424 to turn their staple pieces into deconstructed perfection."
-    },
-    {
-      "id": "b9dc6b5fc3f526bb",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Argentina May Have Lost, But Messi’s adidas Spezial Brings Home the Silverware",
-      "url": "https://www.highsnobiety.com/p/adidas-spezial-messi-street/",
-      "publishedAt": "2026-07-31T08:01:07.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Argentina May Have Lost, But Messi’s adidas Spezial Brings Home the Silverware The adidas Handball Spezial Messi brings Lionel Messi’s touch to one of adidas’ most iconic terrace silhouettes, adding refined details to a timeless classic."
-    },
-    {
-      "id": "5aac9515fd57f457",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike's Chocolate Shox Sneaker Has Never Looked This Classy. Really",
-      "url": "https://www.highsnobiety.com/p/nike-shox-tl-cacao-wow/",
-      "publishedAt": "2026-07-31T07:52:08.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Nike's Chocolate Shox Sneaker Has Never Looked This Classy. Really Nike’s Shox TL SE “Cacao Wow” gives the divisive silhouette a sophisticated makeover, pairing its futuristic design with a rich chocolate leather finish."
-    },
-    {
-      "id": "869ff28224bcb342",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Finally, a Blundstone Boot for Horse Boys",
-      "url": "https://www.highsnobiety.com/p/blundstone-pop-trading-company/",
-      "publishedAt": "2026-07-30T19:33:00.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Finally, a Blundstone Boot for Horse Boys Amsterdam skatewear brand Pop Trading Company linked with the heritage Aussie shoemaker Blundstone on a hairy pair of cowhide Chelsea boots."
-    },
-    {
-      "id": "8966894258f1ae5a",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Wait, A$AP Rocky’s Fashion Brand Is Real?",
-      "url": "https://www.highsnobiety.com/p/awge-shop-asap-rocky/",
-      "publishedAt": "2026-07-30T18:22:00.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Wait, A$AP Rocky’s Fashion Brand Is Real? A$AP Rocky’s mysterious AWGE project is not a fashion brand. However, it does host fashion shows and has suddenly even started selling its collections."
-    },
-    {
-      "id": "d6283ac13293e8c1",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike’s Chocolate-Covered Air Max Never Made It Out of the Chocolate Factory",
-      "url": "https://www.highsnobiety.com/p/nike-air-max-90-shadow-brown/",
-      "publishedAt": "2026-07-31T07:49:45.000Z",
-      "collectedAt": "2026-07-31T14:20:30.732Z",
-      "text": "Nike’s Chocolate-Covered Air Max Never Made It Out of the Chocolate Factory Nike's chocolate-covered Air Max 90 sneaker is a dusky brown stunner that came straight from Willy Wonka's lab. Golden ticket not included."
-    },
-    {
-      "id": "89c2cd2ee539fe7a",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "New Arrivals From HBX: 424",
-      "url": "https://hypebeast.com/2026/7/new-arrivals-from-hbx-424",
-      "publishedAt": "2026-07-31T14:07:18.000Z",
-      "collectedAt": "2026-07-31T14:20:32.194Z",
-      "text": "New Arrivals From HBX: 424 Brand Information: 424(FourTwoFour) created by Guillermo Andrade, was first an offshoot of Fairfax boutique, a store located in the central region of Los Angeles, California. With its distinctive red armband, 424 has become the go-to brand for Instagram influencers worldwide. The high-end streetwear label is famous with its denim jeans or jacket in crash as well as its red armband. While the armband “speaks of the foul abuse of authority and gross neglect of police brutality”, becomes the signature collection of the brand and worn by celebrities like Kylie Jenner, Jeff Green, TYGA, to name a few.Price Range: $205.00 USD - $1,250.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "892657f878251aa7",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "A Closer Look at What to Expect in ‘NBA 2K27’",
-      "url": "https://hypebeast.com/2026/7/nba-2k27-gameplay-trailer-release-info",
-      "publishedAt": "2026-07-31T12:53:59.000Z",
-      "collectedAt": "2026-07-31T14:20:32.194Z",
-      "text": "A Closer Look at What to Expect in ‘NBA 2K27’ For the upcoming release of NBA 2K27, gaming publisher 2K has launched a dedicated trailer capturing the action and graphics of the latest video game. The premiere of the trailer comes after last week’s announcement of the game’s new cover athletes. On a trilogy of images, San Antonio Spurs Center Victor Wembanyama was unveiled as headliner for the Standard edition, three-time WNBA All-Star starter Caitlin Clark landed in the visuals for the Deluxe edition, while Derrick Rose, the Chicago Bulls star and youngest MVP in NBA history, headed up the Ultra edition campaign. Bringing fans in for a closer look at the game, the trailer showcases clips of the basketballers on the court alongside Philadelphia 76ers’ latest signing, LeBron James, and new Miami Heat acquisition, Giannis Antetokounmpo. The graphics and gameplay also appear to have become more dynamic compared to NBA 2K26 with the introduction of a timed dunk meter as well as AI Defenders that bring precision to contesting shots. Other features not seen in the trailer include the addition of 19 new badges in the MyPLAYER Builder and the return of Cap Breakers, which can now be previewed and optimized before competitions. Beyond the court, the gaming publisher has unveiled several updates to The City setting. One of these is the arrival of the iconic street basketball landmark, Rucker Park, which lands amongst The REC, Arena, and other key locations to add another layer of basketball culture to the simulation game. Watch the full gameplay trailer in the gallery above, and be sure to stay tuned to Hypebeast for more on the video game.NBA 2K27 is available to buy on September 4, 2026, with early access to the special edition beginning August 28. Head to the 2K website to find out more about how to purchase. Read more at Hypebeast"
-    },
-    {
-      "id": "e372dbebeac91f23",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Palace Skateboards Reveals Fall 2026 Lookbook",
-      "url": "https://hypebeast.com/2026/7/palace-skateboards-fall-2026-lookbook-preview",
-      "publishedAt": "2026-07-31T06:31:26.000Z",
-      "collectedAt": "2026-07-31T14:20:32.194Z",
-      "text": "Palace Skateboards Reveals Fall 2026 Lookbook Summary Palace Skateboards unveils its Fall 2026 lookbook, spanning a range of workwear and technical outerwear.Highlights include an Avirex leather jacket, GORE-TEX pieces and Betty Boop collaboration.The collection rolls out globally starting August 7. Palace has officially unveiled its Fall 2026 lookbook, delivering an expansive preview of the brand's upcoming seasonal offerings. The upcoming seasonal range merges industrial workwear, high-performance technical outerwear, nostalgic pop-culture graphics and devotional iconography into a versatile, transition-ready lineup.Outerwear stands as a major highlight of the range, anchored by heavy-duty fabrications and collaborative pieces. Leading the lineup is a standout partnership with Avirex, yielding a heavy leather jacket decorated with a winged Eagle skull emblem and co-branded gothic typography across the back. Weather-ready functional pieces return via multi-paneled GORE-TEX jackets featuring woodland camouflage, contrasting blue trim and vibrant yellow zippers. Utility styles are further reinforced through civil-inspired workwear jackets under the \"Palace Transport Co.\" moniker -- a tongue-in-cheek reimagining of the iconic Yamato Transport logo.Palace's graphic repertoire remains as eclectic as ever, anchored by an official collaboration with Fleischer Studios featuring Betty Boop, complete with \"Palace XO\" heart graphics and the classic cartoon character donning a Tri-Ferg shirt. Religious motifs make a strong statement through \"24/7 POWER\" and \"HIGHWAY TO HAVEN\" designs, including hoodies adorned with multi-colored neon embroidery of the Virgin Mary. Collegiate prep receives a dark update with Old English varsity jackets and co-branded New Era caps featuring embroidered laurels on the brim, while sports aesthetics are reinterpreted through all-over leopard print mesh jerseys with digital-font logos and textured grid-stitched denim sets.The Palace Skateboards Fall 2026 collection will roll out through the brand's weekly drop format starting August 7, 2026. Releases will be accessible in-store and online across the UK, Europe, and the US at 11 a.m. BST / 11 a.m. EDT, alongside availability at flagship stores and Dover Street Market outposts. A subsequent release in Japan, Korea, China and Australia will follow on August 8 at 11 a.m. local time. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "b16305679fcc07b0",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Karol G's 'Tropicoqueta' Only Wears Reebok",
-      "url": "https://hypebeast.com/2026/7/karol-g-reebok-born-classic-worn-together-campaign-interview",
-      "publishedAt": "2026-07-31T13:57:57.000Z",
-      "collectedAt": "2026-07-31T14:20:32.194Z",
-      "text": "Karol G's 'Tropicoqueta' Only Wears Reebok Karol G and Reebok are celebrating the power of Classics with \"Born Classic. Worn Together.\", the latest chapter in her sneaker-forward Tropicoqueta era. As she takes the \"Viajando Por El Mundo TropiTour\" across the globe, the Colombian artist is stepping on stage in classic Reebok silhouettes. \"La Bichota\" announced her footwear ambassadorship in January 2026 and awaits her first collaborative line set to launch next year. Now, Karol G and Reebok officially unveil the \"Born Classic. Worn Together.\" campaign, celebrating the power of music, style, and movement to bring communities together.Shot in Mexico City, the campaign captures the vibrant spirit of her Tropicoqueta era through warm sunset tones and timeless Reebok Classics. \"Tropicoqueta is about celebration, connection, and embracing your most authentic self, so it felt very special to bring that energy into this campaign. The visuals, the colors, the movement, and the people all reflect that same feeling of joy and freedom.\"We caught up with Karol G to talk about \"Born Classic. Worn Together.\", her partnership with Reebok, and how she's taking her favorite kicks on tour.Why did you choose to join the Reebok family, and how does the brand align with your personal style?\"Joining the Reebok family felt very natural because the brand has always represented authenticity, individuality, and self-expression. I’ve always believed that style is about showing who you are and feeling confident in what you wear, and that’s something I connect with deeply. Reebok allows people to express themselves in their own way, and I love being part of that.\"How are you merging Colombia and Reebok through the \"Born Classic, Worn Together\" campaign?\"For me, Colombia is a huge part of who I am, and I carry my culture with me everywhere I go. This campaign felt special because it celebrates the things that bring people together: music, style, movement, and shared experiences. I love being able to represent where I come from while connecting with people from different cultures and backgrounds around the world.\"How does your latest Reebok campaign celebrate your recent Tropicoqueta album?\"Tropicoqueta is about celebration, connection, and embracing your most authentic self, so it felt very special to bring that energy into this campaign. The visuals, the colors, the movement, and the people all reflect that same feeling of joy and freedom. It’s about celebrating individuality while also"
-    },
-    {
-      "id": "98c7c21ba1c9a477",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Vollebak’s Ultra-Limited FWAHBL Jacket is Made From Chemical Protection Gear",
-      "url": "https://hypebeast.com/2026/7/vollebaks-ultra-limited-fwahbl-jacket-is-made-from-chemical-protection-gear",
-      "publishedAt": "2026-07-31T11:18:18.000Z",
-      "collectedAt": "2026-07-31T14:20:32.195Z",
-      "text": "Vollebak’s Ultra-Limited FWAHBL Jacket is Made From Chemical Protection Gear Summary Vollebak drops the hazard-yellow FWAHBL Jacket, limited to 10 pieces worldwide and priced at $3,995 USD.Engineered from double-faced polychloroprene rubber by Fothergill to resist chemicals, flame, and extreme weather.Comes in retro video game packaging alongside a comic book, trailer and upcoming video game. Experimental gear maker Vollebak has released the FWAHBL (For When All Hell Breaks Loose) Jacket, a limited-edition trench coat engineered from high-grade chemical-suit material.Strictly capped at just 10 pieces worldwide and finished entirely in a striking hazard yellow, the jacket is constructed from double-faced polychloroprene rubber coated over a woven polyester core. The ultra-durable textile is produced by Fothergill - a historic British manufacturer supplying protective gear to the military since 1847 - and is specifically designed to resist oils, ozone, weathering, flame and chemical exposure. Built to tackle extreme weather with a touch of existential dread, the coat comes packaged inside its own custom garment bag crafted from the very same chemical-suit fabric.Beyond its construction, the FWAHBL Jacket arrives as part of a larger fictional universe. Each piece ships in retro video game-inspired packaging, accompanied by a Marvel-style comic strip and a film-style trailer, with a playable game currently in development. This narrative-driven approach transforms the jacket into more than functional apparel — it becomes a collectible artifact that merges fashion, gaming, and storytelling. While not certified safety equipment, the jacket is designed for extreme weather and existential dread, reflecting Vollebak’s ethos of creating clothing for the challenges of the future.Priced at $3,995 USD, the FWAHBL Jacket is available via Vollebak's official website.&nbsp;View this post on Instagram&nbsp;A post shared by Vollebak (@vollebak) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "d88605903f831532",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "A Closer Look at ANT KAI’s Custom ASICS GEL-KAYANO 14 “MOSS”",
-      "url": "https://hypebeast.com/2026/7/ant-kai-custom-asics-gel-kayano-14-moss-images",
-      "publishedAt": "2026-07-31T11:18:15.000Z",
-      "collectedAt": "2026-07-31T14:20:32.195Z",
-      "text": "A Closer Look at ANT KAI’s Custom ASICS GEL-KAYANO 14 “MOSS” Name: ASICS GEL-KAYANO 14 “MOSS”Colorway: “MOSS”SKU: N/AMSRP: N/ARelease Date: N/ARenowned footwear artist ANT KAI has unveiled a custom take on the ASICS GEL-KAYANO 14, dubbed “MOSS.” This handcrafted design reimagines the runner’s aesthetic with a finish inspired by moss-covered rocks, blending organic textures with technical construction.The sneaker’s gray mesh base is layered with a burlap-like fabric, serving as the canvas for hand-stitched moss embroidery. ASICS’ iconic Tiger Stripes are reinterpreted in moss-textured material along the lateral sides, extending onto the toe to complete the botanical motif.To balance the lush, natural elements, metallic silver overlays are intentionally distressed with scuffed marks, adding a rugged layer of patina and wear to the design. The bespoke sneaker is completed with heavy-duty rope laces and painted, mismatched heel panels that thoughtfully complement the overall color palette. View this post on InstagramA post shared by ANT KAI (@ant.kai) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "a70af83e9b63c206",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Air Jordan 1 Mid TD Cleat Gets Hit With \"Electric Green\"",
-      "url": "https://hypebeast.com/2026/7/air-jordan-1-mid-td-cleat-electric-green-fj6805-300-release-info",
-      "publishedAt": "2026-07-31T06:09:38.000Z",
-      "collectedAt": "2026-07-31T14:20:32.195Z",
-      "text": "Air Jordan 1 Mid TD Cleat Gets Hit With \"Electric Green\" Summary Jordan Brand has released the Air Jordan 1 TD Cleat in an eye-catching \"Electric Green\" colorwayThe football pack includes both Air Jordan 1 Mid TD and Low TD iterationsFeatures include synthetic leather uppers wide stud placement and external traction pods Name: Air Jordan 1 Mid TD Cleat \"Electric Green\"Colorway: Electric Green/WhiteSKU: FJ6805-300MSRP: $155 USDRelease Date: Available NowWhere to Buy: NikeJordan Brand has officially released the Air Jordan 1 TD Cleat \"Electric Green\" Pack, bringing high-voltage energy to the gridiron. The vibrant release translates the iconic AJ1 basketball silhouette into performance-ready Mid and Low football cleat options.Dressed in a striking Electric Green and White color palette, the cleats utilize a durable synthetic leather upper designed to resist abrasion during intense play. The design retains classic Air Jordan 1 paneling and signature branding reimagined specifically for football. Underfoot, the cleat plate features wide stud placements engineered for fast cuts and agility, paired with external pods that deliver optimal traction across turf surfaces.The Air Jordan 1 TD Cleat \"Electric Green\" Pack is available now via Nike and select Jordan Brand retailers. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "d36866e7ccd4de2f",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Disney+ Cancels Marvel's 'Wonder Man' Despite Earlier Season 2 Renewal",
-      "url": "https://hypebeast.com/2026/7/disney-cancels-marvel-wonder-man-despite-earlier-season-2-renewal-news",
-      "publishedAt": "2026-07-31T04:17:27.000Z",
-      "collectedAt": "2026-07-31T14:20:32.195Z",
-      "text": "Disney+ Cancels Marvel's 'Wonder Man' Despite Earlier Season 2 Renewal Summary Disney+ has canceled Marvel Studios' 'Wonder Man' despite an earlier Season 2 renewalAccording to reports a writers' room was never opened and the writing staff has been releasedCharacters from the eight-episode show could still appear in future Marvel Cinematic Universe projects Disney+ has reportedly canceled Marvel Studios' Wonder Man despite formally renewing the series for a second season back in March. The streaming service rescinded its Season 2 order for the Yahya Abdul-Mateen II-led superhero series.Variety recently received reports from insiders that a writers' room for the second season was never opened, and the show's writers have been released to pursue other projects. Created by Destin Daniel Cretton and Andrew Guest, the eight-episode freshman season starred Yahya Abdul-Mateen II as Simon Williams alongside Ben Kingsley as Trevor Slattery. Despite earning an Emmy nomination for Abdul-Mateen II and strong critical acclaim, Disney+ ultimately opted not to move forward with production.While the series will not return for a second installment, sources report that characters featured in Wonder Man could still appear in future Marvel Cinematic Universe projects down the line. Abdul-Mateen received an Emmy nomination for his role in this shoe for outstanding lead actor in a comedy series. The show also initially debuted with a 91% critical approval rating. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "f5f40ae9b6330a28",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Spotify Introduces New \"User Notes\" Feature for In-App Music Journaling",
-      "url": "https://hypebeast.com/2026/7/spotify-user-notes-turn-playlists-into-journals",
-      "publishedAt": "2026-07-31T09:04:43.000Z",
-      "collectedAt": "2026-07-31T14:20:32.195Z",
-      "text": "Spotify Introduces New \"User Notes\" Feature for In-App Music Journaling Summary Spotify introduced \"User Notes\" to let listeners attach personal memories and custom captions directly to individual songs within their playlists.The journaling feature transforms standard audio collections into digital scrapbooks that document where and why users discovered specific tracks.The tool is available to free and premium subscribers aged 16 and older in select markets and remains visible to anyone who can view the targeted playlist. Spotify officially launched \"User Notes\" to allow listeners to attach custom captions and personal memories directly to individual tracks within their playlists. The global streaming service designed the update to provide audiences with a dedicated space for music journaling. Listeners can now permanently document the specific reasons why a song holds significance. The platform aims to preserve the emotional connections tied to everyday listening habits.The functionality encourages users to record the exact context behind a particular musical discovery or playlist addition. An individual could highlight hearing a specific track while exploring the streets of Paris on vacation or note that a song played constantly during a memorable first date. By allowing users to capture these distinct life events, the application shifts standard playlists from simple audio collections into highly personalized digital scrapbooks. Spotify stated that these annotations will gradually paint a detailed picture of the music listeners love and the unique moments that shaped those preferences.Navigating the interface involves a straightforward process for anyone utilizing the application. Listeners must first open a playlist they created themselves or access a collection containing tracks they manually added. Tapping the three-dot menu located next to a chosen song reveals a new option to add a note. The interface then opens a text box where the user can type their memory before saving the caption. These customized annotations immediately become visible to anyone who possesses permission to view the broader playlist. The system also automatically links the creator's display name directly to their public profile alongside the published text.This specific product launch heavily reflects broader company efforts to deepen user engagement through extreme personalization. The journaling mechanism actively helps Spotify differentiate its core offering from industry ri"
-    },
-    {
-      "id": "957df9460271dec1",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Netflix and AMC Ink $500 Million USD Deal to Co-Stream Entire ‘The Walking Dead’ Universe",
-      "url": "https://hypebeast.com/2026/7/netflix-amc-ink-500-million-deal-to-co-stream-entire-the-walking-dead-universe",
-      "publishedAt": "2026-07-31T06:11:07.000Z",
-      "collectedAt": "2026-07-31T14:20:32.195Z",
-      "text": "Netflix and AMC Ink $500 Million USD Deal to Co-Stream Entire ‘The Walking Dead’ Universe Summary Netflix and AMC Global Media have struck a $500 million USD co-exclusive licensing deal for the entire 'The Walking Dead' franchiseThe five-year pact covers 371 episodes across the original show and all six spinoff series starting in 2027Under the new agreement AMC+ will stream the flagship series for the first time while Netflix expands international access Netflix and AMC Global Media have officially inked a five-year, $500 million USD co-exclusive global licensing deal to share streaming rights for the complete The Walking Dead universe. The massive agreement covers 371 episodes across the flagship series and all six spinoffs starting in 2027.The unprecedented partnership covers the original The Walking Dead alongside Fear the Walking Dead, The Walking Dead: Daryl Dixon, The Walking Dead: Dead City, The Walking Dead: The Ones Who Live, The Walking Dead: World Beyond, and Tales of The Walking Dead. Under the terms of the agreement, AMC+ will stream the original flagship series for the first time after Netflix held exclusive U.S. streaming rights since 2011.In addition to maintaining its U.S. presence, Netflix will expand availability for the full television franchise across international territories, including the U.K., Italy, Australia, and New Zealand, as existing regional licensing deals expire.The complete The Walking Dead universe begins streaming co-exclusively on Netflix and AMC+ in 2027. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "36edacf888e76b6d",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Samsung Electronics Posts Record $62 Billion USD Operating Profit Driven by AI Boom",
-      "url": "https://hypebeast.com/2026/7/samsung-electronics-q2-2026-profit-surges-on-ai-chips",
-      "publishedAt": "2026-07-31T08:42:31.000Z",
-      "collectedAt": "2026-07-31T14:20:32.195Z",
-      "text": "Samsung Electronics Posts Record $62 Billion USD Operating Profit Driven by AI Boom Summary Samsung Electronics reported a record Q2 2026 operating profit of approx. $62 billion USD, driven by surging AI demand.Stock prices fell despite earnings due to heavy capital spending and rising competition from Chinese semiconductor firms. Samsung Electronics has achieved unprecedented financial milestones for the second quarter of 2026. The conglomerate reported a record operating profit of ₩89.5 trillion KRW ($62 billion USD) alongside an all-time high revenue of ₩171.5 trillion KRW ($119 billion USD). This monumental growth stems directly from the ongoing global artificial intelligence boom. Crosstown rival SK Hynix similarly capitalized on the frenzy by posting its own record revenue of ₩60.5 trillion KRW. Together, the two giants control roughly two-thirds of the global memory chip market and are aggressively steering production to meet skyrocketing demand for high-bandwidth memory components.Despite these historic earnings, both manufacturers saw their stock prices tumble on the volatile South Korean exchange this week. Investors are reportedly growing anxious about the massive capital expenditures required to increase manufacturing capacity. Fears are also mounting over intensifying competition from China following reports of state-owned enterprises mass-producing advanced lithography machines. The recent market debut of Chinese competitor ChangXin Memory Technologies further amplified these anxieties among shareholders.To mitigate long-term market risks and secure captive demand, Samsung is locking corporate clients into multi-year supply agreements. Corporate representatives indicated that these contracts will secure up to 70 percent of the brand's total DRAM supply as experts forecast semiconductor shortages persisting through 2028. The strategy aims to shield the chipmaker from future demand fluctuations while guaranteeing major tech entities reliable access to essential AI infrastructure.Production capabilities are expanding internationally to support this aggressive roadmap. Samsung plans to begin construction on a second semiconductor fabrication plant in Taylor, Texas later this year with a target operational date of 2030. South Korean leadership is also stepping in to cement these tech alliances. President Lee Jae Myung recently traveled to San Francisco alongside executives from Samsung and SK to finalize extensive cooperation agreements with major"
-    },
-    {
-      "id": "2984eb56d5506cd8",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Leaked 25-Page Sales Deck Reveals FIFA's Plan to Sell 20% Commercial Stake",
-      "url": "https://hypebeast.com/2026/7/fifa-forward-enterprise-pitch-spurs-uefa-boycott-threat",
-      "publishedAt": "2026-07-31T08:42:28.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "Leaked 25-Page Sales Deck Reveals FIFA's Plan to Sell 20% Commercial Stake Summary A leaked FIFA commercia deck proposed selling a 20% stake in a new commercial entity to American investor Joshua Kushner for $20 million USD sign-up payments per federation.The proposal relies on expanding global events from 200 to 450 annually, triggering severe concerns regarding player burnout and scheduling congestion. A confidential 25-page sales deck has exposed an aggressive commercial roadmap for world football. The prospectus reveals a proposal from the governing body to sell a 20 percent stake in its commercial operations to American investor Joshua Kushner. Drafted by the same bank behind the failed European Super League, the document outlines the creation of a new commercial entity dubbed FIFA Forward Enterprise. To secure backing from 211 member associations, executives have offered an immediate $20 million USD sign-up payment. Projected distributions would subsequently rise to $24 million USD per cycle by 2035. The overarching goal centers on bridging a perceived revenue gap. The pitch compares current global football earnings unfavorably to major domestic franchises like the NFL to argue the organization remains undermonetized.Unlocking that promised capital requires a massive overhaul of the international sporting calendar. The growth strategy relies heavily on expanding the tournament portfolio from 200 to 450 global events each year. Such a drastic increase raises immediate concerns regarding extreme player burnout and scheduling congestion. Financial growth would also stem from higher ticket prices, prioritized high-yield partnerships and a pivot toward subscription-based broadcasting models for major tournaments. Critics have been quick to question the logic of the financial restructuring. Senior football figures noted the absurdity of taking on third-party debt financing when the organization currently holds around $4 billion in cash reserves and boasts accumulated revenues of $15 billion USD over the current four-year cycle.President Gianni Infantino set a firm September 19, 2026, deadline for member associations to accept the deal. The ultimatum sparked immediate mutiny across the highest levels of the sport. European governing body UEFA announced a unanimous rejection of the plan and threatened a total boycott of all connected competitions until the proposal is completely abandoned. The organization condemned the idea of subjecting the sport to perman"
-    },
-    {
-      "id": "bfe090b641056af8",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "A Rare Porsche Carrera GT Finished in Ferrari’s 'Rosso Fuoco' Red Heads to Auction",
-      "url": "https://hypebeast.com/2026/7/porsche-carrera-gt-rosso-fuoco-heads-to-monterey",
-      "publishedAt": "2026-07-31T08:07:29.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "A Rare Porsche Carrera GT Finished in Ferrari’s 'Rosso Fuoco' Red Heads to Auction Summary A rare 2005 Porsche Carrera GT finished in Ferrari’s iconic Rosso Fuoco red is heading to Mecum Monterey.Featuring a bare-tub repainting, the 3,471-mile supercar retains its original 603-horsepower naturally aspirated V10 and six-speed manual.Driven by a boom in unique specification supercars, similar low-mileage models regularly command between $2 million and $3.5 million USD. The 2005 Porsche Carrera GT represents a high-water mark for analogue supercars. Now a distinctly unique example of the legendary vehicle is heading to the auction block. One of only 644 units originally delivered to the US, this specific Carrera GT was meticulously stripped to its bare carbon fiber tub for a concours-quality repaint by Karosserie in Wayne, Pennsylvania. The project utilized modern triple-layer paint technology to apply a striking Rosso Fuoco finish. The metallic red shade replaces the car's original GT Silver factory paint to create a rare visual crossover between Porsche engineering and Ferrari aesthetics.Noted Ferrari enthusiast Milton Verret commissioned the transformation. Blending the signature hue of the Prancing Horse with a flagship Stuttgart silhouette could easily misfire. However, the custom exterior perfectly highlights the aggressive lines of the German supercar. Beyond the intensive three-month exterior overhaul, the interior remains immaculate. The cabin features pristine black leather seating alongside the iconic lightweight carbon fiber shift knob. The factory-original hydraulic rear spoiler actuators were also updated with a specially engineered electrical system to ensure modern reliability.Underneath the removable roof panels, the vehicle retains its original Formula 1-derived 5.7-liter naturally aspirated V10 engine. The powerplant delivers 603 horsepower and 435 lb-ft of torque directly to the rear wheels through a six-speed manual transmission and a two-disc ceramic dry clutch. Stopping power comes courtesy of four-wheel ventilated carbon ceramic disc brakes paired with six-piston fixed alloy calipers. With just 3,471 miles on the odometer, the mechanical components remain preserved and ready for open-air driving.Scheduled to cross the block as Lot S74 at the Mecum Monterey auction on August 15, 2026, the customized vehicle arrives during a major surge in Carrera GT market demand. While the vast majority of original models left the factory in standard s"
-    },
-    {
-      "id": "b62b5390d581c1e4",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Sotheby's Maison Presents Major Yayoi Kusama Career Retrospective Exhibition",
-      "url": "https://hypebeast.com/2026/7/sothebys-maison-hong-kong-yayoi-kusama-career-retrospective-exhibition-info",
-      "publishedAt": "2026-07-31T06:12:15.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "Sotheby's Maison Presents Major Yayoi Kusama Career Retrospective Exhibition Summary Sotheby's Salon in Hong Kong presents a major exhibition celebrating the seven-decade career of artist Yayoi KusamaThe curated showcase features rare works spanning the 1950s to 2010s across three thematic sectionsThe exhibition is currently open at Sotheby's Maison through August 20, 2026 Sotheby’s Salon has officially opened a major exhibition celebrating legendary Japanese artist Yayoi Kusama at 1/F, Sotheby’s Maison in Hong Kong's The Landmark. Tracing seven decades of influential output, the retrospective highlights paintings, works on paper, and screenprints spanning from the 1950s to the 2010s.Organized into three distinct thematic sections—Nature and Nurture, Fauna and Flora, and The Urban and Pop—the exhibition charts Kusama's artistic evolution from her formative years in Japan through her groundbreaking period in the United States and her return home. Key early highlights include The Pacific Ocean No. A.B.X. (1959), a rare ink, pastel, and gouache work executed shortly after her arrival in New York.The showcase also features canvas pieces such as Sunset Grapes (1988), which transforms organic forms into vibrant patterns of repetition, and the rarely seen Handbag (1984), demonstrating her engagement with consumer culture, fashion, and everyday objects. Together with examples of her celebrated Infinity Nets, pumpkins, and floral imagery, the selection offers a comprehensive view of the artist's enduring visual universe.The Yayoi Kusama exhibition is currently open to the public at 1/F, Sotheby’s Maison, running through August 20, 2026.Sotheby's Maison1/F, LANDMARK CHATER8 Connaught Road CentralCentral, Hong Kong Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "e9dc9ff04be0128c",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "PARCO Unveils Its 2026 Fall/Winter Campaign, \"NOSTALGIC FUTURE\"",
-      "url": "https://hypebeast.com/2026/7/parco-2026-fall-winter-campaign-nostalgic-future-info",
-      "publishedAt": "2026-07-31T07:50:24.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "PARCO Unveils Its 2026 Fall/Winter Campaign, \"NOSTALGIC FUTURE\" PARCO, which not only operates fashion buildings in Japan but also promotes cutting-edge culture through venues such as theaters, cinemas, and live music halls, has unveiled its advertising campaign for the Fall/Winter 2026 season built around the concept of \"NOSTALGIC FUTURE.\"Serving as creative director is Christophe Brunnquell, one of Europe's foremost creatives, who spent 15 years as the founding art director of Purple, the storied independent French fashion magazine. At the heart of the \"NOSTALGIC FUTURE\" concept is LE COEUR JAPONAIS (The Japanese Heart), a book published in 1927 by Brunnquell's great-grandfather, the philosopher and writer Félicien Challaye. Written after Challaye's travels through Japan, the book reflects his fascination with the spirituality and virtues of the Japanese people. Its enduring portrait of the Japanese spirit, along with its ideas connecting West and East, memory and future, forms the creative foundation of this campaign nearly a hundred years later.The campaign is set within a Western-style mansion on the outskirts of Paris. Casting both Eastern and Western models, and framing them amid scattered books, sculptures that carry a sense of history, and antique furniture, the visuals fuse elements drawn from the past with staging that looks toward the future, constructing a world that belongs to no single era. The result is imagery in which distinct timelines appear to intersect within a single frame. Equally striking is the way the passage of time is expressed through color, shifting from autumnal looks centered on ecru and navy toward winter looks defined by deep reds and magentas.Speaking about the project, Brunnquell commented, \"I believe the future is always built from memories, traditions, and stories that existed before us.\" He described nostalgia not as a simple act of looking back, but as \"a creative force for imagining the future,\" explaining that he built the campaign by weaving together his own roots and his respect for Japanese culture.Taking a single book written nearly 100 years ago as its point of departure, PARCO's 2026 Fall/Winter campaign, \"NOSTALGIC FUTURE,\" presents a worldview that moves fluidly across past and future, West and East. Additional videos and visuals are available on the special campaign website and PARCO's official YouTube channel. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "491f01952130fd45",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Cactus Jack Launches Exclusive Clothing Capsule for ‘The Odyssey’ and IMAX",
-      "url": "https://hypebeast.com/2026/7/travis-scott-cactus-jack-the-odyssey-imax-exclusive-capsule-collaboration-release-info-2",
-      "publishedAt": "2026-07-31T07:49:43.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "Cactus Jack Launches Exclusive Clothing Capsule for ‘The Odyssey’ and IMAX Summary Cactus Jack x The Odyssey x IMAX capsule launches with apparel tied to Travis Scott’s short film.Collection includes two tees, a long sleeve and a tote, retailing $55 – $75 USD, available for one week only. Cactus Jack has launched an exclusive capsule collection in collaboration with Christopher Nolan's The Odyssey and IMAX, coinciding with the premiere of Travis Scott’s self-directed short film for “When I’m Home” – a track featuring James Blake and Ludwig Göransson that soundtracks the end credits of the film.Available for a strictly limited one-week window exclusively via Cactus Jack's online store, the drop interprets the cinematic language of The Odyssey through the brand's graphic-heavy aesthetic. The range includes two T-shirts, a long-sleeve and a tote bag, with select pieces featuring IMAX branding and references to the groundbreaking format used in the film.While apparel anchors the capsule, footwear plays a supporting but notable role. Travis Scott collaborated with Nike to create two exclusive silhouettes for the film’s cast and crew: the Cactus Jack x The Odyssey x Nike Moon Shoe abd the ACG Moc. Though these shoes are not available to the public, they underscore the capsule’s thematic depth and highlight Scott’s ability to merge narrative storytelling with product design.The apparel pieces from the Cactus Jack x The Odyssey x IMAX capsule are now available via the brand's website, retailing between $55 - $75 USD. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "27c976ec6f105c03",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "LinkedIn Introduces New \"Seems Like AI Slop\" Reporting Button to Combat Feed Spam",
-      "url": "https://hypebeast.com/2026/7/linkedin-adds-seems-like-ai-slop-reporting-button",
-      "publishedAt": "2026-07-31T07:33:02.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "LinkedIn Introduces New \"Seems Like AI Slop\" Reporting Button to Combat Feed Spam Summary LinkedIn launched a user reporting tool that allows members to flag feed content as \"Seems like AI slop\" to combat machine-generated spam.The platform is officially retiring its AI-driven post enhancement feature and introducing a proofreading tool that preserves the original author's voice.New backend classifiers and profile verification rollouts aim to clean up the professional network after reports showed massive spikes in automated posts. LinkedIn is officially pushing back against the flood of machine-generated feed spam. The professional networking platform rolled out a new reporting button that allows users to flag content specifically as \"Seems like AI slop.\" Tucked inside the standard three-dot menu on any post, the tool lets human readers police the timeline. The move marks a direct response to a growing cultural frustration with synthetic engagement bait that has increasingly dominated the site.Chief Product Officer Hari Srinivasan announced the measures directly, noting that authentic human connection remains the core focus for the company. To support the user-facing reporting button, LinkedIn is ramping up backend classifiers designed to detect low-quality automation before it hits the feed. The system is already working overtime. According to Srinivasan, the platform currently blocks hundreds of thousands of automated comment attempts daily and has thwarted billions of broad automation actions over the past few months alone.The company is also walking back some of its own previous AI integrations. LinkedIn is removing a tool that offered to \"enhance\" user posts with artificial intelligence. In its place, the platform will introduce a standard proofreading feature built to check spelling and grammar while preserving the original voice of the author. For creators, the backend analytics dashboard will soon test a private flagging system. If multiple users report a specific post as inauthentic or heavily reliant on AI, the original author will receive a quiet notification.The anti-slop campaign arrives just as third-party data paints a stark picture of the network's current state. A recent study by AI detection firm Pangram revealed that 41 percent of long-form posts on LinkedIn registered as completely machine-written. By crowdsourcing the identification process, the platform aims to better train its internal models to recognize the constantly evolving aest"
-    },
-    {
-      "id": "0db28e75bcb35306",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "First Look at the Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\"",
-      "url": "https://hypebeast.com/2026/7/kobe-bryant-nike-air-force-1-low-dodgers-first-look-wolf-grey-rush-blue-iq3920-001-release-info",
-      "publishedAt": "2026-07-31T06:11:39.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "First Look at the Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\" Summary Nike is extending Kobe Bryant’s Protro lineage off the court with an LA Dodgers-inspired Air Force 1 LowThe iteration features a Wolf Grey upper paired with vibrant Rush Blue accents and snakeskin textureThe shoe also features signature Kobe Bryant branding details throughout Name: Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\"Colorway: Wolf Grey/Rush BlueSKU: IQ3920-001MSRP: $150 USDRelease Date: August 15, 2026Where to Buy: NikeNike and the Kobe Bryant estate are reportedly expanding the Mamba footwear lineup with the Nike Air Force 1 Low Protro \"Dodgers.\" The upcoming release bridges Bryant’s basketball legacy with Los Angeles baseball culture.The pair channels the Los Angeles Dodgers’ road uniforms with a predominantly Wolf Grey upper complemented by Rush Blue highlights. The retooled Air Force 1 Low Protro features a smooth upper while the heel features Bryant's No. 8 in Dodgers blue. The blue carries on to the tongue branding as well as the Kobe Bryant branding on the midsole. Additional red stitchin is seen on the overlay are remniscent of those seen on a baseball. The shoe also sits atop a blue outsole to match the textured lace. The tribute continues Nike’s effort to bring Bryant’s performance-driven Protro ethos to everyday footwear. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "795888d47068779e",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Upcoming Supreme x Martine Rose x Nike Dunk Low \"Mike Tyson\" Surfaces Online",
-      "url": "https://hypebeast.com/2026/7/supreme-martine-rose-nike-dunk-low-mike-tyson-surfaces-online-ja1868-001-fall-2026-release-teaser",
-      "publishedAt": "2026-07-31T06:10:34.000Z",
-      "collectedAt": "2026-07-31T14:20:32.196Z",
-      "text": "Upcoming Supreme x Martine Rose x Nike Dunk Low \"Mike Tyson\" Surfaces Online Summary Supreme, Martine Rose, and Nike are reportedly teaming up on a Dunk Low featuring Mike Tyson graphicsThe three-way release features a black leather upper decorated with imagery from Tyson's 1986 championship victoryThe sneaker is expected to release in Fall 2026 for $150 USD via Supreme and select retailers Name: Supreme x Martine Rose x Nike Dunk Low \"Mike Tyson\"Colorway: Black/White/GoldSKU: JA1868-001Retail Price: $150 USDRelease Date: Fall 2026Where to Buy: SupremeSupreme, Martine Rose, and Nike are reportedly collaborating on the Supreme x Martine Rose x Nike Dunk Low \"Mike Tyson.\" Early imagery suggests the three-way partnership channels Supreme’s signature photo tee heritage onto Nike's classic low-top platform.The silhouette features a premium black leather upper serving as a dark backdrop for photographic side-panel graphics. The quarter panels showcase an iconic image of Mike Tyson from his historic 1986 victory over Trevor Berbick, where he became the youngest heavyweight champion in boxing history. A black leather Swoosh cuts across the sidewall photo, while co-branded Supreme and Martine Rose logos land on the heel. Additional details include a gold Nike tongue tag reminiscent of championship belts and co-branded insoles featuring all three partners. Gold detailing hits the tongue tag and heel Nike branding along with the co-branded \"Supreme Martine\" on the heel for an added championship mindset to round out the design of the shoe.The Supreme x Martine Rose x Nike Dunk Low \"Mike Tyson\" is expected to release in Fall 2026. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "29a8c02c9428a3db",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Coca-Cola and New Era Team up With Kosuke Kawamura for Collaborative Collection",
-      "url": "https://hypebeast.com/2026/7/coca-cola-new-era-kosuke-kawamura-caps-apparel-accessories-collaboration-release-info",
-      "publishedAt": "2026-07-31T03:42:56.000Z",
-      "collectedAt": "2026-07-31T14:20:32.197Z",
-      "text": "Coca-Cola and New Era Team up With Kosuke Kawamura for Collaborative Collection Summary Coca-Cola and New Era are releasing a collaborative collection featuring artist Kosuke KawamuraThe 28-model range includes headwear and graphic tees utilizing Kawamura's signature shredder artThe capsule is scheduled to release on August 6 via New Era Coca-Cola and New Era have reportedly joined forces alongside artist and graphic designer Kosuke Kawamura for a collaborative headwear and apparel collection. The upcoming accessories capsule celebrates Coca-Cola's heritage while integrating contemporary street art visuals.The collection encompasses 28 distinct models featuring iconic 2000s Coca-Cola logos, vintage catchphrases, and glass bottle package motifs. A key highlight of the lineup is the \"Coca-Cola designed by Kosuke Kawamura\" sub-series, which applies Kawamura's distinctive shredder art technique across nine cap silhouettes and five t-shirt designs. Headwear in the collection includes an all-red cap, an all-black cap featuring \"Coca-Cola\" printed under the brim in various languages representing global markets, and several New Era silhouettes adorned with hybrid graphics combining two different logos, such as classic Coke and Diet Coke motifs. The capsule is also suggested to incorporate Kosuke Kawamura's signature shredder technique across an expanded apparel range that includes sweaters, t-shirts, and jerseys as well as tote bags.The Coca-Cola x New Era x Kosuke Kawamura collection drops August 6, 2026 via New Era. Click here to view full gallery at Hypebeast"
-    },
     {
       "id": "7746246772e15dcf",
       "sourceId": "vogue",
@@ -4197,105 +3585,6 @@
       "publishedAt": "2026-07-31T18:20:16.000Z",
       "collectedAt": "2026-08-01T13:38:23.489Z",
       "text": "Time Spent: Why Summer Calls for a Sport Watch No one reaches for leather in the height of summer—your watch strap shouldn't be the exception. It's time to make the switch to something sportier."
-    },
-    {
-      "id": "d54010e5bbb18e57",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style",
-      "url": "https://www.vogue.com/article/zendaya-tom-holland-off-duty-couple-style",
-      "publishedAt": "2026-07-31T17:06:10.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style While we’re accustomed to method dressing galore, rarely do we get to see the couple in a moment of respite, dressed as their true selves."
-    },
-    {
-      "id": "f809e5183853c23e",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Dress Code: Interior Designer Alyssa Kapito on the Art of Being Intentionally Understated",
-      "url": "https://www.vogue.com/slideshow/dress-code-alyssa-kapito-interior-designer",
-      "publishedAt": "2026-07-31T17:04:14.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "Dress Code: Interior Designer Alyssa Kapito on the Art of Being Intentionally Understated For New York-based Alyssa Kapito, her personal style is an extension of the pristine design projects her fan-base have come to know her for. Quintessentially Uptown with an element of ease, the most-loved pieces in her closet prove that an outfit that whispers is just as impactful as one that shouts. A go-to collaborator and party host for brands including Savette and Rosie Huntington-Whiteley’s Mèmoire, here she discusses how she approaches making it all look easy."
-    },
-    {
-      "id": "efeedfdc021e473d",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "10 Vacation Dress Outfits",
-      "url": "https://www.vogue.com/article/vacation-dress-outfits",
-      "publishedAt": "2026-07-31T16:32:04.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "10 Vacation Dress Outfits Wherever your travels take you this season, let your getaway wardrobe start here with these chic vacation dress outfits. Shop favorites from Johanna Ortiz, Pucci & Aflalo."
-    },
-    {
-      "id": "a47cfe566172fa92",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "How to Style the Midi Skirt—9 Summer Outfit Ideas",
-      "url": "https://www.vogue.com/article/midi-skirt-styling",
-      "publishedAt": "2026-07-31T16:28:38.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "How to Style the Midi Skirt—9 Summer Outfit Ideas From colorful pareos to sleek drop-waist styles, here are nine ways to style the season’s most-wanted"
-    },
-    {
-      "id": "b6363e4c7bfea4d5",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "A New Generation of Musicians Is Making Up for Lost Time",
-      "url": "https://www.vogue.com/article/new-generation-of-musicians-new-york-nina-ljeti-summer-2026",
-      "publishedAt": "2026-07-31T16:21:51.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "A New Generation of Musicians Is Making Up for Lost Time During the summer of 2026, Vogue’s Nina Ljeti chronicled a yet-to-be-named music scene defined by raw, unfiltered performance, lyrical honesty, and live instrumentation."
-    },
-    {
-      "id": "2434ef52a85fa3ff",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "How to Style Shorts, According to Celebrities",
-      "url": "https://www.vogue.com/article/celebrity-shorts-outfits",
-      "publishedAt": "2026-07-31T16:17:34.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "How to Style Shorts, According to Celebrities Whether you're reaching for boxer shorts, denim jorts, or tailored Bermudas, here's how to style shorts like your favorite celebrities."
-    },
-    {
-      "id": "4cfb609a2f1f5bfc",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "LVMH Sells Patou to Previous Owner Dilesh Mehta",
-      "url": "https://www.vogue.com/article/lvmh-sells-patou-to-previous-owner-dilesh-mehta",
-      "publishedAt": "2026-07-31T15:49:32.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "LVMH Sells Patou to Previous Owner Dilesh Mehta Mehta, who had kept a minority interest in the brand, is buying it back."
-    },
-    {
-      "id": "3014f79d12cbba7d",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Can You Wear Boots in the Summer? Absolutely",
-      "url": "https://www.vogue.com/article/summer-boots-trend",
-      "publishedAt": "2026-07-31T15:13:58.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "Can You Wear Boots in the Summer? Absolutely Boots, paired with light dresses or shorts are one of summer's hottest (literally) trends."
-    },
-    {
-      "id": "dbcd369f2134e2af",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Leave It to Kaia Gerber to Wear a Couture LBD to ‘The Shards’ Premiere",
-      "url": "https://www.vogue.com/article/kaia-gerber-couture-lbd-the-shards",
-      "publishedAt": "2026-07-31T14:31:14.000Z",
-      "collectedAt": "2026-08-01T13:38:23.490Z",
-      "text": "Leave It to Kaia Gerber to Wear a Couture LBD to ‘The Shards’ Premiere It’s been a big week for Kaia Gerber—and Maria Grazia Chiuri."
     },
     {
       "id": "3ffdd54fc55f6af1",
@@ -4430,72 +3719,6 @@
       "text": "The Air Max-ification of Nike's Legendary Soccer Shoe The Nike Air Max Joga Bonito is already a mashup of classics. Now, it's dressed up in Air Max 95's famous \"Neon\" outfit."
     },
     {
-      "id": "aa2eaa3f8e276d7b",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "The Beautiful Game Turns Dinner into a Must-See Moment",
-      "url": "https://www.highsnobiety.com/p/chase-world-cup-dinner/",
-      "publishedAt": "2026-07-31T17:45:32.000Z",
-      "collectedAt": "2026-08-01T13:38:24.926Z",
-      "text": "The Beautiful Game Turns Dinner into a Must-See Moment Taking the pitch Saturday night, thanks to Visa, we joined Chase Sapphire Reserve cardmembers for a one-of-a-kind dining experience."
-    },
-    {
-      "id": "80688787eecf1316",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike’s Pretty Winged Sneaker Is the Flyest of Them All",
-      "url": "https://www.highsnobiety.com/p/nike-air-superfly-pink/",
-      "publishedAt": "2026-07-31T17:14:39.000Z",
-      "collectedAt": "2026-08-01T13:38:24.926Z",
-      "text": "Nike’s Pretty Winged Sneaker Is the Flyest of Them All Nike's pink Air Superfly sneaker is truly the flyest pair yet, featuring wings & star-studded touches. Here's everything on the release."
-    },
-    {
-      "id": "34b4dc6e757d3323",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Berlin's Coolest Creatives Have a New Way to Actually Connect",
-      "url": "https://www.highsnobiety.com/p/ex-to-x-berlin/",
-      "publishedAt": "2026-07-31T16:40:13.000Z",
-      "collectedAt": "2026-08-01T13:38:24.926Z",
-      "text": "Berlin's Coolest Creatives Have a New Way to Actually Connect Ex to X is Berlin's new FLINTA-focused creative community that puts the \"social\" back in social networking, connecting everyone from DJs to coffee roasters."
-    },
-    {
-      "id": "9084fb3a655bf7f1",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "State of the Art: Bottega Veneta Can't Quit This Incredibly Stylish Art Collector",
-      "url": "https://www.highsnobiety.com/p/bottega-veneta-peggy-guggenheim/",
-      "publishedAt": "2026-07-31T15:00:04.000Z",
-      "collectedAt": "2026-08-01T13:38:24.926Z",
-      "text": "State of the Art: Bottega Veneta Can't Quit This Incredibly Stylish Art Collector With Louise Trotter at the helm of the Bottega Veneta, the Venetian fashion house has settled on art collector and style icon Peggy Guggenheim as a new muse."
-    },
-    {
-      "id": "7ac5f84231b4bfdc",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Crocs Unveils the ROY in a New \"Elephant\" Colorway",
-      "url": "https://hypebeast.com/2026/8/crocs-the-roy-elephant-213756-1lm-release-info",
-      "publishedAt": "2026-07-31T06:04:46.000Z",
-      "collectedAt": "2026-08-01T13:38:26.311Z",
-      "text": "Crocs Unveils the ROY in a New \"Elephant\" Colorway Summary Crocs is releasing its futuristic ROY silhouette in a monochromatic \"Elephant\" colorwayDesigned by footwear legend Steven Smith and the Crocs Creative Innovation Team the model utilizes single-shot Mellow foam constructionThe molded slip-on features integrated flex grooves across the upper and outsole alongside embossed logo detailing on the heel and insole Name: Crocs The Roy \"Elephant\"Colorway: ElephantSKU: 213756-1LMRetail Price: $80 USDRelease Date: August 7, 2027Where to Buy: CrocsCrocs has officially revealed The Roy \"Elephant\", marking the latest colorway of its futuristic molded silhouette. The sculptural foam slip-on was developed by footwear design veteran Steven Smith alongside the Crocs Creative Innovation Team.Engineered with single-shot Mellow foam construction, the model delivers responsive cushioning and lightweight underfoot comfort. Segmented flex grooves extend across both the upper and outsole, encouraging natural foot articulation while promoting breathability and temperature regulation. The entire molded frame is finished in a clean tonal grey, complemented by subtle embossed logo detailing stamped on the heel and insole.The Crocs Roy \"Elephant\" drops August 7, 2026 via Crocs and select retailers. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "943878f0ee8c881f",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Electronic Arts Set to Finalize $55 Billion USD Go-Private Acquisition",
-      "url": "https://hypebeast.com/2026/8/electronic-arts-finalize-55-billion-usd-go-private-acquisition-saudi-arabia-pif-silver-lake-affinity",
-      "publishedAt": "2026-07-31T06:43:15.000Z",
-      "collectedAt": "2026-08-01T13:38:26.311Z",
-      "text": "Electronic Arts Set to Finalize $55 Billion USD Go-Private Acquisition Summary Electronic Arts has confirmed that all regulatory approvals for its $55 billion merger have been securedThe record-breaking buyout is led by Saudi Arabia’s Public Investment Fund, Silver Lake, and Affinity PartnersUpon closing on August 4, EA will delist from Nasdaq while retaining Andrew Wilson as CEO and remaining in Redwood City Electronic Arts is set to officially close its record-breaking $55 billion USD go-private deal after securing all necessary regulatory approvals. The video game publisher expects the transaction to finalize on or about the close of trading on August 4, 2026.The historic buyout is spearheaded by a consortium comprising Saudi Arabia’s Public Investment Fund (PIF), Silver Lake, and Affinity Partners, with stockholders receiving $210 USD per share in cash. Once completed, the publisher behind major franchises such as Battlefield 6, The Sims, and Madden NFL will delist from the NASDAQ and transition into a privately held company.Despite the shift in corporate ownership, EA will remain headquartered in Redwood City, California, with Andrew Wilson continuing his role as CEO to oversee operations across its global studio network.The $55 billion USD merger is expected to officially close on August 4, 2026. Click here to view full gallery at Hypebeast"
-    },
-    {
       "id": "65c53801081b1f76",
       "sourceId": "hypebeast",
       "sourceName": "Hypebeast",
@@ -4518,17 +3741,6 @@
       "text": "Nike Re-Signs Victor Wembanyama to Multi-Year Deal With Upcoming Signature Shoe Summary Nike has officially re-signed San Antonio Spurs star Victor Wembanyama to a new long-term endorsement dealThe new agreement includes a dedicated signature basketball sneaker line with NikeNike confirmed the partnership extension alongside the reveal of Wembanyama's official alien-inspired logo Nike has officially re-signed San Antonio Spurs superstar Victor Wembanyama to a new long-term endorsement deal that includes his own signature basketball shoe. First reported by ESPN’s Shams Charania, the multi-year agreement secures the French phenom as a signature athlete for the Swoosh.The announcement comes after Wembanyama’s original Nike contract was set to expire in October. The brand officially confirmed the extension through an Instagram video, which also debuted his official signature logo. Designed to incorporate Wembanyama's initials, the logo features an alien face motif honoring his nickname.Wembanyama originally signed with Nike in 2022 while playing for Metropolitans 92 in France before agreeing to an extension ahead of the 2023 NBA Draft, where he was selected first overall by San Antonio. Details regarding the design and rollout of his inaugural signature sneaker currently remain under wraps. View this post on InstagramA post shared by Shams Charania (@shams) View this post on InstagramA post shared by Nike (@nike) Click here to view full gallery at Hypebeast"
     },
     {
-      "id": "1203d7b0b2c4672f",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Travis Scott Drops 'Odyssey' Merch & SS27 Trends Heat up in This Week's Top Fashion News",
-      "url": "https://hypebeast.com/2026/7/travis-scott-drops-odyssey-merch-ss27-trends-heat-up-in-this-weeks-top-fashion-news",
-      "publishedAt": "2026-07-31T15:38:14.000Z",
-      "collectedAt": "2026-08-01T13:38:26.313Z",
-      "text": "Travis Scott Drops 'Odyssey' Merch & SS27 Trends Heat up in This Week's Top Fashion News &nbsp;Summary SS27 menswear focused on heat-beating sheer fabrics and vibrant hues. SATISFY and Levi's delivered climbing-ready denim, while McDonald's China dropped a functional paper-bag backpack.Travis Scott merged cinematic merch with IMAX, and NikeSKIMS leveled up its sculpting wear.The SS27 Trends: What Comes After Fashion's Hottest Season Ever? As European summers grew more brutal, the Spring/Summer 2027 menswear collections offered a refreshing cooldown. Paris and Milan runways ditched the heavy tailoring of seasons past for fluid, joy-driven ensembles built to beat the heat. Designers championed sheer shirting reminiscent of the traditional Filipino barong, which let the breeze flow through ultra-lightweight, transparent constructions. Silky satins elevated everyday shirting and trousers into billowing, breathable statements, while shrunken “micro jackets” shed unnecessary bulk. The color palettes shifted dramatically too, and leaned heavily into aquatic blues and sunset-inspired oranges to capture the essence of seaside escapes. Completing the relaxed resort vibe, the boxer short fully cemented itself as the ultimate bottom of the season, which prioritized ultimate freedom and ventilation.Cactus Jack Launches Exclusive Clothing Capsule for 'The Odyssey' and IMAX Travis Scott celebrated his self-directed short film for Christopher Nolan's The Odyssey and dropped a highly limited Cactus Jack capsule. The collection debuted alongside the film's premiere and his featured end-credits track, \"When I'm Home,\" merging cinematic aesthetics with Scott’s signature graphic-heavy streetwear. The limited drop was available for just one week and featured co-branded T-shirts, a long-sleeve, and a tote bag emblazoned with official IMAX insignia. Retail prices ranged comfortably from $55 to $75 USD. While the public release strictly focused on apparel, the collaboration also yielded two cast-and-crew exclusive footwear models—the Nike Moon Shoe and the ACG Moc—which proved Scott’s continued ability to fuse blockbuster narrative storytelling with highly sought-after product design.SATISFY Reconnects With Levi's for a Second Climbing-Focused Capsule Parisian running label SATISFY and American denim brand Levi’s joined forces once again for a specialized, climbing-centric capsule. As a follow-up to their successful debut, this sophomore outing perfectly blended robust Americana a"
-    },
-    {
       "id": "4cc29a698cbc9814",
       "sourceId": "hypebeast",
       "sourceName": "Hypebeast",
@@ -4549,17 +3761,6 @@
       "publishedAt": "2026-07-31T19:37:40.000Z",
       "collectedAt": "2026-08-01T13:38:26.313Z",
       "text": "Why the Best Part of Golf Happens Before the First Tee The best rounds begin long before anyone pulls a club out of the bag. From deciding the day's format to debating handicaps and playlists on the drive over, the moments leading up to a round have become just as much a part of the experience as the golf itself. Created in partnership with the All-New 2026 Toyota RAV4, Hypegolf's latest campaign explores that idea through The Game Before the Game, celebrating the rituals, conversations and camaraderie that define a day on the course. At the heart of the story is the drive itself, where the All-New 2026 Toyota RAV4 becomes the starting point for a day built around golf, friendship and time spent outdoors.At the center of the story is professional skateboarder, podcast host and Golf With Flavor founder Justin Eldridge, who assembled his ideal foursome for a day of golf in Los Angeles. Joined by his wife Ali Eldridge, skateboarding legend Jose Rojo and snowboarding pioneer Russell Winfield, the group heads to the course together in the Toyota RAV4 before settling into a day built around friendship as much as competition. Alongside the campaign film and accompanying lookbook, Eldridge reflects on the connection between skateboarding and golf, the value of community and why the drive to the course is often where the day really begins.Hypegolf: For people who know you from skateboarding, how did golf become part of your life?Justin Eldridge: I actually got hurt and wasn't able to skate for a few months. A friend and I decided to go to the driving range, and the place had a par-3 course that stayed lit up until 10PM. It was the perfect combination, and I was hooked from the start.You've built communities in both skateboarding and golf. What similarities do you see between those two worlds?There are so many similarities, it's crazy. From the camaraderie and friendships that are built to the style and the way everybody just wants each other to win and have fun, the overlap is huge. To me, golf courses are just big skate parks.For this project, you brought together your own foursome. What made this the right group of people to spend the day with?I think that being able to spend the day with people you have fun with and respect is a huge part of the game. Jose was a professional skateboarder, and we were on the same team, so I've known him forever. He's just one of the best humans out there. Russell was a legendary professional snowboarder and is one of my favorite "
-    },
-    {
-      "id": "d2d5212c73d15cc9",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "How Oakley’s 'Future Genesis' Characters Mirror Its Endless Drive For Innovation",
-      "url": "https://hypebeast.com/2026/7/oakley-future-genesis-characters-and-mission-for-innovation",
-      "publishedAt": "2026-07-31T17:10:11.000Z",
-      "collectedAt": "2026-08-01T13:38:26.313Z",
-      "text": "How Oakley’s 'Future Genesis' Characters Mirror Its Endless Drive For Innovation View this post on InstagramA post shared by HYPEBEAST (@hypebeast) For nearly half a century, Oakley’s brand identity has been anchored by its persistent refusal to conform to standard industry norms, preferring to actively build the future rather than remaining passive for its arrival. Through the expansion of its narrative universe in Future Genesis, Oakley translates this distinct design philosophy into a sci-fi story. The characters traversing this storm-ravaged world are personifications of the exact mindset that has fueled the brand for decades which means never settling, always progressing, and always looking toward what’s next.The narrative's evolution finds Max Fearlight, a brilliant inventor whose relentless drive to solve problems reflects Oakley’s foundational commitment to engineering solutions from scratch. Max refuses to live under the strict, mind-purifying mandates of authoritarian cities like CIV17, declaring in his journal entries that \"a human with such strict limitations cannot evolve\" and that \"if we are to find a way to navigate the challenges we face, we must do so without fear\". His personality is defined by technical precision and protective determination. When faced with lethal thermonuclear storms, Max doesn't surrender to despair; he retrofits an abandoned water purification facility into an advanced self-sustaining bunker, engineering Iridium-infused lenses, wind generators, and closed-loop survival systems. His relentless pursuit of technological mastery mirrors Oakley’s own obsession with pushing the boundaries of material science and functional design.However, while Max focuses on building physical and digital shields—evidenced by his obsession with creating the \"Echoverse\" to keep his family secure—his daughter, Maxine, represents the next evolutionary step of that same progressive ethos. Maxine possesses a fierce, boundary-pushing curiosity that prevents her from settling for comfortable isolation. While her father views the outside world as a closed door, Maxine looks beyond the bunker walls with an unyielding longing for discovery. As a child, when Max warns her of the severe atmospheric hazards outside, Maxine’s instinct is not to retreat, but to push forward, boldly telling her mother that \"all we're building is a prison\" when arguing against complete shelter containment. She embodies the core spirit of exploration, proving that true prog"
     },
     {
       "id": "b7186c667eb85593",
@@ -4683,17 +3884,6 @@
       "text": "When It Rains, Vans’ Mighty GORE-TEX Sneaker Still Shines Vans' stylish Crosspath XC GORE-TEX lands in black with silver accents, bringing some shine to the trail-ready design."
     },
     {
-      "id": "44a97cd0f35563e4",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Only Satisfy Could Make Tasteful Climbing Gear Out of Vintage Levi's",
-      "url": "https://www.highsnobiety.com/p/satisfy-levis-climbing-gear-stoner/",
-      "publishedAt": "2026-07-31T09:10:22.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "Only Satisfy Could Make Tasteful Climbing Gear Out of Vintage Levi's The Paris-based running label Satisfy and American denim brand Levi's hit the cliffs again for a second round of stylish climbing gear."
-    },
-    {
       "id": "725cba31c16a4810",
       "sourceId": "highsnobiety",
       "sourceName": "Highsnobiety",
@@ -4780,39 +3970,6 @@
       "publishedAt": "2026-08-02T08:12:44.000Z",
       "collectedAt": "2026-08-02T13:38:59.837Z",
       "text": "Official Images of the Nike Air Rejuven8 \"Camo Pack\" Name: Nike Air Rejuven8 “Camo Pack”Colorway: “Black Camo,” “Barkroot Brown Camo”SKU: IU3167-002, IU3167-001MSRP: TBCRelease Date: August 2026Nike expands on the Air Rejuven8 revival, unveiling a bold new “Camo Pack” featuring two women’s-exclusive colorways in \"Black Camo\" and \"Barkroot Brown.\" Originally introduced ahead of the 2008 Beijing Olympics as a post-performance recovery shoe for elite athletes, both new iterations retain the slip-on silhouette while introducing camouflage-inspired detailing across the molded, open-cell lattice cage.The \"Black Camo\" edition pairs a black knit bootie with tonal laces and foam tooling, contrasted by a semi-translucent shell patterned with smoky camouflage across its diamond cutouts. A crisp white Swoosh on the lateral side provides the only sharp break in color, keeping the palette sleek and understated. Meanwhile, the \"Barkroot Brown Camo\" version introduces warmth with a brown knit base beneath a glossy tortoiseshell-like-patterned cage, whose layered tones evoke the look of tortoiseshell. Black laces and a matching sole keep the design grounded, while a muted brown Swoosh subtly reinforces the earthy theme. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "3eccca8af377c4f5",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "The STEKA Octagonal Aluminum Pan Is Built for a Lifetime of Fire and Flame",
-      "url": "https://hypebeast.com/2026/8/addi-steka-octagonal-aluminum-saute-pan-mozambique-release-info",
-      "publishedAt": "2026-07-31T11:18:59.000Z",
-      "collectedAt": "2026-08-02T13:38:59.837Z",
-      "text": "The STEKA Octagonal Aluminum Pan Is Built for a Lifetime of Fire and Flame Summary ADDI designs the STEKA, an octagonal sauté pan for Mozambique, blending Scandinavian minimalism with Japanese craftsmanship.Features include a solid aluminum body, a removable handle and a drop-lid-inspired cover.Available now via Mozambique’s webstore, priced at around $172 USD. STEKA is an octagonal aluminum sauté pan designed by Swedish studio ADDI for Japanese cookware brand Mozambique. Conceived as a versatile cooking tool that bridges indoor kitchens and rugged outdoor environments, the pan was designed from a philosophy of structural logic and reduction rather than fleeting trends. Intended to transition seamlessly from a standard kitchen stove to an open campfire, the STEKA pan is engineered to be an adaptable, lifelong culinary instrument that ages and develops character alongside its owner.Crafted from 5 mm solid aluminum, STEKA offers heat retention similar to cast iron but with a lighter weight. Its high, straight sides expand cooking possibilities, while the removable cast‑aluminum handle, secured with a single stainless‑steel screw, allows for easy replacement, oven use, or compact storage. The companion lid, inspired by the Japanese otoshibuta drop‑lid, features raised points underneath that circulate moisture during simmering and braising, creating a self‑basting effect. Each piece is hand‑finished, with production limited to ten units per day, underscoring its artisanal quality.Available now via Mozambique's webstore, the STEKA pan retails at ¥27,500 JPY (approx. $172 USD) and comes with a five‑year warranty. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "d0057adc2d51f309",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Pharrell Williams’ JOOPITER Launches Its First-Ever Dedicated Watch Auction",
-      "url": "https://hypebeast.com/2026/8/joopiter-keeping-measure-watches-timepieces-auction-sale-info",
-      "publishedAt": "2026-07-31T11:18:34.000Z",
-      "collectedAt": "2026-08-02T13:38:59.837Z",
-      "text": "Pharrell Williams’ JOOPITER Launches Its First-Ever Dedicated Watch Auction Summary JOOPITER debuts Keeping Measure: Watches & Timepieces, its first watch auction.Features collectible pieces from Patek Philippe, OMEGA, Cartier and more.Bidding is open until August 5, 2026, with highlights like the Alan Bean Speedmaster and HYT Moon Runner Red Magma. JOOPITER has announced its first auction under its newly established Watches Department, titled Keeping Measure: Watches & Timepieces. Curated to showcase both landmark models from storied Maisons and innovative creations from independent watchmakers, the sale spans over half a century of horological design. Featuring names such as Patek Philippe, Audemars Piguet, OMEGA, Piaget, Cartier, Ressence, HYT, Speake‑Marin and Ōtsuka Lotēc, the auction reflects the breadth of contemporary collecting and aims to appeal to seasoned collectors as well as newcomers.The auction is currently open for bidding until August 5, 2026, with highlights including rare OMEGA pieces such as a tropical dial 2915‑3 and the first auction appearance of the complicated Speedmaster Chrono Chime. Other standout lots include the OMEGA Alan Bean Speedmaster produced in 1969 and linked to the astronaut who became the fourth person to walk on the Moon; the Ulysse Nardin 18k Woven Bracelet Watch crafted by Gay Frères; as well as the HYT Moon Runner Red Magma -- a bold 2022 release showcasing HYT’s liquid‑time technology. Head over to JOOPITER's dedicated webpage to view the full lineup of the Keeping Measure: Watches & Timepieces sale. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "a461053bd72a86f5",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "David Zwirner Announces a Two-Location Yoshitomo Nara Showcase in NYC",
-      "url": "https://hypebeast.com/2026/8/yoshitomo-nara-first-exhibition-with-david-zwirner-new-york-info",
-      "publishedAt": "2026-07-31T11:02:42.000Z",
-      "collectedAt": "2026-08-02T13:38:59.837Z",
-      "text": "David Zwirner Announces a Two-Location Yoshitomo Nara Showcase in NYC Summary Yoshitomo Nara’s first David Zwirner exhibition opens in New York on October 29, 2026.The two-location exhibition features new atmospheric paintings and large-format drawings.The 19th Street location will feature thirteen monumental white bronze head sculptures. Opening this fall, David Zwirner will present Japanese artist Yoshitomo Nara’s inaugural solo exhibition with the gallery, spanning its 533 West 19th Street and 537 West 20th Street locations in New York. Marking the artist's first major solo presentation in the city in nearly a decade, the expansive showcase features new 2026 paintings, large-format drawings, recent sculptures and foundational early works from the 1980s chosen by Nara himself.The presentation at the 537 West 20th Street space highlights the latest stylistic shifts in Nara's two-dimensional artwork, featuring front-facing portraits with direct gazes rendered in a distinctly muted, highly nuanced color palette. The new paintings reveal intricate, diffused brushwork that builds richly atmospheric depths, alongside a fresh method where compositions are first sketched in colored pencil before receiving translucent washes of acrylic paint. In these works, figures adopt natural poses with tear-filled eyes that evoke a quiet sense of uncertainty. Exhibited in tandem are recent monochrome drawings created with industrial oil-based paint sticks, as well as his \"line\" paintings —works created by projecting and reanimating bold notebook sketches onto canvas to retain the rapid, fluid impulse of drawing.Concurrently, the 533 West 19th Street venue houses thirteen monumental bronze head sculptures created in 2024, each representing a ten-fold enlargement of palm-sized clay prototypes hand-molded by the artist. Coated in matte white urethane paint to afford an inviting visual softness, the large-scale works recall the \"snow monsters\" created by heavy snowfall during Nara's childhood winters. By magnifying the simple facial expressions of these small prototypes to a monumental scale, the installation explores the psychological impact of size, allowing the play of light and shadow across their smooth surfaces to foster an environment of serenity and reflection.Both showcases will take place across its aforementioned gallery locations starting October 29, 2026. Click here to view full gallery at Hypebeast"
     },
     {
       "id": "de34ac1503fcefec",
@@ -51145,6 +50302,611 @@
       "publishedAt": "2026-10-28T07:58:02.000Z",
       "collectedAt": "2026-10-28T18:10:47.449Z",
       "text": "The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens Name: atmos x On Cloudmonster 1 Waterproof PackColorway: “Eclipse/Olive,” “Dew/Olive”SKU: 3mg31166308, 3mg31166309MSRP: ¥28,600 JPY (approx. $180 USD)Release Date: November 7Where to Buy: atmos, Onatmos turns the On Cloudmonster silhouette into a study of Japanese landscape design for their latest collaboration. Inspired by karesansui, or Japanese dry gardens, the two-pair pack arrives in “Eclipse/Olive” and “Dew/Olive,” with flowing concentric lines sweeping across each waterproof upper to evoke ripples moving across water or patterns raked into sand.The darker \"Eclipse\" pair layers black and charcoal across the toe and upper, softened by an olive green collar, while \"Dew\" takes a warmer approach with a khaki foundation, brown contour lines, an off-white forefoot and matching olive accents. Despite their contrasting moods, both maintain a muted, natural palette that allows the undulating graphic treatment to become the visual focus.Underneath, the collaboration retains the Cloudmonster 1 Waterproof’s exaggerated CloudTec® cushioning system, paired with supportive Helion™ foam and a Speedboard® designed to add responsiveness underfoot. Waterproof-treated uppers prepare both pairs for wetter conditions, while Missiongrip™ outsoles provide traction across dry and rain-soaked surfaces, giving the garden-inspired aesthetic a functional foundation.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6fb0ba4f5bdf4869",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Home Is Where the Heart Is: Hollywood Turned Up for the First-Ever Airbnb.org Gala",
+      "url": "https://www.vogue.com/slideshow/inaugural-airbnb-gala-2026",
+      "publishedAt": "2026-10-29T18:00:08.000Z",
+      "collectedAt": "2026-10-29T18:16:57.983Z",
+      "text": "Home Is Where the Heart Is: Hollywood Turned Up for the First-Ever Airbnb.org Gala Airbnb.org—Airbnb's nonprofit—hosted its first-ever gala at Milk Studios to highlight its new funding model. Airbnb is pledging $500 million towards temporary housing for those in crisis over the next five years. Among those who attended the inaugural fundraiser were Charlize Theron, Matthew McConaughey and Camila Alves McConaughey, Zoe Saldaña, Joaquin Phoenix and Rooney Mara, Serena Williams, Cynthia Erivo, Charli xcx, Sienna Miller, and Greta Lee."
+    },
+    {
+      "id": "9c8618ab453556ff",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Street Style’s Most Wanted Shoes of the Spring 2027 Season",
+      "url": "https://www.vogue.com/article/street-styles-most-wanted-shoes-of-the-spring-2027-season",
+      "publishedAt": "2026-10-29T17:39:21.000Z",
+      "collectedAt": "2026-10-29T18:16:57.983Z",
+      "text": "Street Style’s Most Wanted Shoes of the Spring 2027 Season From lace-up kitten heels to loafers, wedges to derbies, these are the most wanted shoes of the spring 2027 season."
+    },
+    {
+      "id": "bc43162d05c69048",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Celebrity Halloween Costumes of 2026 So Far",
+      "url": "https://www.vogue.com/slideshow/the-best-halloween-costumes-of-2026",
+      "publishedAt": "2026-10-29T17:32:59.000Z",
+      "collectedAt": "2026-10-29T18:16:57.983Z",
+      "text": "The Best Celebrity Halloween Costumes of 2026 So Far From Kim Kardashian as North West to Paris Hilton as Britney Spears—this year, Halloween is amping up early."
+    },
+    {
+      "id": "c9593bee01d260a2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How the Best Peptide Skin Care Can Deliver Botox-Like Results",
+      "url": "https://www.vogue.com/article/best-peptide-skincare",
+      "publishedAt": "2026-10-29T17:19:49.000Z",
+      "collectedAt": "2026-10-29T18:16:57.983Z",
+      "text": "How the Best Peptide Skin Care Can Deliver Botox-Like Results Peptide skin care—a.k.a. the “silent powerhouse”—can do everything from stimulate collagen and elastin production to slow down cellular processes."
+    },
+    {
+      "id": "8d6754873ca8d4b4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Vogue Business People Moves Tracker",
+      "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "publishedAt": "2026-10-29T16:58:44.000Z",
+      "collectedAt": "2026-10-29T18:16:57.983Z",
+      "text": "The Vogue Business People Moves Tracker Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow."
+    },
+    {
+      "id": "c4c52c555527a2d1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "35 Remarkable Photos of a ’90s and 2000s-Era Winona Ryder",
+      "url": "https://www.vogue.com/slideshow/winona-ryder-young",
+      "publishedAt": "2026-10-29T16:30:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.983Z",
+      "text": "35 Remarkable Photos of a ’90s and 2000s-Era Winona Ryder Browse these glorious throwback shots from the first two decades of Winona Ryder’s career."
+    },
+    {
+      "id": "02514d6b8a58fba0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Minena Mexico Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/mexico-spring-2027/minena",
+      "publishedAt": "2026-10-29T18:13:09.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "Minena Mexico Spring 2027 "
+    },
+    {
+      "id": "1215dfab4f841e89",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "It’s Time for Witchcore Interiors",
+      "url": "https://www.vogue.com/article/witchcore-interiors",
+      "publishedAt": "2026-10-29T15:15:24.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "It’s Time for Witchcore Interiors The season of the witch has arrived—and whether it’s a few more candles, a Gothic bed, or folkloric textiles, you too can have a home that’s a little more bewitching."
+    },
+    {
+      "id": "281822ad1d46daf9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Carla Fernández Mexico Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/mexico-spring-2027/carla-fernandez",
+      "publishedAt": "2026-10-29T18:13:09.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "Carla Fernández Mexico Spring 2027 "
+    },
+    {
+      "id": "6047c733946f698c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zurce Mexico Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/mexico-spring-2027/zurce",
+      "publishedAt": "2026-10-29T18:13:09.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "Zurce Mexico Spring 2027 "
+    },
+    {
+      "id": "42ebba42162a5932",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Orange Culture Lagos Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/orange-culture",
+      "publishedAt": "2026-10-29T18:13:09.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "Orange Culture Lagos Spring 2027 "
+    },
+    {
+      "id": "bed5963c92017c7a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "John Elliott Spring 2027 Menswear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2027-menswear/john-elliot-co",
+      "publishedAt": "2026-10-29T18:13:09.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "John Elliott Spring 2027 Menswear "
+    },
+    {
+      "id": "78e64a48739530cf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rihanna’s Fall Outfit Is Apple Cider-Chic",
+      "url": "https://www.vogue.com/article/rihanna-monochromatic-brown-fall-fashion-10-29-2026",
+      "publishedAt": "2026-10-29T14:53:23.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "Rihanna’s Fall Outfit Is Apple Cider-Chic Last night, Rihanna headed out to her favorite Santa Monica restaurant—in tonal shades of fall brown."
+    },
+    {
+      "id": "0bb74ab04f97ab3f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Great Couture Comeback",
+      "url": "https://www.vogue.com/article/the-great-couture-comeback",
+      "publishedAt": "2026-10-29T14:51:10.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "The Great Couture Comeback From Versace to Hermès, why are today’s brands going all-in on couture?"
+    },
+    {
+      "id": "22e57f1eb7cbe06d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Intimate Wedding on Lake Como Felt Like “A Garden Party in the Clouds”",
+      "url": "https://www.vogue.com/slideshow/alyssa-choo-and-erik-lowe-wedding",
+      "publishedAt": "2026-10-29T14:00:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "This Intimate Wedding on Lake Como Felt Like “A Garden Party in the Clouds” For their three-day celebration at Villa Balbiano, Alyssa Choo and Erik Lowe brought a little of New York to Italy—with 54 close family and friends, a custom Vera Wang gown, and a fireworks-filled finale."
+    },
+    {
+      "id": "9b76e771b1aafa4c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Katie Holmes’s Fall Wardrobe Includes a Double Whammy of Trending Accessories",
+      "url": "https://www.vogue.com/article/katie-holmes-fall-wardrobe-trending-accessories",
+      "publishedAt": "2026-10-29T13:49:56.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "Katie Holmes’s Fall Wardrobe Includes a Double Whammy of Trending Accessories Out and about in New York, Katie Holmes paired a Toteme bag with The Row loafers."
+    },
+    {
+      "id": "2d4d2957c30d16aa",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rita Konig Wants You to Have a Better Martini Glass",
+      "url": "https://www.vogue.com/article/rita-konig-household-goods",
+      "publishedAt": "2026-10-29T13:01:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.984Z",
+      "text": "Rita Konig Wants You to Have a Better Martini Glass “I hate those sex in the city martini glasses,” says decorator Rita Konig, who launches a highly personal line of household goods this week."
+    },
+    {
+      "id": "5a1121576076a379",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A First Look at The Cormorant at 55 South, a New Luxury Lodge Redefining the Journey to Antarctica",
+      "url": "https://www.vogue.com/article/the-cormorant-at-55-south-antarctica-hotel-first-look",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "A First Look at The Cormorant at 55 South, a New Luxury Lodge Redefining the Journey to Antarctica A first look at this new design-forward sanctuary by Silversea in the southernmost town on Earth."
+    },
+    {
+      "id": "56b989ef7bea43d8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Fall Jacket Beloved by Princess Diana in the ’80s Is Making a Comeback",
+      "url": "https://www.vogue.com/article/princess-diana-80s-fall-jacket-comeback",
+      "publishedAt": "2026-10-29T11:39:52.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "This Fall Jacket Beloved by Princess Diana in the ’80s Is Making a Comeback The lesson in off-duty royal dressing is back on the style agenda for fall 2026."
+    },
+    {
+      "id": "a620e2e0e604ef62",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Adidas Sales Grow 7% in Q3 Despite Footwear Slowdown",
+      "url": "https://www.vogue.com/article/adidas-breaks-sales-record-once-again",
+      "publishedAt": "2026-10-29T10:57:03.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "Adidas Sales Grow 7% in Q3 Despite Footwear Slowdown The sportswear company posted record results, noting strong apparel performance, despite a trickier environment for footwear."
+    },
+    {
+      "id": "34c3af8881a8c607",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lawrence Is Taking Her House Coat and Slippers Out on the Town",
+      "url": "https://www.vogue.com/article/jennifer-lawrence-is-taking-her-house-coat-and-slippers-out-on-the-town-2026-10-29",
+      "publishedAt": "2026-10-29T10:30:26.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "Jennifer Lawrence Is Taking Her House Coat and Slippers Out on the Town Actor and now-beauty founder Jennifer Lawrence is making a convincing case for applying the comforts of home to street style."
+    },
+    {
+      "id": "e22390c9226a5da1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Guide to Shopping the Best Levi’s Jeans for Women",
+      "url": "https://www.vogue.com/article/best-levis-jeans-for-women",
+      "publishedAt": "2026-10-29T10:30:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "A Guide to Shopping the Best Levi’s Jeans for Women Discover our guide to the best Levi’s jeans for women, from the history of the original 501 to modern favorites like the Ribcage, the Wedgie, and the Cinch."
+    },
+    {
+      "id": "ddb892dc7dcbb152",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Build a Winning Nature Strategy",
+      "url": "https://www.vogue.com/article/how-to-build-a-winning-nature-strategy",
+      "publishedAt": "2026-10-29T10:30:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "How to Build a Winning Nature Strategy Compared to carbon, nature is a nascent market for fashion brands, and best practices are still evolving. But with supply chain disruptions looming, it’s time to get to work on restoring and regenerating nature."
+    },
+    {
+      "id": "36959ec438bb549d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "For Rosalía, No Bag Is Too Big, No Ballet Pump Too Bitchy",
+      "url": "https://www.vogue.com/article/rosalia-no-bag-is-too-big-no-ballet-pump-too-bitchy-2026-10-29",
+      "publishedAt": "2026-10-29T10:01:47.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "For Rosalía, No Bag Is Too Big, No Ballet Pump Too Bitchy Out and about in New York City, Rosalía continues to expand her penchant for balletcore with outsized accessories and towering footwear."
+    },
+    {
+      "id": "4a35b0aa1e16956b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "30+ Best Brown Bags to Shop in 2026",
+      "url": "https://www.vogue.com/article/brown-handbags-trend",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "30+ Best Brown Bags to Shop in 2026 Brown handbags are trending across the runways and celeb street style. Shop 30+ of our favorite styles, from Balenciaga’s Rodeo carryall to Coach’s Chelsea shoulder bag."
+    },
+    {
+      "id": "b719ace931f86bd3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Skin Care for Women Over 50, According to Dermatologists",
+      "url": "https://www.vogue.com/article/skincare-women-over-50",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "The Best Skin Care for Women Over 50, According to Dermatologists From reducing the appearance of wrinkles to boosting collagen, experts share the best skin care for women over 50—shop serums, face masks, and cleansers."
+    },
+    {
+      "id": "de824080b9df7519",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 9 Best Airbnbs in Madrid for a Trip to Spain’s Buzzy Capital",
+      "url": "https://www.vogue.com/article/airbnbs-in-madrid",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "collectedAt": "2026-10-29T18:16:57.985Z",
+      "text": "The 9 Best Airbnbs in Madrid for a Trip to Spain’s Buzzy Capital Heading to Spain's capital? Book an Airbnb in Madrid and immerse yourself in the rich culture of the city—start with one of our nine favorites."
+    },
+    {
+      "id": "5605f05fd9cb8034",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Is Making Comfortable Dressing Look Considerably Cooler",
+      "url": "https://www.highsnobiety.com/p/adidas-adilenium-collection/",
+      "publishedAt": "2026-10-29T18:13:01.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "adidas Is Making Comfortable Dressing Look Considerably Cooler From track jackets to comfortable pants, these Adidas picks prove you don’t have to sacrifice style to stay comfortable this winter."
+    },
+    {
+      "id": "30ad1a5a27b1f8ed",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Purple Is the Warmest Color",
+      "url": "https://www.highsnobiety.com/p/purple-color-trend/",
+      "publishedAt": "2026-10-29T16:53:50.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "Purple Is the Warmest Color Purple is everywhere, we know. But why? From the runway to the streets, here’s all about this season’s color du jour."
+    },
+    {
+      "id": "7ed42157b6c412f0",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Japanese Artist Mariko Mori Predicted Our AI Future",
+      "url": "https://www.highsnobiety.com/p/mariko-mori/",
+      "publishedAt": "2026-10-29T15:51:19.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "Japanese Artist Mariko Mori Predicted Our AI Future Iconic Japanese artist Mariko Mori reflects on her uncanny ability to predict the future as she prepares for his first major museum show in Tokyo in 24 years."
+    },
+    {
+      "id": "8b71709c1c6ce734",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Just In: Wool Shirts Are Hot",
+      "url": "https://www.highsnobiety.com/p/winter-shirts-buy-online/",
+      "publishedAt": "2026-10-29T14:07:51.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "This Just In: Wool Shirts Are Hot Whether it be checked or plain shirts, we have compiled our favorite wool shirting options to give winter the cold shoulder."
+    },
+    {
+      "id": "68cd4358a6fa79a9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Oldest Sneaker Thrives in the Gray Area",
+      "url": "https://www.highsnobiety.com/p/nike-moon-shoe-gray/",
+      "publishedAt": "2026-10-29T16:18:41.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "Nike’s Oldest Sneaker Thrives in the Gray Area Nike's slate gray moon shoe packs nearly 60 years of Swoosh heritage in one silken package."
+    },
+    {
+      "id": "1003b393a76b0632",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The PIFT Class of 2026 Has Something To Show You",
+      "url": "https://www.highsnobiety.com/p/the-pift-class-of-2026-has-something-to-show-you/",
+      "publishedAt": "2026-10-29T10:56:42.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "The PIFT Class of 2026 Has Something To Show You The PIFT Class of 2026 unveils how AI and Google Pixel are shaping the future of independent fashion design through innovative student projects."
+    },
+    {
+      "id": "2fc5b32d89051255",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Inside the \"Penitentiary Polo\" Era of Ralph's Biggest Fans (EXCLUSIVE)",
+      "url": "https://www.highsnobiety.com/p/lo-lifes-polo-ralph-lauren/",
+      "publishedAt": "2026-10-28T21:33:00.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "Inside the \"Penitentiary Polo\" Era of Ralph's Biggest Fans (EXCLUSIVE) In the 10-year anniversary reissue of Bury Me With the Lo On, the photo book on Ralph Lauren's biggest fans adds a chapter on Polo's influence in prisons."
+    },
+    {
+      "id": "750ef11ad8be47a2",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Burton Is Dumping 50 Years of Wearable Snowboard History on Depop",
+      "url": "https://www.highsnobiety.com/p/burton-depop-snowboarding-archive-drop/",
+      "publishedAt": "2026-10-28T19:32:25.000Z",
+      "collectedAt": "2026-10-29T18:16:59.294Z",
+      "text": "Burton Is Dumping 50 Years of Wearable Snowboard History on Depop Burton shares a semicentennial with snowboarding, at least as a recognized sport. To celebrate, they’re releasing 50 archive pieces to show just how synonymous Burton is with snowboarding."
+    },
+    {
+      "id": "889040b034b1dbfe",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Calvin Klein’s New Season Leather Is Crafted With Minimalism in Mind",
+      "url": "https://hypebeast.com/2026/10/calvin-klein-fall-2026-leather-zalando-release-info",
+      "publishedAt": "2026-10-29T16:51:14.000Z",
+      "collectedAt": "2026-10-29T18:17:00.689Z",
+      "text": "Calvin Klein’s New Season Leather Is Crafted With Minimalism in Mind Known for sharp silhouettes and understated elegance, Calvin Klein’s classically clean aesthetic is appearing in leather pieces this season, from tailored jackets to staple trousers.Now available at Zalando, the latest styles blend influences from its minimalist 90s archives, where leather blazers, biker jackets, and matching pants provided a uniform for evoking confidence. Giving the capsule a contemporary edge, heavy-weight outerwear, like bombers, is crafted from faux crinkle-style leather for textural detail, while the cut is adapted through elongated collars and an oversized shape. In the brand’s more architectural pieces, blazers and barrel-leg trousers take on a supple faux leather for a sleek, put-together look. Mid-layers are formed of faux suede shirts, which give designs a lighter feel without sacrificing their noticeably soft feel. Zalando’s latest campaign, which was shot at its OFFLINE Berlin event with Lourdes Leon, captures the new leather pieces in real life. Sharing an authentic look at how they’re worn, the imagery shows jackets and trousers effortlessly styled with Calvin Klein’s new ribbed tank tops, jersey T-shirts and long-sleeve tops. Discover the supporting editorial in the gallery above. You can now shop Calvin Klein’s leather garments and wider capsule on Zalando’s website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "603e453427974c5a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "From Countless Chicken Nuggets to Custom PCs, Locals Reveal Their Wild New York Lottery Dream Purchases",
+      "url": "https://hypebeast.com/2026/10/new-york-lottery-ask-the-community",
+      "publishedAt": "2026-10-29T13:53:39.000Z",
+      "collectedAt": "2026-10-29T18:17:00.689Z",
+      "text": "From Countless Chicken Nuggets to Custom PCs, Locals Reveal Their Wild New York Lottery Dream Purchases When we hit the pavement in Soho, the conversations aren’t always about what you’re wearing, so we switched up to ask about what you’d do if you bagged a life-changing payout. Alongside the New York Lottery for our popular \"Ask the Community\" segment, our host Eric took to the streets to ask locals something somewhat simple: \"What would you do if you won the New York Lottery?\" What followed was a hilarious, unfiltered look into the practical, bizarre, and brilliant minds of New Yorkers and their dreams. View this post on InstagramA post shared by HYPEBEAST (@hypebeast) Instead of standard answers about buying mansions or yachts, the responses got delightfully specific real fast. One interviewee bypassed real estate entirely, immediately declaring her priority: \"8,000 chicken nuggets!\" A gamer leaned into tech specs, sharing, \"I'm gonna hire the dude that knows the best about PCs, and he's gonna build me the dream PC.\" Fashion heads naturally stayed true to form, with one guy hunting down a \"really faded Twisted Sister shirt,\" while our own Eric spotted a military Humvee parked on the curb and admitted on the spot, \"Dude, I would buy that right there!\"The humor kept rolling as we chatted with different crowds across the block. When asked what he'd do first, one local hit back with an eco-agrarian route, laughing, \"Buy a couple cows, got some chickens... and I'm a millionaire!\" Meanwhile, one boyfriend casually mapped out his math: \"75 million in the stock market” while the rest goes to his partner as she comically asks, “to me?”. He politely and smartly abides. From a guy planning an \"Alaskan kickback\" to a cosplayer traveling the world for conventions and someone wanting to open an open-water survival swim school, the energy was pure, unfiltered joy.That fun, unscripted vibe is exactly the point of the campaign. By capturing real community members talking candidly about their dream purchases, we turn abstract jackpot numbers into tangible, exciting possibilities. It grounds the New York Lottery’s signature \"Can You Imagine?\" tagline directly in street culture, proving that winning isn't just about cash but about total freedom to pursue whatever ridiculous, wonderful thing brings you joy.Whether your ultimate dream is a treehouse in Bali, a fleet of farm animals, or just an endless supply of crispy chicken nuggets, it all starts with a single ticket. So, "
+    },
+    {
+      "id": "d118c3973bb8392e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lamborghini Revuelto SV: The \"Smartest\" Super Veloce Ever Made",
+      "url": "https://hypebeast.com/2026/10/lamborghini-revuelto-sv-test-drive-review",
+      "publishedAt": "2026-10-29T13:00:08.000Z",
+      "collectedAt": "2026-10-29T18:17:00.689Z",
+      "text": "Lamborghini Revuelto SV: The \"Smartest\" Super Veloce Ever Made Among car enthusiasts, there's performance cars, the high-performance variants of them, and then the seriously hardcore versions. Many go by multiple acronyms: GT, RS, Type R, etc. Lamborghini's is as straight forward as possible – Super Veloce \"Super Fast,\" or simply SV.Last weekend we were invited to a private Test Drive of the brand new Lamborghini Revuelto SV, an ultra-hardcore variation of the hybridized Revuelto. While performance was always the name of the game for the Raging Bull's flagship super car, the SV focuses on specific improvements and gains. For the Revuelto, the brand did this smarter, to create a more focused vehicle.We tested the new Revuelto SV and all of its capabilities in Rome's premier race track – Autodromo Vallelunga. The technology is new, the considerations are high, and the SV name speaks for itself. And while previous iterations of Super Veloce may have been just more of everything, Lamborghini were clever and strategic with this one.The SV Levels up Your Look and Just as Much as Your DriveAcross Lamborghini's history of Super Veloce vehicles – beginning with the Miura and most recently the Aventador – the SV moniker mostly denoted a new level of extremity. Heightened performance, lightened chassis, and reworked aerodynamics were always key upgrades, but for the Revuelto, the brand had a lot more to work with thanks to modern technologies.The brand was pretty open about what the SV brought to the table: \"Everything that could have been updated, was.\" Bold statement. But our time and experience with the Reveulto SV confirmed this claim and we were equally shocked and impressed. Aerodynamics arrived in the form as much more aggressive front, side, and rear bumper designs. The new wing was highly developed, to work in conjunction with a gurney flap which is also bespoke to the SV. Aggressive looks only go so far – the Revuelto SV focused on these upgrades with 100% functionality in mind, maximizing on what the car can do on the track.Alongside aero, we were also educated on other upgrades that the SV utilized, some of which may have come as a surprise. For instance, the suspension of the standard Revuelto featured electronic adjustability in dampening, while the SV's KW coilover adjustments are passive – set them out-of-vehicle and tune as necessary for track use. It may seem like a step back, but the simplicity and weight advantages of a passive system is perfectly"
+    },
+    {
+      "id": "dec994dbb54db905",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NORQAIN Gives Its Lightest Watch a Turquoise Treatment",
+      "url": "https://hypebeast.com/2026/10/norqain-wild-one-skeleton-x-lite-turquoise-n3003-26x02-b07-r01-n3003-26x02-b07-f01-release-info",
+      "publishedAt": "2026-10-29T13:00:03.000Z",
+      "collectedAt": "2026-10-29T18:17:00.689Z",
+      "text": "NORQAIN Gives Its Lightest Watch a Turquoise Treatment Summary NORQAIN released the 45-gram Wild ONE Skeleton X-Lite Turquoise.It features a carbon fiber X-Lite case and a COSC-certified movement.Limited to 300 yearly pieces, it retails for $13,900 USD. NORQAIN is bringing its signature color to its lightest watch yet with the new Wild ONE Skeleton X-Lite Turquoise, following the debut of the first X-Lite Limited Edition earlier on in the year. Weighing just 45 grams, the 41mm sports watch builds on the Wild ONE’s multi-part architecture with more than 30 individual components spanning NORTEQ®, titanium, aluminum, rubber and the proprietary X-Lite carbon-fiber composite. Developed with Swiss material specialist BIWI as an evolution of NORTEQ®, X-Lite forms the internal casing ring and is engineered around low weight and shock absorption. Unlike the earlier limited edition, the turquoise model joins the brand’s permanent collection, although production will be capped at 300 pieces per year worldwide.Visually, vivid turquoise cuts through the predominantly black construction, appearing across the rubber shock absorbers, crown, skeletonized dial details and strap. The case combines black NORTEQ® top, bottom and side components with a sandblasted black-DLC titanium container and aluminum caseback, while turquoise Super-LumiNova outlines the indexes and tips of the black-plated hands.Two strap configurations reinforce the performance-driven aesthetic: one pairs black and turquoise rubber in a double-layer construction, with perforations revealing the brighter layer underneath, while the second combines a perforated black rubber upper with an interchangeable turquoise stretch band designed to conform naturally around the wrist. Despite its lightweight construction, the watch retains 100 meters of water resistance and sapphire crystal on both sides.Inside sits the COSC-certified NORQAIN 4K Manufacture Calibre NK26/1, an automatic skeleton movement developed in collaboration with AMT. Its openworked bridges and oscillating weight take inspiration from mountain peaks, while a 28,800 vph frequency and 65-hour power reserve underpin its everyday specifications.NORQAIN will present the Wild ONE Skeleton X-Lite Turquoise at Mavericks of Time in Abu Dhabi, before making it available from October 29, 2026 through selected NORQAIN boutiques and retailers worldwide. Both the black-and-turquoise rubber strap and stretch-strap versions carry an official retail price of $13,9"
+    },
+    {
+      "id": "a6e3efa3e26f3487",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "10 Horror Films and Series to Watch This Halloween",
+      "url": "https://hypebeast.com/2026/10/10-horror-films-series-to-watch-this-halloween-2026-whalefall-other-mommy-crystal-lake-below",
+      "publishedAt": "2026-10-29T13:00:01.000Z",
+      "collectedAt": "2026-10-29T18:17:00.689Z",
+      "text": "10 Horror Films and Series to Watch This Halloween The 2026 Halloween season is delivering a feast of new horror, spanning cinematic sequels and high-concept streaming series. Never too late to start a Halloween horror marathon, fans can hack into their fear with a deep lineup of psychological and supernatural thrills ahead of the festivities this week.Leading the charge is the return of iconic horror lore: the Friday the 13th prequel series Crystal Lake (Peacock) explores the bloody origins of Pamela Voorhees and the cursed summer camp, while Carrie (Amazon Prime Video) delivers a modernized, extended series adaptation of Stephen King’s telekinetic classic. Adding to established mythos on the big screen, Clayface (Theatrical) reimagines the tragic Batman villain as a desperate, shape-shifting actor in a grounded psychological monster movie, and American Horror Story, season 13 (Disney+) returns to its roots with gruesome murders and occult rituals at a prestigious New England boarding school.For original scares, prepare for high-concept genre blends with the likes of Below (Netflix), a deep-sea sci-fi thriller trapping a research crew with a terrifying aquatic organism, and Other Mommy (Theatrical), a slow-burn psychological nightmare about a mother usurped by her sinister doppelganger. If you prefer gripping suspense and survival, Whalefall (Theatrical) traps a scuba diver inside a sperm whale to confront his past, while Something Very Bad Is Going to Happen (Netflix) builds agonizing atmospheric dread around a doomed couple heading toward a destination wedding, and Christmas at the Kringles (Theatrical) subverts the upcoming holidays with a pitch-black slasher centered on yuletide human sacrifice. Finally, Netflix and Ryan Murphy bring Monster: The Lizzie Borden Story to your homes, as it continues the hit true-crime anthology by dissecting the intense household dynamics and repressed anger behind the infamous 1892 axe slayings.Get ready to check these off your list for a perfectly spooky October and take a look below at the full recommendation of films and series for this horror-filled Halloween season.Clayface - Film (In Theaters, Available Now)Directed by horror auteur Mike Flanagan, this standalone DC Elseworlds film reimagines the classic Batman villain through a dark, psychological horror lens. Clayface strips away the superhero spectacle to focus on Basil Karlo, a fading, desperate actor who discovers a mysterious, shape-shifting compound. As he "
+    },
+    {
+      "id": "f6e193d20ec9f737",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
+      "url": "https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-footwear-collection-wb-karintha-wb-gazelle-snake-wb-adizero-adios-suede-cmapaign-images-release-info",
+      "publishedAt": "2026-10-29T10:30:38.000Z",
+      "collectedAt": "2026-10-29T18:17:00.689Z",
+      "text": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair Name: adidas Originals by Wales Bonner FW26 Footwear CollectionMSRP: TBCRelease Date: October 29Where to Buy: adidasFollowing the wider reveal of adidas Originals by Wales Bonner’s Fall/Winter 2026 collection, the season’s footwear offering pushes the partnership’s familiar dialogue between sports heritage and luxury into increasingly tactile territory. Five pairs span four silhouettes, beginning with the WB Karintha “Dark Brown,” which covers its slender profile in glossy crocodile-stamped brown leather, sharpened by black Three Stripes and brushed gold-tone eyelets for an almost dress-shoe-like finish.The WB Gazelle Snake “Green Night” applies the same reptilian texture to the indoor-football classic, pairing a deep jewel-toned green upper with crisp white Three Stripes, a gum sole and an unexpected flash of bright blue at the lining. Moving from football to running, the WB ADIZERO Adios Suede “Wonder White” softens the performance silhouette in creamy off-white suede, with custom, hand-finished Three Stripes bringing a more crafted character to its streamlined shape.Completing the lineup is the debut of the WB BW Pony, which reworks the minimal military-derived silhouette through a combination of pony hair and contrasting lizard-stamped leather overlays. The “Black Pony” edition keeps the upper almost entirely black, allowing the changes in texture and sheen to do most of the work above a classic gum outsole, while “Khaki Pony” shifts into muted earthy tones and hides a rich burgundy lining inside. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d84fdaf8bedda44a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027",
+      "url": "https://hypebeast.com/2026/10/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-rumored-release-info",
+      "publishedAt": "2026-10-29T09:53:37.000Z",
+      "collectedAt": "2026-10-29T18:17:00.689Z",
+      "text": "Travis Scott, CPFM, and Nike Are Rumored to Release the Flea 1 in Spring 2027 Summary Early reports indicate that Travis Scott and Cactus Plant Flea Market are collaborating with Nike on the Flea 1 Cactus JackLeaked details suggest the silhouette will feature a reverse Swoosh tan upper and medial Cactus Jack brandingThe collaborative sneaker is rumored to drop in Spring 2027 through SNKRS and select stockists for $180 USD Name: Travis Scott x CPFM x Nike Flea 1 \"Cactus Jack\"Colorway: Khaki/Night Forest-Oatmeal-Baroque BrownSKU: IX7250-200MSRP: $180 USDRelease Date: Spring 2027Where to Buy: NikeNike, Travis Scott, and Cactus Plant Flea Market are rumored to be uniting on the upcoming Travis Scott x CPFM x Nike Flea 1 \"Cactus Jack\". Sourced from insider leaks by @brandon1an and Sneaker Market RO, the collaborative three-way project is slated to add a new chapter to the silhouette's elusive release timeline.According to early reports, the design features a tan-based upper complemented by white overlays and dark green accents across a \"Khaki/Night Forest/Oatmeal/Baroque Brown\" palette. The sneaker is said to incorporate Travis Scott’s signature reverse Swoosh along the lateral profiles, alongside a signature Cactus Jack face emblem positioned on the medial heel. The Flea 1 silhouette was originally unveiled in 2022, seeing only an \"Overgrown\" iteration released while the original \"Barley\" makeup was shelved due to production issues.The Travis Scott x CPFM x Nike Flea 1 \"Cactus Jack\" is expected to release in Spring 2027 via CPFM, Travis Scott’s webstore, Nike SNKRS, and select retailers for $180 USD.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b1845dc70f86bb70",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Pedro Pascal Conducts Tony Gilroy's 'Behemoth!' in Director's First Film in 14 Years",
+      "url": "https://hypebeast.com/2026/10/pedro-pascal-tony-gilroy-behemoth-official-trailer-release-info",
+      "publishedAt": "2026-10-29T09:45:10.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Pedro Pascal Conducts Tony Gilroy's 'Behemoth!' in Director's First Film in 14 Years Summary Tony Gilroy has unveiled the official trailer for Behemoth! starring Pedro Pascal as a cellist scoring films in Los AngelesThe nonlinear narrative features original compositions from nine acclaimed composers including Michael Giacchino and Alan SilvestriThe ensemble cast stars Olivia Wilde alongside Will Arnett and Matthew Lillard marking Gilroy's first feature film in 14 years Filmmaker Tony Gilroy has officially unveiled the trailer for his upcoming drama Behemoth!, starring Pedro Pascal as a classical cellist returning to Los Angeles to score motion pictures. The project marks the director’s first feature film in 14 years following a celebrated reception at the New York Film Festival.The formally ambitious, character-driven narrative chronicles two decades in the life of cellist Alex Serian (Pascal), exploring the unresolved reasons behind his departure and return. Constructed around a nonlinear, music-led framework where musical cues trigger memories spanning 20 years, the film consistently intercuts between live orchestral performances and Alex’s real life. Rather than serving as passive background accompaniment, the score functions as an active narrative device reflecting his personal turning points.To establish the film's complex musical architecture, Gilroy enlisted nine distinct composers—Michael Giacchino, Alan Silvestri, James Newton Howard, Michael Abels, Henry Jackman, Emily Bear, Lukas Frank, Nami Melumad, and Brandon Roberts—each scoring a different fictional movie within the story. The ensemble cast features Olivia Wilde, Eva Victor, Alexa Swinton, Will Arnett, and Matthew Lillard, arriving as Gilroy’s first feature since 2012’s The Bourne Legacy and his acclaimed tenure helming Andor.Behemoth! premieres in theaters on December 4. Read more at Hypebeast"
+    },
+    {
+      "id": "66b5ea5933b0a5fa",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Onitsuka Tiger Gives the “Paraty” Mexico 66 a Furry Makeover",
+      "url": "https://hypebeast.com/2026/10/onitsuka-tiger-paraty-mexico-66-official-images-release-info",
+      "publishedAt": "2026-10-29T09:44:35.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Onitsuka Tiger Gives the “Paraty” Mexico 66 a Furry Makeover Name: Onitsuka Tiger “Paraty” Mexico 66MSRP: $190 USDRelease Date: Available NOWWhere to Buy: Onitsuka TigerOnitsuka Tiger gives its enduring “Paraty” Mexico 66 a decidedly softer personality for Fall/Winter 2026, wrapping the laceless silhouette in long-pile faux fur. Leading the latest treatment is a monochromatic “Faded Yellow” colorway, which coats the upper, lining, eyelets and rubber tooling in a pale, slightly washed yellow. The shaggy surface introduces visible shifts in texture and shadow across the otherwise tonal build, while smoother suede-like panels reinforce the toe, eyestay and signature Onitsuka Tiger Stripes for subtle contrast. Despite the added volume, the recognizable low-profile shape of the Mexico 66 remains intact, giving the familiar retro runner an almost slipper-like appearance.The furry edition extends across a broader tonal palette that also includes Cotton Candy pink, Airy Blue, Birch and Brown Storm, ranging from soft pastels to warmer neutral shades. Each maintains the same lace-free construction, leaving the metal eyelets exposed as a decorative detail, while faux fur continues through the interior for a plush finish. The Paraty's collapsible heel also allows the shoe to be worn two ways - conventionally or stepped down like a mule - reinforcing the relaxed character of the design.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f7c63df664706a87",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ASICS' Life-Sized Diorama Offered a Window Into a New Human Species",
+      "url": "https://hypebeast.com/2026/10/asics-homo-scrollus-canapus-pop-up-recap",
+      "publishedAt": "2026-10-29T09:44:30.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "ASICS' Life-Sized Diorama Offered a Window Into a New Human Species With its founding philosophy, a Sound Mind in a Sound Body, ASICS has stood as an unwavering champion of movement for the mind. Feeding into events and activations, this year on World Mental Health Day, the brand installed a life-sized diorama in Paris showing its commitment to tackling issues humanity faces today. Boxed in a see-through case, the diorama centered on a realistic human model, sitting in a familiar position in front of screens, immobile and hunched over. From a global study stating 86% of people surveyed spend their waking hours inactive, it captured one of the most widespread modern behaviors. ASICS presented the model as part of a new species it calls Homo Scrollus Canapus. Though it takes a humorous side, the installation adopted a museum format with explanatory labels and documentary-style voiceovers to engage those passing by. Hypebeast visited the forecourt of Grande Halle de La Villette, which housed the diorama for two days. Positioned in the middle of a high-traffic area, we went on the ground to catch individuals as they interacted with the installation. The video shows all walks of life observing the model and sharing personal stories of the modern-day habits that have quietly designed movement out of our lives, like doomscrolling, binge-watching, and prolonged hours in front of computer screens.The diorama, however, wasn’t just a warning of the new species. It gave onlookers a solution to kicking their restless slump to the curb. On one side of the installation, a board noted that dedicating a few minutes to movement can boost your mind and body. These insights were championed by its 15 Minutes to Thrive challenge. Aiming to encourage everyday activity, we gathered perspectives on the initiative in a dedicated Ask the Community installment. View this post on InstagramA post shared by HYPEBEAST (@hypebeast)You can take a closer look at Homo Scrollus Canapus by watching the video above.Find out more about ASICS’ Movement Conservation project online now. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "4aae931a539e2e1d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Prada's Holiday 2026 Campaign Turns Into a Hand-Drawn Winter Fairytale",
+      "url": "https://hypebeast.com/2026/10/prada-holiday-2026-campaign-disney-animator-john-pomeroy-info",
+      "publishedAt": "2026-10-29T09:27:49.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Prada's Holiday 2026 Campaign Turns Into a Hand-Drawn Winter Fairytale Summary Prada unveils its Holiday 2026 campaign, “Drawing Prada.”Maya Hawke, Sadie Sink and other actors star in whimsical, hand-illustrated worlds.Animator John Pomeroy and photographer Glen Luchford blend live action with traditional animation. Prada is bringing the magic of traditional animation into the holiday season with its Holiday 2026 campaign, titled “Drawing Prada.” Blurring the boundaries between reality and imagination, the campaign transforms the House's festive narrative into a series of whimsical, hand-illustrated worlds that evoke the charm of classic Hollywood cinema and childhood storybooks.Under the creative direction of Miuccia Prada and Raf Simons, the project celebrates the art of storytelling through an intentionally nostalgic medium, placing hand-drawn animation at the center of its visual identity. Leading the creative process is legendary animator John Pomeroy, whose decades-long career has helped shape some of cinema's most recognizable animated productions at studios such as Disney. His team of artists brings fantastical winter landscapes and playful animal characters to life, reinforcing the campaign's emphasis on craftsmanship, human expression and the enduring appeal of stories passed between generations.The campaign features an ensemble of rising and established acting talent, including Chen Haoyu, Luther Ford, Kelvin Harrison Jr., Maya Hawke and Sadie Sink. Each appears within an imaginative setting where live-action photography merges with illustrated scenery, creating dreamlike compositions that feel suspended between a cinematic frame and a hand-painted storybook. Shot by Glen Luchford, the campaign carefully aligns lighting and perspective with the surrounding illustrations, allowing the real and imagined elements to coexist within the same visual space.Across a series of still images and short footage, the cast encounters whimsical wintertime scenes and fantastical environments, where the contrast between contemporary figures and traditional animation lends the imagery a distinctly surreal quality. The result is a playful interpretation of the holiday season that draws on the warmth of familiar festive imagery while celebrating the artistry behind its creation. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c9f1b4dc74816bcf",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Pokémon Unite' to Officially Shut Down in March 2027",
+      "url": "https://hypebeast.com/2026/10/pokemon-unite-officially-shutting-down-march-2027-news",
+      "publishedAt": "2026-10-29T09:15:11.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "'Pokémon Unite' to Officially Shut Down in March 2027 Summary The Pokémon Company has announced that 'Pokémon Unite' will officially conclude service on March 23 2027Developed with TiMi Studios the five-on-five MOBA has halted gem purchases and auto-renewals ahead of a final farewell event in NovemberA newly introduced Library feature will allow players to download and view select in-game items locally before servers go offline The Pokémon Company has confirmed that Pokémon Unite will officially shut down in March 2027. The five-on-five multiplayer online battle arena title will close its servers on March 23, 2027, at 00:00 UTC (March 22 at 8:00 PM ET), concluding a nearly six-year live-service run.Developed alongside Tencent’s TiMi Studios, the free-to-play MOBA originally launched on Nintendo Switch in July 2021 before rolling out to mobile devices with full cross-platform matchmaking. The impending shutdown follows an earlier indication in July, when The Pokémon Company removed the title from the 2027 Pokémon World Championships in favor of an independent Tokyo tournament that will begin qualifiers this December.With the closure announced, in-game sales of gems, new Unite Club memberships, and subscription auto-renewals have been terminated immediately. Players can continue spending previously acquired gems until the final cutoff, and existing memberships will remain active through their standard expiration dates. A final update featuring a farewell event is scheduled for November 12, alongside a new Library feature allowing users to locally download and view select in-game inventory before the servers permanently go dark. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "537756006c07d69f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "PlayStation Revives '90s Transparent Tech Aesthetic With the “Prism Collection”",
+      "url": "https://hypebeast.com/2026/10/playstation-the-prism-collection-dualsense-wireless-controllers-release-info",
+      "publishedAt": "2026-10-29T08:48:53.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "PlayStation Revives '90s Transparent Tech Aesthetic With the “Prism Collection” Summary PlayStation unveils its Prism Collection of translucent DualSense controllers and matching PS5 covers.Flare Orange, Emerald Green and Graphite Gray revive nostalgic '90s gaming aesthetics.Launching February 4, 2027, controllers cost around $85 USD, with preorders beginning November 10, 2026. Transparent gaming hardware is making a comeback as PlayStation revisits one of the most recognizable design trends of the late 1990s with its new Prism Collection. The latest lineup introduces three translucent colorways for the DualSense wireless controller and matching PlayStation 5 console covers, offering a nostalgic yet futuristic interpretation of Sony's current-generation hardware.Available in Flare Orange, Emerald Green and Graphite Gray, each design features a high-gloss, see-through shell that offers a glimpse of the technology beneath. Flare Orange delivers a vibrant finish that takes on subtle rosy tones where the transparent materials overlap, while Emerald Green adopts a deeper hunter-green hue with a silky appearance. Graphite Gray offers a more understated alternative, pairing a cool-toned, smoky exterior with the collection's glossy finish.Across all three designs, a contrasting metallic center panel brings a refined touch to the controllers, balancing their exposed internal details with the PS5's streamlined industrial aesthetic. According to PlayStation's Color, Material and Finish design team, the collection was developed in response to fans' enthusiasm for the return of transparent controllers, drawing inspiration from the see-through electronics that defined gaming culture in the late '90s.The Prism Collection is scheduled to launch globally starting February 4, 2027, with regional availability varying by market. DualSense controllers are priced at $85 USD each, while matching console covers retail for $75 USD. Preorders begin November 10, 2026, in participating markets, with the collection available through PlayStation Direct where supported and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "07336a882163ef1d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kobe Bryant's Game-Worn, Dual-Signed Air Jordan 8 Lakers PE Hits the Auction Block",
+      "url": "https://hypebeast.com/2026/10/the-realest-kobe-bryant-game-worn-dual-signed-air-jordan-8-lakers-pe-auction-info",
+      "publishedAt": "2026-10-29T08:48:24.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Kobe Bryant's Game-Worn, Dual-Signed Air Jordan 8 Lakers PE Hits the Auction Block Summary The Realest has officially opened the auction for Kobe Bryant's game-worn and dual-signed Air Jordan 8 Lakers Player Exclusive sneakersSourced from Bryant's celebrated 2002–03 sneaker free agency season the pair features his signature and number 8 inscription across the strapsIndependently photomatched by MeiGray and SIA the size 14 sneakers are open for bidding alongside his 2003–04 game-worn jersey through November 8 The Realest has officially launched the auction for Kobe Bryant's game-worn, dual-signed Air Jordan 8 Lakers Player Exclusive sneakers. Sourced from the Black Mamba's historic 2002–03 sneaker free agency era, the rare footwear reaches the auction block following the platform’s international Gold Label Grails World Tour.Worn during the Los Angeles Lakers’ 104–96 victory over the Boston Celtics on March 21, 2003, the size 14 pair comes finished in the franchise’s signature purple, gold, and white palette. Bryant logged 13 points, seven assists, and three rebounds during the matchup at STAPLES Center, leaving behind distinct in-game wear along with the original laces and insoles. Both sneakers feature Bryant’s personal signature and his iconic \"No. 8\" inscription written in black marker across the model’s hallmark criss-cross straps. The artifact has been independently photomatched by both MeiGray and Sports Investors Authentication (SIA).The sneakers arrive alongside Bryant’s signed, game-worn No. 8 Lakers jersey from the 2003–04 season, which has already surpassed $712,000 USD in active bidding. Prior to the sale, both items traveled across Los Angeles and premier Asian destinations including Hong Kong, Tokyo, and Beijing, stopping at Mutianyu on the Great Wall of China and the Bird’s Nest National Stadium.Bidding on Kobe Bryant’s game-worn Air Jordan 8 Lakers Player Exclusives and his 2003–04 game-worn jersey closes on November 8, 2026, exclusively via TheRealest. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "efc500ad1d420f2c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kith and Timberland Deliver Three-Boot Footwear Collection for Winter 2026",
+      "url": "https://hypebeast.com/2026/10/kith-timberland-three-boot-footwear-collaboration-wild-dove-burgundy-wheat-winter-2026-collection-release-info",
+      "publishedAt": "2026-10-29T08:32:18.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Kith and Timberland Deliver Three-Boot Footwear Collection for Winter 2026 Summary Kith and Timberland have reunited for a three-piece footwear collection celebrating Kith's 15th anniversaryThe winter-ready capsule includes the 6-Inch Shearling 40 Below in Wheat alongside Wild Dove and Burgundy silhouettesAll three styles will launch on October 30 via Kith stores globally Kith.com and the Kith App Kith and Timberland have joined forces for the collaborative Winter 2026 Collection, delivering a versatile three-piece footwear capsule designed alongside Ronnie Fieg. The seasonal release celebrates Kith’s 15th anniversary by bringing together archival revivals and new colorways tailored for harsh climates.Leading the assortment is the hybrid 6-Inch Shearling 40 Below in \"Wheat,\" which fuses the profile of Timberland’s classic 6-Inch Boot with the taller 40 Below Super Boot first issued in 2013. The silhouette combines waterproof nubuck with a black quilted leather collar, a rugged Vibram outsole, full interior shearling lining, and co-branded debossed accents.Expanding beyond the archival wheat edition, the collection also delivers the 40 Below Shearling Super Boot in a monochrome \"Wild Dove\" makeup featuring waterproof nubuck, metal eyelets, and full shearling insulation. Completing the three-boot lineup is a classic 6-Inch Boot coated in rich \"Burgundy\" nubuck with gold-tone hardware. Each style includes extra laces and arrives packaged in illustrated commemorative boxes.The Ronnie Fieg x Timberland Winter 2026 collection releases on October 30, 2026, alongside Kith’s seasonal apparel range, available at Kith flagship locations worldwide, Kith, and through the Kith App.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "da9b034c2fea9992",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Dr. Martens Channels ‘The Exorcist’ Across Three Iconic Silhouettes",
+      "url": "https://hypebeast.com/2026/10/dr-martens-the-exorcist-collaboration-collection-1460-1461-jadon-release-info",
+      "publishedAt": "2026-10-29T08:27:46.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Dr. Martens Channels ‘The Exorcist’ Across Three Iconic Silhouettes Name: Dr. Martens x ‘The Exorcist’ CollectionMSRP: ¥2,750 - ¥39,600 JPY (approx. $17 - $250 USD)Release Date: Available NowWhere to Buy: Dr. Martens JapanDr. Martens heads into Halloween with a capsule inspired by William Friedkin’s 1973 cult horror classic, The Exorcist, translating some of the film’s most unsettling imagery and dialogue across three of its signature silhouettes.The 1460 boot arrives in Black/Purple, using smooth leather as a backdrop for a large-scale image of possessed Regan MacNeil across the upper, while “FAITHLESS SLIME” is debossed at the heel and repeated on an alternate set of laces. Matte black eyelets, a black-and-purple AirWair heel loop and signature yellow welt stitching complete the design.The 1461 shoe takes a darker, more understated approach in Black Vintage Smooth leather, with “I’M NOT REGAN” laser-etched across the surface so that a biscuit-brown undertone shows through the lettering. Black welt stitching, a metallic “THE EXORCIST” lace charm and additional “FAITHLESS SLIME” graphics keep the low-cut silhouette visually restrained but loaded with references to the film.The Jadon boot delivers the collection’s most dramatic finish, coating its platform silhouette in glossy purple Arcadia leather with a two-tone rub-off effect that gives the surface greater depth and sheen. “I’M NOT REGAN” is embossed across the upper, joined by a custom zipper, lace jewelry and a black-and-purple heel loop, while the chunky platform sole heightens its already imposing profile.All three pairs also feature specially printed insoles and additional co-branded details, extending the horror references into less immediately visible areas. Beyond footwear, the capsule includes a black leather backpack printed with Father Merrin’s silhouette and jacquard socks covered in purple “I’M NOT REGAN” lettering.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6f9635650d3e4779",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Balenciaga Brings the Snow Indoors for Its 2026 Skiwear Campaign",
+      "url": "https://hypebeast.com/2026/10/balenciaga-2026-skiwear-collection-campaign-pierpaolo-piccioli-release-info",
+      "publishedAt": "2026-10-29T08:02:38.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Balenciaga Brings the Snow Indoors for Its 2026 Skiwear Campaign Summary Balenciaga unveils its 2026 Skiwear Collection under Pierpaolo Piccioli.Technical outerwear, oversized footwear and winterized bags combine alpine performance with luxury design.The campaign features surreal indoor snowfall across Parisian interiors, highlighting the collection's versatility. Snow-covered slopes meet Parisian interiors in Balenciaga's latest Skiwear campaign, where the boundaries between alpine performance and urban luxury are deliberately blurred. Designed by Creative Director Pierpaolo Piccioli, the House's 2026 Skiwear Collection reimagines winter dressing through high-performance materials, exaggerated silhouettes and a distinctly fashion-forward sensibility.The collection spans technical outerwear, insulated separates and versatile layering pieces for men and women, balancing functional construction with Balenciaga's distinctive proportions. High-collar parkas, reversible blousons, cropped puffers and stola jackets form the foundation of the lineup, complemented by snow pants crafted from techno cotton and nylon. Hand-drawn prints inspired by mountain animal hides and faux-fur textures introduce a more expressive dimension, appearing in high-visibility hues that contrast with the collection's streamlined silhouettes.Functional details are integrated into the visual language of the garments, from reflective Balenciaga graphics to branded pull tabs attached to zippers. Beyond the slopes, lined denim, knitwear, tracksuits and jersey essentials offer a more relaxed approach to winter dressing, allowing the technical pieces to transition into everyday wardrobes without compromising their protective qualities.Accessories further extend the collection's alpine-inspired aesthetic, with familiar Balenciaga designs receiving winter-ready material treatments. The Le City, Le 7, Rodeo and Le City Backpack are reinterpreted in merino shearling, waxed suede, vintage goat and Arena lamb, offered in seasonal shades including polar blue, storm grey, optic white, rose quartz, light espresso and caramel.Footwear takes on an equally exaggerated character, led by the oversized Alaska boots and flatform mules, alongside winterized Combat Strike and nubuck-Nappa Arctic styles featuring sturdy nylon laces and chunky treaded soles. Ski masks in black and mirrored pink, snow-glare-blocking sunglasses, gloves, scarves, earmuffs and headwear complete the assortment, including a cotton canva"
+    },
+    {
+      "id": "352e45cba41f0fae",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kit Harington Fronts Kith's Expansive Winter 2026 Campaign and Collection",
+      "url": "https://hypebeast.com/2026/10/kit-harington-kith-expansive-winter-2026-campaign-collection-release-info",
+      "publishedAt": "2026-10-29T08:00:21.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "Kit Harington Fronts Kith's Expansive Winter 2026 Campaign and Collection Summary Kith has enlisted acclaimed actor Kit Harington to star in its British countryside Winter 2026 campaignThe collection marks a debut collaboration with Japanese label SEVEN BY SEVEN alongside footwear projects with Timberland adidas Originals and Clarks OriginalsThe entire seasonal assortment is scheduled to drop on October 30 across Kith flagships globally and online via Kith.com and the Kith App Kith has unveiled its comprehensive Winter 2026 Collection, spotlighted by a visual campaign set in the British countryside starring actor Kit Harington. The seasonal offering delivers an expansive lineup spanning winter-ready apparel, accessories, Kith Home decor, the elevated &Kin label, and a debut collaborative partnership with Japanese menswear imprint SEVEN BY SEVEN.Framed by sweeping rural landscapes, Harington models an assortment anchored in cold-weather functionality and layered tailoring. The core mainline revitalizes staple outerwear including the Corey, Midi, and Maverick Puffers, complemented by the Wax Cotton Darcy Cropped Hunting Jacket, Reversible Knit Jaysen Bomber, and Shearling Patchwork Becker Jacket. The refined &Kin line emphasizes elevated materiality with the pony hair Vail Jacket, lambskin Oren Blouson Jacket, shearling Rio Jacket, and the return of tailored suiting created in collaboration with Giorgio Armani. Antique-washed brushed indigo is utilized across the Tomas Buttondown, Erin Jacket, and Webster Chill Jean, while pure cashmere hoodies, cardigans, and sweatpants round out the knitwear assortment. Collaborating with SEVEN BY SEVEN, Kith crafts a specialized capsule focused on washed Japanese indigo and antique-finished suede outerwear.Footwear highlights the seasonal rollout across three historic partnerships. Ronnie Fieg continues his work with Timberland via three shearling-lined boots, while the adidas Originals Classics Program™ introduces premium suede and leather executions of the Nizza, Attitude, Adilette, Stan Smith One Piece, and Superstar. Fieg's Clarks Originals 8th St partnership also returns with the Laddow Shearling, Rossendale Inverno, and beaded Rossendale 2 silhouettes. Lifestyle extensions include marble home goods alongside two monogram-embossed leather chairs crafted with Modernica.The Kith Winter 2026 collection officially releases on Friday, October 30, 2026, across Kith flagship stores worldwide, and online at 11:00 AM local ti"
+    },
+    {
+      "id": "897bec0043bdf35c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "km5 Expands Its Minimalist Audio Lineup With the Sp1 Speaker and Mp1 Mixer",
+      "url": "https://hypebeast.com/2026/10/km5-unveils-sp1-speaker-and-mp1-mixer-setup",
+      "publishedAt": "2026-10-29T07:45:22.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "km5 Expands Its Minimalist Audio Lineup With the Sp1 Speaker and Mp1 Mixer Summary km5 is expanding its audio ecosystem with a new display-friendly speaker and mixerThe hardware features built-in batteries, tactile DJ controls and wireless connectivityPreorders officially open in November 2026, with shipments scheduled for early 2027 Audio brand km5 announced the upcoming release of its Sp1 speaker and Mp1 mixer, delivering a hardware expansion designed to directly complement its Cp1 CD player. This release expands km5's minimalist audio ecosystem, providing a display-friendly setup that fundamentally encourages tactile interaction with music through manual mixing and physical equalization. Both the Sp1 speaker and Mp1 mixer borrow the flat, frame-like format of km5's Cp1 CD player to maintain a cohesive design language. Available in stark black or white finishes, the Sp1 speaker and Mp1 mixer share the exact same size dimensions, creating a uniformed aesthetic when placed side by side.The Sp1 speaker features a sleek perforated grille on its front surface. A dot-matrix display is cleverly hidden beneath its grille to show time and playback information without breaking the visual lines of the device. The top edge of the Sp1 speaker houses physical buttons and a retractable metal antenna, signaling its broader utility. Beyond standard playback, the Sp1 speaker functions as an FM radio and allows users to record radio programs. Internally, the Sp1 speaker is equipped with two 1.77-inch full-range drivers and two passive radiators. Audio playback on the Sp1 speaker is supported via Bluetooth and microSD. For a wider soundstage, two Sp1 units can be paired together to provide stereo playback. Built for portability, both the Sp1 and Mp1 operate on built-in batteries, with the Sp1 speaker boasting an estimated battery life of approximately 12 hours.The Mp1 mixer shifts the design focus toward performance, filling its front surface area entirely with knobs and sliders. It features two channels with separate level sliders and a crossfader for blending sources. Users can dial in the sound using three-band EQ controls for adjusting bass, midrange and treble, as well as additional sound filters. Adding to the DJ-style functionality, loop buttons on the Mp1 mixer allow users to repeat sections of a track. Two Bluetooth inputs receive music from external sources, such as a smartphone or the Cp1 CD player. As a central hub, the Mp1 can wirelessly send combined audio to "
+    },
+    {
+      "id": "6463fca8c0669d30",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "weber x BLOCKHEAD MOTORS Celebrate 20 Years of ‘Cars’ With a Lightning McQueen Tee",
+      "url": "https://hypebeast.com/2026/10/weber-blockhead-motors-collaboration-collection-release-info",
+      "publishedAt": "2026-10-29T07:44:48.000Z",
+      "collectedAt": "2026-10-29T18:17:00.690Z",
+      "text": "weber x BLOCKHEAD MOTORS Celebrate 20 Years of ‘Cars’ With a Lightning McQueen Tee Summary weber teams up with custom R/C car label BLOCKHEAD MOTORS on a T-shirt marking the 20th anniversary of 'Cars'An oversized Lightning McQueen graphic and the slogan “Lightning Speed Ahead” anchor the front, with both brands’ logos on the backThe tee arrives in white and black, packaged in a sleeve inspired by 1990s promo record jackets weber and BLOCKHEAD MOTORS have linked up on a graphic T-shirt celebrating 20 years since Cars first hit theaters. The collaboration pairs weber with BLOCKHEAD MOTORS, a name with a devoted following among custom R/C car fans, and puts the film’s star racer front and center on a tee offered in two colorways and in both adult and kids’ sizes.The front of the shirt is built around Lightning McQueen, whose likeness is printed large across the chest. Paired with him is the phrase “Lightning Speed Ahead,” a line that plays directly off the character’s name and gives the graphic its forward-moving energy. The scale of the print keeps the focus squarely on the film, letting the tee read first and foremost as a Cars piece.Flip the shirt over and the branding takes over, with weber and BLOCKHEAD MOTORS’ logos sitting together on the back. The split between a movie-led front and a logo-led back mirrors the two worlds the collaboration draws from, the film itself and the R/C car culture BLOCKHEAD MOTORS is known for. Both white and black versions are available, and the inclusion of kids’ sizes makes it a release parents and children can wear together.Packaging is where the drop goes a step further. Rather than arriving in a standard poly bag, each tee comes housed in a sleeve modeled on the record jackets used as promotional items in the 1990s, turning the purchase into something closer to a collectible than a simple shirt.The timing gives the release extra resonance. Cars debuted in 2006 as a Pixar production, introducing Lightning McQueen as a cocky rookie racer who finds perspective in the forgotten Route 66 town of Radiator Springs. Two decades on, the film’s original audience has grown up, and a tee available in both adult and kids’ cuts speaks to a generation that can now share the movie with its own children.The weber x BLOCKHEAD MOTORS Cars T-shirt drops October 31 via the weber and BLOCKHEAD MOTORS online stores. Click here to view full gallery at Hypebeast"
     }
   ]
 }

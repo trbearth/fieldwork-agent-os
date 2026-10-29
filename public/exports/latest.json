@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-28",
+    "id": "2026-10-29",
     "mode": "live",
-    "displayDate": "OCT 28, 2026, 02:10 PM EDT",
-    "generatedAt": "2026-10-28T18:10:48.711Z",
-    "itemsCollected": 56,
+    "displayDate": "OCT 29, 2026, 02:17 PM EDT",
+    "generatedAt": "2026-10-29T18:17:01.967Z",
+    "itemsCollected": 55,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 9
+        "count": 8
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -56,13 +56,13 @@
       "id": "archival-sportswear",
       "name": "Archival sportswear",
       "stage": "emerging",
-      "score": 48,
-      "confidence": 25,
-      "youthRelevance": 65,
-      "direction": "up",
+      "score": 26,
+      "confidence": 21,
+      "youthRelevance": 62,
+      "direction": "down",
       "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
       "citations": [
         {
           "title": "adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring",
@@ -71,38 +71,18 @@
           "url": "https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info"
         }
       ]
-    },
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 25,
-      "confidence": 22,
-      "youthRelevance": 38,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
-      "citations": [
-        {
-          "title": "The 10 Best Airbnbs in Venice for Canalside Charm",
-          "source": "Vogue",
-          "date": "Oct 22",
-          "url": "https://www.vogue.com/article/best-airbnbs-in-venice"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "1 mention this week versus 3 in the prior seven-day window."
+    "name": "Archival sportswear",
+    "reason": "1 mention this week versus 2 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1028",
+    "code": "AUTO 1029",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
