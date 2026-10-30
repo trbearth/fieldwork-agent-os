@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "social-2026-10-29",
+    "id": "social-2026-10-30",
     "mode": "live",
-    "generatedAt": "2026-10-29T18:17:11.899Z",
-    "postsCollected": 28,
+    "generatedAt": "2026-10-30T17:53:11.447Z",
+    "postsCollected": 29,
     "networksReady": 1,
     "usedPreviousReport": false
   },
@@ -44,12 +44,17 @@
       "id": "washed-tailoring",
       "name": "Washed tailoring",
       "stage": "emerging",
-      "score": 64,
-      "confidence": 60,
-      "youthRelevance": 55,
+      "score": 69,
+      "confidence": 62,
+      "youthRelevance": 56,
       "velocity": 0,
-      "evidence": "10 public posts · 1 network · 7-day comparison",
+      "evidence": "11 public posts · 1 network · 7-day comparison",
       "citations": [
+        {
+          "title": "A brown checked jacket and Fair Isle vest, with a white Oxford and red/navy tie. Grey trousers give ",
+          "url": "https://mastodon.social/@seoul_trad/117527198541875829",
+          "network": "Mastodon"
+        },
         {
           "title": "A Fair Isle vest adds colour to a navy sports jacket and light-beige chinos. A white Oxford, red/nav",
           "url": "https://mastodon.social/@seoul_trad/117521560395784171",
@@ -63,11 +68,6 @@
         {
           "title": "A varsity jacket over a grey herringbone suit. I let the blazer hem show below the shorter jacket, w",
           "url": "https://mastodon.social/@seoul_trad/117510435827971369",
-          "network": "Mastodon"
-        },
-        {
-          "title": "A navy double-breasted blazer, a blue Oxford and grey pleated trousers. A green-striped tie adds col",
-          "url": "https://mastodon.social/@seoul_trad/117505130972075612",
           "network": "Mastodon"
         }
       ]
@@ -126,7 +126,7 @@
     {
       "id": "mastodon",
       "status": "ready",
-      "reason": "28 observations"
+      "reason": "29 observations"
     },
     {
       "id": "bluesky",

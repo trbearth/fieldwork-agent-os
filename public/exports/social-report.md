@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-29
+# Fieldwork Public Pulse — 2026-10-30
 
 ## 1. Quiet performance
 
@@ -13,14 +13,14 @@
 
 ## 2. Washed tailoring
 
-**emerging · score 64 · confidence 60% · youth 55%**
+**emerging · score 69 · confidence 62% · youth 56%**
 
-10 public posts · 1 network · 7-day comparison
+11 public posts · 1 network · 7-day comparison
 
+- [A brown checked jacket and Fair Isle vest, with a white Oxford and red/navy tie. Grey trousers give ](https://mastodon.social/@seoul_trad/117527198541875829) — Mastodon
 - [A Fair Isle vest adds colour to a navy sports jacket and light-beige chinos. A white Oxford, red/nav](https://mastodon.social/@seoul_trad/117521560395784171) — Mastodon
 - [Charcoal pinstripes, a white Oxford and a red/navy crest tie. The quiet stripe keeps the suit unders](https://mastodon.social/@seoul_trad/117516269136247312) — Mastodon
 - [A varsity jacket over a grey herringbone suit. I let the blazer hem show below the shorter jacket, w](https://mastodon.social/@seoul_trad/117510435827971369) — Mastodon
-- [A navy double-breasted blazer, a blue Oxford and grey pleated trousers. A green-striped tie adds col](https://mastodon.social/@seoul_trad/117505130972075612) — Mastodon
 
 ## 3. Decorated basics
 
@@ -43,7 +43,7 @@
 
 ## Network status
 
-- **mastodon:** ready — 28 observations
+- **mastodon:** ready — 29 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

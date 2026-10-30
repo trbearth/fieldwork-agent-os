@@ -1,17 +1,17 @@
-# Fieldwork Daily Signal — 2026-10-29
+# Fieldwork Daily Signal — 2026-10-30
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Quiet performance
 
-**emerging · score 68 · confidence 50% · youth 79%**
+**emerging · score 46 · confidence 46% · youth 68%**
 
 Quiet performance is appearing across 2 independent public sources.
 
-4 observations · 2 independent sources · +100% seven-day velocity
+3 observations · 2 independent sources · +0% seven-day velocity
 
-- [The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens](https://hypebeast.com/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info) — Hypebeast, Oct 28
 - [Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good](https://www.highsnobiety.com/p/vans-half-cab-gore-tex-insulated-shoes/) — Highsnobiety, Oct 26
+- [The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens](https://hypebeast.com/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info) — Hypebeast, Oct 28
 
 ## 2. Archival sportswear
 
