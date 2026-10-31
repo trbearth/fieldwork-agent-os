@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-30",
+    "id": "2026-10-31",
     "mode": "live",
-    "displayDate": "OCT 30, 2026, 01:53 PM EDT",
-    "generatedAt": "2026-10-30T17:53:01.680Z",
-    "itemsCollected": 61,
+    "displayDate": "OCT 31, 2026, 01:04 PM EDT",
+    "generatedAt": "2026-10-31T17:04:58.440Z",
+    "itemsCollected": 34,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 14
+        "count": 16
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 46,
-      "confidence": 46,
-      "youthRelevance": 68,
-      "direction": "flat",
+      "score": 40,
+      "confidence": 42,
+      "youthRelevance": 57,
+      "direction": "down",
       "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +0% seven-day velocity",
+      "whyNow": "2 mentions this week versus 4 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · -50% seven-day velocity",
       "citations": [
         {
           "title": "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good",
@@ -57,12 +57,12 @@
       "name": "Archival sportswear",
       "stage": "emerging",
       "score": 26,
-      "confidence": 21,
+      "confidence": 20,
       "youthRelevance": 62,
-      "direction": "down",
+      "direction": "flat",
       "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
           "title": "adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring",
@@ -75,14 +75,14 @@
   ],
   "cooling": {
     "name": "Quiet performance",
-    "reason": "3 mentions this week versus 3 in the prior seven-day window."
+    "reason": "2 mentions this week versus 4 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1030",
+    "code": "AUTO 1031",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [

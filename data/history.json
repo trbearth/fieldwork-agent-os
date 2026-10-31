@@ -3521,174 +3521,46 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-10-31",
+      "mode": "live",
+      "displayDate": "OCT 31, 2026, 01:04 PM EDT",
+      "generatedAt": "2026-10-31T17:04:58.440Z",
+      "itemsCollected": 34,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 16
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 40,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "b7186c667eb85593",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "From the Archives: Before The Talented Mr. Ripley, There Was This Vogue Editorial",
-      "url": "https://www.vogue.com/article/from-the-archives-postcard-from-portofino",
-      "publishedAt": "2026-08-02T12:00:00.000Z",
-      "collectedAt": "2026-08-02T13:38:57.079Z",
-      "text": "From the Archives: Before The Talented Mr. Ripley, There Was This Vogue Editorial The December 1992 fashion spread we return to every summer."
-    },
-    {
-      "id": "f2dd7722bc14f9e6",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer",
-      "url": "https://www.vogue.com/article/the-hot-list-with-gab-waller",
-      "publishedAt": "2026-08-02T10:00:00.000Z",
-      "collectedAt": "2026-08-02T13:38:57.080Z",
-      "text": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer Gab Waller’s monthly cheat sheet of things to shop now before the most dreaded three words in online shopping appear (“out of stock”)."
-    },
-    {
-      "id": "948e03779b012830",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "32 Items Vogue Editors Happily Shopped, From Raffia Bags to Vibrant Swimsuits",
-      "url": "https://www.vogue.com/article/what-vogue-editors-purchased",
-      "publishedAt": "2026-08-02T10:00:00.000Z",
-      "collectedAt": "2026-08-02T13:38:57.080Z",
-      "text": "32 Items Vogue Editors Happily Shopped, From Raffia Bags to Vibrant Swimsuits Curious what Vogue editors actually spend their money on? These are the items that you’ll actually find in our closets this summer."
-    },
-    {
-      "id": "e5e783aa7c48a2ff",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Kristen Stewart’s Perfect Red Carpet Combo? A Suit Jacket and Short-Shorts",
-      "url": "https://www.vogue.com/article/kristen-stewart-suit-jacket-and-short-shorts",
-      "publishedAt": "2026-08-02T07:24:29.000Z",
-      "collectedAt": "2026-08-02T13:38:57.080Z",
-      "text": "Kristen Stewart’s Perfect Red Carpet Combo? A Suit Jacket and Short-Shorts Hitting the red carpet for “Teenage Sex and Death at Camp Miasma” with Gillian Anderson and Hannah Einbinder, Kristen Stewart kept to her own rebel rules."
-    },
-    {
-      "id": "a538431d5095d911",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Beauty Marks: The Best Beauty Looks of the Week",
-      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-1",
-      "publishedAt": "2026-08-01T21:32:27.000Z",
-      "collectedAt": "2026-08-02T13:38:57.080Z",
-      "text": "Beauty Marks: The Best Beauty Looks of the Week From Zara Larsson’s leopard lids to Dua Lipa’s dotty silver nails—this week, the best beauty looks popped with bold patterns and colors."
-    },
-    {
-      "id": "8ce2ccdfbc6f9f22",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer",
-      "url": "https://www.highsnobiety.com/p/adidas-by-stella-mccartney-sportswear-76/",
-      "publishedAt": "2026-08-02T10:09:01.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "Stella McCartney Took adidas’ Slim Sneaker Somewhere Much Chicer The adidas by Stella McCartney Sportswear 76 gets a fall-ready makeover in a rich Maroon colorway, blending a low-profile with the designer’s signature edge."
-    },
-    {
-      "id": "d288e1f4710f6f76",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Vans' Trend-Driven Skinny Runner Actually Dates Back to 1982",
-      "url": "https://www.highsnobiety.com/p/vans-premium-style-152-chilli-pepper-bordeaux-red/",
-      "publishedAt": "2026-08-02T07:19:00.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "Vans' Trend-Driven Skinny Runner Actually Dates Back to 1982 Vans dives deep into its forgotten athletic vault with the arrival of the Vans Premium LX Style 152 in Chili Pepper/Bordeaux Red."
-    },
-    {
-      "id": "ca3986dafb921342",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Converse’s Leather “Samba” Is Surprisingly Dapper (& Skate-able)",
-      "url": "https://www.highsnobiety.com/p/converse-road-classic-sk-pa-ox/",
-      "publishedAt": "2026-08-01T21:07:56.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "Converse’s Leather “Samba” Is Surprisingly Dapper (& Skate-able) Converse debuts a new Road Classic SK PA OX sneaker dressed in slick leather. Here's everything on the stylish skate shoe."
-    },
-    {
-      "id": "810856d574e79f79",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "When It Rains, Vans’ Mighty GORE-TEX Sneaker Still Shines",
-      "url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-black/",
-      "publishedAt": "2026-08-01T21:17:04.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "When It Rains, Vans’ Mighty GORE-TEX Sneaker Still Shines Vans' stylish Crosspath XC GORE-TEX lands in black with silver accents, bringing some shine to the trail-ready design."
-    },
-    {
-      "id": "725cba31c16a4810",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "16 Years Later, Nike’s Oreo-Themed Air Jordans Still Hit the Spot",
-      "url": "https://www.highsnobiety.com/p/jordan-6-oreo-2026-sneakers/",
-      "publishedAt": "2026-08-01T20:56:48.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "16 Years Later, Nike’s Oreo-Themed Air Jordans Still Hit the Spot The Air Jordan 6 \"Oreo\" sneaker gets a 2026 revival, dressed in its classic black-and-white colorway & tasty details."
-    },
-    {
-      "id": "3a3e2c5f08abb0f1",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike’s Air Max Dress Shoe Is Elegance in Motion",
-      "url": "https://www.highsnobiety.com/p/nike-air-max-dolce-metallic-silver/",
-      "publishedAt": "2026-08-01T18:20:45.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "Nike’s Air Max Dress Shoe Is Elegance in Motion Nike's classy Air Max Dolce sneaker continues its revival era with the release of a shiny \"Metallic Silver\" colorway."
-    },
-    {
-      "id": "93082ffd41d151fc",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Travis Scott’s “Odyssey” Nikes Are Sneakers That Will Never Be",
-      "url": "https://www.highsnobiety.com/p/travis-scott-nike-moon-shoe-odyssey/",
-      "publishedAt": "2026-08-01T20:54:17.000Z",
-      "collectedAt": "2026-08-02T13:38:58.467Z",
-      "text": "Travis Scott’s “Odyssey” Nikes Are Sneakers That Will Never Be Travis Scott debuts a collaborative Nike Moon Shoe designed exclusively for the Odyssey's cast and crew. Here's everything on the never-to-release shoe."
-    },
-    {
-      "id": "2ea810dd9e4898c2",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "DSM Kei Ninomiya Spotlights a Diverse Cast of Creatives for Its FW26 Campaign",
-      "url": "https://hypebeast.com/2026/8/dsm-kei-ninomiya-fall-winter-2026-campaign-release-info",
-      "publishedAt": "2026-08-02T09:40:06.000Z",
-      "collectedAt": "2026-08-02T13:38:59.837Z",
-      "text": "DSM Kei Ninomiya Spotlights a Diverse Cast of Creatives for Its FW26 Campaign Summary DSM's Kei Ninomiya FW26 campaign features a diverse cast of international creatives Hiroshi Fujiwara, Hirokazu Kore-eda and more.The collection concept subverts football apparel, reworking sportswear into cultural expression.Available now across DSM flagships and online platforms. Dover Street Market and Kei Ninomiya have teamed up for a striking Fall/Winter 2026 campaign that highlights a diverse ensemble cast of international creatives. The campaign brings together artists, musicians, models and tastemakers from varied disciplines, spanning figures such as Hiroshi Fujiwara, acclaimed filmmaker Hirokazu Kore-eda, actress Miwako Ichikawa, costume designer Michiko Kitamura to Avu-Chan - the lead singer of alternative Japanese band Queen Bee - and more.At the core of the collection's concept is the subversion of football apparel, taking sports-derived garments beyond their traditional field settings and expanding them into a broader cultural language. By stripping these athletic motifs of their original context, the lineup transforms a strictly codified sport into a medium for free thinking and uninhibited expression. Designed as \"clothes for nameless communities,\" the pieces break down the rigid boundaries of defined fanbases or subcultures, thus bending the rules within a sportswear framework.The DSM Kei Ninomiya FW26 range is now available across the retailers' flagships and online shops.&nbsp;View this post on Instagram&nbsp;A post shared by DSM Kei Ninomiya (@dsmkeininomiya) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "51759f15a44dddc5",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "A First Look at Nike and Zellerfeld’s 3D-Printed Air Works Prototype",
-      "url": "https://hypebeast.com/2026/8/a-first-look-at-nike-and-zellerfelds-3d-printed-air-works-prototype",
-      "publishedAt": "2026-08-02T08:30:07.000Z",
-      "collectedAt": "2026-08-02T13:38:59.837Z",
-      "text": "A First Look at Nike and Zellerfeld’s 3D-Printed Air Works Prototype Name: Motoi Hatsuki Air Works 3D-printed SneakerSKU: TBCRelease Date: TBCNike has officially taken its first public step into the future of footwear manufacturing with its 3D-printed sneaker from its innovative Air Works Program, developed in partnership with additive manufacturing specialist Zellerfeld.Revealed via social media by Blue Room's Motoi Hatsuki, the prototype silhouette showcases a sleek, monochromatic model. The sneaker features a one‑piece 3D‑printed construction, eliminating traditional stitching and overlays for a streamlined, slip‑on profile. Hatsuki’s design draws inspiration from the Air Max 1000 and Tailwind V, incorporating exaggerated heel and forefoot Air bubbles, including a glowing neon yellow unit at the rear. The side panels showcase a paisley‑style looping motif, adding ornamental depth to the otherwise minimal structure. Branding is kept subtle, allowing the experimental form and texture to take center stage.As part of Nike’s broader Air Works initiative, which brought eight global creatives to Beaverton to collaborate with Nike engineers. Each participant will receive limited friends‑and‑family runs of their concepts, with previews rolling out ahead of Air Max Day 2027.&nbsp;View this post on Instagram&nbsp;A post shared by htk (@htk2626) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "e202fd0547044b73",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Official Images of the Nike Air Rejuven8 \"Camo Pack\"",
-      "url": "https://hypebeast.com/2026/8/nike-air-rejuven8-camo-pack-black-camo-iu3167-002-barkroot-brown-camo-iu3167-001-official-images",
-      "publishedAt": "2026-08-02T08:12:44.000Z",
-      "collectedAt": "2026-08-02T13:38:59.837Z",
-      "text": "Official Images of the Nike Air Rejuven8 \"Camo Pack\" Name: Nike Air Rejuven8 “Camo Pack”Colorway: “Black Camo,” “Barkroot Brown Camo”SKU: IU3167-002, IU3167-001MSRP: TBCRelease Date: August 2026Nike expands on the Air Rejuven8 revival, unveiling a bold new “Camo Pack” featuring two women’s-exclusive colorways in \"Black Camo\" and \"Barkroot Brown.\" Originally introduced ahead of the 2008 Beijing Olympics as a post-performance recovery shoe for elite athletes, both new iterations retain the slip-on silhouette while introducing camouflage-inspired detailing across the molded, open-cell lattice cage.The \"Black Camo\" edition pairs a black knit bootie with tonal laces and foam tooling, contrasted by a semi-translucent shell patterned with smoky camouflage across its diamond cutouts. A crisp white Swoosh on the lateral side provides the only sharp break in color, keeping the palette sleek and understated. Meanwhile, the \"Barkroot Brown Camo\" version introduces warmth with a brown knit base beneath a glossy tortoiseshell-like-patterned cage, whose layered tones evoke the look of tortoiseshell. Black laces and a matching sole keep the design grounded, while a muted brown Swoosh subtly reinforces the earthy theme. Click here to view full gallery at Hypebeast"
-    },
     {
       "id": "13f25847d0a0865b",
       "sourceId": "vogue",
@@ -3853,39 +3725,6 @@
       "publishedAt": "2026-08-02T17:27:43.000Z",
       "collectedAt": "2026-08-03T14:50:15.835Z",
       "text": "Hailey Bieber Is Healing Her Blisters With…Pimple Patches? Rhode beauty mogul Hailey Bieber has found multiple uses for one of her latest product launches—here’s exactly why it works."
-    },
-    {
-      "id": "8d87892f67153592",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Beckhams Bring Their Vacation Style to St. Tropez",
-      "url": "https://www.vogue.com/article/victoria-david-beckham-euro-summer-ibiza-style",
-      "publishedAt": "2026-08-02T16:40:38.000Z",
-      "collectedAt": "2026-08-03T14:50:15.835Z",
-      "text": "The Beckhams Bring Their Vacation Style to St. Tropez The couple are enjoying a lavish Euro-summer—with yacht-worthy fashions only the Beckhams could pull off together."
-    },
-    {
-      "id": "f5c9846c6d2cbece",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Sardine Manicure is Summer 2026's Unexpected Nail Art Trend",
-      "url": "https://www.vogue.com/article/sardine-manicure",
-      "publishedAt": "2026-08-02T15:54:37.000Z",
-      "collectedAt": "2026-08-03T14:50:15.835Z",
-      "text": "The Sardine Manicure is Summer 2026's Unexpected Nail Art Trend Something fishy is happening in nail art—we look into the a-lure-ing trend."
-    },
-    {
-      "id": "d38d55348e043732",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Best Dressed Stars of the Week Dialed Up the Glitz",
-      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-florence-pugh-zendaya-nicole-kidman",
-      "publishedAt": "2026-08-02T15:47:29.000Z",
-      "collectedAt": "2026-08-03T14:50:15.836Z",
-      "text": "The Best Dressed Stars of the Week Dialed Up the Glitz Blingy finishes—be it sequins or crystals—had Hollywood A-listers shining bright this week, from Zendaya and Florence Pugh to Kaia Gerber."
     },
     {
       "id": "7c5075e1a415b85e",
@@ -51274,6 +51113,380 @@
       "publishedAt": "2026-10-30T06:57:36.000Z",
       "collectedAt": "2026-10-30T17:53:00.398Z",
       "text": "‘South Park’ Dropped New ‘GTA VI’ Gameplay Featuring a Dog Poop Fight on Vice Beach Summary Comedy Central’s long-running animated series aired fresh 'Grand Theft Auto VI' gameplay during its newest episodeThe footage shows protagonist Jason Duval squaring off with a stranger on Vice Beach, with a bag of dog waste playing a starring roleTrey Parker and Matt Stone are using the game’s November launch as a running stand-in for the upcoming midterm elections Rockstar Games’ Grand Theft Auto VI made an unexpected cameo on South Park this week, with Wednesday’s episode airing new footage of the open-world title ahead of its November release. The clip lands roughly two-thirds of the way into the episode, when the boys visit a cattle ranch and are treated to a demo by Ruth Chris, a new character who bears a strong resemblance to Ruth’s Chris Steakhouse founder Ruth Fertel.The footage centers on Jason Duval, one of the game’s leads, getting into a fight with another man on Vice Beach. Ruth Chris walks the boys through the scene’s mechanics as it plays, explaining that players can grab the dog waste, hurl objects at the person holding it and, if that person retaliates, turn the waste itself into a weapon. “Look at that, the graphics are seriously next level. You see the world-building?” Ruth Chris says in the episode.The rest of the episode takes aim at inflation, President Trump’s tariff pause on beef and elite food culture, kicking off when soaring beef prices push the renamed South America Elementary to drop Sloppy Joes from its lunch menu. The boys’ quest to win back the town’s prized beef unravels into a recurring gross-out bit in which diners who can afford the meat literally explode.Grand Theft Auto VI launches November 18.South Park has shared new GTAVI dog poo gameplay https://t.co/4TZ5zi3FPS&mdash; ben (@videotech) October 29, 2026 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8638d4689e4f90f6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Gigi Hadid Cut the Ribbon on Her Fourth Guest in Residence Store with Cashmere, Caviar, and Caricatures",
+      "url": "https://www.vogue.com/slideshow/gigi-hadid-guest-in-residence-madison-store-party",
+      "publishedAt": "2026-10-31T14:18:14.000Z",
+      "collectedAt": "2026-10-31T17:04:54.241Z",
+      "text": "Gigi Hadid Cut the Ribbon on Her Fourth Guest in Residence Store with Cashmere, Caviar, and Caricatures Model and founder Gigi Hadid, clad in a shrunken top and tartan skirt, celebrated the debut of her label’s fourth U.S. store—and its very first uptown address."
+    },
+    {
+      "id": "de3c9effd063b418",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Restaurants in Paris Now, From Classic Bistros to Cutting-Edge Tasting Menus",
+      "url": "https://www.vogue.com/article/best-restaurants-in-paris",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "The Best Restaurants in Paris Now, From Classic Bistros to Cutting-Edge Tasting Menus From quintessential bistros to fashion-crowd favorites, find Vogue’s guide to the best restaurants in Paris here."
+    },
+    {
+      "id": "89379c660e1591a1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Need Halloween Inspo? Look No Further Than These IRL Street Style Pics",
+      "url": "https://www.vogue.com/article/street-style-trend-tracker-halloween-outfits-2023",
+      "publishedAt": "2026-10-31T10:00:00.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "Need Halloween Inspo? Look No Further Than These IRL Street Style Pics If you’re in a bind this Halloween, chances are you can pull together a costume straight from your closet, using these street style looks as inspiration."
+    },
+    {
+      "id": "8c84d5d6b8c2f717",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Toxic Friendship: How to Spot One—and What to Do About It",
+      "url": "https://www.vogue.com/article/toxic-friendships",
+      "publishedAt": "2026-10-31T10:00:00.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "Toxic Friendship: How to Spot One—and What to Do About It Wondering if you're in a toxic friendship? Experts reveal the warning signs, how to set boundaries, when to walk away, and when the problem is actually you."
+    },
+    {
+      "id": "3ff937825bb1415e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-30",
+      "publishedAt": "2026-10-31T09:00:00.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From sculptural updos and dramatic bangs to frosted lids and full-body glitter, this week’s best beauty looks were anything but understated."
+    },
+    {
+      "id": "a86c0339a15a0a2c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "8 Fresh Ways to Wear Corduroy Pants—To Work, on the Weekend, and Beyond",
+      "url": "https://www.vogue.com/article/how-to-style-corduroy-pants",
+      "publishedAt": "2026-10-30T21:49:42.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "8 Fresh Ways to Wear Corduroy Pants—To Work, on the Weekend, and Beyond As seen on the fall 2026 runways, corduroy pants are a must-have. Shop the best pairs and discover how to style them now."
+    },
+    {
+      "id": "fc944ebaff1c9a23",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘A Few Good Men’ Marked Its Broadway Opening With a Few Starry Friends",
+      "url": "https://www.vogue.com/slideshow/a-few-good-men-broadway-opening",
+      "publishedAt": "2026-10-30T21:45:00.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "‘A Few Good Men’ Marked Its Broadway Opening With a Few Starry Friends Before it was an Oscar-nominated drama, “A Few Good Men” premiered on Broadway in 1989, helping to launch the career of its 20-something playwright, Aaron Sorkin. Now, nearly four decades later, the work has returned to the Main Stem, directed by six-time Tony Award winner Michael Arden."
+    },
+    {
+      "id": "71d561ac02e707d7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "In a World of Mac Computers, I’ll Always Be a PC",
+      "url": "https://www.vogue.com/slideshow/i-ll-always-be-a-pc",
+      "publishedAt": "2026-10-30T19:53:02.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "In a World of Mac Computers, I’ll Always Be a PC Mac vs PC: I’m learning to use a Mac computer while yearning for my trusty old HP."
+    },
+    {
+      "id": "e88a46e34f18001f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Angels & Demons: Inside ABT’s Theatrical and Fashion-Filled Fall Gala, Honoring Cynthia Erivo",
+      "url": "https://www.vogue.com/slideshow/abt-fall-gala-2026-honoring-cynthia-erivo",
+      "publishedAt": "2026-10-30T19:45:45.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "Angels & Demons: Inside ABT’s Theatrical and Fashion-Filled Fall Gala, Honoring Cynthia Erivo American Ballet Theatre kicked off Halloweekend a little early on Thursday evening with its Angels & Demons–themed Fall Gala at Lincoln Center, honoring the shapeshifting talents of Grammy, Emmy, and Tony Award–winning actress, musician, and producer Cynthia Erivo"
+    },
+    {
+      "id": "102782ebf9a49997",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Street Style Photos From the Spring 2027 Shows in Lagos",
+      "url": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-lagos",
+      "publishedAt": "2026-10-30T19:32:22.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "The Best Street Style Photos From the Spring 2027 Shows in Lagos Stephen Tayo photographs the best dressed guests at the spring 2027 shows in Lagos."
+    },
+    {
+      "id": "200f7455258f4512",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "You Heard it Here First: It’s Going to Be an Ugg Boot Fall",
+      "url": "https://www.vogue.com/article/ugg-boots-outfits",
+      "publishedAt": "2026-10-30T18:30:32.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "You Heard it Here First: It’s Going to Be an Ugg Boot Fall Ugg boots are an off-duty favorite for a reason. Here’s how to wear yours for the season, with outfit inspiration from a few of our favorite stylish celebs."
+    },
+    {
+      "id": "19aa06857b785ca1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Benito Skinner and Mary Beth Barone Share 12 Last-Minute Halloween Costume Ideas",
+      "url": "https://www.vogue.com/article/benito-skinner-mary-beth-barone-last-minute-halloween-ideas-10-30-2026",
+      "publishedAt": "2026-10-30T17:50:32.000Z",
+      "collectedAt": "2026-10-31T17:04:54.242Z",
+      "text": "Benito Skinner and Mary Beth Barone Share 12 Last-Minute Halloween Costume Ideas One of them is the \"What was that?\" lady from The Wendy Williams Show."
+    },
+    {
+      "id": "95215deb98b26829",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Chocolate-Covered Air Forces Are a Mid-Sized Sweet Treat",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-mid-baroque-brown/",
+      "publishedAt": "2026-10-31T16:27:18.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Nike’s Chocolate-Covered Air Forces Are a Mid-Sized Sweet Treat Nike's Air Force 1 Mid \"Baroque Brown\" sneaker is a deliciously luxe take on the strapped-up classic, featuring a tonal chocolate-brown design."
+    },
+    {
+      "id": "8db4d3549f4cc32f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Even in the Dark, Nike’s Winterized Dad Sneaker Still Shines",
+      "url": "https://www.highsnobiety.com/p/nike-zoom-vomero-roam-sequoia/",
+      "publishedAt": "2026-10-31T16:16:43.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Even in the Dark, Nike’s Winterized Dad Sneaker Still Shines Nike's winterized Zoom Vomero Roam sneaker is back & stylish as ever in a new \"Sequoia\" colorway."
+    },
+    {
+      "id": "b986785dfb4ce4d4",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Archival Racer Is Looking Berry Good",
+      "url": "https://www.highsnobiety.com/p/nike-sprint-sister-red/",
+      "publishedAt": "2026-10-31T14:42:00.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Nike’s Archival Racer Is Looking Berry Good Nike’s Sprint Sister sneaker revisits a '79 women’s track spike in a striking burgundy and bright red, bringing an archival racer back into the spotlight."
+    },
+    {
+      "id": "566633a25321e728",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Luxury Brands Are Charactermaxxing Now",
+      "url": "https://www.highsnobiety.com/p/luxury-charactermaxxing-2026/",
+      "publishedAt": "2026-10-31T13:00:01.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Luxury Brands Are Charactermaxxing Now Human beings love being told what to do. We love it even more when luxury brands give us the outfit to match."
+    },
+    {
+      "id": "4bf7c244dfa18d53",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Evolution of New Balance’s 990 Continues",
+      "url": "https://www.highsnobiety.com/p/new-balance-990v7-sneaker-gray/",
+      "publishedAt": "2026-10-31T09:45:02.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "The Evolution of New Balance’s 990 Continues New Balance's Made in America 990v7 is the muted gray gift that just keeps on giving."
+    },
+    {
+      "id": "20d342952669f11b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Techy Dad Shoe Has a Secret Girly Side",
+      "url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-pink/",
+      "publishedAt": "2026-10-30T22:23:00.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Nike’s Techy Dad Shoe Has a Secret Girly Side Nike’s Zoom Vomero 5 gets a pink makeover with ribbon laces, silver studs, and a techy black mesh upper that balances sporty and sweet."
+    },
+    {
+      "id": "53308521910aaa2c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
+      "url": "https://www.highsnobiety.com/p/nike-moon-shoe-satin-pink/",
+      "publishedAt": "2026-10-30T20:25:58.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Nike’s Oldest Sneaker Takes Balletcore to the Moon Nike's \"Light Carnation\" Moon Shoe lands with satin uppers, Waffle soles, & loads of ballerina-worthy charm."
+    },
+    {
+      "id": "21317759669bad1c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
+      "url": "https://www.highsnobiety.com/p/new-balance-numeric-440wv2/",
+      "publishedAt": "2026-10-30T19:25:01.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It New Balance’s Numeric 440Wv2 pairs a black skate-shoe upper with pops of Happy Yellow for a simple color combination that stands out."
+    },
+    {
+      "id": "880036d933918f07",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Saucy Hiking Sneaker Doesn’t Need the Trails To Be Great",
+      "url": "https://www.highsnobiety.com/p/new-balance-tl900-linen/",
+      "publishedAt": "2026-10-30T20:15:35.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "New Balance’s Saucy Hiking Sneaker Doesn’t Need the Trails To Be Great New Balance's TL900 hiking sneaker lands in a new earthy \"Linen\" colorway, advancing the stylish model's debut."
+    },
+    {
+      "id": "4b5d76e1040116cb",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Is Fortnite Gaming Its Way Into Streetwear?",
+      "url": "https://www.highsnobiety.com/p/fortnite-yeat-asap-rocky-lil-uzi-vert-streetwear/",
+      "publishedAt": "2026-10-30T18:30:17.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Is Fortnite Gaming Its Way Into Streetwear? With a Supreme-coded Yeat capsule, A$AP Rocky on the cover, and five new Lil Uzi Vert skins, we can’t help but wonder…"
+    },
+    {
+      "id": "0f7d63780751309e",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Puffer Mary Janes Are Too Good To Be Slept-on",
+      "url": "https://www.highsnobiety.com/p/new-balance-sleeping-jane/",
+      "publishedAt": "2026-10-30T20:14:30.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "New Balance’s Puffer Mary Janes Are Too Good To Be Slept-on New Balance releases the Sleeping Jane, a stylish Mary Jane version of its winter Sleeping Moc. Here's everything on the drop."
+    },
+    {
+      "id": "f0ca3d7a04931e9c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Lemaire’s Best Product Might Be Its Art Shows",
+      "url": "https://www.highsnobiety.com/p/lemaire-art-shows/",
+      "publishedAt": "2026-10-30T18:10:01.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Lemaire’s Best Product Might Be Its Art Shows The French luxury label's in-store exhibition of Surrealist painter Roland Topor combines art and commerce with a perfectly integrated capsule collection."
+    },
+    {
+      "id": "e8abdc8556af2467",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Casually Cool Sneaker Grew Tough Skin",
+      "url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-light-orewood-brown/",
+      "publishedAt": "2026-10-30T20:11:51.000Z",
+      "collectedAt": "2026-10-31T17:04:55.719Z",
+      "text": "Nike’s Casually Cool Sneaker Grew Tough Skin Nike's Zoom Vomero 5 sneaker combines Cordura materials & a \"Light Orewood Brown\" colorway for a ruggedly clean release."
+    },
+    {
+      "id": "0db9d930bbeece12",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Weeknd Announces the Official Streaming Release of New Single \"Hong Kong\" Featuring Cantopop Icon Faye Wong",
+      "url": "https://hypebeast.com/2026/10/the-weeknd-new-single-hong-kong-featuring-faye-wong-official-streaming-release-info",
+      "publishedAt": "2026-10-31T16:55:31.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "The Weeknd Announces the Official Streaming Release of New Single \"Hong Kong\" Featuring Cantopop Icon Faye Wong Summary The Weeknd has marked the official release of his new single \"Hong Kong\" featuring Faye Wong as a musical tribute to the cityThe track samples Faye Wong's 1993 classic \"Monsoon\" and features cover art photographed by Christopher DoyleThe drop arrives as the 'After Hours Til Dawn Stadium Tour' surpasses $1 billion USD in gross revenue ahead of its finale in Kuala Lumpur The Weeknd has officially released his new tribute single \"Hong Kong (feat. 王菲季候風)\", offering a love letter to the city as he wraps up a four-night stadium residency at Kai Tak Stadium. Built on the original music and Cantonese vocal tracks of Faye Wong’s 1993 Cantopop hit \"Monsoon (季候風)\", the track arrives during the historic final chapter of his worldwide stadium tour.First performed live on October 24 to open his Hong Kong tour dates, the single reflects the Canadian superstar's longstanding appreciation for Cantopop and the cinematic works of director Wong Kar-wai. Connecting the release directly to that visual lineage, the single’s artwork features an archival photograph of Hong Kong sourced from the private collection of cinematographer Christopher Doyle, who filmed Wong Kar-wai’s Chungking Express starring Faye Wong alongside Tony Leung.The live concert debut immediately resonated across social platforms, where an Instagram clip generated more than 18 million views and drove Faye Wong’s original 1993 song back onto streaming charts. Regional outlets reported that “Monsoon” climbed to No. 1 on the rising charts at QQ Music and NetEase Cloud Music, reached No. 3 on Apple Music China, entered the Top 10 on Spotify Hong Kong, and jumped 15 spots to No. 3 on Shazam China's daily rankings, while hitting No. 1 on the Douyin Entertainment Chart.The release coincides with the final stages of the After Hours Til Dawn Stadium Tour, which has officially become the highest-grossing tour ever by a male solo artist after generating over $1 billion USD in gross revenue and selling more than 7.5 million tickets since 2022. Having expanded its debut Asia leg from 11 to 17 shows, the tour concludes with two final nights in Kuala Lumpur on November 4 and 5.The official release of The Weeknd's new single \"Hong Kong (feat. 王菲季候風)\" is available now on streaming platforms across East and Southeast Asia. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "89ad18f9b23409f2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Commemorates the Milwaukee Brewers' World Series Title With an Air Force 1 '07",
+      "url": "https://hypebeast.com/2026/10/nike-air-force-1-07-milwaukee-brewers-first-look-release-info",
+      "publishedAt": "2026-10-31T10:00:49.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "Nike Commemorates the Milwaukee Brewers' World Series Title With an Air Force 1 '07 Summary Nike has released an Air Force 1 07 celebrating the Milwaukee Brewers first World Series championship in franchise historyThe navy leather sneaker features golden yellow stitching a baseball glove heel logo and 2026 World Series tongue embroideryPairs are currently open for pre-order on Nike for $140 USD with shipments expected to dispatch by March 2027 Name: Nike Air Force 1 '07 \"Milwaukee Brewers\"Colorway: Navy/YellowSKU: TBDMSRP: $140 USDRelease Date: Pre-Order Available NowWhere to Buy: NikeNike has officially released the Air Force 1 ’07 \"Milwaukee Brewers,\" commemorating the franchise's historic first-ever World Series victory in 2026. The championship-themed sneaker is available via immediate pre-order, arriving as a commemorative homage to the team's historic triumph.Constructed with a premium navy blue leather upper, the commemorative sneaker is outlined with golden yellow contrast stitching running across the paneling to echo the Brewers' team colors. The heel features Milwaukee's signature baseball glove insignia, while \"2026 World Series\" lettering is printed directly across the tongue. Further thematic accents include an MLB logo stamped on the metallic lace dubrae and vintage Nike Basketball graphics printed across the insoles, nodding to the silhouette's original hardwood lineage.Following the pre-order model previously seen on regional Air Force 1 '01 drops for New York and Philadelphia, this edition utilizes the standard '07 cut. While orders are live now, the celebratory pairs are scheduled to ship by late March 2027, just as the following Major League Baseball season commences.The Nike Air Force 1 ’07 \"Milwaukee Brewers\" is available to pre-order now on Nike.com for $140 USD, with orders expected to ship by March 24, 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "edf727f2411683fe",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab",
+      "url": "https://hypebeast.com/2026/10/nn-07-and-clarks-originals-rework-the-wallabee-and-desert-boot-in-new-collab",
+      "publishedAt": "2026-10-31T08:00:32.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab Name: NN.07 x Clarks Wallabee, Desert BootsColorway: TBCSKU: TBCMSRP: TBCRelease Date: November 10Where to Buy: NN.07NN.07 and Clarks Originals have joined forces to reveal their collaborative footwear capsule, \"Contrast in Conversation,\" seamlessly blending the historic shoemaker's heritage with the apparel brand's signature Scandinavian minimalism.The Desert Boot takes the collaboration in a sharper direction, dressing the classic chukka shape in black full-grain cowhide with the same subtly textured surface. NN.07 adds a wide cross-foot leather strap secured by an oversized silver buckle, lending the otherwise stripped-back silhouette a slightly utilitarian, almost monk-strap-like character. Tonal black crepe tooling extends the dark finish from upper to sole, while an NN.07-branded leather tag and minimal embossed detailing keep the co-branding understated. Together, the two styles reflect the project’s central tension between Clarks’ lived-in heritage and NN.07’s tailored minimalism.The Wallabee arrives in a deep chocolate-brown treatment, its premium full-grain cowhide upper revealing a pronounced pebbled grain that gives the otherwise minimal construction a richer, more tactile finish. The tonal brown aesthetic extends to the matching laces, which are punctuated by striking silver metal lacing tips, and is accompanied by bespoke NN.07 leather hangtags. To ensure a clean, cohesive look from top to bottom, the Wallabee's signature crepe rubber outsole features a dark inked sidewall that perfectly matches the brown leather upper.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "60a5cdd85c8b6234",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "'Godzilla Minus One' Is One of the Most Important Blockbusters in Years and Nobody Is Talking About It Enough",
+      "url": "https://hypebeast.com/2026/10/godzilla-minus-one-is-one-of-the-most-important-blockbusters-in-years-and-nobody-is-talking-about-it-enough",
+      "publishedAt": "2026-10-31T06:00:31.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "'Godzilla Minus One' Is One of the Most Important Blockbusters in Years and Nobody Is Talking About It Enough The kaiju genre has never really been about the monster. That’s the thing most Western attempts at Godzilla have fundamentally misread, loading the films with destruction tourism and treating the human characters as connective tissue between set-pieces rather than the actual point of the whole exercise. Takashi Yamazaki understood something that Roland Emmerich and even Gareth Edwards only partially grasped: Godzilla works when the monster means something, and Godzilla Minus One built its entire architecture around that idea with a precision that very few blockbusters of any budget have managed in recent memory.The setup is postwar Japan, 1945. The country is already in ruins, already processing an incomprehensible level of collective loss, and then Godzilla arrives. The film’s title refers to that compounding of disaster, a nation that was already at zero being pushed into negative numbers by something it has no framework to understand or resist. It is an elegant and genuinely devastating premise, and Yamazaki uses it not as backdrop but as the emotional engine the whole film runs on.Ryunosuke Kamiki plays Koichi Shikishima, a former kamikaze pilot who survived the war carrying guilt he doesn’t know how to put down. The film is really about that guilt, about what it means to have lived when others didn’t and what it takes to find a reason to keep going, and Kamiki carries it in a way that makes every Godzilla encounter feel personal rather than spectacle. By the time the film reaches its climax, you are not watching humans try to defeat a monster. You are watching a man decide whether his life is worth something, and the monster is just the thing forcing the question.The visual effects won the Academy Award and deserved it, which almost undersells the achievement. Godzilla Minus One was made on a budget of roughly fifteen million dollars, a figure that makes the quality of what appears on screen genuinely difficult to process. The atomic breath sequence in Ginza is as viscerally terrifying as anything the genre has produced, and the film’s restraint around Godzilla’s appearances, keeping him scarce enough that his presence never normalizes, is the kind of discipline that most studios with ten times the budget don’t have the confidence to exercise.What Yamazaki pulled off is the thing that makes the original 1954 Gojira so enduring and so rarely re"
+    },
+    {
+      "id": "fd86793491614c6f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "WACKO MARIA x NANGA FW26 Is Stuffed With Leopard and Down",
+      "url": "https://hypebeast.com/2026/10/wacko-maria-nanga-fall-winter-fw-2026-collaboration-collection-release-info",
+      "publishedAt": "2026-10-31T04:00:15.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "WACKO MARIA x NANGA FW26 Is Stuffed With Leopard and Down Summary WACKO MARIA and NANGA reunite for an FW26 outerwear capsule spanning a reversible flight jacket, three down vests and three mountain parkasEvery insulated piece carries an 85% down and 15% feather fill, set inside nylon, polyester or acrylic-blend shellsLeopard print runs across four of the seven styles, with two of them pushed further into faux fur WACKO MARIA and NANGA have revealed their FW26 outerwear capsule, a seven-piece range that pairs the Tokyo label’s loud graphic sensibility with NANGA’s down insulation. The lineup splits between filled layers and weather-ready shells, offered in black, beige and gray, with WACKO MARIA’s leopard print taking over most of the collection.Down does the heavy lifting across four of the seven pieces, each insulated with the same 85% down and 15% feather ratio. What changes from style to style is the outer layer: the solid black down vest uses a full nylon shell, the leopard down vest switches to polyester, and the leopard faux fur down vest trades both for a plush acrylic and polyester blend that puts texture front and center.The reversible MA-1 flight jacket is the most technically involved piece in the drop. One side is built in 100% nylon and the other in 100% polyester, so the wearer effectively gets two jackets with one down core between them. It arrives in two contrast combinations, Black-Beige and Black-Gray, letting the jacket flip between a dark bomber and a lighter face depending on the day.Rounding out the capsule are three mountain parkas built as shell layers, with no fill listed for any of them. The base version sticks to black nylon, while its leopard counterpart moves to polyester in beige or gray. The faux fur leopard parka, offered in beige, pushes the print into a pile finish and gives the range its most statement-heavy silhouette.The WACKO MARIA x NANGA FW26 capsule drops October 31 at WACKO MARIA flagship stores, online, and authorized stockist. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d1219acc81fad720",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "BAO Brings BFF and Its Taiwanese Fried Chicken to Singapore",
+      "url": "https://hypebeast.com/2026/10/bao-fast-food-bff-pop-up-singapore-info",
+      "publishedAt": "2026-10-31T02:00:38.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "BAO Brings BFF and Its Taiwanese Fried Chicken to Singapore Summary BAO’s BFF pop-up lands at Singapore’s New Bahru from November 11 through December 28.The Chicken Chopper headlines a Taiwanese fast-food-inspired menu.Craft teas, grab-and-go snacks and convenience-store culture complete the concept. After making its homecoming debut in Taiwan earlier this year, BFF (BAO Fast Foods) is taking its next step in Singapore with a seven-week pop-up at New Bahru from November 11 through December 28, 2026.Developed by London restaurant group BAO with Singapore’s The Lo & Behold Group, BFF reimagines the fast-food format through the lens of Taiwanese convenience-store and street-food culture, treating speed and accessibility as only part of the experience. The Singapore edition will function as a testing ground as the team continues developing BFF ahead of its first permanent location, planned for the first half of 2027.Beyond the kitchen, the New Bahru space will borrow from the rhythms of an Asian convenience store, combining grab-and-go stations with Taiwanese snacks, Asian pantry staples, BAO-branded goods and rotating collaborations, while new items will be introduced throughout the run.At the center of the menu is the Chicken Chopper, BFF’s take on Taiwanese fried chicken and a recipe that has reportedly gone through more than 140 iterations. The bone is deliberately left attached as a handle before the chicken is dipped in soymilk batter and tapioca starch for a thin, crackly crust, then finished in three ways: Original Crispy with Taiwanese white pepper; Flame Glazed, brushed with either soy-garlic glaze or mala hot honey before being torched; and Master Scalded, dipped into a hot master sauce infused with soy, star anise and cinnamon. It can be ordered as a ricebox or combo, alongside dishes such as Dan Dan Noodles and a Beef Cup Noodle topped with meat carved from a slow-roasting spit.Drinks similarly sidestep standard fast-food conventions with Taiwanese craft teas developed with S.C Labs, including nitro-brewed Alishan Wintermelon and carbonated Orange Guava Beauty Tea, while an OATSIDE collaboration brings a peanut oat milk drink with boba and tea jelly. Egg sandos, marinated eggs, “Fried Rice” quinoa, golden kimchi, broth and soy puddings round out the grab-and-go selection. The pop-up will operate from 11 a.m. to 10 p.m., Wednesday through Monday, with 9 p.m. last orders, and will be walk-in only.&nbsp;View this post on Instagram&nbsp;A post shared "
+    },
+    {
+      "id": "e12c1bd90ba0ec60",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Yohji Yamamoto to Win Outstanding Achievement Award & Mulier to Debut Versace Couture in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/10/yohji-yamamoto-to-win-outstanding-achievement-award-mulier-to-debut-versace-couture-in-this-weeks-top-fashion-news",
+      "publishedAt": "2026-10-30T20:30:32.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "Yohji Yamamoto to Win Outstanding Achievement Award & Mulier to Debut Versace Couture in This Week's Top Fashion News Summary Yohji Yamamoto earns a major BFC honor, while Maison Margiela marks two decades in Ebisu.Atelier Versace heads back to the Paris Couture Week runway under Pieter Mulier.Kith taps Kit Harington for winter, alongside fresh collabs from Maison Margiela x Gentle Monster and Our Legacy x Nike.Yohji Yamamoto Receives Outstanding Achievement Award at British Fashion Council Awards 2026The British Fashion Council has named Japanese designer Yohji Yamamoto as the recipient of the Outstanding Achievement Award for the upcoming 2026 Fashion Awards. Scheduled to take place on November 30 at London's Royal Albert Hall, the honor recognizes Yamamoto’s decades-long influence on contemporary menswear and womenswear. The formal nod from the BFC underscores his enduring legacy and structural impact on global fashion.Atelier Versace Makes Paris Couture Week Return Under Pieter MulierAtelier Versace is set to host its first dedicated runway presentation at Paris Couture Week since July 2016. Scheduled for January 2027, the highly anticipated show marks the Italian label's inaugural couture collection with Pieter Mulier acting as creative director. After spending the last several years focusing exclusively on red-carpet dressing and private client commissions, Versace is finally bringing its highest tier of craftsmanship back to the public runway schedule.Our Legacy Work Shop and Nike Launch \"Sport Shop\" New York City Pop-UpOur Legacy Work Shop and Nike Running just opened the doors to their joint \"Sport Shop NYC\" pop-up in Manhattan. Running through November 1 at 5 Delancey Street, the space offers an early look at a heavily anticipated technical line. Skipping simple recolors, the collaboration introduces entirely upcycled and reworked deadstock apparel and footwear engineered around a theme of \"disguised technology.\" Fans can preview the gear this weekend before the full collection officially drops in Spring 2027.Kit Harington Stars in Kith's Expansive Winter 2026 CampaignKith recruited actor Kit Harington to front its expansive Winter 2026 campaign. Shot against the backdrop of the English countryside, the seasonal collection focuses heavily on layering and tactile materials, delivering updated puffers, shearling outerwear, and premium cashmere. The rollout also extends into homeware and accessories. Rounding out the winter delivery are exclusive fo"
+    },
+    {
+      "id": "a083a05390466369",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Lucien Smith’s Last Paintings Brought His Artistry ‘Full Circle’",
+      "url": "https://hypebeast.com/2026/10/lucien-smith-delay-of-game-exhibition-tripoli-gallery",
+      "publishedAt": "2026-10-30T19:53:31.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "Lucien Smith’s Last Paintings Brought His Artistry ‘Full Circle’ Summary Lucien Smith's final works are currently being shown at Tripoli Gallery in 'Delay of Game,' now on view until November 23The exhibition features four large-scale 'Rain Paintings' created this past August as part of a performance pieceThe works trace back to the early-career series that initially put Smith on the map Lucien Smith spent August at an abandoned baseball field in Montauk, New York, creating what would be his final exhibition. It was Rain Paintings, canvases sprayed by paint-filled fire extinguishers, that launched Smith, an artist turned Serving the People founder and FOOD revivalist, into stardom. Completed just a month prior to his death, at 37, last month, he saw the new show, Delay of Game, as a return to his early-career practice.Tripoli Gallery in Wainscott, New York, is currently presenting Smith’s final paintings in its ongoing exhibition. The show, which was originally slated for September and rescheduled in lieu of his death, features four large-scale Rain Paintings created as part of a live performance. Its title is drawn from a baseball call: when rain stops the play, the grounds crew roll out a tarp to protect the field. For Smith, the tarp catches the paint.Canvases take up dedicated walls, their fields of green and pink speckles have an effervescent, meditative quality, reflecting Smith’s own introspection and acceptance at the time of their creation. “A process like this is a gift,” he said. “When I was younger I thought I needed to keep looking, that landing on one thing so early meant I’d be missing something. I let the market and outside criticism dictate my practice, and that was a mistake. Life has taken me full circle. I think it is time to return to the process I was given.”Delay of Game is now on view until November 23.Tripoli Gallery26 Ardsley Road,Wainscott, NY 11975 Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "ac34f0d794f71c2e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Rethinking Modern Workspace Lighting: The Design and Science Behind BenQ ScreenBar",
+      "url": "https://hypebeast.com/2026/10/the-design-and-science-behind-benq-screenbar",
+      "publishedAt": "2026-10-30T18:00:35.000Z",
+      "collectedAt": "2026-10-31T17:04:57.161Z",
+      "text": "Rethinking Modern Workspace Lighting: The Design and Science Behind BenQ ScreenBar For design lovers and digital creators, a desk is rarely just a place to park a laptop. It’s a carefully curated studio space where every detail, from a custom mechanical keyboard and monitor arm to a thoughtfully chosen desk mat, serves a purpose. But one essential element has often been overlooked: lighting designed around the way people use screens. As screens became central to how we work, create, and connect, desk lighting has not always kept pace with the needs of a screen-centered workspace. BenQ set out to rethink workspace lighting as an essential part of the digital ecosystem, bringing together human-centered design and optical expertise to create a lighting experience purpose-built for the digital workspace.BenQ’s approach to desk lighting extends beyond a one-size-fits-all solution. From the ScreenBar® models designed for a wide range of monitors to the iScreenBar, designed to complement the iMac’s distinctive silhouette, to the ScreenBar Max, developed for dual-monitor setups, each product reflects a considered approach to industrial design and the needs of different workspaces. Every curve, finish, and material choice is made to respect the underlying hardware. As JC Pan, Head of the Digital Lifestyle Product Business Unit at BenQ, explains: “The initial mounting concept proved workable, so subsequent iterations focused on refining it rather than replacing it with a different approach. The main challenge was to integrate iScreenBar with the iMac’s silhouette while maintaining microphone clearance and a secure mount.” That hyper-fixation on detail went so far as using acoustic frequency-response measurements to design mount cutouts that wouldn’t muffle the iMac’s internal microphones, paired with hidden magnetic cable organizers to keep Apple’s iconic logo completely unobstructed.Beyond Brightness: Lighting for Visual ComfortBeyond pure aesthetics, BenQ approaches desktop illumination as a way to support visual comfort for long-haul creators. After an eight-hour editing session, screen brightness may not be the only factor contributing to visual discomfort; strong lighting contrast between a glowing display and a dark room can also play a role. By pairing full-spectrum LEDs with precise color temperature control, creators can shift seamlessly from energizing cool light, up to 6500K on iScreenBar, for example, during daytime brainstorms to a warm, relaxing 2700K "
     }
   ]
 }
