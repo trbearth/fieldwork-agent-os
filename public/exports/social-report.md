@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-10-31
+# Fieldwork Public Pulse — 2026-11-01
 
 ## 1. Quiet performance
 
@@ -33,17 +33,9 @@
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
 - [Ready to make senior year unforgettable? From bold lettering and painted florals to rhinestones and ](https://mastodon.social/@latestfits/117296676441966574) — Mastodon
 
-## 4. Archival sportswear
-
-**emerging · score 25 · confidence 42% · youth 60%**
-
-1 public posts · 1 network · 7-day comparison
-
-- [90s Starter Jackets remain a popular choice for anyone who likes vintage sportswear and retro street](https://mastodon.social/@bflwear/117239519066957055) — Mastodon
-
 ## Network status
 
-- **mastodon:** ready — 30 observations
+- **mastodon:** ready — 29 observations
 - **bluesky:** optional — Add BLUESKY_HANDLE + BLUESKY_APP_PASSWORD for extra coverage
 - **youtube:** optional — Add YOUTUBE_API_KEY for extra coverage
 - **tiktok:** gated — Disabled by default. TikTok Research access requires approval and is generally not available for commercial use.

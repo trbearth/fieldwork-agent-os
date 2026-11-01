@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-10-31",
+    "id": "2026-11-01",
     "mode": "live",
-    "displayDate": "OCT 31, 2026, 01:04 PM EDT",
-    "generatedAt": "2026-10-31T17:04:58.440Z",
-    "itemsCollected": 34,
+    "displayDate": "NOV 01, 2026, 12:48 PM EST",
+    "generatedAt": "2026-11-01T17:48:57.272Z",
+    "itemsCollected": 30,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 16
+        "count": 6
       },
       {
         "source": "Hypebeast",
@@ -82,7 +82,7 @@
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1031",
+    "code": "AUTO 1101",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [

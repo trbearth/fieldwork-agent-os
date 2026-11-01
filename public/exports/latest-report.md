@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-10-31
+# Fieldwork Daily Signal — 2026-11-01
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
