@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-01",
+    "id": "2026-11-02",
     "mode": "live",
-    "displayDate": "NOV 01, 2026, 12:48 PM EST",
-    "generatedAt": "2026-11-01T17:48:57.272Z",
-    "itemsCollected": 30,
+    "displayDate": "NOV 02, 2026, 04:35 PM EST",
+    "generatedAt": "2026-11-02T21:35:54.069Z",
+    "itemsCollected": 59,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 6
+        "count": 14
       },
       {
         "source": "Hypebeast",
@@ -24,34 +24,8 @@
       }
     ]
   },
-  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 40,
-      "confidence": 42,
-      "youthRelevance": 57,
-      "direction": "down",
-      "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 4 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · -50% seven-day velocity",
-      "citations": [
-        {
-          "title": "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good",
-          "source": "Highsnobiety",
-          "date": "Oct 26",
-          "url": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-insulated-shoes/"
-        },
-        {
-          "title": "The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens",
-          "source": "Hypebeast",
-          "date": "Oct 28",
-          "url": "https://hypebeast.com/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info"
-        }
-      ]
-    },
     {
       "id": "archival-sportswear",
       "name": "Archival sportswear",
@@ -71,23 +45,42 @@
           "url": "https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info"
         }
       ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 25,
+      "confidence": 23,
+      "youthRelevance": 46,
+      "direction": "down",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 4 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -75% seven-day velocity",
+      "citations": [
+        {
+          "title": "The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens",
+          "source": "Hypebeast",
+          "date": "Oct 28",
+          "url": "https://hypebeast.com/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info"
+        }
+      ]
     }
   ],
   "cooling": {
-    "name": "Quiet performance",
-    "reason": "2 mentions this week versus 4 in the prior seven-day window."
+    "name": "Archival sportswear",
+    "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Quiet performance moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
+    "title": "Archival sportswear moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1101",
-    "name": "Quiet performance",
-    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
+    "code": "AUTO 1102",
+    "name": "Archival sportswear",
+    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
     "objects": [
-      "Vans’ Waterproof Skate Shoe Makes Winter Survival Look Good",
-      "The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens"
+      "adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring"
     ]
   }
 }

@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-01
+# Fieldwork Public Pulse — 2026-11-02
 
 ## 1. Quiet performance
 
@@ -17,10 +17,10 @@
 
 12 public posts · 1 network · 7-day comparison
 
+- [A navy suit, a white button-down and a black tie. Nothing extra. The pleasure of getting dressed isn](https://mastodon.social/@seoul_trad/117544477048302388) — Mastodon
 - [An OCBD and crest tie under a double-breasted blazer, with just a glimpse of Fair Isle. Grey wool tr](https://mastodon.social/@seoul_trad/117533572356751244) — Mastodon
 - [A brown checked jacket and Fair Isle vest, with a white Oxford and red/navy tie. Grey trousers give ](https://mastodon.social/@seoul_trad/117527198541875829) — Mastodon
 - [A Fair Isle vest adds colour to a navy sports jacket and light-beige chinos. A white Oxford, red/nav](https://mastodon.social/@seoul_trad/117521560395784171) — Mastodon
-- [Charcoal pinstripes, a white Oxford and a red/navy crest tie. The quiet stripe keeps the suit unders](https://mastodon.social/@seoul_trad/117516269136247312) — Mastodon
 
 ## 3. Decorated basics
 
