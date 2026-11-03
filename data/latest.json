@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-02",
+    "id": "2026-11-03",
     "mode": "live",
-    "displayDate": "NOV 02, 2026, 04:35 PM EST",
-    "generatedAt": "2026-11-02T21:35:54.069Z",
-    "itemsCollected": 59,
+    "displayDate": "NOV 03, 2026, 02:19 PM EST",
+    "generatedAt": "2026-11-03T19:19:13.409Z",
+    "itemsCollected": 57,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 14
+        "count": 13
       },
       {
         "source": "Hypebeast",
@@ -43,6 +43,26 @@
           "source": "Hypebeast",
           "date": "Oct 28",
           "url": "https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info"
+        }
+      ]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 26,
+      "confidence": 21,
+      "youthRelevance": 38,
+      "direction": "down",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "citations": [
+        {
+          "title": "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay",
+          "source": "Vogue",
+          "date": "Nov 3",
+          "url": "https://www.vogue.com/article/loch-lomond-arms-hotel-scotland"
         }
       ]
     },
@@ -76,7 +96,7 @@
     "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1102",
+    "code": "AUTO 1103",
     "name": "Archival sportswear",
     "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
     "objects": [

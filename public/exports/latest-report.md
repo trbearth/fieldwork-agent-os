@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-11-02
+# Fieldwork Daily Signal — 2026-11-03
 
 Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -12,7 +12,17 @@ Archival sportswear is appearing across 1 independent public source.
 
 - [adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring](https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info) — Hypebeast, Oct 28
 
-## 2. Quiet performance
+## 2. Decorated basics
+
+**emerging · score 26 · confidence 21% · youth 38%**
+
+Decorated basics is appearing across 1 independent public source.
+
+1 observation · 1 independent source · -50% seven-day velocity
+
+- [This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay](https://www.vogue.com/article/loch-lomond-arms-hotel-scotland) — Vogue, Nov 3
+
+## 3. Quiet performance
 
 **emerging · score 25 · confidence 23% · youth 46%**
 
