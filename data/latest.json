@@ -1,9 +1,9 @@
 {
   "run": {
-    "id": "2026-11-03",
+    "id": "2026-11-04",
     "mode": "live",
-    "displayDate": "NOV 03, 2026, 02:19 PM EST",
-    "generatedAt": "2026-11-03T19:19:13.409Z",
+    "displayDate": "NOV 04, 2026, 02:36 PM EST",
+    "generatedAt": "2026-11-04T19:36:07.184Z",
     "itemsCollected": 57,
     "sourcesRead": 3,
     "sourceResults": [
@@ -15,48 +15,28 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 13
+        "count": 11
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
-  "summary": "Archival sportswear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
-      "youthRelevance": 62,
-      "direction": "flat",
-      "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring",
-          "source": "Hypebeast",
-          "date": "Oct 28",
-          "url": "https://hypebeast.com/2026/10/adidas-originals-by-wales-bonner-fall-winter-2026-collection-campaigns-release-info"
-        }
-      ]
-    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
       "score": 26,
-      "confidence": 21,
+      "confidence": 20,
       "youthRelevance": 38,
-      "direction": "down",
+      "direction": "flat",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
           "title": "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay",
@@ -65,42 +45,22 @@
           "url": "https://www.vogue.com/article/loch-lomond-arms-hotel-scotland"
         }
       ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 25,
-      "confidence": 23,
-      "youthRelevance": 46,
-      "direction": "down",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 4 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -75% seven-day velocity",
-      "citations": [
-        {
-          "title": "The atmos x On Cloudmonster 1 Waterproof Pack Draws Inspiration From Japanese Dry Gardens",
-          "source": "Hypebeast",
-          "date": "Oct 28",
-          "url": "https://hypebeast.com/2026/10/atmos-on-cloudmonster-1-waterproof-pack-eclipse-olive-3mg31166308-dew-olive-3mg31166309-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Archival sportswear",
+    "name": "Decorated basics",
     "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Archival sportswear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test archival sportswear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1103",
-    "name": "Archival sportswear",
-    "thesis": "A deliberately small, evidence-checking batch built around archival sportswear.",
+    "code": "AUTO 1104",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "adidas Originals by Wales Bonner FW26 Reimagines Retro Sportswear Through Refined Tailoring"
+      "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay"
     ]
   }
 }
