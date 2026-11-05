@@ -1,26 +1,26 @@
 {
   "run": {
-    "id": "2026-11-04",
+    "id": "2026-11-05",
     "mode": "live",
-    "displayDate": "NOV 04, 2026, 02:36 PM EST",
-    "generatedAt": "2026-11-04T19:36:07.184Z",
-    "itemsCollected": 57,
+    "displayDate": "NOV 05, 2026, 02:44 PM EST",
+    "generatedAt": "2026-11-05T19:44:35.446Z",
+    "itemsCollected": 55,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 28
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 11
+        "count": 10
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 18
       }
     ]
   },
@@ -30,37 +30,84 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
-      "youthRelevance": 38,
-      "direction": "flat",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "score": 57,
+      "confidence": 38,
+      "youthRelevance": 41,
+      "direction": "up",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
       "citations": [
         {
           "title": "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay",
           "source": "Vogue",
           "date": "Nov 3",
           "url": "https://www.vogue.com/article/loch-lomond-arms-hotel-scotland"
+        },
+        {
+          "title": "The Moomins Have Moved Into Bottega Veneta’s Intrecciato",
+          "source": "Hypebeast",
+          "date": "Nov 5",
+          "url": "https://hypebeast.com/2026/11/the-moomins-have-moved-into-bottega-venetas-intrecciato"
+        }
+      ]
+    },
+    {
+      "id": "narrow-technical-footwear",
+      "name": "Narrow technical footwear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 38,
+      "direction": "up",
+      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Painters Need Tough Ass Trail Shoes, Too",
+          "source": "Highsnobiety",
+          "date": "Nov 5",
+          "url": "https://www.highsnobiety.com/p/phileo-keen-artist-matt-dillon-fw26-new/"
+        }
+      ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 25,
+      "confidence": 23,
+      "youthRelevance": 46,
+      "direction": "down",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 4 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -75% seven-day velocity",
+      "citations": [
+        {
+          "title": "lululemon Launches Its First GORE-TEX Collection",
+          "source": "Hypebeast",
+          "date": "Nov 5",
+          "url": "https://hypebeast.com/2026/11/lululemon-gore-tex-silent-type-beams-info"
         }
       ]
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "1 mention this week versus 1 in the prior seven-day window."
+    "name": "Quiet performance",
+    "reason": "1 mention this week versus 4 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1104",
+    "code": "AUTO 1105",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay"
+      "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay",
+      "The Moomins Have Moved Into Bottega Veneta’s Intrecciato"
     ]
   }
 }

@@ -3706,449 +3706,51 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-11-05",
+      "mode": "live",
+      "displayDate": "NOV 05, 2026, 02:44 PM EST",
+      "generatedAt": "2026-11-05T19:44:35.446Z",
+      "itemsCollected": 55,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 28
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 10
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 18
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 25,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "5d23f43f18970295",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Mirror After Birth",
-      "url": "https://www.vogue.com/article/the-mirror-after-birth",
-      "publishedAt": "2026-08-07T13:00:00.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "The Mirror After Birth In Retail Ritual, presented on the occasion of her first institutional solo exhibition at the National Gallery of Bosnia and Herzegovina during the Sarajevo Photography Festival, Carlota Guerrero transforms the luxury fitting room into a stage where motherhood, performance, consumer culture, and the female gaze converge. We spoke with the artist about desire, identity, ritual, and the images that emerge before experience itself can be understood."
-    },
-    {
-      "id": "cbc80f2f97fdb6cf",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation",
-      "url": "https://www.vogue.com/article/best-airbnbs-in-the-hamptons",
-      "publishedAt": "2026-08-07T10:00:00.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation Looking for the best Airbnbs in the Hamptons? Here, 16 fabulous choices, from a fishing cottage in Montauk to a grand East Hampton estate."
-    },
-    {
-      "id": "5924050758ad2676",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "5 Rising Black-Owned Beauty Brands to Know",
-      "url": "https://www.vogue.com/article/4-rising-black-owned-beauty-brands-to-know",
-      "publishedAt": "2026-08-07T09:30:00.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "5 Rising Black-Owned Beauty Brands to Know The industry’s top artists, creators, and leaders come together at the first Black Beauty Roster show for a day of education and community to advance equity within beauty."
-    },
-    {
-      "id": "66939d9237ae361c",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Justin and Hailey Bieber Have the Summer Date Night Fashion Formula Down",
-      "url": "https://www.vogue.com/article/justin-hailey-bieber-summer-date-night-fashion",
-      "publishedAt": "2026-08-07T09:27:51.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "Justin and Hailey Bieber Have the Summer Date Night Fashion Formula Down After vacationing in Greece, Hailey Bieber has been back in LA and locking in—weighted vest workouts, high-protein homemade meals. She took the night off in style."
-    },
-    {
-      "id": "3ee9c2b45b582af6",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Shopping’s Next Era: An Evening in New York City",
-      "url": "https://www.vogue.com/article/shoppings-next-era-an-evening-in-new-york-city",
-      "publishedAt": "2026-08-07T05:00:00.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "Shopping’s Next Era: An Evening in New York City Vogue Business and Swap invited fashion and beauty leaders to a dinner party at the Twenty Two to discuss where the future of shopping is heading."
-    },
-    {
-      "id": "d3923eefe25f7963",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Less Perfect, More Practical: Diamonds’ New Path Forward",
-      "url": "https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward",
-      "publishedAt": "2026-08-07T04:30:00.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "Less Perfect, More Practical: Diamonds’ New Path Forward Thanks to a confluence of threats, the diamond industry is rethinking how it markets the precious stone."
-    },
-    {
-      "id": "5c17cda0cbc8cb77",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Happy Birthday, Michelle Yeoh! 14 Gorgeous Vintage Photos of the Star",
-      "url": "https://www.vogue.com/slideshow/michelle-yeoh-vintage-photos",
-      "publishedAt": "2026-08-06T22:00:00.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "Happy Birthday, Michelle Yeoh! 14 Gorgeous Vintage Photos of the Star Ahead of her turn in “Blade Runner 2099” later this year opposite Hunter Schafer—and in honor of her birthday—we’re taking a nostalgic trip back to the Oscar winner’s early years on the scene."
-    },
-    {
-      "id": "90f02e5e51d767e4",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Menswear Designer Frederik Berner Kühl Wins Denmark’s Largest Fashion Prize",
-      "url": "https://www.vogue.com/article/menswear-designer-frederik-berner-kuhl-wins-denmarks-largest-fashion-prize",
-      "publishedAt": "2026-08-06T21:10:36.000Z",
-      "collectedAt": "2026-08-07T13:14:33.596Z",
-      "text": "Menswear Designer Frederik Berner Kühl Wins Denmark’s Largest Fashion Prize The $46,000 prize will help take the brand to the next level at a time when menswear is dominating the fashion conversation."
-    },
-    {
-      "id": "c44e47a5b5963e05",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Caro Editions Copenhagen Spring 2027",
-      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
-      "publishedAt": "2026-08-07T13:10:06.000Z",
-      "collectedAt": "2026-08-07T13:14:33.597Z",
-      "text": "Caro Editions Copenhagen Spring 2027 "
-    },
-    {
-      "id": "963bddd2e675fdd6",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Collina Strada Copenhagen Spring 2027",
-      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
-      "publishedAt": "2026-08-07T13:10:06.000Z",
-      "collectedAt": "2026-08-07T13:14:33.597Z",
-      "text": "Collina Strada Copenhagen Spring 2027 "
-    },
-    {
-      "id": "98dcb14beb8c2d8a",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Nicklas Skovgaard Copenhagen Spring 2027",
-      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/nicklas-skovgaard",
-      "publishedAt": "2026-08-07T13:10:06.000Z",
-      "collectedAt": "2026-08-07T13:14:33.597Z",
-      "text": "Nicklas Skovgaard Copenhagen Spring 2027 "
-    },
-    {
-      "id": "e8b8aa7726810e58",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Masu Tokyo Spring 2027",
-      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/masu",
-      "publishedAt": "2026-08-07T13:10:06.000Z",
-      "collectedAt": "2026-08-07T13:14:33.597Z",
-      "text": "Masu Tokyo Spring 2027 "
-    },
-    {
-      "id": "0ecb436972625921",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "State of the Art: 210 Years of Black Handcraft Went Into Ralph Lauren's Quilts",
-      "url": "https://www.highsnobiety.com/p/state-of-the-art-ralph-lauren-gees-bend/",
-      "publishedAt": "2026-08-07T13:07:45.000Z",
-      "collectedAt": "2026-08-07T13:14:34.927Z",
-      "text": "State of the Art: 210 Years of Black Handcraft Went Into Ralph Lauren's Quilts The Gee's Bend community of African American craftspeople teamed with Polo Ralph Lauren on a luxury collection of quilted clothes and hand-painted ceramics."
-    },
-    {
-      "id": "200cb2d291085bcf",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Timberland's Canary Yellow Boat Shoe Is a Work Boot For the Sea",
-      "url": "https://www.highsnobiety.com/p/randomevents-timberland-3-eye-lug-boat-shoe/",
-      "publishedAt": "2026-08-07T11:51:12.000Z",
-      "collectedAt": "2026-08-07T13:14:34.927Z",
-      "text": "Timberland's Canary Yellow Boat Shoe Is a Work Boot For the Sea Timberland & Randomevent's furry & fun 3-Eye Lug Boat Shoe is a hairy good time."
-    },
-    {
-      "id": "edeb38404b8d1023",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Timberland Put Its Best Boot to Work",
-      "url": "https://www.highsnobiety.com/p/timberland-gore-tex-6-inch-work-boot/",
-      "publishedAt": "2026-08-07T09:34:00.000Z",
-      "collectedAt": "2026-08-07T13:14:34.928Z",
-      "text": "Timberland Put Its Best Boot to Work Timberland took its rugged GORE-TEX 6-inch Work Boot through the luxe leather trenches."
-    },
-    {
-      "id": "73c8d829d96e0ffe",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Here's How You Make One of Fashion’s Oldest Fabrics Feel Fresh",
-      "url": "https://www.highsnobiety.com/p/yohji-yamamoto-kantha/",
-      "publishedAt": "2026-08-06T21:45:00.000Z",
-      "collectedAt": "2026-08-07T13:14:34.928Z",
-      "text": "Here's How You Make One of Fashion’s Oldest Fabrics Feel Fresh Scrappy Japanese streetwear label Fake as Flowers helped Yohji Yamamoto's Y's sub-label learn to love ancient Indian kantha embroidery."
-    },
-    {
-      "id": "7c0d79bb00f7014d",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Backless Saucony Running Shoes Have No Business Being So Saucy",
-      "url": "https://www.highsnobiety.com/p/saucony-progrid-clogs/",
-      "publishedAt": "2026-08-06T20:23:02.000Z",
-      "collectedAt": "2026-08-07T13:14:34.928Z",
-      "text": "Backless Saucony Running Shoes Have No Business Being So Saucy Saucony's new ProGrid V2 Mule is a sneaker-mule with an athletic spirit that's shockingly stylish. Suede runner clogs have no business being this stylish."
-    },
-    {
-      "id": "36eecf244d570f03",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Another Scaly adidas Sneaker Joins the Patterned-Shoe Jungle",
-      "url": "https://www.highsnobiety.com/p/another-scaly-adidas-sneaker-joins-the-patterned-shoe-jungle/",
-      "publishedAt": "2026-08-07T07:44:46.000Z",
-      "collectedAt": "2026-08-07T13:14:34.928Z",
-      "text": "Another Scaly adidas Sneaker Joins the Patterned-Shoe Jungle adidas' scale-covered Japan Decon sneaker has made its way out of then & on to fly feet everywhere."
-    },
-    {
-      "id": "cd025eaa06eaef50",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Artist Uniform: Fashion's Most Controversial Designer Has Always Dressed the Part",
-      "url": "https://www.highsnobiety.com/p/john-galliano-outfit-history/",
-      "publishedAt": "2026-08-07T08:42:03.000Z",
-      "collectedAt": "2026-08-07T13:14:34.928Z",
-      "text": "Artist Uniform: Fashion's Most Controversial Designer Has Always Dressed the Part With John Galliano informing the 2027 Met Gala & exhibit, the controversial designer's clothes on and off the runway are worth reconsidering."
-    },
-    {
-      "id": "b32492c35fa508ed",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Vans' Darkened-up Authentic Sneaker Makes Quiet Luxury Cool",
-      "url": "https://www.highsnobiety.com/p/neighborhood-vans-authentic-44-sneaker-black/",
-      "publishedAt": "2026-08-07T07:49:56.000Z",
-      "collectedAt": "2026-08-07T13:14:34.928Z",
-      "text": "Vans' Darkened-up Authentic Sneaker Makes Quiet Luxury Cool Neighborhood's Vans' Authentic 44 sneaker is a crazy good shredder gone full quiet luxury mode."
-    },
-    {
-      "id": "75527a5bb0a7ecc3",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "EVANGELION:95’s First FW26 Drop Turns Five Iconic Anime Moments Into Faux-Vintage 1995 Graphic Tees",
-      "url": "https://hypebeast.com/2026/8/neon-genesis-evangelion-95-fall-winter-fw-2026-drop-1-release-info",
-      "publishedAt": "2026-08-07T13:14:31.000Z",
-      "collectedAt": "2026-08-07T13:14:36.351Z",
-      "text": "EVANGELION:95’s First FW26 Drop Turns Five Iconic Anime Moments Into Faux-Vintage 1995 Graphic Tees Summary EVANGELION:95 rolls out five graphic T-shirts drawn from key 'Neon Genesis Evangelion' scenes and artworkEvery tee is built on heavyweight 100% cotton with deliberate fading and distressing for a vintage feelThe lineup pulls from End of Evangelion, the fan-favorite Episode 9 battle, and a classic CD jacket EVANGELION:95 has released its first Fall/Winter 2026 run of five graphic T-shirts translating landmark Neon Genesis Evangelion imagery into apparel styled to look like it survived from 1995. Each design pairs a specific scene or piece of franchise artwork with the brand's faux-vintage construction, positioning the T-shirts as statement pieces rather than standard merch.The construction is consistent across the collection and central to its concept. Every shirt uses a 6.5oz heavyweight 100% cotton body described as smooth to the touch, durable and absorbent. From there, the brand leans into wear that would normally take years to develop, building in body fading and adding intentional distressing at the collar and cuffs. The result is a deliberately aged finish meant to sharpen each graphic, and the damage detailing is baked into the design rather than treated as a flaw.The graphics themselves span the franchise's most charged moments. Two T-shirts draw from the film End of Evangelion: the 0097 in white centers on Unit-01's awakening scene paired with \"AWAKENING\" text, while the 0099 in black turns to the striking Mass Production Evas, both backed by the brand's original anti-A.T. Field pattern. Another pair pulls from the fan-favorite ninth TV episode, \"Both of You, Dance Like You Want to Win,\" staging the clash between Units 01 and 02 and the Angel Israfel across front and back, each sleeve marked with an in-scene countdown time.The fifth design reaches into franchise music history. The 0103 in black is built around the CD jacket for Yoko Takahashi's single \"Soul's Refrain,\" the theme from the film Death & Rebirth, with the vintage jacket illustration digitized in high resolution and a period poster graphic printed on the back. It lands as the most collector-leaning piece in the group.All of it flows from the brand's founding idea. EVANGELION:95 launched in January 2025 to mark the series' 30th anniversary, building its identity around the 1995 fashion landscape of Amekaji, Harajuku style and vintage grunge. These five T-shirts put that thesis to "
-    },
-    {
-      "id": "52443f9b33241b0e",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Nan Shufang Carries Its Scholar's-Study Aesthetic Into Hong Kong With a Pacific Place Debut",
-      "url": "https://hypebeast.com/2026/8/nan-shufang-first-hong-kong-store-pacific-place-opening-info",
-      "publishedAt": "2026-08-07T13:14:17.000Z",
-      "collectedAt": "2026-08-07T13:14:36.351Z",
-      "text": "Nan Shufang Carries Its Scholar's-Study Aesthetic Into Hong Kong With a Pacific Place Debut Summary Nan Shufang has opened its first Hong Kong store at Pacific Place, its debut location beyond the Chinese mainlandThe brand builds each space around the tradition of the Chinese scholar's study, uniting objects, setting and cultural activityWooden wares, porcelain wares, and gold and silver wares anchor a lineup meant to be used and passed down rather than simply displayed Nan Shufang, a premium Chinese cultural brand rooted in the tradition of the scholar's study, has officially opened its first Hong Kong store at Pacific Place. The opening marks a significant step in the brand's global expansion, framing the space as an immersive experience that ties together objects, setting and cultural engagement.The brand's identity reaches back to its 2008 founding. Nan Shufang established its first location in Beijing's Houhai area and takes its name from the \"South Study,\" or Nan Shufang, of the Forbidden City, a nod to its scholarly lineage. That heritage informs a guiding belief that objects are not simply functional vessels but carriers of culture, craft and spiritual value. The brand roots that idea in a line from the Zhuangzi's \"Ren Jian Shi\" chapter: \"The achievement of beauty takes time; the making of ugliness allows no room for correction, how cautious one must be.\"The Hong Kong store arrives as part of a wider footprint. Nan Shufang now runs cultural spaces across Beijing, Shanghai, Shenzhen and Hong Kong, a four-city network of seven stores that each interprets the scholar's-study theme through object display, spatial design and cultural experience. The mainland locations range from the founding Houhai store to metropolitan settings at Beijing's China World and SKP, a Shanghai Xintiandi space built around refined pursuits such as incense appreciation and tea tasting, a historic Amanyangyun site, and a Shenzhen Bay MixC store attuned to that city's open, contemporary character.At the center of the offering sit three craft categories. Wooden wares focus on classical furniture and scholar's-study objects built through mortise-and-tenon joinery and hand carving, with an emphasis on proportion, line and spatial rhythm. Porcelain wares carry forward classical ceramic forms and glazing, spanning everyday tea wares to desk pieces. Gold and silver wares apply traditional techniques such as chasing, repoussé and lost-wax casting to tea and incense implements and deco"
-    },
-    {
-      "id": "288562fd4796f841",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "David O. Russell's ‘Madden’ Biopic Starring Nicolas Cage To Premiere November 2026",
-      "url": "https://hypebeast.com/2026/8/david-o-russell-nicolas-cage-prime-video-madden-film-release-premiere-date-info",
-      "publishedAt": "2026-08-07T13:14:09.000Z",
-      "collectedAt": "2026-08-07T13:14:36.351Z",
-      "text": "David O. Russell's ‘Madden’ Biopic Starring Nicolas Cage To Premiere November 2026 Summary David O. Russell's John 'Madden' biopic will premiere on Prime Video in November rather than in wide releaseNicolas Cage stars as the Raiders coach turned broadcaster, with Christian Bale playing Al DavisA limited theatrical run is planned for awards eligibility, but the film skips a nationwide big-screen rollout David O. Russell's sports drama Madden, starring Nicolas Cage as the legendary football coach and commentator John Madden, is heading to Prime Video this fall. Amazon MGM, which is backing the film, has set it to arrive on the streamer November 18, with an awards-qualifying theatrical release expected earlier in the month.The film traces Madden's full arc as a defining figure in American football. He led the Oakland Raiders through repeated championship contention in the 1970s and delivered the franchise its first Super Bowl win, then retired from coaching in 1979 and spent the next three decades as a fixture of televised football as a color commentator. Russell's movie follows that career alongside two central relationships: Madden's friendship with Al Davis, played by Christian Bale, and his partnership with his wife Virginia, played by Kathryn Hahn. John Mulaney, Sienna Miller and Shane Gillis fill out the rest of the cast.Russell framed the project's ambitions when it was first announced in 2024. \"[The] feature will be about the joy, humanity and genius that was John Madden in a wildly inventive, cool world of the 1970s,\" the director said at the time.What remains less clear is the reasoning behind the streaming-first strategy. Russell carries serious awards pedigree as the filmmaker behind American Hustle, Silver Linings Playbook and The Fighter, which makes the decision to forgo a wide theatrical release notable. That said, Russell has long been a divisive presence in Hollywood, with a well-documented history of combative on-set conduct, and his most recent feature, 2022's star-packed period piece Amsterdam, was a costly box-office failure, taking in roughly $31 million USD worldwide against an $80 million USD budget and posting heavy losses for its studio.Madden is expected to play a limited, awards-qualifying theatrical run in early November before premiering worldwide on Prime Video November 18. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "78e884cd138d9263",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "UNION and in･stru(mental). Mark 35 Years of UNION LA With a Fit-Focused Capsule",
-      "url": "https://hypebeast.com/2026/8/maison-mihara-yasuhiro-instrumental-union-l-a-collaboration-collection-release-info",
-      "publishedAt": "2026-08-07T13:14:00.000Z",
-      "collectedAt": "2026-08-07T13:14:36.351Z",
-      "text": "UNION and in･stru(mental). Mark 35 Years of UNION LA With a Fit-Focused Capsule Summary UNION and in･stru(mental). link on a capsule collection tied to UNION LA's 35th anniversaryThe lineup spans a coach jacket, bowling shirt, T-shirt, shorts and a capA limited ZINE shot in Los Angeles accompanies the release across select stores UNION LA and in･stru(mental)., the project helmed by Maison MIHARA YASUHIRO, have built a collaborative capsule collection launching August 7 to mark UNION LA's 35th anniversary. The range pairs in･stru(mental).'s focus on silhouette and comfort with UNION's community-rooted sensibility across a run of everyday staples.The collaboration meets at a shared point between two distinct outlooks. in･stru(mental). is defined by a quiet approach to making, one built around chasing the right silhouette and the right feel on the body, while UNION brings a sensibility shaped by the city and the community around it. The 35th-anniversary milestone gives the two a reason to build something together, framed as a capsule that settles into daily life without losing a mood of its own.That thinking plays out across the garments. The capsule gathers a coach jacket, a bowling shirt, a T-shirt, shorts and a cap, spanning easy layering and warm-weather staples rather than orbiting a single hero piece. The spread reflects the wearable, everyday intent at the heart of the project, with in･stru(mental).'s fit-first instincts guiding pieces that UNION's audience can fold straight into rotation.The release reaches beyond clothing, too. Planned jointly by both teams and photographed in Los Angeles, a limited ZINE documents the collaboration's visual world, extending the LA backdrop that ties the anniversary project to UNION's home turf. It is being distributed in limited numbers, positioning it as a collectible companion to the capsule rather than a throwaway lookbook.The UNION x in･stru(mental). capsule launches first at UNION LA on August 7, with Japan availability set to follow from August 8. The accompanying limited ZINE is currently being distributed at Maison MIHARA YASUHIRO directly managed stores, UNION TOKYO and UNION OSAKA. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "371eced53a82d240",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "New Era and ‘Mobile Suit Gundam Unicorn’ Stitch In-Universe Emblems Onto the 9FORTY A-Frame Trucker",
-      "url": "https://hypebeast.com/2026/8/strict-g-new-era-mobile-suit-gundam-unicorn-collaboration-collection-release-info",
-      "publishedAt": "2026-08-07T13:13:26.000Z",
-      "collectedAt": "2026-08-07T13:14:36.351Z",
-      "text": "New Era and ‘Mobile Suit Gundam Unicorn’ Stitch In-Universe Emblems Onto the 9FORTY A-Frame Trucker Summary New Era and 'Mobile Suit Gundam Unicorn' team up on a 9FORTY A-Frame trucker cap through STRICT-GThe cap arrives in two versions set apart by their front emblem, one Anaheim Electronics and one Vist FoundationA single-panel pinched front, breathable mesh and an adjustable strap define the build New Era and Mobile Suit Gundam Unicorn have collaborated on a 9FORTY A-Frame trucker cap, released through STRICT-G in two emblem-specific versions. Both lean on New Era's classic logo-cap format, swapping in crests tied to the anime's in-universe organizations.The foundation is New Era's 9FORTY A-Frame, a variant of the shape-retaining 9FORTY built to hold its form. Rather than a rounded multi-panel crown, the A-Frame runs a single front panel with a pinched top, giving the cap a distinctive profile before any branding is added.Function is handled through familiar trucker-cap cues. A breathable mesh construction keeps the build ventilated, while a curved visor and an adjustable strap are set up to dial in a comfortable, flexible fit.Branding is where the two versions diverge, and it stays deliberately clean. Each cap carries a single three-dimensional embroidered emblem on the front, pitched as an easy fit for casual styling. One version wears the Anaheim Electronics crest, the other the Vist Foundation crest, letting buyers pick their allegiance while keeping the rest of the design unadorned.Both versions of the STRICT-G x New Era Mobile Suit Gundam Unicorn 9FORTY A-Frame trucker are scheduled to ship in September 2026 via STRICT-G. Pre-orders close August 16. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "ea5ead9fcac3101b",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Timberland and New Era Team Up for a Limited-Edition MLB Collection",
-      "url": "https://hypebeast.com/2026/8/timberland-new-era-limited-edition-mlb-collection-release-info",
-      "publishedAt": "2026-08-07T07:58:39.000Z",
-      "collectedAt": "2026-08-07T13:14:36.351Z",
-      "text": "Timberland and New Era Team Up for a Limited-Edition MLB Collection Summary Timberland and New Era partner for an MLB collection.Seven MLB clubs, blending insignia with Timberland’s wheat finish across the Premium 6-Inch Boot, 59FIFTY® fitted cap and 19TWENTY® adjustable cap.Launches August 15 via all three brands. The Timberland x New Era Limited-Edition MLB Collection brings together two iconic American brands to celebrate the intersection of sport, style and culture.The collaboration spotlights three signature silhouettes: the Timberland® Premium 6-Inch Waterproof Boot, the New Era 59FIFTY® fitted cap and the 19TWENTY® adjustable cap. Seven Major League Baseball clubs are represented, from Atlanta Braves, Boston Red Sox, Chicago White Sox, Houston Astros, Los Angeles Dodgers to New York Mets and New York Yankees, each piece pairs team insignia and colors with Timberland’s signature wheat finish.Launching globally on August 15, 2026, the collection will be available online and in-stores via Timberland, New Era and MLB flagship stores. Prices are set at $250 USD for the Timberland® Premium 6-Inch Waterproof Boot, just under $60 USD for the New Era 59FIFTY® fitted cap and around $50 USD for the New Era 19TWENTY® adjustable cap. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "1b4e4c5cf5f0bdcf",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Tiny Vinyl Launches a $49.99 USD Miniature Turntable Built Specifically for Its Four-Inch Record Format",
-      "url": "https://hypebeast.com/2026/8/tiny-vinyl-player-spins-4-inch-records-at-target",
-      "publishedAt": "2026-08-07T11:07:45.000Z",
-      "collectedAt": "2026-08-07T13:14:36.351Z",
-      "text": "Tiny Vinyl Launches a $49.99 USD Miniature Turntable Built Specifically for Its Four-Inch Record Format Summary Compact belt-drive turntable designed specifically for four-inch 33.3 RPM recordsFeatures integrated stereo speakers, Bluetooth output and a 3.5mm headphone jackCompletes a collectible music ecosystem with matching storage crates and display frames Tiny Vinyl launched a dedicated miniature turntable engineered specifically for its proprietary four-inch record format. Priced at $49.99 USD, the new tabletop machine pairs the palm-sized discs with hardware scaled to match. The device features a black leatherette suitcase design and utilizes a belt-driven platter rotating at 33.3 RPM. While the miniature records remain fully compatible with standard manual turntables, the dedicated player provides a specialized hardware solution for casual collectors. This drop establishes a comprehensive physical ecosystem for a novelty format that has already surpassed one million global pressings.Measuring just over 10 inches wide, the unit opts for straightforward accessibility over high-end audiophile specs. The player operates via AC power and bypasses battery operation entirely. Listeners can push audio out through built-in stereo speakers or utilize Bluetooth connectivity for external sound systems. A standard 3.5mm headphone jack offers a hardwired alternative for personal listening. The machine specifically spins the brand's growing catalog of sequentially numbered releases from major artists like BTS, Rihanna, Ariana Grande and The Rolling Stones. Each pressing relies on 15 grams of 100 percent bio-attributed vinyl instead of the standard 140 grams required for a conventional LP.Beyond the core hardware, the company expanded the collectible footprint with two new organizational accessories. A $19.99 miniature storage crate features a wood frame covered in black leatherette with a velveteen interior designed to house up to 32 individual releases. Fans looking to highlight the physical artwork can grab a $14.99 square display frame equipped with a shatter-resistant window and magnetic closures. The frame holds four record jackets and mounts easily on a wall or flat surface. Together these add-ons replicate the familiar rituals of digging, shelving and exhibiting wax with considerably less furniture involved.The dedicated player transforms a novelty merchandise item into a legitimate consumer audio category. Providing a turnkey playback system removes the unc"
-    },
-    {
-      "id": "90987bd7aabf2347",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "A LEGO Ideas Fan Build Recreates Jeff Koons' Iconic 'Balloon Dog' in 1,026 Bricks",
-      "url": "https://hypebeast.com/2026/8/lego-ideas-balloon-dog-mk-ii-recreates-koons-classic",
-      "publishedAt": "2026-08-07T11:03:58.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "A LEGO Ideas Fan Build Recreates Jeff Koons' Iconic 'Balloon Dog' in 1,026 Bricks Summary An independent designer submitted a 1,026-piece pop-art sculpture recreation to the LEGO Ideas platformThe glossy red build utilizes specialized curved windscreen elements to mimic the smooth lobes of an inflated balloonA hidden interior compartment depicts the animal as a pressurized industrial vessel operated by minifigures Contemporary art meets brick engineering with a massive new fan submission on the LEGO Ideas platform. Independent creator brxstr recently unveiled a 1,026-piece homage to the iconic Jeff Koons sculpture. While the Danish toy brand already produces a fingernail-sized balloon dog accessory for carnival sets, this display-ready model scales the concept up to 15 inches long and 12.5 inches tall.The structural foundation relies on a single specialized part. Piece 5274 is an 8x6x2 curved windscreen that entered the brand palette in 2024. The builder scrapped an earlier iteration of the project to utilize this exact element. Mirroring two of these windscreens together forms a single smooth balloon segment for the legs, body, ears and nose. Tapered tips use a smaller rounded windscreen to close off the ends. Technic angled pieces handle the internal connecting work to keep the skeleton completely hidden. A clever side effect of this construction is the visible plate seams along each lobe mimicking the natural crease lines of over-inflated latex.Beneath the serene glossy red exterior lies a highly detailed and humorous interior. Lifting the top off the body reveals a pressurized industrial operation. Inside sits a minifigure wearing a yellow hazmat suit with a radiation warning on his chest. This worker stands over a trans-blue gas cylinder equipped with a chrome pipe, a printed gauge panel and a valve wheel. Four official miniature LEGO balloon dogs sit racked up on the wall behind him like lab specimens. A second minifigure occupies the head cavity to steer the vessel.The Balloon Dog Mk II submission is currently gathering community votes to be considered for production as an official retail set. The designer noted that only two specific parts do not currently exist in the correct red colorway. He also pitched the possibility of future multicolor variants to match the diverse spectrum of the original gallery artworks. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "84eb4782f4ae90fb",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Bugatti's New One-Off Destrier Transforms the Track-Only Bolide Into a Coachbuilt Masterpiece",
-      "url": "https://hypebeast.com/2026/8/bugatti-destrier-turns-bolide-into-sapphire-celeste-icon",
-      "publishedAt": "2026-08-07T10:32:37.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Bugatti's New One-Off Destrier Transforms the Track-Only Bolide Into a Coachbuilt Masterpiece Summary Bugatti’s bespoke Solitaire division has revealed the Destrier, a one-off hypercar adapting the track-focused Bolide into an elegant road-oriented machineThe vehicle retains a 1,578-horsepower quad-turbo W16 engine and carbon tub but removes aggressive downforce elements in favor of a sleek profile standing just one meter tallFinished in Sapphire Celeste blue, the model pays homage to Ralph Lauren’s Type 57SC and features a luxurious cabin detailed with leather, nubuck and 3D-knitted textiles Bugatti has expanded its exclusive Solitaire program with the unveiling of the Destrier. Built on the ferocious foundation of the Bolide track car, this unique one-of-one creation translates relentless circuit performance into a masterpiece of coachbuilt proportions. By stripping away the high-downforce prototype aerodynamics of its predecessor, the French marque highlights an incredibly low-slung carbon tub pushed forward to emphasize the brand's signature C-shaped metallic streak.The hypercar trades aggressive winglets and massive rear aero for a subtler flat spoiler and a sleek silhouette that stands just one meter tall. Flared front fenders rise sharply from the beltline, complementing staggered 20-inch front and 21-inch rear wheels. Out back, the Bolide’s quad tailpipes remain intact, though its X-shaped track lights are swapped out for a bespoke cross-shaped LED pattern. Bugatti design chief Frank Heyl noted that removing the aerodynamic constraints allowed the team to treat the underlying architecture as pure sculpture. It is scheduled to make its global debut at the Pebble Beach Concours d'Elegance.The exterior paint finish serves as a deeply rooted historical tribute. Dubbed Sapphire Celeste, the unique blue shade honors the original color of the Type 57SC Atlantic famously owned by Ralph Lauren. The aesthetic link bridges the gap between road and track, mirroring the historic relationship between the 57SC street car and the Type 57G racer that secured a victory at the 1937 24 Hours of Le Mans. The connection underscores how the new machine bridges raw motorsport heritage with refined grand touring luxury.Inside the cabin, the extreme minimalism of a race car gives way to lush materials and exquisite detailing. The interior is finished in warm brown leather and nubuck, accented by a distinctive 3D-knitted textile designed to resemble snakeskin. Even the contr"
-    },
-    {
-      "id": "4b46122313d4c9c2",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Say Goodbye to Stepping on Bricks With Brickle’s Genius Play Table",
-      "url": "https://hypebeast.com/2026/8/brickle-premium-lego-storage-creative-play-table-info",
-      "publishedAt": "2026-08-07T09:47:18.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Say Goodbye to Stepping on Bricks With Brickle’s Genius Play Table Summary Brickle debuts a premium LEGO table combining smart storage and a creative play surface.Features include size-sorting drop holes and a 41-compartment specialty drawer.Available in multiple finishes, prices range from around $1,900 - $4,800 USD. Brickle’s Premium LEGO Storage & Creative Play Table is a design‑driven piece of furniture that organizes large collections of LEGO bricks while doubling as a creative play surface.Conceived as both storage and play deck, the table comes with a raised edge to prevent pieces from falling, while cleverly engineered drop holes sort bricks into drawers by size. A dedicated “special pieces” drawer offers up to 41 compartments for unique elements, while additional shelves and stools provide display and comfort.Available in finishes such as black, cream, and oak, the Brickle is designed to sit at the heart of the home, encouraging creativity and reducing clutter. Its premium craftsmanship ensures longevity, with thoughtful details like chamfered drawer edges and Teflon runners to protect floors. Available through the brand’s official webstore, pricing varies by model: the full‑size Brickle retails around £1,850 – £3,650 GBP (approx. $2,400 - $4,800 USD depending on finish), while the smaller version is priced from £1,460 GBP (around $1,900 USD).&nbsp;View this post on Instagram&nbsp;A post shared by Brickle Co (@brickle.co) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "44a2c4073b0b8431",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Air Jordan 9 Low \"What The Kilroy\" Merges Six Fictional Alter Egos",
-      "url": "https://hypebeast.com/2026/8/air-jordan-9-low-what-the-kilroy-iv6476-010-official-look-release-info",
-      "publishedAt": "2026-08-07T04:49:15.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Air Jordan 9 Low \"What The Kilroy\" Merges Six Fictional Alter Egos Summary Jordan Brand is reviving its 2012 Kilroy Pack through a singular mismatched Air Jordan 9 Low \"What The Kilroy\"The left and right shoes feature distinct color blockings and details representing Michael Jordan's six fictional alter egosThe pair is expected to release on August 14 for $180 USD via Nike and select retailer Name: Air Jordan 9 Low \"What The Kilroy\"Colorway: Black/Deep Royal Blue-White-Challenge RedSKU: IV6476-010MSRP: $180 USDRelease Date: August 14, 2026Where to Buy: NikeJordan Brand is revisiting a unique piece of Michael Jordan lore with the upcoming release of the Air Jordan 9 Low \"What The Kilroy.\" The new release takes the memorable 2012 \"Kilroy Pack\" and creatively folds it into a single mismatched low-top silhouette.Rather than reissuing all six original pairs—dedicated to Michael Jordan's alter egos Johnny Kilroy, Motorboat Jones, Bentley Ellis, Slim Jenkins, Calvin Bailey, and Fontay Montana—the brand has scattered their signature colors and details across the design. The left shoe features a primarily black build with dark blue wrapping the lower half, an orange midsole, yellow lining, and white laces. In stark contrast, the right shoe goes in a completely different direction, utilizing red leather, black overlays, light blue lining, and black laces.To further honor the 2012 pack, the tongue tags spell out the names of the alter egos, acting as a checklist for the mismatched aesthetic. Additional thematic callbacks include three stacked Jumpman logos on the insoles and heel embroidery alternating between numbers \"23\" and \"4.\" Finally, \"KILROY WAS HERE\" is printed behind the tongues to directly tie the model back to the original advertising campaign.The Air Jordan 9 Low \"What The Kilroy\" is expected to release on August 14, 2026. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "121345dd08d3b11d",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Converse Channels '90s Nostalgia With the One Star Aged Suede AG",
-      "url": "https://hypebeast.com/2026/8/converse-one-star-aged-suede-ag-burgundy-33703200-black-33703201-release-info",
-      "publishedAt": "2026-08-07T09:20:00.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Converse Channels '90s Nostalgia With the One Star Aged Suede AG Name: Converse One Star Aged Suede AGColorway: Burgundy, BlackSKU: 33703200/33703201MSRP: ¥17,600 JPY (approx. $111 USD)Release Date: Available NowWhere to Buy: Converse JapanThe Converse One Star Aged Suede AG reinterprets the classic One Star with a vintage-inspired finish, combining premium suede uppers with aged detailing for a crafted, heritage look. Offered in \"Burgundy\" and \"Black\" colorways, the sneaker features long-nap suede uppers that deliver a rich, tactile feel, paired with an 8mm cotton shoelace for a retro touch.Its construction nods to 1990s One Star models, incorporating star-shaped toe guards and textured tape overlays that enhance durability and visual depth. The outsole is finished with a deeply colored, aged sole treatment, creating a worn-in aesthetic that contrasts against the suede’s softness. Despite its vintage styling, the shoe integrates modern updates for wearability, offering cushioning, flexibility, and lightweight comfort. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "53079e59f41dfa8e",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "John David Washington to Star in Supernatural Horror Thriller 'Mime'",
-      "url": "https://hypebeast.com/2026/8/sony-screen-gems-john-david-washington-star-supernatural-horror-thriller-mime",
-      "publishedAt": "2026-08-07T05:45:40.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "John David Washington to Star in Supernatural Horror Thriller 'Mime' Summary John David Washington is set to star in and produce the upcoming supernatural horror thriller 'Mime'Nikyatu Jusu will direct the film based on an original spec screenplay written by Stephen HermanSony Screen Gems acquired the feature project after competing against Amazon and Searchlight Sony's Screen Gems has officially landed the rights to Mime, an upcoming supernatural horror thriller starring John David Washington. The studio beat out competitive offers from Amazon and Searchlight to secure the feature project.Nikyatu Jusu, who made her feature directorial debut with the Sundance Grand Jury Prize winner Nanny, is attached to direct. The screenplay was written by Stephen Herman based on his original spec concept, though specific storyline details are currently being kept under wraps.The project is produced by Matt Tolmach alongside The Black Phone filmmaker Scott Derrickson via his Crooked Highway banner. Washington will also serve as a producer on the film alongside Tolmach's partner Camila Grove. Washington previously starred in Spike Lee's BlacKkKlansman, Christopher Nolan's Tenet, Gareth Edwards' The Creator, and most recently appeared in the 2024 drama The Piano Lesson. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "daf0e509fd820f4c",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "The Nike Mind 001 Turns Tonal With a Pastel \"Palest Purple\"",
-      "url": "https://hypebeast.com/2026/8/the-nike-mind-001-turns-tonal-with-a-pastel-palest-purple",
-      "publishedAt": "2026-08-07T09:07:23.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "The Nike Mind 001 Turns Tonal With a Pastel \"Palest Purple\" Name: Nike Mind 001 “Palest Purple”Colorway: Palest Purple/Purple Pulse-Black-Metallic SilverSKU: HQ4309-500MSRP: $95 USDRelease Date: Fall 2026Nike is giving the Mind 001 a pastel \"Palest Purple\" treatment, adding a clean women's colorway to a mule that has stayed in high demand all year. The tonal makeup positions the recovery-minded slip-on as an easy house-and-leisure option for Fall 2026.The Mind 001 arrived as one of Nike's standout silhouettes of 2026, built less for sport than for the downtime bookending it. One of two neuroscience-backed models alongside the Mind 002 sneaker, the mule has sold out with regularity since it launched in January, giving this new colorway a built-in audience.On the makeup itself, official images show Palest Purple running from heel to toe, keeping the design almost entirely tonal. The lone interruption comes from chrome finishing on the Swoosh logos, a metallic touch that adds contrast without pulling the shoe away from its soft, monochrome read.That restraint reflects a broader shift in how the line is colored. Early Mind releases leaned on a bright accent applied to the 22 foam nodes underfoot, but Nike has since moved away from that approach, leaning into fully monochrome executions across its more recent drops. The \"Palest Purple\" sits squarely in that newer, tonal direction. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "ccc833e58ef29870",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Inside Nigel Cabourn’s New Omotesando Flagship and In-House Cafe",
-      "url": "https://hypebeast.com/2026/8/nigel-cabourn-omotesando-store-opening-tokyo-info",
-      "publishedAt": "2026-08-07T09:03:59.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Inside Nigel Cabourn’s New Omotesando Flagship and In-House Cafe Summary Nigel Cabourn opens its largest Kanto store in Omotesando, Tokyo, on August 8, 2026.The new flagship introduces Nigel Cabourn COFFEE, created alongside specialty roaster Pappelburg.The store offers all brand labels and a commemorative vintage motel keytag for visitors upon spending over approx. $150 USD. The Nigel Cabourn brand is set to open its largest Kanto-area flagship in Japan this weekend. Located in Tokyo’s chic district, Omotesando, the new space is designed not only as a retail destination but as a cultural hub that embodies Cabourn’s philosophy and lifelong passion for craftsmanship.The store houses the full range of Nigel Cabourn labels, offering outerwear, shirting, trousers and lifestyle pieces that reflect the designer’s archive-driven approach. Prices span from accessible everyday wear to premium outerwear, ensuring a broad offering for both loyal fans and new customers.A highlight of the new flagship is the brand’s first-ever café, Nigel Cabourn COFFEE, created in collaboration with Tokyo’s long-established coffee house Pappelburg. The café serves original blends and Cabourn’s beloved flat white, extending the brand’s lifestyle ethos into a sensory experience.To commemorate the opening, customers spending over ¥22,000 JPY (approx. $150 USD) will receive an exclusive Omotesando Store keychain, designed in homage to vintage motel chains and engraved with messages such as “Cheers body!” and “Love Nige x.”Nigel Cabourn OMOTESANDO STOREPine Under Flat B1F, 5-13-2 JingumaeShibuya-ku, Tokyo 150-0001, Japan Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "d740005920753f43",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Tokyo Jazz Club To Launch Multi-Level Hybrid Venue During Art Week Tokyo",
-      "url": "https://hypebeast.com/2026/8/tokyo-jazz-club-art-week-tokyo-2026-debut",
-      "publishedAt": "2026-08-07T09:08:07.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Tokyo Jazz Club To Launch Multi-Level Hybrid Venue During Art Week Tokyo Summary Tokyo Jazz Club debuts in November during Art Week Tokyo.Located in Jimbocho, it transforms an eight-story former capsule hotel into a hybrid exhibition and music venue.Inspired by the Basel Social Club, it merges art, jazz, dining and nightlife. The Tokyo Jazz Club is set to make its debut in November, launching as a major new cultural event in partnership with Art Week Tokyo. Located near the Jimbocho district, the innovative project will take over all eight floors of a former capsule hotel, transforming the unconventional venue into a dynamic, multi-level hybrid space.Designed to blur the boundaries between a contemporary art exhibition, a socialization hub and a marketplace, the Tokyo Jazz Club will bring together a diverse array of artists, galleries, and musicians under one roof. Supported by Arts Council Tokyo, the inaugural edition promises to be a premier destination for cultural exchange during the city's vibrant autumn arts calendar.&nbsp;View this post on Instagram&nbsp;A post shared by Tokyo Jazz Club (@tokyo.jazz.club) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "998e85da6dc5b789",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Timberland's FW26 Tokyo Design Collective Line Reinterprets \"Timeless Heritage\" Through Flannel, Corduroy and Leather",
-      "url": "https://hypebeast.com/2026/8/timberland-by-tokyo-design-collective-fall-winter-fw-2026-collection-release-info",
-      "publishedAt": "2026-08-07T08:45:26.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Timberland's FW26 Tokyo Design Collective Line Reinterprets \"Timeless Heritage\" Through Flannel, Corduroy and Leather Summary The Timberland by TOKYO DESIGN COLLECTIVE line returns for its seventh installment with a Fall/Winter 2026 collectionA \"TIMELESS HERITAGE\" theme centers on Timberland's material heritage and enduring brand colorsTokyo-directed design filters American workwear roots through Japanese craftsmanship and sensibility Timberland is releasing the seventh installment of Timberland by TOKYO DESIGN COLLECTIVE, the premium line directed by the Tokyo-based TDC team, with a Fall/Winter 2026 collection built around a \"TIMELESS HERITAGE\" theme. The season leans on the brand's long-standing material use and timeless colors, translated through a distinctly Japanese lens.The collection is drawn from Timberland's roots in American workwear and outdoor culture, then rebuilt with Japanese craftsmanship and feel. Framed as a Japan-born project that speaks to a global audience, it aims for pieces that balance approachability, functionality and a universality meant to outlast trends.Fabric is where that thinking gets concrete. The season's key materials are a yarn-dyed flannel with rich surface character, a corduroy defined by its refined wale, and the premium leather that has long been a Timberland signature. By combining those different materials deliberately, TDC pushes the designs toward a space where classic and modern elements sit together rather than competing. The lineup runs all-gender, spanning outerwear such as the Stratham bomber and a heavier zip jacket, an LS thermal, a TIMBS hoodie, and headwear including a waxed leather-patch cap and a corded hat.The reinterpretation extends to how the collection is shown. TDC places its Tokyo-made styles within architecture and scenery that read as unmistakably Japanese, capturing the product among contrasting forces of nature and city, stillness and motion. It is a framing meant to express the team's particular view: heritage seen again through a Japanese sensibility.That heritage runs deep on the Timberland side. The brand was founded in 1973 in Stratham, New Hampshire, and earned global recognition with the original Yellow Boot, designed for people working in the harsh conditions of New England. Its DNA of functional beauty and steady craftsmanship is exactly what the TDC project reworks for a contemporary, city-facing audience.The latest Timberland by TOKYO DESIGN COLLECTIVE collection drops August 10 a"
-    },
-    {
-      "id": "b6a56e3957add13b",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Lionsgate Targets a Late 2027 to Early 2028 Release for ‘Michael 2’",
-      "url": "https://hypebeast.com/2026/8/michael-2-michael-jackson-biopic-late-2027-early-2028-release-period",
-      "publishedAt": "2026-08-07T08:38:17.000Z",
-      "collectedAt": "2026-08-07T13:14:36.352Z",
-      "text": "Lionsgate Targets a Late 2027 to Early 2028 Release for ‘Michael 2’ Lionsgate is pushing ahead on Michael 2, the sequel to its blockbuster Michael Jackson biopic, with plans to roll cameras as early as late 2026 or the start of 2027. Motion picture chief Adam Fogelson laid out the timeline on the studio's latest earnings call, flagging a release window that runs from the end of 2027 into the first half of 2028.The sequel's momentum is a direct product of the original's numbers. Michael, directed by Antoine Fuqua, became a commercial powerhouse, grossing in the neighborhood of $1 billion USD worldwide and posting what has been billed as the strongest opening a biopic has ever recorded. The film charts the King of Pop's climb from the Jackson 5 to global superstardom and closes on his 1987 Bad tour, with the singer's real-life nephew Jaafar Jackson in the lead. Its parting title card, \"His Story Continues,\" left little doubt that a follow-up was coming.On the timeline itself, Fogelson signaled that the sequel can lean partly on footage already in the can. A number of sequences filmed for the first movie went unused and are now likely to migrate into the second. \"We have a number of sequences, particularly some big musical sequences, that were shot previously, that are almost sure to be incorporated,\" Fogelson said on the earnings call. He added that the studio's attention is currently on delivering the biggest, best sequel it can at the right price.Stay tuned for more details. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "23082c039dc853cc",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Nike Ja 4 Brings the Thermal Heat Map to the \"Radar\" Colorway",
-      "url": "https://hypebeast.com/2026/8/nike-ja-4-radar-ja9745-400-first-look-release-info",
-      "publishedAt": "2026-08-07T04:12:12.000Z",
-      "collectedAt": "2026-08-07T13:14:36.353Z",
-      "text": "Nike Ja 4 Brings the Thermal Heat Map to the \"Radar\" Colorway Summary Nike has introduced the Ja 4 \"Radar\" featuring a vibrant thermal heat map graphic across the upperThe silhouette incorporates bright orange oversized Swooshes angular midsole supports and signature 12 branding detailsThe pair is expected to launch in October 2026 for $140 USD in men’s sizing and $115 USD in grade school sizing Name: Nike Ja 4 \"Radar\"Colorway: Obsidian/Total Orange-Laser Orange-Black-Racer Blue-Cobalt BlissSKU: JA9745-400MSRP: $140 USDRelease Date: October 2026Where to Buy: NikeNike has officially revealed the Nike Ja 4 \"Radar,\" delivering a vibrant graphic interpretation of Ja Morant's fourth signature basketball silhouette. The upcoming colorway introduces a thermal heat map treatment paired with bold structural overlays.The upper is constructed with a deep purple base overlaid with a bleeding gradient of red, yellow, aqua, and blue hues that simulate a radar scan. Bright orange covers the oversized Swoosh logo alongside sharp, angular support pieces embedded through the midsole. Black accents settle across the tongue, laces with orange trim, collar, and outsole, giving the multi-toned color arrangement a grounded frame.Shifting away from the softer contours of the Ja 3, the Ja 4 features a more angular build with heavily textured materials and enlarged support structures surrounding the midfoot and heel. Personal details for the guard appear throughout, including Morant's signature logo on the tongue and repeated \"12\" markings molded into the orange sections underfoot.The Nike Ja 4 \"Radar\" releases in October 2026 for $140 USD. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "cc15de249c370afa",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Nike Wraps the Mind 002 Slip-On in Cooling “Work Blue”",
-      "url": "https://hypebeast.com/2026/8/nike-mind-002-work-blue-hq4308-401-official-images",
-      "publishedAt": "2026-08-07T08:11:42.000Z",
-      "collectedAt": "2026-08-07T13:14:36.353Z",
-      "text": "Nike Wraps the Mind 002 Slip-On in Cooling “Work Blue” Nike has revealed a \"Work Blue\" colorway of the Mind 002, dressing its neuroscience-minded slip-on in a cooler palette for Fall/Winter. The makeover reworks the model's established look rather than reshaping the shoe itself, pairing a blue-forward upper with a bright accent.The colorway sticks to the blueprint the Mind 002 debuted with. Its two-tone blocking carries over, but this run fills that structure with cooler shades across the upper, giving the slip-on a calmer, more subdued read. The lead tone is a Horizon Blue that sets the mood for the whole makeup.Against those cool shades, the shoe reworks its high-visibility detailing through a Light Lemon Twist trim. It functions as the makeup's one jolt of contrast, a fresh take on the hi-vis accenting that keeps the pair from reading as entirely monochromatic.Underpinning the colorway is the Mind line itself, Nike's slip-on platform positioned around its neuroscience angle.The 002 sits as the more attainable, everyday-ready entry point into that family, a lower-key counterpart to the sold-out, resale-inflated Mind 001. Click here to view full gallery at Hypebeast"
-    },
     {
       "id": "04d22d7c6239ceaf",
       "sourceId": "vogue",
@@ -4205,116 +3807,6 @@
       "text": "114 Thoughts I Had While Watching 'One Night Only' I know the question “What’s your favorite part of sex?” is supposed to be thoughtful and hot, but…I’m laughing."
     },
     {
-      "id": "3410f00c975f28cc",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Bride Carried a Handmade Silk Flower Bouquet for Her Ancestral Castle Wedding in Ireland",
-      "url": "https://www.vogue.com/slideshow/casper-ettelson-and-serena-wardell-wedding",
-      "publishedAt": "2026-08-07T19:30:28.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "The Bride Carried a Handmade Silk Flower Bouquet for Her Ancestral Castle Wedding in Ireland Model and artist Serena Wardell married Fishbowl founder Casper Ettelson at her family’s ancestral home of Crom Castle in rural Ireland, with the bride making the wedding stationery, keepsakes, and her bouquet herself."
-    },
-    {
-      "id": "5598165fa7b21019",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "After Careful Review, These Are the Best Perfumes for Women",
-      "url": "https://www.vogue.com/article/perfumes-for-women",
-      "publishedAt": "2026-08-07T18:55:37.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "After Careful Review, These Are the Best Perfumes for Women Here are the best perfumes for women from brands like Chanel, Dior, Diptyque, and much more. From warm vanilla notes to fresh, citrus fragrances, find your new favorite scent."
-    },
-    {
-      "id": "691d2e11ec301ed5",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Tom Holland and Zendaya Debut Their Matching Gold Wedding Bands",
-      "url": "https://www.vogue.com/article/tom-holland-zendaya-debut-matching-gold-wedding-bands",
-      "publishedAt": "2026-08-07T18:30:00.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "Tom Holland and Zendaya Debut Their Matching Gold Wedding Bands The actors stepped out in London yesterday wearing matching gold wedding rings, following reports of a wedding celebration in Surrey earlier this week."
-    },
-    {
-      "id": "dc98c52f66d6a05a",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Lion’s Gate Portal Is Approaching—Here’s What It Means for Every Star Sign",
-      "url": "https://www.vogue.com/article/lions-gate-portal-2026-astrology",
-      "publishedAt": "2026-08-07T17:24:27.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "The Lion’s Gate Portal Is Approaching—Here’s What It Means for Every Star Sign Here’s how to unlock your inner magic during this year’s lion’s gate portal, according to an astrologer."
-    },
-    {
-      "id": "9d9cfbd89ed8dfa4",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "url": "https://www.vogue.com/article/best-celebrity-outfits",
-      "publishedAt": "2026-08-07T16:59:00.000Z",
-      "collectedAt": "2026-08-08T12:57:49.857Z",
-      "text": "Shop Our Favorite Celebrity Looks of the Week Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away."
-    },
-    {
-      "id": "c2868ae6d1561e88",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Reformulated SkinCeuticals C E Ferulic Is Even Better Than I Expected",
-      "url": "https://www.vogue.com/article/skinceuticals-ce-ferulic-reformulation",
-      "publishedAt": "2026-08-07T16:50:47.000Z",
-      "collectedAt": "2026-08-08T12:57:49.857Z",
-      "text": "The Reformulated SkinCeuticals C E Ferulic Is Even Better Than I Expected Is SkinCeuticals C E Ferulic worth the money? With a reformulated formula, the new serum contains the same headliner antioxidants, but includes two new ingredients to address signs of aging."
-    },
-    {
-      "id": "966393eac62eac8a",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "4 Key Takeaways From Copenhagen Fashion Week SS27",
-      "url": "https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27",
-      "publishedAt": "2026-08-07T16:25:42.000Z",
-      "collectedAt": "2026-08-08T12:57:49.857Z",
-      "text": "4 Key Takeaways From Copenhagen Fashion Week SS27 The spring 2027 season marked CPHFW’s 20th anniversary, its most international edition ever, and an explosion of color after years of minimalism."
-    },
-    {
-      "id": "cf7bcf5578e3b015",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nights, Therapy, and “Animal”",
-      "url": "https://www.vogue.com/article/now-serving-katseye",
-      "publishedAt": "2026-08-07T16:00:00.000Z",
-      "collectedAt": "2026-08-08T12:57:49.857Z",
-      "text": "Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nights, Therapy, and “Animal” In the latest installment of Vogue’s Now Serving series, four of the group’s five current members linked up in the kitchen for an international feast."
-    },
-    {
-      "id": "95c597623150ff3c",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Cooper Hoffman and Nico Parker Are a Nepo-for-Nepo Couple I can Get Behind",
-      "url": "https://www.vogue.com/article/i-want-what-they-have-cooper-hoffman-and-nico-parker",
-      "publishedAt": "2026-08-07T14:29:11.000Z",
-      "collectedAt": "2026-08-08T12:57:49.857Z",
-      "text": "Cooper Hoffman and Nico Parker Are a Nepo-for-Nepo Couple I can Get Behind “We didn’t officially start dating until a few weeks after filming, when she came to New York to meet my mom, and I asked her to be my girlfriend,” Cooper told The Hollywood Reporter. “It was very sweet.”"
-    },
-    {
-      "id": "2f3f49be10741e29",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Aperitivo Hour: A Backyard Dinner With Natasha Pickowicz",
-      "url": "https://www.vogue.com/article/aperitivo-hour-natasha-pickowicz",
-      "publishedAt": "2026-08-07T13:12:21.000Z",
-      "collectedAt": "2026-08-08T12:57:49.857Z",
-      "text": "Aperitivo Hour: A Backyard Dinner With Natasha Pickowicz Chef and cookbook author Natasha Pickowicz takes us behind the scenes of her backyard dinner party."
-    },
-    {
       "id": "5e6747341b923309",
       "sourceId": "highsnobiety",
       "sourceName": "Highsnobiety",
@@ -4348,61 +3840,6 @@
       "text": "A Silk Scarf Is Whatever You Want It to Be Celine, Loro Piana, Conner Ives, and Louis Vuitton have shown that the silk scarf can be attached to anything, from belts and bags to actual flagpoles."
     },
     {
-      "id": "c0efb5820fcd4c78",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "The World’s Toughest Bag Wrote the World’s Toughest Book",
-      "url": "https://www.highsnobiety.com/p/yoshida-co-book/",
-      "publishedAt": "2026-08-07T18:33:00.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "The World’s Toughest Bag Wrote the World’s Toughest Book The heritage Japanese label is celebrating its 90th anniversary with the release of a commemorative book made of the same material as its famously strong bags."
-    },
-    {
-      "id": "3e45a4ecb84d4526",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike’s Glossy Air Jordan 1 Is Made to Match Your Mani",
-      "url": "https://www.highsnobiety.com/p/nikes-glossy-air-jordan-1-is-made-to-match-your-mani/",
-      "publishedAt": "2026-08-07T16:55:00.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "Nike’s Glossy Air Jordan 1 Is Made to Match Your Mani Nike just made a glossy polished Air Jordan 1 sneaker that mimics a super fresh manicure."
-    },
-    {
-      "id": "3756cf7be1e88663",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "adidas’ BW Army Decon Slips into Somthing More Comfortable",
-      "url": "https://www.highsnobiety.com/p/hartcopy-adidas-bw-army-decon/",
-      "publishedAt": "2026-08-07T15:40:00.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "adidas’ BW Army Decon Slips into Somthing More Comfortable Hartcopy's war-ready adidas BW Army Decon sneaker-mule is literally built to collapse."
-    },
-    {
-      "id": "d4f7d078302d578b",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "The Answer is Always Denim",
-      "url": "https://www.highsnobiety.com/p/tommy-hilfiger-always-denim/",
-      "publishedAt": "2026-08-07T14:59:20.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "The Answer is Always Denim Romeo Beckham and Yasmin Wijnaldum front Tommy Jeans' new Always Denim campaign, proving why good denim never needed a comeback."
-    },
-    {
-      "id": "286e71d50bb21b7c",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Noah Cyrus Is Everyone’s Favorite Dark Horse",
-      "url": "https://www.highsnobiety.com/p/noah-cyrus-loved-ones-interview/",
-      "publishedAt": "2026-08-07T14:00:21.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "Noah Cyrus Is Everyone’s Favorite Dark Horse A decade into her career, Cyrus has carved her own unique path, finding fans in country chart-toppers and introspective singer-songwriters alike."
-    },
-    {
       "id": "dc06974696c43bf4",
       "sourceId": "hypebeast",
       "sourceName": "Hypebeast",
@@ -4423,61 +3860,6 @@
       "publishedAt": "2026-08-07T20:53:06.000Z",
       "collectedAt": "2026-08-08T12:57:52.694Z",
       "text": "First Look at the Nike Caitlin 1 \"Hot Punch\" Summary Caitlin Clark revealed an early look at the upcoming Nike Caitlin 1 \"Hot Punch\" via InstagramThe retail colorway features an all-over pink execution with contrasting royal blue signature brandingThe pair is scheduled to release during Holiday 2026 for $140 USD via Nike and select retailers Name: Nike Caitlin 1 \"Hot Punch\"Colorway: Hot Punch/Neo Pink-Black-Laser Crimson-Racer BlueSKU: IH7423-600MSRP: $140 USDRelease Date: Holiday 2026Where to Buy: NikeNike and WNBA star Caitlin Clark have provided a first look at the Nike Caitlin 1 \"Hot Punch\". Clark shared an early preview of the upcoming release on Instagram, confirming the pair as part of her debut signature model’s wider retail lineup.The silhouette takes on an eye-catching aesthetic, wrapped in a Hot Punch shade that extends across the upper from heel to toe. Neo Pink tones soften the design across the midsole while filling in the layered Swoosh branding along the lateral and medial sidewalls.To break up the vibrant pink upper, royal blue accents highlight Clark’s signature logo atop the tongue, adding a sharp point of visual contrast to the overall palette.The Nike Caitlin 1 \"Hot Punch\" releases during Holiday 2026. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "9136152ed07728f6",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "teamLab Transforms Osaka's Sunflowers Into an Interactive Ecosystem",
-      "url": "https://hypebeast.com/2026/8/teamlab-new-artwork-small-sun-flickering-in-the-dark-botanical-garden-osaka-info",
-      "publishedAt": "2026-08-07T03:43:34.000Z",
-      "collectedAt": "2026-08-08T12:57:52.694Z",
-      "text": "teamLab Transforms Osaka's Sunflowers Into an Interactive Ecosystem Summary teamLab unveils new interactive sunflower artwork at Osaka Botanical Garden.Sunflowers glow and emit tones, responding to visitor presence and movement.Installation fosters connection, awareness and meditative engagement with nature through digital art. International art collective teamLab has unveiled its latest seasonal interactive installation, Life is the Small Sun Flickering in the Dark, at the permanent nighttime open-air museum teamLab Botanical Garden Osaka inside Nagai Park. Featuring a soundscape created by composer Hideaki Takahashi, the 2026 installation transforms a field of roughly 20,000 white sunflowers into an ethereal, glowing landscape where living flora, technology, and human presence merge into a single interactive ecosystem. Operating on view through August 16, 2026 - subject to the seasonal blooming period of the flowers - the exhibition turns the botanical garden into a dynamic sensory environment after dusk.The artwork comes to life through human and animal interaction across the darkness. When visitors or local wildlife approach and stand near the sunflowers, the individual plants respond by illuminating more intensely and emitting a distinct resonant audio tone. This initial pulse of light and sound rapidly ripples outward to adjacent sunflowers, creating a continuous wave that radiates through the entire field. If a secondary wave of light approaches from across the meadow, it alerts guests to the presence of another person or creature moving on the far side, transforming the physical behaviors of those in the space into a collective visual and auditory dialogue.Rooted in teamLab’s conceptual exploration of how existence is continuous with its surrounding environment, Life is the Small Sun Flickering in the Dark frames each sunflower not as an isolated entity, but as part of an interconnected web of relationships. Rather than treating art as a static object with rigid physical boundaries, the collective uses flow, light, and sound to establish an evolving ecological field where audience participation actively shapes the structure of the pieceteamLab Botanical Garden OsakaNagai Botanical Garden at 1-23 Nagaikoen,Higashisumiyoshi-ku, Osaka 546-0034, Japan&nbsp;View this post on Instagram&nbsp;A post shared by teamLab (@teamlab) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "c8e4b9e11ee9f003",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Alysa Liu Fronts Nike Studio Fleece Campaign & Rains Steps Into Footwear in This Week's Top Fashion News",
-      "url": "https://hypebeast.com/2026/8/alysa-liu-nike-studio-fleece-rains-shoe-devil-wears-prada-nigel-cabourn-anderson-bell-burberry-info",
-      "publishedAt": "2026-08-07T15:54:06.000Z",
-      "collectedAt": "2026-08-08T12:57:52.695Z",
-      "text": "Alysa Liu Fronts Nike Studio Fleece Campaign & Rains Steps Into Footwear in This Week's Top Fashion News SummaryNigel Cabourn and Andersson Bell opened distinct new flagship boutiques in Japan.Christie’s is auctioning off The Devil Wears Prada 2 wardrobe; the V&A highlighted Burberry’s trench history.RAINS launched its first waterproof boots, while Olympian Alysa Liu fronted Nike's latest fleece campaign.What Alysa Liu Wears When She's Not on the IceFresh off securing a historic gold medal at the Milan Winter Olympics, figure skating champion Alysa Liu stepped out of the rink to front Nike's vibrant Studio Fleece campaign. Known for injecting Gen-Z energy and alt aesthetics into her sport, Liu showcased her off-duty style in a surrealist pastel salon setting. In an exclusive interview for Hypebeast, the 20-year-old athlete explained how growing up in Oakland, California, shaped her eclectic, deeply personal approach to fashion. Further, Liu shared that she prioritizes both \"mobility\" and \"comfort,\" highlighting her love for layering baggy sweatpants and oversized hoodies with sneakers. Read the full interview now at the link above, where Liu discusses and breaks down her off-duty wardrobe, recovery rituals, and life beyond the rink.RAINS Steps Into Footwear With Debut Waterproof Boots CollectionRAINS officially stepped into the footwear arena and launched its first-ever waterproof boot collection. The Scandinavian brand expanded its global rainwear legacy by introducing two primary silhouettes: the Dry Boot and the Mirage. The functional models, which footwear architect Martin Sallières helped bring to life, ranged from classic Chelsea cuts to exaggerated clog styles. The collection boasted responsive cushioning and unique grid-patterned outsoles that drew inspiration from New York City's block layout. Ultimately, the weather-ready footwear release translates the brand's signature sculptural minimalism into all-day, all-climate wearability. As unpredictable weather becomes a greater consideration for consumers, rain-geared footwear may see an uptick in the coming seasons.Christie's New York to Auction Costumes From 'The Devil Wears Prada 2'In a crossover between cinema and high fashion, Christie's and 20th Century Studios announced an exclusive online auction that featured the original wardrobe from The Devil Wears Prada 2. The charitable sale benefited the Committee to Protect Journalists and the CFDA, and it offered screen-worn luxury garments from the f"
-    },
-    {
-      "id": "dc53e14396ded538",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "mfpen's 10th Anniversary Runway Show Teases New Balance Collaboration",
-      "url": "https://hypebeast.com/2026/8/mfpen-ss27-collection-runway-show-copenhagen-fashion-week",
-      "publishedAt": "2026-08-07T18:07:27.000Z",
-      "collectedAt": "2026-08-08T12:57:52.695Z",
-      "text": "mfpen's 10th Anniversary Runway Show Teases New Balance Collaboration On Wednesday, mfpen presented its SS27 collection “Deadlines” at Copenhagen Fashion Week. Marking 10 years in business, the Danish label embraces the spirit of imperfection for a collection of “overworked” office-wear-inspired silhouettes.Exploring “the feeling of working late nights on a project to meet a deadline,” the SS27 collection translates this theme into the garments through lightly distressed fabrics and slouchy styling. For more interesting proportions, wool shorts and skirts cut too short expose inner lining, while the sleeves of tops, including a cable-knit sweater, extend past the hands. Together, these design choices break from the formality of the workplace, placing a primacy on unkempt and lived-in detailing.In one men’s look, a red floral jacquard shirt is worn with the chest exposed and paired with a dark gray suit, while another utilizes a white checked shirt with a loosely styled floral necktie and front-pleated trousers. Other men’s looks get subtle feminine touches from lace stockings and tassel trims, while sun-faded jersey knits and raw-cut hems add a gritty sensibility to the collection.Accessories like glossy leather messenger bags and belts with chrome grommets bring an alternative character to the range, balancing out the more formal silhouettes. Finally, for footwear, mfpen introduces a New Balance Made in USA 992 that follows the neutral late 90s feel of the accompanying garments.See the gallery above for a full look at mfpen SS27 at Copenhagen Fashion Week. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "0dc82bbcc5fe5e98",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "BEAMS Opens Doors to Inaugural Malibu Outpost",
-      "url": "https://hypebeast.com/2026/8/beams-america-malibu-store-opening-information",
-      "publishedAt": "2026-08-07T17:31:37.000Z",
-      "collectedAt": "2026-08-08T12:57:52.695Z",
-      "text": "BEAMS Opens Doors to Inaugural Malibu Outpost Japanese menswear label BEAMS has expanded its U.S. presence by officially opening BEAMS MALIBU on the California coast.Located at 23710 Malibu Road, the seaside store operates on Fridays, Saturdays, and Sundays from 11:00 AM to 6:00 PM.BEAMS MALIBU has opened its doors officially opened its doors nestled right next to California’s southern coast. The opening is only the latest development in the ubiquitous Japanese menswear label’s expansion into the US, which has largely taken place in the Los Angeles metropolitan area.Starting today, shoppers can browse and buy BEAMS at a seaside Malibu Rd space that will be open only on Fridays, Saturdays and Sundays from 11 AM to 6 PM. The Japanese label quietly announced the move earlier this year, saying, “BEAMS has secured a location in Malibu, California and is currently preparing for the upcoming project,” on BEAMS America’s official site. It comes after the brand’s first-ever BEAMS Plus Limited Store in central LA in 2024 and the later “All Things Japan” pop-up in Summer 2025. View this post on InstagramA post shared by BEAMS America (@beams_america) The brand’s long-awaited entrance into the US market was confirmed in 2025 with the official e-commerce launch of BEAMS America. Since then, the brand’s American arm has released a plethora of dedicated collabs with labels like Vans and Champion. BEAMS expands its presence at a time when Japanese fashion gains popularity stateside via retailers like UNIQLO and MUJI, as well as trends like Japanese selvedge denim and sashiko stitching. As the nation's cross-cultural influence continues to grow in the West, BEAMS’ recent moves suggest there may be more stores coming in the near future.BEAMS MALIBU23710 Malibu Road, Malibu, CA 90265Fri, Sat, Sun 11:00 am – 6:00 pm Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "0ece531cda13f74f",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "This 1:1 ‘Fallout’ Pip-Boy Comes Off Your Wrist and Onto Your Desk",
-      "url": "https://hypebeast.com/2026/8/prime-video-fallout-video-game-tv-series-pip-boy-replica-release-info",
-      "publishedAt": "2026-08-07T13:15:01.000Z",
-      "collectedAt": "2026-08-08T12:57:52.695Z",
-      "text": "This 1:1 ‘Fallout’ Pip-Boy Comes Off Your Wrist and Onto Your Desk Summary The Wand Company has produced an officially licensed Pip-Boy replica tied to the Amazon Original Fallout seriesBuilt as a 1:1 wearable, it pairs die-cast metal and a hand-weathered finish with a functioning LCD screenA machined metal stand lets the piece double as an in-universe desk clock when it is not being worn The Wand Company has recreated the Fallout Pip-Boy as a fully functional, wearable 1:1 replica, officially licensed by Amazon Studios from its live-action series. Modeled on the show's prop geometry, the collectible reproduces the Pip-Boy 3000 Mk V as a piece that works as both cosplay hardware and a desktop display.Construction is where the replica makes its case. The front casing is die-cast metal finished with hand-applied weathering, so each unit carries its own worn-in character, while the body is built from engineered injection-moulded ABS. A memory foam cuff lines the interior for universal fitting and longer wear, striking a balance between authentic materials and something you can actually strap on. The piece is described as the most accurate reproduction of the wrist-worn \"Personal Information Processor\" yet made, an ambition that tracks with The Wand Company's reputation for high-fidelity prop replicas.The electronics carry the fantasy further. A TFT LCD screen runs more than 45 different in-universe screens and animations pulled directly from the series, navigated through a side control dial, and the same display doubles as a working timepiece with an in-universe alarm. A built-in FM radio lets owners tune real stations or switch over to Wasteland broadcasts at the press of a button. Power comes from a rechargeable Li-Po cell topped up over USB-C, which also allows the replica to run constantly on for an always-lit desk display.That desk life is anchored by the stand. The replica ships with a solid, machined metal stand that seats it cleanly and unlocks the table-clock function, turning a cosplay prop into an everyday object. The result speaks to how far the Pip-Boy has traveled, from an in-game HUD to a live-action prop to a piece of hardware sitting on a collector's shelf.The officially licensed Fallout Pip-Boy replica is available via Amazon. Click here to view full gallery at Hypebeast"
     },
     {
       "id": "554a4e53066db1e5",
@@ -4687,17 +4069,6 @@
       "publishedAt": "2026-08-09T02:54:32.000Z",
       "collectedAt": "2026-08-09T13:00:36.594Z",
       "text": "LEGO Recreates the Ministry of Magic as a 3,491-Piece, Multi-Level ‘Harry Potter’ Collectors' Set Summary LEGO marks 25 years of 'Harry Potter' with a 3,491-piece Ministry of Magic Collectors' Edition display modelThe multi-level build runs from a London street scene down through Ministry offices to the Hall of ProphecyFourteen minifigures include a first-ever Arabella Figg, alongside a brand-new Lynx Patronus element The LEGO Group has revealed the LEGO Harry Potter The Ministry of Magic Collectors' Edition, a 3,491-piece set built to mark 25 years since the release of Harry Potter and the Philosopher's Stone. The minifigure-scale model renders a cross-section of magical London as an involved build aimed at adult collectors.The set is structured as a vertical journey through the wizarding world's London headquarters. The build opens at street level, where a detailed scene includes a subway station and the franchise's recognizable red telephone box, establishing the entrance to the Ministry hidden below. From there, the model descends through the government complex itself, opening up interior spaces to explore.Those lower levels are where the interactive detailing concentrates. Builders can access Arthur Weasley and Dolores Umbridge's offices and the courtroom where Harry stands trial, with the press materials pointing to numerous Easter eggs worked into the layout. One level further down sits the Hall of Prophecy, which brings in functional play features including collapsing shelves to stage its signature scene.Character content is a core part of the appeal. The set ships with 14 minifigures, among them Hermione Granger, Ron Weasley and Lord Voldemort, plus the first-ever minifigure depiction of Arabella Figg. Rounding out the roster is a brand-new element in Kingsley Shacklebolt's Lynx Patronus, the magical guardian that carried messages between the Ministry and the Order of the Phoenix.As a finished piece, the model is scaled for display as much as for building. It stands over 20 inches tall, measures 13.5 inches wide and 6 inches deep, and carries an 18+ age designation, positioning it firmly within LEGO's collector-facing tier. The timing reinforces that intent: the release is set to coincide with Back to Hogwarts Day, folding the anniversary celebration into a date already meaningful to the fanbase.The LEGO Harry Potter The Ministry of Magic Collectors' Edition (76476) will be available through LEGO Insiders Early Access from August 29, then to all b"
-    },
-    {
-      "id": "9bed89274da9c09a",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Yoshida & Co. Bookbinds Its 90-Year History Using the Same Thread That Sews Its Bags",
-      "url": "https://hypebeast.com/2026/8/yoshida-co-90-anniversary-book-release-info",
-      "publishedAt": "2026-08-07T07:06:37.000Z",
-      "collectedAt": "2026-08-09T13:00:36.594Z",
-      "text": "Yoshida & Co. Bookbinds Its 90-Year History Using the Same Thread That Sews Its Bags Summary Yoshida Kaban marks its 90th anniversary with a visual book documenting the brand's craft and historyThe book is bound with the Japanese wa-toji method and stitched using the actual thread from its bag productionTwo editions arrive, one built from TANKER fabric and one wrapped in cloth-covered board Yoshida & Co., the maker behind PORTER, is releasing the YOSHIDA & Co. 90 Anniversary BOOK, a visual book commemorating its 90th year in business. Weighted toward the brand's work over the past decade, the volume treats its own construction as an extension of the craftsmanship it documents.The making of the book is the clearest statement of intent. It is bound using wa-toji, the traditional Japanese technique of stitching paper together with needle and thread, and the sewing yarn is the same thread Yoshida actually uses to assemble its bags. That choice carries the brand's obsession with handwork out of the workshop and into the object itself. Two bindings are offered: a Collector's Edition finished in TANKER fabric, and a Library Edition given a rugged cover of cloth-wrapped heavy board.The contents track where the brand has been recently. The book devotes pages to ALL NEW TANKER, the project that reworked PORTER's signature TANKER series into a version made from 100 percent plant-based nylon, and it walks through the full slate of items issued for the anniversary. It also captures the exhibition Every day is a new beginning, staged at Kudan House, giving the recent milestones a place on the page.From there it reaches back to the origin. The volume collects historical material tracing the brand's roots across nine decades, including rare episodes about founder Yoshida Kichizo, the tools he favored, and the handcart used in the earliest days of the operation. Yoshida Kaban was established in 1935, which places this anniversary in 2026. Together, the recent projects and the founding relics frame the book as a bridge between the label's present output and the workshop mindset it started with.The YOSHIDA & Co. 90 Anniversary BOOK releases August 15. Click here to view full gallery at Hypebeast"
     },
     {
       "id": "9e2352b5ec124982",
@@ -51283,6 +50654,611 @@
       "publishedAt": "2026-11-04T08:08:47.000Z",
       "collectedAt": "2026-11-04T19:36:05.901Z",
       "text": "After Eight Years of Silence, ‘The Elder Scrolls VI’ Is Officially ‘Sentinel’ Bethesda has given its long-awaited sequel a full title, confirming that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. The reveal closes out more than eight years of the project going by a numeral alone, and arrives just as the studio marks its 40th anniversary and The Elder Scrolls V: Skyrim approaches its 15th birthday this month.Studio chief Todd Howard handled the announcement personally, closing out an anniversary video of just under 10 minutes that looked back on Bethesda Game Studios’ four-decade history. With the milestone in hand, Howard called it the “perfect time” to put a name on the game. Bethesda is keeping everything else under wraps for now, and its accompanying XBOX Wire post shares only the new Sentinel logo.Where Bethesda stays quiet, earlier reporting fills in the outline. The Verge’s Tom Warren, who reported last week that the title would land in November, says Sentinel takes players to Hammerfell, a province fans have previously visited in The Elder Scrolls Adventures: Redguard and The Elder Scrolls Online. The name itself fits that picture, as Sentinel is a major city in the region.Warren also reports that Sentinel will be the first entry to dig into the history of the Elder Scrolls themselves, the mysterious ancient artifacts behind the franchise’s name. If that holds, it would put the series’ central mystery at the heart of the story for the first time, though Bethesda has yet to confirm any narrative details, gameplay or a release window.&nbsp;View this post on Instagram&nbsp;A post shared by Bethesda Game Studios (@bethesdagamestudios) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7dd55dc602a306ea",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jordan Firstman on Club Slang, Directing His Friends, and the Perfect Date Night",
+      "url": "https://www.vogue.com/article/on-the-podcast-jordan-firstman-on-club-kid",
+      "publishedAt": "2026-11-05T19:00:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.217Z",
+      "text": "Jordan Firstman on Club Slang, Directing His Friends, and the Perfect Date Night Jordan Firstman’s directorial debut, “Club Kid,” was the talk of Cannes this year, earning a seven-minute standing ovation and starting a bidding war. Ahead of the film’s theatrical release, Firstman stops by the “The Run-Through” for a chat with Chloe."
+    },
+    {
+      "id": "1260704cb4783297",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside Gabby Thomas and Spencer McManes’s Romantic Rainy-Day Wedding in Cabo",
+      "url": "https://www.vogue.com/slideshow/gabby-thomas-and-spencer-mcmanes-wedding",
+      "publishedAt": "2026-11-05T17:30:50.000Z",
+      "collectedAt": "2026-11-05T19:44:31.218Z",
+      "text": "Inside Gabby Thomas and Spencer McManes’s Romantic Rainy-Day Wedding in Cabo It rained nearly the entire day when the three-time Olympic gold medalist married the beverage brand founder in Mexico—but just as she reached the altar, the skies cleared and a rainbow appeared over the Pacific Ocean."
+    },
+    {
+      "id": "75fdcabb307b85ad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I’m an American Living in Madrid. This Week, I Felt Closer to Home Than Ever.",
+      "url": "https://www.vogue.com/article/american-living-in-madrid-midterm-results",
+      "publishedAt": "2026-11-05T17:27:37.000Z",
+      "collectedAt": "2026-11-05T19:44:31.218Z",
+      "text": "I’m an American Living in Madrid. This Week, I Felt Closer to Home Than Ever. After this week’s election results, I was—I am—overjoyed. But there’s a sadness, too, in being so far away from it all."
+    },
+    {
+      "id": "54a5d5402941cacf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Palace Kept Its Cool",
+      "url": "https://www.vogue.com/article/how-palace-kept-its-cool",
+      "publishedAt": "2026-11-05T17:11:55.000Z",
+      "collectedAt": "2026-11-05T19:44:31.218Z",
+      "text": "How Palace Kept Its Cool Balancing subcultural capital with global growth and blue-chip collaborations is no mean feat. For Palace co-founder Gareth Skewis, physical retail and integrity go a long way."
+    },
+    {
+      "id": "f1337fa2368a4bb5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Wait, Iowa Governor-Elect Rob Sand Modeled for Prada?",
+      "url": "https://www.vogue.com/article/iowa-governor-elect-rob-sand-prada-model",
+      "publishedAt": "2026-11-05T16:49:36.000Z",
+      "collectedAt": "2026-11-05T19:44:31.218Z",
+      "text": "Wait, Iowa Governor-Elect Rob Sand Modeled for Prada? While in college in the early 2000s, Iowa governor-elect Rob Sand had a successful runway modeling career across Paris and Milan."
+    },
+    {
+      "id": "d2dab56f6d1ec889",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Pierpaolo Piccioli and Balenciaga Part Ways",
+      "url": "https://www.vogue.com/article/pierpaolo-piccioli-and-balenciaga-part-ways",
+      "publishedAt": "2026-11-05T16:45:39.000Z",
+      "collectedAt": "2026-11-05T19:44:31.218Z",
+      "text": "Pierpaolo Piccioli and Balenciaga Part Ways The creative director of the Kering-owned house is stepping down after just three seasons."
+    },
+    {
+      "id": "5c79e06ef9ad4c09",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Christie Brown Lagos Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/christie-brown",
+      "publishedAt": "2026-11-05T19:42:38.000Z",
+      "collectedAt": "2026-11-05T19:44:31.218Z",
+      "text": "Christie Brown Lagos Spring 2027 "
+    },
+    {
+      "id": "94d1d2dbe141a84d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rihanna Accidentally Nailed the 2027 Met Gala Theme",
+      "url": "https://www.vogue.com/article/rihanna-accidentally-nailed-the-2027-met-gala-theme",
+      "publishedAt": "2026-11-05T16:13:34.000Z",
+      "collectedAt": "2026-11-05T19:44:31.218Z",
+      "text": "Rihanna Accidentally Nailed the 2027 Met Gala Theme What did Rihanna know, and when did she know it?"
+    },
+    {
+      "id": "4a5aa080cb7a25f9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kilentar Lagos Spring 2027",
+      "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/kilentar",
+      "publishedAt": "2026-11-05T19:42:38.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Kilentar Lagos Spring 2027 "
+    },
+    {
+      "id": "320e5e2e7c6740b9",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hunter Schafer’s Upcycled Look Is the Antithesis of Fall Dressing",
+      "url": "https://www.vogue.com/article/hunter-schafer-nihl-neon-red-carpet-look",
+      "publishedAt": "2026-11-05T15:51:22.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Hunter Schafer’s Upcycled Look Is the Antithesis of Fall Dressing Forget earthy autumnal hues—the star is all-in on neon brights."
+    },
+    {
+      "id": "b8b893ab0beb5dd5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Exclusive: The Making of the Costumes of ‘Dune: Part Three’",
+      "url": "https://www.vogue.com/article/dune-part-three-costumes-jacqueline-west-interview",
+      "publishedAt": "2026-11-05T15:30:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Exclusive: The Making of the Costumes of ‘Dune: Part Three’ In an exclusive first look, costume designer Jacqueline West reveals how she drew on everything from medieval religious dress and Howard Hughes to Cristóbal Balenciaga for the desert epic."
+    },
+    {
+      "id": "6da490d0400d83d1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ralph Lauren Revenues Climb 10% in Q2, Beating Expectations",
+      "url": "https://www.vogue.com/article/ralph-lauren-revenues-climb-10-in-q2-beating-expectations",
+      "publishedAt": "2026-11-05T15:13:48.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Ralph Lauren Revenues Climb 10% in Q2, Beating Expectations Asia and the US drove growth for the quarter."
+    },
+    {
+      "id": "e720aa84d2d51b19",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Tapestry Revenues Hit 12% Growth Despite Kate Spade Dip",
+      "url": "https://www.vogue.com/article/tapestry-revenues-climb-12-despite-kate-spade-dip",
+      "publishedAt": "2026-11-05T15:07:11.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Tapestry Revenues Hit 12% Growth Despite Kate Spade Dip Tapestry thrives on Coach’s ongoing Gen Z boom, while Kate Spade’s turnaround continues."
+    },
+    {
+      "id": "5e2cccb41f054edc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Everything to Know About the 2027 Met Gala: Theme, Hosts and More",
+      "url": "https://www.vogue.com/article/everything-to-know-met-gala",
+      "publishedAt": "2026-11-05T14:30:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Everything to Know About the 2027 Met Gala: Theme, Hosts and More Following the Met Gala on May 3, “extraORDINARY: fashion and the poetics of the everyday” will be on view at The Metropolitan Museum of Art from May 9, 2027 through January 9, 2028."
+    },
+    {
+      "id": "1d878efb8e0e1b12",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Can You Manifest a Husband?",
+      "url": "https://www.vogue.com/article/can-you-manifest-a-husband",
+      "publishedAt": "2026-11-05T14:00:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Can You Manifest a Husband? Here’s what actually happens when you ask the cosmos for a plus-one."
+    },
+    {
+      "id": "ae25f77cb920edfb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Met Gala 2027 Theme “extraORDINARY,” Explained",
+      "url": "https://www.vogue.com/article/the-met-gala-2027-theme-is-extraordinary-fashion-and-the-poetics-of-the-everyday",
+      "publishedAt": "2026-11-05T13:57:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "The Met Gala 2027 Theme “extraORDINARY,” Explained The Costume Institute exhibit and Met Gala will be devoted to the everyday—denim, t-shirts, and humble materials like paper, plastic, and aluminum, as transformed by fashion."
+    },
+    {
+      "id": "03e4a948f9e259a1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Coty Sales Decline 2% as Transition Kicks In",
+      "url": "https://www.vogue.com/article/coty-sales-tumble-2-as-transition-kicks-in",
+      "publishedAt": "2026-11-05T13:34:17.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Coty Sales Decline 2% as Transition Kicks In The French beauty group beat expectations, but remains cautious on its full-year outlook."
+    },
+    {
+      "id": "00eb4d9cb5466b4d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Korean Exfoliator to Get (and Maintain) Glass Skin",
+      "url": "https://www.vogue.com/article/korean-exfoliants",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "The Best Korean Exfoliator to Get (and Maintain) Glass Skin The best Korean exfoliators deliver gentle, daily smoothing and brightening without irritation or sensitivity. Shop editor- and dermatologist-approved picks now."
+    },
+    {
+      "id": "c24ffe6c83c44169",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "In Brooklyn, an Intimate Diwali Dinner Party Bridging Two Easts",
+      "url": "https://www.vogue.com/article/rachel-gurjar-diwali-dinner-party-brooklyn",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "In Brooklyn, an Intimate Diwali Dinner Party Bridging Two Easts To celebrate her debut cookbook, ‘East to East,’ Rachel Gurjar gathered a dozen artists and creatives around her dinner table for spicy pani puri mezcalitas and paanch phoran duck ahead of this year’s Diwali celebrations."
+    },
+    {
+      "id": "6581af6118b2244e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kylie Jenner and Timothée Chalamet Swap Courtside Maximalism for Sushi Casual",
+      "url": "https://www.vogue.com/article/kylie-jenner-and-timothee-chalamet-date-night-casual",
+      "publishedAt": "2026-11-05T12:18:45.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Kylie Jenner and Timothée Chalamet Swap Courtside Maximalism for Sushi Casual Spotted on a rare date night that isn’t spent cheering on the Knicks, Kylie Jenner and Timothée Chalamet kept their fits low-key."
+    },
+    {
+      "id": "599dbc9d5b2f5b58",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "24 Black Wedding Dresses for the Non-Traditional Bride",
+      "url": "https://www.vogue.com/article/black-wedding-dresses",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "24 Black Wedding Dresses for the Non-Traditional Bride Does your bridal style lean non-traditional? Choose a black wedding dress for your big day; here, great designs from the likes of Vivienne Westwood, Tory Burch, and more."
+    },
+    {
+      "id": "c8220466713558c4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "In Your 20s and Feeling Lost? Leo Reich’s New Sitcom May Be for You",
+      "url": "https://www.vogue.com/article/leo-reich-it-gets-worst-preview",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "In Your 20s and Feeling Lost? Leo Reich’s New Sitcom May Be for You Roommates, bad sex, and self-obsession: with “It Gets Worse,” sitcom star Leo Reich sends up Generation Z."
+    },
+    {
+      "id": "92a2949503376b14",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Hotels in New York City, From Five-Star to Boutique",
+      "url": "https://www.vogue.com/article/the-best-hotels-in-new-york-city-from-five-star-to-boutique",
+      "publishedAt": "2026-11-05T10:58:15.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "The Best Hotels in New York City, From Five-Star to Boutique Searching for the best hotels in New York City? Here are Vogue's favorite recommendations, from the Upper East Side to Brooklyn."
+    },
+    {
+      "id": "864ea38fa98ceb88",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Creative Director Luca Marchetto on Redesign Atelier Menabóh: “It’s Like Therapy”",
+      "url": "https://www.vogue.com/article/its-like-therapy-jordanlucas-luca-marchetti-joins-redesign-atelier-menaboh",
+      "publishedAt": "2026-11-05T10:30:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Creative Director Luca Marchetto on Redesign Atelier Menabóh: “It’s Like Therapy” The redesign atelier soft-launched in Tuscany last week, under the creative direction of Jordanluca co-founder Luca Marchetto. Vogue Business got an exclusive first look."
+    },
+    {
+      "id": "2c8e2c6d85c3a596",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside The Or Foundation’s Plans to Overhaul Kantamanto Market",
+      "url": "https://www.vogue.com/article/inside-the-or-foundations-plans-to-overhaul-kantamanto-market",
+      "publishedAt": "2026-11-05T10:30:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Inside The Or Foundation’s Plans to Overhaul Kantamanto Market Ghana’s Kantamanto Market is one of the world’s largest circular fashion ecosystems, but poor sanitation, fire risks and flooding are a constant threat to its survival. Could a new design help it last?"
+    },
+    {
+      "id": "9ba43c1911549232",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kim Kardashian and Jennifer Lawrence Get Their Slumber Party Dressing On",
+      "url": "https://www.vogue.com/article/kim-kardashian-and-jennifer-lawrence-get-their-slumber-party-dressing-on",
+      "publishedAt": "2026-11-05T10:23:29.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Kim Kardashian and Jennifer Lawrence Get Their Slumber Party Dressing On From archival Hermès to matching reindeer pajamas, longtime friends Kim Kardashian and Jennifer Lawrence took girls’ night dressing to its coziest conclusion."
+    },
+    {
+      "id": "95ccff47f8d53faf",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Margot Robbie Just Debuted Her Sharpest, Iciest Bob Yet",
+      "url": "https://www.vogue.com/article/margot-robbie-just-debuted-her-sharpest-iciest-bob-yet",
+      "publishedAt": "2026-11-05T10:10:15.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "Margot Robbie Just Debuted Her Sharpest, Iciest Bob Yet With a jaw-grazing cut and near-platinum color, Margot Robbie is taking her blonde bob to new extremes."
+    },
+    {
+      "id": "73e5a1a5a190af90",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What Does the Blue Tsunami Mean for Fashion?",
+      "url": "https://www.vogue.com/article/what-does-the-blue-tsunami-mean-for-fashion",
+      "publishedAt": "2026-11-05T05:30:00.000Z",
+      "collectedAt": "2026-11-05T19:44:31.219Z",
+      "text": "What Does the Blue Tsunami Mean for Fashion? Following the Democratic party’s win in the midterm elections, fashion and luxury insiders are hoping for change. CFDA interim CEO Hildy Kuryk shares her prediction for the future of shopping despite record lows for consumer sentiment."
+    },
+    {
+      "id": "6bab9c907625b467",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Anna Kalinskaya Is Learning to Stop Taking Tennis So Seriously",
+      "url": "https://www.highsnobiety.com/p/anna-kalinskaya-tennis-paris-masters-interview/",
+      "publishedAt": "2026-11-05T18:45:28.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "Anna Kalinskaya Is Learning to Stop Taking Tennis So Seriously After a Paris vacation with friends, Kalinskaya reached the quarter-finals at the Paris Masters for the first time in her career."
+    },
+    {
+      "id": "a68692a0a2d5469c",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Painters Need Tough Ass Trail Shoes, Too",
+      "url": "https://www.highsnobiety.com/p/phileo-keen-artist-matt-dillon-fw26-new/",
+      "publishedAt": "2026-11-05T17:48:04.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "Painters Need Tough Ass Trail Shoes, Too Hiking shoes for painters, please! Who knew art could be so rough and tumble? Phileo and KEEN, apparently."
+    },
+    {
+      "id": "730f15d826b99718",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Is the Met Gala’s \"Ordinary\" Theme a Recession Indicator?",
+      "url": "https://www.highsnobiety.com/p/met-gala-ordinary-theme/",
+      "publishedAt": "2026-11-05T17:29:11.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "Is the Met Gala’s \"Ordinary\" Theme a Recession Indicator? After the implosion of he Met's Costume Institute's John Galliano theme, it went bland and boring with \"extraOrdinary: Fashion and the Poetics of the Everyday.\""
+    },
+    {
+      "id": "75fd6c3985e0d9a5",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Functional Gear Isn't a Category. It's a Dressing System",
+      "url": "https://www.highsnobiety.com/p/winter-is-the-perfect-time-to-invest-in-your-activewear/",
+      "publishedAt": "2026-11-05T16:19:19.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "Functional Gear Isn't a Category. It's a Dressing System This is an edit of November 4's newsletter, in which Shopping Editor Max Migowski decides that functional is the new casual."
+    },
+    {
+      "id": "d47521cc2bc26f62",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Flau’jae Johnson Has Always Had Motion",
+      "url": "https://www.highsnobiety.com/p/flaujae-johnson-wnba-musician-interview/",
+      "publishedAt": "2026-11-05T15:05:47.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "Flau’jae Johnson Has Always Had Motion The WNBA star is part of a new generation of college-turned-pro talent showing there’s room to pursue more than one dream."
+    },
+    {
+      "id": "3ae72ce0ca599e6a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Is, In Form and Function, The Marni-est Hoka",
+      "url": "https://www.highsnobiety.com/p/marni-hoka-exclusive-new/",
+      "publishedAt": "2026-11-05T14:37:13.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "This Is, In Form and Function, The Marni-est Hoka Are your shoes Marni-thicc or HOKA-thicc? Now, they can be both."
+    },
+    {
+      "id": "70701b2f2e06eb6d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Salomon and BEAMS' New Hiking Shoe Is Built Like a Tank",
+      "url": "https://www.highsnobiety.com/p/salomon-xt-quest-gtx-beams/",
+      "publishedAt": "2026-11-05T11:03:00.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "Salomon and BEAMS' New Hiking Shoe Is Built Like a Tank The Salomon XT-Quest GTX BEAMS hiking shoe brings a battle-ready look to winter footwear, with bold buckle details and GORE-TEX protection."
+    },
+    {
+      "id": "e980eb6e18f355be",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Two-in-One Shoe Was Made For Professional Arc'teryxmaxxers",
+      "url": "https://www.highsnobiety.com/p/arcteryx-postour-boot/",
+      "publishedAt": "2026-11-05T09:20:10.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "This Two-in-One Shoe Was Made For Professional Arc'teryxmaxxers The outerwear brand's two-in-one Postour is made for professional Arc'teryxmaxxers, combining a UGG-like boot with a fully removable slipper."
+    },
+    {
+      "id": "abaac1ef0405db5f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Abdul El-Sayed's Watch Collection Is Proof He Knows Ball",
+      "url": "https://www.highsnobiety.com/p/abdul-el-sayed-watch-collection/",
+      "publishedAt": "2026-11-05T16:54:32.000Z",
+      "collectedAt": "2026-11-05T19:44:32.779Z",
+      "text": "Abdul El-Sayed's Watch Collection Is Proof He Knows Ball Abdul El-Sayed's watch collection is proof that Michigan's senator-elect knows ball, because turns out: the former epidemiologist rocks some slick timepieces."
+    },
+    {
+      "id": "03e9644595e42d1b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Japanese Tradition Meets Contemporary Style in the Seiko Presage Classic Series",
+      "url": "https://hypebeast.com/2026/11/japanese-tradition-meets-contemporary-style-in-the-seiko-presage-classic-series",
+      "publishedAt": "2026-11-05T19:00:35.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Japanese Tradition Meets Contemporary Style in the Seiko Presage Classic Series When streetwear enthusiasts and horology geeks talk about the modern wrist check, the conversation often leans toward high-octane sports chronographs or titanium divers. But there’s a quiet shift happening across both subcultures, where subtle texture, design heritage, and understated versatility are taking center stage.Enter the Seiko Presage Classic Series, a collection that brings traditional Japanese aesthetics into step with today’s lifestyle landscape.At the heart of the Presage lineup is a commitment to expressing traditional Japanese beauty through mechanical watchmaking. Rather than relying on overt branding, Seiko lets the details do the talking. The collection features gracefully curved cases, vintage-inspired multi-link bracelets, and intricate dials that mirror traditional textile weaving and dyeing techniques—from embossed dial patterns inspired by the flowing drape of silk fabric to soft hues like shironeri (refined silk white), wakatake-iro (bamboo green), and sakura-iro (cherry blossom pink).For watch collectors, the appeal of Presage lies in its mechanical integrity and attention to detail. Powered by reliable in-house movements like the 6R51—offering a robust 72-hour power reserve—the series satisfies the technical expectations of enthusiast culture. Features like dual-curved sapphire crystals, and well-balanced proportions (including versatile 36mm, 38mm, and 40.2mm case sizes) make these timepieces a masterclass in horology.Meanwhile, in contemporary fashion circles, Presage hits the sweet spot of the \"quiet luxury\" and \"craft-core\" movements. As streetwear evolves past loud logos toward textured layers, muted palettes, and tailored silhouettes, a watch with a subtle, light-catching dial acts as the ultimate understated flex. Whether styled alongside heavy-weight fleece, vintage denim, or a sharply draped coat, these timepieces slide effortlessly into fluid, gender-inclusive wardrobes.To showcase this crossover, platforms like The Presage Museum connect the ideas behind the watches with modern art, ikebana, and traditional calligraphy. By framing traditional Japanese aesthetics through a contemporary cultural lens, Seiko proves that true style is about wearing craftsmanship that stands the test of time.Explore the Seiko Presage Classic Series on the official website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "69fa3887ac9d5ea4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "From Couture to Blue Jeans: The Met Pivots to the Everyday for Spring 2027",
+      "url": "https://hypebeast.com/2026/11/the-met-gala-2027-pivots-theme-exhibition-extraordinary-fashion-and-the-poetics-of-the-everyday",
+      "publishedAt": "2026-11-05T17:50:28.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "From Couture to Blue Jeans: The Met Pivots to the Everyday for Spring 2027 Summary The Metropolitan Museum of Art has announced its spring 2027 Costume Institute exhibition extraOrdinary Fashion and the Poetics of the EverydayCurated by Andrew Bolton the showcase explores how designers elevate everyday staples from denim to bubble wrapThe exhibition will open to the public on May 9 2027 following the annual Met Gala the Monday before The Metropolitan Museum of Art has officially revealed its Spring 2027 Costume Institute exhibition, \"extraOrdinary: Fashion and the Poetics of the Everyday\", establishing the theme for the upcoming Met Gala. The presentation pivots toward quotidian wardrobe staples and utilitarian resourcefulness following the cancellation of the museum's planned John Galliano retrospective.Curated by Andrew Bolton, the exhibition will display between 200 and 230 pieces that investigate how high fashion reinterprets mundane items, spanning blue jeans, plain white T-shirts, and puffer coats to unconventional materials like paper, plastic, and bubble wrap. Archival selections include Charles James’s 1930s couture puffer, Brooke Shields’s Calvin Klein denim, Marc Jacobs’s 1990s Perry Ellis grunge designs, Junya Watanabe’s leather biker silhouettes, and Matthieu Blazy’s trompe l'oeil leather denim for Bottega Veneta.“I wanted an exhibition that I felt had something new to say, and that I felt was relevant to different conversations,” Bolton shared, highlighting how the curation questions notions of value, consumption, and care. Backed by Instagram, Moncler, and Condé Nast, the show engages the tension between necessity and high-end luxury appropriation.The \"extraOrdinary: Fashion and the Poetics of the Everyday\" exhibition is set to open at The Met on May 9, 2027, preceded by the Met Gala the Monday before. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5cab0f68bdbc5cc1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Pierpaolo Piccioli Steps Down as Creative Director of Balenciaga",
+      "url": "https://hypebeast.com/2026/11/kering-pierpaolo-piccioli-steps-down-as-creative-director-balenciaga-announcement",
+      "publishedAt": "2026-11-05T17:33:30.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Pierpaolo Piccioli Steps Down as Creative Director of Balenciaga Summary Pierpaolo Piccioli will step down as creative director of Balenciaga after serving less than two years in the roleKering chief executive Luca de Meo announced the departure as part of an ongoing restructuring across the luxury group's portfolioLondon-based designer Martine Rose has reportedly been tapped to take over the helm at the Parisian fashion house French luxury conglomerate Kering has announced that Pierpaolo Piccioli will step down as creative director of Balenciaga after less than two years in the role. The departure comes amid an extensive creative restructuring spearheaded by Kering chief executive Luca de Meo across the group's flagship houses.Piccioli took over the Parisian brand following Demna’s transition to Gucci in March 2025, attempting to reconcile couture craftsmanship with Balenciaga’s streetwear credibility. However, reconciling the Roman couturier’s romantic aesthetic with the house's subversive codes proved challenging amidst fluctuating sales. Addressing the transition, Kering noted that \"Balenciaga faced a more challenging quarter as the House continued to work through its creative transition and to restore balance across its business.\"\"Pierpaolo is an exceptional couturier and creative talent for whom we have the greatest respect,\" De Meo said in a statement. \"Our ambition is to build on Balenciaga’s avant garde spirit, honour its remarkable heritage and continue to push creative boundaries, further establishing the house as a powerful and relevant voice.\" The departure follows recent high-profile exits across Kering, including Anthony Vaccarello at Saint Laurent and Sean McGirr at McQueen, with rumors that Martine Rose has been tapped to succeed Piccioli. Kering nor Balenciaga has confirmed Piccioli's successor. View this post on InstagramA post shared by Pierpaolo Piccioli (@pppiccioli) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fdac03bd483b63c1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
+      "url": "https://hypebeast.com/2026/11/hoka-x-marni-reunite-to-rework-the-clifton-11-in-three-bold-colorways",
+      "publishedAt": "2026-11-05T13:00:07.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways Name: Marni x HOKA Clifton 11MSRP: $275 USDRelease Date: November 12Where to Buy: HOKAHOKA and Marni have reunited for a second collaboration, this time reworking the Clifton 11, HOKA’s everyday trainer, as the Clifton Marni. The Clifton’s running credentials stay intact: an engineered mesh upper sits on a compression-molded EVA foam midsole, with HOKA’s Smooth MetaRocker geometry for rolling transitions and a rearfoot-focused Active Foot Frame that supports the heel.MARNI’s influence shows in how those functional parts are treated. Raised 3D silicone lines sweep in waves from the midfoot toward the heel, and the plush collar is lined with a textured knit that contrasts with the smooth mesh.Each of the three colorways takes a different approach to contrast. The Black version is almost completely tonal, from the mesh down to the midsole, with a cream collar lining and red lace loops adding warmth. The Orange pair is the loudest of the three: a vivid orange upper sits on a white midsole wrapped in a metallic silver band, with a black rubber outsole under the forefoot. The White colorway is soft and clean, with a sparkling silver trim along the heel collar.Branding is split across the heel on all three, with a red HOKA logo on the lateral side and Marni’s widely spaced red wordmark on the medial side. Metal lace dubraes add a hardware accent near the toe, and a custom plaid sockliner is tucked inside. MARNI’s eye for pattern carries over to the laces, which come in speckled, striped two-tone designs: black and white on the Orange pair, red and grey on the Black, and pink and grey on the White. Each pair comes with two extra sets of laces for personalizing the look.The Clifton MARNI is set to launch on November 12, 2026, through MARNI's channels, with a wider release following at HOKA and select global retailers on November 13.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "739c548900693229",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "SOREL Hides Maharishi’s Bonsai Tigerstripe Camo Inside the Daystorm Horizon ZIP GTX Boot",
+      "url": "https://hypebeast.com/2026/11/sorel-maharishi-daystorm-horizon-zip-gtx-boot-collaboration-release-info",
+      "publishedAt": "2026-11-05T11:00:16.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "SOREL Hides Maharishi’s Bonsai Tigerstripe Camo Inside the Daystorm Horizon ZIP GTX Boot Name: SOREL x Maharishi Daystorm Horizon ZIP GTX® BootColorway: TBCSKU: TBCMSRP: $350 USDRelease Date: November 5Where to Buy: SORELSOREL and Maharishi have joined forces on the Daystorm Horizon ZIP GTX, adding Maharishi’s camouflage-focused outlook to SOREL’s all-weather boot.The base keeps the technical backbone that defines the model: a GORE-TEX waterproof build, durable canvas and SOREL’s sculpted rubber toe cap, which has five debossed finger-like ridges across the front. On top of that, Maharishi applies its Pacifist Military Design approach, drawing on three decades of studying camouflage, army gear and utilitarian clothing.The upper pairs olive green canvas with a black, duck boot-style rubber lower, set on a lugged Vibram outsole for grip on wet and uneven ground. A central zip makes the boot easy to get on and off. Over it sits a removable olive leather shroud, framed by military-style lacing that uses thick, coiled olive cord threaded through metal eyelets.Maharishi’s DPM: Bonsai Tigerstripe, an update of the classic Vietnam-era Tigerstripe pattern appears in tan, brown and black on the tongue and inner collar. It stays hidden under the olive canvas until the zip is open. The branding is understated and mostly debossed. A tombstone-shaped olive leather patch on the heel carries the Maharishi emblem and wordmark. A slim “MAHARISHI” tab runs along the zip shroud, and SOREL’s name is pressed into the black rubber heel counter next to a small GORE-TEX tag. The only real color comes from Vibram’s yellow logos on the sidewall and outsole, a small break from the green and black palette.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8bb984e9ef963af7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple Is Reportedly Working on a Robotic Arm Smart Display for 2028",
+      "url": "https://hypebeast.com/2026/11/apple-prepares-1000-homeview-ultra-robotic-smart-display",
+      "publishedAt": "2026-11-05T09:43:15.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Apple Is Reportedly Working on a Robotic Arm Smart Display for 2028 Summary Apple is actively developing a $1,000 robotic smart display internally codenamed J595The hardware boasts a 9-inch screen on an articulated arm capable of 360-degree rotationSoftware teams are holding the launch for a projected 2028 release to perfect AI integration Apple is currently developing a high-end expansion to its smart home display lineup, with a report from The Information shedding light on an unreleased product featuring a moving robotic arm. Former Apple employees state that the company could ultimately brand this higher-end model as the Apple HomeView Ultra. Internally carrying the codename J595, the robotic display product carries an estimated price tag of around $1,000 USD. Arriving at a $700 USD premium over the $299 USD standard Apple HomeView announced last month, this device expands Apple's connected smart home ecosystem into the high-end market.The defining design element of the upcoming HomeView Ultra is its physical footprint, featuring a 9-inch display that swivels around a robotic arm. This hardware closely resembles a classic articulated desk lamp, bearing a direct similarity to the fixture featured in Pixar's logo. A separate report from MacRumors notes that the 9-inch screen features full 360-degree capabilities. Rather than remaining static on a counter, the robotic display device uses built-in sensors to follow users as they move around a space during FaceTime calls.Despite the futuristic design, physical engineering is complete, as hardware for the HomeView Ultra has been ready for two years. Apple's software team is currently delaying the launch to fine-tune integrated AI and home automation features. Holding the release allows developers to refine complex automated responses before delivering robotic hardware to consumers. One planned automation feature involves the display automatically switching on a light when someone enters the room.Because of this intentional software delay, early adopters must wait several years to purchase the technology. The Information states that Apple could formally announce the device in 2027 and begin shipping to buyers in 2028. This launch timeline aligns with Bloomberg reporting from last month regarding a projected 2027 or 2028 release window. When it ultimately arrives, the $1,000 USD HomeView Ultra will represent a major functional shift for Apple's home automation platform. Click here to view full gallery at Hypebe"
+    },
+    {
+      "id": "629aea8b9b8d2ae9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Maya Hawke Draws the Lead Role in Live-Action ‘Magic: The Gathering’ Movie",
+      "url": "https://hypebeast.com/2026/11/maya-hawke-draws-the-lead-role-in-live-action-magic-the-gathering-movie",
+      "publishedAt": "2026-11-05T09:41:23.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Maya Hawke Draws the Lead Role in Live-Action ‘Magic: The Gathering’ Movie Summary Maya Hawke has been cast in 'Magic: The Gathering,' a live-action film adaptation of the trading card gameHer role and the plot remain undisclosed, though Hawke is expected to lead an ensemble cast that has yet to be announcedDirector Matt Johnson, a longtime 'Magic' fan, is writing the script with Noah Gardner and Aidan Fitzgerald Maya Hawke is set to star in Magic: The Gathering, Legendary Entertainment and Hasbro Entertainment’s live-action take on the long-running trading card game. Deadline first reported the casting, which puts the Stranger Things actor at the center of one of Hasbro’s biggest properties as it moves to the big screen.Details beyond Hawke’s casting are still limited. Her character has not been revealed, and neither has the storyline, though Deadline reports she is expected to anchor an ensemble that has not yet been cast. That leaves the game’s own lore as the clearest guide to what the film might look like.That lore gives the production a lot to work with. Magic: The Gathering takes place across a multiverse of fantasy worlds, with players battling one another as powerful wizards known as Planeswalkers. Translating that into live action means building several distinct settings instead of a single fantasy realm, which may explain why the cast is being built around a lead before the rest of the ensemble.The team behind the camera brings indie credentials to the franchise. Matt Johnson, the director of Blackberry and creator of Nirvanna the Band the Show, is directing and co-writing the screenplay with Noah Gardner of Super 8 and Aidan Fitzgerald of Calls. Legendary and Hasbro are producing the film together.Johnson’s connection to the game goes well beyond the job. He recalled sitting near the top of the standings going into day two of a Magic Grand Prix in Detroit and seriously considering leaving film school to play professionally, only to lose his composure, make a costly misplay and drive home to Toronto convinced his competitive career was over. “To all the dreamers reading this: in every pool, there is a day 2 deck,” Johnson said.Hawke arrives with a broad résumé across genres. Best known for Netflix’s Stranger Things, she has also appeared in Quentin Tarantino’s Once Upon a Time in Hollywood, Wes Anderson’s Asteroid City, Jennifer Kaytin Robinson’s Do Revenge and Bradley Cooper’s Maestro, and she voiced Anxiety in Pixar’s Inside Out 2. Her next pr"
+    },
+    {
+      "id": "6441c2731a5a1e51",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Santa Monica Studio Delays 'God of War Laufey' to May 2027",
+      "url": "https://hypebeast.com/2026/11/god-of-war-laufey-delayed-to-may-2027-launch",
+      "publishedAt": "2026-11-05T09:40:12.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Santa Monica Studio Delays 'God of War Laufey' to May 2027 Summary Santa Monica Studio has pushed the release of God of War Laufey to May 20, 2027The PlayStation 5 exclusive shifts away from its original February 16 launch dateFaye's afterlife narrative will run parallel to the events of the previous two franchise installments PlayStation fans will have to wait just a little longer to dive back into the mythological realms, as Santa Monica Studio has officially delayed the release of God of War Laufey. Originally locked in for a February 16, 2027 launch, the highly anticipated PlayStation 5 exclusive has been pushed back by three months and will now officially hit consoles on May 20, 2027. The development team formally announced the schedule change via a social media post, resetting the countdown for a project that was officially revealed this past June.Addressing the shifting timeline, Santa Monica Studio stated that the team is utilizing the extra runway to add essential finishing touches and push the game to its absolute fullest potential. The developer explicitly noted that it does not take fan trust for granted. Moving away from a crowded early 2027 release window provides God of War Laufey with vital breathing room while ensuring Sony secures a major first-party title to anchor its spring quarter.When the game finally drops in May, it promises to flip the established franchise perspective by putting players in control of a brand-new playable protagonist: Faye. Her death in the game's timeline occurs just before the beginning of the 2018 God of War story, serving as the underlying catalyst for the modern saga. Now, players will experience her isolated aftermath. Faye’s story unfolds entirely within the afterlife, focusing heavily on her journey through a mysterious area known as the Everywhen.Because the narrative places her afterlife traversal in this specific setting, God of War Laufey runs completely parallel to the events of both God of War (2018) and God of War Ragnarök. While the fanbase knows the profound impact her passing had on the overarching universe, this upcoming release finally sheds light on her own unseen battles. Alongside the heavy mythological storytelling the studio is known for, the title will also feature some unexpectedly bizarre additions to the lore, including a character described as a talking jelly cube. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f55ceac401f48ff1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Liverpool Owner Fenway Sports Group Is Reportedly in Talks to Buy a Majority Stake in the Cadillac F1 Team",
+      "url": "https://hypebeast.com/2026/11/fsg-reportedly-in-talks-to-acquire-cadillac-f1-team",
+      "publishedAt": "2026-11-05T09:39:40.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Liverpool Owner Fenway Sports Group Is Reportedly in Talks to Buy a Majority Stake in the Cadillac F1 Team Summary Fenway Sports Group is negotiating a potential £2bn-plus takeover of the Cadillac Formula One teamThe move follows FSG's partial sale of Liverpool to a consortium including Jeff BezosCadillac co-owner Mark Walter is currently offloading sporting assets amid US federal investigations Fenway Sports Group (FSG) is reportedly in talks to acquire a majority stake in the Cadillac Formula One team, a blockbuster move that would command a price tag of more than £2bn. The high-stakes acquisition targets a franchise that only entered the grid this year as a joint venture between General Motors and Mark Walter’s TWG Global. While TWG has firmly denied that any sale of the racing outfit is imminent, FSG stands as just one of several heavy-hitting interested parties currently holding discussions about taking over the team. Representatives for FSG have declined to comment on their investment plans. The potential acquisition signals a massive shift in global sports equity, driven by F1’s remarkable commercial growth across the United States over the last decade. Since the racing series was bought by Liberty Media in 2017, the sport's annual revenue has more than doubled to $4 billion USD.The framework for this multi-billion-pound transaction stems directly from a broader liquidation of assets by Mark Walter. Walter is actively shedding major sports properties amid allegations of insurance fraud, and is currently under investigation by the US Department of Justice and the Securities and Exchange Commission over alleged fraud involving the management of funds at Delaware Life, Clear Spring and EquiTrust. TWG has stated unequivocally that there has been no fraud, yet the firm continues to rapidly reshape its portfolio. The conglomerate already sold off its controlling interest in the Los Angeles Lakers and a 13% stake in Chelsea this past summer, and is currently looking to sell the WNBA’s Los Angeles Sparks. Walter, who remains the controlling owner of the Los Angeles Dodgers, insists that the MLB franchise will not be sold. Sportico previously reported that Walter values his specific shareholding in the Cadillac team at approximately £2.24 billion GBP, though the exact sizes of TWG’s and General Motors' respective stakes have never been made public.Financing a £2 billion GBP F1 entry leverages strategic liquidity generated from FSG's other heavyweight propert"
+    },
+    {
+      "id": "f334c73cb39b8f49",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Sit on It or Stack It: Carpet Company’s S-Tool Can Do Both",
+      "url": "https://hypebeast.com/2026/11/carpet-company-s-tool-release-info",
+      "publishedAt": "2026-11-05T09:37:41.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Sit on It or Stack It: Carpet Company’s S-Tool Can Do Both Summary Carpet Company’s S-Tool reimagines the humble screw as a stackable fiberglass stool designed in Baltimore.Each 12-inch piece weighs nearly 20 pounds and carries its own individually numbered plaque.Batch 2 introduces Navy, Clementine, Rose, Slime and Jet Black colorways. Baltimore's Carpet Company is carrying its design language past skateboarding and apparel with the S-Tool, a fiberglass stool built from scratch that blurs the line between furniture and sculpture. The concept takes its cue from humble hardware: each of its four chunky legs tapers into the fluted point of a screw, while the seat's surface is stamped with four Phillips-head recesses, turning an everyday fastener into a playful, oversized object.Carpet Company leans fully into that irreverence, pitching the piece with the tagline \"Sit on it. Stand on it. Spit on it.\" and suggesting it can serve as anything from a chair, ottoman or footrest to a paperweight, chew toy or even trash, depending on how its owner chooses to use it.Despite measuring just 12 inches tall, the S-Tool carries real heft at close to 20 pounds, giving its compact frame a grounded, substantial presence. Its high-gloss finish amplifies the toy-like silhouette, and the design does more than look good: the screw-tip legs nest into the recesses of the stool below, allowing multiple units to stack into a seamless, totem-like column.Flip one over and a metal plaque on the underside lists its colorway and individual number, with the Batch 2 plaques shown in the imagery reading \"of 7.\" The presentation extends to the packaging, a white cube printed with rows of multicolored screws, the brand's tongue-in-cheek usage notes and a grinning blue hippo graphic on a red panel, along with a leather-bound book that showcases each shade as an illustrated screw.The S-Tool's first run arrived in Red, Yellow, Kelly, Blue and Chocolate and sold out almost immediately. For Batch 2, Carpet Company introduced five new colorways: Navy, Clementine, Rose, Slime and Jet Black. Like the debut collection, quantities are extremely limited, reinforcing the S-Tool's status as both a usable piece of furniture and a collectible design object. For more information, head over to the brand's website. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "39a40273d74d636a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘GTA VI’ Has Reportedly Pulled In $751 Million USD From Pre-Orders Alone",
+      "url": "https://hypebeast.com/2026/11/rockstar-games-grand-theft-auto-gta-vi-750-million-usd-in-pre-orders-so-far-reports",
+      "publishedAt": "2026-11-05T09:19:54.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "‘GTA VI’ Has Reportedly Pulled In $751 Million USD From Pre-Orders Alone Summary Rockstar’s 'GTA VI' has reportedly generated more than $750 million USD in digital pre-orders weeks before launchAnalytics firm Sensor Tower estimates PS5 players account for 74% of pre-orders, far ahead of Xbox Series X|SThe estimate is already closing in on GTA V’s record first-day sales, though the two figures aren’t a direct comparison Rockstar’s Grand Theft Auto VI is reportedly tracking toward one of the biggest launches in gaming history before a single copy has been unlocked. New estimates from analytics firm Sensor Tower suggest the sequel has already brought in roughly $751 million USD from digital pre-orders across PS5 and Xbox Series X|S, with launch still weeks away.Sensor Tower’s tracking puts the game at around 7.71 million digital pre-orders so far. Momentum appears to be building as release approaches, as the firm estimates that more than $100 million USD of that pre-order revenue came in during the past two weeks alone.The platform split heavily favors Sony. By Sensor Tower’s count, PlayStation accounts for 74% of pre-orders, or roughly 5.74 million copies worth an estimated $559 million USD. Xbox Series X|S makes up the remaining 26%, with about 1.97 million copies bringing in an estimated $192 million USD.The natural benchmark is GTA V, which set a record when it launched in September 2013. Take-Two Interactive’s official figures showed the game passing $800 million USD in worldwide sales within its first 24 hours and crossing $1 billion USD in three days. On paper, GTA VI’s pre-order haul is already approaching that first-day mark before launch day has even arrived.The comparison has limits, though, and the caveats matter. Sensor Tower’s numbers are third-party estimates, not sales data confirmed by Rockstar or Take-Two. They also count only digital pre-orders, so physical copies, often a large share of a blockbuster launch, aren’t included. GTA V’s record, by contrast, reflected actual sales after release, which makes the two figures different kinds of measurement.GTA VI launches November 19 on PS5 and Xbox Series X|S, with preloading set to open on November 10. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0217cfb3832847dc",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Columbia and BEAMS Flip the 1986 Bugaboo Jacket Inside Out",
+      "url": "https://hypebeast.com/2026/11/columbia-beams-bugaboo-jacket-release-info",
+      "publishedAt": "2026-11-05T09:12:44.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Columbia and BEAMS Flip the 1986 Bugaboo Jacket Inside Out Summary Columbia and BEAMS rework the 1986 Bugaboo Jacket, replacing its original layered system with a lighter reversible buildA Graphic Sweat Crew with period-style hunting artwork joins the jacket in two gray colorwaysFleece caps in camo and brown round out a compact three-piece capsule Columbia and BEAMS have reworked the Columbia Bugaboo Jacket for their latest collaboration, turning the 1986 outerwear staple into a reversible piece. The jacket leads a compact capsule that also includes a graphic crewneck and two fleece caps, all styled around the look of the era while being built for everyday wear today.The original Bugaboo became one of the Portland, Oregon outdoor brand’s defining pieces because of its interchange system, which paired a separate inner layer with an outer shell that could be worn together or apart. The collaboration keeps the thinking behind that design but drops the two-piece setup for a reversible construction. As a result, the jacket gives the wearer two looks in a single garment, and BEAMS says the new version is lighter and easier to throw on than the multi-layer original.The jacket comes in brown in sizes S through XL, keeping the palette in the earthy register of classic outdoor gear. The reversible build keeps its versatility while removing the bulk of a zip-in liner, making it better suited to city days than backcountry trips.The Graphic Sweat Crew carries a hunting-themed graphic designed to evoke the period when the Bugaboo first appeared. It comes in gray heather and gray in sizes XS through XL, giving the capsule a lighter layering piece to wear under the jacket.The Fleece Cap finishes the lineup in two one-size colorways. The camo version adds a field-ready pattern, while the brown version matches the jacket and pulls the set together as a coordinated look.Pre-orders for the Columbia x BEAMS collection are open now, ahead of a November 21 release at BEAMS and BEAMS BOY stores (some locations excluded) and the BEAMS online shop. The size S Bugaboo Jacket, the size XS Graphic Sweat Crew and the brown Fleece Cap are available only at BEAMS BOY stores. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "8e90d90b267994b0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Moomins Have Moved Into Bottega Veneta’s Intrecciato",
+      "url": "https://hypebeast.com/2026/11/the-moomins-have-moved-into-bottega-venetas-intrecciato",
+      "publishedAt": "2026-11-05T08:42:24.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "The Moomins Have Moved Into Bottega Veneta’s Intrecciato Summary Bottega Veneta teams up with Moomin on a collection of bags, wallets, charms and home objects based on Tove Jansson’s characters and storiesKey pieces turn story details into leather, from Moominmamma’s striped apron to the walls and roof of MoominhouseThree-dimensional character charms and a hand-crocheted Snufkin figurine extend the house’s leatherwork beyond bags Bottega Veneta has partnered with Moomin on a collection that turns Tove Jansson’s characters, color palettes and storybook scenes into handbags, small leather goods and objects for the home. Rather than putting characters on the surface, the collection builds the references into weaves, hardware and hand-shaped leather, so many of the nods only show up up close.The clearest example is the Small Andiamo, whose design starts from Moominmamma’s striped apron. Red and soft white leathers alternate through the house’s intrecciato weave, and a gold-tone knot detail serves as the hardware. Because the reference comes through in color, the bag works even for someone who has never read the books.Several other silhouettes hide their story references in less obvious places. The Large Pinacoteca tote carries comic strip panels, and select wallets use blue and red tones that echo the exterior walls and roof of Moominhouse. On the Small Cabat, the original cover art from Comet in Moominland is placed on the internal pouch, so the reference is only visible once the bag is open.The leather charms are where the craft becomes most sculptural. Artisans hand-weave the Moomintroll charm from tubular Nappa leather to recreate his round shape, while the Moominmamma charm adds her striped apron and a miniature intrecciato bag of her own. A Moominhouse charm and a pencil holder stocked with colored pencils carry the story’s architecture into everyday objects.The Snufkin figurine is the most labor-intensive piece in the collection. It is made from finely cut Nappa leather worked with a crochet technique that takes artisans several days to finish. The result has a tactile, three-dimensional texture that differs from the house’s usual woven bags, showing how far the collaboration stretches Bottega Veneta’s leather techniques.The Bottega Veneta x Moomin collection launches early in Japan at an Isetan Shinjuku pop-up on November 11. It then rolls out on November 18 to the Ginza and Omotesando flagships, the Hankyu Umeda leather goods store and Bottega Veneta’"
+    },
+    {
+      "id": "0de20ea431d4f2e7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "lululemon Launches Its First GORE-TEX Collection",
+      "url": "https://hypebeast.com/2026/11/lululemon-gore-tex-silent-type-beams-info",
+      "publishedAt": "2026-11-05T08:40:06.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "lululemon Launches Its First GORE-TEX Collection Vancouver-based performance apparel brand lululemon has unveiled \"Silent Type™️,\" a new outerwear collection in collaboration with GORE-TEX®. The line will be available exclusively at nine BEAMS stores in Japan, with pre-sales starting Friday, November 13, at three Tokyo locations, followed by a wider release at the remaining six stores on Thursday, December 3.The defining feature of this collection is its ability to deliver GORE-TEX® protection while reducing the stiffness and rustling noise typically associated with high-performance outerwear.It utilizes the latest ePE (expanded polyethylene) membrane, which offers waterproof, windproof, and breathable qualities. The outer fabric is a proprietary material designed to minimize friction noise, while the lining features brushed tricot. The result is a soft touch and a remarkably quiet wearing experience.The lineup includes three models: a rain jacket (¥68,800), a raincoat (¥92,800), and a waterproof down jacket (¥128,800). Available in both men's and women's styles, the collection offers six pieces in total. The rain jacket and raincoat feature a three-layer construction with waterproof, windproof, and breathable capabilities, fully sealed seams, and multiple pockets. Meanwhile, the waterproof down jacket combines a two-layer structure with 700-fill-power RDS-certified goose down, engineered to provide lightweight warmth even in temperatures as low as -20°C. All pieces share a minimalist design that seamlessly transitions into city life and a relaxed fit ideal for layering.\"Silent Type™️\" will pre-launch on Friday, November 13, at three locations: BEAMS MEN Shibuya, BEAMS WOMEN Harajuku, and BEAMS SPORTS. Following this, it will be available from Thursday, December 3, at six additional stores: BEAMS Shinjuku, BEAMS Futakotamagawa, BEAMS HOUSE Marunouchi, BEAMS HOUSE Umeda, BEAMS Nagoya, and BEAMS Toyosu.Additionally, with the purchase of one eligible item, customers will receive a limited-edition \"Back to Life Sports Bottle\" designed for the collection. This offer is limited to the first 30 customers at each store and is available while supplies last. Furthermore, a launch party will be held at BEAMS MEN Shibuya on Thursday, November 12, from 7:00 PM to 9:00 PM. The event is free and open to the public, featuring a DJ, food, and drinks. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "01c866a6acaf7d50",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Valve Is Tightening Steam’s Game Submission Rules After AI-Generated Games Flood the Review Queue",
+      "url": "https://hypebeast.com/2026/11/valve-updates-steam-rules-amid-ai-game-surge",
+      "publishedAt": "2026-11-05T08:35:39.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Valve Is Tightening Steam’s Game Submission Rules After AI-Generated Games Flood the Review Queue Summary Valve updated its Steam game release rules to clear an approval backlog heavily driven by a surge of AI-generated titlesCurrent review times have stretched to up to 12 business days, missing the platform's standard goal of three to five daysDevelopers must now complete mandatory functionality checks to prevent re-reviews and ease the strain on indie creators Valve updated its Steam game release rules in a targeted effort to unclog a backlog of title approvals. Review times for new games on the storefront now take up to 12 business days to complete. This turnaround contrasts with Valve's operational goal of reviewing new titles within three to five days. The company instituted new guidelines to eliminate constant re-reviews that contribute to longer wait times. Developer 2 Left Thumbs stated on X that review wait times spiked significantly around September and October.The backlog follows a flood of new game titles on the platform, with a large portion created using AI. This influx of AI-generated content strained the review infrastructure at Steam, delaying submissions across the catalog. Reddit user u/ploz found that 49.9 percent of games released on Steam in October officially disclosed AI-generated content. That figure represents a rapid escalation from June, when nearly 20 percent of Next Fest game demos disclosed AI use.To clear the pipeline, the new rules mandate stronger basic quality control at the developer level. Most notably, developers must run their games through Steam for at least five minutes to ensure they function properly on the platform. Valve implemented this after noting that it wasted time reviewing game builds that creators had never played through Steam. Beyond mandatory playtime, developers must confirm common redistributables like DirectX and Visual C++. Creators must also ensure game achievements are ready before release and verify that Steam Cloud save paths are configured correctly. Finally, developers must categorize game screenshots into specific buckets, labeling them as gameplay, menus, concept art or cinematics.The approval delays caused collateral damage for indie developers, with games missing launch dates by weeks. These logistical failures cost creators marketing momentum and caused sudden player backlash during major releases. Developer structmira told PC Gamer that their indie title Cubic Earth fell victim to thes"
+    },
+    {
+      "id": "0c53329080aba5f1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "258 Hayao Miyazaki Boards Reveal the ‘Princess Mononoke’ That Almost Was",
+      "url": "https://hypebeast.com/2026/11/iwanami-shoten-studio-ghibli-princess-mononoke-hayao-miyazaki-image-board-collection-book-release-info",
+      "publishedAt": "2026-11-05T07:54:58.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "258 Hayao Miyazaki Boards Reveal the ‘Princess Mononoke’ That Almost Was Summary Iwanami Shoten’s Studio Ghibli-edited image board series reaches Princess Mononoke with its seventh volumeThe book collects 258 of Hayao Miyazaki’s boards, 90 of them published for the first timeA complete “early version” of the story and a closing interview with producer Toshio Suzuki trace how the 1997 film took shape Studio Ghibli and Iwanami Shoten are opening the archive on Princess Mononoke with the seventh volume of the Hayao Miyazaki Image Board Collection. The 184-page edition gathers 258 of Miyazaki’s preparatory paintings for the 1997 film, including 90 that have never been published, and documents the 16-year path from first idea to finished feature.The headline is a version of Princess Mononoke that never reached the screen. Miyazaki’s original concept, which the publisher calls the “early version,” told a very different story about a mononoke spirit and a princess, closer in spirit to Beauty and the Beast, with art that looks nothing like the eventual film. The volume reproduces that full set of early boards together with the complete text of the 1993 picture book Tokuma Shoten published from them, an edition that is now out of print.The rest of the collection shows what happened after that concept was dropped. Miyazaki originally planned to adapt the early version, then shelved it after deciding its theme had grown stale. After making the short On Your Mark, he pushed himself to break from his earlier work, and the boards that follow document that struggle as the story was rebuilt from the ground up. Several images never made it into the finished film, including a rendering of San wearing what looks like a smile, a rare sight for the famously fierce lead.The volume closes with an interview with longtime Ghibli producer Toshio Suzuki, who covers the origins of the ironworks settlement Tataraba, early ideas for Lady Eboshi, and the decision to approach the film with the gritty tone of gekiga comics. He also frames the project as Miyazaki returning to the question of nature and humanity after concluding that Nausicaä of the Valley of the Wind had treated it too simply. “To exaggerate a little, it’s a film that looks like it was made by a rookie director,” Suzuki says in the book’s interview.The edition also carries an endorsement from ONE PIECE creator Eiichiro Oda, a longtime admirer of Miyazaki. Launched in December 2024, the series continues with an eighth volum"
+    },
+    {
+      "id": "e52730dfbf332246",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Piaget Sets Sodalite and Turquoise Into Its Andy Warhol “Camouflage” Limited Edition",
+      "url": "https://hypebeast.com/2026/11/piaget-andy-warhol-camouflage-watch-limited-edition-release-info",
+      "publishedAt": "2026-11-05T07:30:38.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "Piaget Sets Sodalite and Turquoise Into Its Andy Warhol “Camouflage” Limited Edition Summary Piaget and The Andy Warhol Foundation launched the 86-piece \"Camouflage\" watch.The 45mm white gold cushion case features a dial made of sodalite, turquoise, and gold.The self-winding timepiece honors Warhol’s 1986 self-portraits. Continuing its official partnership with The Andy Warhol Foundation for the Visual Arts, Piaget has unveiled the Andy Warhol \"Camouflage\" limited edition watch.Following the \"Collage\" series last year, this second collaboration draws direct inspiration from a series of self-portraits Warhol created in 1986, which explored the dual nature of fame by obscuring the artist's face behind bold, brightly colored camouflage. Piaget secured the exclusive licensing rights to use Warhol’s name in 2024, renaming the collection - previously known as the Black Tie Vintage since 2014 - to honor the pop art icon, who was a passionate collector and owned seven Piaget models.For this release, Piaget deconstructed Warhol's 1986 self-portraits through the contemporary lens of haute horlogerie. The striking camouflage dial is a masterclass in ornamental stone marquetry, requiring over 100 hours of labor to design, research, and assemble. The abstract pattern is formed from 27 individual pieces, pairing the deep, chromatic blues of cerulean turquoise and oceanic sodalite with the contrasting textures of satin-finished gold and shiny rose gold. Framing this intricate artwork is the model’s iconic 45mm cushion-shaped case, rendered in white gold and detailed with signature gadroons.The Andy Warhol \"Camouflage\" is powered by Piaget’s self-winding manufacture movement, the 501 P1, driving a set of elegant dauphine hands. Flipping over the white gold case reveals Andy Warhol's famous signature engraved on the caseback, alongside the specific edition number. Production of this highly intricate, art-forward timepiece is strictly limited to 86 pieces worldwide. For more information, head over to Piager's official website or physical boutiques. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a090f4227e1c34f6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
+      "url": "https://hypebeast.com/2026/11/carhartt-wip-nike-air-max-goadome-low-twilight-marsh-iw6306-300-official-images",
+      "publishedAt": "2026-11-05T07:13:56.000Z",
+      "collectedAt": "2026-11-05T19:44:34.192Z",
+      "text": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look Name: Carhartt WIP x Nike Air Max Goadome Low “Twilight Marsh”Colorway: Twilight Marsh/Light British Tan-Light Cream-BlackSKU: IW6306-300MSRP: $190 USDRelease Date: Holiday 2026The Carhartt WIP x Nike Air Max Goadome Low takes Nike’s rugged lifestyle silhouette and outfits it with utility details pulled straight from the workwear playbook. Official images of the “Twilight Marsh” colorway have now surfaced via Nike, showing a reworked upper that departs from the standard Goadome build in both structure and hardware.The most noticeable change sits along the sidewalls, where Carhartt WIP carves out an open section edged in stitching that recalls the Nike Tailwind 4. On the “Twilight Marsh” pair, Nike’s photos show canvas filling those side zones while leather overlays wrap the rest of the upper, giving the shoe a layered, almost patched-together construction. Earlier reports pointed to suede on the tan and other earth-toned pairs and leather on the black version, so final materials may vary by colorway.Hardware does much of the talking from there. Rope laces thread through metal D-rings instead of standard eyelets, a detail more at home on a work boot than a sneaker, while a small metallic Swoosh replaces the usual oversized branding on the side panel. Carhartt WIP’s own identity shows up in two places, with a leather patch on the tongue and a black Carhartt label tacked near the outer side of the shoe.Each of the three colorways mixes the same core palette in a different order. “Twilight Marsh” pairs its namesake shade with Light British Tan, Light Cream and Black, “Light British Tan” brings in Metallic Ochre, Twilight Marsh, Black and Dark Cinder, and the “Black” pair keeps things darkest with Twilight Marsh and Light British Tan accents.The Goadome has long sat closer to a boot than a runner, with a chunky, protective profile that makes it a natural canvas for Carhartt WIP’s utility-minded approach. The project also marks the label’s first collaboration with Nike since 2018.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
     }
   ]
 }
