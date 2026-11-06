@@ -3748,119 +3748,51 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-11-06",
+      "mode": "live",
+      "displayDate": "NOV 06, 2026, 02:07 PM EST",
+      "generatedAt": "2026-11-06T19:07:45.740Z",
+      "itemsCollected": 57,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 9
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "04d22d7c6239ceaf",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Iamisigo Copenhagen Spring 2027",
-      "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/iamisigo",
-      "publishedAt": "2026-08-08T12:55:22.000Z",
-      "collectedAt": "2026-08-08T12:57:49.855Z",
-      "text": "Iamisigo Copenhagen Spring 2027 "
-    },
-    {
-      "id": "b6aed5dde800288e",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "From Mahjong to Dominoes, the Best Travel Game Sets",
-      "url": "https://www.vogue.com/article/best-travel-game-sets",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "From Mahjong to Dominoes, the Best Travel Game Sets Whether you're packing for a beach vacation or a European grand tour, these luxury travel game sets make downtime just as memorable as sightseeing."
-    },
-    {
-      "id": "f285b870aaa2747b",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "A Shoulder to Try On: The Street Style Way to Do Power Shoulders",
-      "url": "https://www.vogue.com/article/street-style-trend-power-shoulders",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "A Shoulder to Try On: The Street Style Way to Do Power Shoulders Power shoulders are back, no thanks to Hulu’s recently released “The Shards.”"
-    },
-    {
-      "id": "d8a9aaf4818fa6e9",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Beauty Marks: The Best Beauty Looks of the Week",
-      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-8",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "Beauty Marks: The Best Beauty Looks of the Week From Jade Thirlwall’s pop art eyes, to Rihanna’s space buns, and Hayes Warner’s blonde bombshell moment—these are the best moments in celebrity beauty this week."
-    },
-    {
-      "id": "4dea171e674b87fb",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "114 Thoughts I Had While Watching 'One Night Only'",
-      "url": "https://www.vogue.com/article/114-thoughts-i-had-while-watching-one-night-only",
-      "publishedAt": "2026-08-07T20:30:00.000Z",
-      "collectedAt": "2026-08-08T12:57:49.856Z",
-      "text": "114 Thoughts I Had While Watching 'One Night Only' I know the question “What’s your favorite part of sex?” is supposed to be thoughtful and hot, but…I’m laughing."
-    },
-    {
-      "id": "5e6747341b923309",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Behold, Nike's Lazy Anti-basketball Sneaker",
-      "url": "https://www.highsnobiety.com/p/nike-blazy-sneaker-green/",
-      "publishedAt": "2026-08-08T11:50:00.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "Behold, Nike's Lazy Anti-basketball Sneaker Nike's glowing green Blazy sneaker is a super laid back shoe that was literally built for chilling."
-    },
-    {
-      "id": "d41f9e6ec74e9bb8",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Crocs Finally Addresses the Elephant (Clog) in the Room",
-      "url": "https://www.highsnobiety.com/p/crocs-roy-elephant-clog/",
-      "publishedAt": "2026-08-08T09:34:02.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "Crocs Finally Addresses the Elephant (Clog) in the Room Crocs' plucked its edgy gray clog straight from the futuristic plains of sub-Saharan Africa."
-    },
-    {
-      "id": "213a31fc856d1eba",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "A Silk Scarf Is Whatever You Want It to Be",
-      "url": "https://www.highsnobiety.com/p/loro-piana-celine-silk-scarves/",
-      "publishedAt": "2026-08-07T20:44:01.000Z",
-      "collectedAt": "2026-08-08T12:57:51.217Z",
-      "text": "A Silk Scarf Is Whatever You Want It to Be Celine, Loro Piana, Conner Ives, and Louis Vuitton have shown that the silk scarf can be attached to anything, from belts and bags to actual flagpoles."
-    },
-    {
-      "id": "dc06974696c43bf4",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Ye Unveils Four Pastel Colorways for the Upcoming Yeezy 800",
-      "url": "https://hypebeast.com/2026/8/ye-unveils-four-new-pastel-colorways-for-upcoming-yeezy-800",
-      "publishedAt": "2026-08-07T21:02:46.000Z",
-      "collectedAt": "2026-08-08T12:57:52.694Z",
-      "text": "Ye Unveils Four Pastel Colorways for the Upcoming Yeezy 800 Summary Ye has revealed four new pastel colorways of the independent Yeezy 800 silhouetteThe retro running design combines ballistic mesh nubuck overlays and textured synthetic panelsThe model is expected to release during Fall/Winter 2026 via Yeezy YEEZY founder Ye has revealed new pastel iterations of the upcoming YEEZY 800 silhouette. The updated previe, which the artist posted to his Instagram Stories, expands upon the initial all-black edition of the independent runner, introducing a vibrant shift from the brand's traditional muted earth tones.The Yeezy 800 leans into a retro running shape, featuring a complex layered construction across the upper. Ballistic mesh forms the tongue, while textured panels reinforce the toe and heel sections. Nubuck-like overlays frame the eyestays and forefoot, complemented by layers of loose, gauze-style mesh that give the upper a raw, unpolished texture that continues onto portions of the midsole.Marking a return to the numbered naming format used throughout Ye's classic releases, the model signals a new era of independent production for the brand. Following reports of a retail partnership with JD Sports, the silhouette could become one of the first post-adidas Yeezy footwear releases to receive wider mainstream distribution.The Yeezy 800 is expected to launch during Fall/Winter 2026 through the Yeezy website and select retailers. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "7f3ac325c42bd459",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "First Look at the Nike Caitlin 1 \"Hot Punch\"",
-      "url": "https://hypebeast.com/2026/8/nike-caitlin-1-hot-punch-ih7423-600-first-look-release-info",
-      "publishedAt": "2026-08-07T20:53:06.000Z",
-      "collectedAt": "2026-08-08T12:57:52.694Z",
-      "text": "First Look at the Nike Caitlin 1 \"Hot Punch\" Summary Caitlin Clark revealed an early look at the upcoming Nike Caitlin 1 \"Hot Punch\" via InstagramThe retail colorway features an all-over pink execution with contrasting royal blue signature brandingThe pair is scheduled to release during Holiday 2026 for $140 USD via Nike and select retailers Name: Nike Caitlin 1 \"Hot Punch\"Colorway: Hot Punch/Neo Pink-Black-Laser Crimson-Racer BlueSKU: IH7423-600MSRP: $140 USDRelease Date: Holiday 2026Where to Buy: NikeNike and WNBA star Caitlin Clark have provided a first look at the Nike Caitlin 1 \"Hot Punch\". Clark shared an early preview of the upcoming release on Instagram, confirming the pair as part of her debut signature model’s wider retail lineup.The silhouette takes on an eye-catching aesthetic, wrapped in a Hot Punch shade that extends across the upper from heel to toe. Neo Pink tones soften the design across the midsole while filling in the layered Swoosh branding along the lateral and medial sidewalls.To break up the vibrant pink upper, royal blue accents highlight Clark’s signature logo atop the tongue, adding a sharp point of visual contrast to the overall palette.The Nike Caitlin 1 \"Hot Punch\" releases during Holiday 2026. Click here to view full gallery at Hypebeast"
-    },
     {
       "id": "554a4e53066db1e5",
       "sourceId": "vogue",
@@ -3904,28 +3836,6 @@
       "publishedAt": "2026-08-09T07:31:10.000Z",
       "collectedAt": "2026-08-09T13:00:33.907Z",
       "text": "Katie Holmes’s Best Hamptons Accessories? An It-Bag and an Artist Boyfriend Stepping out for Guild Hall’s Summer Gala in East Hampton, Katie Holmes toted a Tory Burch on one arm and Jason Bard Yarmosky on the other."
-    },
-    {
-      "id": "23566c266567a25b",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Meghan Markle Wears Princess Diana’s Earrings for a Red Carpet Date Night With Prince Harry",
-      "url": "https://www.vogue.com/article/meghan-markle-princess-diana-earrings-prince-harry-david-foster-foundation",
-      "publishedAt": "2026-08-08T13:37:18.000Z",
-      "collectedAt": "2026-08-09T13:00:33.907Z",
-      "text": "Meghan Markle Wears Princess Diana’s Earrings for a Red Carpet Date Night With Prince Harry In matching monochromatic looks, the Duke and Duchess of Sussex enjoyed a rare, more glamorous night out together for the David Foster Foundation gala."
-    },
-    {
-      "id": "ffc4ec9fea09710a",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "From the Archives: How Anthony Bourdain Brought a Food Hall to New York's Waterfront",
-      "url": "https://www.vogue.com/article/anthony-bourdain-food-hall-manhattan-waterfront-new-york",
-      "publishedAt": "2026-08-08T13:26:02.000Z",
-      "collectedAt": "2026-08-09T13:00:33.907Z",
-      "text": "From the Archives: How Anthony Bourdain Brought a Food Hall to New York's Waterfront “From bad-boy chef to globe-trotting CNN star, Anthony Bourdain has become a master of reinvention. Now can he bring a hyperambitious food hall to Manhattan’s waterfront?” Vogue asked in 2016."
     },
     {
       "id": "4c9b591034304af1",
@@ -3992,17 +3902,6 @@
       "publishedAt": "2026-08-08T21:02:49.000Z",
       "collectedAt": "2026-08-09T13:00:35.166Z",
       "text": "This Might Be Salehe Bembury’s Best PUMA Sneaker Yet (EXCLUSIVE) We got a first look at Salehe Bembury's new PUMA Velum NITRO 2 sneaker in a pink colorway. Dare we say, this is his best PUMA shoe to date."
-    },
-    {
-      "id": "e844bec6a1728967",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Birkenstock Stitched-up Its Brightest Boston Clog",
-      "url": "https://www.highsnobiety.com/p/ader-error-birkenstock-1774-bostonclog-blue/",
-      "publishedAt": "2026-08-08T15:40:01.000Z",
-      "collectedAt": "2026-08-09T13:00:35.166Z",
-      "text": "Birkenstock Stitched-up Its Brightest Boston Clog ADER ERROR's Birkenstock 1774 Boston Clog is a bright blue clog dressed in the finest threads."
     },
     {
       "id": "43dd7718553eedab",
@@ -51259,6 +51158,633 @@
       "publishedAt": "2026-11-05T07:13:56.000Z",
       "collectedAt": "2026-11-05T19:44:34.192Z",
       "text": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look Name: Carhartt WIP x Nike Air Max Goadome Low “Twilight Marsh”Colorway: Twilight Marsh/Light British Tan-Light Cream-BlackSKU: IW6306-300MSRP: $190 USDRelease Date: Holiday 2026The Carhartt WIP x Nike Air Max Goadome Low takes Nike’s rugged lifestyle silhouette and outfits it with utility details pulled straight from the workwear playbook. Official images of the “Twilight Marsh” colorway have now surfaced via Nike, showing a reworked upper that departs from the standard Goadome build in both structure and hardware.The most noticeable change sits along the sidewalls, where Carhartt WIP carves out an open section edged in stitching that recalls the Nike Tailwind 4. On the “Twilight Marsh” pair, Nike’s photos show canvas filling those side zones while leather overlays wrap the rest of the upper, giving the shoe a layered, almost patched-together construction. Earlier reports pointed to suede on the tan and other earth-toned pairs and leather on the black version, so final materials may vary by colorway.Hardware does much of the talking from there. Rope laces thread through metal D-rings instead of standard eyelets, a detail more at home on a work boot than a sneaker, while a small metallic Swoosh replaces the usual oversized branding on the side panel. Carhartt WIP’s own identity shows up in two places, with a leather patch on the tongue and a black Carhartt label tacked near the outer side of the shoe.Each of the three colorways mixes the same core palette in a different order. “Twilight Marsh” pairs its namesake shade with Light British Tan, Light Cream and Black, “Light British Tan” brings in Metallic Ochre, Twilight Marsh, Black and Dark Cinder, and the “Black” pair keeps things darkest with Twilight Marsh and Light British Tan accents.The Goadome has long sat closer to a boot than a runner, with a chunky, protective profile that makes it a natural canvas for Carhartt WIP’s utility-minded approach. The project also marks the label’s first collaboration with Nike since 2018.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1e7c56a1a012ec81",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rag & Bone Pre-Fall 2027",
+      "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/rag-bone",
+      "publishedAt": "2026-11-06T19:05:19.000Z",
+      "collectedAt": "2026-11-06T19:07:41.652Z",
+      "text": "Rag & Bone Pre-Fall 2027 "
+    },
+    {
+      "id": "56b3f60447852c09",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ralph Lauren Pre-Fall 2027",
+      "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/ralph-lauren",
+      "publishedAt": "2026-11-06T19:05:19.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Ralph Lauren Pre-Fall 2027 "
+    },
+    {
+      "id": "7eb2bfc6dabd7240",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "22 Designer Handbags That Will Stand the Test of Time",
+      "url": "https://www.vogue.com/article/best-designer-handbags",
+      "publishedAt": "2026-11-06T17:20:19.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "22 Designer Handbags That Will Stand the Test of Time The best designer handbags should be wardrobe essentials. From Miu Miu’s Arcadie to Loewe’s Puzzle and Gucci’s Blondie, shop Vogue’s edit."
+    },
+    {
+      "id": "9d9cfbd89ed8dfa4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Shop Our Favorite Celebrity Looks of the Week",
+      "url": "https://www.vogue.com/article/best-celebrity-outfits",
+      "publishedAt": "2026-11-06T17:18:43.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Shop Our Favorite Celebrity Looks of the Week Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away."
+    },
+    {
+      "id": "4d7fccc739e0c2d1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Salma Hayek Pinault, Jane Fonda, and Hollywood’s Leading Names Gathered to Toast Women In Film",
+      "url": "https://www.vogue.com/slideshow/salma-hayek-pinault-jane-fonda-women-in-film-honors-2026",
+      "publishedAt": "2026-11-06T17:05:39.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Salma Hayek Pinault, Jane Fonda, and Hollywood’s Leading Names Gathered to Toast Women In Film If there was one room in Hollywood where female power was unmistakable, it was the Beverly Hilton on Thursday night, where Women In Film hosted its annual WIF Honors."
+    },
+    {
+      "id": "93be0cc73177e234",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "10 Celeb-Inspired Denim Outfits to Try",
+      "url": "https://www.vogue.com/article/celebrity-denim-outfits",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "10 Celeb-Inspired Denim Outfits to Try From Zendaya to Katie Holmes and Rihanna, allow these celeb-approved denim outfits to inspire your next look."
+    },
+    {
+      "id": "18547bdcb536f179",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Swear By Collagen Face Masks to Instantly Plump and Hydrate Skin",
+      "url": "https://www.vogue.com/article/collagen-face-masks",
+      "publishedAt": "2026-11-06T16:56:55.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "I Swear By Collagen Face Masks to Instantly Plump and Hydrate Skin Do collagen face masks really work? Experts say options by Biodance, Medicube, Laneige, and more are great to hydrate, smooth, and firm."
+    },
+    {
+      "id": "998b0978466ac8e3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Going Home—A Day in the Life With Libby Taverner As She Walks the Chanel Show in Sydney",
+      "url": "https://www.vogue.com/slideshow/going-home-a-day-in-the-life-with-libby-taverner-as-she-walks-the-chanel-show-in-sydney",
+      "publishedAt": "2026-11-06T16:28:14.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Going Home—A Day in the Life With Libby Taverner As She Walks the Chanel Show in Sydney Model Libby Taverner shares a day in the life with her as she walks the Chanel resort 2027 reprise show in Sydney."
+    },
+    {
+      "id": "72b9bd564902dd81",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kate Middleton Goes Cozy Mode to Visit a Charity Close to Her Heart",
+      "url": "https://www.vogue.com/article/kate-middleton-goes-cozy-mode-sweater-and-jeans-11-06-2026",
+      "publishedAt": "2026-11-06T15:56:02.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Kate Middleton Goes Cozy Mode to Visit a Charity Close to Her Heart The Princess of Wales—Kate Middleton—layered up for a visit with a charity near and dear to her healing journey."
+    },
+    {
+      "id": "0c1454a7b9d8c971",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Olivier Rousteing Let Kim Kardashian Have Free Rein in the Rabanne Archives",
+      "url": "https://www.vogue.com/article/kim-kardashian-alls-fair-rabanne-archives-olivier-rousteing-2026-11-06",
+      "publishedAt": "2026-11-06T15:29:55.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Olivier Rousteing Let Kim Kardashian Have Free Rein in the Rabanne Archives Olivier Rousteing is giving “All’s Fair” star and longtime friend Kim Kardashian carte blanche to the house’s archives."
+    },
+    {
+      "id": "6a8d3577da3517b0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Aryna Sabalenka, Coco Gauff, Mirra Andreeva, and More on Winning, Losing, Living, and Dreaming",
+      "url": "https://www.vogue.com/article/wta-finals-fashion-2026",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Aryna Sabalenka, Coco Gauff, Mirra Andreeva, and More on Winning, Losing, Living, and Dreaming With the WTA Finals about to kick off in Indian Wells, we gathered the top eight stars in women’s tennis to dish on their years and their lives."
+    },
+    {
+      "id": "587a9a17cbe03f5d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "I Tried the NordicTrack Ultra 1 Reformer—Here Are My Honest Thoughts",
+      "url": "https://www.vogue.com/article/nordictrack-ultra-1-reformer-review",
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "I Tried the NordicTrack Ultra 1 Reformer—Here Are My Honest Thoughts From its guided workouts to its sleek design, here’s everything I learned from testing NordicTrack’s at-home Pilates reformer."
+    },
+    {
+      "id": "bd3f7f10bb00bde1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why Martine Rose is So Right for Balenciaga",
+      "url": "https://www.vogue.com/article/why-martine-rose-is-so-right-for-balenciaga",
+      "publishedAt": "2026-11-06T11:57:28.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Why Martine Rose is So Right for Balenciaga Martine Rose, who consulted with Demna at Balenciaga in the 2010s, has been named the creative diretor at the Kering-owned label."
+    },
+    {
+      "id": "193efb3b583ea37f",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "28 Winter Wedding Guest Dresses for Cold-Weather Ceremonies",
+      "url": "https://www.vogue.com/article/best-winter-wedding-guest-dresses",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "28 Winter Wedding Guest Dresses for Cold-Weather Ceremonies From silk dresses to sequined maxis, shop Vogue’s edit of the best winter wedding guest dresses for every budget."
+    },
+    {
+      "id": "f4d11aa16be200ee",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "This Fashion Scion’s Laid-Back Ibiza Wedding Featured Lace Dresses, Barefoot Vows, and Dancing Till Dawn",
+      "url": "https://www.vogue.com/slideshow/lola-teller-and-freddie-woodruff-wedding",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "This Fashion Scion’s Laid-Back Ibiza Wedding Featured Lace Dresses, Barefoot Vows, and Dancing Till Dawn Lola Teller walked down the aisle flanked by her parents, fashion photographer and stylist Venetia Scott and photographer Juergen Teller, to marry Freddie Woodruff in an Ibizan pine grove."
+    },
+    {
+      "id": "1a33963b855066b8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "My Packing Style: Creative Director Gabriella Khalil",
+      "url": "https://www.vogue.com/article/packing-style-gabriella-khalil",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "My Packing Style: Creative Director Gabriella Khalil Take a peek inside hotelier and designer Gabriella Khalil’s travel bag—as well as the packing tips she swears by."
+    },
+    {
+      "id": "a759204c1193bd06",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zara's Latest Drop Is Full of Winter Must-Haves",
+      "url": "https://www.vogue.com/article/best-zara-finds",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Zara's Latest Drop Is Full of Winter Must-Haves From leather jackets to party dresses, Zara’s new arrivals have it all."
+    },
+    {
+      "id": "d57fa126bb9a3b31",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "What the “Ferritin Face” Trend Says About the Future of Beauty",
+      "url": "https://www.vogue.com/article/what-the-ferritin-face-trend-says-about-the-future-of-beauty",
+      "publishedAt": "2026-11-06T10:30:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "What the “Ferritin Face” Trend Says About the Future of Beauty First came “cortisol face”, then “Ozempic face”. Now, TikTok is diagnosing low iron through dark circles and thinning hair, cultivating the latest viral trend du jour."
+    },
+    {
+      "id": "ef10290375d00ab2",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘Off Campus’ Season 2 Finally Has a Release Date—And It’s Sooner Than You Think",
+      "url": "https://www.vogue.com/article/everything-we-know-so-far-off-campus-season-2",
+      "publishedAt": "2026-11-06T10:07:44.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "‘Off Campus’ Season 2 Finally Has a Release Date—And It’s Sooner Than You Think Everything you need to know about the second outing of Prime Video’s mega hit “Off Campus,” from the cast to the plot and release date."
+    },
+    {
+      "id": "ef72f3bfc01b2306",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Amal Clooney Ticks off Every Fall Style Classic at the Theater",
+      "url": "https://www.vogue.com/article/amal-clooney-ticks-off-every-fall-style-classic-at-the-theater",
+      "publishedAt": "2026-11-06T09:57:03.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Amal Clooney Ticks off Every Fall Style Classic at the Theater As temperatures continue to drop, we’ll be keeping tabs on Amal Clooney’s wardrobe and taking notes."
+    },
+    {
+      "id": "c970cab2e26f303e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Nicole Kidman’s Fresh Fringe Is ‘Cool Without Trying’",
+      "url": "https://www.vogue.com/article/nicole-kidman-fresh-fringe-is-cool-without-trying",
+      "publishedAt": "2026-11-06T09:40:52.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Nicole Kidman’s Fresh Fringe Is ‘Cool Without Trying’ Chanel’s first-ever show in Australia called for a special look, as per Nicole Kidman’s hairstylist Adir Abergel. He breaks down her new “Birkin” bangs."
+    },
+    {
+      "id": "7ef2cb4527be08d5",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Martine Rose is the New Creative Director of Balenciaga",
+      "url": "https://www.vogue.com/article/martine-rose-is-the-new-creative-director-of-balenciaga",
+      "publishedAt": "2026-11-06T07:01:17.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Martine Rose is the New Creative Director of Balenciaga Martine Rose will succeed Pierpaolo Piccioli at Balenciaga."
+    },
+    {
+      "id": "b446d95aa828a977",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Elf Beauty CEO on Gen Alpha, Record Sales and Cracking the US",
+      "url": "https://www.vogue.com/article/elf-beauty-ceo-on-gen-alpha-record-sales-and-cracking-the-us",
+      "publishedAt": "2026-11-06T05:30:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Elf Beauty CEO on Gen Alpha, Record Sales and Cracking the US After cracking the US with a clear value proposition that seduced Gen Z, CEO Tarang Amin is looking to spread Elf’s retail footprint further afield. His next bets? Gen Alpha, haircare, and a global partner network."
+    },
+    {
+      "id": "18ab49abec22ba32",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "For Natural Volume, Wash Your Hair the French-Girl Way",
+      "url": "https://www.vogue.com/article/for-natural-volume-wash-your-hair-the-french-girl-way",
+      "publishedAt": "2026-11-06T01:41:37.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "For Natural Volume, Wash Your Hair the French-Girl Way French girl and salon owner Daphné Narcy shares 5 tips to keep hair healthy and give it that je ne sais quoi."
+    },
+    {
+      "id": "03acb3d958505701",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Priyanka Mattoo Wants You to Try Leaning Out",
+      "url": "https://www.vogue.com/article/priyanka-mattoo-how-to-be-less-useful-interview",
+      "publishedAt": "2026-11-05T23:00:00.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Priyanka Mattoo Wants You to Try Leaning Out “How to Be Less Useful: The Joy of Inefficiency” is out now from Knopf."
+    },
+    {
+      "id": "091a01115e41e8f3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Simkhai Pre-Fall 2027 Menswear",
+      "url": "https://www.vogue.com/fashion-shows/pre-fall-2027-menswear/jonathan-simkhai",
+      "publishedAt": "2026-11-06T19:05:19.000Z",
+      "collectedAt": "2026-11-06T19:07:41.653Z",
+      "text": "Simkhai Pre-Fall 2027 Menswear "
+    },
+    {
+      "id": "f0a938adb4348acb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Revisiting Jeans and Tees on the Red Carpet, Inspired by the 2027 Met Gala Theme",
+      "url": "https://www.vogue.com/slideshow/jeans-and-tees-red-carpets-met-gala-2027-theme",
+      "publishedAt": "2026-11-05T21:21:36.000Z",
+      "collectedAt": "2026-11-06T19:07:41.654Z",
+      "text": "Revisiting Jeans and Tees on the Red Carpet, Inspired by the 2027 Met Gala Theme The 2027 Met Gala theme will inspire one “to see the everyday anew.” Can celebrities understand the assignment? Some past red carpets say yes."
+    },
+    {
+      "id": "372256326830a322",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Blanca Miró and Larkspur & Hawk Celebrate Their Colorful Jewelry Collaboration With a Cocktail Party",
+      "url": "https://www.vogue.com/slideshow/blanca-miro-and-larkspur-and-hawk-launch-2026",
+      "publishedAt": "2026-11-05T21:04:12.000Z",
+      "collectedAt": "2026-11-06T19:07:41.654Z",
+      "text": "Blanca Miró and Larkspur & Hawk Celebrate Their Colorful Jewelry Collaboration With a Cocktail Party An Upper East Side townhouse played host to an evening of colorful jewels, creative conversation, and some very inventive accessorizing."
+    },
+    {
+      "id": "83fb14ececd484a7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Fall Winter 2026 Shoe Trends to Shop Now—From Kitten Heels to Great Boots",
+      "url": "https://www.vogue.com/article/fall-2026-shoe-trends",
+      "publishedAt": "2026-11-05T20:59:41.000Z",
+      "collectedAt": "2026-11-06T19:07:41.654Z",
+      "text": "The Fall Winter 2026 Shoe Trends to Shop Now—From Kitten Heels to Great Boots From elegant kitten heels to embellished slippers and punchy animal print boots, these are the top fall/winter 2026 shoe trends to shop now."
+    },
+    {
+      "id": "7122a4a235a03798",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Henny Season Takes the Field in LA for Game Day",
+      "url": "https://www.highsnobiety.com/p/henny-season-takes-the-field-la/",
+      "publishedAt": "2026-11-06T18:39:39.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "Henny Season Takes the Field in LA for Game Day Hennessy knows how to throw a watch party with its new ready-to-serve cocktail line. On Halloween, the brand took over Hollywood for the Ohio State vs. USC game, and the vibes did not disappoint."
+    },
+    {
+      "id": "1f4d3f477fbdf2d1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas Has Us in a Sale Season State of Mind",
+      "url": "https://www.highsnobiety.com/p/adidas-winter-sale-best-bits/",
+      "publishedAt": "2026-11-06T16:55:41.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "adidas Has Us in a Sale Season State of Mind Get a head start on your winter wardrobe with adidas, as 30% off a selection of sneakers, track tops, Henleys, and more makes for some very timely savings."
+    },
+    {
+      "id": "dcbf9ebf4c88b602",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: Fashion Spent Its Holiday Budget on Animators",
+      "url": "https://www.highsnobiety.com/p/dior-prada-animation/",
+      "publishedAt": "2026-11-06T16:33:18.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "State of the Art: Fashion Spent Its Holiday Budget on Animators Fashion's holiday ads are going all in on animation, with Dior teaming up with Oscar-nominated director Sylvain Chomet and Prada tapping an ex-Disney artist."
+    },
+    {
+      "id": "d951a19631e56625",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "HUGO’s New Campaign Is for Anyone Who’s Been Doubted",
+      "url": "https://www.highsnobiety.com/p/hugo-fallwinter-2026-red-means-go-hits-the-streets-of-paris/",
+      "publishedAt": "2026-11-06T15:34:19.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "HUGO’s New Campaign Is for Anyone Who’s Been Doubted The heartbeat of Red Means GO, HUGO’s campaign platform launched last season, comes from five trailblazing talents, each bringing their own perspective."
+    },
+    {
+      "id": "223feb8fc4a5cce6",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Balenciaga Deserved Martine Rose",
+      "url": "https://www.highsnobiety.com/p/balenciaga-martine-rose/",
+      "publishedAt": "2026-11-06T14:34:01.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "Balenciaga Deserved Martine Rose A day after Balenciaga's short-lived creative director, Pierpaolo Piccioli, left, beloved British designer Martine Rose has been chosen to lead the house."
+    },
+    {
+      "id": "d2f6c28f9abba537",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Answer to the Winter Boot? A Rugged Basketball Shoe",
+      "url": "https://www.highsnobiety.com/p/nike-jordan-winterized-6-rings/",
+      "publishedAt": "2026-11-06T17:32:35.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "Nike's Answer to the Winter Boot? A Rugged Basketball Shoe Nike's Jordan Winterized 6 Rings looks like a basketball shoe that picked up a winter job, complete with chunky soles and boot-style lacing."
+    },
+    {
+      "id": "cf058032b8aefeae",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Why Do Brands Keep Returning to Fashion's Favorite Florist?",
+      "url": "https://www.highsnobiety.com/p/cecilie-bahnsen-uniqlo-tnf/",
+      "publishedAt": "2026-11-05T22:33:00.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "Why Do Brands Keep Returning to Fashion's Favorite Florist? A \"Cecilie Bahnsen flower\" is the indie Danish brand's signature, giving it an easily adaptable motif for collabs at UNIQLO, The North Face, and ASICS."
+    },
+    {
+      "id": "c09144cc7a61b5b8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Yeezy Is Officially Sampling Itself",
+      "url": "https://www.highsnobiety.com/p/yeezy-season-01-new/",
+      "publishedAt": "2026-11-06T15:36:57.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "Yeezy Is Officially Sampling Itself You know what season it is. Ye just seized the means of production, and re-launched his fashion line Yeezy with a perfectly self-referential runway."
+    },
+    {
+      "id": "7713e72dbd4b022b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Best Nike Sneaker Releases This Week",
+      "url": "https://www.highsnobiety.com/p/nike-sneaker-releases-november-week-1/",
+      "publishedAt": "2026-11-05T19:48:57.000Z",
+      "collectedAt": "2026-11-06T19:07:43.064Z",
+      "text": "The Best Nike Sneaker Releases This Week This week of our Nike release round-up is all about performance tech that is also perfect for the streets."
+    },
+    {
+      "id": "9fdaa235a136f44d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life",
+      "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars",
+      "publishedAt": "2026-11-06T19:00:33.000Z",
+      "collectedAt": "2026-11-06T19:07:44.488Z",
+      "text": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life Summary Rockstar Games commission West Coast Customs to recreate the in-game custom carsEach car comes with its own backstory, including stats, figures and details'Grand Theft Auto VI' finally arrives on November 19 Grand Theft Auto VI is finally coming, and one of the best, most detailed components of the game is coming to life. Literally.Developers commissioned the iconic West Coast Customs of Los Angeles to recreate some of the most recognizable in-game cars with real life counterparts. The detail that went into replicating the replicas must have been painstaking, as we even had a bit of difficulty differentiating the in-game shots (above) from the real life photos (below). And what's even better is that each car is baked with stats and IRL figures, bridging their digital and real-life connections even stronger. Ever wonder what the engine was under the Coquette? Or how much horsepower the Tempesta cop car has? Check out the breakdown of each car and judge for yourself how close each car got to its in-game version. They didn't divulge exactly what car was used to replicate the in-games, so we'll let you make your own conclusions.Grotti CheetahThe Grotti Cheetah is quintessentially Miami. The classic mid-engined ’90s supercar is clean, with Italian-styled lines broken only by intakes feeding a 4.9L naturally-aspirated V8. West Coast Customs lowered it on track-ready tires, gave it a “Vice City fade” paint job, and trimmed the cabin with custom-stitched Italian leather.Albany BuccaneerThe Buccaneer is a fully restored 1960s lowrider with a 7.5L V8, paired with hits of mahogany and gold trim throughout. The candy apple green paint, laid down in large metallic flake, carries bespoke airbrushing and pinstripes for the ultimate custom look. Air-ride suspension and gold multi-spoke rims sit under a cream ragtop and a leather interior with zebra-print inlays, because Vice City.Progen EmerusPerhaps the wildest build in this list, the Emerus is a track-ready thoroughbred, with aero bodywork and fighter jet-style vents built around a twin-turbo 4.0L V8. It’s painted candy orange with an even louder orange interior to match. One of the largest aero wings on the market, plus custom suspension and racing tires, keeps it planted when you're five-star and on the run.Invetero CoquetteThe icon and probably most recognizable. The mid-engined Coquette packs a 6.2L naturally aspirated V8 we all secretly know an"
+    },
+    {
+      "id": "9aeb527529662e0a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
+      "url": "https://hypebeast.com/2026/11/kith-new-balance-2011-monuments-collection-release-info",
+      "publishedAt": "2026-11-06T18:00:03.000Z",
+      "collectedAt": "2026-11-06T19:07:44.488Z",
+      "text": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel Name: Kith x New Balance 2011Colorway: Maroon/Atomic Yellow, Amazon/Lilac, Princess Blue/SilverSKU: TBCMSRP: TBCRelease Date: November 9Where to Buy: KithKith and New Balance are returning to the 2011 for the Monuments Collection, a trio of colorways that each salute one of New York City’s most recognizable landmarks. The silhouette first surfaced earlier this year as part of Kith’s 15-year anniversary run, and its name points straight back to the year the retailer opened its doors. This time around, the city’s skyline does the storytelling while the materials do the heavy lifting.Under every colorway sits the same architecture. Kith built the 2011 upper from the ground up, assembling a layered, multi-piece pattern rather than adapting an existing New Balance last, then set it atop the ABZORB midsole unit originally developed for the New Balance 2002. That combination gives the shoe a familiar, cushioned ride underneath a construction that is entirely its own, leaving each Monuments colorway free to play with texture and finish.The “Maroon & Atomic Yellow” pair carries the deepest Kith lineage, revisiting the Ronnie Fieg for New Balance 530 that dropped at Kith in 2014. Perforated nubuck forms the base, layered with perforated nubuck and leather overlays and finished with quilted stitching across the vamp and collar. A full-bleed debossed 2011 graphic covers the heel, contrasting N-lock logos land on both sides, and silver-flecked laces add a subtle shimmer, with additional branding placed on the tongue and heel counter.The “Amazon & Lilac” iteration takes a bolder color-blocked route, built from perforated suede overlays on top of suede underlays. Reflective N-logos on the lateral and medial walls catch light after dark, while dual New Balance and Kith branding sits on the tongue and heel, and 2011 hits mark the outer ankle.Rounding out the set, the “Princess Blue & Silver” version swaps to a breathable mesh base dressed in vibrant suede overlays. Orange accents at the eyelets, N-logos and heel branding cut through the cool palette, joined by a co-branded tongue and 2011 detailing at the lateral heel. All three pairs arrive in New York to the World packaging, finished with a custom sockliner and an extra set of laces.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fe0043b73388c22c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kia’s EV4 GT Clay Concept Is the Ultimate Tribute to Rafael Nadal",
+      "url": "https://hypebeast.com/2026/11/kia-ev4-clay-concept-rafael-nadal-info",
+      "publishedAt": "2026-11-06T17:09:55.000Z",
+      "collectedAt": "2026-11-06T19:07:44.488Z",
+      "text": "Kia’s EV4 GT Clay Concept Is the Ultimate Tribute to Rafael Nadal With 63 clay-court titles under his belt, Rafael Nadal’s reputation as the undisputed \"King of Clay\" has brought his legacy beyond tennis to fashion and lifestyle. Now, Korean car brand Kia is honoring the acclaimed player with a one-of-a-kind concept befitting his nickname. The full-scale EV4 GT clay concept features a top-to-bottom transformation, where the doors, bonnet, and windows are all dressed in a red-orange tone. Enhancing the court inspiration, white lines run across the angular edges, matching the white inscribed signature on the back and Kia logo.In an official statement, Rafael Nadal shared, “Kia has been by my side throughout my career, through all the highs and the challenges. Receiving this tribute, created from the material that has defined so much of my journey, is incredibly meaningful. It is a special reminder of everything we have shared, and I am honored by this gesture.”Commemorating a partnership that has lasted more than two decades, the clay concept provides a joint tribute to the player’s career as well as the innovation Kia has focused on over that time. A closer look at the car reveals how these two worlds have been brought together, with a blend of tennis court clay and automotive modelling clay. This combination gives the car a unique texture that's tactile while subtly matted. As the model reinforces Kia’s commitment to “movement that inspires,” Soohang Chang, President and CEO of Kia Europe, shared, “Rafael’s determination and resilience have inspired tennis players and fans around the world, and those values have been central to our partnership since 2004.” “This tribute celebrates Rafael’s remarkable achievements and the journey we have shared. Through tennis and our wider sporting partnerships, Kia aims to bring people together and inspire future generations,” he adds. Discover the car in the images shot at the Rafa Nadal Academy in Mallorca.To find out more about the Kia EV4 GT, head to the brand’s website now. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "1ad05b50b0b64d20",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: SATISFY",
+      "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-satisfy-4",
+      "publishedAt": "2026-11-06T15:04:58.000Z",
+      "collectedAt": "2026-11-06T19:07:44.488Z",
+      "text": "New Arrivals From HBX: SATISFY Brand Information: Brice Partouche, founder of SATISFY, drew inspiration from his diverse music, fashion, and sports background to craft a brand that transcends traditional running apparel. His early life, shaped by snowboarding and skateboarding, instilled a rebellious spirit, which later influenced SATISFY's design philosophy. After experiencing the transformative power of running, Partouche was inspired to create apparel that enhances performance and embodies the euphoria of the runner's high. This led to SATISFY, where fashion meets function, using premium European materials and innovative fabrics like Justice and MothTech. His vision combines high design with performance technology, aiming to foster a community that values freedom, style, and the pursuit of personal enlightenment through running.Price Range: $100.00 USD - $995.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a174f77e108487a2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Carhartt WIP and Nike Reunite for Apparel and Air Max Goadome Low Collaboration Collection",
+      "url": "https://hypebeast.com/2026/11/carhartt-wip-nike-air-max-goadome-low-apparel-collaboration-collection-release-info",
+      "publishedAt": "2026-11-06T15:00:46.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Carhartt WIP and Nike Reunite for Apparel and Air Max Goadome Low Collaboration Collection Summary Carhartt WIP and Nike have reunited for a collaborative collection featuring six apparel pieces and three Air Max Goadome Low WIP colorwaysThe capsule merges Nike's Windrunner chevron with Carhartt WIP's stone-washed Dearborn Canvas and Double Knee utility pant detailingEarly access begins November 12 through Carhartt WIP followed by a wider SNKRS and retail release on November 20 Carhartt WIP and Nike have reunited to introduce a brand-new collaborative collection headlined by the Air Max Goadome Low WIP and a six-piece utilitarian apparel range. Arriving eight years after the duo's debut collaboration, the capsule explores modern utility through purpose-built garments engineered for daily wear.The apparel selection bridges archival outerwear hallmarks from both brands, anchored by the Windrunner Active Jacket. The hybrid garment incorporates a running-inspired mesh lining, contrasting chevron chest blocking, and toggle fastenings from Nike's running shell, constructed from Carhartt WIP’s heavy-duty, stone-washed Dearborn Canvas with triple-stitched seams and a front kangaroo pocket. Accompanying the jacket is the Windrunner Drewe Pant, which merges a relaxed profile with Double Knee utility details like a hammer loop, tool pockets, and reinforced knee panels angled at Nike's signature 26-degree chevron. Complementing the outerwear are heavyweight brushed cotton hoodies, graphic T-shirts, pigment-dyed waffle knit long-sleeves, and stretch-cotton beanies finished in WIP H Brown, Black, Cypress, and Fleur de Sel tones.Rounding out the release is the Air Max Goadome Low WIP, reimagining the rugged outdoor silhouette in a low-profile stance inspired by the Half Dome. Built to endure and age with wear, the boot features a multi-layered upper crafted from durable canvas reinforced with suede and leather overlays. Refined metallic eyelets and miniature metallic Swoosh branding contrast the rugged tooling, anchored by subtle Carhartt WIP branding along the foxing. The silhouette arrives in \"Black,\" \"British Tan,\" and an exclusive \"Green\" colorway.The Carhartt WIP x Nike collection pre-launches via early access on November 12, 2026, at select Carhartt WIP stores, online, and the Carhartt WIP App, followed by a global release on November 20 via Nike SNKRS and select retail partners. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a24c8507ceb23edf",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Best Car Builds We Saw This Year at SEMA 2026",
+      "url": "https://hypebeast.com/2026/11/best-car-builds-sema-2026",
+      "publishedAt": "2026-11-06T14:30:29.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "The Best Car Builds We Saw This Year at SEMA 2026 This year's Specialty Equipment Market Association (SEMA) show is going on right now, and we were once again witness to some really awesome car builds.For this year's SEMA show, we were presented with a conundrum – how do we cover a show that has consistently showcased some of the most incredible cars in the United States? We've been going to the Las Vegas tradeshow for five years now and each time we attempt at eyeing specific trends. This year however, while a few patterns were noticed, we went with our gut and captured literally anything that stopped us in our tracks – subjectively objective.We're more than familiar with the exotic stuff, but seeing exotics torn apart and rebuilt into widebody monsters transcends the hub bub of restomods and RWB. One of our highlight spots was a Ferrari Testarossa 6x6 – aptly nicknamed the Ferrari F6 – by Gas Monkey Garage that couldn't have been more of a spectacle if it had just another set of wheels attached. Our friend Greg Park also showed up with a widebody converted Bugatti EB110 courtesy of designer Jon Sibal, alongside a McLaren 750S wearing a custom-fabricated Mercedes-Benz CLK GTR tuxedo created by S Klub LA.A plethora of Pocketbunny GTR builds made their US debut across the show, giving kei cars with decent power – SR20, Mazda rotary – the spot light they deserve. OEMs also took the opportunity to show off their special projects, like Toyota's family of tank-tracked pickups and Nissan's tuner-friendly Sentra Spec V concept car.Mike Spagnola – CEO of SEMA – confirmed with us just how substantial SEMA continues to be – the automotive aftermarket accounts for $383 billion USD in total annual economic impact and over 1.25 million jobs across America. Community was a byword during our press trip this year, and it shows with its estimated 160,000 tradeshow attendance and growing sectors of motorcycles, powersports, lowriders and more.SEMA took place between November 3-6 – with the last day being public – but moves on in the form of PRI (Performance Racing Industry, its subsidiary show) from December 10-12 in Las Vegas, Nevada. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a1ebd6cf0e7cef95",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Hendrikx Brings Italian Artisanship and 1940s Heritage to Modern Golf Apparel",
+      "url": "https://hypebeast.com/2026/11/hendrikx-debut-golf-apparel-collection-release-info",
+      "publishedAt": "2026-11-06T11:00:01.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Hendrikx Brings Italian Artisanship and 1940s Heritage to Modern Golf Apparel Summary European golf apparel label Hendrikx has launched its debut collection featuring an Italian-made half-zip and poloEach garment is produced end to end in family-run Italian workshops using extra-fine merino wool and ELS Giza cottonBoth machine-washable pieces launch in two colorways with prices ranging from €260 to €390 EUR European golf apparel label Hendrikx has officially debuted its inaugural collection, introducing the Italian-crafted Merino Wool Half-Zip and Cotton Piqué Polo. Founded in 2025 by Jan Hendrikx alongside his partner Karolina, the brand draws upon a family heritage immersed in golf since the 1940s, setting out to infuse the sport with authentic European craftsmanship and timeless, fashion-first design intended for everyday life beyond the green.Following months of extensive textile sourcing and sampling, the founders partnered with a select group of family-run workshops across Italy committed to premium natural fibers. Emphasizing complete production transparency, every garment is manufactured end to end in Italy, extending down to the localized sourcing of the labels and hangtags. Shot on location at Château d’Augerville, a historic castle located south of Paris, the inaugural campaign highlights an ethos centered on warmth, openness, and uncompromising construction across two debut silhouettes presented in two colorways each.The half-zip sweater is spun from 19.5-micron extra-fine merino wool, featuring a custom eco-leather zip puller and the label's submark embroidered on the left hip. The short-sleeve polo is cut from 178 gsm Italian cotton piqué, finished with structured collars and cuffs knitted from extra-long staple (ELS) Giza cotton. Elevated detailing on the polo includes subtle body-colored submark embroidery and custom six-hole corozo (tagua nut) buttons, individually sewn on by hand with thread forming a distinctive sideways 'H'. Both garments are crafted from 100% natural fibers and are fully machine washable. View this post on InstagramA post shared by Hendrikx (@hendrikxgolf) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "b40cab83e9cc617b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nintendo Switch 2 Sales Drop Nearly 40% After a Price Hike",
+      "url": "https://hypebeast.com/2026/11/nintendo-switch-2-sales-drop-following-hardware-price-hike",
+      "publishedAt": "2026-11-06T10:30:40.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Nintendo Switch 2 Sales Drop Nearly 40% After a Price Hike Summary Nintendo experienced a 37.4 percent year-over-year decline in Switch 2 hardware sales during the first two quarters of its fiscal year following a price hikeDespite the drop in console adoption, operating profits surged 49.1 percent to $1.3 billion due to heavy software and multimedia momentumThe brand maintained its projection of 16.5 million hardware units for the current fiscal year, comfortably offsetting the launch-window cool-off The post-launch honeymoon phase is officially cooling down for Nintendo. Over the first two quarters of its fiscal year, ending on September 30, sales of the Switch 2 fell by 37.4 percent compared with the exact same period last year. During this six-month stretch, the Japanese gaming giant moved 6.49 million units of the next-generation console. Breaking down that shifting momentum, Nintendo shipped 3.82 million units in the first quarter before slowing to 2.67 million units in the second quarter. The sharp hardware decline stands in contrast to the 10.36 million consoles sold during the same six-month window in the previous fiscal year, a surge driven by initial demand after the hardware originally launched on June 5, 2025.A major catalyst for this hardware dip arrived in early May, when Nintendo raised the price of the Switch 2 by $50 USD, bringing the retail cost up to $500 USD in the US. The brand attributed the premium to escalating memory costs alongside complex US tariffs. Nintendo noted that tariffs related to refunds were primarily borne directly by the company, rather than being passed on to consumers through product prices. The resulting drop in hardware unit sales took a toll on revenue streams, with Nintendo reporting a 12.1 percent decrease in overall net sales for the six months ended September 30, 2026. This financial downturn was primarily driven by reduced hardware output, which brought down the company's dedicated video game platform segment by 15.3 percent to $5.7 billion USD.Despite the drop in console adoption, the financial architecture behind the brand proved resilient. In contrast to the hardware decline, Nintendo saw its operating profit surge by 49.1 percent, climbing to ¥216.5 billion JPY, or approximately $1.3 billion USD. Overall net profit also rose 11 percent from a year earlier. This bottom-line expansion was supported by a strategic first-quarter US tariff refund and heavy cultural crossover success. Blockbuster software sal"
+    },
+    {
+      "id": "af82fb584532893f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Kaptain Sunshine",
+      "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-kaptain-sunshine-2",
+      "publishedAt": "2026-11-06T09:56:20.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "New Arrivals From HBX: Kaptain Sunshine Brand Information: Founded in Tokyo in 2013 by designer Shinsuke Kojima, Kaptain Sunshine reworks vintage Americana and military archives into a smart-casual wardrobe, built from Japan's finest mills, from Okayama selvedge denim to Kamakura leather. Heritage references, modern proportions, made to be worn hard.Price Range: $305.00 USD - $1,150.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "dde5e01976423906",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Sony Reports a 44% Jump in Quarterly Net Profit Driven by 'Spider-Man: Brand New Day' and PlayStation",
+      "url": "https://hypebeast.com/2026/11/sony-reports-44-q2-profit-rise-behind-spider-man-box-office-surge",
+      "publishedAt": "2026-11-06T09:30:34.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Sony Reports a 44% Jump in Quarterly Net Profit Driven by 'Spider-Man: Brand New Day' and PlayStation Summary Sony reported a 44 percent net profit increase in Q2 2026, reaching $2.84 billionSpider-Man: Brand New Day drove a massive 527 percent jump in Sony Pictures earningsPlayStation software sales climbed despite hardware dips and an organized player blackout On November 5, Sony published its Q2 earnings materials for the 2026 fiscal year, revealing a massive financial surge driven by its entertainment and gaming divisions. The conglomerate reported net profits of ¥449.60 billion JPY, or approximately $2.84 billion USD, for the three months ending in September. Those numbers represented a steep 44 percent increase compared to the 311.4 billion yen, or roughly $1.96 billion, reported during the same period in 2025. This profit spike was largely fueled by its PlayStation business and the massive theatrical dominance of Spider-Man: Brand New Day.The cinematic return of the web-slinger completely reshaped the balance sheet for the film wing of the company. Released in July, Spider-Man: Brand New Day obliterated the global box office, taking in $2.52 billion during its theatrical run. That massive haul officially cemented the project as the third-highest grossing movie in history. Consequently, Sony Pictures Entertainment posted earnings of $581 million for the three months ended September. The Pictures division’s earnings marked a 527 percent jump from the $93 million reported for the same period in 2025.Over in the interactive division, the financial reality presented a stark split between hardware adoption and software consumption. Sales of PlayStation 5 consoles fell to 2.6 million units during the second quarter. By comparison, Sony sold 4 million PlayStation 5 units during Q2 2025. However, overall PlayStation game sales increased across both digital downloads and physical discs. The high-profile, Sony-exclusive game Marvel’s Wolverine generated significant commercial traction, selling 2.4 million units worldwide against a reported development budget of $300 million.That upward trajectory in software sales carries profound implications for the brand, as the overall growth occurred despite a week-long player blackout organized in August. The widespread protest was explicitly formed to push back against Sony's overarching plans to phase out physical game discs entirely. Continued software growth through active consumer friction suggests that the broader "
+    },
+    {
+      "id": "553ced2ceb534521",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "James Wan and Jason Blum Unveil Merged Production Banner Blumhouse Atomic",
+      "url": "https://hypebeast.com/2026/11/james-wan-jason-blum-merged-production-banner-blumhouse-atomic",
+      "publishedAt": "2026-11-06T09:29:18.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "James Wan and Jason Blum Unveil Merged Production Banner Blumhouse Atomic Summary James Wan and Jason Blum have officially unveiled Blumhouse Atomic as the new umbrella title for their merged production companiesBoth Blumhouse and Atomic Monster will maintain distinct production labels while developing film and television projectsThe announcement follows a combined $2.5 billion USD global box office run and precedes an extensive 2027 horror slate Horror titans Jason Blum and James Wan have officially introduced Blumhouse Atomic, the new umbrella banner uniting their merged production companies Blumhouse and Atomic Monster. The joint corporate identity formalizes the creative alliance between the two genre powerhouses while allowing both labels to continue operating as distinct production entities.“When we merged our companies, we believed the whole would be greater than the sum of its parts and that is exactly what has happened,” stated Jason Blum. “We have the output of a studio with the creative freedom and financial discipline of an independent company, and more opportunities than ever to take these stories beyond the theater and into television, games and live experiences.” Since combining operations in 2024, the collaborative banners have grossed over $2.5 billion globally against production budgets under $330 million, bolstered in 2026 by Curry Barker’s Obsession and Kane Parsons’ Backrooms.“The future of horror comes from new voices, and Blumhouse Atomic gives us more ways to find them and support them for the long haul,” added James Wan. To support this micro-budget framework, the company appointed Sam Zimmerman as senior vice president of development and acquisitions to oversee genre features budgeted under $5 million, alongside a first-look agreement with Divide/Conquer ahead of a 2027 theatrical slate featuring The Exorcist: Martyrs and Blair Witch. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "6767b60673270f0a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Secret Deals Expose HYBE and ADOR's Firm Grip on K-Pop Sensation NewJeans",
+      "url": "https://hypebeast.com/2026/11/secret-deals-expose-hybe-ado-firm-grip-on-k-pop-sensation-newjeans-news",
+      "publishedAt": "2026-11-06T09:00:43.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Secret Deals Expose HYBE and ADOR's Firm Grip on K-Pop Sensation NewJeans Summary An investigation by The New York Times reveals restrictive confidential contracts signed by NewJeans under ADOR and HYBEThe agreements omitted standard government child protections while imposing severe behavioral conduct clauses and heavy exit penaltiesProvisions grant the label perpetual rights to the members' likenesses and AI-generated voice clones beyond the contract term An investigative report into confidential agreements signed by record-breaking K-pop group NewJeans has revealed the extraordinary level of institutional control exerted by label ADOR and parent conglomerate HYBE. The New York Times obtained contracts—signed when members were between ages 14 and 17—which exposed how standard protections were stripped away beneath the surface of the group’s global commercial rise.According to the documents, the contracts removed key safeguards established in the South Korean government’s standard entertainment template, including guarantees for basic human rights, mental and physical health, education, and limits on excessive working hours. Instead, the agreements introduced strict behavioral mandates barring an “insincere attitude,” “neglect of self-management,” “inappropriate romantic relationships,” and making statements that could harm the company’s reputation. “This contract is unusually aggressive,” stated Seoul-based entertainment lawyer Jong-eon Roh. “It restricts the artists’ freedom to a degree rarely seen, even in recent major-label contracts.” U.S. entertainment attorney Dina LaPolt emphasized the stark industry contrast, noting, “In K-pop, you either do what they say, dress as they say, do your hair as they say, or you’re going to get replaced.”The contracts also enforced aggressive financial mechanisms, requiring members to repay trainee-era cosmetic procedures and establishing calculated exit penalties that only factor in profitable months. Following the group's attempted exit—which member Hanni Pham framed by stating, “Staying at the company will only prolong our psychological pain”—ADOR terminated member Danielle Marsh in December 2025 and filed a roughly $22 million USD lawsuit over unauthorized solo appearances. Marsh’s attorney, Jung Jong-chae, condemned the action to the Fair Trade Commission as an industry-wide warning: “If you try to escape Hybe’s control, this is the price you will pay.” Additionally, the terms grant the agency the right to indefi"
+    },
+    {
+      "id": "b424d2ad4343f69d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Paul Bettany Joins Steven Yeun in Netflix Supernatural Drama Series 'Pagans'",
+      "url": "https://hypebeast.com/2026/11/paul-bettany-joins-steven-yeun-netflix-supernatural-drama-series-pagans-news",
+      "publishedAt": "2026-11-06T09:00:37.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Paul Bettany Joins Steven Yeun in Netflix Supernatural Drama Series 'Pagans' Summary Paul Bettany has joined Steven Yeun in the upcoming Netflix supernatural drama series PagansCreated and showrun by Joshua Zetumer the series explores a fracturing family confronting sinister circumstancesBettany is set to portray a charismatic stranger named Mag alongside an ensemble including Marin Ireland and Logan Kim Streaming giant Netflix has officially cast Paul Bettany to star opposite Steven Yeun in the upcoming supernatural drama series Pagans. The high-profile project is created and executive produced by Say Nothing creator Joshua Zetumer, exploring the unsettling darkness and emotional tension buried within contemporary family life.The narrative follows Gus, portrayed by Yeun, who is left as the sole caretaker of his two children following the sudden and tragic loss of his wife. While his son Nate, played by Logan Kim, navigates a conventional upbringing, his daughter Alice, played by Sabine Grace, begins displaying deeply unsettling behavior. What initially appears as a strained relationship between father and daughter gradually transforms into something far more sinister. Bettany joins the cast as Mag, an enigmatic and charismatic stranger, starring alongside Marin Ireland as single mother Janelle and Intae Kim as Gus’ younger brother Casey.Zetumer serves as lead showrunner and executive producer alongside Drew Goddard and Sarah Esberg for Goddard Textiles, Jonathan van Tulleken, Erica Kay, and Celadon Pictures’ Yeun and Christina Oh. The high-profile casting continues Bettany’s active television run following his portrayal of the synthezoid Vision in Marvel's Disney+ series VisionQuest and Antonio Salieri in Sky Originals’ Amadeus. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "60901432e2a6d90d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Future Announces Star-Studded Single \"YA HIT\" Featuring Drake, Travis Scott, and Loe Shimmy",
+      "url": "https://hypebeast.com/2026/11/future-announces-star-studded-single-ya-hit-featuring-drake-travis-scott-loe-shimmy",
+      "publishedAt": "2026-11-06T08:50:27.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Future Announces Star-Studded Single \"YA HIT\" Featuring Drake, Travis Scott, and Loe Shimmy Summary Future has officially announced his star-studded new single \"YA HIT\" featuring Drake Travis Scott and Loe ShimmyThe record was originally previewed at Drake's 40th birthday celebration in New York City before Drake joined the songThe artists shared the official single artwork on Instagram highlighting a major four-way collaboration Atlanta rap titan Future has officially announced his star-studded new single “YA HIT,” uniting hip-hop heavyweights Drake and Travis Scott alongside rising Florida underground standout Loe Shimmy. Unveiled across Instagram with the debut of the official single artwork, the high-profile announcement marks an explosive reunion of marquee hitmakers alongside one of rap's fastest-rising newcomers, setting off widespread anticipation across the contemporary music landscape.The track's momentum traces back to an unreleased preview that first played during Drake’s 40th birthday celebration in New York City. During its initial private playback at the event, the song was originally arranged as a three-way collaboration featuring only Loe Shimmy, Future, and Travis Scott. Drake was reportedly so impressed with the cut upon hearing it in the room that he jumped on the track shortly afterward, delivering his own contribution to finalize the record into an official four-way anthem.The collective rollout on social media, which saw the artists sharing the official cover art to Instagram, has generated massive excitement among fans celebrating the return of genuine, blockbuster hip-hop collaborations. The single also connects directly to Sexyy Red through recent collaborative events, further linking Florida's bubbling underground circuit with the mainstream arena as the heavyweights prepare to unleash the record to listeners worldwide.Stay tuned for the release. View this post on InstagramA post shared by Future PLUTO Hendrix (@future) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d099ff96426c883e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Electronic Arts Launches 25 Classic PC Games on Steam for the First Time",
+      "url": "https://hypebeast.com/2026/11/ea-releases-25-classic-pc-games-on-steam",
+      "publishedAt": "2026-11-06T08:45:55.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Electronic Arts Launches 25 Classic PC Games on Steam for the First Time Summary Electronic Arts dropped 25 classic PC titles on Steam, GOG and the EA AppThe massive release features seven fully restored Anniversary Editions for Road Rash and Wing CommanderThe preservation effort utilized a newly discovered vault of physical media to rescue and reedit original master sequences The video game industry faces a growing cultural crisis as classic titles increasingly risk being lost to time, trapped behind incompatible modern hardware, deprecating physical media and forgotten storage archives. Stepping up to combat this digital decay, Electronic Arts launched 25 classic PC games on Steam for the first time. The drop, which is also available on GOG and the EA App, serves as a crucial preservation milestone that rescues foundational gaming history from technological obsolescence.The sprawling release was sparked by an internal archaeological find. Jim Vessella, a Senior Producer with the EA Partners team, was part of the group that initiated the dedicated game preservation effort at Electronic Arts. That initiative struck gold when the team discovered a physical media vault containing thousands of Betacam, VHS and D1 tapes alongside other assets. Through a meticulous digitization process, EA recovered master Full-Motion Video (FMV) sequences. Using these master tapes, the team reedited the archival footage to restore more than 1,500 scenes in higher resolution.The crown jewels of this archival drop are seven newly restored Anniversary Editions encompassing the motorcycle racer Road Rash and six Wing Commander titles, all priced at $9.99 USD each. These specialized releases maintain the original look and feel of the games while packing in essential quality-of-life updates to improve overall performance and ensure support for modern systems and controls. The 35th Anniversary Editions bundle Wing Commander and Wing Commander II: Vengeance of the Kilrathi. The 30th Anniversary Editions bring back Road Rash, Wing Commander III: Heart of the Tiger, Wing Commander IV: The Price of Freedom, Wing Commander Prophecy and Privateer 2: The Darkening. In a nod to the dedicated fanbases that kept these universes alive, the updated Wing Commander titles officially incorporate community-made mods.Beyond the flagship restorations, the remainder of the classic games cost $4.99 USF each. The extensive lineup delivers an 11-game dose of the Ultima franchise, spanning Ultima I through"
+    },
+    {
+      "id": "d7458ecd5a14eaae",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Art Collaboration Kyoto Spotlights Global Gallery Partnerships",
+      "url": "https://hypebeast.com/2026/11/art-collaboration-kyoto-announcement-exhibitors",
+      "publishedAt": "2026-11-06T08:33:02.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Art Collaboration Kyoto Spotlights Global Gallery Partnerships Summary The 2026 edition brings together 63 galleries from 18 countries and regions, spotlighting collaborations between Japanese and international galleries.Beyond the fair, visitors can explore experimental installations, artist talks, and exhibitions across Kyoto’s historic temples and cultural landmarks. Art Collaboration Kyoto (ACK) returns for its sixth edition from November 7 to 9, bringing together 63 galleries from 18 countries and regions at the Kyoto International Conference Center. With an expanded international presence and a newly established leadership structure, the 2026 fair continues its mission of fostering cross-cultural exchange between Japan's contemporary art scene and the wider global art community.At the heart of ACK are two signature sections: Gallery Collaborations and Kyoto Meetings. The former pairs Japanese galleries with international counterparts in shared exhibition spaces, encouraging dialogue across artistic practices and cultural perspectives. This year's participants include Tokyo's NANZUKA, which joins forces with New York's Jeffrey Deitch, TARO NASU with Hauser & Wirth, and Tokyo Gallery + BTAP with Seoul's Gallery Hyundai. Meanwhile, Kyoto Meetings spotlights artists and works connected to the historic city, with presentations from galleries including Perrotin, Art Court Gallery, and Kiang Malingue.Beyond the gallery presentations, ACK introduces ACK Intersections, a curated exhibition led by Leonhard Bartolomeus of the Yamaguchi Center for Arts and Media (YCAM). Titled Out of Bounds, the program explores the invisible boundaries that shape our relationships with art, architecture, and one another. Featuring works by Ernesto Neto, Efrain Almeida, Piotr Kowalski, and others, the exhibition activates the Kyoto International Conference Center's distinctive architectural spaces. Additional programming includes installations by Aiko Miyanaga, Eriko Mukai, and Ryunosuke Okazaki, alongside a series of conversations featuring influential figures such as Arthur Jafa, Kazuyo Sejima, and Tomio Koyama.The fair's cultural footprint also extends throughout Kyoto through its What's On initiative, which highlights exhibitions staged across the city's galleries, temples, and historic landmarks. Among the presentations are exhibitions featuring Andrew Cranston at Ryosokuin Temple, Issy Wood and Evelyn Taocheng Wang at Daitokuji Temple's Korin-in and Yuka Kashiwabara at Kom"
+    },
+    {
+      "id": "ddd354025ec9765c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Christopher Nolan's 'The Odyssey' Returns to IMAX 70mm Theaters This December",
+      "url": "https://hypebeast.com/2026/11/christopher-nolan-the-odyssey-returns-to-imax-70mm-theaters-december-2026-holiday-release-info",
+      "publishedAt": "2026-11-06T08:14:20.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Christopher Nolan's 'The Odyssey' Returns to IMAX 70mm Theaters This December Summary Universal Pictures will re-release Christopher Nolan's The Odyssey in more than 1000 theaters across the United States and CanadaThe epic was the first film shot entirely on Imax cameras and grossed over 1.8 billion USD worldwideThe film returns to all theatrical formats including Imax 70mm beginning December 11 Film studio Universal Pictures has announced that Christopher Nolan's historical epic The Odyssey will return to theaters nationwide for an expansive theatrical re-release. Starting December 11, the studio will bring the blockbuster back to more than 1,000 screens across the United States and Canada in all formats, highlighted by screenings in IMAX and the coveted IMAX 70mm format.Originally released on July 17, the three-hour historical drama grossed $626 million USD domestically and $1.8 billion USD worldwide, solidifying its place as both Universal's and Nolan's highest-grossing film to date and the second-highest grossing cinematic release of 2026 behind Spider-Man: Brand New Day. Groundbreaking in its technical execution, the feature stands as the first movie filmed entirely with Imax cameras, generating $550 million USD across IMAX screens globally and setting records for both the highest-grossing IMAX title of all time and the biggest domestic opening in IMAX 70mm history.Based on the ancient Greek epic poem, the narrative chronicles King Odysseus of Ithaca's treacherous journey home following victory in the Trojan War. Matt Damon leads the ensemble as Odysseus alongside Tom Holland, Anne Hathaway, Robert Pattinson, Zendaya, Lupita Nyong’o, Charlize Theron, John Leguizamo, Elliot Page, and Jon Bernthal, positioning the film as a prime frontrunner ahead of awards season.The Odyssey returns to over 1,000 theaters across the U.S. and Canada in all formats, including IMAX 70mm, starting December 11. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0b7392e554e0d66a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Instagram’s Edits App Is Now Available on Mac Desktop for Free",
+      "url": "https://hypebeast.com/2026/11/instagram-launches-free-edits-video-app-for-mac-desktop",
+      "publishedAt": "2026-11-06T08:03:37.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "Instagram’s Edits App Is Now Available on Mac Desktop for Free Summary Instagram is expanding its Edits application to Mac desktop for freeThe software features 4K watermark-free exports and a multi-track timelineBuilt-in publishing eliminates the friction of transferring files to phones for native tagging Instagram is officially bringing its short-form video editing app, Edits, to the Mac desktop. Originally launched last year, the platform has already amassed a footprint of more than 50 million creators currently running the mobile version. Now, the company is scaling up the experience, dropping the desktop application entirely for free. Helmed by Brett Westervelt, who serves as the head of Edits, the move signals a shift in how the platform enables creators to build and finalize visual content. By stepping off the phone and onto the monitor, the software delivers a suite designed for intensive, precision-based production.The Edits desktop application comes fully loaded with a comprehensive multi-track timeline, alongside audio waveforms designed for securing precise cuts. Creators can dial in visuals using keyframes for transitions, while seamlessly alternating between horizontal and vertical video formats. The workspace itself is highly adaptable: users can import custom font files and either build customized keyboard shortcuts from scratch or import mapping from other editing software. To build out the timeline, the desktop version supplies an expansive library of licensed and royalty-free music, stacked alongside diverse sound and video effects. It also integrates a dedicated tool for generating automatic captions across multiple languages, letting producers finalize global-ready clips and export finished videos watermark-free in 4K resolution.Bridging the gap between the studio and the street, the interface keeps ecosystems connected. Audio and text styles saved on the mobile app sync automatically to the desktop application. Instagram plans to push weekly updates to continuously improve the desktop editor. Currently, developers are building functionality that will allow creators to edit a single project back and forth across desktop and mobile platforms, ensuring the creative process continues uninterrupted when moving away from a keyboard.The expansion integrates direct platform publishing into the desktop editor. Producers can publish directly to Instagram using native features like tagging and location drops. Direct publishing eliminates the req"
+    },
+    {
+      "id": "99bdd0ec35ae0c74",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Headphones That Came With the First Sony Walkman Are Back, Now With USB-C",
+      "url": "https://hypebeast.com/2026/11/sony-mdr-3r-usb-c-wired-headphones-silver-retro-release-info",
+      "publishedAt": "2026-11-06T08:02:38.000Z",
+      "collectedAt": "2026-11-06T19:07:44.489Z",
+      "text": "The Headphones That Came With the First Sony Walkman Are Back, Now With USB-C Summary Sony’s MDR-3R is a modern remake of the 1979 MDR-3, the headphones that debuted alongside the very first WalkmanThe silver on-ear set reproduces the original’s headband bend, perforated sound holes and “Dynamic Stereo Headphones” marking down to the vintage-style packagingA plug-in USB-C connection, in-line remote and built-in mic replace batteries and Bluetooth pairing entirely Sony is reissuing one of the most important headphones in its catalog with the MDR-3R, a reworked version of the MDR-3 that shipped with the original Walkman in 1979. The silver pair keeps the lightweight, open-air formula that made portable listening possible in the first place, then rewires it for modern phones, tablets and laptops through a direct USB-C plug.To understand why the MDR-3R matters, you have to go back to the cassette era. Sony’s first Walkman, the TPS-L2, arrived with the MDR-3 as its companion, and together the two turned music into something people could carry through the city rather than leave at home on a stereo. The original Walkman launched in Japan in July 1979 and famously featured two headphone jacks so a pair of listeners could share a tape. At a time when most headphones were heavy, studio-style cans, the MDR-3’s featherweight build helped make the whole concept wearable.Sony has treated the reissue with collector-level care. The SONY logo and “Dynamic Stereo Headphones” lettering are precision-finished to match the 1979 model, and the distinctive headband curve and perforated sound holes return unchanged. The rolled side arms from the original are back as well, though here they serve a practical purpose, fine-tuning how the earpads sit against the ear for a more comfortable fit. Even the box and instruction manual adopt the vintage graphic style, and the individual packaging is plastic-free.The earpads are the most playful nod to the past. Both the blue and orange cushions associated with the classic MDR-3 come in the box, and swapping between them takes seconds, so the same pair can shift from muted to loud depending on the outfit. Sony has also kept the frame remarkably light, with the headphones weighing roughly 38g without the cable, making the MDR-3R the brand’s lightest over-head model. The understated silver build works just as well slung around the neck as it does on the ears.Inside, 23mm drivers and an open-air structure carry over the spirit of the original’s"
     }
   ]
 }

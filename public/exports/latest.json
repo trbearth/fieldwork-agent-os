@@ -1,26 +1,26 @@
 {
   "run": {
-    "id": "2026-11-05",
+    "id": "2026-11-06",
     "mode": "live",
-    "displayDate": "NOV 05, 2026, 02:44 PM EST",
-    "generatedAt": "2026-11-05T19:44:35.446Z",
-    "itemsCollected": 55,
+    "displayDate": "NOV 06, 2026, 02:07 PM EST",
+    "generatedAt": "2026-11-06T19:07:45.740Z",
+    "itemsCollected": 57,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 28
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 10
+        "count": 9
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 18
+        "count": 19
       }
     ]
   },
@@ -76,13 +76,13 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 25,
-      "confidence": 23,
+      "score": 26,
+      "confidence": 22,
       "youthRelevance": 46,
       "direction": "down",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 4 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -75% seven-day velocity",
+      "whyNow": "1 mention this week versus 3 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -67% seven-day velocity",
       "citations": [
         {
           "title": "lululemon Launches Its First GORE-TEX Collection",
@@ -95,14 +95,14 @@
   ],
   "cooling": {
     "name": "Quiet performance",
-    "reason": "1 mention this week versus 4 in the prior seven-day window."
+    "reason": "1 mention this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1105",
+    "code": "AUTO 1106",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [

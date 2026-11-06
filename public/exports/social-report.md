@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-05
+# Fieldwork Public Pulse — 2026-11-06
 
 ## 1. Quiet performance
 
@@ -17,10 +17,10 @@
 
 12 public posts · 1 network · 7-day comparison
 
+- [I layered an ivory cricket sweater and a white Oxford shirt under a Black Watch blazer. The green an](https://mastodon.social/@seoul_trad/117567044435717126) — Mastodon
 - [Navy knitwear and beige trousers. A little white T-shirt shows through the V-neck. Colour and a room](https://mastodon.social/@seoul_trad/117561280847914710) — Mastodon
 - [Navy, green and brown. A neat blazer and tie, paired with roomy fatigue trousers. Getting dressed is](https://mastodon.social/@seoul_trad/117555834878340163) — Mastodon
 - [Brown and blue. Two colours that work so well in autumn. Just a jacket over a denim shirt and jeans,](https://mastodon.social/@seoul_trad/117550036806586535) — Mastodon
-- [A navy suit, a white button-down and a black tie. Nothing extra. The pleasure of getting dressed isn](https://mastodon.social/@seoul_trad/117544477048302388) — Mastodon
 
 ## 3. Decorated basics
 
