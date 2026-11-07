@@ -3790,196 +3790,51 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-11-07",
+      "mode": "live",
+      "displayDate": "NOV 07, 2026, 12:39 PM EST",
+      "generatedAt": "2026-11-07T17:39:07.386Z",
+      "itemsCollected": 31,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 19
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 57,
+          "stage": "emerging"
+        },
+        {
+          "id": "narrow-technical-footwear",
+          "score": 43,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 26,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "554a4e53066db1e5",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "From the Archives: In 1999, Silicon Valley’s Newly Minted Millionaires Were Brushing Up on Their Manners",
-      "url": "https://www.vogue.com/article/from-the-archives-the-new-rich-ruling-class",
-      "publishedAt": "2026-08-09T12:00:00.000Z",
-      "collectedAt": "2026-08-09T13:00:33.906Z",
-      "text": "From the Archives: In 1999, Silicon Valley’s Newly Minted Millionaires Were Brushing Up on Their Manners Long before “Big Tech” entered the lexicon, Vogue uncovered Silicon Valley’s surprising etiquette boom—from table manners to handshakes and everything in between."
-    },
-    {
-      "id": "3798d83b8a2e98d0",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Are Oscar Contenders Avoiding the Venice Film Festival?",
-      "url": "https://www.vogue.com/article/are-oscar-contenders-avoiding-the-venice-film-festival",
-      "publishedAt": "2026-08-09T10:00:00.000Z",
-      "collectedAt": "2026-08-09T13:00:33.907Z",
-      "text": "Are Oscar Contenders Avoiding the Venice Film Festival? A string of buzzy releases that were rumored to be heading to the Lido now won’t be. Here’s why."
-    },
-    {
-      "id": "6bbcd05075d512d8",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "What to Wear to the U.S. Open 2025: 9 Winning Outfit Ideas",
-      "url": "https://www.vogue.com/article/what-to-wear-to-the-us-open",
-      "publishedAt": "2026-08-09T10:00:00.000Z",
-      "collectedAt": "2026-08-09T13:00:33.907Z",
-      "text": "What to Wear to the U.S. Open 2025: 9 Winning Outfit Ideas Shop Vogue’s guide to the best tennis sweaters, dresses, sneakers, and accessories to ace your U.S. Open style."
-    },
-    {
-      "id": "2e2b130aab0a6da6",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Katie Holmes’s Best Hamptons Accessories? An It-Bag and an Artist Boyfriend",
-      "url": "https://www.vogue.com/article/katie-holmes-guild-hall-gala-jason-bard-yarmosky",
-      "publishedAt": "2026-08-09T07:31:10.000Z",
-      "collectedAt": "2026-08-09T13:00:33.907Z",
-      "text": "Katie Holmes’s Best Hamptons Accessories? An It-Bag and an Artist Boyfriend Stepping out for Guild Hall’s Summer Gala in East Hampton, Katie Holmes toted a Tory Burch on one arm and Jason Bard Yarmosky on the other."
-    },
-    {
-      "id": "4c9b591034304af1",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Crocs' Trail-Ready Clog Is Camp in Every Sense of the Word",
-      "url": "https://www.highsnobiety.com/p/helinox-crocs-clog/",
-      "publishedAt": "2026-08-09T11:50:00.000Z",
-      "collectedAt": "2026-08-09T13:00:35.165Z",
-      "text": "Crocs' Trail-Ready Clog Is Camp in Every Sense of the Word Helinox turned a classic Crocs' clog into a certified camp-ready stunner. S'mores not included."
-    },
-    {
-      "id": "4d317224632fa6c2",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "These adidas Pokémon Sneakers Aren't Just Good — They're Spezial",
-      "url": "https://www.highsnobiety.com/p/pokemon-adidas-handball-spezial-mewtwo/",
-      "publishedAt": "2026-08-08T20:56:15.000Z",
-      "collectedAt": "2026-08-09T13:00:35.165Z",
-      "text": "These adidas Pokémon Sneakers Aren't Just Good — They're Spezial The adidas x Pokémon Handball Spezial lands as pretty purple-pink sneaker inspired by Mewtwo. Poké ball also included."
-    },
-    {
-      "id": "1739ffed1c598b98",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike’s Chocolate Air Force 1 Skate Shoe Is a Sweet AF Crossover",
-      "url": "https://www.highsnobiety.com/p/nike-sb-air-force-1-light-chocolate/",
-      "publishedAt": "2026-08-08T21:08:55.000Z",
-      "collectedAt": "2026-08-09T13:00:35.165Z",
-      "text": "Nike’s Chocolate Air Force 1 Skate Shoe Is a Sweet AF Crossover Nike SB cooks up another skate-ready Air Force 1 Low sneaker, this time in a sweet \"Light Chocolate\" colorway. Here's everything on the newest release."
-    },
-    {
-      "id": "38ecc976dd42fea0",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike’s Techy Jelly Sneakers Is Dadcore Gone Delicious",
-      "url": "https://www.highsnobiety.com/p/nike-p-6000-pink-foam/",
-      "publishedAt": "2026-08-08T21:06:46.000Z",
-      "collectedAt": "2026-08-09T13:00:35.166Z",
-      "text": "Nike’s Techy Jelly Sneakers Is Dadcore Gone Delicious Nike releases a jelly-style P-6000 sneaker, making a true summer treat out of its classic dad shoe model."
-    },
-    {
-      "id": "11fa69dbf691bcef",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike Built a Genuinely Handsome Hiking Boot Out of Its Best Trail Runner",
-      "url": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-cream/",
-      "publishedAt": "2026-08-08T21:00:07.000Z",
-      "collectedAt": "2026-08-09T13:00:35.166Z",
-      "text": "Nike Built a Genuinely Handsome Hiking Boot Out of Its Best Trail Runner Nike's Vibram-soled ACG Zegama Hike sneaker continues its debut journey with the release of a clean \"Cream II\" colorway."
-    },
-    {
-      "id": "3abc0b4384aa746e",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "This Might Be Salehe Bembury’s Best PUMA Sneaker Yet (EXCLUSIVE)",
-      "url": "https://www.highsnobiety.com/p/salehe-bembury-puma-velum-nitro-2/",
-      "publishedAt": "2026-08-08T21:02:49.000Z",
-      "collectedAt": "2026-08-09T13:00:35.166Z",
-      "text": "This Might Be Salehe Bembury’s Best PUMA Sneaker Yet (EXCLUSIVE) We got a first look at Salehe Bembury's new PUMA Velum NITRO 2 sneaker in a pink colorway. Dare we say, this is his best PUMA shoe to date."
-    },
-    {
-      "id": "43dd7718553eedab",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Apple Could Unveil the Camera-Equipped AirPods at September's iPhone 18 Pro Event",
-      "url": "https://hypebeast.com/2026/8/apple-airpods-with-cameras-may-debut-next-month",
-      "publishedAt": "2026-08-09T03:17:18.000Z",
-      "collectedAt": "2026-08-09T13:00:36.593Z",
-      "text": "Apple Could Unveil the Camera-Equipped AirPods at September's iPhone 18 Pro Event Summary Tiny built-in cameras will serve as visual sensors for Siri to provide contextual information about objects and environmentsThe integration is expected to significantly enhance the VoiceOver and Magnifier accessibility tools for blind or low-vision individualsPrivacy measures will likely include a small onboard LED light that flashes whenever the image sensors are operating Apple might launch AirPods equipped with cameras during the upcoming iPhone 18 Pro unveiling next month. The rumored hardware aims to expand the wearable health and accessibility ecosystem of the tech giant. According to recent reports from Bloomberg, the device will integrate visual intelligence capabilities to let users query Siri about their immediate surroundings.The project recently surfaced in iOS 27 beta code under the internal codename B790. This discovery suggests development is much further along than a competing camera-equipped prototype slated for a 2027 release. Apple engineers designed these internal sensors exclusively for artificial intelligence processing rather than conventional photography or video recording. The earbuds will capture low-resolution data to assist with physical navigation and task-based visual inquiries.A key application for the new hardware lies in advancing accessibility software. Earlier this year, Apple previewed major artificial intelligence upgrades to VoiceOver and Magnifier. The Image Explorer feature currently allows individuals who are blind or have low vision to receive detailed descriptions of their environment through a smartphone camera viewfinder. Users can press a physical button to ask follow-up questions in natural language about specific objects in their vicinity. Shifting this capability directly to a wearable audio device creates a completely hands-free experience while eliminating the need to hold up a screen.To address privacy concerns associated with wearable cameras, the earbuds will reportedly feature a small LED light that flashes during operation. This hardware indicator prevents covert recording and signals to bystanders when the device is analyzing visual data. The approach aligns with broader industry standards for smart wearables while actively avoiding the negative reception associated with continuous background recording.The introduction of vision-focused hardware follows a clear trajectory for the audio product line. Apple debute"
-    },
-    {
-      "id": "da493547728d12fd",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Netflix Reportedly Scraps David Fincher's 'Squid Game' Spinoff",
-      "url": "https://hypebeast.com/2026/8/david-fincher-netflix-squid-game-american-adaptation-tv-series-cancelled-reports-rumors",
-      "publishedAt": "2026-08-09T03:11:38.000Z",
-      "collectedAt": "2026-08-09T13:00:36.593Z",
-      "text": "Netflix Reportedly Scraps David Fincher's 'Squid Game' Spinoff Summary Netflix has reportedly abandoned David Fincher's long-developing English-language 'Squid Game' spinoff, working-titled 'Heckler'The project had 'Utopia' creator Dennis Kelly attached to write and was set to film in the United Kingdom despite its American framingExecutive changes, Fincher's move to other projects, and a pivot toward country-specific spinoffs are cited as reasons David Fincher's long-gestating American Squid Game spinoff, developed under the working title Heckler, is supposedly no longer moving forward at Netflix. Per reporting from The Playlist, the streamer has stepped away from the English-language expansion after years of development, closing the book on what had been one of the franchise's most anticipated offshoots.For all the anticipation around it, Heckler carried a few details that ran counter to expectations. Though framed as an American continuation of the deadly games, the series was actually set to film in the United Kingdom rather than the US. Writing duties had gone to Dennis Kelly, the creator of Utopia, who had a prior connection to Fincher through an HBO adaptation of Utopia that was ultimately abandoned before it could get off the ground.The collapse reads as a gradual loss of momentum rather than a single clean break. Sources close to Fincher point to a run of factors that drained the project's forward motion, including multiple executive changes at Netflix and the director shifting his focus to other work, among them The Adventures of Cliff Booth.Underpinning those setbacks is a change in how Netflix wants to grow the property. Rather than build the next chapter around a single American series, the streamer is now oriented toward developing country-specific Squid Game projects tailored to individual international markets. That strategic turn effectively reframes Heckler as a casualty of a broader plan for the universe, not just a stalled production.Much of the spinoff's early buzz traced back to one moment in the finale. Cate Blanchett surfaced in the closing scene as an American recruiter in a Los Angeles setting, and viewers read the cameo as a tease for Fincher's project. Series creator Hwang Dong-hyuk consistently rejected any link between the two. According to The Playlist, there is no indication Blanchett was ever attached to Heckler, even though she had previously voiced strong openness to returning to the franchise. Click here to view full gal"
-    },
-    {
-      "id": "ada59d3b0284c0f6",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Barbour x JOURNAL STANDARD's Cropped \"Old Bedale\" Is Built Around Broken-In Wool",
-      "url": "https://hypebeast.com/2026/8/barbour-journal-standard-fall-winter-fw-2026-wool-cropped-old-bidele-release-info",
-      "publishedAt": "2026-08-09T02:55:13.000Z",
-      "collectedAt": "2026-08-09T13:00:36.594Z",
-      "text": "Barbour x JOURNAL STANDARD's Cropped \"Old Bedale\" Is Built Around Broken-In Wool Summary Barbour and Journal Standard have reworked the classic Old Bedale into a wool special order built around a soft, pre-washed hand feelThe silhouette keeps its signature flap pockets while dropping to a cleaner cropped lengthTwo colorways, black and brown, round out the Japanese retailer's exclusive take Barbour and JOURNAL STANDARD have teamed on a special-order Old Bedale that swaps the model's usual outdoor toughness for a wool build with a lived-in, ready-to-wear feel. Rather than lean on rugged utility, the exclusive centers its story on fabric and fit.The centerpiece here is the material. JOURNAL STANDARD selected a wool fabric that carries the warmth you expect from the fiber but reads as though it has already been worn and washed for years. The result is a soft, relaxed texture that avoids looking too crisp or formal, giving the jacket an easygoing presence straight off the rack.Construction leans on the flap-pocket detailing that defines the Old Bedale shape. Those classic elements stay intact, but the body has been reworked to a trimmed, cropped length. That shorter cut is the practical hook: it pairs cleanly with slim trousers and balances just as well against wide-leg or heavier, high-volume bottoms, positioning a heritage silhouette for current styling.Barbour's pedigree backs the collaboration. The label was founded in 1894 by John Barbour in South Shields, England, and has since earned three Royal Warrants, a rare mark of British royal endorsement. Journal Standard channels that legacy into a piece designed less for the field and more for daily rotation.Color rounds out the offering. The special order comes in a versatile black that slots into most wardrobes and a brown option chosen to bring out the character of the wool itself.The Barbour x JOURNAL STANDARD Wool Cropped Old Bedale is available for pre-order now. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "9249c2176f76d237",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Christopher Nolan's 'The Odyssey' Sails Past $1 Billion USD at the Global Box Office",
-      "url": "https://hypebeast.com/2026/8/christopher-nolan-the-odyssey-surpasses-1-billion-usd-global-box-office",
-      "publishedAt": "2026-08-09T03:02:46.000Z",
-      "collectedAt": "2026-08-09T13:00:36.594Z",
-      "text": "Christopher Nolan's 'The Odyssey' Sails Past $1 Billion USD at the Global Box Office Summary Christopher Nolan's 'The Odyssey' has crossed $1 billion USD at the worldwide box office in its third week of releaseThe milestone marks the director's first billion-dollar film since The Dark Knight Rises and only his second everThe run positions the Homer adaptation to soon overtake Nolan's all-time highest-grossing release Christopher Nolan's The Odyssey has sailed past $1 billion USD at the global box office, a milestone that reframes where the director's latest epic sits within one of the most closely watched filmographies in modern Hollywood. The take on Homer's poem, with Matt Damon as Odysseus, has now become the 65th film to reach the mark worldwide.The achievement lands as a career marker rather than just a strong opening. This is Nolan's first film since 2012's The Dark Knight Rises to clear $1 billion USD, making it only the second billion-dollar title of his career. That gap is telling. His 2023 awards juggernaut Oppenheimer came close but stalled at roughly $975 million USD, leaving the milestone just out of reach even at the height of the Barbenheimer phenomenon.The bigger prize is now within sight. The Odyssey is on track to become Nolan's highest-grossing release ever, overtaking the $1.085 billion USD earned by The Dark Knight Rises. For a director whose previous peaks were anchored by a globally established superhero, crossing that line with a nearly three-hour drama adapted from an ancient text underscores how far his commercial pull now extends beyond franchise material.The current split shows where the momentum is coming from. The Odyssey has drawn $429.7 million USD domestically and $570.3 million USD overseas for its billion-dollar total. The film also stands apart on content: it is only the third R-rated movie to cross $1 billion USD, following Joker and Deadpool & Wolverine, and the first R-rated title to do so without leaning on comic-book characters.Format has been central to the story. Nolan shot The Odyssey entirely with IMAX film cameras, a first for a feature, and demand for those premium showings has stayed unusually high.The milestone also feeds a broader banner year. Combined with Spider-Man: Brand New Day, the two films account for around $2.1 billion USD globally and are poised to pass the $2.4 billion USD that Barbie and Oppenheimer earned together during the 2023 Barbenheimer summer. The run has also helped push Universal past"
-    },
-    {
-      "id": "80ae82a2c4a4fd8b",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Nike Sends the Vomero Plus to the Pasture With Cow Print and Sail Pony-Hair Swooshes",
-      "url": "https://hypebeast.com/2026/8/nike-vomero-plus-cow-print-ir0035-100-official-images",
-      "publishedAt": "2026-08-09T02:54:39.000Z",
-      "collectedAt": "2026-08-09T13:00:36.594Z",
-      "text": "Nike Sends the Vomero Plus to the Pasture With Cow Print and Sail Pony-Hair Swooshes Name: Nike Vomero Plus “Cow Print”Colorway: Sail/Black-University Red-Light Orewood Brown-PhantomSKU: IR0035-100MSRP: $190 USDRelease Date: TBCNike has taken the Vomero Plus in an unexpected direction with a \"Cow Print\" colorway, dropping a barnyard-inspired graphic onto one of its hottest road-running models. The women's makeup runs the print across the upper while keeping the shoe's performance build largely unchanged.For all its offbeat styling, the colorway barely deviates from the standard Vomero Plus construction. The one real departure lands on the Swooshes, which are executed in Sail pony hair, a faux-textured finish that adds tactile contrast without dialing back the shoe's running credentials.The rest of the makeup builds around the theme. Black cow print blankets nearly the whole upper along with the tongue, giving the shoe its farm-fresh identity from heel to toe. Underneath, a Light Orewood Brown ZoomX midsole delivers the cushioning in a warm, muted tone, while University Red accents surface underfoot for a final jolt of color.The result is a performance runner dressed in a distinctly lifestyle-leaning graphic, a pairing that reads as unusual on paper but tracks with cow print's current momentum across footwear.The Nike Vomero Plus \"Cow Print\" has already begun surfacing at retailers, however a Nike release has not been confirmed. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "8a8e16cc6b71583c",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "LEGO Recreates the Ministry of Magic as a 3,491-Piece, Multi-Level ‘Harry Potter’ Collectors' Set",
-      "url": "https://hypebeast.com/2026/8/lego-harry-potter-the-ministry-of-magic-collectors-edition-76476-release-info",
-      "publishedAt": "2026-08-09T02:54:32.000Z",
-      "collectedAt": "2026-08-09T13:00:36.594Z",
-      "text": "LEGO Recreates the Ministry of Magic as a 3,491-Piece, Multi-Level ‘Harry Potter’ Collectors' Set Summary LEGO marks 25 years of 'Harry Potter' with a 3,491-piece Ministry of Magic Collectors' Edition display modelThe multi-level build runs from a London street scene down through Ministry offices to the Hall of ProphecyFourteen minifigures include a first-ever Arabella Figg, alongside a brand-new Lynx Patronus element The LEGO Group has revealed the LEGO Harry Potter The Ministry of Magic Collectors' Edition, a 3,491-piece set built to mark 25 years since the release of Harry Potter and the Philosopher's Stone. The minifigure-scale model renders a cross-section of magical London as an involved build aimed at adult collectors.The set is structured as a vertical journey through the wizarding world's London headquarters. The build opens at street level, where a detailed scene includes a subway station and the franchise's recognizable red telephone box, establishing the entrance to the Ministry hidden below. From there, the model descends through the government complex itself, opening up interior spaces to explore.Those lower levels are where the interactive detailing concentrates. Builders can access Arthur Weasley and Dolores Umbridge's offices and the courtroom where Harry stands trial, with the press materials pointing to numerous Easter eggs worked into the layout. One level further down sits the Hall of Prophecy, which brings in functional play features including collapsing shelves to stage its signature scene.Character content is a core part of the appeal. The set ships with 14 minifigures, among them Hermione Granger, Ron Weasley and Lord Voldemort, plus the first-ever minifigure depiction of Arabella Figg. Rounding out the roster is a brand-new element in Kingsley Shacklebolt's Lynx Patronus, the magical guardian that carried messages between the Ministry and the Order of the Phoenix.As a finished piece, the model is scaled for display as much as for building. It stands over 20 inches tall, measures 13.5 inches wide and 6 inches deep, and carries an 18+ age designation, positioning it firmly within LEGO's collector-facing tier. The timing reinforces that intent: the release is set to coincide with Back to Hogwarts Day, folding the anniversary celebration into a date already meaningful to the fanbase.The LEGO Harry Potter The Ministry of Magic Collectors' Edition (76476) will be available through LEGO Insiders Early Access from August 29, then to all b"
-    },
-    {
-      "id": "9e2352b5ec124982",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Story mfg and PF Flyers Rebuild the All-American High-Top Around Handwoven, Naturally Dyed Cloth",
-      "url": "https://hypebeast.com/2026/8/story-mfg-pf-flyers-all-american-story-mfg-high-tops-a26smfgw-a26smfgi-release-info",
-      "publishedAt": "2026-08-09T02:32:34.000Z",
-      "collectedAt": "2026-08-09T13:00:36.594Z",
-      "text": "Story mfg and PF Flyers Rebuild the All-American High-Top Around Handwoven, Naturally Dyed Cloth Name: All-American Story Mfg High-Top, Signature Wobbly Waffle, All-American Story Mfg High-Top, Signature Indigo HandloomColorway: Indigo/Brown, Indigo/EcruSKU: A26SMFGW, A26SMFGIMSRP: $130 USDRelease Date: August 10Where to Buy: PF Flyers, Story mfg.PF Flyers and Story mfg. have joined forces on a limited edition of the All-American High-Top, reworking the canvas silhouette around handwoven, naturally dyed fabric. The two makeups translate a shared, slow-made philosophy into footwear, releasing online August 10.The pairing rests on common ground. PF Flyers has turned out honest, hard-wearing shoes since 1937 and has left its formula largely untouched across the decades. Story mfg., meanwhile, has spent thirteen years producing naturally dyed, hand-crafted clothing in small runs alongside artisan makers in India and Thailand. Two very different origins, the release argues, add up to the same underlying belief in building things that last.That belief shows most clearly in the cloth. Both makeups are handwoven and naturally dyed by weavers in Thailand who work from their own homes. The Signature Wobbly Waffle version is woven by hand, and its brown is not a dye at all but homegrown cotton that grows that color in the field, then gets woven together with yarn dyed in real indigo. Because of that process, no two panels match, which is the entire point, and the shoe is built to wear in rather than out. The Signature Indigo Handloom follows the same thinking, using handwoven indigo cloth colored in fermented vats with locally grown plants, meant to soften and fade into the wearer over time.Cloth like this rarely reaches a shoe, the brands note, because it is too slow, too irregular and too awkward for standard production. Getting there took a willing mill, a willing factory and two labels stubborn enough to push it through. \"We are proud to partner with Story mfg. as we continue the nearly 90-year heritage of PF Flyers developing considered canvas shoes,\" said PF Flyers CEO Kassia Davis in the release. \"Story mfg. is a like-minded partner who isn't chasing hype but is achieving thoughtful design with their hand-woven, naturally-dyed fabric\"The craft carries through to the unboxing. The limited edition ships in special packaging built around a custom Story mfg. brown box and tissue design, finished with a cream dust bag to keep the sneakers protected. Click here to v"
-    },
     {
       "id": "2aeeaa8989d8ae8f",
       "sourceId": "vogue",
@@ -4089,39 +3944,6 @@
       "publishedAt": "2026-08-10T04:30:00.000Z",
       "collectedAt": "2026-08-10T13:19:35.229Z",
       "text": "The Meaning of Consent in the Age of Content Public patience for being an extra in creator content is wearing thin. As the consumer backlash over privacy and surveillance grows, brands are rewriting the rules around influencer marketing and content creation."
-    },
-    {
-      "id": "831068aa7e75b1b7",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Best Dressed Stars of the Week Found Beauty in Restraint",
-      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-meghan-markle-monica-barbaro-elle-fanning",
-      "publishedAt": "2026-08-09T16:58:03.000Z",
-      "collectedAt": "2026-08-10T13:19:35.229Z",
-      "text": "The Best Dressed Stars of the Week Found Beauty in Restraint Quietly-elegant looks still turned heads on the red carpets this week."
-    },
-    {
-      "id": "7db3a66a5fb9b07f",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Hey Kitty Girl! Inside Kylie Jenner’s Pre-Birthday Pink Party",
-      "url": "https://www.vogue.com/article/kylie-jenner-pre-birthday-pink-party",
-      "publishedAt": "2026-08-09T15:28:46.000Z",
-      "collectedAt": "2026-08-10T13:19:35.229Z",
-      "text": "Hey Kitty Girl! Inside Kylie Jenner’s Pre-Birthday Pink Party Mogul, mom, cat fanatic—Kylie Jenner kicked off her 29th birthday celebrations early with cocktails by Hailey Bieber, a bikini cake, and lots of pink."
-    },
-    {
-      "id": "422e2e9b8ec2cb4b",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Tallulah Willis Is Married! Inside Her Final Balenciaga Wedding Dress Fitting at the Chateau Marmont",
-      "url": "https://www.vogue.com/article/tallulah-willis-balenciaga-wedding-dress-final-fitting",
-      "publishedAt": "2026-08-09T14:00:00.000Z",
-      "collectedAt": "2026-08-10T13:19:35.229Z",
-      "text": "Tallulah Willis Is Married! Inside Her Final Balenciaga Wedding Dress Fitting at the Chateau Marmont The writer, artist, and advocate tied the knot in Idaho this weekend—and she invited Vogue for a very special final fitting with her mom, Demi Moore, and sisters Rumer and Scout."
     },
     {
       "id": "5c42da2401d29c40",
@@ -51785,6 +51607,347 @@
       "publishedAt": "2026-11-06T08:02:38.000Z",
       "collectedAt": "2026-11-06T19:07:44.489Z",
       "text": "The Headphones That Came With the First Sony Walkman Are Back, Now With USB-C Summary Sony’s MDR-3R is a modern remake of the 1979 MDR-3, the headphones that debuted alongside the very first WalkmanThe silver on-ear set reproduces the original’s headband bend, perforated sound holes and “Dynamic Stereo Headphones” marking down to the vintage-style packagingA plug-in USB-C connection, in-line remote and built-in mic replace batteries and Bluetooth pairing entirely Sony is reissuing one of the most important headphones in its catalog with the MDR-3R, a reworked version of the MDR-3 that shipped with the original Walkman in 1979. The silver pair keeps the lightweight, open-air formula that made portable listening possible in the first place, then rewires it for modern phones, tablets and laptops through a direct USB-C plug.To understand why the MDR-3R matters, you have to go back to the cassette era. Sony’s first Walkman, the TPS-L2, arrived with the MDR-3 as its companion, and together the two turned music into something people could carry through the city rather than leave at home on a stereo. The original Walkman launched in Japan in July 1979 and famously featured two headphone jacks so a pair of listeners could share a tape. At a time when most headphones were heavy, studio-style cans, the MDR-3’s featherweight build helped make the whole concept wearable.Sony has treated the reissue with collector-level care. The SONY logo and “Dynamic Stereo Headphones” lettering are precision-finished to match the 1979 model, and the distinctive headband curve and perforated sound holes return unchanged. The rolled side arms from the original are back as well, though here they serve a practical purpose, fine-tuning how the earpads sit against the ear for a more comfortable fit. Even the box and instruction manual adopt the vintage graphic style, and the individual packaging is plastic-free.The earpads are the most playful nod to the past. Both the blue and orange cushions associated with the classic MDR-3 come in the box, and swapping between them takes seconds, so the same pair can shift from muted to loud depending on the outfit. Sony has also kept the frame remarkably light, with the headphones weighing roughly 38g without the cable, making the MDR-3R the brand’s lightest over-head model. The understated silver build works just as well slung around the neck as it does on the ears.Inside, 23mm drivers and an open-air structure carry over the spirit of the original’s"
+    },
+    {
+      "id": "e552b0b6af1509e3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dry Brushing: Why I Do It Every Day And All The Benefits",
+      "url": "https://www.vogue.com/article/dry-brushing-how-to",
+      "publishedAt": "2026-11-07T13:00:00.000Z",
+      "collectedAt": "2026-11-07T17:39:03.349Z",
+      "text": "Dry Brushing: Why I Do It Every Day And All The Benefits Dry body brushing has long been touted by celebrities as a wellness ritual to try for enhanced lymphatic drainage and more even skin tone. But does it work? We tested to see."
+    },
+    {
+      "id": "83604b17de2c6a9b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Dakota Johnson Dons Diamonds and a Hoodie for Date Night With Machine Gun Kelly",
+      "url": "https://www.vogue.com/article/dakota-johnson-diamonds-and-a-hoodie-date-night-machine-gun-kelly-11-07-2026",
+      "publishedAt": "2026-11-07T12:01:43.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "Dakota Johnson Dons Diamonds and a Hoodie for Date Night With Machine Gun Kelly Appearing at a Khaite party in Los Angeles with her boyfriend, the actor is certainly leaning into her rock-star era."
+    },
+    {
+      "id": "250b7a5e1847dc3d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Get Moving: The 2026 Vogue .Gif Guide",
+      "url": "https://www.vogue.com/article/gift-guide-gif",
+      "publishedAt": "2026-11-07T12:00:00.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "Get Moving: The 2026 Vogue .Gif Guide Some of our favorite gifts of the season come with their own built-in moves and grooves. We've dedicated a gift guide just to them."
+    },
+    {
+      "id": "9d9e87d220091999",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Black Nails: The Little Black Manicure Is Having a Major Moment",
+      "url": "https://www.vogue.com/article/black-nails-trend",
+      "publishedAt": "2026-11-07T11:46:53.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "Black Nails: The Little Black Manicure Is Having a Major Moment From glossy jet-black to velvet finishes, black nails are this season’s most surprisingly versatile manicure—with fans in Hailey Bieber and Selena Gomez."
+    },
+    {
+      "id": "0752953c67a79a91",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now",
+      "url": "https://www.vogue.com/article/fall-2026-most-wanted-accessories",
+      "publishedAt": "2026-11-07T11:00:00.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now A silk scarf tied at the waist, a brooch pinned to a blazer, or a strand of pearls tucked beneath a sheer knit are the small styling gestures making the biggest impact."
+    },
+    {
+      "id": "c340fc55cd9fbd26",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Colormania Outside the Spring 2027 Shows",
+      "url": "https://www.vogue.com/article/color-mania-outside-the-spring-2027-shows",
+      "publishedAt": "2026-11-07T11:00:00.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "Colormania Outside the Spring 2027 Shows Bubble-gum pink or mustard yellow, cobalt blue or royal purple—the spring 2027 street style scene was all about color."
+    },
+    {
+      "id": "9ebb00e5582fadde",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "From Rihanna to Rosalía, These Are Martine Rose’s Biggest Celebrity Superfans",
+      "url": "https://www.vogue.com/slideshow/martine-rose-biggest-celebrity-fans",
+      "publishedAt": "2026-11-07T08:00:00.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "From Rihanna to Rosalía, These Are Martine Rose’s Biggest Celebrity Superfans Martine Rose’s appointment to the helm of Balenciaga has been met with celebration. We look back on some of the best moments when celebrities wore her pieces."
+    },
+    {
+      "id": "f8186bd17d129791",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Moisturize Your Scalp in 6 Easy Steps",
+      "url": "https://www.vogue.com/article/how-to-moisturize-your-scalp",
+      "publishedAt": "2026-11-06T21:24:35.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "How to Moisturize Your Scalp in 6 Easy Steps You can treat a dry scalp with the right products and a few tweaks to your daily hair routine. Here, experts break down easy ways to keep your scalp moisturized and your hair healthy."
+    },
+    {
+      "id": "fbe93cfc65a3b030",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Close Look At the 10 Key Autumn/Winter 2026 Bag Trends",
+      "url": "https://www.vogue.com/article/fall-2026-handbag-trends",
+      "publishedAt": "2026-11-06T21:19:43.000Z",
+      "collectedAt": "2026-11-07T17:39:03.350Z",
+      "text": "A Close Look At the 10 Key Autumn/Winter 2026 Bag Trends Vogue highlights the key fall 2026 handbag trends to shop now. From super shoulder bags to new-gen clutches, these are styles to bookmark now."
+    },
+    {
+      "id": "32e9888904eaadfd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "54 Thoughts I Had Watching the Season 2 Premiere of ‘All’s Fair’",
+      "url": "https://www.vogue.com/article/54-thoughts-i-had-watching-the-season-2-premiere-of-alls-fair",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "collectedAt": "2026-11-07T17:39:03.351Z",
+      "text": "54 Thoughts I Had Watching the Season 2 Premiere of ‘All’s Fair’ It’s not a Ryan Murphy joint if two legendary actresses over 40 aren’t glaring at each other through the dim light of a fish tank."
+    },
+    {
+      "id": "92a66e8a7f740c81",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Archival Jordan Was Built Like a German Sports Car",
+      "url": "https://www.highsnobiety.com/p/nike-air-jordan-6-white-infrared/",
+      "publishedAt": "2026-11-07T10:30:00.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "This Archival Jordan Was Built Like a German Sports Car Nike's Air Jordan 6 “White Infrared” returns in its original '91 design, bringing back the sneaker inspired by German sports cars and MJ’s winning streak."
+    },
+    {
+      "id": "c6003f12d3328012",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance’s Street-Ready Hiking Sneaker Looks Good in Stealth Mode",
+      "url": "https://www.highsnobiety.com/p/new-balance-tl900-black/",
+      "publishedAt": "2026-11-06T23:14:34.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "New Balance’s Street-Ready Hiking Sneaker Looks Good in Stealth Mode New Balance's TL900 hiking-style sneaker gets a classic black makeover, resulting in the stealthiest pair yet."
+    },
+    {
+      "id": "13e6e3615818cb08",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Seven Best adidas Sneaker Releases This Week",
+      "url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-november-week-1/",
+      "publishedAt": "2026-11-06T22:50:01.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "The Seven Best adidas Sneaker Releases This Week This week was so chock-full of adidas standouts, we picked... seven of them."
+    },
+    {
+      "id": "61dfb21918520ef7",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Margaret Howell's Simple Trick to Surviving 50 Years of Fashion",
+      "url": "https://www.highsnobiety.com/p/margaret-howell-book-interview/",
+      "publishedAt": "2026-11-06T22:33:01.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "Margaret Howell's Simple Trick to Surviving 50 Years of Fashion That Margaret Howell has made it 50 years in fashion is no accident. The British designer's success comes down to one simple little thing, as she tells us."
+    },
+    {
+      "id": "66105b95e0f6256d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Cutest Samba Mary Janes Are Also Quite Fancy",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-jane-bow/",
+      "publishedAt": "2026-11-06T23:13:06.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "adidas' Cutest Samba Mary Janes Are Also Quite Fancy The adidas Samba Mary Jane sneaker gets its cutest makeover yet with bows, velvet, & pearls. It's only available at JD Sports, too."
+    },
+    {
+      "id": "4112fcfef3a05526",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "There's No Moomin Merch Like Bottega Veneta Moomin Merch",
+      "url": "https://www.highsnobiety.com/p/bottega-veneta-moomin-new-collab/",
+      "publishedAt": "2026-11-06T21:34:20.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "There's No Moomin Merch Like Bottega Veneta Moomin Merch The Finnish cartoon is getting immortalized in Bottega Veneta leathercraft. This is how you do franchise-luxury collabs."
+    },
+    {
+      "id": "84dd4b8ed6db5003",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "It's High Time You Invested in a Better Beanie",
+      "url": "https://www.highsnobiety.com/p/best-beanie-hats-for-men/",
+      "publishedAt": "2026-11-06T21:30:35.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "It's High Time You Invested in a Better Beanie Beanies for men don't have to be boring. From classic wool knits to more offbeat takes on the winter staple, these are the styles worth getting your hands on."
+    },
+    {
+      "id": "cf0586d37ea8c203",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Jordan's Fuzzy Green Dad Shoe Looks Like Bottega Was Here",
+      "url": "https://www.highsnobiety.com/p/jordan-dmsn-95-green-noise/",
+      "publishedAt": "2026-11-06T23:10:23.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "Jordan's Fuzzy Green Dad Shoe Looks Like Bottega Was Here Nike's Jordan DMSN 95 \"Green Noise\" sneaker lands as an all-green, Bottega-flavored take on the dadcore model."
+    },
+    {
+      "id": "a66519c2b99ec0cd",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Yoshitomo Nara’s Big-Headed Girls Have Found Their Forever Designer",
+      "url": "https://www.highsnobiety.com/p/yoshitomo-nara-stella-mccartney/",
+      "publishedAt": "2026-11-06T20:33:00.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "Yoshitomo Nara’s Big-Headed Girls Have Found Their Forever Designer The British designer and Japanese artist's third collection proves why this is a match made in heaven, fueled by mutual respect and artisanal craftsmanship."
+    },
+    {
+      "id": "f8024c73900ace74",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Is Nike's Most Italian Air Max Yet",
+      "url": "https://www.highsnobiety.com/p/one-block-down-nike-air-max-95-lux-italy/",
+      "publishedAt": "2026-11-06T23:08:30.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "This Is Nike's Most Italian Air Max Yet One Block Down's Nike Air Max 95 Lux sneakers come in four Italy-inspired colorways, complete with Italian leather uppers."
+    },
+    {
+      "id": "86a4802e447b26db",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Your Winter Wardrobe Could Use a Few Quiet Overachievers",
+      "url": "https://www.highsnobiety.com/p/vuori-winter-essentials/",
+      "publishedAt": "2026-11-06T20:10:01.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "Your Winter Wardrobe Could Use a Few Quiet Overachievers Discover Vuori’s winter wardrobe staples, from premium jackets and versatile pants to comfortable tops that nail the balance between style and comfort."
+    },
+    {
+      "id": "df78cdfacbf7c1ef",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Stacked Running Shoe Is an Autumnal Treat",
+      "url": "https://www.highsnobiety.com/p/nike-vomero-plus-dark-hazel/",
+      "publishedAt": "2026-11-06T19:39:11.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "Nike’s Stacked Running Shoe Is an Autumnal Treat Nike's Vomero Plus running shoe slips into a very good-looking \"Dark Hazel\" colorway for the fall season."
+    },
+    {
+      "id": "b0c67e91cdc9fc2f",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Hermès Makes Birkin Bags. It Also Makes Stage Plays",
+      "url": "https://www.highsnobiety.com/p/hermestories-hermes/",
+      "publishedAt": "2026-11-06T19:22:02.000Z",
+      "collectedAt": "2026-11-07T17:39:04.749Z",
+      "text": "Hermès Makes Birkin Bags. It Also Makes Stage Plays French luxury label Hermès sells more than expensive, exclusive bags. It also manages a cultural program that includes art, illustration, and theater."
+    },
+    {
+      "id": "2b74fbcdb612986b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Moncler",
+      "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-moncler-2",
+      "publishedAt": "2026-11-07T14:06:26.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "New Arrivals From HBX: Moncler Brand Information: Moncler is an Italian luxury brand founded in 1952 by Réné Ramillion in the French alpine village, Monestier-de-Clermont. Over the past six decades, Moncler has cemented itself as a pioneer in the field of functional outerwear. The world-famous outerwear label is especially well-known for its trademark quilted down jackets. In 1968, Moncler designed the professional team uniform for the French alpine skiing team at the Winter Olympics in Grenoble. Today, under the current president and creative director Remo Ruffini, Moncler stands strong as a global lifestyle brand that develops urbane and masculine styles of quilted down jackets, vests, parkas, knit accessories, and even casual wear like T-shirts, sweatpants, and tipped polo shirts. By using patent fabrics and fur details, Moncler injects a modern feel to heritage looks, whilst combining extreme warmth with day-to-day city life. See also Moncler Genius and its collaboration with Palm Angels.Price Range: $350.00 USD - $2,385.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "5499bb1ca2aab64e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Images Surface for the Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"",
+      "url": "https://hypebeast.com/2026/11/bad-bunny-adidas-badbo-1-1-blanch-blue-lb9014-official-look-release-info",
+      "publishedAt": "2026-11-07T10:00:24.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "Official Images Surface for the Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\" Summary adidas and Bad Bunny have revealed official imagery of the Badbo 1.1 in a Blanch Blue colorwayThe low-top silhouette features pale blue suede triangular mesh cutouts and a classic gum rubber outsoleThe pair is expected to release during Holiday 2026 for $120 USD via adidas CONFIRMED and select retailers Name: Bad Bunny x adidas Badbo 1.1 \"Blanch Blue\"Colorway: Blanch Blue/WhiteSKU: LB9014MSRP: $120 USDRelease Date: Holiday 2026Where to Buy: adidasadidas has unveiled official imagery for the upcoming Bad Bunny x adidas Badbo 1.1 “Blanch Blue”, showcasing the latest iteration of the collaborative low-top silhouetteThe forthcoming release follows previously revealed “Chalk White” and “Simple Brown” editions, expanding the Puerto Rican artist’s signature footwear line ahead of the winter season.Carrying over the fundamental design language of the Badbo 1.0, this updated version modifies the silhouette with a lowered collar and reworked ankle panelling. The upper is constructed primarily in pale blue suede, layered cleanly over lighter blue mesh underlays exposed via distinctive triangular cutouts along both lateral and medial quarter panels. The soft color scheme calls back to the palette previously utilized on the Badbo 1.0 “Puerto Rican Night.”Crisp white accents hit the tongue and midsole to break up the tonal upper, balanced by light grey trim along the collar lining and tongue edges. Grounding the build, a classic gum rubber outsole provides contrast and traction beneath the low-profile runner.The Bad Bunny x adidas Badbo 1.1 “Blanch Blue” is expected to arrive in Holiday 2026, likely in December, for $120 USD via adidas CONFIRMED and select global retailers.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0c9ed257d862f33f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Alpha Industries x No Problemo Map Mount Kailash Across the CWU-45 Jacket",
+      "url": "https://hypebeast.com/2026/11/alpha-industries-no-problemo-cwu-45-jacket-release-info",
+      "publishedAt": "2026-11-07T08:00:46.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "Alpha Industries x No Problemo Map Mount Kailash Across the CWU-45 Jacket Summary Alpha Industries and No Problemo reunite for FW26, moving from the MA-1 of their first collaboration to the CWU-45 flight jacketThe sage green jacket keeps the CWU-45’s fold-down collar, high-set pockets and structured shapeGraphics from No Problemo’s “Mount Kailash” collection cover the back, and tonal branding runs along the sleeve Alpha Industries and No Problemo have released the Alpha Industries x No Problemo CWU-45, the second chapter of a partnership that started with a take on the MA-1. Finished in sage green for FW26, the jacket brings the graphic world of No Problemo’s Mount Kailash collection to one of Alpha’s most structured military silhouettes.The CWU-45 was first issued to Air Force and Navy pilots in 1972, and its build is very different from the MA-1 the brands reworked last time. A fold-down collar replaces the bomber’s ribbed neck, the pockets sit higher on the body and the overall cut is more structured. The collaboration keeps all three features, using them as the base for No Problemo’s graphic treatment instead of redesigning the jacket.Most of the change happens on the back panel, where hand-drawn figures, symbols and abstract shapes spread across the full width of the jacket. The artwork comes from Mount Kailash, No Problemo’s FW26 collection, which draws on the myths, geometric patterns and charged atmosphere associated with the 6,666-meter Tibetan peak. Against the muted sage base, the line work reads like a coded map more than a typical back print.The branding is more restrained elsewhere on the jacket. No Problemo’s logo runs down one sleeve in a tonal finish that blends into the base color, while a co-branded patch on the chest marks the collaboration. Alpha Industries’ signature red Remove Before Flight tag completes the jacket and adds the only bright color to an otherwise subdued palette.The Alpha Industries x No Problemo CWU-45 will be available online, via the Alpha Industries store in Frankfurt, Aries, Aries Soho in London and select retailers. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "eb636561154d9748",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Superblue Kyoto to Open in Early 2027 With Landmark James Turrell Exhibition",
+      "url": "https://hypebeast.com/2026/11/superblue-kyoto-open-early-2027-featuring-landmark-james-turrell-exhibition",
+      "publishedAt": "2026-11-07T06:00:21.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "Superblue Kyoto to Open in Early 2027 With Landmark James Turrell Exhibition Summary Superblue has announced its first international art center Superblue Kyoto opening in early 2027The venue will inaugurate with a major long-term solo exhibition by Light and Space artist James TurrellLocated directly opposite teamLab Biovortex Kyoto the indigo-clad space will announce full programming details in December Experiential art company Superblue has officially announced the opening of Superblue Kyoto, launching its first international venue in Japan in early 2027 with a major solo exhibition by Light and Space pioneer James Turrell. Situated directly across from teamLab Biovortex Kyoto in the Kyoto Station Southeast Area, the new center expands the Miami-born art platform into Asia with an expansive, long-term survey exploring human perception.surveys the American artist’s six-decade investigation into light as a physical medium from the 1960s through his contemporary practice. Visitors will encounter immersive installations that transform light from an illuminator into the physical subject itself, spanning early works like his 1966 Afrum-Proto projection—which casts the illusion of a glowing three-dimensional cube into a wall corner—to his renowned Skyspaces, Ganzfelds, and research connected to Roden Crater, his monumental naked-eye celestial observatory inside an extinct Arizona volcano.Designed by teamLab Architects, the Superblue Kyoto venue mirrors its neighbor with a distinct indigo-blue exterior, establishing a unified creative nexus within the City of Kyoto's urban revitalization zone. Together with teamLab's largest domestic museum, the two cultural institutions create a walkable district dedicated to large-scale, multisensory contemporary art.Superblue Kyoto is scheduled to open to the public in early 2027, with further details regarding featured artworks and opening dates slated for reveal in December. Take a look at the renderings above. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3992d569ff308cc9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Barbour x Paraboot Trade Waxed Canvas and French Leather for FW26",
+      "url": "https://hypebeast.com/2026/11/barbour-paraboot-chambord-derby-bedale-jacket-collaboration-collection-release-info",
+      "publishedAt": "2026-11-07T04:00:35.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "Barbour x Paraboot Trade Waxed Canvas and French Leather for FW26 Summary Barbour and Paraboot reunite seven years after their first collaboration with a Bedale jacket and a Chambord derbyEach piece borrows a signature material from its partner, putting olive waxed canvas on the shoe and Paraboot leather on the jacketA co-branded medallion, leather tassel and Barbour tartan lining connect the two designs Barbour and Paraboot have teamed up again for Fall/Winter 2026, pairing a reworked Bedale jacket with a Chambord derby that each take on materials from the other house. The two-piece capsule is the brands’ second collaboration, arriving seven years after their first, and it focuses on construction and craft rather than a broad product lineup.The capsule rests on a straightforward exchange of materials, with each piece lending a signature fabric to the other so the jacket and shoes read as a matched set. The British waxed canvas goes onto the French footwear, and the French leather moves onto the British outerwear, so neither design is just a logo swap.Paraboot’s piece starts from the Chambord, a flat-top derby the house first made for city wear in Paris over 40 years ago. Its core construction stays the same, with five eyelets, a full leather lining, a Norwegian welt finished with a square-edged welt, and a rubber sole. The upper changes, mixing brown “gringo” nubuck with olive waxed canvas taken directly from Barbour’s jacket language.The finishing details make the shoe clearly a collaboration. A co-branded medallion and a leather tassel, both made specifically for this release, hang from the laces, and Barbour’s classic tartan lines the interior. Every pair comes in a Paraboot box with a matching co-branded tartan dust bag inside.Barbour’s half reworks the Bedale in Oban waxed canvas, given a brushed finish meant to build character over time. The jacket keeps its usual roomy cut, low gusseted pockets and corduroy collar, while Paraboot leather forms the chest pocket and both brand names are embroidered on the lower pockets. The same medallion and tassel from the derby appear on the jacket, and the tartan shows under the collar and across the lining.That tartan is what ties the capsule together, running through the collar, the jacket lining, the inside of the shoe and its dust bag. As a result, the Bedale and the Chambord work as a coordinated pair when worn together, while each still holds up as a standalone piece.The Barbour x Paraboot collection is ava"
+    },
+    {
+      "id": "ab6aed73bb47cd6b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Clive Christian’s “Uncovered” Perfume Hides a Warm Heart Beneath an Icy Exterior",
+      "url": "https://hypebeast.com/2026/11/clive-christian-transparent-limited-edition-fragrance-release-info",
+      "publishedAt": "2026-11-07T03:30:21.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "Clive Christian’s “Uncovered” Perfume Hides a Warm Heart Beneath an Icy Exterior Summary Clive Christian unveils \"Uncovered,\" its first transparent perfume, crafted by Elise Pierre.The floral musk shifts from icy aldehydes and eucalyptus to warm immortelle, orris and amber.A sculpted clear glass bottle and ice-block box complete its cold-to-warm story. Clive Christian’s \"Uncovered\", the house’s first transparent perfume, unfolds like the moment frost gives way to morning light. Selected from 14 competing compositions at the CPL Fragrance House Conference, perfumer Elise Pierre’s floral musk opens with a crisp, almost glacial brightness. Sparkling aldehydes and cool eucalyptus reach the senses first, sharpened by a flicker of pink pepper and lifted by the sunny tang of bergamot. Picture a winter window as the sun breaks through: clean, bracing and quietly inviting a closer look.As that initial chill recedes, the fragrance reveals a warmer core. Immortelle absolute lends a honeyed, sun-dried richness, while powdery orris and creamy ylang oil round out the edges, and a salty accord adds an intimate, skin-close quality. The drydown settles into white musk, sandalwood, moss and amber, glowing slowly like embers seen through clear glass. Composed at a 40% concentration from 164 ingredients, the scent is built around the idea of quiet self-revelation, appearing simple at first impression yet continuing to unveil new layers the longer it rests on the skin.The packaging completes this story of a cool exterior concealing inner warmth. \"Uncovered\" is presented in a sculpted, crystal-clear glass flacon with nothing to obscure what lies inside, a vessel meant to reflect its wearer as both vulnerable and resilient. Its outer box takes the form of a block of ice, turning the act of unwrapping into a kind of thaw that leads to the treasure beneath.Unveiled as a limited edition for the holiday season, the 50 ml fragrance retails for $500 USD in the US and is available from November 15, 2026 through January 2027, or while stock lasts, at Clive Christian boutiques, select retailers worldwide and clivechristian.com. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0d97bdec2ff368a7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Balenciaga Hires Martine Rose & Yeezy Makes Runway Return in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/11/martine-rose-balenciaga-yeezy-ralph-lauren-joaquin-phoenix-gentle-monster-palace-burberry",
+      "publishedAt": "2026-11-06T21:30:13.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "Balenciaga Hires Martine Rose & Yeezy Makes Runway Return in This Week's Top Fashion News SummaryMartine Rose took the helm at Balenciaga, while Ralph Lauren secured top menswear honors at the 2026 CFDA Awards.Ye announced a Yeezy reboot in Los Angeles, and the 2027 Met Gala revealed a new, everyday-focused theme.Palace detailed its Burberry collaboration, and Joaquin Phoenix debuted smart eyewear with Gentle Monster.Martine Rose Confirmed at Balenciaga' a Day After Piccioli ExitFollowing widespread speculation, Martine Rose was officially named the new creative director of Balenciaga. The London-based designer will oversee all men's and women's collections moving forward. Rose brings her signature subcultural edge to the heritage luxury house, signaling a new shift in Balenciaga's aesthetic trajectory. Her debut collection is expected to hit the runway next season, where she will establish her updated vision for the brand. The appointment arrived only one day after it was confirmed that Pierpaolo Piccioli would step down from the role.Ye Presents Yeezy Season 01 Runway Show in Los AngelesYe presented a brand new Yeezy Season 01 runway show in Los Angeles on the evening of November 4. A complete reset for the apparel line, the runway returned to the designer’s foundational utilitarian aesthetics, revisiting silhouettes and details. The new lineup featured boxy proportions, washed earth tones, heavy layering, and stripped-down footwear with zero overt branding. Standing out were pairs of translucent footwear, gigantic duffle bags, and all-red numbers.The Met Gala 2027 Pivots Theme for Exhibition: \"Extraordinary Fashion and the Poetics of the Everyday\"The Metropolitan Museum of Art announced a pivot for its 2027 Costume Institute exhibition and Met Gala theme. Titled \"Extraordinary Fashion and the Poetics of the Everyday,\" the upcoming event highlights the intersection of mundane daily wear and high fashion. The shift suggests a departure from historical archiving in favor of exploring how ordinary objects and routine garments inform avant-garde design. It follows the abrupt cancellation of the previously selected theme, which centered on John Galliano, citing his past controversial remarks.Ralph Lauren Wins American Menswear Designer of the Year at 2026 CFDA AwardsFor a third year, American menswear icon Ralph Lauren took home the American Menswear Designer of the Year trophy at the 2026 CFDA Awards. The veteran designer was recognized for his sustained imp"
+    },
+    {
+      "id": "f4e3af3a56374117",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Joaquin Phoenix Is the Face of Gentle Monster's Intelligent Eyewear",
+      "url": "https://hypebeast.com/2026/11/joaquin-phoenix-gentle-monster-intelligent-eyewear",
+      "publishedAt": "2026-11-06T19:47:39.000Z",
+      "collectedAt": "2026-11-07T17:39:06.122Z",
+      "text": "Joaquin Phoenix Is the Face of Gentle Monster's Intelligent Eyewear Summary Gentle Monster has tapped Joaquin Phoenix to star in its first intelligent eyewear campaign, directed by Jonathan Glazer.The surreal film follows Phoenix through a mysterious hotel where intelligent eyewear becomes a tool for communicating with the unknown.Pre-orders open November 12, followed by a public preview in New York City from November 13 to 23. Gentle Monster is entering the world of intelligent eyewear, and it's enlisted Joaquin Phoenix and filmmaker Jonathan Glazer to introduce its latest venture.The South Korean eyewear brand has unveiled the first teaser for its upcoming campaign film, which explores the relationship between humanity and technology through a surreal narrative that blurs the line between reality and illusion.Directed by Glazer, best known for The Zone of Interest and Under the Skin, the film follows Phoenix as a salesman navigating a mysterious hotel where increasingly bizarre encounters begin to distort his perception of reality. As he comes face-to-face with unfamiliar entities, Gentle Monster's intelligent eyewear becomes a tool for communication, allowing him to understand and interact with a world that initially seems incomprehensible.Rather than taking a conventional approach to showcasing the technology, Gentle Monster places its capabilities at the center of the film's narrative, exploring how intelligent eyewear could change the way people communicate and experience their surroundings.The campaign marks a new chapter for Gentle Monster as it expands beyond traditional eyewear into wearable technology, bringing its experimental design language into a new product category.The full campaign film is set to premiere later this month, with pre-orders for the Intelligent Eyewear Collection opening on November 12. A public preview will also take place in New York City from November 13 to 23, with registration available through Gentle Monster's official website. Read more at Hypebeast"
     }
   ]
 }
