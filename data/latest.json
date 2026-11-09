@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-08",
+    "id": "2026-11-09",
     "mode": "live",
-    "displayDate": "NOV 08, 2026, 12:49 PM EST",
-    "generatedAt": "2026-11-08T17:49:04.670Z",
-    "itemsCollected": 27,
+    "displayDate": "NOV 09, 2026, 05:08 PM EST",
+    "generatedAt": "2026-11-09T22:08:39.579Z",
+    "itemsCollected": 55,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 6
+        "count": 12
       },
       {
         "source": "Hypebeast",
@@ -77,12 +77,12 @@
       "name": "Quiet performance",
       "stage": "emerging",
       "score": 26,
-      "confidence": 21,
+      "confidence": 20,
       "youthRelevance": 46,
-      "direction": "down",
+      "direction": "flat",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
           "title": "lululemon Launches Its First GORE-TEX Collection",
@@ -95,14 +95,14 @@
   ],
   "cooling": {
     "name": "Quiet performance",
-    "reason": "1 mention this week versus 2 in the prior seven-day window."
+    "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1108",
+    "code": "AUTO 1109",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [

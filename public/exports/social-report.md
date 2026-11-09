@@ -1,8 +1,8 @@
-# Fieldwork Public Pulse — 2026-11-08
+# Fieldwork Public Pulse — 2026-11-09
 
 ## 1. Quiet performance
 
-**emerging · score 72 · confidence 64% · youth 71%**
+**emerging · score 72 · confidence 64% · youth 78%**
 
 12 public posts · 1 network · 7-day comparison
 
