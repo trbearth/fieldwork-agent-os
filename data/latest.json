@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-09",
+    "id": "2026-11-10",
     "mode": "live",
-    "displayDate": "NOV 09, 2026, 05:08 PM EST",
-    "generatedAt": "2026-11-09T22:08:39.579Z",
-    "itemsCollected": 55,
+    "displayDate": "NOV 10, 2026, 02:30 PM EST",
+    "generatedAt": "2026-11-10T19:30:49.459Z",
+    "itemsCollected": 43,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -24,34 +24,8 @@
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 57,
-      "confidence": 38,
-      "youthRelevance": 41,
-      "direction": "up",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay",
-          "source": "Vogue",
-          "date": "Nov 3",
-          "url": "https://www.vogue.com/article/loch-lomond-arms-hotel-scotland"
-        },
-        {
-          "title": "The Moomins Have Moved Into Bottega Veneta’s Intrecciato",
-          "source": "Hypebeast",
-          "date": "Nov 5",
-          "url": "https://hypebeast.com/2026/11/the-moomins-have-moved-into-bottega-venetas-intrecciato"
-        }
-      ]
-    },
     {
       "id": "narrow-technical-footwear",
       "name": "Narrow technical footwear",
@@ -91,6 +65,26 @@
           "url": "https://hypebeast.com/2026/11/lululemon-gore-tex-silent-type-beams-info"
         }
       ]
+    },
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 26,
+      "confidence": 20,
+      "youthRelevance": 38,
+      "direction": "flat",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "citations": [
+        {
+          "title": "The Moomins Have Moved Into Bottega Veneta’s Intrecciato",
+          "source": "Hypebeast",
+          "date": "Nov 5",
+          "url": "https://hypebeast.com/2026/11/the-moomins-have-moved-into-bottega-venetas-intrecciato"
+        }
+      ]
     }
   ],
   "cooling": {
@@ -98,16 +92,15 @@
     "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Narrow technical footwear moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1109",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 1110",
+    "name": "Narrow technical footwear",
+    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [
-      "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay",
-      "The Moomins Have Moved Into Bottega Veneta’s Intrecciato"
+      "Painters Need Tough Ass Trail Shoes, Too"
     ]
   }
 }

@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-09
+# Fieldwork Public Pulse — 2026-11-10
 
 ## 1. Quiet performance
 
@@ -17,10 +17,10 @@
 
 12 public posts · 1 network · 7-day comparison
 
+- [A shirt collar and a green-and-navy tie peek out above a grey printed sweatshirt. I wore the gold-bu](https://mastodon.social/@seoul_trad/117590617944983015) — Mastodon
 - [I layered an ivory cricket sweater and a white Oxford shirt under a Black Watch blazer. The green an](https://mastodon.social/@seoul_trad/117567044435717126) — Mastodon
 - [Navy knitwear and beige trousers. A little white T-shirt shows through the V-neck. Colour and a room](https://mastodon.social/@seoul_trad/117561280847914710) — Mastodon
 - [Navy, green and brown. A neat blazer and tie, paired with roomy fatigue trousers. Getting dressed is](https://mastodon.social/@seoul_trad/117555834878340163) — Mastodon
-- [Brown and blue. Two colours that work so well in autumn. Just a jacket over a denim shirt and jeans,](https://mastodon.social/@seoul_trad/117550036806586535) — Mastodon
 
 ## 3. Decorated basics
 
@@ -29,8 +29,8 @@
 5 public posts · 1 network · 7-day comparison
 
 - [I put a few new patches up for sale on my Bandcamp the other day! If you'd like some queer, #tranarc](https://blahaj.zone/notes/a6qm2hx0fvau0f4o) — Mastodon
-- [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
 - [Instead of tossing this piece due to a small imperfection on the front, I’m turning it into somethin](https://sunny.garden/@StitchAndPixel/114445248926311632) — Mastodon
+- [Thrift haul 🛍 Found gorgeous chiffon scarves for just 215 UAH (~$5.20)! All will be turned into fab](https://mastodon.social/@moreniia_tys/115005103080334408) — Mastodon
 - [Ready to make senior year unforgettable? From bold lettering and painted florals to rhinestones and ](https://mastodon.social/@latestfits/117296676441966574) — Mastodon
 
 ## Network status
