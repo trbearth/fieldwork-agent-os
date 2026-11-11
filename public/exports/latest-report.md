@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-11-10
+# Fieldwork Daily Signal — 2026-11-11
 
 Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -14,11 +14,11 @@ Narrow technical footwear is appearing across 1 independent public source.
 
 ## 2. Quiet performance
 
-**emerging · score 26 · confidence 20% · youth 46%**
+**emerging · score 43 · confidence 19% · youth 46%**
 
 Quiet performance is appearing across 1 independent public source.
 
-1 observation · 1 independent source · +0% seven-day velocity
+1 observation · 1 independent source · +100% seven-day velocity
 
 - [lululemon Launches Its First GORE-TEX Collection](https://hypebeast.com/2026/11/lululemon-gore-tex-silent-type-beams-info) — Hypebeast, Nov 5
 

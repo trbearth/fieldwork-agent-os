@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-10
+# Fieldwork Public Pulse — 2026-11-11
 
 ## 1. Quiet performance
 
@@ -17,10 +17,10 @@
 
 12 public posts · 1 network · 7-day comparison
 
+- [Navy blazer with gold buttons, beige chinos, and a red-and-navy tie. The red stripe stands out again](https://mastodon.social/@seoul_trad/117595656948230040) — Mastodon
 - [A shirt collar and a green-and-navy tie peek out above a grey printed sweatshirt. I wore the gold-bu](https://mastodon.social/@seoul_trad/117590617944983015) — Mastodon
 - [I layered an ivory cricket sweater and a white Oxford shirt under a Black Watch blazer. The green an](https://mastodon.social/@seoul_trad/117567044435717126) — Mastodon
 - [Navy knitwear and beige trousers. A little white T-shirt shows through the V-neck. Colour and a room](https://mastodon.social/@seoul_trad/117561280847914710) — Mastodon
-- [Navy, green and brown. A neat blazer and tie, paired with roomy fatigue trousers. Getting dressed is](https://mastodon.social/@seoul_trad/117555834878340163) — Mastodon
 
 ## 3. Decorated basics
 

@@ -1,16 +1,16 @@
 {
   "run": {
-    "id": "2026-11-10",
+    "id": "2026-11-11",
     "mode": "live",
-    "displayDate": "NOV 10, 2026, 02:30 PM EST",
-    "generatedAt": "2026-11-10T19:30:49.459Z",
-    "itemsCollected": 43,
+    "displayDate": "NOV 11, 2026, 02:26 PM EST",
+    "generatedAt": "2026-11-11T19:26:33.921Z",
+    "itemsCollected": 58,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
@@ -20,7 +20,7 @@
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -50,13 +50,13 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
+      "score": 43,
+      "confidence": 19,
       "youthRelevance": 46,
-      "direction": "flat",
+      "direction": "up",
       "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
       "citations": [
         {
           "title": "lululemon Launches Its First GORE-TEX Collection",
@@ -88,7 +88,7 @@
     }
   ],
   "cooling": {
-    "name": "Quiet performance",
+    "name": "Decorated basics",
     "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
@@ -96,7 +96,7 @@
     "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1110",
+    "code": "AUTO 1111",
     "name": "Narrow technical footwear",
     "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
     "objects": [
