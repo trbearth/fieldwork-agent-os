@@ -1,15 +1,15 @@
-# Fieldwork Public Pulse — 2026-11-11
+# Fieldwork Public Pulse — 2026-11-16
 
 ## 1. Quiet performance
 
-**emerging · score 72 · confidence 64% · youth 78%**
+**emerging · score 72 · confidence 64% · youth 85%**
 
 12 public posts · 1 network · 7-day comparison
 
 - [Almost done with # sewing MOLLE PALS webbing on this pant leg 🪡🧵 3 more to do. Then on to somethin](https://mastodon.social/@Jilanico/115159927496042402) — Mastodon
 - [Completed the front of this # sewing project, putting MOLLE PALS webbing on pants. Time to do the ba](https://mastodon.social/@Jilanico/115155490931766229) — Mastodon
 - [The weather did whatever it wanted up there — sun one minute, clouds swallowing the entire ridge the](https://mastodon.social/@ncknxk/116811779013406421) — Mastodon
-- [Deconstruct, Rebuild, Elevate. - 2nd development [INFUSOR] Infusor reshapes classic designs into fun](https://mastodon.social/@viim/113463751035730077) — Mastodon
+- [I hate to tell you this, kids, but your mum and I love the # gorpcore lyfe. /Pulls on Patagonia trai](https://beige.party/@a/113973910933323222) — Mastodon
 
 ## 2. Washed tailoring
 
@@ -17,10 +17,10 @@
 
 12 public posts · 1 network · 7-day comparison
 
-- [Navy blazer with gold buttons, beige chinos, and a red-and-navy tie. The red stripe stands out again](https://mastodon.social/@seoul_trad/117595656948230040) — Mastodon
-- [A shirt collar and a green-and-navy tie peek out above a grey printed sweatshirt. I wore the gold-bu](https://mastodon.social/@seoul_trad/117590617944983015) — Mastodon
-- [I layered an ivory cricket sweater and a white Oxford shirt under a Black Watch blazer. The green an](https://mastodon.social/@seoul_trad/117567044435717126) — Mastodon
-- [Navy knitwear and beige trousers. A little white T-shirt shows through the V-neck. Colour and a room](https://mastodon.social/@seoul_trad/117561280847914710) — Mastodon
+- [The striped V of the cricket vest shows just below the white shirt and tie when the navy blazer is l](https://mastodon.social/@seoul_trad/117624716550328166) — Mastodon
+- [A red padded jacket over a navy double-breasted blazer. Open it up and the gold buttons and Fair Isl](https://mastodon.social/@seoul_trad/117612459692939019) — Mastodon
+- [An olive-brown herringbone suit with a Fair Isle vest. Leaving the jacket open lets the red in the k](https://mastodon.social/@seoul_trad/117608043472510534) — Mastodon
+- [Navy blazer with gold buttons, a dark knit and khaki two-pleat trousers. Keeping the knit dark lets ](https://mastodon.social/@seoul_trad/117602551712732268) — Mastodon
 
 ## 3. Decorated basics
 

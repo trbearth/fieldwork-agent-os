@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-11-11",
+    "id": "2026-11-16",
     "mode": "live",
-    "displayDate": "NOV 11, 2026, 02:26 PM EST",
-    "generatedAt": "2026-11-11T19:26:33.921Z",
+    "displayDate": "NOV 16, 2026, 04:50 PM EST",
+    "generatedAt": "2026-11-16T21:50:35.789Z",
     "itemsCollected": 58,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 12
+        "count": 10
       },
       {
         "source": "Hypebeast",
@@ -24,83 +24,43 @@
       }
     ]
   },
-  "summary": "Narrow technical footwear leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
-    {
-      "id": "narrow-technical-footwear",
-      "name": "Narrow technical footwear",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 38,
-      "direction": "up",
-      "thesis": "Narrow technical footwear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "Painters Need Tough Ass Trail Shoes, Too",
-          "source": "Highsnobiety",
-          "date": "Nov 5",
-          "url": "https://www.highsnobiety.com/p/phileo-keen-artist-matt-dillon-fw26-new/"
-        }
-      ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 46,
-      "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
-        {
-          "title": "lululemon Launches Its First GORE-TEX Collection",
-          "source": "Hypebeast",
-          "date": "Nov 5",
-          "url": "https://hypebeast.com/2026/11/lululemon-gore-tex-silent-type-beams-info"
-        }
-      ]
-    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
       "score": 26,
-      "confidence": 20,
-      "youthRelevance": 38,
-      "direction": "flat",
+      "confidence": 21,
+      "youthRelevance": 62,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
       "citations": [
         {
-          "title": "The Moomins Have Moved Into Bottega Veneta’s Intrecciato",
+          "title": "The Nike Dunk Low “Grandma’s Couch” Brings Vintage Living-Room Charm to the Court Classic",
           "source": "Hypebeast",
-          "date": "Nov 5",
-          "url": "https://hypebeast.com/2026/11/the-moomins-have-moved-into-bottega-venetas-intrecciato"
+          "date": "Nov 16",
+          "url": "https://hypebeast.com/2026/11/nike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "1 mention this week versus 1 in the prior seven-day window."
+    "reason": "1 mention this week versus 2 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Narrow technical footwear moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test narrow technical footwear in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1111",
-    "name": "Narrow technical footwear",
-    "thesis": "A deliberately small, evidence-checking batch built around narrow technical footwear.",
+    "code": "AUTO 1116",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Painters Need Tough Ass Trail Shoes, Too"
+      "The Nike Dunk Low “Grandma’s Couch” Brings Vintage Living-Room Charm to the Court Classic"
     ]
   }
 }
