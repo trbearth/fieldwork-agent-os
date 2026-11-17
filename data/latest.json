@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-16",
+    "id": "2026-11-17",
     "mode": "live",
-    "displayDate": "NOV 16, 2026, 04:50 PM EST",
-    "generatedAt": "2026-11-16T21:50:35.789Z",
-    "itemsCollected": 58,
+    "displayDate": "NOV 17, 2026, 03:41 PM EST",
+    "generatedAt": "2026-11-17T20:41:20.928Z",
+    "itemsCollected": 57,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,28 +15,48 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 10
+        "count": 12
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 20
+        "count": 19
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 26,
+      "confidence": 20,
+      "youthRelevance": 38,
+      "direction": "flat",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
+      "citations": [
+        {
+          "title": "nonnative Touches Down at Gallery HBX With \"SKY'S THE LIMIT\" Pop-Up and Exclusive Releases",
+          "source": "Hypebeast",
+          "date": "Nov 17",
+          "url": "https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info"
+        }
+      ]
+    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
       "score": 26,
-      "confidence": 21,
+      "confidence": 20,
       "youthRelevance": 62,
-      "direction": "down",
+      "direction": "flat",
       "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 2 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · -50% seven-day velocity",
+      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
       "citations": [
         {
           "title": "The Nike Dunk Low “Grandma’s Couch” Brings Vintage Living-Room Charm to the Court Classic",
@@ -48,19 +68,19 @@
     }
   ],
   "cooling": {
-    "name": "Decorated basics",
-    "reason": "1 mention this week versus 2 in the prior seven-day window."
+    "name": "Quiet performance",
+    "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Quiet performance moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1116",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 1117",
+    "name": "Quiet performance",
+    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "The Nike Dunk Low “Grandma’s Couch” Brings Vintage Living-Room Charm to the Court Classic"
+      "nonnative Touches Down at Gallery HBX With \"SKY'S THE LIMIT\" Pop-Up and Exclusive Releases"
     ]
   }
 }

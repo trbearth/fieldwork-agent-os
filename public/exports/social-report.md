@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-16
+# Fieldwork Public Pulse — 2026-11-17
 
 ## 1. Quiet performance
 
@@ -17,10 +17,10 @@
 
 12 public posts · 1 network · 7-day comparison
 
+- [Valet 1.1 is out: a small browser tool that works out which colours suit you from colour science and](https://mstdn.social/@flaneurscafe/117631773877209059) — Mastodon
 - [The striped V of the cricket vest shows just below the white shirt and tie when the navy blazer is l](https://mastodon.social/@seoul_trad/117624716550328166) — Mastodon
 - [A red padded jacket over a navy double-breasted blazer. Open it up and the gold buttons and Fair Isl](https://mastodon.social/@seoul_trad/117612459692939019) — Mastodon
 - [An olive-brown herringbone suit with a Fair Isle vest. Leaving the jacket open lets the red in the k](https://mastodon.social/@seoul_trad/117608043472510534) — Mastodon
-- [Navy blazer with gold buttons, a dark knit and khaki two-pleat trousers. Keeping the knit dark lets ](https://mastodon.social/@seoul_trad/117602551712732268) — Mastodon
 
 ## 3. Decorated basics
 
