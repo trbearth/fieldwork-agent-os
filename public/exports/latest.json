@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-17",
+    "id": "2026-11-18",
     "mode": "live",
-    "displayDate": "NOV 17, 2026, 03:41 PM EST",
-    "generatedAt": "2026-11-17T20:41:20.928Z",
-    "itemsCollected": 57,
+    "displayDate": "NOV 18, 2026, 03:15 PM EST",
+    "generatedAt": "2026-11-18T20:15:06.352Z",
+    "itemsCollected": 61,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 12
+        "count": 14
       },
       {
         "source": "Hypebeast",
@@ -24,8 +24,48 @@
       }
     ]
   },
-  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "decorated-basics",
+      "name": "Decorated basics",
+      "stage": "emerging",
+      "score": 48,
+      "confidence": 25,
+      "youthRelevance": 73,
+      "direction": "up",
+      "thesis": "Decorated basics is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "Ford Celebrates Henry Ford’s First Race Win With the Mustang GTD 1901",
+          "source": "Hypebeast",
+          "date": "Nov 18",
+          "url": "https://hypebeast.com/2026/11/ford-mustang-gtd-1901-info"
+        }
+      ]
+    },
+    {
+      "id": "archival-sportswear",
+      "name": "Archival sportswear",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 62,
+      "direction": "up",
+      "thesis": "Archival sportswear is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection",
+          "source": "Hypebeast",
+          "date": "Nov 18",
+          "url": "https://hypebeast.com/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info"
+        }
+      ]
+    },
     {
       "id": "quiet-performance",
       "name": "Quiet performance",
@@ -45,26 +85,6 @@
           "url": "https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info"
         }
       ]
-    },
-    {
-      "id": "decorated-basics",
-      "name": "Decorated basics",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
-      "youthRelevance": 62,
-      "direction": "flat",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "The Nike Dunk Low “Grandma’s Couch” Brings Vintage Living-Room Charm to the Court Classic",
-          "source": "Hypebeast",
-          "date": "Nov 16",
-          "url": "https://hypebeast.com/2026/11/nike-dunk-low-retro-premium-grandmas-couch-golden-hops-velvet-brown-jf4566-900-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
@@ -72,15 +92,15 @@
     "reason": "1 mention this week versus 1 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Quiet performance moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
+    "title": "Decorated basics moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1117",
-    "name": "Quiet performance",
-    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
+    "code": "AUTO 1118",
+    "name": "Decorated basics",
+    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "nonnative Touches Down at Gallery HBX With \"SKY'S THE LIMIT\" Pop-Up and Exclusive Releases"
+      "Ford Celebrates Henry Ford’s First Race Win With the Mustang GTD 1901"
     ]
   }
 }
