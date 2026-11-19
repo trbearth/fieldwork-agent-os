@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-18",
+    "id": "2026-11-19",
     "mode": "live",
-    "displayDate": "NOV 18, 2026, 03:15 PM EST",
-    "generatedAt": "2026-11-18T20:15:06.352Z",
-    "itemsCollected": 61,
+    "displayDate": "NOV 19, 2026, 03:18 PM EST",
+    "generatedAt": "2026-11-19T20:18:54.050Z",
+    "itemsCollected": 58,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 14
+        "count": 11
       },
       {
         "source": "Hypebeast",
@@ -30,19 +30,45 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 48,
-      "confidence": 25,
-      "youthRelevance": 73,
+      "score": 62,
+      "confidence": 43,
+      "youthRelevance": 84,
       "direction": "up",
-      "thesis": "Decorated basics is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "thesis": "Decorated basics is appearing across 2 independent public sources.",
+      "whyNow": "3 mentions this week versus 0 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +100% seven-day velocity",
       "citations": [
         {
           "title": "Ford Celebrates Henry Ford’s First Race Win With the Mustang GTD 1901",
           "source": "Hypebeast",
           "date": "Nov 18",
           "url": "https://hypebeast.com/2026/11/ford-mustang-gtd-1901-info"
+        },
+        {
+          "title": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award",
+          "source": "Vogue",
+          "date": "Nov 19",
+          "url": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award"
+        }
+      ]
+    },
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 43,
+      "confidence": 19,
+      "youthRelevance": 38,
+      "direction": "up",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
+      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "nonnative Touches Down at Gallery HBX With \"SKY'S THE LIMIT\" Pop-Up and Exclusive Releases",
+          "source": "Hypebeast",
+          "date": "Nov 17",
+          "url": "https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info"
         }
       ]
     },
@@ -65,42 +91,23 @@
           "url": "https://hypebeast.com/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info"
         }
       ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 26,
-      "confidence": 20,
-      "youthRelevance": 38,
-      "direction": "flat",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
-        {
-          "title": "nonnative Touches Down at Gallery HBX With \"SKY'S THE LIMIT\" Pop-Up and Exclusive Releases",
-          "source": "Hypebeast",
-          "date": "Nov 17",
-          "url": "https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info"
-        }
-      ]
     }
   ],
   "cooling": {
-    "name": "Quiet performance",
-    "reason": "1 mention this week versus 1 in the prior seven-day window."
+    "name": "No reliable cooling signal",
+    "reason": "More history is required."
   },
   "prediction": {
     "title": "Decorated basics moves outward",
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1118",
+    "code": "AUTO 1119",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "Ford Celebrates Henry Ford’s First Race Win With the Mustang GTD 1901"
+      "Ford Celebrates Henry Ford’s First Race Win With the Mustang GTD 1901",
+      "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award"
     ]
   }
 }

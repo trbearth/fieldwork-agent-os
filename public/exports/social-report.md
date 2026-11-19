@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-18
+# Fieldwork Public Pulse — 2026-11-19
 
 ## 1. Quiet performance
 
@@ -13,14 +13,14 @@
 
 ## 2. Washed tailoring
 
-**emerging · score 72 · confidence 64% · youth 57%**
+**emerging · score 72 · confidence 64% · youth 64%**
 
 12 public posts · 1 network · 7-day comparison
 
 - [Valet 1.4 is out. Two new tabs: Proportion: from your measurements, where each garment should end an](https://mstdn.social/@flaneurscafe/117636505626978317) — Mastodon
 - [Valet 1.1 is out: a small browser tool that works out which colours suit you from colour science and](https://mstdn.social/@flaneurscafe/117631773877209059) — Mastodon
-- [Valet now handles glasses: it checks whether a frame’s weight suits the contrast of your face, and w](https://mstdn.social/@flaneurscafe/117637660130124591) — Mastodon
-- [Colour and pattern are never the problem, but using them incorrectly can be. Valet is designed to he](https://mstdn.social/@flaneurscafe/117637478152396248) — Mastodon
+- [Valet v1.5 is out — and now open source (GPL-3.0 code, CC BY-SA 4.0 text). What’s new: • Mobile & to](https://mstdn.social/@flaneurscafe/117641806595168480) — Mastodon
+- [Valet 1.6 is out. The outfit checker is now the Dresser, with a wardrobe: save the outfits you put t](https://mstdn.social/@flaneurscafe/117643377388334964) — Mastodon
 
 ## 3. Decorated basics
 

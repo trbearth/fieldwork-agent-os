@@ -1,18 +1,29 @@
-# Fieldwork Daily Signal — 2026-11-18
+# Fieldwork Daily Signal — 2026-11-19
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 48 · confidence 25% · youth 73%**
+**emerging · score 62 · confidence 43% · youth 84%**
 
-Decorated basics is appearing across 1 independent public source.
+Decorated basics is appearing across 2 independent public sources.
 
-2 observations · 1 independent source · +100% seven-day velocity
+3 observations · 2 independent sources · +100% seven-day velocity
 
 - [Ford Celebrates Henry Ford’s First Race Win With the Mustang GTD 1901](https://hypebeast.com/2026/11/ford-mustang-gtd-1901-info) — Hypebeast, Nov 18
+- [Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award](https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award) — Vogue, Nov 19
 
-## 2. Archival sportswear
+## 2. Quiet performance
+
+**emerging · score 43 · confidence 19% · youth 38%**
+
+Quiet performance is appearing across 1 independent public source.
+
+1 observation · 1 independent source · +100% seven-day velocity
+
+- [nonnative Touches Down at Gallery HBX With "SKY'S THE LIMIT" Pop-Up and Exclusive Releases](https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info) — Hypebeast, Nov 17
+
+## 3. Archival sportswear
 
 **emerging · score 43 · confidence 19% · youth 62%**
 
@@ -21,16 +32,6 @@ Archival sportswear is appearing across 1 independent public source.
 1 observation · 1 independent source · +100% seven-day velocity
 
 - [ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection](https://hypebeast.com/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info) — Hypebeast, Nov 18
-
-## 3. Quiet performance
-
-**emerging · score 26 · confidence 20% · youth 38%**
-
-Quiet performance is appearing across 1 independent public source.
-
-1 observation · 1 independent source · +0% seven-day velocity
-
-- [nonnative Touches Down at Gallery HBX With "SKY'S THE LIMIT" Pop-Up and Exclusive Releases](https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info) — Hypebeast, Nov 17
 
 ## Method note
 
