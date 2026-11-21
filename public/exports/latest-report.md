@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-11-20
+# Fieldwork Daily Signal — 2026-11-21
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -15,13 +15,14 @@ Decorated basics is appearing across 2 independent public sources.
 
 ## 2. Quiet performance
 
-**emerging · score 43 · confidence 19% · youth 38%**
+**emerging · score 58 · confidence 38% · youth 49%**
 
-Quiet performance is appearing across 1 independent public source.
+Quiet performance is appearing across 2 independent public sources.
 
-1 observation · 1 independent source · +100% seven-day velocity
+2 observations · 2 independent sources · +100% seven-day velocity
 
 - [nonnative Touches Down at Gallery HBX With "SKY'S THE LIMIT" Pop-Up and Exclusive Releases](https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info) — Hypebeast, Nov 17
+- [How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede](https://www.highsnobiety.com/p/converse-chuck-70-gore-tex-hairy-suede/) — Highsnobiety, Nov 20
 
 ## 3. Archival sportswear
 

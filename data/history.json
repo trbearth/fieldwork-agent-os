@@ -4195,130 +4195,51 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-11-21",
+      "mode": "live",
+      "displayDate": "NOV 21, 2026, 01:56 PM EST",
+      "generatedAt": "2026-11-21T18:56:31.960Z",
+      "itemsCollected": 41,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 10
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 62,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 58,
+          "stage": "emerging"
+        },
+        {
+          "id": "archival-sportswear",
+          "score": 43,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "3b618896c4a0a181",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The 7 Best Airbnbs in Morocco Include Stately Riads",
-      "url": "https://www.vogue.com/article/airbnbs-in-morocco",
-      "publishedAt": "2026-08-23T10:00:00.000Z",
-      "collectedAt": "2026-08-23T12:49:24.455Z",
-      "text": "The 7 Best Airbnbs in Morocco Include Stately Riads An Airbnb in Morocco gives you lots of space, privacy, and (if you book one of our favorite riads) unique architectural charm. Here, seven favorites."
-    },
-    {
-      "id": "b9ae606c8914e1ce",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival",
-      "url": "https://www.vogue.com/slideshow/20-times-italian-bombshells-ruled-the-venice-film-festival",
-      "publishedAt": "2026-08-23T10:00:00.000Z",
-      "collectedAt": "2026-08-23T12:49:24.456Z",
-      "text": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival From Sophia Loren to Monica Bellucci, we look back at the Venice Film Festival’s most stylish attendees from decades past."
-    },
-    {
-      "id": "92c07764023c91bb",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Zoë Kravitz Experiments in a Long Misunderstood Denim Style",
-      "url": "https://www.vogue.com/article/zoe-kravitz-experiments-in-a-long-misunderstood-denim-style",
-      "publishedAt": "2026-08-23T05:56:33.000Z",
-      "collectedAt": "2026-08-23T12:49:24.456Z",
-      "text": "Zoë Kravitz Experiments in a Long Misunderstood Denim Style Harry Styles and Zoë Kravitz have a shared love of classic straight-leg jeans; but the actor strikes out in a more retro silhouette."
-    },
-    {
-      "id": "e8c12c9b96b313ea",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Ariana Grande and Ricky Álvarez Layer Up for an Even Harder Launch in London",
-      "url": "https://www.vogue.com/article/ariana-grande-and-ricky-alvarez-layer-up-in-london",
-      "publishedAt": "2026-08-22T22:07:52.000Z",
-      "collectedAt": "2026-08-23T12:49:24.456Z",
-      "text": "Ariana Grande and Ricky Álvarez Layer Up for an Even Harder Launch in London In London for the Eternal Sunshine tour, Ariana Grande and boyfriend Ricky Álvarez are holding onto the last embers of British summertime, despite the temp."
-    },
-    {
-      "id": "48ca4d3ab599e5e6",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "These adidas Mary Janes Are Bringing Chocolate to Barre",
-      "url": "https://www.highsnobiety.com/p/adidas-barreda-mary-jane-shadow-brown/",
-      "publishedAt": "2026-08-23T09:00:02.000Z",
-      "collectedAt": "2026-08-23T12:49:26.057Z",
-      "text": "These adidas Mary Janes Are Bringing Chocolate to Barre The Three Stripes introduces a fresh feminine hybrid: the adidas Originals Barreda Mary Jane Shadow Brown/Cream White."
-    },
-    {
-      "id": "f557b014d59634cd",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Director Jon Turteltaub Confirms 'National Treasure 3' Is Officially in Development",
-      "url": "https://hypebeast.com/2026/8/disney-director-jon-turteltaub-confirms-national-treasure-3-officially-in-development",
-      "publishedAt": "2026-08-23T06:49:35.000Z",
-      "collectedAt": "2026-08-23T12:49:27.527Z",
-      "text": "Director Jon Turteltaub Confirms 'National Treasure 3' Is Officially in Development Summary Director Jon Turteltaub confirmed during a podcast taping that 'National Treasure 3' is currently in developmentA script is actively being written with intentions to bring back key original cast membersDisney and Nicolas Cage representatives have not yet officially commented on the project's progress Disney and franchise director Jon Turteltaub are officially moving forward with National Treasure 3. Turteltaub broke the news during a live taping of the National Treasure Hunt podcast, confirming that a third chapter in the action-adventure series is officially in active development.Speaking at the live event, Turteltaub revealed that a screenplay is currently being written for the long-awaited sequel, adding that plans are underway to bring back as much of the original ensemble as possible. While representatives for Disney and lead actor Nicolas Cage have not officially issued statements regarding the announcement, Turteltaub emphasized that creative momentum on the project has officially resumed.The original National Treasure debuted in 2004, grossing $347 million USD worldwide as it followed historians Ben Gates and Abigail Chase in a quest centered on the Declaration of Independence. Its 2007 sequel, National Treasure: The Book of Secrets, expanded the franchise further with $459 million USD in global box office receipts. While Disney+ previously expanded the universe with the 2022 spin-off series National Treasure: Edge of History, the main feature film series has remained dormant for nearly two decades.&nbsp;View this post on Instagram&nbsp;A post shared by National Treasure Hunt (@nthuntpodcast) Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "fe234e76ca93c125",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "The Mac Miller Estate Celebrates 10 Years of 'The Divine Feminine' With Expanded Vinyl Reissue",
-      "url": "https://hypebeast.com/2026/8/mac-miller-the-divine-feminine-10th-anniversary-three-new-tracks-album-release-info",
-      "publishedAt": "2026-08-23T06:57:51.000Z",
-      "collectedAt": "2026-08-23T12:49:27.527Z",
-      "text": "The Mac Miller Estate Celebrates 10 Years of 'The Divine Feminine' With Expanded Vinyl Reissue Summary The Mac Miller Estate has announced an official 10th anniversary edition of 'The Divine Feminine' featuring three unreleased songsThe reissue is led by the new single Butterflies produced by Taylor Graves with bass instrumentation from ThundercatThe album arrives October 2 on 3LP vinyl formats alongside the launch of an interactive archival website The Mac Miller Estate and Warner Records have officially announced The Divine Feminine (10th Anniversary). Marking 10 years since the release of the late rapper’s landmark 2016 album, the expanded project introduces three previously unreleased tracks from the original recording sessions alongside standard and deluxe 3LP vinyl pressings.Originally released in September 2016, The Divine Feminine represented a major stylistic shift in Mac Miller's catalog, blending hip-hop with jazz-infused instrumentation and soul-focused vocals. The 10th anniversary release is anchored by the newly released single \"Butterflies,\" produced by Taylor Graves and featuring bass work from longtime collaborator Thundercat.The expanded project integrates two additional unreleased session tracks into the original tracklist, which features guest appearances from Anderson .Paak, Ariana Grande, Kendrick Lamar, Ty Dolla $ign, CeeLo Green, Bilal, and Njomza. To celebrate the milestone, the estate also launched a new interactive website designed in partnership with XXIX, serving as a digital archive of Miller's life and artistic legacy through photos and media contributed by friends and collaborators.The Divine Feminine (10th Anniversary) officially releases on October 2, 2026, with 3LP vinyl pre-orders available now online and select music retailers. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "5346164c942ee452",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Nike Kobe 3 Low Protro Prepares for \"Pure Platinum\" Fall 2026 Release",
-      "url": "https://hypebeast.com/2026/8/nike-kobe-3-low-protro-pure-platinum-official-look-iv7127-001-release-info",
-      "publishedAt": "2026-08-23T06:36:52.000Z",
-      "collectedAt": "2026-08-23T12:49:27.527Z",
-      "text": "Nike Kobe 3 Low Protro Prepares for \"Pure Platinum\" Fall 2026 Release Summary Nike is expanding its Kobe 3 Low Protro lineup with an upcoming \"Pure Platinum\" colorwayThe understated design features a light grey build highlighted by metallic heel branding and Armory Blue accentsThe sneaker is scheduled to release in September 2026 for a retail price of $190 USD Name: Nike Kobe 3 Low Protro \"Pure Platinum\"Colorway: Pure Platinum/Armory BlueSKU: IV7127-001MSRP: $190 USDRelease Date: September 2026Where to Buy: NikeNike is extending its basketball lineup with the upcoming Kobe 3 Low Protro in \"Pure Platinum.\" Official imagery of the low-top silhouette has surfaced following a busy run of recent releases for the model, including the \"Atomic Pink,\" \"WNBA All-Star,\" and \"Warning Label\" renditions.Taking a more understated design direction compared to its vibrant predecessors, the \"Pure Platinum\" colorway dresses almost the entire shoe in light grey. Armory Blue hits accentuate the branding throughout, while a subtle metallic Swoosh at the heel adds a reflective finish without disrupting the overall neutral aesthetic.Ahead of its retail debut, the colorway appeared on court during the FIBA World Cup 2027 Qualifiers, worn by basketball player Jun Seok Yeo. The model continues its momentum across hardwood courts alongside other recent highlights, such as Jalen Brunson's \"Arancia\" iteration.The Nike Kobe 3 Low Protro \"Pure Platinum\" drops in September 2026 via Nike.com and select retailers for $190 USD. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "1c95be6e6f81066d",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Stüssy Embraces Seasonal Changes With Fall 2026 Lookbook Reveal",
-      "url": "https://hypebeast.com/2026/8/stussy-fall-2026-lookbook-collection-release-info",
-      "publishedAt": "2026-08-23T07:15:39.000Z",
-      "collectedAt": "2026-08-23T12:49:27.527Z",
-      "text": "Stüssy Embraces Seasonal Changes With Fall 2026 Lookbook Reveal Summary Stüssy has officially unveiled its Fall 2026 collection alongside a 14-image campaign lookbookThe range bridges summer-ready baggy shorts with transitional zip-up hoodies and layered outerwearThe full collection drops on August 21 via Stüssy Chapter locations and the brand's webstore Stüssy has officially revealed its Fall 2026 Collection with an accompanying 14-image campaign lookbook. The upcoming seasonal offering bridges summer-ready apparel with functional autumn outerwear designed to adapt to shifting weather conditions.The visual presentation showcases a versatile range engineered for multi-seasonal layering. Key pieces within the drop span from relaxed, baggy shorts to cold-weather staples, including loose-cut zip-up hoodies, transitional outerwear, and graphic tops including floral shirts and '90s-inspired cable knits. Every garment emphasizes a relaxed, comfortable fit that functions through changing temperatures while highlighting Stüssy’s unmistakable visual branding.The Stüssy Fall 2026 collection officially releases on Friday, August 21, 2026, at 10 a.m. local time via select Stüssy Chapter locations and online across North America, the UK, Europe, Japan, and Korea. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "7cb9f8b3f628d424",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Michael Jordan's 1998 NBA Finals Game 3 Jersey Heads to Auction at Pharrell's JOOPITER",
-      "url": "https://hypebeast.com/2026/8/michael-jordan-1998-nba-finals-game-3-jersey-auction-pharrells-joopiter",
-      "publishedAt": "2026-08-23T06:11:50.000Z",
-      "collectedAt": "2026-08-23T12:49:27.527Z",
-      "text": "Michael Jordan's 1998 NBA Finals Game 3 Jersey Heads to Auction at Pharrell's JOOPITER Summary Digital auction platform JOOPITER has announced the upcoming sale of Michael Jordan's 1998 NBA Finals Game 3 jerseyThe white uniform represents the only publicly known white game-winning jersey from Jordan's final championship run with the Chicago BullsBidding opens on September 15 at 10 a.m. EDT with an estimated valuation between $10 million and $15 million USD Digital auction platform JOOPITER has officially announced the upcoming sale of Michael Jordan's 1998 NBA Finals Game 3 Game-Worn Jersey. Representing one of the most significant basketball artifacts ever brought to market, the uniform from Jordan's legendary \"The Last Dance\" championship season with the Chicago Bulls is estimated to fetch between $10 million USD and $15 million USD.Worn on June 7, 1998, at Chicago's United Center against the Utah Jazz, the jersey marks a pivotal moment in NBA history. Jordan played 43 minutes in Game 3, recording 24 points, 4 rebounds, 3 assists, 2 steals, and 1 block to lead Chicago to a 96-54 victory. The 42-point blowout held Utah to the fewest points ever scored by a team in an NBA Finals game, shifting momentum in Chicago's favor en route to their sixth and final championship title.The white home uniform stands as the only publicly known white game-winning jersey from the 1998 NBA Finals ever to surface. Adding to its historical value, the piece features the coveted 1998 NBA Finals embroidered patch on the left chest. For verified authenticity, the jersey is accompanied by a MeiGray photomatching certificate and an official letter of provenance from Bill Thoma.Bidding for Michael Jordan's 1998 NBA Finals Game 3 Jersey officially opens on September 15, 2026, at 10:00 AM EDT exclusively via JOOPITER. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "4fc058da23437b25",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Tyler, The Creator, Future, and Don Toliver Lead 2026 Camp Flog Gnaw Lineup",
-      "url": "https://hypebeast.com/2026/8/2026-camp-flog-gnaw-lineup-tyler-the-creator-future-don-toliver-announcement",
-      "publishedAt": "2026-08-23T06:02:44.000Z",
-      "collectedAt": "2026-08-23T12:49:27.527Z",
-      "text": "Tyler, The Creator, Future, and Don Toliver Lead 2026 Camp Flog Gnaw Lineup Summary Tyler, The Creator, Future, Don Toliver, Steve Lacy, and Turnstile are set to headline the 2026 Camp Flog Gnaw CarnivalThe twelfth annual music festival produced in partnership with Goldenvoice returns to Dodger Stadium on November 14 and 15The official lineup announcement follows an immediate ticket sellout for the two-day event Tyler, The Creator, Future, Don Toliver, Steve Lacy, and Turnstile are officially set to headline the twelfth edition of the Camp Flog Gnaw Carnival. Produced in collaboration with Goldenvoice, the Los Angeles music festival returns to Dodger Stadium on November 14 and 15, 2026, following an immediate ticket sellout.Curated directly by Tyler, The Creator, the 2026 lineup features a wide-ranging roster spanning hip-hop, R&B, indie, and alternative subcultures. Joining the headliners are major acts including J.I.D, Vince Staples, Lupe Fiasco, Earl Sweatshirt & Mike, Isaiah Rashad, Syd, The Alchemist, Latin Mafia, 2hollis, Not For Radio, Wallows, Thee Sacred Souls, and Concrete Boys.The festival also spotlights a mix of longtime Odd Future collaborators, rising talent, and genre-defying acts, including Domo Genesis, Left Brain, Mike G, Casey Veggies, Magdalena Bay, Leon Thomas, Audrey Nuna, Lola Young, Quadeca, and 310babii. Celebrating its twelfth installment, the artist-led gathering maintains its reputation for community-driven curation and landmark live performances.The 2026 Camp Flog Gnaw Carnival officially takes place on November 14 and 15, 2026, at Dodger Stadium in Los Angeles. View this post on InstagramA post shared by Camp Flog Gnaw Carnival (@campfloggnaw) Click here to view full gallery at Hypebeast"
-    },
     {
       "id": "03d5ad912653b4bd",
       "sourceId": "vogue",
@@ -4395,50 +4316,6 @@
       "publishedAt": "2026-08-23T19:00:00.000Z",
       "collectedAt": "2026-08-24T12:59:00.225Z",
       "text": "How Sophie McIntosh Wrote ‘Benevolent,’ One of the Most Bracing Plays of the Year The playwright speaks to Vogue about drawing inspiration from New York’s old reformatory homes, why she still believes in content warnings, and what it means for a play to be truly “political.”"
-    },
-    {
-      "id": "aac225225001a81f",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Best Dressed Stars of the Week Nailed Sophisticated-Cool",
-      "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-rihanna-hailey-bieber-zoe-kravitz",
-      "publishedAt": "2026-08-23T16:14:31.000Z",
-      "collectedAt": "2026-08-24T12:59:00.225Z",
-      "text": "The Best Dressed Stars of the Week Nailed Sophisticated-Cool These quietly elegant looks had serious cool factor—as seen on stars like Rihanna, Hailey Bieber, and more."
-    },
-    {
-      "id": "781383e0a1fd2c8d",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Rihanna Runs It Back in a 2000s-era Rihanna Staple",
-      "url": "https://www.vogue.com/article/rihanna-runs-it-back-in-a-2000s-era-rihanna-staple",
-      "publishedAt": "2026-08-23T13:27:09.000Z",
-      "collectedAt": "2026-08-24T12:59:00.225Z",
-      "text": "Rihanna Runs It Back in a 2000s-era Rihanna Staple While everyone else engages in the great summer shorts debate, Rihanna opts to keep it classic on a night out in New York."
-    },
-    {
-      "id": "cb5d35ad61d3ec81",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "A First Look At Sézane’s “New Era” Autumn Collection",
-      "url": "https://www.vogue.com/article/sezane-new-in",
-      "publishedAt": "2026-08-23T13:00:00.000Z",
-      "collectedAt": "2026-08-24T12:59:00.225Z",
-      "text": "A First Look At Sézane’s “New Era” Autumn Collection Vogue hears from Sézane founder Morgane Sezalory about the brand’s new era. Expect trenches, denim and suede accessories aplenty."
-    },
-    {
-      "id": "4d1b795adc42b8fb",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "From Sophia Loren to Monica Bellucci, 19 Times Italian Bombshells Ruled the Venice Film Festival",
-      "url": "https://www.vogue.com/slideshow/19-times-italian-bombshells-ruled-the-venice-film-festival",
-      "publishedAt": "2026-08-23T10:00:00.000Z",
-      "collectedAt": "2026-08-24T12:59:00.225Z",
-      "text": "From Sophia Loren to Monica Bellucci, 19 Times Italian Bombshells Ruled the Venice Film Festival From Sophia Loren to Monica Bellucci, we look back at the Venice Film Festival’s most stylish attendees from decades past."
     },
     {
       "id": "5980ea5589956096",
@@ -50100,6 +49977,457 @@
       "publishedAt": "2026-11-20T07:59:28.000Z",
       "collectedAt": "2026-11-20T19:50:12.621Z",
       "text": "J.Crew Pulls Miles Davis off the Album Cover for Its “Centennial Collection” Summary J.Crew marks Miles Davis’s 100th birthday with a limited three-piece capsule built from everyday staples.The 1983 Oxford nods to the shirt Davis wore on the cover of ‘Milestones’ and pairs a longer collar with J.Crew’s relaxed “heritage fit.”A vintage-wash graphic T-shirt and an embroidered washed-canvas cap complete the lineup. J.Crew is marking Miles Davis’s 100th birthday with Miles Davis x J.Crew: The Centennial Collection, a limited-edition capsule that carries the musician’s lasting sense of style into three everyday pieces. The lineup covers an Oxford shirt, a graphic T-shirt and a cap, and each one ties back to Davis through a specific design reference.The 1983 Oxford anchors the capsule and takes its cue from the Oxford shirt Davis wore for the cover of his 1958 album Milestones. J.Crew cuts it from all-cotton Oxford cloth with real substance to the weight, extends the collar slightly past standard proportions and loosens a classic shirt block into a relaxed shape the brand calls its “heritage fit.”The graphic T-shirt brings Davis in through a 1970 image by music photographer Glen Craig, who captured him performing at the Fillmore East, with J.Crew’s design team reworking the shot into the shirt’s artwork. The graphic sits on J.Crew’s vintage-wash cotton, and a co-branded neck label identifies the piece as part of the collaboration.Davis’s signature takes the lead on the cap, embroidered onto a body of hard-wearing washed canvas that echoes the faded finish of the T-shirt. That signature is the cap’s only Davis reference, keeping the tribute personal and pared back.Miles Davis x J.Crew: The Centennial Collection lands November 20 online, as well as in-store at J.Crew’s Bond Street, Rockefeller Center, Fifth Avenue, Century City, Newbury Street, North Michigan Avenue and Georgetown locations. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "713b3dd5411513a4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘Cancer Does Change You’: Kate Middleton Shares Her Healing Journey in ‘Deeply Personal’ Documentary",
+      "url": "https://www.vogue.com/article/kate-middleton-shares-her-healing-journey-in-deeply-personal-documentary-heal-2026-11-21",
+      "publishedAt": "2026-11-21T17:59:21.000Z",
+      "collectedAt": "2026-11-21T18:56:27.802Z",
+      "text": "‘Cancer Does Change You’: Kate Middleton Shares Her Healing Journey in ‘Deeply Personal’ Documentary Kate Middleton, the Princess of Wales, has shared the trailer for an emotional new documentary, ‘Heal,’ in which she charts her cancer journey."
+    },
+    {
+      "id": "5f1cb7d2c652d7a7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Can a Pre-Nup Be Romantic?",
+      "url": "https://www.vogue.com/article/can-a-pre-nup-be-romantic",
+      "publishedAt": "2026-11-21T17:57:50.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Can a Pre-Nup Be Romantic? Prenups can help ease wedding-planning tension and build long-term trust—here, relationship experts break down how to navigate the money talk with transparency and care."
+    },
+    {
+      "id": "4bd6bd5adc4fb049",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sienna Spiro Had Herself a Merry Little Christmas at the Bloomingdale’s x Ralph Lauren Window Unveiling",
+      "url": "https://www.vogue.com/slideshow/sienna-spiro-bloomingdales-ralph-lauren-window-unveiling",
+      "publishedAt": "2026-11-21T17:49:35.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Sienna Spiro Had Herself a Merry Little Christmas at the Bloomingdale’s x Ralph Lauren Window Unveiling On Friday evening, as crowds swarmed Lexington Avenue and 59th Street to catch a glimpse of the breakthrough singer, Spiro was on hand to unveil the Bloomingdale’s holiday windows, created this season in collaboration with Ralph Lauren."
+    },
+    {
+      "id": "9e7f49f2b17e4178",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "‘The Body’ Costumes Make for the Ultimate 2000s Period Piece",
+      "url": "https://www.vogue.com/article/the-body-costume-designer-mirren-gordon-crozier-interview",
+      "publishedAt": "2026-11-21T17:17:49.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "‘The Body’ Costumes Make for the Ultimate 2000s Period Piece “I sort of know all these girls, in a way,” says “The Body” costume designer Mirren Gordon-Crozier. “I think we all do, maybe.”"
+    },
+    {
+      "id": "211b11b2f6bcdb9c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Jennifer Lopez Isn’t Beating the Elizabeth Taylor Allegations",
+      "url": "https://www.vogue.com/article/jennifer-lopez-isnt-beating-the-elizabeth-taylor-allegations-2026-11-20",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Jennifer Lopez Isn’t Beating the Elizabeth Taylor Allegations Jennifer Lopez and Elizabeth Taylor share more than just a penchant for whirlwind romances. Case in point? The singer’s latest red-carpet look."
+    },
+    {
+      "id": "70dfaa11043cd952",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Survive Politics Talk at Thanksgiving (Without Losing Your Mind)",
+      "url": "https://www.vogue.com/article/how-to-survive-political-talk-thanksgiving",
+      "publishedAt": "2026-11-21T14:30:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "How to Survive Politics Talk at Thanksgiving (Without Losing Your Mind) An expert-approved cheat sheet on how to talk to loved ones (and tolerated-out-of-necessity ones) this holiday."
+    },
+    {
+      "id": "708afc1044435e16",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mario Sorrenti: The Life Behind the Images",
+      "url": "https://www.vogue.com/article/mario-sorrenti-the-life-behind-the-images",
+      "publishedAt": "2026-11-21T14:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Mario Sorrenti: The Life Behind the Images In Paris, an exhibition of Mario Sorrenti's personal diaries from the 1990s reveals the life, relationships and experiences behind some of fashion photography's most iconic images. An intimate journey into the world of a photographer who transformed the way we see beauty, desire and sensuality."
+    },
+    {
+      "id": "b69d87b42b080c4b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Rosalía Takes the Statement Hat Trend to the Skies",
+      "url": "https://www.vogue.com/article/rosalia-takes-the-statement-hat-trend-to-the-skies-2026-21-11",
+      "publishedAt": "2026-11-21T11:35:40.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Rosalía Takes the Statement Hat Trend to the Skies From Elle Fanning to Dua Lipa and now Rosalía: when it comes to dramatic headgear, birds of a feather stick together."
+    },
+    {
+      "id": "c86f42adeb6a08cc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Hailey Bieber’s It-Jacket Wardrobe Is Becoming Untenable",
+      "url": "https://www.vogue.com/article/hailey-biebers-it-jacket-wardrobe-is-becoming-untenable-2026-11-21",
+      "publishedAt": "2026-11-21T11:18:46.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Hailey Bieber’s It-Jacket Wardrobe Is Becoming Untenable Leaving the rest of us out in the cold, Hailey Bieber’s collection of opera coats, leathers, and trenches herald a post-quiet luxury era that keeps things cozy."
+    },
+    {
+      "id": "28ffe90c1b796d1c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "21 Delightful Old Goldie Hawn Pictures, Just Because",
+      "url": "https://www.vogue.com/slideshow/21-delightful-old-pictures-of-goldie-hawn-just-because",
+      "publishedAt": "2026-11-21T11:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "21 Delightful Old Goldie Hawn Pictures, Just Because A bombshell with comedy chops nonpareil, Goldie Hawn has never taken herself too seriously."
+    },
+    {
+      "id": "1c612cb0dfc82941",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Shop the Mules Celebrities Can’t Get Enough Of",
+      "url": "https://www.vogue.com/article/how-to-style-mules",
+      "publishedAt": "2026-11-21T11:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Shop the Mules Celebrities Can’t Get Enough Of The slip-on-and-go shoe is having a moment. Shop the mules celebrities can’t get enough of, from The Row to Bottega Veneta and Ancient Greek Sandals."
+    },
+    {
+      "id": "6f65b4f3dc1b852e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "5 Fall/Winter 2026 Wedding Guest Dress Trends You Can Still Shop",
+      "url": "https://www.vogue.com/article/fall-winter-2026-wedding-guest-dresses",
+      "publishedAt": "2026-11-21T11:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "5 Fall/Winter 2026 Wedding Guest Dress Trends You Can Still Shop There's still time to shop some of fall/winter 2026's biggest trends—and these five work particularly well for wedding guests, too."
+    },
+    {
+      "id": "9f33cc6bdd7fa2d7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-november-21",
+      "publishedAt": "2026-11-21T07:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Beauty Marks: The Best Beauty Looks of the Week From daring baby bangs to Hitchcock heroine bobs and lips with a darker side, this week’s beauty had plenty of personality."
+    },
+    {
+      "id": "6f3401743762c4dd",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Kim Kardashian Is Dressing for Team Lewis Hamilton",
+      "url": "https://www.vogue.com/article/kim-kardashian-is-dressing-for-team-lewis-hamilton-2026-11-21",
+      "publishedAt": "2026-11-21T05:45:46.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "Kim Kardashian Is Dressing for Team Lewis Hamilton Putting her own high-octane spin on Ferrari team colors, Kim Kardashian donned a head-to-toe leather look at the Las Vegas Grand Prix."
+    },
+    {
+      "id": "caf0cfdeabd877e6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "First Call! The Best Early Black Friday Beauty Deals Have Already Started",
+      "url": "https://www.vogue.com/article/best-early-black-friday-beauty-deals-11-20-2026",
+      "publishedAt": "2026-11-21T01:14:31.000Z",
+      "collectedAt": "2026-11-21T18:56:27.803Z",
+      "text": "First Call! The Best Early Black Friday Beauty Deals Have Already Started Want to get ahead of holiday shopping? The best early Black Friday beauty deals feature markdowns of up to 60%, Dyson, Elemis, Merit & more. Shop these steals before they’re gone."
+    },
+    {
+      "id": "c6841f76e6cba112",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "81 Thoughts I Had While Watching ‘The Hunger Games’",
+      "url": "https://www.vogue.com/article/81-thoughts-i-had-while-watching-the-hunger-games",
+      "publishedAt": "2026-11-21T01:12:49.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "81 Thoughts I Had While Watching ‘The Hunger Games’ This movie really is a brilliant critique of global capitalism…and also, the wigs slap."
+    },
+    {
+      "id": "edc87e2021e7107c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Unstoppable Cecilia Vicuña",
+      "url": "https://www.vogue.com/article/the-unstoppable-cecilia-vicuna",
+      "publishedAt": "2026-11-21T01:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "The Unstoppable Cecilia Vicuña This fall, the Chilean artist and poet has shows on both sides of the country, at the Museum of Contemporary Art in Los Angeles and Lehmann Maupin in New York City."
+    },
+    {
+      "id": "c91054ec5401cf75",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Inside the Confetti-Filled Opening Night of ‘Much Ado About Nothing,’ Starring Tom Hiddleston and Hayley Atwell",
+      "url": "https://www.vogue.com/slideshow/much-ado-about-nothing-opening-night",
+      "publishedAt": "2026-11-21T01:00:00.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "Inside the Confetti-Filled Opening Night of ‘Much Ado About Nothing,’ Starring Tom Hiddleston and Hayley Atwell William Shakespeare’s “Much Ado About Nothing” arrived at the Winter Garden Theatre on Thursday with an explosion of fuchsia confetti, a giant inflatable heart, and seriously impressive dance moves from Tom Hiddleston and Hayley Atwell."
+    },
+    {
+      "id": "1fa223687a82c481",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Couple Created a Giant Sunflower Walkway For Their Multicultural Sun Valley Wedding",
+      "url": "https://www.vogue.com/slideshow/parker-selman-and-karan-rai-wedding",
+      "publishedAt": "2026-11-20T22:30:36.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "The Couple Created a Giant Sunflower Walkway For Their Multicultural Sun Valley Wedding Set at an Idaho 4-H camp, Parker Selman and Karan Rai’s weekend celebration blended Punjabi, Hindu, Jewish, and Episcopalian traditions—plus a custom bridal gown inspired by 1955 Christian Dior."
+    },
+    {
+      "id": "44cb6e9b135509e4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Best Early Black Friday Clothing Deals for Your Fashion Radar 2026",
+      "url": "https://www.vogue.com/slideshow/best-early-black-friday-clothing-deals-11-20-2026",
+      "publishedAt": "2026-11-20T22:03:40.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "Best Early Black Friday Clothing Deals for Your Fashion Radar 2026 Update your winter wardrobe with the best early Black Friday clothing deals, before the main event next week."
+    },
+    {
+      "id": "f27c59c34379460e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Fair Isle Sweater Is a Winter Favorite for a Reason–Shop 25+ of the Best",
+      "url": "https://www.vogue.com/slideshow/fair-isle-sweater-trend",
+      "publishedAt": "2026-11-20T21:33:20.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "The Fair Isle Sweater Is a Winter Favorite for a Reason–Shop 25+ of the Best Here are 28 of the best Fair Isle sweater styles to shop this fall and winter, courtesy of Dries Van Noten, Dôen, and more."
+    },
+    {
+      "id": "4f7eff13989c3be3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Winter’s Top Boot Color Isn’t Brown or Black—It’s Burgundy",
+      "url": "https://www.vogue.com/article/burgundy-boots-winter-trend",
+      "publishedAt": "2026-11-20T21:03:37.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "Winter’s Top Boot Color Isn’t Brown or Black—It’s Burgundy Elegant yet versatile, wine red is the ultimate winter hue for elevating both neutrals and brighter hues. Shop our favorite burgundy boots now."
+    },
+    {
+      "id": "0994db901ed1686c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Minimalist’s Holiday Style Guide",
+      "url": "https://www.vogue.com/article/minimalist-holiday-outfits",
+      "publishedAt": "2026-11-20T20:47:53.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "The Minimalist’s Holiday Style Guide Shop the minimalist’s guide to holiday dressing, from elegant draped sets to silk separates and perfect party shoes."
+    },
+    {
+      "id": "5b4465675ccf27b8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How to Style Wide-Leg Jeans, According to the Street Style Set",
+      "url": "https://www.vogue.com/article/how-to-style-wide-leg-jeans",
+      "publishedAt": "2026-11-20T20:30:12.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "How to Style Wide-Leg Jeans, According to the Street Style Set Wide-leg jeans are one of the most popular denim trends, and this is how to style yours, with inspiration straight from the street style set."
+    },
+    {
+      "id": "071f19f7e0ab22c7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Farrar, Straus and Giroux Celebrated Eight Decades of Literary Greats",
+      "url": "https://www.vogue.com/slideshow/farrar-straus-and-giroux-celebrate-eight-decades-of-literary-greats",
+      "publishedAt": "2026-11-20T19:59:16.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "Farrar, Straus and Giroux Celebrated Eight Decades of Literary Greats Few literary presses can claim a Rolodex as studded with boldface names as Farrar, Straus and Giroux. This week, the publishing house, whose authors have been awarded dozens of National Book Awards, Pulitzer Prizes, and Nobel Prizes in Literature, toasted its 80th anniversary with a distinguished fête in Manhattan’s Chelsea neighborhood."
+    },
+    {
+      "id": "ae155c3a91251da3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Here’s Everything Coming to Netflix in December 2026",
+      "url": "https://www.vogue.com/article/heres-everything-coming-to-netflix-in-december-2026",
+      "publishedAt": "2026-11-20T19:50:08.000Z",
+      "collectedAt": "2026-11-21T18:56:27.804Z",
+      "text": "Here’s Everything Coming to Netflix in December 2026 From a “Pride & Prejudice” miniseries to an adaptation of Jhumpa Lahiri’s short story collection “Unaccustomed Earth” and the final season of “Emily in Paris.”"
+    },
+    {
+      "id": "4a8b130c9570ad3d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "GTA's Most Wanted? Cactus Jack's Six-Star Nike Air Forces",
+      "url": "https://www.highsnobiety.com/p/cactus-jack-gta-nike-air-force-1-shoes/",
+      "publishedAt": "2026-11-21T18:27:00.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "GTA's Most Wanted? Cactus Jack's Six-Star Nike Air Forces Cactus Jack releases GTA Nike Air Force 1 Low sneakers with six-star stamps & money bands, all in honor of the latest video game launch."
+    },
+    {
+      "id": "c96798203e7d9560",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas’ Great-Looking Loafer Got a Promotion",
+      "url": "https://www.highsnobiety.com/p/adidas-handball-spezial-loafer-brown-suede/",
+      "publishedAt": "2026-11-20T22:48:43.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "adidas’ Great-Looking Loafer Got a Promotion adidas' Handball Spezial Loafer got an fancy horsebit upgrade for the fall. Here's everything on the new look."
+    },
+    {
+      "id": "840d275e11f110bc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike Just Revived Fashion’s Most Experimental Running Line",
+      "url": "https://www.highsnobiety.com/p/nike-undercover-fashion-new/",
+      "publishedAt": "2026-11-20T22:21:21.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "Nike Just Revived Fashion’s Most Experimental Running Line Gyakusou may mean “running in reverse”, but the brand is one of the most forward thinking performance wear lines. Nike brings back one of its best collab collections."
+    },
+    {
+      "id": "361e2a13a8c6be2b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Five Young Artists on Why “Alt Shit” Thrives at Tyler, The Creator’s Camp Flog Gnaw",
+      "url": "https://www.highsnobiety.com/p/five-young-artists-on-why-alt-shit-thrives-at-tyler-the-creators-camp-flog-gnaw/",
+      "publishedAt": "2026-11-20T22:08:28.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "Five Young Artists on Why “Alt Shit” Thrives at Tyler, The Creator’s Camp Flog Gnaw Rio Amor, Gabriel Jacoby, 54 Ultra, Audrey Nuna, and Natanya walk into Dodger Stadium…"
+    },
+    {
+      "id": "c86f9d20b240a77a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede",
+      "url": "https://www.highsnobiety.com/p/converse-chuck-70-gore-tex-hairy-suede/",
+      "publishedAt": "2026-11-20T22:45:53.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede Converse winterizes its classic Chuck Taylor, resulting in the Chuck 70 GORE-TEX Hairy Suede sneaker."
+    },
+    {
+      "id": "d38841292602f528",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Luxe Air Forces Are \"Chanel\" Bags for Your Feet",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-quilted-black/",
+      "publishedAt": "2026-11-20T22:44:48.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "Nike’s Luxe Air Forces Are \"Chanel\" Bags for Your Feet Nike's Air Force 1 Low Quilted sneaker appears in an all-black colorway, giving the shoe even more Chanel-ish charm."
+    },
+    {
+      "id": "b503cc363895bfba",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Meg Stalter, Mel Ottenberg, and Kai Schreiber Walk Into a Marc Jacobs Campaign",
+      "url": "https://www.highsnobiety.com/p/meg-stalter-leads-a-cast-of-new-york-legends-in-marc-jacobs-holiday-campaign/",
+      "publishedAt": "2026-11-20T21:02:32.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "Meg Stalter, Mel Ottenberg, and Kai Schreiber Walk Into a Marc Jacobs Campaign Marc Jacobs' Winter 2026 holiday campaign leans into New Yorkers’ undeniable ability to commit to the bit of having a good time in less-than-ideal conditions."
+    },
+    {
+      "id": "6a304b352173a8ca",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s OG \"Space Jam\" Air Jordans Still Hit After 30 Years",
+      "url": "https://www.highsnobiety.com/p/jordan-11-space-jam-2026/",
+      "publishedAt": "2026-11-20T22:43:07.000Z",
+      "collectedAt": "2026-11-21T18:56:29.256Z",
+      "text": "Nike’s OG \"Space Jam\" Air Jordans Still Hit After 30 Years The Air Jordan 11 \"Space Jam\" sneaker returns for the movie's 30th anniversary with original details."
+    },
+    {
+      "id": "6d9ae9b136a8a753",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Marvel Drops Sprawling 11-Part 'Avengers: Doomsday' Characters Poster Montage",
+      "url": "https://hypebeast.com/2026/11/marvel-11-part-avengers-doomsday-poster-montage-character-poster-unveiled",
+      "publishedAt": "2026-11-21T10:00:39.000Z",
+      "collectedAt": "2026-11-21T18:56:30.690Z",
+      "text": "Marvel Drops Sprawling 11-Part 'Avengers: Doomsday' Characters Poster Montage Summary Marvel Studios has officially revealed a massive lineup of new posters showcasing the ensemble cast of 'Avengers: Doomsday'The 11 interconnected images form a large montage featuring the combined forces of the X-Men, Fantastic Four, and AvengersVisual details in the artwork tease potential character team-ups and a major power upgrade for Thor Marvel Studios has officially revealed a massive new lineup of ensemble posters for Avengers: Doomsday. Arriving alongside a recent behind-the-scenes video featuring Robert Downey Jr., the sprawling visual campaign features 11 interconnected posters that seamlessly combine to form one large montage, depicting the X-Men, Fantastic Four, and Avengers actively battling Doctor Doom and his army of Sentinels and Doombots.The newly released artwork provides fans with a closer look at key characters and previously unseen forces, including the first official showcase of the Doombots, Doctor Doom's android bodyguards. The posters also reveal detailed costume updates, such as Alan Cumming's Nightcrawler fully suited up for battle. Furthermore, the strategic character pairings across the montage hint at potential on-screen dynamics, notably pairing Vanessa Kirby's Invisible Woman with Tenoch Huerta's Namor—a nod to their comic book history.Among the most heavily discussed details is the poster featuring Chris Hemsworth's Thor alongside Chris Evans' Steve Rogers. While Rogers is depicted wielding Mjolnir with its signature blue lightning, Thor's Stormbreaker axe is shown summoning yellow lightning. The distinct color shift has sparked speculation that the Asgardian is now empowered by the Odinforce, signaling a significant power upgrade as the heroes prepare to face the overwhelming threat of Doom.Avengers: Doomsday releases on December 18, 2026. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "606a0941efd56e26",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nike Hits the Grid With a Long-Term Formula 1 Partnership Starting in 2027",
+      "url": "https://hypebeast.com/2026/11/nike-formula-1-f1-partnership-announcement-info",
+      "publishedAt": "2026-11-21T08:00:35.000Z",
+      "collectedAt": "2026-11-21T18:56:30.690Z",
+      "text": "Nike Hits the Grid With a Long-Term Formula 1 Partnership Starting in 2027 Summary Nike becomes an official Formula 1 partner from the 2027 season under a long-term global agreementThe deal spans uniforms for F1 event staff, sporting apparel for F1 ACADEMY and fan collections across footwear, apparel and accessoriesA limited Nike x Las Vegas Grand Prix capsule debuts during race weekend, with more limited capsules planned from 2027 Nike and Formula 1 have signed a long-term global partnership that makes the Swoosh an official F1 partner from the 2027 season, with a remit that runs from event uniforms to fan-facing sportswear. Neither company has put a number on the term, but the scope is clearly mapped, covering F1’s own staff, the all-female F1 ACADEMY series, fan collections and new race-weekend experiences.The most direct piece of the agreement puts Nike in charge of dressing Formula 1 itself, with the brand named official apparel and uniform provider for F1 personnel at races around the world. The announcement makes no mention of individual teams or drivers, so this layer of the deal centers on the people working behind the scenes at each race weekend rather than the cars on the grid.Nike’s role with F1 ACADEMY leans harder into product development, with the brand named Official Sporting Apparel Partner of the all-female racing series and set to work alongside its athletes on future performance products. The series is built to support young women and girls in motorsport, giving Nike a direct line to the next generation of drivers as it shapes that gear.NIKE, Inc. President & CEO Elliott Hill tied the partnership to a competitive outlook he sees in both the brand and the sport. “Formula 1 is driven by competition, speed and a constant push to innovate. That’s an athlete mindset, and it’s one we share at Nike,” Hill said in a statement.For fans, Nike will produce sportswear collections spanning footwear, apparel and accessories, alongside new race-weekend experiences both trackside and away from the circuit. That product will roll out through a series of limited capsule collections beginning in 2027, with further details on both product and experiences to follow over the 2027 season and beyond.The first product from the partnership, a limited Nike x Las Vegas Grand Prix capsule, debuts November 20 during the Las Vegas race weekend at the Nike Las Vegas store at Caesars Palace and the F1 Hub at The Venetian Resort Las Vegas. Click here to view full galler"
+    },
+    {
+      "id": "6ad6cd1fb675f8ad",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Engineered Garments x NANGA Stuff 770-Fill Down Into Denim and Corduroy for FW26",
+      "url": "https://hypebeast.com/2026/11/engineered-garments-nanga-fall-winter-fw-2026-collaboration-collection-release-info",
+      "publishedAt": "2026-11-21T06:00:44.000Z",
+      "collectedAt": "2026-11-21T18:56:30.690Z",
+      "text": "Engineered Garments x NANGA Stuff 770-Fill Down Into Denim and Corduroy for FW26 Summary Engineered Garments and NANGA reunite for a fourth time, bringing back the Zip Jacket, Field Vest and Down Hoody.Every style is insulated with NANGA’s water-repellent UDD down at 770 fill power and produced in Japan.Each piece arrives in a choice of indigo denim, brown corduroy, navy tropical wool or black nylon. The Engineered Garments x NANGA Fall/Winter 2026 collection marks the fourth time the label has teamed up with the Japanese down maker, this time bringing three earlier styles back into rotation: the Zip Jacket, the Field Vest and the Down Hoody. All three are produced in Japan around the same NANGA insulation, then cut in a choice of four shell fabrics.Every style in the collection is insulated with NANGA’s UDD down, sourced from European white ducks and given an advanced water-repellent treatment. The fill is rated at 770 fill power, a figure that sits in the high-loft range for down insulation, and the full lineup is manufactured in Japan.The Zip Jacket gets the most technical treatment of the three, with waterproof zippers placed around the body for both storage and airflow. Zippers seal the front pockets, while others open vents at the neck, under the arms and at the back, letting the wearer tune the jacket to the weather and style it in multiple configurations.The Field Vest, a long-running staple of the Engineered Garments mainline, returns reworked with the same NANGA down as the jacket. Completing the trio, the Down Hoody is a down-filled hood built to hold warmth around the head and neck.All three styles share the same four shells, spanning indigo denim, brown corduroy, navy tropical wool and black nylon. That spread lets an identical down build read as workwear in denim or corduroy, as something dressier in tropical wool or as classic outdoor gear in nylon.The Engineered Garments x NANGA Fall/Winter 2026 collection is available now at Nepenthes Los Angeles and online. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "d38bd0f98b7e7aab",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "The Patek Philippe Watch That Rewrote Split-Seconds History Heads to Sotheby’s Zürich Exhibition",
+      "url": "https://hypebeast.com/2026/11/patek-philippe-reference-1563-the-doctor-sothebysthe-human-touch-exhibition-highlight-zurich",
+      "publishedAt": "2026-11-21T04:00:42.000Z",
+      "collectedAt": "2026-11-21T18:56:30.690Z",
+      "text": "The Patek Philippe Watch That Rewrote Split-Seconds History Heads to Sotheby’s Zürich Exhibition Summary Sotheby’s ‘The Human Touch’ spotlights Patek Philippe’s Reference 1563 “The Doctor” in Zürich.The 1943 watch is the earliest known water-resistant split-seconds wristwatch.Once owned by Jean-Claude Biver, it’s the only example with a pulsation dial. Revealed as a centerpiece within Sotheby’s The Human Touch exhibition, the Patek Philippe Reference 1563, also known as “The Doctor,” stands as the earliest known water-resistant split-seconds wristwatch in horological history.The timepiece started life as a Reference 1436 split-seconds chronograph, movement number 862,420. That year, at the request of its first owner, Patek Philippe rehoused it in a 34.8mm water-resistant screw-back case by Taubert & Fils, the firm that took over François Borgel’s case-making business and kept its “FB” hallmark. The case is based on the Reference 1463 but made taller to fit the split-seconds movement, and it came with a two-tone pulsation dial, a scale used to measure a patient’s heart rate. The converted watch received a new case number, 630,552, and its case is stamped “Key 11” and “FB.”Only three examples of the Reference 1563 appear in Patek Philippe’s archives, and just two have the dedicated Taubert & Borgel case. Their case numbers are consecutive: 630,551, fitted in 1946 to the watch later owned by Duke Ellington, and 630,552, this one, fitted three years earlier. That makes “The Doctor” the oldest of the three, and the only one with a pulsation dial.The reference was unknown to the public until Ellington’s watch came up at Antiquorum in 1998, prompting Patek Philippe to issue an Extract from the Archives that officially confirmed it. This example comes with its own Extract, dated August 6, 2024, verifying its reference, movement and case numbers, and the 1943 conversion.It was also previously part of Jean-Claude Biver’s collection. Of the other two, one is in a private collection and the third is on display at the Patek Philippe Museum in Geneva. Sotheby’s has not published an estimate or price for “The Doctor,” so that remains TBA. With a steel Reference 1436 having sold for 6.3 million CHF (approx. $7.4 million USD) , interest from top collectors is likely to be strong. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "15851004d60d997e",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "UNIQLO x Studio Ghibli \"LIVE FOR TODAY, MY DEAR\" UT Collection",
+      "url": "https://hypebeast.com/2026/11/uniqlo-studio-ghibli-live-for-today-my-dear-ut-collection-release-info",
+      "publishedAt": "2026-11-21T02:00:55.000Z",
+      "collectedAt": "2026-11-21T18:56:30.690Z",
+      "text": "UNIQLO x Studio Ghibli \"LIVE FOR TODAY, MY DEAR\" UT Collection Summary UNIQLO and Studio Ghibli unveil nine UT tees themed “LIVE FOR TODAY, MY DEAR,” releasing in the US in January 2027.Toshio Suzuki’s all-character illustration leads adult designs spanning Totoro, Howl and the Robot Soldier from Castle in the Sky . UNIQLO and Studio Ghibli have announced a new UT graphic tee collection built around the theme “LIVE FOR TODAY, MY DEAR,” a reminder to enjoy each day that runs through the whole lineup. Grounded in a shared appreciation for everyday wonder and hand-crafted storytelling, the range brings together iconic imagery from across Studio Ghibli’s beloved filmography, including My Neighbor Totoro, Howl’s Moving Castle, Castle in the Sky, and Spirited Away.Beyond classic film stills, the collection incorporates original calligraphy and multi-character illustrations by Studio Ghibli co-founder and producer Toshio Suzuki, alongside floral photography and exhibition poster art captured at the Ghibli Museum, Mitaka by longtime studio collaborator and Thai artist Kanyada.Spanning five adult styles and four kids' silhouettes, the 100% cotton assortment balances subtle chest hits with bold, full-back artwork. Key adult highlights include a white namesake \"LIVE FOR TODAY, MY DEAR\" tee pairing Suzuki’s handwritten slogan on the front with a sprawling ensemble illustration on the back.Other standout pieces feature an olive green Castle in the Sky shirt showcasing Kanyada’s flower-draped Robot Soldier, a pale yellow Howl’s Moving Castle design starring Calcifer and Turnip Head, and two My Neighbor Totoro offerings — one spotlighting Soot Sprites on black cotton and another weaving miniature characters into bold orange typography.Meanwhile, the four kids’ styles bring in Spirited Away with a light blue No-Face tee, alongside smaller-scale versions of the Calcifer, Totoro logo and “LIVE FOR TODAY, MY DEAR” designs, so parents and kids can match.The collection is rolling out in stages, starting in Thailand, Malaysia and Taiwan in December, 2026 before arriving in Uniqlo’s U.S. stores in late January 2027, with prices ranging from around $13 to $30 USD. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "55edc4d2db807d5f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Joaquin Phoenix Debuts Gentle Monster's Smart Glasses & Gucci Announces Shanghai Runway in This Week's Top Fashion News",
+      "url": "https://hypebeast.com/2026/11/gentle-monster-joaquin-phoenix-gucci-beams-adidas-sacai-willy-chavarria",
+      "publishedAt": "2026-11-20T21:30:31.000Z",
+      "collectedAt": "2026-11-21T18:56:30.690Z",
+      "text": "Joaquin Phoenix Debuts Gentle Monster's Smart Glasses & Gucci Announces Shanghai Runway in This Week's Top Fashion News SummaryGucci and sacai scheduled upcoming runway presentations for Shanghai and Hong Kong, respectively.Collaborative releases came from BEAMS’ 50th-anniversary adidas Originals collection and Gentle Monster’s cinematic Intelligent Eyewear campaign with Joaquin PhoenixThe Museum at FIT revealed a new sociopolitical exhibition featuring Willy Chavarria.Gucci to Present Cruise 2028 Collection in ShanghaiThis week, Gucci officially announced its Cruise 2028 runway presentation will take place in Shanghai on May 17, 2027. The event will mark artistic director Demna’s first show in the city, aligning with the 30th anniversary of the Italian house's original store opening in the region. The move expands the ongoing focus on major brand activations in China from global luxury maisons, joining upcoming regional shows by Dior and Zegna. The Shanghai destination follows Demna’s high-profile Cruise debut in New York City’s Times Square earlier this year.Gentle Monster Premieres Intelligent Eyewear Campaign Film Starring Joaquin PhoenixGentle Monster released an unconventional campaign film for its new Intelligent Eyewear line directed by Jonathan Glazer. Rather than highlighting technical specifications, the short places the glasses into a heightened cinematic environment fronted by Hollywood actor Joaquin Phoenix. A New York City public preview ran through late November, allowing visitors to view the 16-piece collection firsthand. Pre-orders are currently live online, with a full commercial launch across the United States and South Korea scheduled for December 10, 2026.sacai to Present SS27 Collection Runway Show in Hong KongJapanese label sacai will stage an exclusive Spring/Summer 2027 runway show at Hong Kong’s iconic HSBC Main Building on December 13, 2026, marking the brand's first-ever runway presentation in the city. The event celebrates sacai’s historical ties to Hong Kong, which opened the label’s first international store in 2015. The upcoming presentation signals the fashion house's ongoing and increasing presence throughout the Greater China region.BEAMS 50th Anniversary adidas Loafer Apparel Pack CollaborationTo celebrate its 50th anniversary, BEAMS partnered with adidas Originals on a 14-piece apparel and footwear pack. Leaning into \"Preppy\" and \"Yankee\" aesthetics, the capsule centers around two distinct collaborative loafer models. "
+    },
+    {
+      "id": "eeb65b1bc58fe819",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Get a Closer Look at the Hypebeast x Formula 1 x ODITI Grand Prix Poster Collection",
+      "url": "https://hypebeast.com/2026/11/oditi-formula-1-hypebeast-las-vegas-print-edition-collaboration",
+      "publishedAt": "2026-11-20T20:03:01.000Z",
+      "collectedAt": "2026-11-21T18:56:30.691Z",
+      "text": "Get a Closer Look at the Hypebeast x Formula 1 x ODITI Grand Prix Poster Collection Summary ODITI, Hypebeast, and Formula 1 release an exclusive art print collection for the Las Vegas Grand PrixThe five-piece range features work by an international of artists specializing in painting, digital art, and drawingAvailable in four sizes, the prints range from $105 to $328 USD, exclusively via the ODITI webstore We're linking up with ODITI to help F1 fans take home a piece of the Las Vegas Grand Prix. The London-based publisher has unveiled a limited-edition poster lineup with Hypebeast and Formula 1 to capture the occasion through the eyes of artists.The collaboration, which spans five art prints, marks ODITI's reunion with the championship group. It follows the season-long run with the Cadillac Team, which premiered bespoke pieces every week, created by artists local to the host city, including Slawn, Opake, Rhymezlikedimez, Nychos and Vxmeee most recently.The Hypebeast x F1 x ODITI range builds on the partnership with five all-new works fit for Las Vegas. Featuring the likes of Richard Nadler, Claudia Locurcio, Cesar Botta, Caitlin Flood-Molyneux, and Emans91, the collection ranges in style and mood — from a deep blue, up-close portrait of a driver locking in mid-ride, to the cartoonish cars in West Coast tones and vintage-inspired gestural compositions — detailing the intensity, speed, and energy that makes the weekend.ODITI's on a mission to bring back the once-thriving sport and art love affair. “Our aim is to publish prints that will become cultural artefacts to our grandkids, in the same way Haring x Le Mans or Miro x FIFA is to us today,” said Lysander Campbell-Gray, the publisher's Head of Partnership.All five prints in the ODITI x Hypebeast x Formula collection are giclée prints, produced on archival paper with museum-grade inks, and are available in four sizes, ranging from $108 to $328 USD. Go to ODITI's webstore to cop yours. Click here to view full gallery at Hypebeast"
     }
   ]
 }
