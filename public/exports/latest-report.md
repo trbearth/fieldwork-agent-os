@@ -1,16 +1,16 @@
-# Fieldwork Daily Signal — 2026-11-21
+# Fieldwork Daily Signal — 2026-11-22
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 62 · confidence 43% · youth 84%**
+**emerging · score 68 · confidence 48% · youth 100%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-3 observations · 2 independent sources · +100% seven-day velocity
+4 observations · 2 independent sources · +100% seven-day velocity
 
-- [Ford Celebrates Henry Ford’s First Race Win With the Mustang GTD 1901](https://hypebeast.com/2026/11/ford-mustang-gtd-1901-info) — Hypebeast, Nov 18
+- ['Twilight' x Crocs Unveils "Edward and Bella" Classic Clog After Robert Pattinson is Named Next James Bond](https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info) — Hypebeast, Nov 22
 - [Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award](https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award) — Vogue, Nov 19
 
 ## 2. Quiet performance
