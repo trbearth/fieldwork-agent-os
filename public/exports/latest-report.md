@@ -1,17 +1,17 @@
-# Fieldwork Daily Signal — 2026-11-22
+# Fieldwork Daily Signal — 2026-11-23
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Decorated basics
 
-**emerging · score 68 · confidence 48% · youth 100%**
+**emerging · score 99 · confidence 49% · youth 79%**
 
 Decorated basics is appearing across 2 independent public sources.
 
-4 observations · 2 independent sources · +100% seven-day velocity
+4 observations · 2 independent sources · +300% seven-day velocity
 
 - ['Twilight' x Crocs Unveils "Edward and Bella" Classic Clog After Robert Pattinson is Named Next James Bond](https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info) — Hypebeast, Nov 22
-- [Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award](https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award) — Vogue, Nov 19
+- [Author Josh Silver’s Brooch Game? It’s Strong](https://www.vogue.com/article/author-josh-silver-celine-national-book-awards) — Vogue, Nov 23
 
 ## 2. Quiet performance
 

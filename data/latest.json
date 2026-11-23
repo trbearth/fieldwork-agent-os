@@ -1,21 +1,21 @@
 {
   "run": {
-    "id": "2026-11-22",
+    "id": "2026-11-23",
     "mode": "live",
-    "displayDate": "NOV 22, 2026, 02:16 PM EST",
-    "generatedAt": "2026-11-22T19:16:32.931Z",
-    "itemsCollected": 24,
+    "displayDate": "NOV 23, 2026, 06:39 PM EST",
+    "generatedAt": "2026-11-23T23:39:37.233Z",
+    "itemsCollected": 57,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 6
+        "count": 8
       },
       {
         "source": "Hypebeast",
@@ -30,13 +30,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 68,
-      "confidence": 48,
-      "youthRelevance": 100,
+      "score": 99,
+      "confidence": 49,
+      "youthRelevance": 79,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 0 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +100% seven-day velocity",
+      "whyNow": "4 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "4 observations · 2 independent sources · +300% seven-day velocity",
       "citations": [
         {
           "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
@@ -45,10 +45,10 @@
           "url": "https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info"
         },
         {
-          "title": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award",
+          "title": "Author Josh Silver’s Brooch Game? It’s Strong",
           "source": "Vogue",
-          "date": "Nov 19",
-          "url": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award"
+          "date": "Nov 23",
+          "url": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards"
         }
       ]
     },
@@ -108,12 +108,12 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1122",
+    "code": "AUTO 1123",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
       "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
-      "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award"
+      "Author Josh Silver’s Brooch Game? It’s Strong"
     ]
   }
 }
