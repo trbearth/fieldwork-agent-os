@@ -1,4 +1,4 @@
-# Fieldwork Daily Signal — 2026-11-23
+# Fieldwork Daily Signal — 2026-11-24
 
 Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
@@ -13,18 +13,7 @@ Decorated basics is appearing across 2 independent public sources.
 - ['Twilight' x Crocs Unveils "Edward and Bella" Classic Clog After Robert Pattinson is Named Next James Bond](https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info) — Hypebeast, Nov 22
 - [Author Josh Silver’s Brooch Game? It’s Strong](https://www.vogue.com/article/author-josh-silver-celine-national-book-awards) — Vogue, Nov 23
 
-## 2. Quiet performance
-
-**emerging · score 58 · confidence 38% · youth 49%**
-
-Quiet performance is appearing across 2 independent public sources.
-
-2 observations · 2 independent sources · +100% seven-day velocity
-
-- [nonnative Touches Down at Gallery HBX With "SKY'S THE LIMIT" Pop-Up and Exclusive Releases](https://hypebeast.com/2026/11/nonnative-gallery-hbx-skys-the-limit-pop-up-frgmt-guidi-artist-proof-exclusive-release-info) — Hypebeast, Nov 17
-- [How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede](https://www.highsnobiety.com/p/converse-chuck-70-gore-tex-hairy-suede/) — Highsnobiety, Nov 20
-
-## 3. Archival sportswear
+## 2. Archival sportswear
 
 **emerging · score 43 · confidence 19% · youth 62%**
 
@@ -33,6 +22,16 @@ Archival sportswear is appearing across 1 independent public source.
 1 observation · 1 independent source · +100% seven-day velocity
 
 - [ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection](https://hypebeast.com/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info) — Hypebeast, Nov 18
+
+## 3. Quiet performance
+
+**emerging · score 27 · confidence 20% · youth 46%**
+
+Quiet performance is appearing across 1 independent public source.
+
+1 observation · 1 independent source · +0% seven-day velocity
+
+- [How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede](https://www.highsnobiety.com/p/converse-chuck-70-gore-tex-hairy-suede/) — Highsnobiety, Nov 20
 
 ## Method note
 

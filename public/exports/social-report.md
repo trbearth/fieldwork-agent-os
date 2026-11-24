@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-23
+# Fieldwork Public Pulse — 2026-11-24
 
 ## 1. Quiet performance
 
@@ -19,8 +19,8 @@
 
 - [Valet 1.18 is out. Since 1.10.1: • My garments: keep your clothes, with colours picked from your own](https://mstdn.social/@flaneurscafe/117664899634624896) — Mastodon
 - [Valet 1.4 is out. Two new tabs: Proportion: from your measurements, where each garment should end an](https://mstdn.social/@flaneurscafe/117636505626978317) — Mastodon
+- [While drinking my morning coffee, I composed an outfit for today. I noticed that a few fixes to the ](https://mstdn.social/@flaneurscafe/117670118423478746) — Mastodon
 - [P.S. The different rules now provide their references if you click on the Sources or Why buttons. fl](https://mstdn.social/@flaneurscafe/117649312458023640) — Mastodon
-- [Valet 1.1 is out: a small browser tool that works out which colours suit you from colour science and](https://mstdn.social/@flaneurscafe/117631773877209059) — Mastodon
 
 ## 3. Decorated basics
 
