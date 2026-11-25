@@ -4363,295 +4363,46 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-11-25",
+      "mode": "live",
+      "displayDate": "NOV 25, 2026, 04:26 PM EST",
+      "generatedAt": "2026-11-25T21:26:16.914Z",
+      "itemsCollected": 59,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 17
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 19
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "decorated-basics",
+          "score": 53,
+          "stage": "emerging"
+        },
+        {
+          "id": "quiet-performance",
+          "score": 27,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "f5bea31ed1f09fde",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "From Personal Experience, These Are the Best Eyebrow Growth Serums",
-      "url": "https://www.vogue.com/article/eyebrow-growth-serums",
-      "publishedAt": "2026-08-27T21:11:02.000Z",
-      "collectedAt": "2026-08-27T22:03:37.458Z",
-      "text": "From Personal Experience, These Are the Best Eyebrow Growth Serums Yes, eyebrow growth serums actually work. From RevitaLash, Grande Cosmetics, The Ordinary, and more, discover the tried-and-true formulas for healthy, full arches."
-    },
-    {
-      "id": "ea1ecaca5307142e",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "We Asked, You Answered: 2026 Summer Trends, Summarized",
-      "url": "https://www.vogue.com/article/summer-trends-summarized",
-      "publishedAt": "2026-08-27T20:35:56.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "We Asked, You Answered: 2026 Summer Trends, Summarized A look at our summer trend predictions and how we did, with input from the Vogue readers."
-    },
-    {
-      "id": "d2f56e85b8f2b07a",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Benefits of Walking for Longevity",
-      "url": "https://www.vogue.com/article/walking-for-longevity",
-      "publishedAt": "2026-08-27T20:30:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "The Benefits of Walking for Longevity The benefits of walking are well known, but research suggests that doing this simple, accessible exercise regularly may also help you live longer."
-    },
-    {
-      "id": "7ed1a6b66e032edc",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Are Sulfate-Free Shampoos Actually Better? Vogue Investigates",
-      "url": "https://www.vogue.com/article/sulfate-free-shampoo",
-      "publishedAt": "2026-08-27T20:02:20.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "Are Sulfate-Free Shampoos Actually Better? Vogue Investigates Sulfate-free shampoos are the gold standard for gentle hair care, but are sulfates actually harmful? Here, experts break down the misconceptions and share their picks for the best sulfate-free shampoos."
-    },
-    {
-      "id": "68fd9f1af9d810a1",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Muse For Maisie Williams’s Practical Magic 2 Looks? Sandra Bullock",
-      "url": "https://www.vogue.com/article/maisie-williams-sandra-bullock-practical-magic-2",
-      "publishedAt": "2026-08-27T19:43:05.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "The Muse For Maisie Williams’s Practical Magic 2 Looks? Sandra Bullock Williams wore a custom gown inspired by her co-star this week—and even re-wore one of Bullock’s archival gowns, too."
-    },
-    {
-      "id": "1d7ee9e50b3958cc",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Who Will Be the Next James Bond? 25 Possible Contenders",
-      "url": "https://www.vogue.com/slideshow/who-will-be-the-next-james-bond",
-      "publishedAt": "2026-08-27T16:03:02.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "Who Will Be the Next James Bond? 25 Possible Contenders Here, Vogue charts the actors favored to be the next James Bond, from Callum Turner and Aaron Taylor-Johnson to Jack Barton and Dev Patel."
-    },
-    {
-      "id": "2165874017a02413",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Kaia Gerber Steps Out in a IYKYK Fashion Tee",
-      "url": "https://www.vogue.com/article/kaia-gerber-emily-dawn-long-graphic-tee",
-      "publishedAt": "2026-08-27T15:29:50.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "Kaia Gerber Steps Out in a IYKYK Fashion Tee The model wore a cheeky graphic tee that has been also worn by celebrities like Pedro Pascal, Tommy Dorfman, and more."
-    },
-    {
-      "id": "47d01f9ad7ba40de",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "All I Want This Fall Is a Saucy Little Windbreaker",
-      "url": "https://www.vogue.com/article/fall-colorful-windbreakers-trend",
-      "publishedAt": "2026-08-27T13:51:57.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "All I Want This Fall Is a Saucy Little Windbreaker A neon-bright windbreaker is the perfect thing to trick people into thinking I am outdoorsy (nope) and adventurous (definitely not)."
-    },
-    {
-      "id": "1133e3d4ffbfb4d7",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "For Mirror Shine, Wash Your Hair the Chinese Way",
-      "url": "https://www.vogue.com/article/for-mirror-shine-wash-your-hair-the-chinese-way",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "For Mirror Shine, Wash Your Hair the Chinese Way Learn about the 6-step Chinese hair care routine that focuses on scalp health and shinier, healthier hair."
-    },
-    {
-      "id": "46f79492b97fdc60",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "I Aspired to Get My PhD at Cambridge—Then I Left Because of the Racism",
-      "url": "https://www.vogue.com/article/i-aspired-to-get-my-phd-at-cambridge-then-i-left-because-of-the-racism",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "I Aspired to Get My PhD at Cambridge—Then I Left Because of the Racism “I could write a second memoir solely on the racism I experienced at Cambridge University as a Master’s and PhD student,” writes Jill Damatac, a Filipino-American author who was a student at Cambridge in 2019."
-    },
-    {
-      "id": "e89619cce7641921",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Inside Demna’s Gucciverse: How Fashion’s Restless Disrupter Is Reinvigorating the Global Mega-Brand",
-      "url": "https://www.vogue.com/article/inside-demnas-gucciverse-september-2026",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.459Z",
-      "text": "Inside Demna’s Gucciverse: How Fashion’s Restless Disrupter Is Reinvigorating the Global Mega-Brand In a mere dozen or so years, the Georgia-born designer has gone from Vetements’ wild child to the top of Gucci."
-    },
-    {
-      "id": "a5c6e3f7083ed22d",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Taylor Swift Wore a West Village Girl Staple for Her First Post-Wedding Performance",
-      "url": "https://www.vogue.com/article/taylor-swift-grammy-museum-performance-outfit",
-      "publishedAt": "2026-08-27T10:46:47.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "Taylor Swift Wore a West Village Girl Staple for Her First Post-Wedding Performance The pop star took to the Grammy Museum stage for an intimate performance of songs and a conversation about her roots and career."
-    },
-    {
-      "id": "7b16d6cb636a62b1",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "On the Podcast: Aryna Sabalenka Is Ready to Get “Back on Track” for the US Open",
-      "url": "https://www.vogue.com/article/on-the-podcast-aryna-sabalenka",
-      "publishedAt": "2026-08-27T10:30:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "On the Podcast: Aryna Sabalenka Is Ready to Get “Back on Track” for the US Open For this Thursday’s episode of “The Run-Through,” Nicole Phelps and Vogue senior editor Corey Seymour caught up with tennis player Aryna Sabalenka ahead of the US Open."
-    },
-    {
-      "id": "9a8cb7c76733b032",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Rosalía Has Her Own Carrie Bradshaw Moment",
-      "url": "https://www.vogue.com/article/rosalia-has-her-own-carrie-bradshaw-moment",
-      "publishedAt": "2026-08-27T10:27:40.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "Rosalía Has Her Own Carrie Bradshaw Moment The Spanish star stepped out in Mexico City with a Gen-Z take on the Galliano-era Dior newspaper dress, as Rosalía finds kinship in SJP’s love of a loud print."
-    },
-    {
-      "id": "1618c7f77286429c",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Future of Exosome Skin Care, According to the Vogue Beauty Board",
-      "url": "https://www.vogue.com/article/exosomes-for-skin-beauty-board",
-      "publishedAt": "2026-08-27T10:00:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "The Future of Exosome Skin Care, According to the Vogue Beauty Board How do exosomes compare to other skin treatments? Vogue’s Beauty Board weighs in on the trending ingredient, focused on cellular communication with regenerative and anti-inflammatory properties."
-    },
-    {
-      "id": "7df0fe79d64d00db",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Kering Invites 10 Designers to Reimagine Sustainable Materials",
-      "url": "https://www.vogue.com/article/kering-invites-10-designers-to-reimagine-sustainable-materials",
-      "publishedAt": "2026-08-27T09:30:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "Kering Invites 10 Designers to Reimagine Sustainable Materials Hoping to show the creative possibilities in innovative, sustainable materials, luxury group Kering enlisted 10 emerging designers from across the world. Will established houses follow?"
-    },
-    {
-      "id": "9aa1fb34c43ffc04",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Why Guerlain Is Launching a New L’Heure Bleue",
-      "url": "https://www.vogue.com/article/why-guerlain-is-launching-a-new-lheure-bleue",
-      "publishedAt": "2026-08-27T04:30:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "Why Guerlain Is Launching a New L’Heure Bleue Coinciding with the house’s first women’s perfume launch in a decade, CEO Gabrielle Saint-Genis shares her strategy with Vogue Business."
-    },
-    {
-      "id": "f7573c6279b09d85",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "5 Emerging Designers on Running a Label in Japan",
-      "url": "https://www.vogue.com/article/5-emerging-designers-on-running-a-label-in-japan",
-      "publishedAt": "2026-08-27T04:30:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "5 Emerging Designers on Running a Label in Japan While Japan’s fashion scene is enjoying a global moment, harnessing international appeal has its fair share of obstacles. Five designers weigh in on what it takes to succeed."
-    },
-    {
-      "id": "a8c79e854bab8566",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Artist Yayoi Kusama Has Died at 97",
-      "url": "https://www.vogue.com/article/yayoi-kusama-obituary",
-      "publishedAt": "2026-08-27T04:00:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "Artist Yayoi Kusama Has Died at 97 The renowned Japanese avant-gardist died on Wednesday at a hospital in Tokyo from multiple organ failure, according to her US gallery, David Zwirner. She was 97."
-    },
-    {
-      "id": "2e4c230a2f9d47fe",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "42 Thoughts I Had About Episode 6 of ‘The Shards’",
-      "url": "https://www.vogue.com/article/42-thoughts-i-had-about-episode-6-of-the-shards",
-      "publishedAt": "2026-08-27T02:00:00.000Z",
-      "collectedAt": "2026-08-27T22:03:37.460Z",
-      "text": "42 Thoughts I Had About Episode 6 of ‘The Shards’ “Your friends are inconsequential to your enlightenment journey.” Well, that’s high school, baby!"
-    },
-    {
-      "id": "848af399ab2107d3",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "The Air Jordan 41 Came Straight Out of MJ’s Garage (EXCLUSIVE)",
-      "url": "https://www.highsnobiety.com/p/jordan-41-interview/",
-      "publishedAt": "2026-08-27T18:42:42.000Z",
-      "collectedAt": "2026-08-27T22:03:38.771Z",
-      "text": "The Air Jordan 41 Came Straight Out of MJ’s Garage (EXCLUSIVE) The Jordan team visited the Highsnobiety offices for an exclusive look at their newest shoe — and to spill on the basketball star’s involvement."
-    },
-    {
-      "id": "2d2f0467548e24ac",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Your Fall Forecast Calls for a Serious Three-Stripes Intervention",
-      "url": "https://www.highsnobiety.com/p/adidas-originals-new-arrivals/",
-      "publishedAt": "2026-08-27T15:18:50.000Z",
-      "collectedAt": "2026-08-27T22:03:38.771Z",
-      "text": "Your Fall Forecast Calls for a Serious Three-Stripes Intervention adidas has everything you need to shake up your fall style, from wide-leg sweats and classic sneakers to statement track tops and graphic tees."
-    },
-    {
-      "id": "ad79da6187dc4555",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Timberland’s Boat Mule Is Bigger than Yacht Season",
-      "url": "https://www.highsnobiety.com/p/timberland-boat-mule-red/",
-      "publishedAt": "2026-08-27T14:36:00.000Z",
-      "collectedAt": "2026-08-27T22:03:38.771Z",
-      "text": "Timberland’s Boat Mule Is Bigger than Yacht Season Timberland's luxe suede boat shoe is a breezy slip-on that looks fit to walk on water."
-    },
-    {
-      "id": "a618e09225282f49",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Every Girl Wants to Dress Like Nhỏgirl",
-      "url": "https://www.highsnobiety.com/p/nhogirl-amsterdam-amy-pham-thi/",
-      "publishedAt": "2026-08-27T13:14:02.000Z",
-      "collectedAt": "2026-08-27T22:03:38.771Z",
-      "text": "Every Girl Wants to Dress Like Nhỏgirl Every girl on TikTok is styling their Levi’s Engineered jeans the way Nhỏgirl’s Amy Pham Thi does — whether they know it or not."
-    },
-    {
-      "id": "c964783ee1239420",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Benito's Latest Signature Is Inspired By Crystal-Clear Coastal Waters",
-      "url": "https://www.highsnobiety.com/p/bad-bunny-adidas-badbo-1-night-navy/",
-      "publishedAt": "2026-08-27T11:36:00.000Z",
-      "collectedAt": "2026-08-27T22:03:38.771Z",
-      "text": "Benito's Latest Signature Is Inspired By Crystal-Clear Coastal Waters Dropping on September 26, 2026, the Bad Bunny x adidas Badbo 1.0 Night Navy delivers a moody iteration of the superstar's first ground-up signature model."
-    },
-    {
-      "id": "1bb5f330849e09f4",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Mark Gonzales (Once Again) Gives the Superstar Some Skate Cred",
-      "url": "https://www.highsnobiety.com/p/mark-gonzales-once-again-gives-the-superstar-some-skate-cred/",
-      "publishedAt": "2026-08-27T08:20:57.000Z",
-      "collectedAt": "2026-08-27T22:03:38.771Z",
-      "text": "Mark Gonzales (Once Again) Gives the Superstar Some Skate Cred Mark Gonzales puts his skateboarding stamp on adidas’ iconic Superstar in a sleek triple-black colorway."
-    },
     {
       "id": "eb6a8b93f7a21056",
       "sourceId": "hypebeast",
@@ -50224,6 +49975,655 @@
       "publishedAt": "2026-11-24T06:59:12.000Z",
       "collectedAt": "2026-11-24T22:10:12.030Z",
       "text": "Snow Peak Introduces Arma Stove, a New Wood-Burning Stove That Lets You Enjoy the Flames from Any Angle Leading Japanese outdoor brand Snow Peak is releasing a new wood-burning stove, the Arma Stove (ST-210). Featuring heat-resistant glass on all four sides, its design allows you to view the flames from any direction. It is proposed not just as a heating appliance for winter campsites, but as the centerpiece of a living space where family and friends naturally gather.Unlike standard wood-burning stoves, this item, with heat-resistant glass placed on all four sides, lets you enjoy the flickering flames no matter where you sit. A spark arrestor inside the chimney suppresses the scattering of sparks, considering its impact on tents, tarps, and surrounding gear.Its setup method is also unique, accommodating integration with the separately sold Arma Stand or Iron Grill Table (IGT) frame. You can choose a setup style that fits your campsite layout and usage scenario. It weighs 19.6kg, including attached parts like the chimney set. Note that it cannot be used directly on the ground by itself and must be combined with the specified products.It is also intended to be used in combination with the large two-room shelter Land Lock X, which Snow Peak released in June 2026. Currently, it is also approved for use inside the Merak Pro. When using it inside a tent, a fly cover must be used together, and the specified tent body and setup method must be confirmed in advance through official information.Snow Peak's Arma Stove will be available starting Saturday, November 28th. The price is ¥162,800 (including tax). The separately sold Arma Stand is scheduled for release in 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "f4c95c3b18fb4a95",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "20+ Best Sweatpants for Relaxed (Yet Refined) Lounging",
+      "url": "https://www.vogue.com/article/best-sweatpants-for-women",
+      "publishedAt": "2026-11-25T20:35:51.000Z",
+      "collectedAt": "2026-11-25T21:26:12.916Z",
+      "text": "20+ Best Sweatpants for Relaxed (Yet Refined) Lounging Every wardrobe deserves to include a pair of the best sweatpants for women. Shop cotton, cashmere, and wide-leg options from Nike, Vuori, Toteme, and more."
+    },
+    {
+      "id": "8bd491d56a99d954",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "11 Best Lab-Grown Diamonds 2026: Fine Jewelry to Engagement Rings",
+      "url": "https://www.vogue.com/article/best-lab-grown-diamonds",
+      "publishedAt": "2026-11-25T20:33:48.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "11 Best Lab-Grown Diamonds 2026: Fine Jewelry to Engagement Rings Discover the best lab-grown diamonds from brands like Brilliant Earth, Grown Brilliance, Pandora, Dorsey & more so you can sparkle sustainably."
+    },
+    {
+      "id": "a6c93ea8200c855c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "6 Jewel-Toned Outfits to Wear to Every Holiday Party This Season",
+      "url": "https://www.vogue.com/article/jewel-toned-outfits",
+      "publishedAt": "2026-11-25T20:13:19.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "6 Jewel-Toned Outfits to Wear to Every Holiday Party This Season From glittering gold and shimmering silver to rich burgundy and royal purple, here’s how to style jewel-toned outfits for every festive occasion on your calendar."
+    },
+    {
+      "id": "46224e25bdbc8aa4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "“I Just Wanted to Feel Like Myself”—Whitney Peak On Her ‘Hunger Games’ Press Fashion",
+      "url": "https://www.vogue.com/slideshow/whitney-peak-the-hunger-games-sunrise-on-the-reaping-press-tour-style",
+      "publishedAt": "2026-11-25T19:40:41.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "“I Just Wanted to Feel Like Myself”—Whitney Peak On Her ‘Hunger Games’ Press Fashion Here, Whitney Peak offers Vogue a look back at her Hunger Games press tour style, from Chanel to Robert Wun."
+    },
+    {
+      "id": "840a4b27a40b19e3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Liz Hurley’s Wedding Guest Dress Breaks All the Rules (In the Best Way)",
+      "url": "https://www.vogue.com/article/liz-hurley-wedding-guest-dress-breaks-all-the-rules-2026-11-25",
+      "publishedAt": "2026-11-25T17:27:18.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Liz Hurley’s Wedding Guest Dress Breaks All the Rules (In the Best Way) ’90s glamazon Liz Hurley dispensed with the usual conventions of wedding guest etiquette at Miley Cyrus and Maxx Morando’s nuptials this weekend."
+    },
+    {
+      "id": "e17785c3101e7bce",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Still, No One Does Thanksgiving Style Quite Like 'Gossip Girl’s' Blair Waldorf",
+      "url": "https://www.vogue.com/article/gossip-girl-thanksgiving-style",
+      "publishedAt": "2026-11-25T16:48:51.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Still, No One Does Thanksgiving Style Quite Like 'Gossip Girl’s' Blair Waldorf Pair a Marc by Marc Jacobs babydoll dress with lace tights, a knit capelet, and dainty pumps, and you could be looking at any fashion girl's secondhand wishlist today."
+    },
+    {
+      "id": "25cf028ade809228",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Can Your Home Boost Your Endorphins? 7 Simple Tips for a Healthier, Happier Living Space",
+      "url": "https://www.vogue.com/article/home-endorphin-boost-7-tips",
+      "publishedAt": "2026-11-25T15:58:07.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Can Your Home Boost Your Endorphins? 7 Simple Tips for a Healthier, Happier Living Space Help transform your home into a calm and restorative sanctuary by following these expert recommendations."
+    },
+    {
+      "id": "2ba7c4feda00a2df",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Emma Corrin’s Subversive Suiting Game Is Like No Other",
+      "url": "https://www.vogue.com/article/emma-corrin-suiting-style-pride-and-prejudice-2026-11-25",
+      "publishedAt": "2026-11-25T15:47:22.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Emma Corrin’s Subversive Suiting Game Is Like No Other On their “Pride and Prejudice” tour, Emma Corrin is leaning into cool, slightly-nineties tailoring that feels fresh."
+    },
+    {
+      "id": "ae48d17cf718c762",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Veruschka: The Late ’60s Supermodel’s Best Beauty Looks of All Time",
+      "url": "https://www.vogue.com/article/veruschka-60s-supermodel-best-beauty-looks-graphic-eyes-big-hair",
+      "publishedAt": "2026-11-25T15:34:32.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Veruschka: The Late ’60s Supermodel’s Best Beauty Looks of All Time Following news of her death at 87, a look back at the chameleonic German model Veruschka and her most striking beauty looks."
+    },
+    {
+      "id": "10927ed55efc49b8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Every Time Veruschka Was on the Cover of American Vogue",
+      "url": "https://www.vogue.com/slideshow/veruschka-american-vogue-covers",
+      "publishedAt": "2026-11-25T15:15:06.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Every Time Veruschka Was on the Cover of American Vogue With the news of the legendary German model’s passing at the age of 87, Vogue looks back at the many times she graced the magazine’s cover."
+    },
+    {
+      "id": "e89f46af6cf72e46",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Veruschka, the Shape-Shifting Supermodel Who Defined an Era, Has Died at 87",
+      "url": "https://www.vogue.com/article/veruschka-obituary",
+      "publishedAt": "2026-11-25T15:14:10.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Veruschka, the Shape-Shifting Supermodel Who Defined an Era, Has Died at 87 A favorite of Richard Avedon and Diana Vreeland, German countess turned supermodel and artist Veruschka approached beauty, fashion, and identity with verve."
+    },
+    {
+      "id": "3cd797e60f16b25d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Ballerina Farm Is Opening a Restaurant, Farm Store, and Cooking School—Here’s a First Look",
+      "url": "https://www.vogue.com/article/ballerina-farm-restaurant-farm-store-cookery-school-utah-exclusive",
+      "publishedAt": "2026-11-25T15:07:09.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Ballerina Farm Is Opening a Restaurant, Farm Store, and Cooking School—Here’s a First Look From fall 2027, visitors to Utah’s Kamas Valley will be able to step directly into the world of Ballerina Farm via a farm-to-table restaurant, market, and cooking school. Here’s an exclusive first look at Daniel and Hannah Neeleman’s new venture."
+    },
+    {
+      "id": "912118b1207d48c6",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Vogue’s Best Dressed List of 2026 Is Live! Here’s How to Recreate Our Favorite Looks of the Year",
+      "url": "https://www.vogue.com/article/best-dressed-2026-outfits-style",
+      "publishedAt": "2026-11-25T15:01:49.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Vogue’s Best Dressed List of 2026 Is Live! Here’s How to Recreate Our Favorite Looks of the Year We’re breaking down their style signifiers, one shoppable piece at a time."
+    },
+    {
+      "id": "6de810c6f2f9fad7",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How Women Weavers Are Preserving Indigenous Amazigh Culture in Morocco",
+      "url": "https://www.vogue.com/article/how-women-weavers-are-preserving-indigenous-amazigh-culture-in-morocco",
+      "publishedAt": "2026-11-25T14:59:11.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "How Women Weavers Are Preserving Indigenous Amazigh Culture in Morocco As global demand for Moroccan rugs surges, a new generation is working directly with rural artisans to keep centuries-old textile traditions alive."
+    },
+    {
+      "id": "342a28b726c5ea07",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Meghan Markle’s Two Favorite Staples Survived Her Move to the UK",
+      "url": "https://www.vogue.com/article/meghan-markle-british-wardrobe-staples-2026-11-25",
+      "publishedAt": "2026-11-25T12:09:52.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Meghan Markle’s Two Favorite Staples Survived Her Move to the UK A breezy slip dress and a sharp black blazer: the Duchess of Sussex’s wardrobe essentials have made the transatlantic trip."
+    },
+    {
+      "id": "babf5d46006b6670",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "These Are the 6 Luckiest Zodiac Signs This Sagittarius Season",
+      "url": "https://www.vogue.com/article/luckiest-star-signs-sagittarius-season-2026",
+      "publishedAt": "2026-11-25T11:05:32.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "These Are the 6 Luckiest Zodiac Signs This Sagittarius Season Scorpio season might have felt intense, but Sagittarius season is all about bringing the party. Here are the signs set to soar over the next month."
+    },
+    {
+      "id": "3948aa3adbd87310",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The 17 Best Airbnbs in Copenhagen Embrace Hygge",
+      "url": "https://www.vogue.com/article/best-airbnbs-in-copenhagen",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "The 17 Best Airbnbs in Copenhagen Embrace Hygge Book one of the best Airbnbs in Copenhagen ahead of your trip to the Danish capital—and get ready for tons of Scandinavian design inspiration."
+    },
+    {
+      "id": "0faf2091337d71e8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "These Were the Breakout Red Carpet Stars of 2026",
+      "url": "https://www.vogue.com/article/breakout-red-carpet-stars-2026",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "These Were the Breakout Red Carpet Stars of 2026 These rising stars had a splashy, career-making year in Hollywood—and they all come armed with unique red carpet style to match."
+    },
+    {
+      "id": "64177d905512b0ee",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "24 Veil Alternatives for the Bride Who’d Rather Skip Tradition",
+      "url": "https://www.vogue.com/article/wedding-veil-alternatives",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "24 Veil Alternatives for the Bride Who’d Rather Skip Tradition From chic hats to jeweled headpieces, we found tons of great wedding veil alternatives to consider, for every bridal style."
+    },
+    {
+      "id": "4769843c108f43f4",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Mascara Has Entered Its Sophisticated Era",
+      "url": "https://www.vogue.com/article/modern-mascara",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Mascara Has Entered Its Sophisticated Era Modern mascara formulas make clumps, flakes, and raccoon eyes a thing of the past. Here’s what’s new, according to makeup artists and beauty experts."
+    },
+    {
+      "id": "07f6391e83de6732",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "A Look Back at Legendary Kennedy Family Parties, on JFK Jr.’s Birthday",
+      "url": "https://www.vogue.com/slideshow/john-f-kennedy-jr-birthday-party-marilyn-monroe-inline",
+      "publishedAt": "2026-11-25T10:35:40.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "A Look Back at Legendary Kennedy Family Parties, on JFK Jr.’s Birthday On what would have been the 66th birthday of John F. Kennedy Jr., a look back at some of the family’s high-society celebrations over the years."
+    },
+    {
+      "id": "39c300aa8fffdb99",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "30 Classic Photos of John F. Kennedy Jr., in Honor of His 66th Birthday",
+      "url": "https://www.vogue.com/slideshow/30-classic-photos-of-john-f-kennedy-jr",
+      "publishedAt": "2026-11-25T06:04:56.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "30 Classic Photos of John F. Kennedy Jr., in Honor of His 66th Birthday We’re taking a look back at some of the images that helped define the presidential scion’s public persona."
+    },
+    {
+      "id": "13a36e0ce0fba114",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Who Topped the 2026 Vogue Business Watch Index?",
+      "url": "https://www.vogue.com/article/who-topped-the-2026-vogue-business-watch-index",
+      "publishedAt": "2026-11-25T05:30:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Who Topped the 2026 Vogue Business Watch Index? From K-pop to cultural nuance, standing out in a crowded market requires a granular approach. But who succeeded?"
+    },
+    {
+      "id": "da3bb88dc32bd2d3",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Why Luxury Watch Brands Are Still Struggling Online",
+      "url": "https://www.vogue.com/article/why-luxury-watch-brands-are-still-struggling-online",
+      "publishedAt": "2026-11-25T05:30:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Why Luxury Watch Brands Are Still Struggling Online Cartier tops the digital ranking, but the brands that outperform on social still lag in online-to-offline integration."
+    },
+    {
+      "id": "9ebacd6c6bdebd6c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook",
+      "url": "https://www.vogue.com/article/k-pop-stars-art-and-unexpected-collabs-inside-the-2026-watch-innovation-playbook",
+      "publishedAt": "2026-11-25T05:30:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook Brands such as Audemars Piguet, Longines, and Montblanc have leveraged collaborations and pop culture this year to reach new audiences."
+    },
+    {
+      "id": "3265b97fb861b151",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era",
+      "url": "https://www.vogue.com/article/gifting-resale-and-the-power-of-experiences-the-watch-industry-is-in-its-customer-service-era",
+      "publishedAt": "2026-11-25T05:30:00.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era Despite pressure from higher gold costs and watchmakers raising prices, consumer sentiment and perceived value around watches are on the rise. How did they do it?"
+    },
+    {
+      "id": "60b6b7b7c9604840",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "8 Best Gua Sha Tools to Expertly Sculpt, Lift, and Tone",
+      "url": "https://www.vogue.com/article/gua-sha-tools",
+      "publishedAt": "2026-11-25T02:31:52.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "8 Best Gua Sha Tools to Expertly Sculpt, Lift, and Tone From Lanshin, Osea, and more, the best gua sha tools can contour the skin, boost circulation, and promote lymphatic drainage to reveal a glowing complexion."
+    },
+    {
+      "id": "600b3003b4e9ddbb",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The New Rules of Complexion Makeup",
+      "url": "https://www.vogue.com/article/complexion-makeup-tints-beauty-board",
+      "publishedAt": "2026-11-24T22:57:45.000Z",
+      "collectedAt": "2026-11-25T21:26:12.917Z",
+      "text": "The New Rules of Complexion Makeup The Vogue Beauty Board weighs in on the new era of complexion makeup. From skin tints to full-coverage foundations, expect better shade ranges, lightweight textures, and your-skin-but-better finishes."
+    },
+    {
+      "id": "fa0e8c4fd5313fbc",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Yohji’s Greatest Art Show Has Always Been His Leather Jackets",
+      "url": "https://www.highsnobiety.com/p/yohji-yamamoto-suzume-uchida/",
+      "publishedAt": "2026-11-25T20:33:00.000Z",
+      "collectedAt": "2026-11-25T21:26:14.252Z",
+      "text": "Yohji’s Greatest Art Show Has Always Been His Leather Jackets The designer's new BLACK Scandal collection with artist Suzume Uchida continues his tradition of treating leather jackets as a canvas for art collabs."
+    },
+    {
+      "id": "b5b6e0ecd0c055dd",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Latest Winter Tank Is Built for Anything",
+      "url": "https://www.highsnobiety.com/p/nike-goadome-low-foam-black-dark-smoke-grey/",
+      "publishedAt": "2026-11-25T20:10:00.000Z",
+      "collectedAt": "2026-11-25T21:26:14.252Z",
+      "text": "Nike's Latest Winter Tank Is Built for Anything The Swoosh delivers another winter banger in the form of the Nike Air Goadome Low Foamposite Black/Dark Smoke Grey."
+    },
+    {
+      "id": "4ca5e76d5c94e208",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Shake Shack Just Made Your Next Luxury Bag",
+      "url": "https://www.highsnobiety.com/p/shake-shack-truffle-duffle-bag/",
+      "publishedAt": "2026-11-25T19:34:09.000Z",
+      "collectedAt": "2026-11-25T21:26:14.252Z",
+      "text": "Shake Shack Just Made Your Next Luxury Bag Arriving with what could be the year's most unexpected fashion crossover, Shake Shack is releasing the Black Truffle Duffle, a limited-edition leather bag inspired by Shake Shack’s limited-time Black Truffle menu."
+    },
+    {
+      "id": "bacec5a2029b8944",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Artist Uniform: Nobody Does Workwear Like These Black Artists",
+      "url": "https://www.highsnobiety.com/p/another-view-black-artists-interview/",
+      "publishedAt": "2026-11-25T18:00:02.000Z",
+      "collectedAt": "2026-11-25T21:26:14.252Z",
+      "text": "Artist Uniform: Nobody Does Workwear Like These Black Artists We talked to Nick Cave, Derrick Adams, and Shinique Smith about the studio fits they wear in Another View: The Vibrant World of Contemporary Black Artists."
+    },
+    {
+      "id": "e1451570cbc563c8",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Sebastian Jean is Giving the Gift of Good Taste with Calvin Klein",
+      "url": "https://www.highsnobiety.com/p/sebastian-jean-gift-guide-calvin-klein/",
+      "publishedAt": "2026-11-25T17:56:41.000Z",
+      "collectedAt": "2026-11-25T21:26:14.252Z",
+      "text": "Sebastian Jean is Giving the Gift of Good Taste with Calvin Klein Leaning on his core tenets of minimalism and comfort, Sebastian curated a seasonal Calvin Klein Gift Guide, sharing essential styling tips to spice up a festive look."
+    },
+    {
+      "id": "9b2f08819f14f1bd",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Underground Rappers Are (Finally) Fashion’s Hottest Commodity",
+      "url": "https://www.highsnobiety.com/p/yeat-fakemink-xaviersobased-ugg-underground-rappers/",
+      "publishedAt": "2026-11-25T17:56:31.000Z",
+      "collectedAt": "2026-11-25T21:26:14.252Z",
+      "text": "Underground Rappers Are (Finally) Fashion’s Hottest Commodity It’s about time the Xaviersobaseds, Yeats, and Drain Gangs of the world lead the lookbook."
+    },
+    {
+      "id": "d65bd21fc1d93d11",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Not Even The Row and Rolex Are Immune to Black Friday",
+      "url": "https://www.highsnobiety.com/p/neither-the-row-nor-rolex-are-immune-to-black-friday/",
+      "publishedAt": "2026-11-25T16:53:22.000Z",
+      "collectedAt": "2026-11-25T21:26:14.253Z",
+      "text": "Not Even The Row and Rolex Are Immune to Black Friday This is an edit of November 24s Shopper newsletter, in which Shopping Writer Patrick Grady sources the Black Friday sales worth your time."
+    },
+    {
+      "id": "572ccbccfd28485a",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Hoka Has Only Gone and Built a Brutalist Trail Runner",
+      "url": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat/",
+      "publishedAt": "2026-11-25T15:26:11.000Z",
+      "collectedAt": "2026-11-25T21:26:14.253Z",
+      "text": "Hoka Has Only Gone and Built a Brutalist Trail Runner Tetsu Nishiyama’s military-inspired imprint teams up with the performance giant for the WTAPS x HOKA Speedgoat TS."
+    },
+    {
+      "id": "5275ef7095a32d90",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Ice-Cold Hoop Shoe Is Bringing the Chill This Winter",
+      "url": "https://www.highsnobiety.com/p/nike-caitlin-1-ice-cold/",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "collectedAt": "2026-11-25T21:26:14.253Z",
+      "text": "Nike’s Ice-Cold Hoop Shoe Is Bringing the Chill This Winter Nike’s Caitlin Clark hoop shoe gets an icy white-and-blue makeover, bringing a fresh winter colorway to the basketball court."
+    },
+    {
+      "id": "8ce41afa27280142",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "These High-Heat Dunks Are Built on Oregon Lore",
+      "url": "https://www.highsnobiety.com/p/nike-sb-dunk-low-the-zoo-shout/",
+      "publishedAt": "2026-11-25T10:23:30.000Z",
+      "collectedAt": "2026-11-25T21:26:14.253Z",
+      "text": "These High-Heat Dunks Are Built on Oregon Lore Teaming up with GOAT and Flight Club, Division Street’s Ducks of a Feather delivers the DOAF x Nike SB Dunk Low The Zoo and Shout!."
+    },
+    {
+      "id": "f847b69d0afb5f4b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Sole Food: We All Deserve a Whimsical Lil’ Sneaker-Heel",
+      "url": "https://www.highsnobiety.com/p/sneaker-heels-trend/",
+      "publishedAt": "2026-11-25T17:23:43.000Z",
+      "collectedAt": "2026-11-25T21:26:14.253Z",
+      "text": "Sole Food: We All Deserve a Whimsical Lil’ Sneaker-Heel Sneaker-heels are being pushed by brands as big as Nike and Converse. Who's to thank (or blame)? And why are they so everywhere right now?"
+    },
+    {
+      "id": "1c6296d7ef515dc3",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece",
+      "url": "https://www.highsnobiety.com/p/new-balance-991v1-made-in-japan/",
+      "publishedAt": "2026-11-25T10:15:58.000Z",
+      "collectedAt": "2026-11-25T21:26:14.253Z",
+      "text": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece New Balance reveals a luxurious 991v1 \"Made in Japan\" sneaker inspired by a lost prototype. Here's everything on the 25th anniversary pairs."
+    },
+    {
+      "id": "221691659e099a6d",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Conquering the Holiday Gift Scramble at Lids",
+      "url": "https://hypebeast.com/2026/11/conquering-the-holiday-gift-scramble-at-lids",
+      "publishedAt": "2026-11-25T19:05:38.000Z",
+      "collectedAt": "2026-11-25T21:26:15.663Z",
+      "text": "Conquering the Holiday Gift Scramble at Lids With the holiday season just around the corner, finding the perfect gift for coworkers can often feel like an insurmountable task. As offices prepare for end-of-year celebrations, Lids is making the dreaded holiday scramble easier by offering an endless rotation of customizable headwear.Tasked with playing Santa for the office, Eric navigates the bustling street of Times Square to find a gift that is thoughtful yet universally appreciated. His destination for the day is the iconic Lids flagship store, and he’s taking Hypebeast along the way in a new installment of Day in the Life.Once inside, the walls are lined with an endless array of premium headwear. But Eric has his sights set on something specific, so he wastes no time and heads straight for Lids’ newly dropped Realtree collection. Bringing rugged outdoor aesthetics to classic streetwear silhouettes, the lineup features the intricate Realtree Escape and vibrant Pink Realtree patterns applied to iconic 59FIFTY fitted caps and 9FORTY A-Frames across all major sports teams.Eric takes a meticulous approach, carefully handpicking a hat for each team member based on which team they support, even if it means picking up a cap for a rival team he would never personally choose. To give the gifts an extra personal touch, Eric takes his selections over to the machinery in the store’s custom zone, getting each cap customized with his coworkers’ initials.With the gifts secured, Eric heads back to the Hypebeast office on the subway to surprise the team, handing out customized Yankees and Mets caps to smiling colleagues. Holiday gifting can be hard, but as Eric proved today, Lids makes it effortless with all the different team hats and styles available, so you can get each person on your list the perfect present.Watch the full Day in the Life episode with Eric Zhang below.Lids237 West 42nd StreetNew York, NY 10036 View this post on InstagramA post shared by HYPEBEAST (@hypebeast) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2759d975198f1dc4",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "24 Hours with Red Bull during Latin Music’s Busiest Week",
+      "url": "https://hypebeast.com/2026/11/24-hours-with-red-bull-during-latin-grammys-2026-hypebeast-latam-info",
+      "publishedAt": "2026-11-25T18:51:49.000Z",
+      "collectedAt": "2026-11-25T21:26:15.663Z",
+      "text": "24 Hours with Red Bull during Latin Music’s Busiest Week Red Bull kept the energy flowing as Hypebeast LATAM returned to Las Vegas during Latin GRAMMY Week. From an exclusive interview suite at the Encore Tower Suites to dinner at Zero Bond, an after-hours celebration at Disco Bébé and a five-kilometer morning run, the brand joined a packed schedule that stretched from early morning interviews to late-night performances.Inside Hypebeast LATAM's three-bedroom suite, Red Bull fueled a steady rotation of interviews. Alongside its signature Energy Drink, the brand introduced its Winter Edition Pistachio and Berries, bringing an unexpected pairing of nutty and fruity notes to the week's lineup.That flavor followed the celebrations to Hypebeast LATAM's Zero Bond dinner. Served alongside fresh seafood, crispy rice appetizers, and rich chocolate desserts, Red Bull Winter Edition Pistachio and Berries took on cocktail duty, mixed with spirits and finished with fresh citrus.When dinner wrapped, the night went straight into Disco Bébé, Hypebeast LATAM's after-hours celebration. Red Bull stayed on hand as some of Latin music's biggest names took the stage for exclusive performances, carrying the party well past midnight.The following morning, Red Bull picked up the pace as more than 80 guests gathered for a five-kilometer run. A monstrous Red Bull truck supplied the soundtrack at the starting point, while chilled cans helped kick off the early call time. Guests, including Arcángel and Ryan Castro, joined the experience, while a custom bike equipped with turntables and speakers brought the music along for the run.From the suite to the dinner table, the Disco Bébé stage and the starting line, Red Bull kept Hypebeast LATAM's Latin GRAMMY Week moving. Explore the gallery above for a closer look. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "23b6df0127ae4641",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "NANGA to Host Limited-Time Pop-Up Store in New York",
+      "url": "https://hypebeast.com/2026/11/nanga-host-limited-time-pop-up-store-new-york",
+      "publishedAt": "2026-11-25T18:08:35.000Z",
+      "collectedAt": "2026-11-25T21:26:15.663Z",
+      "text": "NANGA to Host Limited-Time Pop-Up Store in New York Summary Japanese outdoor brand NANGA is opening a New York pop-up at 325 Canal Street from December 4 to 21.The store will stock NANGA’s signature down apparel, sleeping bags, comforters, accessories, and pieces from MODMNT.An accompanying exhibition will explore the brand’s history dating back to 1941, its craftsmanship, and the technology behind its down products. NANGA, one of Japan’s leading outdoor brands, will host a pop-up store at 325 Canal Street in New York from Friday, December 4 through Monday, December 21.The pop-up will offer a wide range of categories, including the brand’s signature down wear, as well as sleeping bags, down comforters, and accessories. Items from MODMNT will also be featured in the lineup. The store offers visitors the chance to see and purchase, in person, everything from pieces built with functionality honed in outdoor settings to products designed for everyday use.Beyond retail, the pop-up will also feature exhibition content exploring the brand’s history and craftsmanship. This includes a history board tracing the brand’s journey from its founding as Yokota Sewing in 1941 to the present day, along with displays introducing the sewing techniques and commitment to quality the brand has cultivated over the years, as well as the characteristics of down and the mechanics behind its insulating properties. The content offers a look not only at the functionality of the products themselves, but also at the technology and brand philosophy behind them.The NANGA New York Pop-Up Store will run from Friday, December 4 through Monday, December 21, open daily from 12:00 PM to 8:00 PM ET.NANGA New York Pop-Up StoreDates: December 4 – December 21, 2026Hours: 12:00 PM – 8:00 PM ETVenue: 325 Canal Street, New York, NY, USA Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "649f38033ec58aeb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Infinix Packs Its ZClip 2 Pro Earbuds Into a Snack Bag",
+      "url": "https://hypebeast.com/2026/11/infinix-zclip-2-pro-earbuds-snack-bag",
+      "publishedAt": "2026-11-25T16:00:47.000Z",
+      "collectedAt": "2026-11-25T21:26:15.663Z",
+      "text": "Infinix Packs Its ZClip 2 Pro Earbuds Into a Snack Bag The Infinix ZClip 2 Pro comes in a foil snack pouch, a form familiar to all. Tear the notched edge, hear the crinkle, and instead of chips you get a pair of metallic open-ear earbuds.The ZClip 2 Pro ships in air-filled foil pouches modeled on real snack packaging. The thinking is simple. Snacks and earbuds are two of the easiest everyday escapes, so Infinix put one inside the other and turned unboxing into a small reward ritual. Infinix calls it \"Snack Aesthetics,\" and for a social-first generation that shares everything it opens. Where the industry keeps packaging quiet and serious, Infinix makes it loud and playful. The brand brings a sense of delight to everyday tech products through fun packaging and unboxing experiences.Each foil pouch is fronted by one of three art-toy characters, blending distinct style personas with playful snack pairings. The Streetwise Gorilla, wearing a street jersey and gold chains, channels the bold, loud crunch of spicy chips. The High-Fashion Black Rabbit wears a dark leather jacket, evoking the smooth bite of premium dark chocolate. Finally, the Laid-back Sheep pairs vintage leather with retro shades, matching the relaxed comfort of a classic sweet puff. Beyond driving the packaging's visual style, their distinct features: the gorilla's human-like ears, the rabbit's tall points, and the sheep's floppy drop, demonstrate what Infinix calls its universal \"All-Ear Fit.\"The pouch is only the first step. The same idea carries through the whole campaign, built around \"Clip on, drift away\". Opening a snack and clipping on a pair of earbuds are both quick ways to step out of a busy day, and Infinix takes that idea out of the packaging and into the city. To launch the ZClip 2 Pro, Infinix turned ride-hailing cars into small mobile sanctuaries. Inside, passengers found plants, soft warm lighting, shelves of snacks and the new earbuds. They could snack, listen to music, call someone, watch something, or just sit quietly between the office and home. That ordinary stretch of road between work and home becomes a few minutes reserved just for yourself.The Airy U-Bridge sits on the ear rather than in it, using a nickel-titanium memory alloy wire that Infinix says has been tested to more than 5,000 flexes. Each earbud weighs about 5.5g, light enough to wear all day without pressure, and fits in perfectly next to your earrings. Every pack includes a signature detachable accessory that cli"
+    },
+    {
+      "id": "d48e126c9ad13d92",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Zamna Will Bring 10 Days of Global Dance Music to Tulum for Landmark 10th Anniversary",
+      "url": "https://hypebeast.com/2026/11/zamna-10-anniversary-festival-event-info",
+      "publishedAt": "2026-11-25T15:30:39.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Zamna Will Bring 10 Days of Global Dance Music to Tulum for Landmark 10th Anniversary The Tulum jungle in Mexico has been integral to Zamna’s rise, hosting its first music festival back in 2017. Though the culture and hospitality group has taken the festival to over 20 countries since its inception, it returns to its roots for Zamna’s 10th anniversary with a special 10-day line-up in the ancient area. Teasing global festival-goers, Zamna launched a commemorative film last week, which captured celebrations from the last decade. From high-octane sets by renowned DJs Peggy Gou and David Guetta to theatrical productions that gave a stage to Tale Of Us, Rüfüs du Sol, and Gorillaz, the visuals traced iconic moments that fed off the “land, culture and history” to shape a festival that connects people and platforms dance music. For the upcoming 10th anniversary event, the group continues to cement itself as a global destination for dance culture. Turning the programming up a notch, the schedule kicks off on New Year’s Eve with a takeover from British electronic music platform RENAISSANCE. After welcoming Sasha, Maceo Plex, and Ida Engberg to the festival, Amnesia makes its Zamna debut, bringing a piece of Ibiza to Mexico for its own milestone anniversary. Other curated line-ups include ANYMA’s Berlin club night ÆDEN, Adriatique’s X, and Black Coffee, culminating with a special showcase from Adam Port of Keinemusik. Alongside announcing the full line-up, Zamna has also revealed it will be partnering with UMusic Hotel and Beach Club in Tulum for the anniversary festival. Having built its local presence through collaborations with nearby institutions, Zamna’s latest partnership will elevate its efforts in hospitality by introducing a VIP experience at the property. Attendees will be able to flow from the festival space to the hotel with a new multipass, while also getting to visit special Zamna events there all year round. “For us, it has always been about the people. This 10th anniversary series honors a decade of shows, shared memories, and lessons learned, and we’re celebrating it back where it all began: Tulum,” shared Founder of Universal Xperience Fabricio Ledesma Heinrich on the anniversary.“Every detail is designed around the audience, and this time we want to raise the bar again, making every night immersive and unforgettable. This anniversary isn’t a finish line. It’s the foundation for what comes next, and there’s a lot more ahead.”For more information on "
+    },
+    {
+      "id": "6f6896956808968c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "AAPE x BABY MILO® FW26 Turns Signature Camo Into a Game of Hide-and-Seek",
+      "url": "https://hypebeast.com/2026/11/aape-baby-baby-milo-fw26-collection-release-info",
+      "publishedAt": "2026-11-25T08:45:03.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "AAPE x BABY MILO® FW26 Turns Signature Camo Into a Game of Hide-and-Seek AAPE BY *A BATHING APE® has teamed up with BABY MILO® once again for Fall/Winter 2026. The campaign was shot at a real Tokyo arcade and stars Japanese gyaru model Yukipoyo alongside twin influencers Aqua & Akuto. The crew filled the crane machines with BABY MILO® plushies, and the cast moves between the neon lights and stacked toys for a playful, street-ready feel.Graphics lead the way this season. BABY MILO® and his animal friends appear as hidden Easter eggs throughout AAPE’s signature camo, so fans have a reason to look closely. The hoodie, long AAPE’s most recognizable piece, keeps the brand’s asymmetric hood with different embroidery on each side. This time the hood also splices half of AAPE’s MOONFACE logo with half of BABY MILO®’s face. The resulting split face shows both brands at a glance.The hoodie comes in three exclusive colorways, pink, cream and green, in both adult and kids’ sizes. Long-sleeve T-shirts make up the rest of the apparel. One has a relaxed, drop-shoulder fit with a co-branded logo on the chest and BABY MILO® peeking out from behind an oversized MOONFACE on the back, and it comes in black and white. Another shows BABY MILO® hugging MOONFACE on the front, with the collaboration logo on the back. It comes in black, white and gray, plus a kids’ version for matching parent-and-child looks.Winter accessories include co-branded beanies, gloves, scarves and plush keychains. The standout collectible is a 35 cm BABY MILO® plush hugging AAPE’s MOONFACE. The MOONFACE opens to reveal a hidden storage compartment for everyday essentials.The AAPE x BABY MILO® collection is now available at AAPE stores worldwide and on AAPE.com, with accessories arriving on December 3, 2027. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "94841df4d7fe33c0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix",
+      "url": "https://hypebeast.com/2026/11/lisa-wears-unreleased-nike-zoom-streak-3-f1-vegas",
+      "publishedAt": "2026-11-25T08:13:15.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix Summary LISA wore an unreleased pair of Nike Zoom Streak 3 sneakers in Black/Red to the Formula 1 Las Vegas Grand Prix drivers paradeFirst introduced in 2009, the racing flat pairs a one-piece mesh upper with a Cushlon midsole and a Zoom Air heelThe sighting is one of the first public moments since Nike and Formula 1 announced their long-term global partnership The Nike Zoom Streak 3 got an early public outing in Las Vegas when global musician and Nike ambassador LISA wore an unreleased Black/Red pair to the Formula 1 Las Vegas Grand Prix drivers parade. Appearing alongside drivers Lewis Hamilton and Charles Leclerc, she gave the public its first look at a colorway from the Zoom Streak 3 collection due in Spring 2027.The Zoom Streak 3 was built for racing, and its construction reflects that. A one-piece mesh upper keeps weight to a minimum and cuts down on overlays, while a Cushlon midsole provides responsive, low-profile cushioning. A Zoom Air unit in the heel adds impact protection without making the shoe heavier, a balance of lightness and performance that made the model a favorite among Nike athletes after its 2009 debut.The shoe's racing record backs up that reputation. Between 2009 and 2013, no earlier Nike racing shoe had been worn across more finish lines than the Zoom Streak 3, which made it one of the brand's most successful racing flats. Now Nike is pulling it from the archive and repositioning the low-slung silhouette as an everyday sneaker, and the Black/Red colorway gives it a sharp, high-contrast look.The setting for the reveal was deliberate. LISA's appearance follows the announcement of a long-term global partnership between Nike and Formula 1. Debuting a revived racing shoe at one of the sport's highest-profile weekends ties Nike's running heritage directly to its new motorsport partnership.The Nike Zoom Streak 3 \"Black/Red\" is set to release in Spring 2027, with release details still to be announced.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "c9d699d49b951153",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”",
+      "url": "https://hypebeast.com/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-cave-purple-iu5238-500-official-images",
+      "publishedAt": "2026-11-25T08:06:21.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 “Cave Purple” Name: Cactus Plant Flea Market x Nike Flea 1 “Cave Purple”Colorway: Cave Purple/Dark Raisin-Purple DynastySKU: IU5238-500MSRP: $180 USDRelease Date: December 2026Cactus Plant Flea Market and Nike have revealed the official images of the Flea 1 \"Cave Purple,\" listed as Cave Purple/Dark Raisin-Purple Dynasty. The colorway covers the silhouette in tonal purple from top to bottom and adds a heavily textured sole that gives the pair a rugged, almost unfinished look.Suede makes up most of the upper, wrapping the shoe in a soft purple finish across a series of geometric panels. The paneling is where the Flea 1's roots show, with clear nods to the Dunk and the Air Force 1, though CPFM pulls the overall shape well away from either one. A heavily padded collar and an oversized tongue add bulk around the ankle and give the shoe its chunky, cushioned profile.The sole is the most unusual part of the build. Rather than a clean, smooth cupsole, the dark purple unit has a rough, uneven surface that looks like dried mud, so the pair appears worn in straight out of the box. It's also a shade darker than the upper, which keeps the tonal look from feeling flat.Contrast is saved for the back of the shoe. A black-and-white yin-yang logo sits on the heel, the only real break from the purple, and CPFM branding appears across the rest of the design. \"Cave Purple\" is one of two Flea 1 colorways the pair has lined up for the holidays, alongside a \"Barley\" version, and LeBron James was recently spotted wearing the purple pair ahead of the official reveal.Set your reminders and get ahead of what’s dropping next on Hypebeast Drops. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "608b145e8c5637af",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Fred again.., Nike and Monkey Shoulder Lifestyle, Merch & Music Collective Stitch India's 2007 and 2011 Winning Kits Into One Cricket Shirt",
+      "url": "https://hypebeast.com/2026/11/fred-again-monkey-shoulder-nike-cricket-jersey-release-info",
+      "publishedAt": "2026-11-25T07:55:13.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Fred again.., Nike and Monkey Shoulder Lifestyle, Merch & Music Collective Stitch India's 2007 and 2011 Winning Kits Into One Cricket Shirt Summary Fred again.. has teamed up with Monkey Shoulder Lifestyle, Merch & Music Collective and Nike on a limited-edition cricket shirt designed by Kunel GaurThe design merges the geometric graphics of India's 2011 kit with the blue of its 2007 kit, two winning shirts from Nike's archiveThe release comes just ahead of Fred's five sold-out India shows in December Fred again.. is suiting up for his India tour with a limited-edition cricket shirt made with Monkey Shoulder Lifestyle, Merch & Music Collective and Nike. Designed by Kunel Gaur, the jersey goes back into Nike's archive of India's championship-winning kits, combining two of the country's most recognizable cricket shirts into a single piece and adding the artist's own visual signatures.The base of the shirt comes straight from cricket history. Gaur takes the geometric graphics of India's 2011 kit and lays them over the bright blue of the 2007 kit, so two separate eras of the team's identity appear together on one jersey. Those years carry real weight for fans, as India won the ICC World Twenty20 in 2007 and the ICC Cricket World Cup on home soil in 2011, which makes the shirt a tribute to two trophy runs.The finishing details make it Fred's own. His distinct visual language is worked into the design alongside the Monkey Shoulder Lifestyle, Merch & Music Collective logo, and the partnership marks the first time the William Grant & Sons India lifestyle brand has named a Creative Partner. The result looks like matchday gear and works as tour merch at the same time.The rollout leaned into that crossover. Over the past week, the shirt has been spotted on some of India's best-known figures across sport, music, food and style, including Test and ODI captain Shubman Gill, rapper Hanumankind, executive chef Hussain Shahzad, dancer Ruhee Dosani, stylist Shaleena Nathani and longtime cricket commentator Harsha Bhogle.All of it leads up to Fred's December run in India. When tickets went on sale in June, the tour sold faster than any previous Indian tour by an international solo act, and all five dates are now sold out. He opens at Leisure Valley Ground in Gurugram on December 5, plays Mahalaxmi Race Course in Mumbai on December 8 and 9, and closes at NICE Grounds in Bengaluru on December 12 and 13.The Fred again.. x Monkey Shoulder Lifestyle, Merch & Music Collective x Nike"
+    },
+    {
+      "id": "c2c50c841aa3a1cb",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Deborah Ann Woll Is Bringing Faye From the 'God of War' Games to Prime Video's Live-Action Series",
+      "url": "https://hypebeast.com/2026/11/deborah-ann-woll-joins-god-of-war-tv-series-as-faye",
+      "publishedAt": "2026-11-25T07:45:38.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Deborah Ann Woll Is Bringing Faye From the 'God of War' Games to Prime Video's Live-Action Series Summary Deborah Ann Woll will reprise her video game role as Faye in Prime Video's live-action God of War adaptationProduction is undergoing massive reshoots after Dave Bautista replaced Ryan Hurst as Kratos due to an on-set injuryThe casting points toward a potential third season aligning with the upcoming 2027 game God of War Laufey Prime Video officially brought a familiar face to its highly anticipated God of War TV series. Deborah Ann Woll joined the live-action adaptation of the blockbuster Santa Monica Studio video game franchise as Faye. Woll steps into a role she knows intimately, having previously provided the voice and motion capture for the character in the 2022 video game God of War Ragnarök. Deadline reported that Woll was always the producers’ definitive choice for the role of Faye. The television show follows the Greek god of war, Kratos, as he travels with his son Atreus to scatter the ashes of his late wife Faye from the highest peak in the Nine Realms.Producers kept Woll’s involvement strictly under wraps due to a behind-the-scenes production pivot. Amazon picked up the God of War series for two seasons, which crews are filming back-to-back. Four of the first season's ten episodes were filmed in spring 2026 before production stopped when original Kratos actor Ryan Hurst injured his shoulder on set. The production team scrapped all footage shot with Hurst and is currently reshooting those episodes with Dave Bautista taking over the leading role of Kratos. Woll’s casting emerged only now because Faye did not appear in any of the episodes initially filmed with Hurst.Bautista joins an ensemble cast that is actively taking shape. Callum Vinson was cast to play Kratos's son Atreus. Mandy Patinkin joins the roster as Odin, alongside Max Parker as Heimdall and Ólafur Darri Ólafsson as Thor, a character originally voiced by Hurst in the God of War Ragnarök game. Danny Woodburn portrays Brok, while Jeff Gulka plays Sindri. Prime Video has not set a release date for the series.While the first two seasons follow the foundational events of the 2018 God of War game and its 2022 sequel, Woll's confirmed presence points toward future narrative expansion. Woll is already scheduled to voice and perform motion capture for Faye in the upcoming 2027 game God of War Laufey, a title that shifts its protagonist from Kratos to Faye. Securing Woll for the live-action"
+    },
+    {
+      "id": "659f12f553f4ca32",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Blancpain Unveils New Watch Featuring the World's First 30-Degree Inclined One-Minute Flying Carrousel",
+      "url": "https://hypebeast.com/2026/11/blancpain-carrousel-incline-info",
+      "publishedAt": "2026-11-25T07:10:16.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Blancpain Unveils New Watch Featuring the World's First 30-Degree Inclined One-Minute Flying Carrousel Blancpain, the world's oldest watch brand founded in Villeret, Switzerland in 1735, has announced a new watch, the Tourbillon Carrousel Inclined. Completed after four years of development, this model features what the brand claims to be the world's first one-minute flying carrousel inclined at 30 degrees.The carrousel is a mechanism designed to minimize the rate variations caused by the orientation of the watch. By housing the balance wheel and escapement—which regulate the timekeeping—in a rotating cage, it averages out the effects of gravity. In 2008, Blancpain introduced a wristwatch equipped with a flying carrousel whose cage makes one full rotation per minute. For this new release, tilting the rotation axis of that cage by 30 degrees ensures that the orientation of the balance wheel continues to change relative to gravity even when the watch is laid flat with the dial facing up.During development, multiple inclination angles from 0 to 35 degrees were tested, measuring amplitude and rate across six different positions. As a result, 30 degrees was adopted as the angle that best balances precision performance, movement thinness, and design. The newly developed manual-winding Calibre 222ISQ secures a 100-hour power reserve via two series-connected barrels. Furthermore, every piece comes with an individual chronometry certificate showing an average daily rate tolerance between 0 and +2 seconds.The exterior also boasts a major distinguishing feature. It adopts Blancpain's first-ever full sapphire case, with sapphire also used for the dial. The movement's action can be admired not just from the front, but from the back and sides as well. The entire movement has been thoroughly skeletonized so that normally hidden gears, barrels, and even the winding state of the mainspring are visible.The case is available in two versions: 5N red gold and rhodium-plated gold. The 30-degree inclined complication is housed within relatively compact dimensions of 40.30 mm in diameter and 11.30 mm in thickness. The two parts that make up the sapphire case reportedly take approximately 100 hours each to machine and polish.The movement finishing is not to be missed either. The Calibre 222ISQ receives a total of 210 hours of hand decoration at the in-house workshop in Le Brassus. This includes chamfering and polishing of 253 sharp internal angles, with finishes applied even to the"
+    },
+    {
+      "id": "85d572a096fbb3b0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Starbucks Japan Launches the Potato Soupaccino, a Half-Soup, Half-Cappuccino Winter Drink",
+      "url": "https://hypebeast.com/2026/11/starbucks-japan-debuts-the-savory-potato-soupaccino",
+      "publishedAt": "2026-11-25T07:08:49.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Starbucks Japan Launches the Potato Soupaccino, a Half-Soup, Half-Cappuccino Winter Drink Summary Starbucks Japan introduces the Potato Soupaccino as a half-soup, half-cappuccino hybrid beverage for the winter seasonThe savory comfort drink features a potato, caramelized onion and sweet vegetable flavor profile topped with customizable foamThe exclusive seasonal release continues a regional trend of savory coffee alternatives that are not launching in the United States Starbucks Japan launched its unconventional winter offering, the Potato Soupaccino, on November 13. The menu item is a half-soup, half-cappuccino hybrid beverage that blurs the line between a traditional hot drink and a savory comfort meal. By launching this savory option, the brand continues a regional trend of offering exclusive winter coffee alternatives that bypass Western menus.For this winter season, Starbucks added a potato flavor to the lineup to create a profile rooted in culinary comfort. The Potato Soupaccino features a pillowy texture reminiscent of freshly baked potatoes. To build the flavor profile, the recipe combines an earthy potato base with caramelized onions and subtle notes of sweet vegetables.The preparation process embraces a traditional coffeehouse aesthetic. Starbucks baristas finish the drink by adding a frothy layer of cappuccino foam on top of the savory base. Customers can choose their preferred milk variety for the foam layer to customize the beverage.The new potato flavor expands on the savory hybrid concept that Starbucks Japan introduced in 2025 with truffle and pumpkin flavors. This evolution demonstrates how Starbucks Japan establishes its seasonal lineup as a permanent space for experimental savory coffee alternatives rather than standard sweet syrups. The Potato Soupaccino remains exclusive to Japan and will not launch in the United States. A Short size of the Potato Soupaccino costs 491 yen, which is approximately US$3.11. Tall sizes cost 530 yen, or approximately US$3.32. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0ab618dd7e133eb5",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "PORTER Remakes Its Exclusive PX TANKER Line in 100% Plant-Derived Nylon",
+      "url": "https://hypebeast.com/2026/11/porter-px-tanker-2026-redesign-release-info",
+      "publishedAt": "2026-11-25T07:00:55.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "PORTER Remakes Its Exclusive PX TANKER Line in 100% Plant-Derived Nylon Summary PORTER has fully renewed PX TANKER, the exclusive line it has offered since 2019Every bag in the five-piece lineup is made from 100% plant-derived nylon, the same fabric used across the TANKER lineThe update also brings two new colorways, adjustable-length straps and the tighter construction standards PORTER is known for PORTER has given its PX TANKER line a complete renewal, moving the exclusive series onto 100% plant-derived nylon and expanding it to five models. The relaunch includes a tote, a daypack and a hip bag, and each one is built to what the Yoshida & Co. label presents as its highest standard of manufacturing.The fabric is the main change. Each bag uses the same 100% plant-derived nylon found across the TANKER family, a material that is credited as the first of its kind to reach mass production. Changing what the bags are made of while keeping the TANKER identity means the renewal is about substance more than appearance, and the shell keeps the distinctive surface texture the line is recognized for.Construction is where PORTER's craftsmanship shows. The bags are put together with very precise sewing and carefully engineered components, and the coloring has been refined to match. Two new colorways join the series, and the straps can now be adjusted in length, so each piece can be fitted to the body whether it's worn as a tote, carried as a daypack or strapped across the waist as a hip bag.The lineup is small and the distribution even smaller. Across its five models, the renewed PX TANKER covers everyday carry from a full-size tote down to a compact hip bag, and only four stores worldwide will stock the collection. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "957a02bf329a1b49",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Aimé Leon Dore and Porsche Gear Up for the Holidays With New Capsule Collection",
+      "url": "https://hypebeast.com/2026/11/aime-leon-dore-porsche-2026-capsule-collection-collab-release-info",
+      "publishedAt": "2026-11-25T06:35:37.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Aimé Leon Dore and Porsche Gear Up for the Holidays With New Capsule Collection Summary Aimé Leon Dore and Porsche unveil their collaborative Holiday 2026 Capsule Collection.The capsule collection includes a performance fleece, cashmere accessories, and collectible gifts.The collection launches November 23 online and at flagship stores. Continuing their longstanding creative partnership, New York fashion label Aimé Leon Dore and German automaker Porsche have unveiled a new Holiday 2026 Capsule Collection. Centered around a shared appreciation for timeless design and meticulous craftsmanship, the seasonal offering unites Porsche’s motorsport heritage with Aimé Leon Dore’s refined street style.Designed to balance everyday comfort with elevated materiality, the apparel lineup is anchored by the ALD x Porsche Performance Fleece Quarter-Zip and matching Sweatpant. Finished with embroidered co-branded artwork, the set arrives in two colorways: “Pumice Stone” and “Pine Grove.” Additional highlights include the Fleet Tee, which pays tribute to the duo’s series of bespoke classic car restorations, while cold-weather accessories take shape through soft Cashmere Beanies and a Plaid Wool Scarf.Rounding out the collection is a curated selection of lifestyle and gifting essentials. Highlights include a co-branded ALD x Porsche Teddy Bear, a Plaid Wool Blanket, and a custom Titleist Pro V1 Golf Ball 3-Pack.The Aimé Leon Dore x Porsche Holiday 2026 Capsule Collection releases November 23 via Aimé Leon Dore’s website and its flagship locations in New York, Los Angeles, and London. View this post on InstagramA post shared by Aimé Leon Dore (@aimeleondore) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a926234b3bcee41b",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "‘GTA VI’ Stays Off Limits, But Hollywood Can Reportedly Have ‘Red Dead Redemption’ for $100 Million USD",
+      "url": "https://hypebeast.com/2026/11/rockstar-games-red-dead-redemption-100-million-usd-usd-live-action-adaptation-update",
+      "publishedAt": "2026-11-25T06:30:45.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "‘GTA VI’ Stays Off Limits, But Hollywood Can Reportedly Have ‘Red Dead Redemption’ for $100 Million USD Summary Rockstar Games is reportedly more open to bringing 'Red Dead Redemption' to film or television, even as it continues to turn down Hollywood interest in 'Grand Theft Auto'An unnamed agent claims the studio at one point floated a licensing price of more than $100 million USDNo studio, producer or talent has been tied to the project, and Rockstar has not commented Rockstar Games may finally be willing to let Hollywood into its catalog, with Red Dead Redemption reportedly emerging as the franchise the studio is most open to adapting for film or TV. According to an exclusive report from Lesley Goldberg at The Ankler, multiple sources say Rockstar has become more receptive to a screen version of its Western series, while Grand Theft Auto is still firmly off the table despite years of interest from entertainment companies.The reported figure is what makes this story stand out. An unnamed agent who works with writers in the video game space told The Ankler that Rockstar had, at one point, floated a minimum of more than $100 million USD for the licensing rights alone. For a sense of scale, the report sets that number beside the roughly $250 million USD Amazon reportedly paid in 2017 for the global TV rights to The Lord of the Rings. The wording suggests the figure came up in past discussions rather than as a current, finalized offer.Beyond that price tag, almost nothing about a potential deal has been made public. The report doesn't say whether Rockstar would prefer a film or a series, and it names no bidders, studios, producers or talent attached to a Red Dead Redemption project. Rockstar, a subsidiary of Take-Two, did not immediately respond to The Ankler's request for comment, so the adaptation remains exploratory for now.The timing helps explain why the franchise might be worth that much to Hollywood. The report landed just as GTA VI arrived after a 13-year wait, with The Ankler projecting the game could earn between $3 billion USD and $5 billion USD in its first week. That kind of firepower gives Rockstar little reason to chase outside deals, and the wider industry backs that up: the global gaming market is valued at well over $200 billion USD across 3.7 billion active players, which arguably gives game publishers the upper hand in negotiations with studios.Streamers have been spending heavily to get their share. Amazon, Netflix and FX are reportedly"
+    },
+    {
+      "id": "4e6e712b8b94aa29",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "UNDERCOVER x fragment design's Mohair Knit Cardigan Puts Texture First in Two Necklines",
+      "url": "https://hypebeast.com/2026/11/undercover-fragment-design-drop-2-collaboration-collection-release-infp",
+      "publishedAt": "2026-11-25T06:30:39.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "UNDERCOVER x fragment design's Mohair Knit Cardigan Puts Texture First in Two Necklines Summary UNDERCOVER and fragment design return with the second installment of their \"Undercover meets Fragment\" capsuleThe drop is built around a single mohair knit cardigan taken from the FW26 men's collectionThe cardigan comes as a crew neck or a V-neck, with each one offered in Ivory Base and Black Base UNDERCOVER and fragment design have unveiled the second chapter of their \"Undercover meets Fragment\" capsule, a mohair knit cardigan taken from the FW26 men's collection and reissued in a limited run of new colors. Jun Takahashi and Hiroshi Fujiwara offer the piece in two cuts, crew neck and V-neck, so this round is all about one garment rather than a full lineup.Instead of spreading Drop 2 across several categories, the duo commits entirely to a single knit and changes only the neckline. The crew-neck version keeps the front closed and simple, while the V-neck opens up the chest and frames whatever is layered underneath. Both are cut from the same mohair knit, so choosing between them comes down to how you plan to wear it, not what it's made of.Color is the other variable, and the two designers keep it disciplined. Each neckline is available in Ivory Base and Black Base, giving the cardigan a light, clean option and a darker one that sits easily inside an all-black wardrobe. Because the colors are produced in limited numbers, this version stands apart from the cardigan's original appearance in the seasonal collection.The narrow format matches the idea behind the whole capsule. The project grew from a philosophy Takahashi and Fujiwara share: make the clothes they personally want to wear right now. Taking one strong knit from the collection and refining it, instead of designing a sprawling range, carries that idea straight into the product.The UNDERCOVER x fragment design \"Undercover meets Fragment\" mohair knit cardigan drops November 28 at 11 a.m. JST via the UNDERCOVER online store. It will also be available the same day at UNDERCOVER Aoyama, Sendai, Nagoya and Kyoto. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "04e41a7e42df2510",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Y-3 and Mercedes-AMG PETRONAS F1 Team Celebrate Constructors' Title with Jeff Hamilton",
+      "url": "https://hypebeast.com/2026/11/y-3-and-mercedes-amg-petronas-f1-team-celebrate-constructors-title-with-jeff-hamilton",
+      "publishedAt": "2026-11-25T06:26:38.000Z",
+      "collectedAt": "2026-11-25T21:26:15.664Z",
+      "text": "Y-3 and Mercedes-AMG PETRONAS F1 Team Celebrate Constructors' Title with Jeff Hamilton Summary Y-3 x Mercedes-AMG PETRONAS F1 Team x Jeff Hamilton unveil a 2026 Constructors’ title capsule.Debuted in Las Vegas, the jacket and cap are limited to 999 units each.Pre-orders open November 23 ahead of an early December release. Celebrating their newly crowned nine-time Constructors' Champion, Mercedes-AMG PETRONAS F1 Team andY-3 have teamed up with Jeff Hamilton to unveil a commemorative capsule collection to honor the team’s 2026 title. Debuted by drivers Kimi Antonelli and George Russell as they arrived at the Las Vegas Grand Prix, the Constructors’ Championship jacket translates the team’s achievement into a commemorative piece. Bringing Y-3’s distinctive design perspective together with Hamilton’s signature approach to championship apparel, the jacket arrives alongside a matching commemorative cap. Limited to 999 units each, the jacket is priced at €900 EUR (approx. $984 USD), and the cap is priced at €150 EUR (approx. $164 USD).The Y-3 x Mercedes-AMG PETRONAS F1 Team x Jeff Hamilton capsule collection opens for pre-order and sign-up on November 23 via adidas.com in North America and Europe, as well as via Mercedes-AMG PETRONAS Formula One Team Official Online Shop. Both pieces will see a broader release in early December 2026 through the same channels, as well as select physical locations across the world. View this post on InstagramA post shared by Y-3 (@adidasy3) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "178f745dac7ee62c",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "lululemon Launches New Winter Apparel Collections, Featuring Oversized Silhouettes and Functional Fabrics for Winter Layering",
+      "url": "https://hypebeast.com/2026/11/lululemon-winter-collection-info",
+      "publishedAt": "2026-11-25T05:49:59.000Z",
+      "collectedAt": "2026-11-25T21:26:15.665Z",
+      "text": "lululemon Launches New Winter Apparel Collections, Featuring Oversized Silhouettes and Functional Fabrics for Winter Layering lululemon recently introduced a variety of winter apparel, covering the Big Cozy, Steady State SuperLoft, Tumbled Fleece, and the all-new High-Loft PrimaLoft UltraPeak collections. Through oversized silhouettes, rich fabric textures, and functional designs, the collections meet diverse wardrobe needs, from lounging at home and city commuting to outdoor exploration.The Big Cozy collection features a super-oversized half-zip hoodie and cocoon joggers as key items, utilizing a thick, stretchy fabric with a smooth exterior and brushed interior, enriched visually by 3D stitching in the shape of the brand logo. For menswear, the Steady State SuperLoft collection offers a hoodie and sweatpant set, made with a cotton-blend SuperLoft fabric that is brushed on both sides. Paired with low-saturation winter hues like mahogany muse brown, it presents a relaxed athleisure style. Additionally, the Wunder Puff™ long puffer coat and the bomber jacket filled with 600-fill-power goose down provide even more options for winter layering.In terms of fleece apparel, the Tumbled Fleece collection uses a lightweight, double-sided fleece fabric, offering items such as men's and women's hoodies and sweatpants; the women's Polartec 200 Series athletic fleece jacket balances moisture-wicking and breathability, while the Polartec Thermal Pro zip jacket presents a rich, shearling-like texture through the splicing of two fabrics. The collection also includes styles such as vests and half-zip hoodies, further enriching the layers of winter outfits.Notably, the all-new High-Loft PrimaLoft UltraPeak jacket collection features a PrimaLoft UltraPeak insulation layer, boasting a puffy texture akin to down, while also being highly compressible and able to regain its loft. The outer layer utilizes Glyde fabric, which is both windproof and water-resistant, and comes in two silhouettes: a hip-length short style and a long style. The relaxed fit allows room for layering, catering to both the need for protection in wet and cold environments and everyday style expression. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "3d10eea590c63c64",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Yvng Patra Releases New Album 'Regalia' Featuring Kohjiya, Vingo, and More",
+      "url": "https://hypebeast.com/2026/11/yvng-patra-regalia-kohjiya-vingo-new-album-release-info",
+      "publishedAt": "2026-11-25T05:48:00.000Z",
+      "collectedAt": "2026-11-25T21:26:15.665Z",
+      "text": "Yvng Patra Releases New Album 'Regalia' Featuring Kohjiya, Vingo, and More Rapper Yvng Patra has released his latest album, Regalia. The 17-track release features appearances by Kohjiya, Vingo, D.O, DADA, 27AM, and Pxrge Trxxxper. Welcoming a diverse array of producers and guest artists, the project delivers a broader soundscape than ever before.Production is handled by Oddy lozy, TAXON, and VetteBoy, among others. Pxrge Trxxxper joins the high-energy party anthem \"We Gon' Rock the Party,\" while close allies 042ghxst and Gam Ball guest on \"Siren\" and \"Money Talks,\" respectively. Additionally, D.O provides spoken-word narration on \"9 Tips,\" with S TILL I DIE adding a verse.\"Beyond,\" originally released in August 2026, is included as a remix featuring 27AM. \"Night wida AMG\" featuring Kohjiya boasts a West Coast-inspired sound, while the uptempo \"One Time\" features Vingo. Conversely, \"Where is the Real Love\" featuring DADA expresses serious emotions over a slow track. The album boasts a variety of moods, ranging from heavy-hitting bangers to more introspective cuts.The album title, Regalia, refers to the emblems and ornaments symbolizing royalty and majesty. The project features lyrics that assert his position and presence within the scene, making it a work that showcases exactly where Yvng Patra stands today.He has also announced a solo live show, \"Yvng Patra One Man Live,\" to be held at Toyosu PIT in Tokyo on Saturday, March 20, 2027. Following his sold-out show at Zepp Shinjuku earlier this year, he is taking on a new stage at the largest venue of his career to date. The presale has ended, and general ticket sales are scheduled to begin on Monday, November 30 at 8:00 p.m.Yvng Patra's latest album, Regalia, is available now on all major streaming services as of Wednesday, November 25, 2026. The 17-track album is produced by Oddy lozy, TAXON, Broks Beatz, liv., VetteBoy, cabernett, shango, and Ivand Beats. The solo live show is scheduled for Saturday, March 20, 2027, at Toyosu PIT, with doors opening at 5:00 p.m. and the show starting at 6:00 p.m. Click here to view full gallery at Hypebeast"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "run": {
-    "id": "2026-11-24",
+    "id": "2026-11-25",
     "mode": "live",
-    "displayDate": "NOV 24, 2026, 05:10 PM EST",
-    "generatedAt": "2026-11-24T22:10:13.276Z",
-    "itemsCollected": 54,
+    "displayDate": "NOV 25, 2026, 04:26 PM EST",
+    "generatedAt": "2026-11-25T21:26:16.914Z",
+    "itemsCollected": 59,
     "sourcesRead": 3,
     "sourceResults": [
       {
         "source": "Vogue",
         "status": "ok",
-        "count": 29
+        "count": 30
       },
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 13
+        "count": 17
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 18
+        "count": 19
       }
     ]
   },
@@ -30,45 +30,25 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 99,
-      "confidence": 49,
-      "youthRelevance": 79,
+      "score": 53,
+      "confidence": 45,
+      "youthRelevance": 68,
       "direction": "up",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "4 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "4 observations · 2 independent sources · +300% seven-day velocity",
+      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +50% seven-day velocity",
       "citations": [
-        {
-          "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
-          "source": "Hypebeast",
-          "date": "Nov 22",
-          "url": "https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info"
-        },
         {
           "title": "Author Josh Silver’s Brooch Game? It’s Strong",
           "source": "Vogue",
           "date": "Nov 23",
           "url": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards"
-        }
-      ]
-    },
-    {
-      "id": "archival-sportswear",
-      "name": "Archival sportswear",
-      "stage": "emerging",
-      "score": 43,
-      "confidence": 19,
-      "youthRelevance": 62,
-      "direction": "up",
-      "thesis": "Archival sportswear is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 0 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +100% seven-day velocity",
-      "citations": [
+        },
         {
-          "title": "ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection",
+          "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
           "source": "Hypebeast",
-          "date": "Nov 18",
-          "url": "https://hypebeast.com/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info"
+          "date": "Nov 22",
+          "url": "https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info"
         }
       ]
     },
@@ -102,12 +82,12 @@
     "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1124",
+    "code": "AUTO 1125",
     "name": "Decorated basics",
     "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
     "objects": [
-      "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
-      "Author Josh Silver’s Brooch Game? It’s Strong"
+      "Author Josh Silver’s Brooch Game? It’s Strong",
+      "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond"
     ]
   }
 }
