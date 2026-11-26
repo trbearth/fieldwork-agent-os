@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-25",
+    "id": "2026-11-26",
     "mode": "live",
-    "displayDate": "NOV 25, 2026, 04:26 PM EST",
-    "generatedAt": "2026-11-25T21:26:16.914Z",
-    "itemsCollected": 59,
+    "displayDate": "NOV 26, 2026, 04:13 PM EST",
+    "generatedAt": "2026-11-26T21:13:23.289Z",
+    "itemsCollected": 50,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 17
+        "count": 9
       },
       {
         "source": "Hypebeast",
@@ -24,70 +24,69 @@
       }
     ]
   },
-  "summary": "Decorated basics leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
+  "summary": "Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.",
   "signals": [
+    {
+      "id": "quiet-performance",
+      "name": "Quiet performance",
+      "stage": "emerging",
+      "score": 49,
+      "confidence": 25,
+      "youthRelevance": 49,
+      "direction": "up",
+      "thesis": "Quiet performance is appearing across 1 independent public source.",
+      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "citations": [
+        {
+          "title": "One Good Packable Tote That Actually Looks Chic",
+          "source": "Highsnobiety",
+          "date": "Nov 26",
+          "url": "https://www.highsnobiety.com/p/one-good-keychain-that-turns-into-tote-jane-wade-keote/"
+        }
+      ]
+    },
     {
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 53,
-      "confidence": 45,
-      "youthRelevance": 68,
-      "direction": "up",
+      "score": 40,
+      "confidence": 41,
+      "youthRelevance": 57,
+      "direction": "down",
       "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +50% seven-day velocity",
+      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "2 observations · 2 independent sources · -33% seven-day velocity",
       "citations": [
-        {
-          "title": "Author Josh Silver’s Brooch Game? It’s Strong",
-          "source": "Vogue",
-          "date": "Nov 23",
-          "url": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards"
-        },
         {
           "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
           "source": "Hypebeast",
           "date": "Nov 22",
           "url": "https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info"
-        }
-      ]
-    },
-    {
-      "id": "quiet-performance",
-      "name": "Quiet performance",
-      "stage": "emerging",
-      "score": 27,
-      "confidence": 20,
-      "youthRelevance": 46,
-      "direction": "flat",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "1 mention this week versus 1 in the prior seven-day window.",
-      "evidence": "1 observation · 1 independent source · +0% seven-day velocity",
-      "citations": [
+        },
         {
-          "title": "How to Make Flawless Converse Chuck Taylors? Add Waterproof Suede",
-          "source": "Highsnobiety",
-          "date": "Nov 20",
-          "url": "https://www.highsnobiety.com/p/converse-chuck-70-gore-tex-hairy-suede/"
+          "title": "Author Josh Silver’s Brooch Game? It’s Strong",
+          "source": "Vogue",
+          "date": "Nov 23",
+          "url": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards"
         }
       ]
     }
   ],
   "cooling": {
-    "name": "Quiet performance",
-    "reason": "1 mention this week versus 1 in the prior seven-day window."
+    "name": "Decorated basics",
+    "reason": "2 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
-    "title": "Decorated basics moves outward",
-    "body": "If source diversity and velocity persist for two more runs, test decorated basics in a small experiment rather than treating it as a forecasted fact."
+    "title": "Quiet performance moves outward",
+    "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1125",
-    "name": "Decorated basics",
-    "thesis": "A deliberately small, evidence-checking batch built around decorated basics.",
+    "code": "AUTO 1126",
+    "name": "Quiet performance",
+    "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "Author Josh Silver’s Brooch Game? It’s Strong",
-      "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond"
+      "One Good Packable Tote That Actually Looks Chic"
     ]
   }
 }
