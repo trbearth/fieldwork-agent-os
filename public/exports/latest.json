@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-26",
+    "id": "2026-11-27",
     "mode": "live",
-    "displayDate": "NOV 26, 2026, 04:13 PM EST",
-    "generatedAt": "2026-11-26T21:13:23.289Z",
-    "itemsCollected": 50,
+    "displayDate": "NOV 27, 2026, 03:56 PM EST",
+    "generatedAt": "2026-11-27T20:56:39.904Z",
+    "itemsCollected": 52,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,12 +15,12 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 9
+        "count": 10
       },
       {
         "source": "Hypebeast",
         "status": "ok",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -30,19 +30,25 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 49,
-      "confidence": 25,
-      "youthRelevance": 49,
+      "score": 79,
+      "confidence": 44,
+      "youthRelevance": 60,
       "direction": "up",
-      "thesis": "Quiet performance is appearing across 1 independent public source.",
-      "whyNow": "2 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "2 observations · 1 independent source · +100% seven-day velocity",
+      "thesis": "Quiet performance is appearing across 2 independent public sources.",
+      "whyNow": "3 mentions this week versus 1 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +200% seven-day velocity",
       "citations": [
         {
           "title": "One Good Packable Tote That Actually Looks Chic",
           "source": "Highsnobiety",
           "date": "Nov 26",
           "url": "https://www.highsnobiety.com/p/one-good-keychain-that-turns-into-tote-jane-wade-keote/"
+        },
+        {
+          "title": "ROA x C.P. Company Announce First Collaboration",
+          "source": "Hypebeast",
+          "date": "Nov 27",
+          "url": "https://hypebeast.com/2026/11/roa-c-p-company-collabo-collection-release-info"
         }
       ]
     },
@@ -50,13 +56,13 @@
       "id": "decorated-basics",
       "name": "Decorated basics",
       "stage": "emerging",
-      "score": 40,
-      "confidence": 41,
-      "youthRelevance": 57,
-      "direction": "down",
-      "thesis": "Decorated basics is appearing across 2 independent public sources.",
-      "whyNow": "2 mentions this week versus 3 in the prior seven-day window.",
-      "evidence": "2 observations · 2 independent sources · -33% seven-day velocity",
+      "score": 55,
+      "confidence": 60,
+      "youthRelevance": 68,
+      "direction": "flat",
+      "thesis": "Decorated basics is appearing across 3 independent public sources.",
+      "whyNow": "3 mentions this week versus 3 in the prior seven-day window.",
+      "evidence": "3 observations · 3 independent sources · +0% seven-day velocity",
       "citations": [
         {
           "title": "'Twilight' x Crocs Unveils \"Edward and Bella\" Classic Clog After Robert Pattinson is Named Next James Bond",
@@ -69,24 +75,31 @@
           "source": "Vogue",
           "date": "Nov 23",
           "url": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards"
+        },
+        {
+          "title": "This Charming Retro Runner is the Most JW Anderson Sneaker Ever",
+          "source": "Highsnobiety",
+          "date": "Nov 27",
+          "url": "https://www.highsnobiety.com/p/jw-andersons-anchor/"
         }
       ]
     }
   ],
   "cooling": {
     "name": "Decorated basics",
-    "reason": "2 mentions this week versus 3 in the prior seven-day window."
+    "reason": "3 mentions this week versus 3 in the prior seven-day window."
   },
   "prediction": {
     "title": "Quiet performance moves outward",
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1126",
+    "code": "AUTO 1127",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "One Good Packable Tote That Actually Looks Chic"
+      "One Good Packable Tote That Actually Looks Chic",
+      "ROA x C.P. Company Announce First Collaboration"
     ]
   }
 }

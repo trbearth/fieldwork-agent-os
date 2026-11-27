@@ -1,4 +1,4 @@
-# Fieldwork Public Pulse — 2026-11-26
+# Fieldwork Public Pulse — 2026-11-27
 
 ## 1. Quiet performance
 

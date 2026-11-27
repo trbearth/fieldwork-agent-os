@@ -4437,251 +4437,46 @@
           "stage": "emerging"
         }
       ]
+    },
+    {
+      "id": "2026-11-27",
+      "mode": "live",
+      "displayDate": "NOV 27, 2026, 03:56 PM EST",
+      "generatedAt": "2026-11-27T20:56:39.904Z",
+      "itemsCollected": 52,
+      "sourcesRead": 3,
+      "sourceResults": [
+        {
+          "source": "Vogue",
+          "status": "ok",
+          "count": 30
+        },
+        {
+          "source": "Highsnobiety",
+          "status": "ok",
+          "count": 10
+        },
+        {
+          "source": "Hypebeast",
+          "status": "ok",
+          "count": 20
+        }
+      ],
+      "signalScores": [
+        {
+          "id": "quiet-performance",
+          "score": 79,
+          "stage": "emerging"
+        },
+        {
+          "id": "decorated-basics",
+          "score": 55,
+          "stage": "emerging"
+        }
+      ]
     }
   ],
   "items": [
-    {
-      "id": "ee391a0d0c7d69a3",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "The Best Loafers for Women to Invest In in 2026",
-      "url": "https://www.vogue.com/slideshow/best-loafers-for-women",
-      "publishedAt": "2026-08-28T21:13:47.000Z",
-      "collectedAt": "2026-08-28T22:00:29.314Z",
-      "text": "The Best Loafers for Women to Invest In in 2026 Shop Vogue’s edit of the best loafers for women, with everyday styles from Gucci, The Row, Prada, and more."
-    },
-    {
-      "id": "b1aeb352370897cc",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Tamme Tokyo Spring 2027",
-      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/tamme",
-      "publishedAt": "2026-08-28T21:54:53.000Z",
-      "collectedAt": "2026-08-28T22:00:29.315Z",
-      "text": "Tamme Tokyo Spring 2027 "
-    },
-    {
-      "id": "80406180ea6fe3b2",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Ancellm Tokyo Spring 2027",
-      "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/ancellm",
-      "publishedAt": "2026-08-28T21:54:53.000Z",
-      "collectedAt": "2026-08-28T22:00:29.315Z",
-      "text": "Ancellm Tokyo Spring 2027 "
-    },
-    {
-      "id": "61bc9f968a781921",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Vans’ Baddest Winter Boot Is Even Better as a Sneaker",
-      "url": "https://www.highsnobiety.com/p/vans-standard-low-shoe/",
-      "publishedAt": "2026-08-28T21:18:40.000Z",
-      "collectedAt": "2026-08-28T22:00:30.682Z",
-      "text": "Vans’ Baddest Winter Boot Is Even Better as a Sneaker Vans releases the Standard Low, a low-top sneaker-ish version of its toughest MTE winter boots."
-    },
-    {
-      "id": "0a45775faa76714b",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "41 Celebrity Pixie Cut Styles To Inspire a New Look, As Seen on Celebrities",
-      "url": "https://www.vogue.com/article/the-best-pixie-cuts",
-      "publishedAt": "2026-08-29T16:01:33.000Z",
-      "collectedAt": "2026-08-29T16:30:33.181Z",
-      "text": "41 Celebrity Pixie Cut Styles To Inspire a New Look, As Seen on Celebrities Whether severe and androgynous or soft and gamine, the best pixie cuts can be adapted to suit any mood."
-    },
-    {
-      "id": "b788567c7e456668",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "10 Classic Italian Films to Watch Before Vogue World: Milano",
-      "url": "https://www.vogue.com/article/classic-italian-films",
-      "publishedAt": "2026-08-29T16:00:00.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "10 Classic Italian Films to Watch Before Vogue World: Milano Ahead of Vogue World: Milano’s celebration of Italian craft and innovation, we’ve put together a shortlist of Italy’s most classic movies and the filmmakers—some well-known, others more niche—who contributed to the country’s singular reimagining of its own landscape and people through cinema."
-    },
-    {
-      "id": "17e252a0e4e8143e",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "This Maximalist Wedding in Southern California Artfully Blended South Indian and Black American Traditions",
-      "url": "https://www.vogue.com/slideshow/ramya-velury-and-joseph-harris-wedding",
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "This Maximalist Wedding in Southern California Artfully Blended South Indian and Black American Traditions For their wedding in Dana Point, Ramya Velury and Joseph Harris fused their cultural backgrounds for a multi-day celebration unfolding across four distinct events."
-    },
-    {
-      "id": "284398be056157de",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Daughters of Devi: Women in South India",
-      "url": "https://www.vogue.com/article/daughters-of-devi-the-women-in-south-india",
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "Daughters of Devi: Women in South India In her latest series, Lucia Jost explores the many ways womanhood is lived and understood across a changing India."
-    },
-    {
-      "id": "c39dbc5d5befe8fb",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Sarah Jones Fell Out of Love With America. Her New Play Takes It to Counseling",
-      "url": "https://www.vogue.com/article/sarah-jones-america-who-hurt-you-essay",
-      "publishedAt": "2026-08-29T12:00:00.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "Sarah Jones Fell Out of Love With America. Her New Play Takes It to Counseling “I knew I wasn’t the only one feeling disoriented and grief-stricken, and that by speaking up, I might help others who were lost or afraid in their own relationship to America realize they aren’t alone.\""
-    },
-    {
-      "id": "22fe78d71f69525e",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Beauty Marks: The Best Beauty Looks of the Week",
-      "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-29",
-      "publishedAt": "2026-08-29T11:27:00.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "Beauty Marks: The Best Beauty Looks of the Week From Nicole Kidman to Zara Larsson, the best beauty looks celebrated the last days of summer: pastel shades, light-catching highlight, summer garden pink blush."
-    },
-    {
-      "id": "6d679bb298932054",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "A Swiftie and a Sneakerhead? Caitlin Clark’s Taylor Swift-Inspired Nikes Are Your Wildest Dreams",
-      "url": "https://www.vogue.com/article/caitlin-clark-taylor-swift-friendship-bracelet-nikes",
-      "publishedAt": "2026-08-29T10:43:52.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "A Swiftie and a Sneakerhead? Caitlin Clark’s Taylor Swift-Inspired Nikes Are Your Wildest Dreams The WNBA star and longtime Taylor Swift fan has debuted a new Nike Caitlin 1s colorway with friendship bracelet-details."
-    },
-    {
-      "id": "8ee96345c51724a9",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Swing into the US Open With a Dose of Lime Green",
-      "url": "https://www.vogue.com/article/street-style-fashion-week-lime-green-color-trend-copenhagen-street-style",
-      "publishedAt": "2026-08-29T10:00:00.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "Swing into the US Open With a Dose of Lime Green A lime green ’fit is the best way to stand out at the US Open."
-    },
-    {
-      "id": "0aad8c8438c31997",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "What Would a ‘How to Lose a Guy in 10 Days’ Sequel Even Be About? 5 Predictions",
-      "url": "https://www.vogue.com/article/how-to-lose-a-guy-in-10-days-sequel-plot-predictions",
-      "publishedAt": "2026-08-29T10:00:00.000Z",
-      "collectedAt": "2026-08-29T16:30:33.182Z",
-      "text": "What Would a ‘How to Lose a Guy in 10 Days’ Sequel Even Be About? 5 Predictions “I want dating apps, I want ghosting, I want breadcrumbing, I want that thing where you arrange a drink with someone even though you really can’t be bothered and would rather be at home eating a posh lasagna for one.”"
-    },
-    {
-      "id": "d227c564da357dda",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "This Stealthy Nike Windbreaker Takes Performance Off-Duty",
-      "url": "https://www.highsnobiety.com/p/nike-dri-fit-woven-windrunner-jacket/",
-      "publishedAt": "2026-08-29T13:00:01.000Z",
-      "collectedAt": "2026-08-29T16:30:34.535Z",
-      "text": "This Stealthy Nike Windbreaker Takes Performance Off-Duty Nike’s Dri-FIT Woven Full-Zip Color-Block Windrunner Jacket is a low-key performance layer that works just as well beyond the track."
-    },
-    {
-      "id": "e342e9f43a227fa8",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Meet adidas’ Potential Samba Successor",
-      "url": "https://www.highsnobiety.com/p/adidas-bw-army-decon-hartcopy/",
-      "publishedAt": "2026-08-29T09:12:01.000Z",
-      "collectedAt": "2026-08-29T16:30:34.535Z",
-      "text": "Meet adidas’ Potential Samba Successor Hartcopy gives adidas’ BW Army Decon a fresh “Halo Gold” makeover, making a case for the archive classic as the next terrace sneaker to know."
-    },
-    {
-      "id": "c206a7531cb0dde1",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Pharrell's Chunky adidas Sneaker Arrives In (Thin) Mint Condition",
-      "url": "https://www.highsnobiety.com/p/adidas-virginia-adistar-jellyfish-green-brown/",
-      "publishedAt": "2026-08-29T06:09:01.000Z",
-      "collectedAt": "2026-08-29T16:30:34.535Z",
-      "text": "Pharrell's Chunky adidas Sneaker Arrives In (Thin) Mint Condition Pharrell's sweet adidas Virginia Adistar Jellyfish sneaker is a tasty thin mint that's actually quite thick."
-    },
-    {
-      "id": "7b33f2beed66e272",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "New Arrivals From HBX: Human Made",
-      "url": "https://hypebeast.com/2026/8/new-arrivals-from-hbx-human-made-9",
-      "publishedAt": "2026-08-29T14:37:44.000Z",
-      "collectedAt": "2026-08-29T16:30:35.894Z",
-      "text": "New Arrivals From HBX: Human Made Brand Information: In 2010, Japanese DJ and fashion designer NIGO® launched “HUMAN MADE” in partnership with Pharrell Williams. A lifestyle brand based on the concept of “The Future is in the Past,” HUMAN MADE products combine the best of vintage and street culture with excellent craftsmanship and unique graphics. Based on a casual American style, the brand has a wide range of tastes including workwear, military, sports, outdoor, and classic. Combined with a variety of streetwear, HUMAN MADE definitely has something tailor-made for you.Price Range: $15.00 USD - $805.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "efc22ded4259ef38",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Stephen King's London Horror Story 'Crouch End' Greenlit at Prime Video",
-      "url": "https://hypebeast.com/2026/8/stephen-kings-london-horror-story-crouch-end-greenlit-prime-video-news",
-      "publishedAt": "2026-08-29T10:00:24.000Z",
-      "collectedAt": "2026-08-29T16:30:35.894Z",
-      "text": "Stephen King's London Horror Story 'Crouch End' Greenlit at Prime Video Summary Prime Video has officially greenlit a six-part limited series adaptation of Stephen King’s 1980 short story 'Crouch End'The project marks the first-ever Stephen King adaptation to be produced in the U.K.Screenwriter Paul Tomalin will adapt the series with Tom Shankland attached to direct Prime Video has officially greenlit a six-part limited series adaptation of Stephen King’s 1980 horror story, Crouch End. The project stands as the author's solitary story set in London and represents the first King screen adaptation to be produced in the U.K.Originally published in New Tales of the Cthulhu Mythos and later featured in King’s Nightmares & Dreamscapes collection, the story serves as an explicit homage to H.P. Lovecraft. The narrative centers on global movie star Doris Freeman, who enters a London police station reporting the surreal disappearance of her husband, forcing police inspector Ted Vetter to investigate whether supernatural forces are involved.The series is adapted by writer Paul Tomalin (Bodies) and directed by Tom Shankland (The Serpent). Production is handled by Mammoth Screen alongside Fifth Season, with Tomalin, Shankland, Damien Timmer, Rebecca Keane, and Ben Irving serving as executive producers. Casting for the series is currently underway. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "935e7a4c0fb48486",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Samsung's New Odyssey G6 Hits 1,100Hz as the Brand Reveals Its Full 2027 Gaming Monitor Lineup",
-      "url": "https://hypebeast.com/2026/8/samsung-odyssey-g6-1100hz-monitor-leads-2027-lineup",
-      "publishedAt": "2026-08-29T08:00:11.000Z",
-      "collectedAt": "2026-08-29T16:30:35.894Z",
-      "text": "Samsung's New Odyssey G6 Hits 1,100Hz as the Brand Reveals Its Full 2027 Gaming Monitor Lineup Summary Samsung unveiled its 2027 Odyssey gaming monitor lineup at Gamescom featuring an upgraded 27-inch Odyssey G6 that achieves a 1,100Hz refresh rateThe new Odyssey OLED G9 supports dual-mode switching up to 720Hz while the OLED G8 offers triple-mode capabilities and the G7 introduces a 42-inch curved 16:9 OLED form factorThe Odyssey G6 is slated for global release by the end of 2026 bringing cutting-edge Penta Tandem QD-OLED technology and RGB-stripe pixel layouts to the broader lineup Samsung officially escalated the refresh rate wars at Gamescom today by unveiling its 2027 Odyssey gaming monitor lineup. Leading the charge is an upgraded 27-inch Odyssey G6 (G60H) capable of hitting an astonishing 1,100Hz. This blistering speed marks a slight increase over the 1,040Hz prototype showcased earlier this year and directly challenges LG’s upcoming 1,000Hz UltraGear model. Players can access this maximum output by dropping the resolution to FHD while the native 1440p mode still delivers a massive 600Hz. The dual-mode IPS display also features a 1ms response time and carries both AMD FreeSync Premium Pro and Nvidia G-Sync compatibility.Beyond raw LCD speed the brand introduced severe firepower to its premium OLED roster. The 49-inch Odyssey OLED G9 (G95SJ) arrives as a super ultra-wide powerhouse built on a fifth-generation Penta Tandem QD-OLED panel. This hardware structural upgrade makes the display up to 1.3 times more efficient while doubling its overall lifespan. Gamers can push the monitor to 360Hz at its native 5120 x 1440 resolution or engage a dual-mode function to hit 720Hz at 2560 x 720. Additional specs include an RGB-stripe pixel layout for improved text clarity, a blistering 0.03ms response time and a peak brightness of 1,300 nits.Flexibility takes center stage with the 32-inch Odyssey OLED G8 (G80SJ). This unit introduces a unique triple mode system tailored for diverse gaming scenarios. Users can seamlessly switch between UHD at 360Hz, QHD at 520Hz and FHD at 680Hz depending on their performance needs. Connectivity is equally robust featuring DisplayPort 2.1 UHBR20, dual HDMI 2.1 slots and a USB-C port supplying 98W of power delivery. The panel also earns a VESA DisplayHDR True Black 600 certification for elite contrast and color depth.Rounding out the premium tier is the Odyssey OLED G7 (G75SJ) which Samsung claims is the world’s first 42-inch curv"
-    },
-    {
-      "id": "ae15d7fc62a3ba69",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "GEEKS RULE Presses Aiobahn's Viral “DIVA” Artwork Into a Hatsune Miku Triple-Collab T-Shirt",
-      "url": "https://hypebeast.com/2026/8/geeks-rule-aiobahn-hatsune-miku-diva-t-shirt-release-info",
-      "publishedAt": "2026-08-29T06:00:07.000Z",
-      "collectedAt": "2026-08-29T16:30:35.894Z",
-      "text": "GEEKS RULE Presses Aiobahn's Viral “DIVA” Artwork Into a Hatsune Miku Triple-Collab T-Shirt Summary GEEKS RULE has teamed with Hatsune Miku and producer Aiobahn on a three-way collaboration T-shirtThe design centers on the cover artwork of Aiobahn's Vocaloid track “DIVA” (feat. Hatsune Miku), reproduced through GEEKS RULE's silkscreen printingAiobahn will appear as a DJ at GR8 on release day, with the tee also sold online by lottery GEEKS RULE has brought together Hatsune Miku and producer Aiobahn for a triple-collaboration T-shirt built around one of the Vocaloid world's recent standout moments. The tee draws its graphic from the cover artwork of Aiobahn's “DIVA” (feat. Hatsune Miku), translating the track's visual identity into apparel through the label's silkscreen printing.To understand why this shirt exists, it helps to understand the pull of its three names. Hatsune Miku, the Crypton Future Media virtual singer launched in 2007, has spent nearly two decades as the face of Vocaloid culture, a software voice that grew into a genuine pop icon with a catalog powered by an entire community of producers. Aiobahn, a producer known within electronic and Vocaloid circles, sits squarely in that lineage, and his “DIVA” (feat. Hatsune Miku) became a talking point across both the Vocaloid scene and wider electronic-music listeners.That song's cover art is the centerpiece here. Rather than lean on a generic Miku likeness, the collaboration zeroes in on the DIVA jacket artwork, the image already tied to the track in fans' minds, and makes it the hero of the garment. GEEKS RULE leans on the precision silkscreen printing the label is known for to carry the artwork over, aiming to preserve the emotional, edgy atmosphere of the original rather than flatten it into a simple graphic tee.The release also doubles as an event, which fits GEEKS RULE's role as a hub for music-adjacent streetwear. On the August 29 drop date, Aiobahn himself will step behind the decks as a DJ inside GR8, turning the launch into a party rather than a quiet stock update. It is the kind of artist-present moment that ties the garment back to the music it celebrates.The GEEKS RULE x Hatsune Miku x Aiobahn T-shirt releases August 29, sold at GR8 and through the GEEKS RULE online store by lottery. Click here to view full gallery at Hypebeast"
-    },
-    {
-      "id": "4fa85a4b5cfdfb69",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "Marvel's ‘Countdown to Avengers: Doomsday Podcast’ Maps a Five-Film Infinity Saga Rewatch to the December Premiere",
-      "url": "https://hypebeast.com/2026/8/marvel-launches-countdown-to-avengers-doomsday-official-podcast",
-      "publishedAt": "2026-08-29T04:00:22.000Z",
-      "collectedAt": "2026-08-29T16:30:35.894Z",
-      "text": "Marvel's ‘Countdown to Avengers: Doomsday Podcast’ Maps a Five-Film Infinity Saga Rewatch to the December Premiere Summary Marvel has launched the 'Countdown to Avengers: Doomsday Official Podcast,' a video podcast rewatching key Infinity Saga films ahead of the movieHosted by Iman Vellani and Frank Alvarez, it works through five films across five weekly episodesThe run builds toward the December 18 theatrical release of Avengers: Doomsday, with its final episode tied to an 'Endgame' re-release Marvel has launched the Countdown to Avengers: Doomsday Official Podcast, a video series built to walk fans back through the Infinity Saga on a schedule that leads straight to the new film. Available on Disney+, YouTube and audio platforms, the podcast pairs Ms. Marvel star Iman Vellani with Frank Alvarez, co-host of the comedy podcast The Basement Yard, for a structured rewatch running up to Avengers: Doomsday.The format is designed as a runway rather than a loose chat. Each episode has Vellani and Alvarez revisit a single Infinity Saga film, pairing a recap with an in-depth conversation that walks through specific scenes and traces the Avengers' arc, while, in Marvel's words, \"celebrating the MCU's most iconic moments.\" Along the way, the two speculate about the themes, characters and story threads that could feed into the reunion Doomsday is setting up.The countdown is mapped to five films across consecutive weeks, all of them streaming on Disney+. The series opened on August 27 with The Avengers, then continues through Avengers: Age of Ultron on September 3, Captain America: Civil War on September 10, Avengers: Infinity War on September 17, and Avengers: Endgame on September 24. The sequencing effectively rebuilds the emotional spine of the Infinity Saga in order, so viewers arrive at the finale primed for what comes next.That finale is where the countdown ties back into theaters. The fifth episode is timed to land alongside the September 25 theatrical re-release of Avengers: Endgame: Encore, turning the podcast's closing beat into a lead-in for seeing the saga's biggest chapter on the big screen again. From there, the runway points to December 18, when Avengers: Doomsday opens.Directed by Anthony and Joe Russo and produced by Kevin Feige, Louis D'Esposito and Jonathan Schwartz, Doomsday stars Robert Downey Jr. as Victor von Doom, otherwise known as Doctor Doom, at the head of a sprawling ensemble that includes Chris Evans, Chris Hemsworth, Pedro Pascal, Florenc"
-    },
-    {
-      "id": "5595e76258f7512d",
-      "sourceId": "hypebeast",
-      "sourceName": "Hypebeast",
-      "sourceWeight": 0.85,
-      "title": "The Tamagotchi Ring Puts ’90s Nostalgia Right at Your Fingertips",
-      "url": "https://hypebeast.com/2026/8/bandai-tamagotchi-ring-release-info",
-      "publishedAt": "2026-08-29T02:00:40.000Z",
-      "collectedAt": "2026-08-29T16:30:35.894Z",
-      "text": "The Tamagotchi Ring Puts ’90s Nostalgia Right at Your Fingertips Summary Bandai launches the Tamagotchi Ring, a compact, finger‑sized wearable that features a color display, touch controls and customizable styles.Retains classic pet‑care gameplay while adding new animations and trendy finishes. Bandai has officially unveiled the Tamagotchi Ring, a new wearable that reimagines the iconic virtual pet experience in a compact, finger‑sized format. Launching in late August 2026, the device features a color display, touch controls and a streamlined design that allows users to care for their Tamagotchi discreetly throughout the day. Unlike the traditional egg‑shaped handhelds, the ring integrates seamlessly into everyday fashion, offering both playful nostalgia and modern convenience.The Tamagotchi Ring comes in multiple styles and finishes, including metallic and translucent options, appealing to collectors and casual fans alike. Beyond its design, the device retains the core gameplay of feeding, nurturing, and interacting with digital pets, while adding new animations and customization features. For more insights and specific release details, check out Bandai's official website and official channels. Click here to view full gallery at Hypebeast"
-    },
     {
       "id": "b3f7c5bdaff712c6",
       "sourceId": "vogue",
@@ -4769,50 +4564,6 @@
       "publishedAt": "2026-08-30T04:02:30.000Z",
       "collectedAt": "2026-08-30T16:24:16.110Z",
       "text": "Amidst Tears and Fanfare, Roger Federer Is Inducted Into the International Tennis Hall of Fame in Newport With a crowd of thousands there to witness history, Federer, long a member-in-waiting, made it official."
-    },
-    {
-      "id": "0655907b524cb0ed",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Olivia Rodrigo’s First Daisy Chain Fields Festival Look Comes With a Feminist Message",
-      "url": "https://www.vogue.com/article/olivia-rodrigo-first-daisy-chain-fields-festival-look",
-      "publishedAt": "2026-08-29T20:31:29.000Z",
-      "collectedAt": "2026-08-30T16:24:16.110Z",
-      "text": "Olivia Rodrigo’s First Daisy Chain Fields Festival Look Comes With a Feminist Message The pop star kicked off the inaugural women-led festival with the announcement that they’ve raised $10 million for women-focused non-profits."
-    },
-    {
-      "id": "00ec370bb9b71bfa",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "Kendall Jenner’s Latest Accessory: Finn Jenner (-Elordi?)",
-      "url": "https://www.vogue.com/article/kendall-jenner-latest-accessory-finn-the-dog",
-      "publishedAt": "2026-08-29T17:20:27.000Z",
-      "collectedAt": "2026-08-30T16:24:16.111Z",
-      "text": "Kendall Jenner’s Latest Accessory: Finn Jenner (-Elordi?) Stepping out in LA after a jaunt to London, the model dressed mostly in The Row, with a miniature wire-haired dachshund peeking out from the Tori tote."
-    },
-    {
-      "id": "ca3ecfe9d8226c69",
-      "sourceId": "vogue",
-      "sourceName": "Vogue",
-      "sourceWeight": 0.8,
-      "title": "I Had A Private Tennis Lesson From Grand Slam Champion Stan Wawrinka Inside The Waldorf Astoria Ballroom",
-      "url": "https://www.vogue.com/article/waldorf-astoria-ballroom-tennis-stan-wawrinka",
-      "publishedAt": "2026-08-29T17:14:05.000Z",
-      "collectedAt": "2026-08-30T16:24:16.111Z",
-      "text": "I Had A Private Tennis Lesson From Grand Slam Champion Stan Wawrinka Inside The Waldorf Astoria Ballroom First, I saw Ben Shelton, Tommy Paul, Leylah Fernandez, and Maria Sakkari play an exhibition; then I took to the court myself with the former US Open champion."
-    },
-    {
-      "id": "a65c82f8534d5ecd",
-      "sourceId": "highsnobiety",
-      "sourceName": "Highsnobiety",
-      "sourceWeight": 0.9,
-      "title": "Nike's Killer Trail Sneaker Is Still a Beauty With the Lights Off",
-      "url": "https://www.highsnobiety.com/p/nike-acg-zegama-trail-gore-tex-black/",
-      "publishedAt": "2026-08-29T16:46:05.000Z",
-      "collectedAt": "2026-08-30T16:24:17.446Z",
-      "text": "Nike's Killer Trail Sneaker Is Still a Beauty With the Lights Off Nike cooks up an all-black version of its ACG Zegama Trail GORE-TEX sneaker. It's quiet on the outside, still an outdoor-ready beast on the inside."
     },
     {
       "id": "a0bbac41a56f0621",
@@ -50452,6 +50203,578 @@
       "publishedAt": "2026-11-26T03:08:10.000Z",
       "collectedAt": "2026-11-26T21:13:22.041Z",
       "text": "WTAPS and HOKA Collaborate on New Collection Featuring Speedgoat Redesigned with a Unique Perspective WTAPS and HOKA have unveiled their second collaborative collection. Following up on their initial 2024 partnership, this release uses HOKA's signature trail running shoe, the Speedgoat, as a foundation, applying WTAPS's utility-focused design philosophy across a range of footwear and accessories.The centerpiece of the collection, the Speedgoat TS WTAPS, maintains the model's signature performance—exceptional grip, responsive cushioning, and stability—while reconstructing it through WTAPS's distinct lens. The result is a fusion of trail-ready functionality and a design easily incorporated into everyday styling. It arrives in two colorways inspired by urban landscapes: Galactic Grey / High Rise and Black / Volcanic Ash.Furthermore, this collaboration marks the first time accessories join the footwear lineup. The HOKA Trail Run Vest 8L WTAPS is designed for lightweight performance and storage. Built to fit close to the body, it features 11 pockets to distribute weight evenly and includes two 500ml HydraPak® soft flasks.The Trail Run Hat WTAPS employs a highly breathable mesh construction. Alongside a flexible short visor and a buckle with an elastic band for an adjustable fit, the hat features silicone dot strips on the sides to secure sunglasses. Both brands' logos are featured on the front panel.The WTAPS x HOKA collaboration collection will launch on Friday, November 27 at the HOKA official online store, WTAPS locations, and the official online store. The Speedgoat TS WTAPS is priced at ¥25,300, the HOKA Trail Run Vest 8L WTAPS at ¥28,600, and the Trail Run Hat WTAPS at ¥6,930 (all prices include tax). Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a51e33af8c3d935c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Stylish Winter Staples to Secure From Reformation’s Black Friday Sale",
+      "url": "https://www.vogue.com/article/reformation-black-friday-sale-11-27-2026",
+      "publishedAt": "2026-11-27T20:12:29.000Z",
+      "collectedAt": "2026-11-27T20:56:35.768Z",
+      "text": "Stylish Winter Staples to Secure From Reformation’s Black Friday Sale Reformation’s Black Friday sale is here. Vogue edits the standout dresses, jackets and skirts from the sale, which offers 25% off across the site."
+    },
+    {
+      "id": "0b1196c5a8de0360",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Puig To Acquire Parfums de Marly and Initio",
+      "url": "https://www.vogue.com/article/puig-to-acquire-parfums-de-marly-and-initio",
+      "publishedAt": "2026-11-27T20:07:50.000Z",
+      "collectedAt": "2026-11-27T20:56:35.768Z",
+      "text": "Puig To Acquire Parfums de Marly and Initio The two French niche fragrance brands were sold by private equity firm Advent International to Spanish beauty giant Puig."
+    },
+    {
+      "id": "8c198b6bbb5180ad",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Models Off-Duty Love a Salmon Sneaker—Black Friday 2026 Lets You Get a Pair for Less",
+      "url": "https://www.vogue.com/article/salomon-sneakers-black-friday-sale-2026",
+      "publishedAt": "2026-11-27T18:48:12.000Z",
+      "collectedAt": "2026-11-27T20:56:35.768Z",
+      "text": "Models Off-Duty Love a Salmon Sneaker—Black Friday 2026 Lets You Get a Pair for Less It’s no secret the model off-duty set loves a comfy shoe, with Salomon sneakers being one of their top choices—get a pair for less this Black Friday."
+    },
+    {
+      "id": "c863c458aa5d3b67",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The ’00s Black Ankle Boot Is Back—And It Goes With Everything",
+      "url": "https://www.vogue.com/article/2000s-black-ankle-boot-pairings",
+      "publishedAt": "2026-11-27T17:00:38.000Z",
+      "collectedAt": "2026-11-27T20:56:35.769Z",
+      "text": "The ’00s Black Ankle Boot Is Back—And It Goes With Everything Five surprisingly “now” ways to wear the black ankle boots of “then”."
+    },
+    {
+      "id": "29da846c93bf7a97",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "McQueen Pre-Fall 2027",
+      "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/alexander-mcqueen",
+      "publishedAt": "2026-11-27T20:56:09.000Z",
+      "collectedAt": "2026-11-27T20:56:35.769Z",
+      "text": "McQueen Pre-Fall 2027 "
+    },
+    {
+      "id": "a5091c0b0d36b065",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Christmas Rom-Coms of the 2000s",
+      "url": "https://www.vogue.com/article/best-christmas-rom-coms-of-the-2000s",
+      "publishedAt": "2026-11-27T15:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.769Z",
+      "text": "The Best Christmas Rom-Coms of the 2000s From family favorites like “Elf” to aughts classics like “The Holiday” and underrated gems like “Four Christmases.” here are the best romantic comedies to revisit now."
+    },
+    {
+      "id": "1bde073b12b8fc0c",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Cold-Weather Cocktails to Drink This Holiday Season",
+      "url": "https://www.vogue.com/article/best-cold-weather-cocktails",
+      "publishedAt": "2026-11-27T14:27:29.000Z",
+      "collectedAt": "2026-11-27T20:56:35.769Z",
+      "text": "The Best Cold-Weather Cocktails to Drink This Holiday Season From smoked tipples to spice-laced classics, here’s your guide to the best cold-weather drinks to order—and make—this holiday season."
+    },
+    {
+      "id": "8a8a72f414076216",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Santiago Lastra Wants You to Stop Overthinking Mexican Food",
+      "url": "https://www.vogue.com/article/santiago-lastra-mexican-soul-albondigas-recipe",
+      "publishedAt": "2026-11-27T14:13:42.000Z",
+      "collectedAt": "2026-11-27T20:56:35.769Z",
+      "text": "Santiago Lastra Wants You to Stop Overthinking Mexican Food With his first cookbook, ‘Mexican Soul,’ the KOL and Fonda chef is taking everything he has learned about Mexican cooking and translating it for the Tuesday-night dinner table."
+    },
+    {
+      "id": "024d319373226021",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Welcome to Wonder by Josh Aronson",
+      "url": "https://www.vogue.com/article/welcome-to-wonder-by-josh-aronson",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.769Z",
+      "text": "Welcome to Wonder by Josh Aronson On the occasion of his solo exhibition Welcome to Wonder at Vizcaya Museum and Gardens, Miami-based artist and photographer Josh Aronson reflects on the estate's place in Miami's collective memory, the photographs that have shaped its story, and how imagining new worlds can expand our sense of belonging in a changing Florida."
+    },
+    {
+      "id": "621009f05e14ac6b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "30 Sparkling, Fringed, and Pleated Holiday Wedding Guest Dresses for Every Festive Fête",
+      "url": "https://www.vogue.com/article/holiday-wedding-guest-dresses",
+      "publishedAt": "2026-11-27T11:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "30 Sparkling, Fringed, and Pleated Holiday Wedding Guest Dresses for Every Festive Fête Do you have a holiday wedding coming up? From gold lamé to swishy fringe, these festive gowns cover every dress code, from brands like Kallmeyer, J. Crew, and Tory Burch."
+    },
+    {
+      "id": "91f5bed8b89c6716",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "How I Learned to Stop Worrying and Love Wrapping Gifts",
+      "url": "https://www.vogue.com/article/how-i-learned-to-stop-worrying-and-love-wrapping-gifts",
+      "publishedAt": "2026-11-27T11:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "How I Learned to Stop Worrying and Love Wrapping Gifts Since going through a major breakup last year, I’ve tackled all kinds of things that I didn’t previously know I could do. Was it possible that I could also become the kind of person who looked forward to—or at least didn’t totally dread—my very least favorite Christmas chore, wrapping presents?"
+    },
+    {
+      "id": "ab7ecac4867a031b",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Cameron Diaz in ‘The Holiday’ Is My Winter Style Inspiration",
+      "url": "https://www.vogue.com/article/cameron-diaz-the-holiday-style-inspiration",
+      "publishedAt": "2026-11-27T11:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "Cameron Diaz in ‘The Holiday’ Is My Winter Style Inspiration I’m going for Nancy Meyers neutrals, okay?"
+    },
+    {
+      "id": "12c3918c98f11b9d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Rise, Fall, and Future of Makeup Artist-Led Brands",
+      "url": "https://www.vogue.com/article/the-rise-fall-and-future-of-makeup-artist-led-brands",
+      "publishedAt": "2026-11-27T10:30:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "The Rise, Fall, and Future of Makeup Artist-Led Brands Rather than chasing $1 billion valuations or flooding shelves with limited-edition drops, modern makeup artist-led brands such as Violette and Katie Jane Hughes are focused on tight, high-performing SKUs to outlast trend cycles."
+    },
+    {
+      "id": "a58b2fca31bb751d",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Queen Letizia Makes the Case for a Two-Shoe Kind of Day",
+      "url": "https://www.vogue.com/article/queen-letizia-makes-the-case-for-a-two-shoe-kind-of-day-2026-11-27",
+      "publishedAt": "2026-11-27T09:57:43.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "Queen Letizia Makes the Case for a Two-Shoe Kind of Day Spanish royal Queen Letizia offered two lessons in fall dressing: an inspired approach to color and a clever change of footwear."
+    },
+    {
+      "id": "c34c91fd2fa2cf32",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Sarah Pidgeon Ticks Off Two of Winter’s Biggest Outerwear Trends in One Viral Coat",
+      "url": "https://www.vogue.com/article/sarah-pidgeon-winter-outerwear-trends-one-viral-coat-2026-11-27",
+      "publishedAt": "2026-11-27T09:28:54.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "Sarah Pidgeon Ticks Off Two of Winter’s Biggest Outerwear Trends in One Viral Coat Fresh off her debut on Vogue’s Best Dressed list, Sarah Pidgeon has gotten her hands on a particularly coveted piece of faux fur."
+    },
+    {
+      "id": "f973bba23ece39e1",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Black Friday Jewelry Deals 2026, Handpicked by Vogue Editors",
+      "url": "https://www.vogue.com/article/best-black-friday-jewelry-deals-11-27-2026",
+      "publishedAt": "2026-11-27T09:09:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "The Best Black Friday Jewelry Deals 2026, Handpicked by Vogue Editors The best Black Friday jewelry deals of 2026 have landed—shop Vogue’s curated edit of the best forever pieces up to 50% off, from Mejuri to Agmes and Blue Nile."
+    },
+    {
+      "id": "e44b74aa5794606a",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Black Friday Beauty Deals You Should Know",
+      "url": "https://www.vogue.com/article/best-early-black-friday-beauty-deals-11-27-2026",
+      "publishedAt": "2026-11-27T09:07:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "The Black Friday Beauty Deals You Should Know Want to get ahead of holiday shopping? The best Black Friday beauty deals feature markdowns of up to 60%, Dyson, Elemis, & more. Shop before they’re gone."
+    },
+    {
+      "id": "be8cd0bd594a2561",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Best Black Friday Clothing Deals 2026—Net-a-Porter, Nordstrom & More",
+      "url": "https://www.vogue.com/slideshow/best-black-friday-clothing-deals-11-27-2026",
+      "publishedAt": "2026-11-27T09:05:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "Best Black Friday Clothing Deals 2026—Net-a-Porter, Nordstrom & More Update your winter wardrobe with the best Black Friday clothing deals, as the main event rolls out."
+    },
+    {
+      "id": "f860c56a0939f95e",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Best Black Friday Deals Vogue Editors Are Shopping in 2026",
+      "url": "https://www.vogue.com/article/best-black-friday-deals-11-27-2026",
+      "publishedAt": "2026-11-27T09:03:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "Best Black Friday Deals Vogue Editors Are Shopping in 2026 From boots to cold-weather accessories, outerwear and denim, these are the Black Friday deals Vogue editors have bookmarked."
+    },
+    {
+      "id": "d1161d12688957c0",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Best Japanese Restaurants in London, From Omakase Counters to Neighborhood Gems",
+      "url": "https://www.vogue.com/article/best-japanese-restaurants-in-london",
+      "publishedAt": "2026-11-27T09:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "The Best Japanese Restaurants in London, From Omakase Counters to Neighborhood Gems From exclusive six-seat sushi counters to beloved West End izakayas, here’s Vogue’s definitive guide to the best Japanese restaurants in London that are truly worth the hype."
+    },
+    {
+      "id": "82c5e04376625fdc",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "The Scoop with Kolor’s Taro Horiuchi: On His Zara Collab",
+      "url": "https://www.vogue.com/article/the-scoop-with-kolors-taro-horiuchi-on-his-zara-collab",
+      "publishedAt": "2026-11-27T06:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "The Scoop with Kolor’s Taro Horiuchi: On His Zara Collab This week’s guest is Taro Horiuchi, who took over the creative direction of Japanese brand Kolor from its founder Junichi Abe, a couple of years ago."
+    },
+    {
+      "id": "cc1bdc47c12c03e8",
+      "sourceId": "vogue",
+      "sourceName": "Vogue",
+      "sourceWeight": 0.8,
+      "title": "Zara’s Black Friday Sale Is Here—And the Best Finds Won’t Stay in Stock for Long",
+      "url": "https://www.vogue.com/article/zara-black-friday-sale-11-26-2026",
+      "publishedAt": "2026-11-26T22:01:00.000Z",
+      "collectedAt": "2026-11-27T20:56:35.770Z",
+      "text": "Zara’s Black Friday Sale Is Here—And the Best Finds Won’t Stay in Stock for Long From essential knits to oversized outerwear and cold-weather accessories, shop the best-of-the-best of Zara’s Black Friday sale."
+    },
+    {
+      "id": "e3bc5d709a909896",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "How to Make It 20 Years In Menswear? Do It Yourself",
+      "url": "https://www.highsnobiety.com/p/haven-20th-anniversary-interview/",
+      "publishedAt": "2026-11-27T19:22:02.000Z",
+      "collectedAt": "2026-11-27T20:56:37.145Z",
+      "text": "How to Make It 20 Years In Menswear? Do It Yourself HAVEN spent two decades developing one of the most complete packages in all of Canadian — if not North American — menswear retail. Here's how."
+    },
+    {
+      "id": "5b76ae3ed753072d",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "State of the Art: What’s Left to Learn From Virgil Abloh?",
+      "url": "https://www.highsnobiety.com/p/virgil-abloh-legacy/",
+      "publishedAt": "2026-11-27T18:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:37.145Z",
+      "text": "State of the Art: What’s Left to Learn From Virgil Abloh? Five years after Virgil Abloh's death, a book conceived by the late designer and his collaborator Christina Paik brings an urgency missing from other projects."
+    },
+    {
+      "id": "d785a46ce23cff23",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "adidas' Winter Tank Feels Like a Summer Runner",
+      "url": "https://www.highsnobiety.com/p/adidas-dreamcushion-climawarm/",
+      "publishedAt": "2026-11-27T17:40:00.000Z",
+      "collectedAt": "2026-11-27T20:56:37.145Z",
+      "text": "adidas' Winter Tank Feels Like a Summer Runner The adidas Dreamcushion Climawarm Silver Pebble leads a three-pack that also includes Core Black and Sand Strata options."
+    },
+    {
+      "id": "55c16ddb74412f82",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "This Charming Retro Runner is the Most JW Anderson Sneaker Ever",
+      "url": "https://www.highsnobiety.com/p/jw-andersons-anchor/",
+      "publishedAt": "2026-11-27T17:00:01.000Z",
+      "collectedAt": "2026-11-27T20:56:37.145Z",
+      "text": "This Charming Retro Runner is the Most JW Anderson Sneaker Ever We talked to actor Conor Sánchez about Irish rugby connections and starring in the campaign for JW Anderson's first in-house Anchor sneaker."
+    },
+    {
+      "id": "0623b7362b1f9ef9",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "KITSCHKRIEG, Blumengarten & Shirin David Owned YouTube in 2026",
+      "url": "https://www.highsnobiety.com/p/shirin-david-kitschkrieg-and-blumengarten-owned-youtube-in-2026/",
+      "publishedAt": "2026-11-27T16:47:37.000Z",
+      "collectedAt": "2026-11-27T20:56:37.145Z",
+      "text": "KITSCHKRIEG, Blumengarten & Shirin David Owned YouTube in 2026 KITSCHKRIEG, Blumengarten, and Shirin David led YouTube Germany’s 2026 Music Awards as “GUT GENUG” became a record-breaking global hit."
+    },
+    {
+      "id": "8ed724853fa44580",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "New Balance's Retro Dad Shoe Has a Taste for Chocolate",
+      "url": "https://www.highsnobiety.com/p/new-balance-made-in-usa-993-shadow-blue-with-cortado/",
+      "publishedAt": "2026-11-27T15:40:56.000Z",
+      "collectedAt": "2026-11-27T20:56:37.146Z",
+      "text": "New Balance's Retro Dad Shoe Has a Taste for Chocolate New Balance’s 993 pairs Shadow Blue mesh with rich brown suede overlays for a retro runner that makes a convincing case for the blue-and-brown combination."
+    },
+    {
+      "id": "7dbb45125c3d4fe1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike's Year of the Goat AF1 Is a Different Breed",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-year-of-the-goat-2027/",
+      "publishedAt": "2026-11-27T14:11:54.000Z",
+      "collectedAt": "2026-11-27T20:56:37.146Z",
+      "text": "Nike's Year of the Goat AF1 Is a Different Breed Ushering in the Lunar New Year ahead of Spring 2027, Nike unveils the Nike Air Force 1 Low Year of the Goat."
+    },
+    {
+      "id": "85230f1c14b37202",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "The Seven Best Nike Sneakers to Cop This Black Friday",
+      "url": "https://www.highsnobiety.com/p/nike-sneaker-releases-november-week-4/",
+      "publishedAt": "2026-11-27T11:57:06.000Z",
+      "collectedAt": "2026-11-27T20:56:37.146Z",
+      "text": "The Seven Best Nike Sneakers to Cop This Black Friday Discover the best Nike sneaker deals this Black Friday, with an extra 25% off select styles using code BFRIDAY. From Air Force 1s to retro runners."
+    },
+    {
+      "id": "6adff0c04eaf538b",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Nike’s Legendary Jordan 4 Is Proof That You Can’t Beat the Original",
+      "url": "https://www.highsnobiety.com/p/nike-air-jordan-4-retro-og/",
+      "publishedAt": "2026-11-27T11:00:00.000Z",
+      "collectedAt": "2026-11-27T20:56:37.146Z",
+      "text": "Nike’s Legendary Jordan 4 Is Proof That You Can’t Beat the Original Nike brings back the original Air Jordan 4 “Bred,” restoring the black nubuck upper and classic details that made the 1989 sneaker an icon."
+    },
+    {
+      "id": "a61b167d810411e1",
+      "sourceId": "highsnobiety",
+      "sourceName": "Highsnobiety",
+      "sourceWeight": 0.9,
+      "title": "Is the YSL Levi’s Collab Chaotic Good, Actually?",
+      "url": "https://www.highsnobiety.com/p/ysl-levis/",
+      "publishedAt": "2026-11-27T10:14:45.000Z",
+      "collectedAt": "2026-11-27T20:56:37.146Z",
+      "text": "Is the YSL Levi’s Collab Chaotic Good, Actually? The leaked collab between Saint Laurent and Levi's is the most exciting fashion moment of the year, even if it hasn't officially been announced yet."
+    },
+    {
+      "id": "b7caadf2175b97ff",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "G-SHOCK’s GMC-2500 and GAC-2500 Turns a Beetle’s Exoskeleton Into Armor for the Wrist",
+      "url": "https://hypebeast.com/2026/11/casio-g-shock-gmc-2500-yosuke-nagayama-interview",
+      "publishedAt": "2026-11-27T18:00:53.000Z",
+      "collectedAt": "2026-11-27T20:56:38.631Z",
+      "text": "G-SHOCK’s GMC-2500 and GAC-2500 Turns a Beetle’s Exoskeleton Into Armor for the Wrist Since the DW-5000C arrived in 1983, G-SHOCK has been built on one promise: a watch that won’t break. More than four decades on, the brand’s newest series translates the functional beauty of that first model into a clean analog display. The GMC-2500 and GAC-2500 pair a three-hand layout with a softer, more sculpted case, while a new Multi-Mission Date window at 3 o’clock switches between the date, elapsed stopwatch minutes and setting information. Once the year, month and day are set, it runs a fully automatic calendar on an analog dial, so the date never needs manual correction. Over at 9 o’clock, the small seconds hand can be put to sleep when it isn’t needed to save battery life.The GMC-2500-1A brings it all together in metal. A silver-tone case and bezel, still stamped with “G-SHOCK” and “PROTECTION,” frame a black dial with sharply defined indexes, set on a black resin strap. It sits within a nine-piece lineup that spans metal bracelets, gold tones and resin builds in black, green, white and yellow.To find out how the series came together, Hypebeast spoke with Yosuke Nagayama, Head of G-SHOCK’s Design Center. He traces the 2500 back to two sources: the brand’s very first watch and the armored shell of a beetle. Below, he talks through the “Depth in Shadow” concept, the push to slim down the module and the finishing that makes light move across the metal case.Tell us a little about yourself and your path to leading G-SHOCK’s Design Center.Yosuke Nagayama: I’ve been with Casio for nearly 30 years, and my specialty is product design. I actually started out designing musical instruments, because I love playing them. Later, I helped launch the EXILIM digital camera brand and led it for many years as a playing manager, balancing leadership with hands-on design. Cameras taught me that great products need more than excellent function. They need a story and a value that resonates with people. That led me to set up a Communication Design division and build a framework that runs all the way from the brand statement and consumer insight through to the product and how we communicate it. Watches have long been a “product hero” category, where the object speaks for itself, but I believed the future would call for stronger concepts and storytelling. I’ve overseen all of our design development, including G-SHOCK, since 2020.\"[For the GMC-2500] We developed a unibody that combines the "
+    },
+    {
+      "id": "1d5f1d33b1a5ceb7",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Martine Rose’s Latest Nike Is All Business, With a Little Track and Field",
+      "url": "https://hypebeast.com/2026/11/martine-rose-nike-mr-trax-sp-release-date",
+      "publishedAt": "2026-11-27T17:20:05.000Z",
+      "collectedAt": "2026-11-27T20:56:38.631Z",
+      "text": "Martine Rose’s Latest Nike Is All Business, With a Little Track and Field Summary Martine Rose’s latest Nike collaboration, the MR Trax SP, reimagines competitive track footwear as a low-profile women’s lifestyle sneaker.Reminiscent of Nike’s Skylon franchise, the silhouette features a pointed toe, intricately layered upper, and molded spike detailing underfoot.Previewed in two colorways, the Martine Rose x Nike MR Trax SP is expected to release in December 2026 for $200 USD. Martine Rose has made a habit of finding fashion potential in some of Nike’s less obvious performance silhouettes. She turned a Shox into something resembling a dress shoe, distorted the proportions of the Air Monarch, and now, with the forthcoming Nike MR Trax SP, the British designer is taking us to the track. Well, sort of.In a campaign shot by Roxy Lee, Rose’s latest Nike is worn by a cast of suited individuals sprinting through an office lobby. It’s a fitting introduction to a shoe that borrows its design language from footwear made for competitive sprinting but looks just as conducive to a pair of tailored trousers. View this post on InstagramA post shared by Hypebae (@hypebae) As the footwear industry continues to exhaust its catalog of low-profile sneakers, perhaps track spikes are the next logical source of inspiration. After all, much of what’s made the current crop of women’s lifestyle sneakers so desirable — elongated proportions, pointed toes, and barely-there soles — already exists in footwear designed for the track.Designed for women, the MR Trax SP is also reminiscent of Nike’s Skylon franchise, particularly in its intricately layered upper. The Swoosh revisited the franchise earlier this year with the reissue of its 2008 Zoom Skylon 11, a product of an era in Nike running design when there was seemingly no such thing as too many overlays. Rose’s latest, however, does away with much of the bulk underfoot, bringing the wearer considerably closer to the ground. Even the outsole features molded detailing reminiscent of the spikes found on competitive track footwear.Unlike her work with the Shox MR4, where much of the intrigue came from the juxtaposition of a rather aggressive cushioning system and the proportions of a pointed-toe mule, the MR Trax SP requires less manipulation of its sporting references to arrive at something that works within the context of fashion.Two colorways have been showcased thus far: a muted, olive-toned iteration with black detailing and a consi"
+    },
+    {
+      "id": "a3ace76dfd3bd177",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Stone Island’s Milan Flagship Is a Material Research Lab in Its Own Right",
+      "url": "https://hypebeast.com/2026/11/stone-island-milan-flagship-store-renovation",
+      "publishedAt": "2026-11-27T16:33:19.000Z",
+      "collectedAt": "2026-11-27T20:56:38.631Z",
+      "text": "Stone Island’s Milan Flagship Is a Material Research Lab in Its Own Right Summary Stone Island reunites with OMA/AMO to renovate and expand its 600-square-meter Milan flagship.Burnt cork, handmade fused glass, and recycled resin translate the brand’s garment research into architectural experimentation.Seven independent designers and creative studios contribute furniture, lighting, display objects, and sound systems to the space. What happens when you apply the same curiosity that goes into developing a Stone Island jacket to the design of an entire building’s interior? The Italian label’s newly renovated and expanded Milan flagship offers a pretty good answer.Reuniting with architecture practice OMA/AMO and its Samir Bantal, Stone Island has reimagined its home at Corso Matteotti 18. Occupying 600 square meters across two floors of a 1930s building, the space is the latest exercise in a creative partnership that dates back to 2021, one that sees the materials that make up a store treated with much of the same scrutiny as those that make up a garment.At the center of it all is what the collaborators have dubbed the “Hyperobject,” a monolithic structure made from carved cork that snakes its way through the store, housing recessed product displays and integrating a staircase connecting its two floors. The cork itself has been burnt, sandblasted, and coated to achieve its dark, textured appearance without sacrificing its natural sound-absorbing and humidity-regulating properties.Elsewhere, a powder-coated metal grid filled with resin forms an expanded staircase that doubles as a display and programming space, while handmade fused glass, shaped over sand, wraps around a column at the rear of the store. Even pressed paper gets the Stone Island treatment, combined with recycled resin to introduce another texture to the interior.Perhaps just as interesting as the architecture itself is the roster of independent designers Stone Island has brought into the fold. There’s lighting by Tim Hooijmans, Markus Töll’s Supersedia lounge seating, speakers by Neuf Voix, furniture by Tim Teven, a glass table by 6:AM, display objects by Elvis Wesley, and audio systems developed by Ledongil Workshop. Many of the pieces were developed specifically for the space.“I saw it as modern alchemy, where ordinary materials became special recipes that were applied onto textiles and transformed them into something extraordinary,” says Bantal of Stone Island’s approach to design.While the gro"
+    },
+    {
+      "id": "e4605da8b84d01ff",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "New Arrivals From HBX: Hellstar",
+      "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-hellstar-4",
+      "publishedAt": "2026-11-27T14:54:11.000Z",
+      "collectedAt": "2026-11-27T20:56:38.631Z",
+      "text": "New Arrivals From HBX: Hellstar Brand Information: Hellstar is a Los Angeles streetwear brand that hits hard with a raw, rebellious edge. Born in 2020, it throws dark cosmic vibes, bold graphics, and punk attitude into oversized hoodies, tees, and accessories that refuse to play it safe. The brand delivers loud, premium pieces made for anyone who stands out from the crowd.Price Range: $70.00 USD - $395.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2b604c6f7dffdc15",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Nvidia Freezes AI Server Shipments to Four Southeast Asian Countries Amid a US Crackdown on Remote Chip Access",
+      "url": "https://hypebeast.com/2026/11/nvidia-halts-ai-chip-shipments-to-four-nations",
+      "publishedAt": "2026-11-27T10:30:57.000Z",
+      "collectedAt": "2026-11-27T20:56:38.632Z",
+      "text": "Nvidia Freezes AI Server Shipments to Four Southeast Asian Countries Amid a US Crackdown on Remote Chip Access Summary Nvidia has ordered its manufacturing partners to halt shipments of servers equipped with advanced AI chips to four Southeast Asian nationsThe suspension aims to stop Chinese technology companies from circumventing U.S. export controls through remote data center accessThe freeze acts as a stopgap until the Trump administration finalizes stricter guidelines regarding foreign cloud-based computing In a major disruption to the global technology supply chain, Nvidia formally ordered its manufacturing partners to stop shipping servers containing advanced AI chips to four key Southeast Asian countries. The sweeping shipment suspension directly impacts operations in Indonesia, Malaysia, Singapore and Thailand. According to initial reports from the Financial Times, prominent manufacturing partners, including Dell, already contacted buyers in the affected countries to inform them that Nvidia will not allow their pending orders to ship.The sudden freeze targets a specific operational model dominating the region. Data center operators acquiring hardware to rent out concentrated computing power to other businesses represent the primary customers for these high-end servers in Southeast Asia. Critically, some of the companies paying to lease this digital infrastructure from these Southeast Asian data centers are based in China. Chinese technology companies have increasingly utilized this rental strategy to circumvent U.S. export controls on powerful Nvidia chips, securing the necessary computational muscle by partnering with data centers safely located in non-embargoed countries.This decisive supply chain halt represents a direct response to escalating federal efforts to close the remote-access loophole that keeps Chinese enterprises connected to advanced American hardware. The U.S. Commerce Department aggressively moves to restrict Chinese technology firms from remotely accessing American-made chips through proxy companies based in Southeast Asia and Brazil. Driving this regulatory shift, the Bureau of Industry and Security published an interim final rule on November 19, 2026, specifically designed to address remote access to advanced super intelligence chips and servers. By forcing a hardware freeze at the manufacturing level, the mandate effectively severs the physical supply line that makes cloud-based evasion possible while federal regulators pivot "
+    },
+    {
+      "id": "fb21892215b2a326",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Palace Skateboard's Beijing Flagship Takes Its Cues From the Great Wall",
+      "url": "https://hypebeast.com/2026/11/palace-skateboards-beijing-flagship-store-opening-info-announcement",
+      "publishedAt": "2026-11-27T09:56:49.000Z",
+      "collectedAt": "2026-11-27T20:56:38.632Z",
+      "text": "Palace Skateboard's Beijing Flagship Takes Its Cues From the Great Wall Summary Palace Skateboards is opening a two-story flagship in Beijing's Taikoo Li Sanlitun, designed around the brickwork of the Great WallGlass bricks, backlit green onyx and Chinese rosewood fill the space, alongside a hand-painted porcelain vase, a Tri-ferg fountain and a custom pianoA Beijing-exclusive capsule of tracksuits, hoodies and T-shirts pairs Tri-ferg graphics with Chinese zodiac motifs Palace Skateboards is opening its Beijing flagship in Taikoo Li Sanlitun, a 211.3-square-meter store that takes the Great Wall as its main reference. The design turns the landmark's repeating brick construction and sense of continuity into a series of materials and set pieces, filtered through the Tri-ferg graphics and tongue-in-cheek details Palace is known for.The building materials carry most of the Great Wall reference. Glass bricks and stone floors recreate the pattern and texture of the wall's masonry, while the plinths throughout the store are clad in green onyx marble. Because the onyx is translucent, Palace can light it from behind the brickwork so that Tri-ferg and P-shaped signage glows through the stone. Rosewood rounds out the palette, adding a second nod to Chinese materials and craftsmanship.The ground floor is laid out in an L shape, with a narrow entrance side that opens into a larger room. Just inside the door, Palace signage hangs from the ceiling, lit on both sides so it seems to float, and a mirrored back wall doubles the effect. The first object visitors see is a 2-meter blue-and-white porcelain vase in the traditional Chinese style, hand-painted with Palace artwork and flanked by a glass brick wall and an illuminated P-shaped brick feature.The larger side of the floor is built around a stone fountain shaped like the Tri-ferg, with two video walls set into the surrounding facade. Outside, an oversized bulldog sculpture leans out from the alley holding up Tri-ferg signage. An illuminated three-dimensional Tri-ferg marks the second-floor entrance, matching the signage at Palace's Shanghai store so the two Chinese locations look related.The second floor continues the same ideas at a more relaxed scale. A brick wall lit with Tri-fergs sits near a custom piano finished in Chinese rosewood, with a P that lights up on its lid and a matching Tri-ferg-shaped stool. LED video walls run across both levels, adding motion to a space otherwise defined by stone, glass and wood.Palace"
+    },
+    {
+      "id": "9e85c3fd74280d01",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Innioasis Launches the Y2, a $79.99 USD Music Player That Brings Back iPod-Style Scrolling",
+      "url": "https://hypebeast.com/2026/11/innioasis-y2-music-player-debuts-with-touch-scroll-ring",
+      "publishedAt": "2026-11-27T09:30:06.000Z",
+      "collectedAt": "2026-11-27T20:56:38.632Z",
+      "text": "Innioasis Launches the Y2, a $79.99 USD Music Player That Brings Back iPod-Style Scrolling Summary The Innioasis Y2 Music Player revives classic tactile navigation with an iPod-style touch-sensitive scroll ringThe offline-only device skips streaming apps in favor of user-loaded MP3s, lossless FLAC files and audiobooksHardware features include a small color screen, expandable microSD storage and both wired and Bluetooth headphone support The digital audio landscape is taking a calculated step backward as offline listening stages a cultural return, and the newly introduced Innioasis Y2 Music Player stands at the forefront of this shift. Arriving as a direct successor to the brand’s previous Y1 player, the dedicated digital audio player utilizes an iPod-style touch-sensitive scroll ring to navigate its menus. The release taps into a growing hardware niche for distraction-free, offline audio devices that deliberately revive the classic tactile interfaces popularized throughout the mid-2000s. Measuring just four inches tall and less than half an inch thick, the compact hardware centers its design around a small color screen positioned directly above the touch-sensitive ring, offering a customizable interface that allows users to change the display theme.Rather than relying on moving parts, the navigation wheel does not physically spin. Users simply slide their thumb around the surface to scroll through lists, ultimately pressing the center of the ring to make a selection. The outer edges of the touch ring act as controls for going back, skipping tracks and pausing playback. To streamline the listening experience, dedicated volume buttons are located entirely on the side of the device.Rejecting the modern always-on ecosystem, the device strictly plays user-loaded files and does not run streaming apps like Spotify, Apple Music or Audible. Owners must build their libraries manually, utilizing an integrated USB-C port for transferring media files from a computer. For listeners with massive archives, a microSD slot is built into the device for expanding the storage library. The system supports MP3s as well as high-fidelity lossless audio formats such as FLAC, while possessing the ability to import and export M3U playlists.Beyond standard track curation, the Innioasis Y2 supports video playback and caters to literary listeners with dedicated features that can resume audiobooks from the exact point a user stopped listening. That audiobook playback also includes an adj"
+    },
+    {
+      "id": "7123552cbd840f83",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Jyodan and Amiide on Turning Noriko Kose’s “Still I Miss You” Into an Award-Winning Sampling Contest Track",
+      "url": "https://hypebeast.com/2026/11/jyodan-amiide-but-i-still-miss-u-release-interview",
+      "publishedAt": "2026-11-27T09:00:56.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Jyodan and Amiide on Turning Noriko Kose’s “Still I Miss You” Into an Award-Winning Sampling Contest Track Noriko Kose's \"Still I Miss You\" — a masterpiece famously sampled in Nujabes' iconic \"Reflection Eternal\" and cherished globally as part of the DNA of lo-fi and jazzy hip-hop — has been breathed new life. Released in October 2025, \"Still I Miss You\" is a piano instrumental created by Kose as a self-homage to that very song.Using this track as their sampling source, Jyodan and Amiide took the grand prize in an official sampling contest co-hosted by Tribe (a sub-label of Hydeout Productions), SURF Music, and Hypebeast. Longtime collaborators who previously gained a core following as members of the hip-hop crew CIRRRCLE and who now operate out of Hawaii and London/Tokyo as solo artists and as the duo Otomodatchi, the pair crafted the track \"but, I still miss U\" out of respect for the original. While preserving Kose's beautiful piano melody, they elevated it into a new classic that bridges past, present, and future.Loved by listeners since its digital drop in January 2026, the track will see a physical 7-inch vinyl release on Sunday, December 27. To mark this milestone, Hypebeast conducted an exclusive interview with the duo. They discussed the story behind their winning track, their musical backgrounds, their current cross-border creative resonance, and their vision for the future.We wanted to convey that the story is still ongoing by inserting 'but'Hypebeast: Tell us about the production process for the winning track. How did you divide the work?Amiide (A): As soon as I heard the original track we were sampling, I made a beat and sent it to Jyodan, saying, \"Try laying down some rap on this.\" He sent vocals back, and from there I did the arrangements and fine-tuning.How long did it take to finish?A: The total production time was about two or three weeks.Jyodan (J): I think I wrote the lyrics in a few hours. We split the recording sessions into two parts.A: Where did you get the idea for the lyrics? For this track, you added the word \"but\" to Noriko Kose's original title, \"Still I Miss You,\" to create \"but, I still miss you.\"J: Yeah, I deliberately added \"but.\" I wanted to choose words that leave a big impact without using too many of them. That one word \"but\" was incredibly important. In everyone's life, there are moments when you suddenly remember a certain point in the past, right? Anytime, anywhere. By inserting \"but,\" I wanted to create the feeling t"
+    },
+    {
+      "id": "b6527707e18a3e1f",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Apple Captures 57% of US Smartphone Shipments in Q3 2026",
+      "url": "https://hypebeast.com/2026/11/apple-dominates-us-smartphone-market-with-57-share-in-q3",
+      "publishedAt": "2026-11-27T08:30:56.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Apple Captures 57% of US Smartphone Shipments in Q3 2026 Summary Apple captured 57% of the US smartphone market in Q3 2026 despite a broader industry downturnRising memory costs squeezed competitors and heavily impacted the low-end Android segmentSamsung emerged as the only major Android brand to grow its market share during the quarter Apple dominated the domestic hardware scene in the third quarter of 2026, capturing 57% of all US smartphone shipments. According to a Counterpoint Research report released on November 26, 2026, Apple grew its market share from 50% the previous year even as overall US smartphone shipments fell 9% year-over-year. The company stood as the only major smartphone maker to avoid a year-over-year decline in shipment volume during the quarter.This market share surge highlights a structural advantage for Apple when navigating component shortages and rising costs. While elevated memory costs squeezed the broader Android segment and forced competitors to raise prices, Apple kept iPhone pricing largely stable before releasing the iPhone 18 Pro lineup in September. Absorbing economic friction without passing the immediate burden onto consumers effectively weaponized Apple’s supply chain against rivals. Rising memory costs hit low-end Android smartphones particularly hard during the third quarter, turning an industry-wide supply issue into a competitive edge for the iOS ecosystem.Samsung managed to carve out a localized victory amidst the broader Android struggle. The South Korean company was the only major Android smartphone maker to increase its shipment share, gaining one percentage point to capture 25% of the US market. Samsung achieved this growth through a device portfolio that spanned both ultra-premium flagship models and the low-end Galaxy A-series. Other brands in the Android market lost ground, illustrating how brutal the third quarter was for manufacturers lacking scale to weather sudden spikes in production expenses.The market downturn also affected the telecommunications sector, with smartphone sales across the three major US carriers falling 4% year-over-year. Looking ahead, Counterpoint Research projects that memory costs will remain elevated for the foreseeable future, creating a persistent roadblock for hardware manufacturers. Consequently, US carriers are expected to be much more selective with their holiday promotions moving forward. Because of these compounding headwinds, overall smartphone sales are expected to rema"
+    },
+    {
+      "id": "65c502b1c77f03bf",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Ford Goes Like Hell Again With the Le Mans-Bound GT41 Hypercar",
+      "url": "https://hypebeast.com/2026/11/ford-gt41-wec-hypercar-release-info",
+      "publishedAt": "2026-11-27T08:14:06.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Ford Goes Like Hell Again With the Le Mans-Bound GT41 Hypercar Summary Ford unveils the GT41 with a Zack Snyder film narrated by Matt Damon.Standing 41 inches tall, it pairs a 5.4-liter V8 with hybrid power.Racing starts in Qatar in March 2027 before Le Mans in June. Ford Racing has officially unveiled the Ford GT41, the all-new Hypercar spearheading its 2027 return to the top class of the FIA World Endurance Championship (WEC) and the 24 Hours of Le Mans. Making its public debut at Detroit’s Ford Field during the Thanksgiving Day clash between the Detroit Lions and Chicago Bears, the GT41 arrives 60 years after the marque’s historic 1966 1-2-3 Le Mans sweep.To celebrate the occasion, Ford tapped Zack Snyder and Matt Damon to create a cinematic anthem film. Shot in and around Los Angeles, the film tracks the GT41 being loaded into a shipping container bound across the Atlantic for Circuit de la Sarthe. Nodding to its heritage, the loading scene takes place inside the same hangar featured as the GT40 race workshop in Ford v Ferrari, with Damon, who portrayed Carroll Shelby in the film, lending his voice to narrate the next chapter of Ford’s enduring legacy.Named as a direct successor to the four-time Le Mans-winning GT40, the GT41 derives its name from standing 41 inches tall from the ground to its air intake. Beneath its blue-on-blue reveal livery, accented with hidden motifs of the American flag, a bald eagle, and Detroit’s “The Spirit of Detroit” sculpture, sits a 5.4-liter naturally aspirated Coyote-based V8 paired with a hybrid system. Its development draws directly from Ford’s Formula 1 partnership with Red Bull.Following European testing, testing shifts to the U.S. this December and January ahead of the 2027 WEC opener in Qatar next March and Le Mans in June. Watch the full anthem film below and take a closer look at the GT41 in the gallery above. View this post on InstagramA post shared by Ford Racing (@fordracing) Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "0acc0210aa8b2da2",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "FREE THE YOUTH Unveils Friends & Family Exclusive Air Jordan 16 Evoking the EVA Unit-01",
+      "url": "https://hypebeast.com/2026/11/free-the-youth-air-jordan-16-friesnds-family-model-release-info",
+      "publishedAt": "2026-11-27T08:05:58.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "FREE THE YOUTH Unveils Friends & Family Exclusive Air Jordan 16 Evoking the EVA Unit-01 Ghana-based creative collective FREE THE YOUTH has unveiled a Friends & Family exclusive model of the Air Jordan 16.The group drew attention earlier this year with the release of a metallic silver Air Jordan 16. The newly revealed model features a purple and green color scheme that brings to mind Evangelion Unit-01 from \"Neon Genesis Evangelion.\"The upper combines glossy purple patent leather with pebbled leather, accented by neon green mesh panels. The laces are adorned with orange dubraes. Additionally, the removable black pony hair shroud is set with three silver studs. A playful detail lies beneath the shroud: flipping it back reveals a blue and orange feather wing graphic.Currently, this model has been revealed strictly as a Friends & Family exclusive, and no information regarding a general release has been announced. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "91f650456f1a1bc0",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Rockstar Developers Detail the 'GTA VI' Features That Got Cut",
+      "url": "https://hypebeast.com/2026/11/rockstar-games-grand-theft-auto-gta-vi-developers-reveal-features-didnt-make-game",
+      "publishedAt": "2026-11-27T07:40:32.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Rockstar Developers Detail the 'GTA VI' Features That Got Cut Summary Rockstar North developers revealed in an interview with German outlet 'PC Games' that several planned 'GTA VI' features were scrapped during developmentTennis, cinema and theater visits, crawling, home decorating and crafting were all considered before being droppedThe reasons ranged from quality concerns to features that didn't fit the game's story or felt too passive Grand Theft Auto VI arrived with a long list of activities across Leonida, but Rockstar has now confirmed that several more were dropped before launch. In an interview with PC Games during the review period, Rockstar North development manager Rob Nelson and design producer Scott Mitchell went through the mechanics and pastimes that were planned for Jason and Lucia and didn't make the final game.The biggest cut is tennis. The sport was a playable side activity in GTA V and was planned for its sequel, but according to the developers, Rockstar was never happy enough with how it played to ship it. Mini golf, on the other hand, made it into the final game, so Leonida still has at least one leisure sport.Movie and theater outings were removed for a different reason. A cinema visit or a night at the theater was considered as a way to fill downtime, but Rockstar decided these were too passive. In a game built around player control, sitting and watching apparently didn't give players enough to do.A third group of cuts dealt with how the two protagonists move through and live in their world. The team looked at letting Jason and Lucia crawl along the ground, decorate their homes and craft items. The developers said some of these ideas were dropped because they clashed with the story or the core gameplay loop, although the interview doesn't say which reason applied to which feature or how far each one got before it was cut.What did make it in reflects where Rockstar spent its effort. Nelson said the studio is proudest of the relationship between Lucia and Jason, and that the slower pacing of Red Dead Redemption 2 shaped the quieter, character-focused moments between missions. That focus seems to have paid off: GTA VI holds a Metascore of 99, matching The Legend of Zelda: Ocarina of Time for the top score in the aggregator's history. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "af86e7ffc2e9df84",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 \"Barley\"",
+      "url": "https://hypebeast.com/2026/11/cactus-plant-flea-market-cpfm-nike-flea-1-barley-iu5238-700-official-images",
+      "publishedAt": "2026-11-27T06:33:07.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Official Images of the Cactus Plant Flea Market x Nike Flea 1 \"Barley\" Name: Cactus Plant Flea Market x Nike Flea 1 “Barley”Colorway: Barley/Desert Moss-Brown Basalt-SailSKU: IU5238-700MSRP: $180 USDRelease Date: December 2026The Cactus Plant Flea Market x Nike Flea 1 \"Barley\" is back on the calendar, giving a colorway that never made it to shelves in 2022 a second shot at release. New photos show a deliberately oversized take on the Flea 1, with a quilted upper in Barley/Desert Moss-Brown Basalt-Sail that leans into the model's offbeat proportions.The upper carries most of the shoe's personality. Quilted panels in Barley are stuffed with enough padding to give the silhouette a swollen, cushy shape that's closer to a sleeping bag than a sneaker. That puffiness, together with the oversized cut, explains why the Flea 1 stands out as one of the stranger models in the CPFM and Nike catalog.The sole is just as unconventional. Instead of sitting neatly under the foot, the thick, lumpy unit climbs up the sides and wraps around the upper, blurring the line between midsole and body. Desert Moss and Brown Basalt run through the sole and the surrounding trim, adding earthy contrast to the warm Barley base.The branding is equally irregular. An oversized Sail Swoosh carried over from the original design gives the shoe its main graphic, while the lateral side has a cropped Swoosh. A third, smaller Swoosh near the ankle collar points backward, adding to the off-kilter look of the whole pair.These pictures matter because of the colorway's history. The \"Barley\" pair was originally pulled in 2022 over sizing issues, while the \"Overgrown\" version from the same partnership did release. Since the photos come from an independent source rather than Nike, final details could still change before launch. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "2aa231dc02bab8b9",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Toyota Turns Its Workhorse Into a Showstopper With the Hilux Hyper Z Prototype",
+      "url": "https://hypebeast.com/2026/11/toyota-hilux-hyper-z-prototype-info",
+      "publishedAt": "2026-11-27T06:18:47.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Toyota Turns Its Workhorse Into a Showstopper With the Hilux Hyper Z Prototype Summary Toyota debuts the Hilux Hyper Z Prototype, inspired by Thailand’s custom truck scene.The bedless build features a racing cabin, towering wing, and 22-inch wheels.Strictly a design study, no production version expected. Toyota has unveiled a radical interpretation of one of its vehicles with the Hilux Hyper Z Prototype. Developed by Toyota Design Australia from an idea first explored in 2024, the build introduces a slammed, motorsport-inspired silhouette atop the new Hilux Travo Z Edition as a nod to Thailand’s custom pickup scene.Toyota overhauls the truck’s proportions and turns it into a wide, track-inspired machine. Measuring 5,360 mm long, 2,203 mm wide, and just 1,513 mm tall on a 3,085-mm wheelbase, the Hyper Z pairs a contrasting black hood and roof with white bodywork, swollen fenders, and thick black side skirts. A honeycomb lower grille spelling out “HILUX” sits above a low front splitter, while 22-inch wheels wrapped in 325/35 R22 Pirelli P Zero tires wear white aero covers lined with Toyota lettering. Inside the cabin, it’s thoroughly motorsport-inspired, featuring a roll cage, black racing seats and digital gauges.In order to accommodate the towering rear wing, the Hyper Z eliminates both its tailgate and cargo bed, and added a sculpted black aero tray with illuminated “HILUX” lettering. Working alongside a front splitter, ground-effect underbody, and honeycomb rear diffuser, the wing helps manage airflow and cooling. Additional notable details include vertical LED taillights, “Hyper Z” rear fender graphics, and a “98 Hilux Prototype” door decal.Positioned strictly as a design study for now, the Hilux Hyper Z Prototype aims to inspire new customization trends across Thailand’s aftermarket scene. Take a closer look at the prototype in the gallery above. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "35f6f9d51a6f0a65",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "JW Anderson Debuts Its First-Ever Sneaker With the Vintage-Inspired Anchor",
+      "url": "https://hypebeast.com/2026/11/jw-anderson-the-anchor-sneaker-se0036la0431600-release-info",
+      "publishedAt": "2026-11-27T06:17:17.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "JW Anderson Debuts Its First-Ever Sneaker With the Vintage-Inspired Anchor Summary JW Anderson’s first sneaker, the Anchor, draws from vintage running proportions.Made in Italy, its nylon and suede upper pairs anchor and Run Rabbit motifs.Four colorways are available now via JW Anderson for $595 USD. Name: JW Anderson The Anchor SneakerColorway: Blue, Tan, Off White, BrownSKU: SE0036LA0431600MSRP: $595 USDRelease Date: November 26Where to Buy: JW AndersonJW Anderson introduces an athletic dimension to its wardrobe with the Anchor Sneaker, the label’s first-ever sneaker. Inspired by vintage running shoe proportions, Jonathan Anderson frames the new shoe around ergonomic asymmetry, comfort, character, and detail.Across the upper, Italian shoemaking meets classic sportswear. Made in Italy from nylon and Italian calf suede, the shoe prominently features the house’s signature anchor motif, taken from Anderson’s grandfather’s coat of arms, while a blind-embossed JW Anderson logo offers a discreet finishing touch.Underfoot, cushioned construction and a lightweight EVA rubber sole offer comfort and ease of movement. A playful Run Rabbit charm, a familiar motif seen across the house’s ready-to-wear, has been added to the laces.Arriving in Blue, Tan, Off White, and Brown, the design injects the ordinary running shoe with JW Anderson’s unconventional visual language. The Anchor Sneaker is available now for $595 USD via JW Anderson’s website and physical locations. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "a0b0864a76f687da",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Madhappy x Disney Launches a New Collection Inspired by Vintage Archives",
+      "url": "https://hypebeast.com/2026/11/madhappy-x-disney-aw26-collaboration-collection-release-info",
+      "publishedAt": "2026-11-27T06:16:03.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Madhappy x Disney Launches a New Collection Inspired by Vintage Archives Los Angeles-based label Madhappy and Disney have unveiled the \"FW26 Collaboration Collection,\" the latest chapter in their ongoing partnership. Drawing on vintage graphics from the Disney archives, the collection reimagines artwork of Mickey Mouse, Pluto, and the rest of the \"Mickey & Friends\" crew through Madhappy’s signature color palettes and silhouettes.The extensive lineup spans knits, fleeces, sweats, T-shirts, and headwear. Standout pieces boldly incorporate character graphics, featuring a Mickey Mouse knit bomber jacket and jogger pants accented with star patterns, alongside a zip-up knit showcasing both Mickey and Pluto. The collection also includes fleece zip-ups and sweatpants highlighting Mickey's various expressions, heart-motif hoodies, and ringer tees, while Pluto takes center stage on his own dedicated zip-ups and straight-leg sweatpants.Rounding out the offering are Mickey Mouse knit polos and lightweight cardigans, logo-emblazoned heavyweight T-shirts, and character-adorned caps. The result is a collection that perfectly marries Disney’s nostalgic visuals with Madhappy’s core philosophy of optimism.The collection will roll out starting Friday, November 27, 2026, at 12:00 PM on the Madhappy Japan official online store and at the Madhappy Tokyo Store. Prices range from ¥15,400 to ¥56,100. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "7719772317d5bcc6",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Salomon Launches Fall/Winter 2026 Holiday Capsule Featuring All-Weather Models",
+      "url": "https://hypebeast.com/2026/11/salomon-2026-autumn-winter-holiday-xt-6-relese-info",
+      "publishedAt": "2026-11-27T06:11:13.000Z",
+      "collectedAt": "2026-11-27T20:56:38.633Z",
+      "text": "Salomon Launches Fall/Winter 2026 Holiday Capsule Featuring All-Weather Models French outdoor brand Salomon has unveiled its all-weather holiday capsule, ALL-WEATHER HOLIDAY SEASON ESSENTIALS.The collection updates the brand's signature trail running shoes—the XT-6, XT-4 OG, and XT-WHISPER—by outfitting each model with GORE-TEX. Blending functionality cultivated in the great outdoors with urban design, the lineup is built to handle winter travel, city walks, and sudden weather changes.The XT-4 OG GTX resurrects an archival trail running shoe, remaining faithful to its original design. In addition to GORE-TEX waterproofing, a full-length Agile Chassis™ Skeleton provides stability, while a dual-density EVA midsole supports long walks. It comes in \"Spellbound / Maritime Blue / Maroon Banner\" and is priced at 34,100 yen (tax included).The XT-WHISPER GTX maintains a lightweight and agile feel while offering GORE-TEX waterproofing and breathability. Featuring enhanced durability, the shoe is available in \"Silver Sage / Huckleberry / Maroon Banner\" for 26,400 yen (tax included).The XT-6 GTX employs a PFC-free GORE-TEX ePE membrane to protect feet from winter rain and moisture. Combining a closed mesh upper with anti-debris properties and coated Quicklace, it ensures stability with its downhill chassis and lug geometry. Available in two colors—\"White Pepper / Shadow Gray / Huckleberry\" and \"Mustang / Bitter Chocolate / Green Gables\"—both are priced at 31,900 yen (tax included).Salomon's Fall/Winter 2026 holiday capsule launches on Friday, November 27. The brand is also running a holiday campaign from that day through Friday, December 25. A gift box (880 yen) comes with a shopper bag and sticker, with limited-edition designs also available. Additionally, customers who purchase a gift box and a pair of shoes will receive an original snow globe. All items are available in limited quantities, with the campaign kicking off at select stores on Saturday, November 28. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "fd39179126e2d8c1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "ROA x C.P. Company Announce First Collaboration",
+      "url": "https://hypebeast.com/2026/11/roa-c-p-company-collabo-collection-release-info",
+      "publishedAt": "2026-11-27T06:10:41.000Z",
+      "collectedAt": "2026-11-27T20:56:38.634Z",
+      "text": "ROA x C.P. Company Announce First Collaboration Italian footwear brand ROA and Italian luxury sportswear brand C.P. Company have announced their first collaborative collection. The two Italian brands, which have pursued design through different approaches, fuse technical outdoor gear with advanced sportswear, centering on a shared attitude toward material and manufacturing research and functionality.At the center of the collection is the NUNA 800 Fill Power Hooded Down Jacket, a reimagining of C.P. Company's iconic Goggle Jacket through ROA's lens. It features 10D water-repellent ripstop nylon filled with 800-fill-power down, and a custom collaboration lens on the left cuff. It comes in \"DARK BROWN\" and is priced at 163,900 yen.The apparel lineup also includes the WAMA Merino 3D Seamless Long Sleeve, made using Aquafil's Dryarn®, wool, polyester, and elastane. By minimizing seams with 3D seamless technology and adopting textures designed for specific parts of the body, it pursues lightweight performance and temperature regulation. Available in two colors, \"DARK BROWN\" and \"BURGUNDY,\" it is priced at 64,900 yen.For footwear, the Cingino debuts featuring both brands' logos. This pair combines a water-repellent nylon upper with a waterproof membrane lining, a rubberized toe, and a Vibram® XS Trek outsole. It also features an extended lacing system that allows for fine adjustments, enhancing fit, grip, and protection on uneven terrain. In addition to airbrushing and stonewashing, the rubber parts are hand-finished to create a worn-in look. It comes in \"DARK BROWN\" and is priced at 67,100 yen.In addition, the Nuna Comfortable Packable Bag, made of water-repellent micro-ripstop nylon, is also available. The jacket and bag have been overdyed with pigments, expressing a dusty texture through the uneven fixation of dyes on the fabric. Furthermore, multiple dyeing processes are combined for the knit to create an iridescent luster and two-tone texture. From material selection to dyeing and processing, the experimental craftsmanship of both brands is reflected.A short film conveying the collection's worldview has also been released. Directed by Niccolò Bassetto, it was filmed at an altitude of 2,800 meters at the summit of Cima di Pietra Rossa in Val Cane, Italy. Starring actor Lorenzo Gioielli, it portrays fragmented memories of a night spent in a harsh mountain landscape.The ROA x C.P. Company collaboration collection goes on sale today, Friday, November 27, at C.P."
+    },
+    {
+      "id": "5a7454e905fcda0a",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "Kith x UNITED ARROWS & SONS x New Balance Unveil the 990v3 Made in USA",
+      "url": "https://hypebeast.com/2026/11/kith-united-arrows-sons-new-balance-990v3-made-in-usa-release-info",
+      "publishedAt": "2026-11-27T06:10:09.000Z",
+      "collectedAt": "2026-11-27T20:56:38.634Z",
+      "text": "Kith x UNITED ARROWS & SONS x New Balance Unveil the 990v3 Made in USA Kith, UNITED ARROWS & SONS, and New Balance have announced a triple-collaboration 990v3 Made in USA. Celebrating Kith's 15th anniversary, this collection features two models: a reinterpretation of the iconic colorway introduced by UNITED ARROWS & SONS in 2008, and a new black-based version.This marks the third collaboration between Kith and UNITED ARROWS & SONS. Its origins trace back to the 997.5 Made in USA, released in 2008 by UNITED ARROWS & SONS' Beauty & Youth label. Featuring a gray suede base with purple and pink accents, this colorway is cited by Kith founder Ronnie Fieg as his \"favorite New Balance colorway ever.\" In 2018, a reimagined 997.5 Made in USA with this color scheme debuted, followed by a three-way 990v4 Made in USA in men's and kids' sizes in 2022. Now, coinciding with Kith's 15th anniversary, it is reborn as the 990v3 Made in USA.The first pair is \"Oyster Mushroom/Liberty,\" which inherits the original color scheme. Light gray pigskin suede overlays a dark gray mesh upper, while purple is used on the perforated toe and collar panels. Pink is placed on the N logo, midsole, and heel window, creating a color contrast reminiscent of the 2008 original. The black tongue and heel tab incorporate details carried over from past collaborations.The other, \"Black/Oyster Mushroom,\" is a model combining dark gray mesh and black pigskin suede. Light gray panels are placed on the toe and collar, while neon green is inserted into the N logo, midsole, and heel window, adding a vibrant accent to the monotone base.Both models feature dubraes engraved with the Kith and UNITED ARROWS & SONS logos. The insoles display Kith's 15th-anniversary logo alongside the branding of all three labels. Furthermore, they are presented in special-edition packaging commemorating the collaboration, including a dust bag and a shoebox lid illustrated with each colorway.The Kith x UNITED ARROWS & SONS x New Balance 990v3 Made in USA is available starting today, Friday, November 27, at Kith Tokyo, Kith Osaka, the Kith official online store, the Kith App, and UNITED ARROWS & SONS Shibuya. They are priced at ¥59,400 (tax included) each. Click here to view full gallery at Hypebeast"
+    },
+    {
+      "id": "531ec84d6d7f6cd1",
+      "sourceId": "hypebeast",
+      "sourceName": "Hypebeast",
+      "sourceWeight": 0.85,
+      "title": "TOGA Drops Limited-Edition Sweatshirts Reimagining Champion's Reverse Weave",
+      "url": "https://hypebeast.com/2026/11/toga-champion-reverse-weave-exclusive-collection-info",
+      "publishedAt": "2026-11-27T06:09:34.000Z",
+      "collectedAt": "2026-11-27T20:56:38.634Z",
+      "text": "TOGA Drops Limited-Edition Sweatshirts Reimagining Champion's Reverse Weave TOGA, the label helmed by Yasuko Furuta, has unveiled an exclusive collection with American athletic wear brand Champion. The release features two styles—a crewneck sweatshirt and a hoodie—that take the authentic silhouette of Champion’s signature Reverse Weave as their base, updated with boldly printed, colorful TOGA logos.Reverse Weave is Champion’s proprietary construction method that prevents vertical shrinkage by cutting the fabric on the cross-grain rather than the standard vertical grain, while utilizing expansion gussets on the sides to manage horizontal shrinkage. For this special collaboration, the pieces retain these functional details while introducing TOGA's original cropped-length pattern exclusively for the size small, bringing a unique silhouette and fresh proportions to an everyday staple.Available in three colors—gray, navy, and black—the crewneck sweatshirt retails for 26,400 yen and the hoodie for 28,600 yen. Both styles come in sizes S, M, L, and XL. A pre-sale kicks off at TOGA ISETAN SHINJUKU on Wednesday, December 2. The collection will then officially launch on Friday, December 4, at TOGA standalone boutiques, the label's official online store, and Rakuten Fashion. (*All prices include tax.) Click here to view full gallery at Hypebeast"
     }
   ]
 }
