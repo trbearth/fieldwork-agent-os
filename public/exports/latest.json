@@ -1,10 +1,10 @@
 {
   "run": {
-    "id": "2026-11-27",
+    "id": "2026-11-28",
     "mode": "live",
-    "displayDate": "NOV 27, 2026, 03:56 PM EST",
-    "generatedAt": "2026-11-27T20:56:39.904Z",
-    "itemsCollected": 52,
+    "displayDate": "NOV 28, 2026, 02:46 PM EST",
+    "generatedAt": "2026-11-28T19:46:44.192Z",
+    "itemsCollected": 16,
     "sourcesRead": 3,
     "sourceResults": [
       {
@@ -15,7 +15,7 @@
       {
         "source": "Highsnobiety",
         "status": "ok",
-        "count": 10
+        "count": 5
       },
       {
         "source": "Hypebeast",
@@ -30,19 +30,19 @@
       "id": "quiet-performance",
       "name": "Quiet performance",
       "stage": "emerging",
-      "score": 79,
-      "confidence": 44,
+      "score": 55,
+      "confidence": 45,
       "youthRelevance": 60,
       "direction": "up",
       "thesis": "Quiet performance is appearing across 2 independent public sources.",
-      "whyNow": "3 mentions this week versus 1 in the prior seven-day window.",
-      "evidence": "3 observations · 2 independent sources · +200% seven-day velocity",
+      "whyNow": "3 mentions this week versus 2 in the prior seven-day window.",
+      "evidence": "3 observations · 2 independent sources · +50% seven-day velocity",
       "citations": [
         {
-          "title": "One Good Packable Tote That Actually Looks Chic",
+          "title": "New Balance’s Waterproof Skate Shoe Is Basically a Thrash-able Winter Boot",
           "source": "Highsnobiety",
-          "date": "Nov 26",
-          "url": "https://www.highsnobiety.com/p/one-good-keychain-that-turns-into-tote-jane-wade-keote/"
+          "date": "Nov 28",
+          "url": "https://www.highsnobiety.com/p/premier-new-balance-numeric-gore-tex-770/"
         },
         {
           "title": "ROA x C.P. Company Announce First Collaboration",
@@ -94,11 +94,11 @@
     "body": "If source diversity and velocity persist for two more runs, test quiet performance in a small experiment rather than treating it as a forecasted fact."
   },
   "batch": {
-    "code": "AUTO 1127",
+    "code": "AUTO 1128",
     "name": "Quiet performance",
     "thesis": "A deliberately small, evidence-checking batch built around quiet performance.",
     "objects": [
-      "One Good Packable Tote That Actually Looks Chic",
+      "New Balance’s Waterproof Skate Shoe Is Basically a Thrash-able Winter Boot",
       "ROA x C.P. Company Announce First Collaboration"
     ]
   }

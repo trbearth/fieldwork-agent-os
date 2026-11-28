@@ -1,16 +1,16 @@
-# Fieldwork Daily Signal — 2026-11-27
+# Fieldwork Daily Signal — 2026-11-28
 
 Quiet performance leads today’s evidence-weighted register. Treat the result as a research prompt: inspect the citations before making a curation decision.
 
 ## 1. Quiet performance
 
-**emerging · score 79 · confidence 44% · youth 60%**
+**emerging · score 55 · confidence 45% · youth 60%**
 
 Quiet performance is appearing across 2 independent public sources.
 
-3 observations · 2 independent sources · +200% seven-day velocity
+3 observations · 2 independent sources · +50% seven-day velocity
 
-- [One Good Packable Tote That Actually Looks Chic](https://www.highsnobiety.com/p/one-good-keychain-that-turns-into-tote-jane-wade-keote/) — Highsnobiety, Nov 26
+- [New Balance’s Waterproof Skate Shoe Is Basically a Thrash-able Winter Boot](https://www.highsnobiety.com/p/premier-new-balance-numeric-gore-tex-770/) — Highsnobiety, Nov 28
 - [ROA x C.P. Company Announce First Collaboration](https://hypebeast.com/2026/11/roa-c-p-company-collabo-collection-release-info) — Hypebeast, Nov 27
 
 ## 2. Decorated basics
